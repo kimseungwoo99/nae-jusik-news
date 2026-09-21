@@ -7,6 +7,7 @@ import {
 } from "@phosphor-icons/react";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { InterestStockManager } from "../components/InterestStockManager";
 import { PageHeader } from "../components/PageHeader";
 import { useNewsData } from "../context/NewsDataContext";
 import { useBookmarks } from "../hooks/useBookmarks";
@@ -68,8 +69,10 @@ export function SettingsPage() {
     <div className="page settings-page">
       <PageHeader
         title="설정"
-        description="읽기 편한 크기로 맞추고 저장한 뉴스를 관리하세요."
+        description="볼 종목을 고르고 읽기 편한 크기로 맞추세요."
       />
+
+      <InterestStockManager />
 
       <section className="settings-section" aria-labelledby="font-size-title">
         <div className="settings-section__heading">
@@ -155,7 +158,7 @@ export function SettingsPage() {
         <ShieldCheck size={28} weight="fill" aria-hidden="true" />
         <div>
           <h2 id="privacy-title">로그인 없이 사용합니다</h2>
-          <p>글씨 크기, 새 뉴스 확인 시각, 저장한 기사는 현재 기기의 브라우저에만 남습니다.</p>
+          <p>관심 종목, 글씨 크기, 새 뉴스 확인 시각, 저장한 기사는 현재 기기의 브라우저에만 남습니다.</p>
           {data ? <small>{formatUpdateTime(data.generatedAt)}</small> : null}
         </div>
       </section>

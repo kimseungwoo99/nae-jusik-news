@@ -111,10 +111,35 @@ try {
   );
   await smokePage.getByText("현재 1개 기사").waitFor();
 
+  const samsungToggle = smokePage.getByRole("button", {
+    name: /삼성전자 005930, 관심 종목에서 제거/,
+  });
+  await samsungToggle.click();
+  const selectedStockIds = await smokePage.evaluate(() =>
+    JSON.parse(localStorage.getItem("stock-news-selected-stocks") || "[]"),
+  );
+  assert.ok(!selectedStockIds.includes("samsung"));
+  assert.ok(selectedStockIds.includes("skhynix"));
+  assert.ok(selectedStockIds.includes("hyundai"));
+
   await smokePage.goto(`${baseUrl}/#/`, { waitUntil: "networkidle" });
-  await smokePage.getByLabel("종목 뉴스 검색").fill("HBM");
-  assert.ok((await smokePage.locator(".news-card").count()) >= 2);
-  console.log("interaction-smoke: 저장/새로고침/글씨 크기/검색 동작 확인");
+  assert.equal(await smokePage.locator(".stock-card", { hasText: "삼성전자" }).count(), 0);
+  assert.equal(await smokePage.locator(".stock-card", { hasText: "SK하이닉스" }).count(), 1);
+  await smokePage.getByLabel("종목 뉴스 검색").fill("SK하이닉스");
+  assert.ok((await smokePage.locator(".news-card").count()) >= 1);
+
+  await smokePage.goto(`${baseUrl}/#/settings`, { waitUntil: "networkidle" });
+  await smokePage.getByRole("button", {
+    name: /삼성전자 005930, 관심 종목에서 추가/,
+  }).click();
+  assert.ok(
+    await smokePage.evaluate(() =>
+      JSON.parse(localStorage.getItem("stock-news-selected-stocks") || "[]").includes(
+        "samsung",
+      ),
+    ),
+  );
+  console.log("interaction-smoke: 저장/새로고침/글씨 크기/관심 종목/검색 동작 확인");
   await smokePage.close();
 } finally {
   await browser.close();

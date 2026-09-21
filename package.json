@@ -8,6 +8,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "icons:generate": "node scripts/generate-icons.mjs",
+    "stock:add": "tsx scripts/add-stock.ts",
     "news:update": "tsx scripts/fetch-news.ts",
     "test": "tsx --test scripts/*.test.ts",
     "visual:check": "node scripts/visual-check.mjs"

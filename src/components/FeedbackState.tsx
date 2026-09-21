@@ -1,4 +1,5 @@
 import { ArrowClockwise, NewspaperClipping } from "@phosphor-icons/react";
+import type { ReactNode } from "react";
 
 export function LoadingCards({ count = 3 }: { count?: number }) {
   return (
@@ -39,15 +40,18 @@ export function ErrorState({
 export function EmptyState({
   title,
   description,
+  action,
 }: {
   title: string;
   description: string;
+  action?: ReactNode;
 }) {
   return (
     <div className="feedback-card">
       <NewspaperClipping size={38} weight="regular" aria-hidden="true" />
       <h2>{title}</h2>
       <p>{description}</p>
+      {action}
     </div>
   );
 }

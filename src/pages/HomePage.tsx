@@ -9,30 +9,30 @@ import { EmptyState, ErrorState, LoadingCards } from "../components/FeedbackStat
 import { NewsCard } from "../components/NewsCard";
 import { SearchField } from "../components/SearchField";
 import { StockCard } from "../components/StockCard";
-import { stocks } from "../config";
 import { useNewsData } from "../context/NewsDataContext";
 import { useBookmarks } from "../hooks/useBookmarks";
+import { useSelectedStocks } from "../hooks/useSelectedStocks";
 import { formatUpdateTime, isTodayInSeoul } from "../utils/date";
 
 export function HomePage() {
   const [query, setQuery] = useState("");
   const { data, loading, error, isNewArticle, retry } = useNewsData();
   const { bookmarks } = useBookmarks();
+  const { selectedStockIds, selectedStocks } = useSelectedStocks();
   const normalizedQuery = query.trim().toLocaleLowerCase("ko-KR");
+  const selectedIdSet = useMemo(() => new Set(selectedStockIds), [selectedStockIds]);
 
-  const filteredStocks = useMemo(
+  const selectedArticles = useMemo(
     () =>
-      stocks.filter((stock) =>
-        `${stock.name} ${stock.ticker} ${stock.keywords.join(" ")}`
-          .toLocaleLowerCase("ko-KR")
-          .includes(normalizedQuery),
-      ),
-    [normalizedQuery],
+      data?.articles.filter((article) =>
+        article.relatedStocks.some((stock) => selectedIdSet.has(stock.id)),
+      ) ?? [],
+    [data, selectedIdSet],
   );
 
   const searchResults = useMemo(() => {
-    if (!normalizedQuery || !data) return [];
-    return data.articles.filter((article) =>
+    if (!normalizedQuery) return [];
+    return selectedArticles.filter((article) =>
       [
         article.title,
         article.summary,
@@ -45,11 +45,11 @@ export function HomePage() {
         .toLocaleLowerCase("ko-KR")
         .includes(normalizedQuery),
     );
-  }, [data, normalizedQuery]);
+  }, [normalizedQuery, selectedArticles]);
 
-  const newTotal = data
-    ? data.articles.filter((article) => isNewArticle(article.collectedAt)).length
-    : 0;
+  const newTotal = selectedArticles.filter((article) =>
+    isNewArticle(article.collectedAt),
+  ).length;
 
   return (
     <div className="page home-page">
@@ -117,35 +117,47 @@ export function HomePage() {
                 <p className="section-kicker">관심 종목</p>
                 <h2 id="watchlist-title">어떤 뉴스를 볼까요?</h2>
               </div>
-              <span className="section-count">{stocks.length}개 종목</span>
+              <span className="section-count">{selectedStocks.length}개 종목</span>
             </div>
 
             {loading ? <LoadingCards count={3} /> : null}
             {error ? <ErrorState message={error} onRetry={retry} /> : null}
             {!loading && !error && data ? (
-              <div className="stock-list">
-                {filteredStocks.map((stock) => {
-                  const articles = data.articles.filter((article) =>
-                    article.relatedStocks.some((related) => related.id === stock.id),
-                  );
-                  const todayCount = articles.filter((article) =>
-                    isTodayInSeoul(article.publishedAt),
-                  ).length;
-                  const newCount = articles.filter((article) =>
-                    isNewArticle(article.collectedAt),
-                  ).length;
+              selectedStocks.length > 0 ? (
+                <div className="stock-list">
+                  {selectedStocks.map((stock) => {
+                    const articles = data.articles.filter((article) =>
+                      article.relatedStocks.some((related) => related.id === stock.id),
+                    );
+                    const todayCount = articles.filter((article) =>
+                      isTodayInSeoul(article.publishedAt),
+                    ).length;
+                    const newCount = articles.filter((article) =>
+                      isNewArticle(article.collectedAt),
+                    ).length;
 
-                  return (
-                    <StockCard
-                      key={stock.id}
-                      stock={stock}
-                      articleCount={articles.length}
-                      todayCount={todayCount}
-                      newCount={newCount}
-                    />
-                  );
-                })}
-              </div>
+                    return (
+                      <StockCard
+                        key={stock.id}
+                        stock={stock}
+                        articleCount={articles.length}
+                        todayCount={todayCount}
+                        newCount={newCount}
+                      />
+                    );
+                  })}
+                </div>
+              ) : (
+                <EmptyState
+                  title="선택한 관심 종목이 없습니다"
+                  description="설정에서 보고 싶은 종목을 추가해 주세요."
+                  action={
+                    <Link className="primary-button" to="/settings">
+                      관심 종목 고르기
+                    </Link>
+                  }
+                />
+              )
             ) : null}
           </section>
 

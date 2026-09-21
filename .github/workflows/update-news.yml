@@ -1,6 +1,10 @@
 name: Update stock news
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - config/stocks.json
   schedule:
     # 08:00, 12:00, 16:00, 20:00 KST (GitHub cron uses UTC)
     - cron: "0 3,7,11,23 * * *"
