@@ -3,12 +3,18 @@ import { Navigate, useParams } from "react-router-dom";
 import { DailyBrief } from "../components/DailyBrief";
 import { EmptyState, ErrorState, LoadingCards } from "../components/FeedbackState";
 import { NewsCard } from "../components/NewsCard";
+import { NewsMood } from "../components/NewsMood";
+import { NewsRelations } from "../components/NewsRelations";
 import { PageHeader } from "../components/PageHeader";
 import { findStock } from "../config";
 import { useNewsData } from "../context/NewsDataContext";
 import type { StockNewsCollection } from "../types/news";
 import { fetchStockNews } from "../utils/data";
 import { formatUpdateTime } from "../utils/date";
+import {
+  buildStockRelations,
+  summarizeStockMood,
+} from "../utils/newsAnalysis";
 
 type SortMode = "latest" | "important";
 
@@ -23,6 +29,7 @@ export function StockPage() {
   const [error, setError] = useState<string | null>(null);
   const [reloadKey, setReloadKey] = useState(0);
   const [sortMode, setSortMode] = useState<SortMode>("latest");
+  const [activeRelationId, setActiveRelationId] = useState<string | null>(null);
 
   useEffect(() => {
     if (!stock) return;
@@ -55,7 +62,21 @@ export function StockPage() {
     };
   }, [reloadKey, stock]);
 
-  const articles = useMemo(() => {
+  useEffect(() => {
+    setActiveRelationId(null);
+  }, [stockId]);
+
+  const mood = useMemo(
+    () => (collection ? summarizeStockMood(collection.articles) : null),
+    [collection],
+  );
+  const relations = useMemo(
+    () => (collection && stock ? buildStockRelations(stock, collection.articles) : []),
+    [collection, stock],
+  );
+  const activeRelation = relations.find((relation) => relation.id === activeRelationId);
+
+  const sortedArticles = useMemo(() => {
     if (!collection) return [];
     const sorted = [...collection.articles];
     if (sortMode === "important") {
@@ -73,6 +94,13 @@ export function StockPage() {
         new Date(right.publishedAt).getTime() - new Date(left.publishedAt).getTime(),
     );
   }, [collection, sortMode]);
+  const articles = useMemo(
+    () =>
+      activeRelation
+        ? sortedArticles.filter((article) => activeRelation.articleIds.includes(article.id))
+        : sortedArticles,
+    [activeRelation, sortedArticles],
+  );
 
   if (!stock) return <Navigate to="/" replace />;
 
@@ -91,6 +119,17 @@ export function StockPage() {
             stockName={stock.name}
             brief={collection.dailyBrief}
             points={collection.dailySummary}
+          />
+
+          {mood ? <NewsMood stockName={stock.name} mood={mood} /> : null}
+
+          <NewsRelations
+            stockName={stock.name}
+            relations={relations}
+            activeRelationId={activeRelationId}
+            onSelect={(relation) =>
+              setActiveRelationId((current) => current === relation.id ? null : relation.id)
+            }
           />
 
           <div className="sort-control" aria-label="뉴스 정렬">
@@ -116,9 +155,21 @@ export function StockPage() {
 
       <section className="content-section" aria-labelledby="stock-news-list-title">
         <div className="section-heading compact">
-          <h2 id="stock-news-list-title">{stock.name} 뉴스</h2>
+          <h2 id="stock-news-list-title">
+            {activeRelation ? `${activeRelation.name} 관련 뉴스` : `${stock.name} 뉴스`}
+          </h2>
           {collection ? <span className="section-count">{articles.length}개</span> : null}
         </div>
+
+        {activeRelation ? (
+          <button
+            type="button"
+            className="relation-filter-clear"
+            onClick={() => setActiveRelationId(null)}
+          >
+            전체 {stock.name} 뉴스 다시 보기
+          </button>
+        ) : null}
 
         {loading ? <LoadingCards /> : null}
         {error ? (

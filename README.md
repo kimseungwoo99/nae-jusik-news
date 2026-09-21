@@ -9,6 +9,8 @@
 - 관심 종목을 큰 카드로 표시
 - 설정에서 큰 버튼으로 관심 종목 추가·삭제
 - 종목별 최신 뉴스와 “오늘의 종목” 요약 제공
+- 기사 표현을 긍정·중립·부정으로 나눈 종목별 뉴스 분위기
+- 함께 언급된 회사·산업기술·국가를 보여주는 뉴스 연관 지도
 - 전체 뉴스 최신순 보기와 종목 필터
 - 제목·요약·종목명 검색
 - 마지막 방문 이후 들어온 새 뉴스 표시
@@ -18,7 +20,7 @@
 - 375~430px 모바일 우선 UI, 44px 이상의 터치 영역
 - 로그인, 서버, DB, 유료 API 없음
 
-처음 저장소에는 삼성전자, SK하이닉스, 현대차의 화면 확인용 예시 뉴스가 각 5개씩 들어 있습니다. `Update stock news` 워크플로를 한 번 실행하면 실제 RSS 뉴스로 교체됩니다.
+지원 목록에는 국내 대표 종목 23개가 등록되어 있습니다. 첫 방문에는 삼성전자, SK하이닉스, 현대차만 선택되며 나머지는 설정에서 추가할 수 있습니다. `Update stock news` 워크플로가 실행되면 모든 등록 종목의 실제 RSS 뉴스가 생성됩니다.
 
 ## 기술 구성
 
@@ -35,7 +37,7 @@
 GitHub Actions
   → Google News RSS 수집
   → 제목 정규화 및 유사 기사 제거
-  → 규칙 기반 요약과 카테고리 분류
+  → 규칙 기반 요약·카테고리·뉴스 표현 분석
   → 종목별 JSON 및 all.json 생성
   → 저장소에 자동 커밋
   → GitHub Pages 자동 재배포
@@ -67,7 +69,7 @@ npm run news:update -- --dry-run
 npm run visual:check
 ```
 
-- `npm test`: 제목 정규화와 중복 제거 단위 테스트
+- `npm test`: 제목 정규화, 중복 제거, 뉴스 분위기와 연관 분석 단위 테스트
 - `--dry-run`: 실제 RSS를 수집하고 파싱하지만 JSON 파일은 변경하지 않음
 - `visual:check`: 로컬 미리보기 서버가 4173 포트에서 실행 중일 때 Chrome/Edge로 375px·430px 화면, 가로 넘침, 44px 터치 영역을 검사함. 브라우저를 찾지 못하면 `CHROME_PATH` 환경 변수를 지정합니다.
 
@@ -85,7 +87,7 @@ npm run visual:check
 
 ### 휴대폰에서 표시할 종목 고르기
 
-사이트의 **설정 → 관심 종목 관리**에서 종목 버튼을 누르면 추가·삭제 상태가 즉시 바뀝니다. 선택 결과는 현재 휴대폰 브라우저의 LocalStorage에 저장되며 홈과 전체 뉴스에는 선택한 종목만 표시됩니다. 처음 접속했을 때는 등록된 종목이 모두 선택되어 있습니다.
+사이트의 **설정 → 관심 종목 관리**에서 종목을 검색하고 큰 버튼을 누르면 추가·삭제 상태가 즉시 바뀝니다. 선택 결과는 현재 휴대폰 브라우저의 LocalStorage에 저장되며 홈과 전체 뉴스에는 선택한 종목만 표시됩니다. 처음 접속했을 때는 삼성전자, SK하이닉스, 현대차가 선택되어 있습니다.
 
 이 선택은 기기 안에만 남으므로 다른 휴대폰과 동기화되지 않으며 GitHub 저장소의 종목 목록을 바꾸지도 않습니다.
 
@@ -94,17 +96,19 @@ npm run visual:check
 목록에 없는 종목은 다음 명령으로 [`config/stocks.json`](config/stocks.json)에 안전하게 추가할 수 있습니다.
 
 ```bash
-npm run stock:add -- --id naver --name NAVER --ticker 035420 --keywords "NAVER,네이버 AI"
+npm run stock:add -- --id lottechem --name 롯데케미칼 --ticker 011170 --keywords "롯데케미칼,롯데케미칼 실적"
 ```
 
 명령은 필수 값과 중복 ID·종목 코드를 확인한 뒤 설정 파일에 추가합니다. 직접 편집할 때의 형식은 다음과 같습니다.
 
 ```json
 {
-  "id": "naver",
-  "name": "NAVER",
-  "ticker": "035420",
-  "keywords": ["NAVER", "네이버 AI"]
+  "id": "lottechem",
+  "name": "롯데케미칼",
+  "ticker": "011170",
+  "keywords": ["롯데케미칼", "롯데케미칼 실적"],
+  "aliases": ["롯데케미칼"],
+  "defaultSelected": false
 }
 ```
 
@@ -112,6 +116,8 @@ npm run stock:add -- --id naver --name NAVER --ticker 035420 --keywords "NAVER,�
 - `name`: 화면에 표시할 종목명
 - `ticker`: 종목 코드
 - `keywords`: Google News RSS에서 검색할 문구
+- `aliases`: 뉴스 연관 분석에서 같은 회사를 찾을 때 사용할 다른 표기
+- `defaultSelected`: 처음 방문한 사용자의 홈에 기본으로 표시할지 여부
 
 항목을 추가한 뒤 변경 내용을 `main` 브랜치에 올리면 `Update stock news`가 자동으로 실행되어 종목별 JSON을 생성하고 사이트를 다시 배포합니다. 이후 사용자는 설정 화면에서 새 종목을 선택할 수 있습니다. 필요하면 Actions 화면에서 수동 실행해도 됩니다. 항목을 삭제하면 화면에서는 즉시 사라집니다. 더 이상 쓰지 않는 기존 `public/data/{id}.json`은 필요할 때 수동으로 정리할 수 있습니다.
 
@@ -139,10 +145,13 @@ npm run news:update
 - 관련 종목
 - 짧은 요약
 - 카테고리
+- 긍정·중립·부정 표현 분석 결과와 판정 근거
 
 중복 제거는 URL 일치, 제목 정규화, 글자 단위 유사도를 함께 사용합니다. 여러 종목에 동시에 관련된 기사는 하나로 합치고 `relatedStocks`에 종목을 추가합니다. 일부 검색어가 실패하면 나머지 피드는 계속 처리하며, 한 종목의 결과가 모두 비면 그 종목의 기존 파일을 유지합니다. 모든 RSS 요청이 실패하면 기존 데이터가 덮어써지지 않도록 작업 자체를 실패 처리합니다.
 
 요약은 현재 LLM을 사용하지 않습니다. RSS 설명이 충분하면 짧게 다듬고, 설명이 없으면 기사 제목을 바탕으로 중립적인 안내 문장을 만듭니다. 요약 로직은 [`scripts/summarize-news.ts`](scripts/summarize-news.ts)에 분리되어 있어 나중에 다른 방식으로 교체할 수 있습니다.
+
+뉴스 분위기는 제목과 요약에 나타난 금융 관련 표현을 규칙 기반으로 분석합니다. 연관 지도는 같은 기사에 함께 등장한 회사·산업기술·국가와 서로 다른 언론사 수를 셉니다. 둘 다 기사 내용을 정리하는 참고 정보이며 기업의 실제 가치, 인과관계, 주가 방향을 의미하지 않습니다. 연관어 사전은 [`config/entities.json`](config/entities.json), 분석 로직은 [`src/utils/newsAnalysis.ts`](src/utils/newsAnalysis.ts)에서 관리합니다.
 
 ## 5. GitHub Actions 설명
 
@@ -195,6 +204,7 @@ npm run news:update
 - `fetch-news.ts`: 외부 피드 요청, 종목별 병합, JSON 저장
 - `normalize-news.ts`: HTML 정리, 제목 정규화, 유사도 계산, 중복 제거
 - `summarize-news.ts`: 짧은 요약, 카테고리, 종목별 오늘 요약
+- `newsAnalysis.ts`: 뉴스 표현 분석과 기사 속 연관 항목 계산
 
 RSS/공개 API 사용 조건과 호출 한도는 공급원별 정책을 확인해야 합니다. 이 프로젝트는 기사 본문을 무단 크롤링하거나 저장하지 않고 RSS가 제공하는 제목·링크·설명만 사용합니다.
 
@@ -219,13 +229,12 @@ RSS/공개 API 사용 조건과 호출 한도는 공급원별 정책을 확인�
 │  ├─ deploy.yml             # GitHub Pages 빌드·배포
 │  └─ update-news.yml        # 정기 RSS 수집·커밋
 ├─ config/
-│  └─ stocks.json            # 관심 종목과 검색어
+│  ├─ stocks.json            # 관심 종목, 별칭, 검색어
+│  └─ entities.json          # 연관 회사·산업기술·지역 사전
 ├─ public/
 │  ├─ data/
 │  │  ├─ all.json
-│  │  ├─ samsung.json
-│  │  ├─ skhynix.json
-│  │  └─ hyundai.json
+│  │  └─ {stock-id}.json     # 등록 종목별 뉴스
 │  ├─ icons/                 # PWA 및 Apple 홈 화면 아이콘
 │  ├─ manifest.webmanifest
 │  └─ sw.js
@@ -234,6 +243,7 @@ RSS/공개 API 사용 조건과 호출 한도는 공급원별 정책을 확인�
 │  ├─ fetch-news.ts          # RSS 수집과 JSON 생성
 │  ├─ normalize-news.ts      # 제목 정규화·중복 제거
 │  ├─ summarize-news.ts      # 규칙 기반 요약·분류
+│  ├─ news-analysis.test.ts  # 분위기·연관 분석 단위 테스트
 │  ├─ generate-icons.mjs     # PWA PNG 아이콘 생성
 │  └─ visual-check.mjs       # 모바일 UI 자동 점검
 ├─ src/
@@ -255,5 +265,7 @@ RSS/공개 API 사용 조건과 호출 한도는 공급원별 정책을 확인�
 ## 주의 사항
 
 - 이 앱의 요약은 원문을 대신하지 않습니다. 중요한 내용은 반드시 ‘기사 보기’로 원문에서 확인하세요.
-- 뉴스 노출 순서와 카테고리는 투자 판단 신호가 아닙니다.
+- 뉴스 노출 순서, 카테고리, 뉴스 분위기와 연관 지도는 투자 판단 신호가 아닙니다.
+- 뉴스 분위기는 제목과 RSS 요약의 단어를 분석하므로 문맥, 반어, 한 기사 안의 여러 기업을 완벽히 구분하지 못할 수 있습니다.
+- 뉴스 연관은 같은 기사에 함께 등장했다는 뜻이며 실제 거래 관계나 인과관계를 보장하지 않습니다.
 - Google News RSS의 형식이나 제공 정책이 바뀌면 수집 모듈 조정이 필요할 수 있습니다.

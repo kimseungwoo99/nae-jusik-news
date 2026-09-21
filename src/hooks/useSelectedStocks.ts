@@ -3,7 +3,13 @@ import { stocks } from "../config";
 import { useLocalStorage } from "./useLocalStorage";
 
 const SELECTED_STOCKS_KEY = "stock-news-selected-stocks";
-const DEFAULT_STOCK_IDS = stocks.map((stock) => stock.id);
+const configuredDefaults = stocks
+  .filter((stock) => stock.defaultSelected)
+  .map((stock) => stock.id);
+const ALL_STOCK_IDS = stocks.map((stock) => stock.id);
+const DEFAULT_STOCK_IDS = configuredDefaults.length > 0
+  ? configuredDefaults
+  : stocks.slice(0, 3).map((stock) => stock.id);
 
 export function useSelectedStocks() {
   const [storedStockIds, setStoredStockIds] = useLocalStorage<string[]>(
@@ -50,7 +56,7 @@ export function useSelectedStocks() {
   );
 
   const selectAll = useCallback(
-    () => setStoredStockIds(DEFAULT_STOCK_IDS),
+    () => setStoredStockIds(ALL_STOCK_IDS),
     [setStoredStockIds],
   );
 

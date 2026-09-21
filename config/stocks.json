@@ -3,18 +3,184 @@
     "id": "samsung",
     "name": "삼성전자",
     "ticker": "005930",
-    "keywords": ["삼성전자", "삼성전자 반도체"]
+    "keywords": ["삼성전자", "삼성전자 반도체"],
+    "aliases": ["삼성전자"],
+    "defaultSelected": true
   },
   {
     "id": "skhynix",
     "name": "SK하이닉스",
     "ticker": "000660",
-    "keywords": ["SK하이닉스", "하이닉스 HBM"]
+    "keywords": ["SK하이닉스", "하이닉스 HBM"],
+    "aliases": ["SK하이닉스", "하이닉스"],
+    "defaultSelected": true
   },
   {
     "id": "hyundai",
     "name": "현대차",
     "ticker": "005380",
-    "keywords": ["현대자동차", "현대차"]
+    "keywords": ["현대자동차", "현대차"],
+    "aliases": ["현대차", "현대자동차"],
+    "defaultSelected": true
+  },
+  {
+    "id": "lgenergy",
+    "name": "LG에너지솔루션",
+    "ticker": "373220",
+    "keywords": ["LG에너지솔루션", "LG엔솔 배터리"],
+    "aliases": ["LG에너지솔루션", "LG엔솔"],
+    "defaultSelected": false
+  },
+  {
+    "id": "samsungbio",
+    "name": "삼성바이오로직스",
+    "ticker": "207940",
+    "keywords": ["삼성바이오로직스", "삼성바이오 수주"],
+    "aliases": ["삼성바이오로직스", "삼성바이오"],
+    "defaultSelected": false
+  },
+  {
+    "id": "hanwhaaero",
+    "name": "한화에어로스페이스",
+    "ticker": "012450",
+    "keywords": ["한화에어로스페이스", "한화에어로 방산"],
+    "aliases": ["한화에어로스페이스", "한화에어로"],
+    "defaultSelected": false
+  },
+  {
+    "id": "kia",
+    "name": "기아",
+    "ticker": "000270",
+    "keywords": ["기아자동차", "기아 신차"],
+    "aliases": ["기아", "기아자동차"],
+    "defaultSelected": false
+  },
+  {
+    "id": "kbfinancial",
+    "name": "KB금융",
+    "ticker": "105560",
+    "keywords": ["KB금융", "KB금융 실적"],
+    "aliases": ["KB금융", "KB금융지주"],
+    "defaultSelected": false
+  },
+  {
+    "id": "celltrion",
+    "name": "셀트리온",
+    "ticker": "068270",
+    "keywords": ["셀트리온", "셀트리온 바이오시밀러"],
+    "aliases": ["셀트리온"],
+    "defaultSelected": false
+  },
+  {
+    "id": "naver",
+    "name": "NAVER",
+    "ticker": "035420",
+    "keywords": ["NAVER 주가", "네이버 AI"],
+    "aliases": ["NAVER", "네이버"],
+    "defaultSelected": false
+  },
+  {
+    "id": "samsungcnt",
+    "name": "삼성물산",
+    "ticker": "028260",
+    "keywords": ["삼성물산", "삼성물산 실적"],
+    "aliases": ["삼성물산"],
+    "defaultSelected": false
+  },
+  {
+    "id": "shinhan",
+    "name": "신한금융",
+    "ticker": "055550",
+    "keywords": ["신한금융지주", "신한금융 실적"],
+    "aliases": ["신한금융", "신한금융지주"],
+    "defaultSelected": false
+  },
+  {
+    "id": "hyundaimobis",
+    "name": "현대모비스",
+    "ticker": "012330",
+    "keywords": ["현대모비스", "현대모비스 자율주행"],
+    "aliases": ["현대모비스"],
+    "defaultSelected": false
+  },
+  {
+    "id": "kakao",
+    "name": "카카오",
+    "ticker": "035720",
+    "keywords": ["카카오 주식", "카카오 AI"],
+    "aliases": ["카카오"],
+    "defaultSelected": false
+  },
+  {
+    "id": "posco",
+    "name": "POSCO홀딩스",
+    "ticker": "005490",
+    "keywords": ["POSCO홀딩스", "포스코홀딩스"],
+    "aliases": ["POSCO홀딩스", "포스코홀딩스"],
+    "defaultSelected": false
+  },
+  {
+    "id": "lgchem",
+    "name": "LG화학",
+    "ticker": "051910",
+    "keywords": ["LG화학", "LG화학 배터리"],
+    "aliases": ["LG화학"],
+    "defaultSelected": false
+  },
+  {
+    "id": "samsungsdi",
+    "name": "삼성SDI",
+    "ticker": "006400",
+    "keywords": ["삼성SDI", "삼성SDI 배터리"],
+    "aliases": ["삼성SDI"],
+    "defaultSelected": false
+  },
+  {
+    "id": "sktelecom",
+    "name": "SK텔레콤",
+    "ticker": "017670",
+    "keywords": ["SK텔레콤", "SKT AI"],
+    "aliases": ["SK텔레콤", "SKT"],
+    "defaultSelected": false
+  },
+  {
+    "id": "kepco",
+    "name": "한국전력",
+    "ticker": "015760",
+    "keywords": ["한국전력", "한전 전력"],
+    "aliases": ["한국전력", "한전"],
+    "defaultSelected": false
+  },
+  {
+    "id": "doosanenergy",
+    "name": "두산에너빌리티",
+    "ticker": "034020",
+    "keywords": ["두산에너빌리티", "두산에너빌리티 원전"],
+    "aliases": ["두산에너빌리티"],
+    "defaultSelected": false
+  },
+  {
+    "id": "ecopro",
+    "name": "에코프로",
+    "ticker": "086520",
+    "keywords": ["에코프로", "에코프로 이차전지"],
+    "aliases": ["에코프로"],
+    "defaultSelected": false
+  },
+  {
+    "id": "hyosung",
+    "name": "효성",
+    "ticker": "004800",
+    "keywords": ["효성 지주", "효성그룹"],
+    "aliases": ["효성", "효성그룹"],
+    "defaultSelected": false
+  },
+  {
+    "id": "ls",
+    "name": "LS",
+    "ticker": "006260",
+    "keywords": ["LS그룹", "LS 전력"],
+    "aliases": ["LS", "LS그룹"],
+    "defaultSelected": false
   }
 ]

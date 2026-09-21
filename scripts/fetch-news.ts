@@ -16,6 +16,7 @@ import {
   stripHtml,
 } from "./normalize-news";
 import { categorizeNews, summarizeArticle, summarizeDaily } from "./summarize-news";
+import { analyzeNewsSentiment } from "../src/utils/newsAnalysis";
 
 const rootDirectory = process.cwd();
 const configPath = path.join(rootDirectory, "config", "stocks.json");
@@ -95,6 +96,7 @@ async function fetchFeed(keyword: string, stock: StockConfig, collectedAt: strin
     const title = removeSourceSuffix(rawTitle, source);
     const publishedAt = safeDate(item.pubDate, collectedAt);
     const reference = stockReference(stock);
+    const summary = summarizeArticle(title, item.description ?? "", source);
 
     return [
       {
@@ -108,8 +110,9 @@ async function fetchFeed(keyword: string, stock: StockConfig, collectedAt: strin
         stock: stock.name,
         ticker: stock.ticker,
         relatedStocks: [reference],
-        summary: summarizeArticle(title, item.description ?? "", source),
+        summary,
         category: categorizeNews(title, item.description ?? ""),
+        sentiment: analyzeNewsSentiment(title, summary),
       },
     ];
   });
@@ -197,7 +200,10 @@ async function main() {
     throw new Error("모든 RSS 수집이 실패했습니다. 기존 데이터 파일은 변경하지 않았습니다.");
   }
 
-  const allArticles = mergeAcrossStocks(stockArticles);
+  const allArticles = mergeAcrossStocks(stockArticles).map((article) => ({
+    ...article,
+    sentiment: analyzeNewsSentiment(article.title, article.summary),
+  }));
   const allCollection: NewsCollection = {
     generatedAt: collectedAt,
     source: "google-news-rss",

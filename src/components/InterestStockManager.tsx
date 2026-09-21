@@ -1,12 +1,25 @@
 import { ChartLineUp, Check, Plus } from "@phosphor-icons/react";
+import { useMemo, useState } from "react";
 import { stocks } from "../config";
 import { useSelectedStocks } from "../hooks/useSelectedStocks";
+import { SearchField } from "./SearchField";
 
 export function InterestStockManager() {
+  const [query, setQuery] = useState("");
   const { selectedStockIds, isSelected, toggleStock, selectAll } = useSelectedStocks();
+  const normalizedQuery = query.trim().toLocaleLowerCase("ko-KR");
+  const visibleStocks = useMemo(
+    () =>
+      stocks.filter((stock) =>
+        `${stock.name} ${stock.ticker} ${stock.aliases?.join(" ") ?? ""}`
+          .toLocaleLowerCase("ko-KR")
+          .includes(normalizedQuery),
+      ),
+    [normalizedQuery],
+  );
 
   return (
-    <section className="settings-section" aria-labelledby="interest-stocks-title">
+    <section className="settings-section stock-manager" aria-labelledby="interest-stocks-title">
       <div className="settings-section__heading">
         <span className="settings-icon" aria-hidden="true">
           <ChartLineUp size={25} weight="bold" />
@@ -18,7 +31,8 @@ export function InterestStockManager() {
       </div>
 
       <div className="stock-manager__summary" aria-live="polite" aria-atomic="true">
-        <strong>{selectedStockIds.length}개</strong> 종목을 보고 있습니다
+        <strong>{selectedStockIds.length}개 선택</strong>
+        <span>· 전체 {stocks.length}개</span>
         {selectedStockIds.length < stocks.length ? (
           <button type="button" onClick={selectAll}>
             모두 선택
@@ -26,8 +40,15 @@ export function InterestStockManager() {
         ) : null}
       </div>
 
+      <SearchField
+        value={query}
+        onChange={setQuery}
+        label="추가할 종목 찾기"
+        placeholder="종목명 또는 종목코드"
+      />
+
       <ul className="stock-manager__list" aria-label="등록 가능한 종목">
-        {stocks.map((stock) => {
+        {visibleStocks.map((stock) => {
           const selected = isSelected(stock.id);
           return (
             <li key={stock.id}>
@@ -58,6 +79,12 @@ export function InterestStockManager() {
           );
         })}
       </ul>
+
+      {visibleStocks.length === 0 ? (
+        <p className="stock-manager__empty" role="status">
+          일치하는 종목이 없습니다.
+        </p>
+      ) : null}
 
       <p className="stock-manager__note">
         목록에 없는 종목은 종목명과 종목코드를 알려주시면 지원 목록에 추가할 수 있습니다.

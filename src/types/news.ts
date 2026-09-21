@@ -3,9 +3,21 @@ export interface StockConfig {
   name: string;
   ticker: string;
   keywords: string[];
+  aliases?: string[];
+  defaultSelected?: boolean;
 }
 
 export type StockReference = Pick<StockConfig, "id" | "name" | "ticker">;
+
+export type NewsSentimentLabel = "positive" | "neutral" | "negative";
+
+export interface NewsSentiment {
+  label: NewsSentimentLabel;
+  score: number;
+  confidence: number;
+  positiveTerms: string[];
+  negativeTerms: string[];
+}
 
 export interface NewsArticle {
   id: string;
@@ -20,6 +32,7 @@ export interface NewsArticle {
   relatedStocks: StockReference[];
   summary: string;
   category: string;
+  sentiment?: NewsSentiment;
 }
 
 export interface NewsCollection {

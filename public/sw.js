@@ -1,4 +1,4 @@
-const CACHE_NAME = "nae-jusik-news-v1";
+const CACHE_NAME = "nae-jusik-news-v2";
 
 self.addEventListener("install", (event) => {
   const scope = self.registration.scope;
@@ -31,6 +31,21 @@ self.addEventListener("fetch", (event) => {
 
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
+
+  if (request.mode === "navigate") {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(self.registration.scope, copy));
+          }
+          return response;
+        })
+        .catch(() => caches.match(self.registration.scope)),
+    );
+    return;
+  }
 
   if (url.pathname.includes("/data/")) {
     event.respondWith(

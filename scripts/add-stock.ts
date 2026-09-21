@@ -9,7 +9,7 @@ function printHelp() {
   console.log(`새 관심 종목을 config/stocks.json에 추가합니다.
 
 사용법:
-  npm run stock:add -- --id naver --name NAVER --ticker 035420 --keywords "NAVER,네이버 AI"
+  npm run stock:add -- --id lottechem --name 롯데케미칼 --ticker 011170 --keywords "롯데케미칼,롯데케미칼 실적"
 
 필수 옵션:
   --id        영문 소문자, 숫자, 하이픈으로 만든 고유 ID
@@ -18,7 +18,7 @@ function printHelp() {
   --keywords  쉼표로 구분한 뉴스 검색어
 
 예시:
-  npm run stock:add -- --id kakao --name 카카오 --ticker 035720 --keywords "카카오,카카오 AI"`);
+  npm run stock:add -- --id lottechem --name 롯데케미칼 --ticker 011170 --keywords "롯데케미칼,롯데케미칼 실적"`);
 }
 
 function fail(message: string): never {
@@ -81,7 +81,14 @@ if (stocks.some((stock) => stock.ticker.toLowerCase() === ticker.toLowerCase()))
   fail(`종목 코드 '${ticker}'가 이미 등록되어 있습니다.`);
 }
 
-const stock: StockConfig = { id, name, ticker, keywords };
+const stock: StockConfig = {
+  id,
+  name,
+  ticker,
+  keywords,
+  aliases: [name],
+  defaultSelected: false,
+};
 stocks.push(stock);
 await writeFile(configPath, `${JSON.stringify(stocks, null, 2)}\n`, "utf8");
 

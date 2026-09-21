@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync } from "node:fs";
 import assert from "node:assert/strict";
 import path from "node:path";
 import { chromium } from "playwright-core";
@@ -18,10 +18,14 @@ if (!executablePath) {
 
 const baseUrl = process.env.VISUAL_CHECK_URL || "http://127.0.0.1:4173";
 const outputDirectory = path.join(process.cwd(), "visual-check");
+const supportedStockCount = JSON.parse(
+  readFileSync(path.join(process.cwd(), "config", "stocks.json"), "utf8"),
+).length;
 const cases = [
   { name: "home-375", route: "/#/", width: 375, height: 812 },
   { name: "home-430", route: "/#/", width: 430, height: 932 },
   { name: "stock-375", route: "/#/stock/samsung", width: 375, height: 812 },
+  { name: "stock-insights-375", route: "/#/stock/samsung", width: 375, height: 1900 },
   { name: "all-news-375", route: "/#/all", width: 375, height: 812 },
   { name: "settings-375", route: "/#/settings", width: 375, height: 812 },
 ];
@@ -103,6 +107,14 @@ try {
   await smokePage.reload({ waitUntil: "networkidle" });
   await smokePage.locator(".news-card").first().getByRole("button", { name: "저장됨" }).waitFor();
 
+  await smokePage.goto(`${baseUrl}/#/stock/samsung`, { waitUntil: "networkidle" });
+  await smokePage.getByRole("heading", { name: "삼성전자 뉴스 분위기" }).waitFor();
+  await smokePage.getByRole("heading", { name: "삼성전자 뉴스 연관 지도" }).waitFor();
+  const relationButton = smokePage.locator(".relation-buttons button").first();
+  await relationButton.click();
+  assert.equal(await relationButton.getAttribute("aria-pressed"), "true");
+  await smokePage.getByRole("button", { name: /전체 삼성전자 뉴스 다시 보기/ }).click();
+
   await smokePage.goto(`${baseUrl}/#/settings`, { waitUntil: "networkidle" });
   await smokePage.getByRole("radio", { name: /아주 크게/ }).check();
   assert.equal(
@@ -110,6 +122,23 @@ try {
     "xlarge",
   );
   await smokePage.getByText("현재 1개 기사").waitFor();
+  await smokePage.getByText(`전체 ${supportedStockCount}개`).waitFor();
+
+  await smokePage.getByLabel("추가할 종목 찾기").fill("삼성");
+  assert.equal(await smokePage.locator(".stock-manager__item").count(), 4);
+
+  await smokePage.getByLabel("추가할 종목 찾기").fill("035420");
+  await smokePage.getByRole("button", {
+    name: /NAVER 035420, 관심 종목에서 추가/,
+  }).click();
+  assert.ok(
+    await smokePage.evaluate(() =>
+      JSON.parse(localStorage.getItem("stock-news-selected-stocks") || "[]").includes(
+        "naver",
+      ),
+    ),
+  );
+  await smokePage.getByLabel("추가할 종목 찾기").fill("");
 
   const samsungToggle = smokePage.getByRole("button", {
     name: /삼성전자 005930, 관심 종목에서 제거/,
@@ -125,6 +154,7 @@ try {
   await smokePage.goto(`${baseUrl}/#/`, { waitUntil: "networkidle" });
   assert.equal(await smokePage.locator(".stock-card", { hasText: "삼성전자" }).count(), 0);
   assert.equal(await smokePage.locator(".stock-card", { hasText: "SK하이닉스" }).count(), 1);
+  assert.equal(await smokePage.locator(".stock-card", { hasText: "NAVER" }).count(), 1);
   await smokePage.getByLabel("종목 뉴스 검색").fill("SK하이닉스");
   assert.ok((await smokePage.locator(".news-card").count()) >= 1);
 
