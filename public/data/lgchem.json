@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:37:00.123Z",
+  "generatedAt": "2026-09-21T08:22:57.497Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,143 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색",
-    "LFP 양극재 출하량 올해 524만톤 전망…전년比 51%↑",
-    "LG화학, AI 전환 이끌 디지털 인재 확대…현장 명장·전문가 키운다"
+    "[배터리코리아 2026] LG엔솔 \"배터리 셀 개발 단계부터 AI 적극 활용\"",
+    "LG화학 청주공장, 지역농가와 농산물 직거래 장터 열어",
+    "LG엔솔, AI R&D 혁신 전략 발표 … \"소재 발굴부터 배터리 수명 예측까지 AI로…"
   ],
   "articles": [
+    {
+      "id": "1a17f699d9ae00fa",
+      "title": "[배터리코리아 2026] LG엔솔 \"배터리 셀 개발 단계부터 AI 적극 활용\"",
+      "source": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WnRHZTNScnJjNXk4YUNwODdiN0J0akNTcXc5bG15ZHE3U0liVWhHVjljdzlfeDc5SEw0bThlNGFScC1wWGV5RlRwMXJFc0tnZTBfM2xqc09od2FNcW1BU2dSV0g5ci1KWnp0Z05PN2swM0VO?oc=5",
+      "publishedAt": "2026-09-21T07:10:24.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[배터리코리아 2026] LG엔솔 \"배터리 셀 개발 단계부터 AI 적극 활용\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "876ef2ca8146c249",
+      "title": "LG화학 청주공장, 지역농가와 농산물 직거래 장터 열어",
+      "source": "BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZakdBUW9xS3NZUWc2V3RMempRdUdicEtBSklBTUtiSC1UZmdfdEs0TFlEODJ0MkYzVEc2ZmpzbDFZWndpVWhIczhIQ1FYYWhmQXpkcUFPTVhvdWFzS0pKVXlJOWU1U0F2YTln?oc=5",
+      "publishedAt": "2026-09-21T06:43:06.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 청주공장, 지역농가와 농산물 직거래 장터 열어 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "15a1a472ed7d1a72",
+      "title": "LG엔솔, AI R&D 혁신 전략 발표 … \"소재 발굴부터 배터리 수명 예측까지 AI로 초격차 달성\"",
+      "source": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnNqX19Tb3oyN1d3SUNsOWxBcTB4SGtEM2c5ZXAxUVl3enRtSk5xMWVmYl9MRm15OENMTE1jYWF5N1k1M0Etd0twbkpBQzlsTmZBdVNoUkVwX0hYcWdES09ZTFJKRXBSRi1Ca2l2Zkg0V2VMTXcyajk2Vk9oNjhkT9IBgAFBVV95cUxNRnNqX19Tb3oyN1d3SUNsOWxBcTB4SGtEM2c5ZXAxUVl3enRtSk5xMWVmYl9MRm15OENMTE1jYWF5N1k1M0Etd0twbkpBQzlsTmZBdVNoUkVwX0hYcWdES09ZTFJKRXBSRi1Ca2l2Zkg0V2VMTXcyajk2Vk9oNjhkTw?oc=5",
+      "publishedAt": "2026-09-21T06:24:01.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG엔솔, AI R&D 혁신 전략 발표 … \"소재 발굴부터 배터리 수명 예측까지 AI로 초격차 달성\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b2e54e3453bd42c3",
+      "title": "이재헌 LG엔솔 상무 \"中 이길 방법은 30년 도메인과 AI 결합\"",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNblItc2s2MjBlNGh4U2hTbk5HUGVITDZXbkp2cUlDaE9QYXVHSi1TVHEzVUYzM3JPTUFoRzRGZzJ6ZG1pcFZBRkxNc3hPeEl0a0RKOHdsWUR1M3loWV9yWEhOOEFuNklfTXkwTjhQcThlQmJzYWlnYkp1dEh1cUxnZllPOHI2Zw?oc=5",
+      "publishedAt": "2026-09-21T05:31:45.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "이재헌 LG엔솔 상무 \"中 이길 방법은 30년 도메인과 AI 결합\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "5d7363029828b09b",
       "title": "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색",
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbGR6dmdXVVMwVXhTOVIwY1J1aXdqWDR5XzhBSTdZNUV0b0VtY1RGOTdjMEc5Vlh3Wk9XQVc1VmgwMG5LSjNzNUpqb20yeFBkYUlzMUhnaHVNazNjSWJfNUdQY3NicE0?oc=5",
       "publishedAt": "2026-09-21T03:13:04.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -52,7 +175,7 @@
       "source": "ER 이코노믹리뷰",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eDJTSklBQ0ZJcHJ5MjEwWnQzd2Y1MFJXS1g1QmJlXzlmS1E1RUI3c1dQVnd6Y1AzT2poYVZRcFF2aTQ3TTJqUVlSeVNBVnd1ZmozN3E4akxuU2RJbmYxYk5BWUhXZ3JGTV9EVw?oc=5",
       "publishedAt": "2026-09-21T02:52:35.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,12 +197,12 @@
       }
     },
     {
-      "id": "54dc3fa306597599",
+      "id": "32a9760625572ae3",
       "title": "LG화학, AI 전환 이끌 디지털 인재 확대…현장 명장·전문가 키운다",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NYkxhdHlVb3ZkYnZ4S2szVlE2NnM4TVNGaDdocUE0b1VENHYySkt6NkZ1RFBlOWdOVG83bEoycjhfR1hVbEhmSzkxck9PWGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pb0xSLWxWY3AwLXdSZG1tU2RuS2FqUFE5UnFWV3NpN3FRaHF1NU1qNTIzenBfaUhELW1JY3lrbUhUYWlnUFE?oc=5",
       "publishedAt": "2026-09-21T01:29:09.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -106,7 +229,7 @@
       "source": "파이낸스스코프",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiU0hhUlZCbEl6WmFNSVpEOEFCV3pBNHB6ZmNpYUw2QjUxZ3RCcFRIMS1LblRuTEliUXRqLUlUUVdkNHY3Q3NtbVJlV00zX3pmLTh4Vk1KOWVJdnI2UWpEZXhiNVlVZzdrUXc?oc=5",
       "publishedAt": "2026-09-20T23:16:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -128,12 +251,39 @@
       }
     },
     {
+      "id": "b527d7f6ace1694b",
+      "title": "유튜브로 만나는 ESG 이야기... LG화학 ‘대담해’ [2026 우수 사회공헌 프로젝트]",
+      "source": "더버터",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ILUtGSzFaYlR3aHR5Qkd0UFpRUXpjaDUtLVRsMmxzdE14OWstV29rTkl0Sm5TMDk4RHk4aGJic3N6VWs5OERaZjVVdzVoLUpENVBsMlF3QWFjeHZxOE1CUHQxSENoT1BjbGc?oc=5",
+      "publishedAt": "2026-09-20T23:00:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "유튜브로 만나는 ESG 이야기... LG화학 ‘대담해’ [2026 우수 사회공헌 프로젝트] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7fb4bf2725c50244",
       "title": "처음 보는 숫자와 기호를 풀어보는 스포츠조선 경마 달리고",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0VUbV9zZmg4Q1RobThxQ0NJUmdWN3NoYlRpZXBSaGJCODN4V3Fwa1ZhRC1wWlRseTRrcV9FR3BwQllnc2s5TF9kMmUtVjJRNUE4WTdRRHBjd1ozUGR2RExXQnZGd3pmaXJRTC1RU2VIdGIxdHdtUzhKM0pjb2swNTRZRWtqNHZucmNKMEU3RXIzcmlPYXhTQlRENHFqUndXdC16NG9HWnlhXzkySGYzaTY1WFFPemFOWTQyeENQTHZSQXFvOFV5dVlZTXVWQUk?oc=5",
       "publishedAt": "2026-09-20T05:53:44.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -155,39 +305,12 @@
       }
     },
     {
-      "id": "50d6ef5a050b2e5c",
-      "title": "증기탑 슬롯|러시안룰렛 온라인 게임",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPMTVlem5zX0JvbHo3a0k5N1l3aVU5S2FNSklSRkhxMTJxZ1p4dHRDWTd4RVRUNngxaFNiR21vUHFjQkhrNkpiX0t3YWk4OEVWTW81QVhxcEtkZXl2ZUt5MnlIbS1UOE1ZazdoYlV0SVlsbHZwUmNyZ0dBVEw5emZLSnA3UnRWOWVBNmYzOHBwVUprRGZ1cjhtQXd6RC11X1NYY2FmTE5SeHBLVVZ5dEk0cXphcGIxcDV0M0RvZ2pFYnAwTUs1SV9hV005cHVmc1FLWEh3Y09YUEhDSW51aHE5d0h1UzAxWW5Jai1tNlYzUDYwcWZPZzYzQWxhXy13MWpjampmQnBYTGdHNGp0LWZ5NGNUSnJJdnJkdkQw?oc=5",
-      "publishedAt": "2026-09-20T01:41:58.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "증기탑 슬롯|러시안룰렛 온라인 게임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "bc81980f0e2e8d25",
       "title": "배터리·양극재 ‘기지개’…분리막·동박은 아직 ‘한파’, 극명한 ‘온도차’",
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51Z3lUU1RWemdwTlRXamYySERWa205OTVqVjZ1b3VsWWF1MHNpdUVoZ04tcnRrUDhBdFJaZHdGRk11U1NEeFdpbXl0Y0l6MFN2aUVJZktzNUUtampCNDNUNEhCVndSejU4?oc=5",
       "publishedAt": "2026-09-19T22:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -214,7 +337,7 @@
       "source": "주달",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00eVZ0c01idEJlTmlQQkZyQl83WXdOYUE1WFJ2TWE3WVd0YU1VNUJWRHB2cU1Bams5WHgxQWpMNWNfdDUwZFRacFN0SjFXODFDalNwQWdqb0NETzZyQ1dDRzRTcEdHR1FOSEFlVThzZXhJVHM?oc=5",
       "publishedAt": "2026-09-19T10:20:42.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -241,7 +364,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLU9QSjExSG9ueUFrZUpNQUNjQndTcnEtSWFpWUJnUVlyeWZ5WlNQUDJFaENYa2hQdlJJcEtYSW5sMld2MEx0UFZPSkNjYklIMXhRVlg0XzRXTFpXV2NMS01fVEFkNHdYdHlhUHN4THZmZEJkTmFJeUJ6bVhhMmRobzBkcFdiUQ?oc=5",
       "publishedAt": "2026-09-19T08:27:18.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -270,7 +393,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VWWJYUWVRVVlQMHdlcTA3bG1vQ0t2dHlmX1Y5OUpoTXd5SHBCamlieHdJd01zY18tMWVCbEwwa3MxX1VaZDVZOEVPbkhIOWtFZ1JhbWtlRXXSAVhBVV95cUxNVVliWFFlUVVZUDB3ZXEwN2xtb0NLdnR5Zl9WOTlKaE13eUhwQmppYnh3SXdNc2NfLTFlQmxMMGtzMV9VWmQ1WThFT25ISDlrRWdSYW1rZUV1?oc=5",
       "publishedAt": "2026-09-18T21:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -297,7 +420,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwOE94UkZxaGtTbVpBVXNfMGhLYThfSTlnV1NXcENoZkZFSWdFYkZXaWRpc295ZDFtdzdjVklhVF9KYXpSZW95RVNGbC1GejhwWWE4WUVucEhEQ0nSAWBBVV95cUxOV1BZODZ0aHV6dWdWR3dpbVk2UDBBTFNCaXJLS3lLWnQtYTQxX1VQQ1lhcVd6MUs1eHpMQjBJc1diYVZVakhYSk5RSWxyNzREOXBLV2VkcmFPNkZ6V1drWm0?oc=5",
       "publishedAt": "2026-09-18T19:08:27.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -324,7 +447,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYSzNSc1BiaERReU5lMzBFek55OEZ3MlRkdUZHSEFTRDRqbHZEMUZvcEZiUGx0MjljWkFzWllUeHd3dFFzQ3NNcWVPaEJtanoxYl9qbUROTk1SWGI1Qkp2M3M3MU5GM0R6eTk3NU9LbktnN2c?oc=5",
       "publishedAt": "2026-09-18T06:49:23.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -346,12 +469,39 @@
       }
     },
     {
-      "id": "13bdfd482802181c",
+      "id": "e26bfc6a55c331d9",
+      "title": "'중동전쟁 틈타 수조원대 담합' 석유화학업체 경영진 8명 구속심사",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pdkxCYTAxUE1XQmdjcS1Mb3JaYVZsTllSOTE0Wm5faFNpYTRSNkFJWVZOR09LcldmZXQ3TzVXbTAxMHA0X2VPX3ZKWVFlWThpdDBXMXhlSlJsR1Q3MGUwOdIBYEFVX3lxTE1pdkxCYTAxUE1XQmdjcS1Mb3JaYVZsTllSOTE0Wm5faFNpYTRSNkFJWVZOR09LcldmZXQ3TzVXbTAxMHA0X2VPX3ZKWVFlWThpdDBXMXhlSlJsR1Q3MGUwOQ?oc=5",
+      "publishedAt": "2026-09-18T00:42:21.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "'중동전쟁 틈타 수조원대 담합' 석유화학업체 경영진 8명 구속심사 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "39da3f7e213460f5",
       "title": "LG화학 연결 리스부채 반년 새 2.5조 급증…LG엔솔 美 배터리공장 자산 매각·재임차 영향",
-      "source": "스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PTWtVZVZxVlBXTU10aVZobDNWb3Y2MExpQjlPM3BUUUNCalZrd3NqREZhdU9QYXVPUjFWTlRYbnQ5UWJoMTJPSWp6R0gxMzktYWREcXE2VVdrWHN5ay1mTjJKaW5xZzlKUXFiWFZtRGNNZFptMDlN0gF3QVVfeXFMTk9Na1VlVnFWUFdNTXRpVmhsM1ZvdjYwTGlCOU8zcFRRQ0JqVmt3c2pERmF1T1BhdU9SMVZOVFhudDlRYmgxMk9JanpHSDEzOS1hZERxcTZVV2tYc3lrLWZOMkppbnFnOUpRcWJYVm1EY01kWm0wOU0?oc=5",
-      "publishedAt": "2026-09-17T09:30:09.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "source": "straightnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGUDN2YU5mdWpPSkVHdmRGOW9rXzY1VkxWTW1fYjU2bC14VGxuVDBXYzh4Q21hVkkwbS01cUE2TWFUa3RmOGhBMG1MMlZzTUtYVDRlODRWb2ZaVHZVeDZSeDVlNzZnbmFVRFF0alZ3NUVvS0nSAXdBVV95cUxOT01rVWVWcVZQV01NdGlWaGwzVm92NjBMaUI5TzNwVFFDQmpWa3dzakRGYXVPUGF1T1IxVk5UWG50OVFiaDEyT0lqekdIMTM5LWFkRHFxNlVXa1hzeWstZk4ySmlucWc5SlFxYlhWbURjTWRabTA5TQ?oc=5",
+      "publishedAt": "2026-09-17T09:16:50.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -383,7 +533,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3bXQtMUxtVElQM3JDcTl4akdISDRWeUFLMmpXa25WbFBwQUIxRWg0bWlkRk1XTVZRcVJ1czl2bWtDazNrcVdqMTVOWDVnZC1nb3VHUnMzemphZHhKWUozZFdQR2l0amJWWjVz0gFvQVVfeXFMTmNRNUp4akVNVl9XSC15cGpFMklBZTN2NTJFQmpseklNdDIxVTBuQkxDeUc2M29VcTdWWFI2Yzc0ZE1Xc2puSWtHeVVGbm5yUlIzbldXS2pmeUg1QnJaUUhHZURaQ0dzNWFVY3Z2QUhr?oc=5",
       "publishedAt": "2026-09-16T23:25:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -412,44 +562,12 @@
       }
     },
     {
-      "id": "789943701f7d6275",
-      "title": "LG엔솔,팩·BMS 넘어 소재까지…과천 R&D 캠퍼스 2단계 착공",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hN01rUHBHMkdUZEJZZ2l5dC1iVDB1SmJGZGE3SE1xbTdDaDhyVmlFMDQ1THhfNXJsNXV1RXpLV0tmU0tNaDdzZzNLcjRtMmtNdU1hSjVFN3ZHWjJ1VUg5NXN5OEpTUQ?oc=5",
-      "publishedAt": "2026-09-16T08:12:57.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG엔솔,팩·BMS 넘어 소재까지…과천 R&D 캠퍼스 2단계 착공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e499346f2e58c4b8",
-      "title": "[NCC 감축 1년 ②] LG화학 NCC 감축 1년째 제자리…첨단소재에 15조 원",
-      "source": "자본시장뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tUzJNUkNRQUhmV3JwdGttQzNqUml4NGdBckZoX0g2ZlpqLTFIS201bEVrZGpJV0g2OGQwTHp6YjM0azFpZGVmMU00UjBlRW82VGZ4UGJnRURCd1pzeS1iUHMzUjNWV00?oc=5",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "id": "3e17b1165c0f9ddf",
+      "title": "LG화학 2분기 경영실적 발표",
+      "source": "플라스틱코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RUVg1a0xTZkl6RVhxSWRXdjZ2bDZMdEpPTFFuaFhYVU53OUVUV3hjYUl2LWxQdUZlcW8yYVdFSEpLY2ptTGVzMVdnbU1wektVbkZaQks3MS0wekpZRzlhbTc5ZmVGOGZQSkNEU0tLU2vSAXRBVV95cUxNLU55MDFyTVh0Q1RPZTNZaVZac2ZtQWViNWV2Y1NjUVB1ZVllZnNCN3IwNzRtWjBJRGlHV2VIdmthQjlIZVVGOVVBMEFTRjVIc3JNdFRydVZTS0hGckYzalpYUHZBLXhQenBtMkhTM0ZRcFN1eA?oc=5",
+      "publishedAt": "2026-09-16T16:42:14.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -460,116 +578,8 @@
           "ticker": "051910"
         }
       ],
-      "summary": "[NCC 감축 1년 ②] LG화학 NCC 감축 1년째 제자리…첨단소재에 15조 원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c6f10b9fcdda3c94",
-      "title": "고유가는 핑계고 15조짜리 담합이었다…석화사 7곳 경영진 구속영장",
-      "source": "mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUkQtQzMwZ2xzTnN2TXRRenBlRW81bmRDR2dydVhtT0t3VEZrOTlYWUxnbFhBZnZoOV9OUS1CckJiQU5NdkZyWkxNX0dSdWlma1hTRg?oc=5",
-      "publishedAt": "2026-09-14T20:52:47.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "고유가는 핑계고 15조짜리 담합이었다…석화사 7곳 경영진 구속영장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a9a54daf2684a41d",
-      "title": "LG화학, 반도체 소재 시장 공략 박차…中 업체와 ‘초고순도 세정 소재’ 사업 협력",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aTUxVYlVpTFlEOW00T2RsZHNCX253S0VYRkNTNmNoSVRBNko3QlhjYlgwOUotWVRPMjZqOUpxZXJmWTBTNnlETk43SVdqYlFYcHNmZA?oc=5",
-      "publishedAt": "2026-09-14T10:02:48.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 반도체 소재 시장 공략 박차…中 업체와 ‘초고순도 세정 소재’ 사업 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "87ac057a4b6515b4",
-      "title": "LG화학, 中 장화웨이와 반도체용 초고순도 세정액 MOU 체결",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UjlOVVE5MUJ4VUQtVk9CTTk5SENGanBBUG9GM0pRbTgyVDUxc3pzRGhxNER4V2E5LVdPeUNxemdQYmM4R0RXeU1zM2xuelRSeHBpWmlPWEpaMnVoSERxV2tUTHJRUQ?oc=5",
-      "publishedAt": "2026-09-14T08:15:43.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 中 장화웨이와 반도체용 초고순도 세정액 MOU 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ae73ed1c4c33137f",
-      "title": "LG화학, 中 장화웨이와 초고순도 IPA 동맹…현지 공급망 구축 By EBN",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fcFdwUWtrRjVRanptVjUxWEpydEhlUXFLUk5GSzVHSVltQ3N6SW9IMkR2c21KM29ob09ZbzdreTVuWmk4MFdOdjJJNE5SazRCUlpmeWloTnFYTm8xaEZWeVZKaVNHZ21HMU5xTFRZSjI?oc=5",
-      "publishedAt": "2026-09-14T08:11:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 中 장화웨이와 초고순도 IPA 동맹…현지 공급망 구축 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
+      "summary": "LG화학 2분기 경영실적 발표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,

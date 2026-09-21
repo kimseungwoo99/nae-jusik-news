@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:37:00.123Z",
+  "generatedAt": "2026-09-21T08:22:57.497Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -11,7 +11,7 @@
   "dailySummary": [
     "하나증권 \"은행주 실적 개선 기대에 매수 전략 유효, 최선호주 KB금융지주 우리금융지주\"",
     "이재근 KB금융 차기 회장 \"국내 1위 무의미\"…차기 거점 '중국' 물망",
-    "[KB금융 새 사령탑 이재근②] ‘준비된 CEO’ 증명한 3년···국민은행 순익 3조 시대…"
+    "[김보형의 뷰파인더]양종희·이재근 'KB'의 품격있는 승계"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vLXctdk11dGtVb2lmRnJ5V3RWZGhkaUVjZmVrdjJzdUZwRHA0dllmVkY1SWtLMko2RHFVcWJIN0FBb1BvYUNMWlU5UHNPTVU5dU93VFdyZVVoVnU2MEJMVFRybkcyOEpXZVkxc0phSTdYbWs?oc=5",
       "publishedAt": "2026-09-21T00:02:20.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -49,7 +49,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54ajRoOC04UlE0VFpXWnZmQ0gyVVFibjA2T19pRnppSldRUnBnUnJveHhGbE5lLXQ3RkY5QmZQQUpUenRYY1RQZFZhWkZKQ2NI?oc=5",
       "publishedAt": "2026-09-20T23:30:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -71,12 +71,39 @@
       }
     },
     {
+      "id": "16d17c5e60d268fd",
+      "title": "[김보형의 뷰파인더]양종희·이재근 'KB'의 품격있는 승계",
+      "source": "한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNa0dQNFZoVDdodTZJbDRxZVlSUkR0VHBzT0VLVVgyNDNDYXlpLV91NFVrWHhoenR2UFpEdllnZkZ1SDZCcUkxa1ZwTzY2QVFOMmJoYTZfcGFQZ1NQR0lLQUF4VjlFb3lNZ3JwQQ?oc=5",
+      "publishedAt": "2026-09-20T23:21:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[김보형의 뷰파인더]양종희·이재근 'KB'의 품격있는 승계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "869eb01194144977",
       "title": "[KB금융 새 사령탑 이재근②] ‘준비된 CEO’ 증명한 3년···국민은행 순익 3조 시대 열어",
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fQ1FMYlh1M0VtdE1CWFJnOFJzakVCbm9zM1ljQzlSUVc4WlF1bE5HdDZmU1NBYWVCa1pGa1FFem5tZFpvWGhnaDdTU0s2TVN0cjVtNC11aTJ4RFVkZ3lpRTFJU2VoT2hVV0h3azZGZEFudDhySkcyR0U4Nmc?oc=5",
       "publishedAt": "2026-09-20T22:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -98,12 +125,66 @@
       }
     },
     {
+      "id": "8f26b245a184086a",
+      "title": "[KB금융 새 사령탑 이재근③] 은행 CEO에서 그룹 수장으로···국내 1등 딛고 ‘글로벌’ 초점",
+      "source": "한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jU1FjQ1Q2OTE4OVljNWFiWkRLRXdySm1zQTNhSWNsTUo1QUNYVXNBb0F5bjlUcGtuNmNwa1RidmZWYmZORTFqWHdFWWI0OFZDaDNWclZhcXEzU0hzYmpxc0ZHNmUzUlFuWFpjckFZVks4SVVfOFE3ZjJQS1A?oc=5",
+      "publishedAt": "2026-09-20T22:00:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[KB금융 새 사령탑 이재근③] 은행 CEO에서 그룹 수장으로···국내 1등 딛고 ‘글로벌’ 초점 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dd45563494b834fd",
+      "title": "[전망] 이재근號 KB금융 출범에 금융권 54명 연말 칼바람 예고...’이환주 행장 연임’ 최대 관심 By 알파경제 alphabiz",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PZU53dFYwTVVRNHhCSmhoNjVQMmxiTndEQ1Nlc2ZJYXM2Z2tzbjdvUnZzenEyYWNTMk1aS0pLbFJKd3paMHlpQ2pJb0dUN0ZJVEdnRW9rUXRpYW0xN2lBNThkbS15QUlKSm5zdzNYQ2w?oc=5",
+      "publishedAt": "2026-09-20T16:23:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[전망] 이재근號 KB금융 출범에 금융권 54명 연말 칼바람 예고...’이환주 행장 연임’ 최대 관심 By 알파경제 alphabiz 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "4ff5a256c1507957",
       "title": "KB금융, 호실적에도 양종희 회장 연임 대신 ‘변화’ 선택",
       "source": "한국보험신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pcXZ5RWRRRUFMdHdWelBfOW54SHR1UXJRWEpEUllLX1VwcXV2anloeVZQNnllT1I0cnNXekdDd2E1Uzd4ZHB1SG1vbGJVY3UtT0dackRzamZ1cTlVaDZyeUtwYWdjRHh1eEg40gFvQVVfeXFMTzRueUcwcDBqbFF5N3lrWWk3anZnU2d3VVpMQ3psVEQ0VS1yVkZFNG1oaUlETjlJaGxHLVhpdU9NN0lLV1RWY3g0R0gwMG1DSE1RNTc2YkowWktQRUZqYWZObW5xWDNuYlNIODdHa0w0?oc=5",
       "publishedAt": "2026-09-20T15:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -127,10 +208,10 @@
     {
       "id": "789dcb28a13ba87f",
       "title": "KB금융, 이번 추석 ‘전통시장’에 꽂혔다",
-      "source": "스트레이트뉴스",
+      "source": "straightnews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YZXV3TW5jN29kOU13c3IyMFdoU0lleVJqd1FCZEJGMDd2aXZZUmZUNjVCQzA2T0FYTHpzWTBlV2RMdDBZNUgzcWwxbFhXUExBZTZRQmJfWmp4MndRNzgtXzJwbGhUd2VnU0Rya1lhV2w1ZDNfcG5j0gF3QVVfeXFMT1hldXdNbmM3b2Q5TXdzcjIwV2hTSWV5Ump3UUJkQkYwN3ZpdllSZlQ2NUJDMDZPQVhMenNZMGVXZEx0MFk1SDNxbDFsWFdQTEFlNlFCYl9aangyd1E3OC1fMnBsaFR3ZWdTRHJrWWFXbDVkM19wbmM?oc=5",
       "publishedAt": "2026-09-20T02:38:28.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -142,7 +223,7 @@
         }
       ],
       "summary": "KB금융, 이번 추석 ‘전통시장’에 꽂혔다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -154,10 +235,10 @@
     {
       "id": "20f6c4cd9b88c729",
       "title": "KB금융과 권광석, 그리고 '실적부진' 우리금융(회장 임종룡)",
-      "source": "choicenews.co.kr",
+      "source": "초이스경제",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zLW14dFE0Vy1zR21RX0thVmRzdHVIcWM2dUtLN0R4VFoxYnpwR3ZFRWZuMVRjS0YtQWVwbU5uVVhiUEl6cHBQX0Q0VVZtX2RIRDF3TGN2d2FFa1RON2gyRHV6U1lUOGM5bHFuMnZmam_SAXNBVV95cUxOcHhGbHB0cGd1MXMtdlo2WE1WMXFSQkVpRmo3RVc4aDNnTjJFUERYR0FCREs0RmFwa0VXYlg5aHRXdEVnYkgtYmh6WDJrNFhfRXU4NVpPX3lrMkF6VGtBS1cyOFlDVzh0OW9pd3hwaWI3S2pN?oc=5",
       "publishedAt": "2026-09-19T22:45:51.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -186,7 +267,7 @@
       "source": "더밸류뉴스",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IMUZEYkJadWR3X3JrekRxQ1M2a2Q3UXJQYktDcmdMenlkd3BvSGxnS1pBRmlOcXFtNFJ3d0s5cXVLXzd5MnFMcnB5ZzJRdU42X2JJNA?oc=5",
       "publishedAt": "2026-09-18T07:04:50.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -213,7 +294,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Mc25LZU1jZmExSnJaQ05ZUkpmNGlKS21iSnFKbzV2RldUN25mejYxcFRKX0lNX01rckotUFlOb0VCd1FpcUxEdnZZZFJGb3BaR1JYY05GUGdHSk3SAWBBVV95cUxObTR6Y0JCX1VYTTlqcEVkNFEyZ1dCNUNZbDFmdVRnOV9TX1dsNGI2Njl5MVZ4ZzlJZnYtT3dSYnE4MFRwYmhJUDJKaVV2N0RZSjlBa1hvVmFkZWsyYTVxVEs?oc=5",
       "publishedAt": "2026-09-18T05:12:37.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -240,7 +321,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNWdtN1RNSldVWTRCcnNPNXFTTnNCYWd5bmM4ZkZTLU5fS2ZGSmZSUk5RZTY5MHVmZmMyeTg1NG9NekVvTkVBYTVTTExacGMyWGE3Wl9fZkRiNF84N3RnQm96Ymw?oc=5",
       "publishedAt": "2026-09-18T04:50:29.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -262,12 +343,39 @@
       }
     },
     {
+      "id": "738384616ae6dad4",
+      "title": "회장 바뀌는 KB금융, KB證 인사도 흔들까…지주와 '미묘한' 기류",
+      "source": "인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEpHWm1MMkJzZ1doR3RvVURjdWVYTjA4S3RrY2hERXB6YkRuRDNUSGFEQmZVV2lZR2EtZk04R0Z0RzFBNTVUR2VQWUVzOC1hbG5OS0MwOTdLYU9Kc3AyZmlsbmdnNXZoYzllYkRVYTY1OFBZRkZpOEc5eVl1aTlZSjhEcw?oc=5",
+      "publishedAt": "2026-09-17T22:00:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "회장 바뀌는 KB금융, KB證 인사도 흔들까…지주와 '미묘한' 기류 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "64afec92690444ef",
       "title": "최대 실적 이끈 이홍구 KB증권 대표···'세대교체' 속 연임 주목",
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSkYxUk1YZE1YWGdtbmMxM0NfZVJRWk1EUldaSzBIX1FfQTgwYTlzamJaUjNZalJMTExhOFpNeVlNY2dUT3hDcDdMc0tZU0d4U3hwYkoyYXZ6WjRya3I4LW51UjY5QkgtNkE?oc=5",
       "publishedAt": "2026-09-17T21:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -291,10 +399,10 @@
     {
       "id": "01e443b49beb2890",
       "title": "이재근, 양종희와 나란히 업무보고…KB금융 승계 작업 본격화",
-      "source": "news.einfomax.co.kr",
+      "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERkdINE9NYTF0czJ6LXBwRHhzQUM2U3BMMUpQSFpkdHBLU0gzMnN0Z2c5bG90ajhaTG5US3JtaFpjdWd3bDBRYWxZNl9KVDZlWTM1OXYxR0hfaURJSW12ejFlcXp5c1prOXBoV3FOZ2w?oc=5",
       "publishedAt": "2026-09-16T23:21:18.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -316,12 +424,44 @@
       }
     },
     {
+      "id": "7428184372e24492",
+      "title": "실적 좋아도 연임은 별개⋯5대 은행장, 연말 인선 ‘각기 다른 시험대’",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RZncwQXNDUnpfbEdTbGlrTEhaUTJMMHNEVXp0aVhrVnFoLWZaTXIxeTZRdHVvc1pGRThuSHI5Z0lPZzZnaFYyS2czSDlYYlptM1N4NA?oc=5",
+      "publishedAt": "2026-09-16T20:00:00.000Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "실적 좋아도 연임은 별개⋯5대 은행장, 연말 인선 ‘각기 다른 시험대’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9cf3d9ee343ac48f",
       "title": "'이재근의 사람' 키워드는 주택ㆍ재무ㆍ서강? KB금융 연말 인사 '폭풍전야'",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXdPYm1fLW1FZ3hhTGpOYmNIU3RNekxFazF2UkdaMHQtMWM1NWtscjBPQUtRTGVtMm1jM0RMRVJtS1V4OWF6YUg5dzByenpqbDBVeUppMF96V2czRXIxc0p5Z2VSaDlTOUhJMDRGQjlPZHFBeTN1QzVJN3dwa3pmeWNFWQ?oc=5",
       "publishedAt": "2026-09-16T07:28:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -348,7 +488,7 @@
       "source": "자본시장뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xTE5ha3BHdWdlem05dDhQMFhhYkh1Ml85WUxUYWpDVmVCcEROcExZR3paTXpzRHVhR18yUVEyQXR2WHd3OWtDOU5tS1hsRmdFR2wtOXI2bERaM2p0aFAwamFkbTNnYVU?oc=5",
       "publishedAt": "2026-09-16T07:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -375,7 +515,7 @@
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GUGUyTVdwd3U1Qm9QLTVRamxqWTVoc2lyOUwzLUFFSURvVU5OcnJnMV9yNVd5YkFKd1pBUFdUMWk3YVhJdzZGLWdZX21Xams?oc=5",
       "publishedAt": "2026-09-16T01:26:19.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -397,41 +537,12 @@
       }
     },
     {
-      "id": "146c98df4cda0b6e",
-      "title": "'사상 최대 실적·주주가치 제고' 굵직한 족적…아쉬운 퇴장 속 빛난 KB 양종희의 3년",
-      "source": "뉴스드림",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10amo3dGNTVTRLY29TMFFsc2hPeWtMS3BxWXNlbk92WUtkakt0UzhGZEZOVDA2dHB5VEstMFFFWkhZWDhOR3UydEpKRWxEano3RjNCTmhMM1liVS1BMklwbXJMMlFxWWpvb1HSAW5BVV95cUxPdDdFQnFoeHBqV0F1V0piSzZLT0RSX3RIUUQ5SklzdG05VXp3dTIzLXZPaEE1dzY4MnVEaXltTFhpMUdrOG5VZ0dscjh3QUdRT1RUWndPSGZISkZwNHNkZFhpY3RaeW1BbktGNDBWUQ?oc=5",
-      "publishedAt": "2026-09-15T22:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "'사상 최대 실적·주주가치 제고' 굵직한 족적…아쉬운 퇴장 속 빛난 KB 양종희의 3년 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b57e50bcc3d7ddd6",
       "title": "KB금융이 깬 '연임 공식'…연말 4대 은행장 인사판 흔드나",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZ1h4aUJZVHlFOG1LbTJvSldwaDk0N3hLdUxaVDNGTEVOREVwVkt4aXZDVTkwQVVLWHlIdXRZaWN1aUl2NDAxS2MtTTQ1a0sxSWlTUg?oc=5",
       "publishedAt": "2026-09-15T07:39:09.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
+      "collectedAt": "2026-09-21T08:22:57.497Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -444,114 +555,6 @@
       ],
       "summary": "KB금융이 깬 '연임 공식'…연말 4대 은행장 인사판 흔드나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "52356b1fdce60d4d",
-      "title": "[데스크 칼럼] KB금융 회장, 바뀐 것은 세대가 아니라 기준이다",
-      "source": "브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wd2N5b1RFRHBpT2lVRU1pUlpIX0k1aWlPa1JqRzdmUWFDa2RwZGdpWF9lQzQ0UU9OY0ZqbVdSYkRuNUZiQ3NNZm43clg3U2JwaGN0eDVYR1JlZw?oc=5",
-      "publishedAt": "2026-09-15T05:57:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[데스크 칼럼] KB금융 회장, 바뀐 것은 세대가 아니라 기준이다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2539f1d48e65138b",
-      "title": "KB증권, '2026 KB금융 코리아 컨퍼런스' 개최",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wVS05UlU1Q2lGXzYzTU5iMGNTaXdaTlYtSEhWcE9DWkhFb0pud2lpbmZNUWJqUFRGRjRKQ0xsOEszTUExTVVhejAxOG96cUJPSG1naFEyUnJHR09z?oc=5",
-      "publishedAt": "2026-09-15T05:34:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB증권, '2026 KB금융 코리아 컨퍼런스' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5b2af3a569ab6b91",
-      "title": "KB금융 세대교체, 2금융까지 번지나…CEO 4인 거취 '촉각'",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aWg4WVNMeVlJT2R0OUFrekNZcTNIaG1QUV9ZVWY2Q1JhWVUxMmJscHlabUtReTY4NDQ1YkttQ0dmR0xKRkJYTVl4WE1xeDE2eF9rLUxJMDNyZHNq?oc=5",
-      "publishedAt": "2026-09-14T21:00:00.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융 세대교체, 2금융까지 번지나…CEO 4인 거취 '촉각' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "11b958a083812181",
-      "title": "실적 1등도 바꾼 KB...이찬우·황병우 회장, ‘연임 셈법’ 달라지나",
-      "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rYVQxLVkyU2hSVllNTjRtSVY1a1MxUEZ3VUtrR0FpRkFJTUFCQmdjWW9vQTEtUy1sX1lqY0xaVUF0ZERHRWZHdkN2bkFDOG5BRTQ4ekEyeFRNQ1E?oc=5",
-      "publishedAt": "2026-09-14T09:01:51.000Z",
-      "collectedAt": "2026-09-21T03:37:00.123Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "실적 1등도 바꾼 KB...이찬우·황병우 회장, ‘연임 셈법’ 달라지나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
