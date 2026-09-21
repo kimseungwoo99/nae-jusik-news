@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-09-21T08:30:00+09:00",
+  "source": "mock",
+  "isMock": true,
+  "stock": {
+    "id": "hyundai",
+    "name": "현대차",
+    "ticker": "005380"
+  },
+  "dailyBrief": "오늘은 전기차 생산, 하이브리드 판매, 차량 소프트웨어 기술 관련 소식이 주로 다뤄지고 있습니다.",
+  "dailySummary": [
+    "전기차 생산 전략 관련 보도",
+    "하이브리드 판매 흐름 점검",
+    "차량 소프트웨어 기술 협력 소개"
+  ],
+  "articles": [
+    {
+      "id": "hyundai-001",
+      "title": "현대차, 전기차 생산 전략과 신차 일정 점검",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=현대차%20전기차&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T08:18:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
+      "summary": "전기차 생산 운영 방향과 앞으로 공개될 신차 일정을 정리한 내용입니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "hyundai-002",
+      "title": "하이브리드 차량 판매 흐름에 시장 관심",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=현대차%20하이브리드%20판매&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T07:52:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
+      "summary": "국내외 시장에서 하이브리드 차량 판매가 어떻게 움직이는지 살펴본 보도입니다.",
+      "category": "실적"
+    },
+    {
+      "id": "hyundai-003",
+      "title": "차량 소프트웨어 기술 협력 범위 확대",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=현대차%20소프트웨어%20협력&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T07:10:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
+      "summary": "차량용 소프트웨어와 연결 서비스 개발을 위한 기술 협력 계획이 소개됐습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "hyundai-004",
+      "title": "해외 생산 거점 운영과 공급망 현황 점검",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=현대차%20해외%20생산%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-20T17:40:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
+      "summary": "주요 해외 공장의 운영 상황과 자동차 부품 공급망 변화를 점검한 내용입니다.",
+      "category": "산업"
+    },
+    {
+      "id": "hyundai-005",
+      "title": "친환경차 연구개발 투자 방향 소개",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=현대차%20친환경차%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-20T13:50:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
+      "summary": "전기차와 수소차 등 친환경차 기술을 위한 중장기 연구개발 투자 방향을 다룬 소식입니다.",
+      "category": "투자"
+    }
+  ]
+}

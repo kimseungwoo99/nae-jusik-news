@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-09-21T08:30:00+09:00",
+  "source": "mock",
+  "isMock": true,
+  "stock": {
+    "id": "samsung",
+    "name": "삼성전자",
+    "ticker": "005930"
+  },
+  "dailyBrief": "오늘은 HBM 생산 계획과 반도체 연구개발 투자 관련 소식이 주로 다뤄지고 있습니다.",
+  "dailySummary": [
+    "차세대 HBM 생산 계획 관련 보도",
+    "반도체 연구개발 투자 확대 방안 소개",
+    "메모리 시장 수요 전망 점검"
+  ],
+  "articles": [
+    {
+      "id": "samsung-001",
+      "title": "삼성전자, 차세대 HBM 생산 계획에 업계 관심",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=삼성전자%20HBM&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T08:12:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
+      "summary": "차세대 HBM 생산 확대 계획과 공급 일정에 대한 업계의 관심이 이어지고 있다는 내용입니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "samsung-002",
+      "title": "삼성전자, 반도체 연구개발 투자 확대 방안 공개",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=삼성전자%20반도체%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T07:45:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
+      "summary": "반도체 경쟁력 강화를 위한 연구개발과 생산 시설 투자 계획이 소개됐습니다.",
+      "category": "투자"
+    },
+    {
+      "id": "samsung-003",
+      "title": "메모리 반도체 시장 수요 전망에 관심 집중",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=삼성전자%20메모리%20전망&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-21T06:55:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
+      "summary": "데이터센터와 모바일 기기 수요를 중심으로 메모리 반도체 시장 전망을 살펴본 보도입니다.",
+      "category": "실적"
+    },
+    {
+      "id": "samsung-004",
+      "title": "스마트폰 신제품 출시 앞두고 부품 공급망 점검",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=삼성전자%20스마트폰%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-20T17:20:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
+      "summary": "스마트폰 신제품 출시 준비와 주요 부품의 안정적인 공급 상황을 점검한 내용입니다.",
+      "category": "산업"
+    },
+    {
+      "id": "samsung-005",
+      "title": "삼성전자 주요 경영 일정과 주주 안내 사항 정리",
+      "source": "샘플 뉴스",
+      "url": "https://news.google.com/search?q=삼성전자%20주주%20경영&hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-09-20T14:10:00+09:00",
+      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
+      "summary": "회사의 주요 경영 일정과 주주가 확인할 수 있는 안내 사항을 정리한 소식입니다.",
+      "category": "기업"
+    }
+  ]
+}
