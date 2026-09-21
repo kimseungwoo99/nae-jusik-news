@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:22:57.497Z",
+  "generatedAt": "2026-09-21T16:42:58.039Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,99 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "대덕특구 내 한전 전력연구원 배터리 화재…인명피해 없어",
-    "4분기 전기요금도 동결…한전 재무구조 개선 ‘요원’",
-    "한전 전력연구원 부지 내 ESS 화재…리튬배터리 28팩 전소(종합)"
+    "대전 한전 전력연구원 ESS 화재 … 배터리 28팩 전소",
+    "한국전력 경기본부, 경기도교통연수원과 손잡고 ‘교통·전기 안전문화 확산 업무협약’ 체결",
+    "한국 전력산업 규제, 기술변화 맞춰 재설계 필요"
   ],
   "articles": [
+    {
+      "id": "a1f35de669b647ec",
+      "title": "대전 한전 전력연구원 ESS 화재 … 배터리 28팩 전소",
+      "source": "금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBub0xpRFZFZm1jaS05V3A4bng1OTY1d1pYTnFVNlZFTGJXeXdvS0FNRnZ0Q19wQ3FIZi1nckJxcnFVbEgxX0Y2bTJZbjRRc0xFSV96emN5N3BvVk1BcGJITlMtamRCQTVpbHc?oc=5",
+      "publishedAt": "2026-09-21T10:02:08.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "대전 한전 전력연구원 ESS 화재 … 배터리 28팩 전소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8ec2a67a5ad3ab8a",
+      "title": "한국전력 경기본부, 경기도교통연수원과 손잡고 ‘교통·전기 안전문화 확산 업무협약’ 체결",
+      "source": "기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWTGdEN1M0Z3NDMXpFTXlOWndkaUJrTGdKUmtyYWM1eExxR2dQLV9VcC1SSUtDSEJRLWRCUmVQblJPdGhENTFtV3hBbzhCMFp2OFJvNVJPeFp1RFdMWlQ5YlNyQjRLVEctcGRTZEF6Zw?oc=5",
+      "publishedAt": "2026-09-21T08:38:00.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력 경기본부, 경기도교통연수원과 손잡고 ‘교통·전기 안전문화 확산 업무협약’ 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4476c893b4f1c27d",
+      "title": "한국 전력산업 규제, 기술변화 맞춰 재설계 필요",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5rb2h0ZzdQazl2dnByN1BlVXFydDNBYWVTNW9SQ2pIeWYtOU9COEZscjFOZXZoOWRhTTJJN0NiUXYtS09X?oc=5",
+      "publishedAt": "2026-09-21T06:47:44.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국 전력산업 규제, 기술변화 맞춰 재설계 필요 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "dca36077410fa1bc",
       "title": "대덕특구 내 한전 전력연구원 배터리 화재…인명피해 없어",
       "source": "세계일보",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVS2RaQWUwQW1KeVVndWNpN2dNeW5IeFplVWdYYzc3OG1kcjRUTk00UldhbWRnZWFpMnFRQURGLUd5ZWtpRzJaUk9BbnJfbjRESUdSbNIBVEFVX3lxTFBVS2RaQWUwQW1KeVVndWNpN2dNeW5IeFplVWdYYzc3OG1kcjRUTk00UldhbWRnZWFpMnFRQURGLUd5ZWtpRzJaUk9BbnJfbjRESUdSbA?oc=5",
       "publishedAt": "2026-09-21T04:23:01.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -47,7 +128,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWF94eVN4Vkd4VXhIX3RMMXNVdGdPZEtwcTVQYkdvYTZzZTdxejZEWTF2VTJKdmZQaHZrQUp1X1p0RER5bjBfOFA5bjBzZnpBcklDYU83NXB6WXJKY09NNzNWVzZHeHZPbk1Tc9IBcEFVX3lxTE5kcHdWNWRPTG8tV3l0ZUx1YV9EOXFjNzlNWEZ0d0NfR1Zwd1pYc0ZMcmRWbWI3RXAzbEVYX0I1RVBIdGNYVTU3NXlOUVk4QlNFMkF3X1RqaFAwM0p5NkJ2QUszY2xUbFJfOEVRY0c2dkE?oc=5",
       "publishedAt": "2026-09-21T04:19:23.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -69,39 +150,12 @@
       }
     },
     {
-      "id": "14b576d8984115c2",
-      "title": "한전 전력연구원 부지 내 ESS 화재…리튬배터리 28팩 전소(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONjZLMnBZZXJVWElDVnBvb3d0Y2tmNFJUUnBYM21tRFlZU3h0ZHhYVE5KQkZPa0RMU1hIVWJjaVJJQm50bmRna3I4RE1TYXJ0VHhHNFhZOWxDVm5HMVgyUtIBYEFVX3lxTE9ONjZLMnBZZXJVWElDVnBvb3d0Y2tmNFJUUnBYM21tRFlZU3h0ZHhYVE5KQkZPa0RMU1hIVWJjaVJJQm50bmRna3I4RE1TYXJ0VHhHNFhZOWxDVm5HMVgyUg?oc=5",
-      "publishedAt": "2026-09-21T02:41:55.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전 전력연구원 부지 내 ESS 화재…리튬배터리 28팩 전소(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cf102b1340aee713",
-      "title": "대전 유성구 한전 전력연구원 ESS 화재… 배터리 28팩 전소",
-      "source": "fpn119.co.kr",
+      "id": "44dd46f215136dd8",
+      "title": "대전 유성구 한전 전력ICT대전센터 ESS 화재… 배터리 28팩 전소",
+      "source": "소방방재신문",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44T2d1a2N6cUpaNGxBeWFhUi03NzA4MnlUb3Q2OWN1cWhLclNmUV9keEFJZlZqVTV5MlVzSFBuRVMwc25Wd1E?oc=5",
       "publishedAt": "2026-09-21T01:42:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -112,34 +166,7 @@
           "ticker": "015760"
         }
       ],
-      "summary": "대전 유성구 한전 전력연구원 ESS 화재… 배터리 28팩 전소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "86acab5d60159f05",
-      "title": "대전 한전 전력연구원 ESS서 리튬배터리 화재…냉각 작업 중",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90OGF5c0U5cGQ0RHRoY2NBV2V2YVA4emdjY19pYVpvRkF3a282ZE9hSmIyWVpnTzN6X3JLVGlMRVhUREdrVUstLWlQdkFrWTdjRUJrRDI5b0J6S1Va?oc=5",
-      "publishedAt": "2026-09-20T23:33:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "대전 한전 전력연구원 ESS서 리튬배터리 화재…냉각 작업 중 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "대전 유성구 한전 전력ICT대전센터 ESS 화재… 배터리 28팩 전소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -155,7 +182,7 @@
       "source": "경남도민신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QWm5ZZXR5RXVuWTVJQ3dxM3ZNaERyTGs5VHIzby1CQ3NaTGNvVXZiU3NGd0NwNmhrYXlfT0MweGJMZzBEYVZxNkRrMzYxUjA5Y2tDejdoaHVyem93Rk4yZXVrcHlXTGlP?oc=5",
       "publishedAt": "2026-09-20T09:12:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -182,7 +209,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vVU9OR1RZa2c5YV83cFdUM0FVbUd5VlZFYktoNnRXdFA2X2F6aXBuS25nVTdvSXBkMnA4ZmpaRHY1MmdUMWxubE1xZGFTOFpXRmfSAVNBVV95cUxNWDFzcUE0MmJqb1djdGdPR0RjS2sxZk9ZVldPazg4OV9NM3kxVUFhUGZfalk4bHJETDFVVkhVaWRBanN6Y043UHM1Q3h2RkI3OEVEZw?oc=5",
       "publishedAt": "2026-09-20T09:05:09.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -209,7 +236,7 @@
       "source": "에너지신문",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DanFTamVJdDlHOE84YlhXdnJac2dNTkJSOTBmVEljSV80S29iNUI3MHNURy1LWURyOHZiNUxzTzhrZFFrZGVycXZ5ZWhoY2JYbloyY1JxMVJYOVgtc1lyX1FfRmRCYlVPZndRbUY1c3hQUQ?oc=5",
       "publishedAt": "2026-09-19T02:24:37.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -233,10 +260,10 @@
     {
       "id": "059fd6d0a8e1f2ed",
       "title": "그리너지, 산업용 로봇·한전 전력설비에 LTO 배터리 공급",
-      "source": "thelec.kr",
+      "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wdE1XSGhLYjhEZ1pDSHRWbU5sTGZmdzM0eG4wd2ZKSkhjU3U3WGx4NHJEcDd0Nk1OaVZiUTZpVndQSEJwZ0lvLUYxSDZvcGthbjZNZUtsZUswVDhicGlyOHhtb2NnZw?oc=5",
       "publishedAt": "2026-09-18T08:57:35.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -263,7 +290,7 @@
       "source": "영등포신문",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbFp5RF90VUJlajluZTVLVU1sRFhyNGxBYUdKTXhHU19Md2RVbnJwME1YUkd1dkwxWk96UmdqME5QRmFmUWlYbFlIYUZDSHd0b3ZTdVRTcF9vem13?oc=5",
       "publishedAt": "2026-09-18T08:11:13.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -287,10 +314,10 @@
     {
       "id": "15eb63441b4cb93a",
       "title": "반세기 원전 기술에 AI 심었다…한국전력기술, 국가공헌대상 '쾌거'",
-      "source": "esnews.kr",
+      "source": "에너지안전신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84ZHU3RUJzNFhMLUF4WWs1dTYtaG8zaDhhN0hMT2pWTDQzeURDQzVuRnhaaWtiNTk0RnUyRDRLcGxqSnZHcjItRnV4T0c1Z1dkUERDS0paMEJjVDFnaTZ5NjJ3T1M?oc=5",
       "publishedAt": "2026-09-18T07:12:05.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -314,10 +341,10 @@
     {
       "id": "db23e3ead0d1d7df",
       "title": "GS, 한국전력과 현장안전·AI 전환 선도 '맞손'",
-      "source": "etnews.com",
+      "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kWUZMY1pGM1UyNm9weldodWd4emxPNDNnbmZkUjVsa1owN3NoTnlOVG4zXzRERG4wLTlLR212UkxZUzhGcTNIMFhJY25DQQ?oc=5",
       "publishedAt": "2026-09-18T06:36:46.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -344,7 +371,7 @@
       "source": "인천일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOV2pONjBLa2tYWnNNekNBN0tWdFZIbzVPR2NSbm9KYVYzUUtLdWtERVN2QXVrdmZIOVNaVjhpQVE4VVhheEF4Vzlzc1lBMGkwTjZ0R3I5Qlo5MGlETU5NUEhucnNKLU8zRkNCN0pEU2o?oc=5",
       "publishedAt": "2026-09-18T05:25:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -371,7 +398,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvTnpCQXoxTzlhdVZRNkJoWW8yNzQ2dzc2c0JfQ0UtRHBVX2V3eXBUSUdYNllLd3RIWFg1cUpBcVdZRHhQcnQ5bGo4SEpxbWNwcWJvZXJCemZGVktsVTJMcEFrb3RQMjczQTJGTk1ORDE1QQ?oc=5",
       "publishedAt": "2026-09-18T03:56:07.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -398,7 +425,7 @@
       "source": "알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DLXpfSHkwNmtOaGY2UWxYZW9tY0pBVWJtMVRQYnJDQjY0ZGluUzc2bGVLcnFEU1JRNWVIXzM3UGFSc3Jwdmx6ajlzMkJ2Yko0TVNwMDRjc2RyTElBWVprUWtYR0JCbVJNaFpteFVR?oc=5",
       "publishedAt": "2026-09-18T01:52:13.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -425,7 +452,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWQ5SVBwQXF6NUdrVHRQU0k4TmNSalJFSXZpcURGTEo1YkdOZEVUaTVNVFN3cnZVLWlKcWFiN05rZFZEdWxpUTRVMWJEdmNQb3V6LXRjaUl0bm9PSENKenM4enRRYXBPVUEzVkNtbmZwTDBXbzBULUstWVJqbFZEVXhZamFKMDRG0gGcAUFVX3lxTFB1SS0yUlpqZjFUTzNFN2V0T3dBX3JNNXJXcEM5SXJfZXlaSU9FV0cwQWhrdEtlbDFJTDlzWnhpc0VmNjVBcUJwdnQ4Sm1BM2JYQUxLZEowaUlKd2VkWkFHWFNKaU9Qb3JfNEFXYnI0QTJ0TElYWEotTTZ6Vks2dlBaaTBVeFZ4dnItT1FwSjB0dFl2cEdKUWZNYzdGLQ?oc=5",
       "publishedAt": "2026-09-17T23:45:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -447,39 +474,12 @@
       }
     },
     {
-      "id": "d5b05c7ad7394a7d",
-      "title": "기후부·한전 구성 ‘전력산업 산학연관 전문 포럼’, 성과 발표회 개최 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNk5lTHdSZ183cEF6eUp6U083Z0l1b1NQYzRqOTdFbElGZjR2YmV1Y2U3OU9VcHZFdHNjU0RkU3BqanE1UmdCY1ptRE9HX0g1YmVJOXhSVkgzUHdaMl9lZURRUzhVSlZLRkFrcE1MaGlRWnd2WVBwVTJQV3FSd2xuNkFwN0zSAZgBQVVfeXFMTzF5bVNQUTBzc09rbWZjWE9HNG1NVTZWcUM4QUZjeldDdDBMVHNZWm5sRHY0R0Y2N08waDlpeEtLXzFrdGhieVRfRXBWQzFUbDlNdlBEYjlKbTV4Z015aklyem5NVXRFZGMwWXFoazdvY2RLWDNaNV95SXBjeWFSb01vY0IxZHItWndNVEM2NVBDTWY1U3hrM04?oc=5",
-      "publishedAt": "2026-09-17T06:55:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "기후부·한전 구성 ‘전력산업 산학연관 전문 포럼’, 성과 발표회 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2ff152e0b336151c",
       "title": "기후부·한전, 전력산업 포럼 성과 발표…가상송전선로 내년 착수",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByYVh0OTFZSUdtSnpXOFdYUUVvQlQ1N2lKNkVUREstU0VieVluYi1NemdSbkd4MEZQaDBJRlJxSWxqMXFJWG4wOHBKM0RYbm1DMHJ1WVlCaW45a3hnamtkMGp1TW1yYVdqMzVBRNIBcEFVX3lxTE5rcVBPMUwtU1NiajlSdWZRVzJ6bEcxTHdxRGJ5N2oxUUtLVjRpRWZYTGVpZUlmbVRKbnNQamFFb3hsWE8wdUQ1cmRMTUlnTGs0bmR0ZFIwUWx0cjVqX1hhaklMOERXa3dUMkhGekpoQ0s?oc=5",
       "publishedAt": "2026-09-17T06:44:07.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -506,7 +506,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cd1p3VkVKbXMtSjdiZDc3RGNDNGFMeU5EMmlSSU8xdWRvVXNwTDMtX0RlVmljbWlfakdyUkhST1dyNkgzNkppRmJHeDVoWkh4SmxPdHpZOTBKdw?oc=5",
       "publishedAt": "2026-09-17T06:43:24.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -533,7 +533,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rb3kxQVVZbTlWdFdWMDBnZzd6TGVIMVhXcEJPdko3U0hUalVhQkJDb1Jmb25kQndNNnE5Mi1FSGQyR2tGSDl3RXFUYi14X1JROHBKNGxSRVRtUEthWnUySEJKYUFlQnRwZXF3RTJBZUxKQ3N40gF0QVVfeXFMTVFveTFBVVltOVZ0V1YwMGdnN3pMZUgxWFdwQk92SjdTSFRqVWFCQkNvUmZvbmRCd002cTkyLUVIZDJHa0ZIOXdFcVRiLXhfUlE4cEo0bFJFVG1QS2FadTJIQkphQWVCdHBlcXdFMkFlTEpDc3g?oc=5",
       "publishedAt": "2026-09-17T04:47:26.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",

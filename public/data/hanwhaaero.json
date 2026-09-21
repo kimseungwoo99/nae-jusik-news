@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:22:57.497Z",
+  "generatedAt": "2026-09-21T16:42:58.039Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "한화에어로스페이스",
     "ticker": "012450"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "한화에어로스페이스, 국내 기업들과 'K-무인기' 생태계 구축",
-    "내 계좌에 담을 K방산 투톱…'한화에어로 vs LIG' 전격 비교",
-    "방산서 3조 벌어 우주로 간다…김동관의 ‘한국판 스페이스X’"
+    "한화에어로, 국내 43개사와 'K-무인기' 생태계 구축",
+    "한화에어로, 43개 국내 기업과 ‘K-무인기 생태계’ 구축 위한 MOU 체결 - 조선비즈",
+    "한화, 美 지상·해양방산 한데 묶는다…한화에어로 자회사로 중심축 재편"
   ],
   "articles": [
+    {
+      "id": "ac897369da9c6cea",
+      "title": "한화에어로, 국내 43개사와 'K-무인기' 생태계 구축",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXY2R6bVZRM3ZkZXhNd1RPVHcwY29td29QaUNGT2sxdTJoQzRVRUNpTDZGWGdjTVpyM3RGQ0l5QjVTUGNyX1BldXk4di1QejNwRE5LNzRqYUNZUndMbUYwM3dnQktVQQ?oc=5",
+      "publishedAt": "2026-09-21T10:42:28.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 국내 43개사와 'K-무인기' 생태계 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "fbc93692101d716c",
+      "title": "한화에어로, 43개 국내 기업과 ‘K-무인기 생태계’ 구축 위한 MOU 체결 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHlBODdTeER2SGVsZWhpVlMwR2RJTXFIZGxDaVhCbElqTnQtMGxaM0d2SEMtczFBSGl1MmdSUmx4VVFkdG83allYR3NRVEtHeU82YlloVFZyN0NNM2Z4NTVteGF6NktSTm8zY3c2a0Z2Zk9YWlNLXzZKUzE0UWhmRzBwYmnSAZgBQVVfeXFMTlVsY2E3MEFkMWNjWEdMWndudUk2WXdXaGhOWHhKdDBDM0FjbTRzTFEzZC1mbTRKYS1USUUwNXdKVUlCWnFkZjB1U3FhZWgwTlRIc21iMm9yenVhMmh0YUxxXzV2YlBlc3lqMWpnQzVEQ1Q2N19HdHBjT0JOX1pVR1h2TUdUV21JUlN2aUE4UVFpN3lscm1fbXk?oc=5",
+      "publishedAt": "2026-09-21T09:16:00.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 43개 국내 기업과 ‘K-무인기 생태계’ 구축 위한 MOU 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6e2288d00d5d4a39",
+      "title": "한화, 美 지상·해양방산 한데 묶는다…한화에어로 자회사로 중심축 재편",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vYkN5VVRIX1F6cTJrdkZweFVUU1FnZzFweWtEeFpOOFBGdWJySjJOZWVyS0tqamstUEJsa1NSSFpwMk9YM0h4bE94TTg3UWs?oc=5",
+      "publishedAt": "2026-09-21T08:37:04.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화, 美 지상·해양방산 한데 묶는다…한화에어로 자회사로 중심축 재편 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "6cf6677a40d8b693",
       "title": "한화에어로스페이스, 국내 기업들과 'K-무인기' 생태계 구축",
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRYWI4cHRQVGZPbkltdlJrbFZvZFB0eUtpUkpKY2xHR3JqQ1NMcTFQRklGU1RfMldFWTVZMXdZcUU0SlZJVmhGZ0RBalZjUmo4bEhOUU55RWNROS1waEJhTU4tWXV5NEllclNB?oc=5",
       "publishedAt": "2026-09-21T08:01:31.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -42,12 +123,39 @@
       }
     },
     {
+      "id": "e72504f056f73776",
+      "title": "한화에어로스페이스, 43개 기업과 ‘K-무인기 생태계’ 구축… 글로벌 시장 정조준",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVY0prMV81SUlkUDhJRG5jb1FQUzN1XzFDeElwRjF3eEluRndsYXRYc21lX3lUMFNpSDVicHJrbnJnZXRzUEdUQTlFbkZ0VTVPaFpIelcxdk4yTHJSVXBmdHE5dDRwS2tnTDNlTE5HOEEwdw?oc=5",
+      "publishedAt": "2026-09-21T08:00:09.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 43개 기업과 ‘K-무인기 생태계’ 구축… 글로벌 시장 정조준 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6e262425472e980e",
       "title": "내 계좌에 담을 K방산 투톱…'한화에어로 vs LIG' 전격 비교",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwSXNpZFpqRmFmVlVYUlRuUTNGNm9KTTdjZjh4ZG4wU2FOTXZNRHJjUnQ4UG80VkcyN0RmWEVMSmZvaHZkVEM4NmVZRkhrVWVxM1dxZ0dYa0lVZw?oc=5",
       "publishedAt": "2026-09-21T00:39:59.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -69,39 +177,12 @@
       }
     },
     {
-      "id": "59a35623f9c8206d",
-      "title": "방산서 3조 벌어 우주로 간다…김동관의 ‘한국판 스페이스X’",
-      "source": "중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pUWV6c0trZjdXQ0VSbzQ2RVJuOXBEcnRpV1NScHFBWHB5VlhYZ0xLWWhBNEdycGJHOGJmM2Y0RVJOOUZsblFEZXZfRVVoc1phY1ZzbHNB?oc=5",
-      "publishedAt": "2026-09-20T20:05:06.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "방산서 3조 벌어 우주로 간다…김동관의 ‘한국판 스페이스X’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2a847cc66220346b",
       "title": "한화에어로스페이스, 고체엔진 앞세워…KF-21 유도탄 개발 착수",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNkc0WDIwYmRsT2N6UnZjY3dPTDlfazFaZ21mdlJwREJzTXRQYjBJRmEyS1dwNmUwLVpYdVVheUw1ejZLR3BBNkRYWG1VQkJ1NWs5bnJablBNZw?oc=5",
       "publishedAt": "2026-09-20T07:06:08.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -128,7 +209,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBralNiVEN0NllINlktTHNsd0RadDZvbENlbDBqRklFbzlsY2l5Zy12YndISkJfSDhqTGZabnl3TzBJV096TDNvUm4tLWpMRVJBRVFteXFHNU02dTBEbGE2cFhOVHU?oc=5",
       "publishedAt": "2026-09-18T09:36:02.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -155,7 +236,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1UVBjZ1hCcVJSTEk4eGNRTnhobW5mcUdUeGZ3ZExJV2txbGRBdFJfVlhiV0hnWmhKN0Qzc0syTGlnR1FveHFWWkxPVVFJNktMWVktWkdKNkdQSXVnS0JUbGVBQU1oc0Rl0gFoQVVfeXFMUDVRUGNnWEJxUlJMSTh4Y1FOeGhtbmZxR1R4ZndkTElXa3FsZEF0Ul9WWGJXSGdaaEo3RDNzSzJMaWdHUW94cVZaTE9VUUk2S0xZWS1aR0o2R1BJdWdLQlRsZUFBTWhzRGU?oc=5",
       "publishedAt": "2026-09-18T09:34:09.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -177,39 +258,12 @@
       }
     },
     {
-      "id": "20aeb0b74db38c04",
-      "title": "한화에어로스페이스 (012450)",
-      "source": "씽크풀 AI",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43c2RoRTBKczMzMEJnQ3R2WWlrakJEb1pPbW04alZOYVJWYm9iVmtMeGV2Y2t5cC1pNFRMbHoxRTBKdWJ4V2xfMTRqWQ?oc=5",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로스페이스 (012450) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "067e589051767ce6",
       "title": "한화에어로, 이부환 대표 선임… 새 대표체제 전환",
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WmVwcFFnLTZUOGdHZ2hwQVVVbC1PS2VIQnFzQ2JjbGVXZC1DU2RCUHd1YVZ3ZHZIbkVTTWViNHNNN0RSZi1sdGJkbHlnajhSSzh0Y2g1TnB4SWRPcGlCQzV0RVZoWEJQ?oc=5",
       "publishedAt": "2026-09-18T06:45:18.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -233,10 +287,10 @@
     {
       "id": "2c0f136b72bdc205",
       "title": "한화 방산 3사, 모범군인 60가족 초청 '힐링데이' 개최",
-      "source": "thelec.kr",
+      "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ba3l5eGE2UkxZR2gwMVpyTVBEV0pYVzlaZjBBQ2laYktreG9ONVE3MGxKVFdJcjJtT1RYZWJvMzRCTGlRMVdGRlYyejdEU2c1VEJndEtfNlhTdkxzVlFpeExpQkE0QQ?oc=5",
       "publishedAt": "2026-09-18T05:53:41.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -263,7 +317,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlMXBfT2dNWnpPdVdFc2Nrd1c3SkxkN0RrSTBDQVozSUlnY2RNLXlDdVItdkNiVnZzVWlYVTU1b1JZaDJBTkFjWi1HXzY0S3lXN0dtZjcydU1mYWJ5NzZUQ1NyNA?oc=5",
       "publishedAt": "2026-09-17T23:26:24.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -285,12 +339,39 @@
       }
     },
     {
+      "id": "5c9b2dafe5f5fe61",
+      "title": "[오늘의 증시일정] 한화시스템ㆍ한화에어로스페이스 등",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVVMwdTlmQjh3R2tHMFd3VWxCcUt3VE1HcHZxa2dzZE13VVkxRUxmdzB4Z2VyWXBSUTVSZGhlTWlTZXJxTS16eGM1azFkMmdYM0pqcA?oc=5",
+      "publishedAt": "2026-09-17T23:03:00.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "[오늘의 증시일정] 한화시스템ㆍ한화에어로스페이스 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "79d589e3f5290572",
       "title": "한화에어로, 3년 내 무기체계 AI 유무인 복합 전환",
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YWV4VU9Qb09YRXFTRzZXTzRKenpteWFvOVJRWklCcmppMFExNU1qUE9XVVQybzlxTklCTEVwQnpLTmZhQ29WWmRQeWZHbldxQ3d6VTBDZVNabGRJTkRfNUVRSWF0MElqcnk4?oc=5",
       "publishedAt": "2026-09-17T09:13:27.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -317,7 +398,7 @@
       "source": "경남일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43ano3ek04aGFfR21oRnpTSFRXQnIzYV9CRmo2aHpaMDZwZ0lZNDZSWFM1XzZSSjlIQ1hSMHg4OHV2YTF4Q1VoYnZFVGJ0RXRWTHp6NUJ1b255czIwU1BVVnpIblFKenhqdGNJ?oc=5",
       "publishedAt": "2026-09-17T09:10:36.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -344,7 +425,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NVdSR0VEbFlOLTV5ajFKVC1RQkUxNWFjcDUxaFBDVFVJVjRyOWlSQ3NxY2pUa09lN24xbFBvSzBIQlNxQ3FNTGxyYjI1SEQzNTlvVXBsVDR5QjEwaG4zYw?oc=5",
       "publishedAt": "2026-09-17T06:58:13.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -371,7 +452,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVeWo0WlNVSE9WcUMyQ2p2dHNna09GYTFZVVdRcU0yOElMbENETE9DSVhSamV2UVdIYlNfTXVVZ1c4UHdpQnlaX3BfZFpPNnBNUFpES20ybjM3U0k?oc=5",
       "publishedAt": "2026-09-17T06:18:14.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -398,7 +479,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DNU9UWDF4aUl5X1NXQ1RqdTZ6LVpfWlBraXdvQXVBXzVYZDFZd0RJVS1QbWZpOTBTbVRCU19UaVNVYWpiNHFQMURxWWpaVjVzeW85ZVRYcEFzUEh2RTZHYtIBYEFVX3lxTE9DNU9UWDF4aUl5X1NXQ1RqdTZ6LVpfWlBraXdvQXVBXzVYZDFZd0RJVS1QbWZpOTBTbVRCU19UaVNVYWpiNHFQMURxWWpaVjVzeW85ZVRYcEFzUEh2RTZHYg?oc=5",
       "publishedAt": "2026-09-17T05:16:29.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -425,7 +506,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dWxoNVpVOHJrcTNDYnV3ZU95bXlZTTlRTF9ocG5wb0dfaEtROFVQQ3VhRE15S1BGdE5yWDhEcWtHc2p0aVl4NVhqTEZqUE5TbGtjZWx1S0E5em5WODNiT9IBYEFVX3lxTE51dWxoNVpVOHJrcTNDYnV3ZU95bXlZTTlRTF9ocG5wb0dfaEtROFVQQ3VhRE15S1BGdE5yWDhEcWtHc2p0aVl4NVhqTEZqUE5TbGtjZWx1S0E5em5WODNiTw?oc=5",
       "publishedAt": "2026-09-17T05:08:46.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -452,7 +533,7 @@
       "source": "파이낸스스코프",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkY2JnWlBEdFJXd2Zfa1FxdEQ4V3FXNU9xdUp0TW5xRUg5QjZBeGFZZFQ0UTlJeVE5WXpXVHBpS2hGZWdCTUJmZDJsRTJOb1VHQ0ZVdGJGb0twSkxwY1d5M1NnNnNSekpfZGc?oc=5",
       "publishedAt": "2026-09-17T04:27:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -464,87 +545,6 @@
         }
       ],
       "summary": "한화에어로스페이스, 아리온스멧 양산 및 지상방산 무인화 혁신 로드맵 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a8b5e852339391a2",
-      "title": "사천시, 한화에어로스페이스 55조 투자계획 연계 사업 발굴",
-      "source": "경남미디어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02cFBzU2JiVHh0QWUweWRJb2lPTi1qS3JsV3pHYkVNd3I2UFVpTEhQUFFreW5wVFlpYUxnN200NHdWMndvMDRGZm5rZ2Y2LVZEdXptS0dNcnJUUWlBYm9DUlMwdFRyRFQtQ000?oc=5",
-      "publishedAt": "2026-09-17T00:20:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "사천시, 한화에어로스페이스 55조 투자계획 연계 사업 발굴 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "29096b4e58800643",
-      "title": "[코스피 현미경 분석] 한화에어로스페이스, 지상방산 수출 다변화로 주가 동력?",
-      "source": "데일리인베스트",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQkhnWWU1S1BoemxOb29GdzVZd0VNNmktNFRCOVBJVUw4d2JnQ09LLXYxWWkzN1RMR1Y4cG8yaVlRVUxXd0ZsWmZBYUExcFNZQ2lPMEswNzVVczdxdVhiaWV1RDF4OTBic2Nv0gFvQVVfeXFMTUM5UkVTZ1JJMktxdmg0clFOWTZHMEpjVmpuclRfNXpFZVZvNTNzZ09BNVBMcmlHZTBDdC1RNEI5V21RQS1Ga1hGVWJqMUktSmsxZURQMFpjNm81U3QzMEEtcjBiM3B4ckFVLUlabTNZ?oc=5",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[코스피 현미경 분석] 한화에어로스페이스, 지상방산 수출 다변화로 주가 동력? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cf0d793a97e013a3",
-      "title": "한화에어로스페이스 단거리이착륙무인기",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bFJNZzJ0YnZoNnZ0ZTVuVmlpNFU2RzgtZFp6RVM2RUxJM1NpUDFsemtNLXF0ZWN4OHBUQWhZRjlJSENpTjY3QU45U3NValRidnpUMmJyN1FUV1hxMnBkVQ?oc=5",
-      "publishedAt": "2026-09-16T08:19:26.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로스페이스 단거리이착륙무인기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

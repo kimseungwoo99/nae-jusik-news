@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:22:57.497Z",
+  "generatedAt": "2026-09-21T16:42:58.039Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[IT돋보기] 주주 환원 계획은, 분할 후 주가는 어떻게⋯소액주주 설득 나선 카카오",
-    "카카오 인적분할 절차 본격화…‘합병 반대’ 20% 넘을까",
-    "아무도 설득 못한 카카오 인적분할…'김범수 승계 포석' 관측도"
+    "카카오, 카나나 앱 종료…카톡 중심 AI '선택과 집중'",
+    "이모티콘·선물하기·주식거래까지 묶었다…출격 앞둔 ‘카카오멤버십’",
+    "[IT돋보기] 주주 환원 계획은, 분할 후 주가는 어떻게⋯소액주주 설득 나선 카카오"
   ],
   "articles": [
+    {
+      "id": "00d102fdad5452b6",
+      "title": "카카오, 카나나 앱 종료…카톡 중심 AI '선택과 집중'",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uYmx2dkUxY0t6OF91SjVrLVB5M3FOdms1RkNya05MT1J3THpNeU9NMDNveV9kY1pmcGRpZXV4TktXenpNUjN2VlVUQ0JUeWRKTk5Vb2Q2dEd3NU1lcVQxMA?oc=5",
+      "publishedAt": "2026-09-21T07:53:13.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 카나나 앱 종료…카톡 중심 AI '선택과 집중' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e94f86240d29418f",
+      "title": "이모티콘·선물하기·주식거래까지 묶었다…출격 앞둔 ‘카카오멤버십’",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2N1ektyVkczOV84ZVNUQnpfWGJBVWR3b2VweTFEb194MVVCUXVfeDBCRkNiOGVWbHV1VGlHVzF3eDBmMElzT3N4ZXFDQQ?oc=5",
+      "publishedAt": "2026-09-21T04:11:30.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "이모티콘·선물하기·주식거래까지 묶었다…출격 앞둔 ‘카카오멤버십’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "dc071a96dfe7edcb",
       "title": "[IT돋보기] 주주 환원 계획은, 분할 후 주가는 어떻게⋯소액주주 설득 나선 카카오",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OV0lKYkkyM0d5LTBld2picHM2Z09DaWE0dGo0bUNFczhwMWszR242cHhDVkhqOVY4TWhtanJfUVcyc2czcl9xUUduTHZvM21ndGNxYQ?oc=5",
       "publishedAt": "2026-09-20T03:03:09.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -46,8 +100,8 @@
       "title": "카카오 인적분할 절차 본격화…‘합병 반대’ 20% 넘을까",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFBoejRJX3RIZmJLY3lQZV95XzZZUHlHRWZGU1dDdVYtMkNvNmNqUGhNRmhfR0F3ajJCZmJ5YXFpZ3ZfNV84R0hZeE1oVXQ3Qm5fN09mSndKRFAyRm9KM1JXU2lHS3ZpcUI5Um5ya1V0Z2FUbzdVY2hzSEJoYWVuVjJGYw?oc=5",
-      "publishedAt": "2026-09-18T21:27:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "publishedAt": "2026-09-18T21:25:00.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -69,12 +123,39 @@
       }
     },
     {
+      "id": "a23709d582456aa2",
+      "title": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다” : 네이버 블로그",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVg2X0hocF9INms0LTV2Z3BkQUpJSF9xNGtuelF5OEllYUF5dkE3R19KcF8zbURTb2lBWDJHLTVCdWM5SDJOQWFrU2ZSQ3pyQlpmNXg2blpIVXA2UmlNRFQ1SHpjQjY2MlZ3X3pyU2V2Y1lGSlF4cTlKNFVHVk5pdGUxS3NaYjRSdk9zem50TQ?oc=5",
+      "publishedAt": "2026-09-18T13:23:40.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다” : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d401a5f91197337e",
       "title": "아무도 설득 못한 카카오 인적분할…'김범수 승계 포석' 관측도",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3ZGalZqWk4tTXpQYlVpQkhnYUwxUDRHZVdZeEMtYk10d0dYV2hWYzBIdVEyOFl1NHZVLXBabTRzY0w2Mm8xX01sZmVFc0N0VWQxUXdheEIyQ1BJNHFZN040UGsyTHljcjF6d2NTMm4xSHJ4VkVUYUpSaDZ1VVdmRUFMbw?oc=5",
       "publishedAt": "2026-09-18T06:57:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +182,7 @@
       "source": "카카오",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEMjVJSjdaTVBydmh5Q0tMcFRLS3c4QzlRMXNoVE14bzVwZkZTQjItMTJGdGJsVlhveVpQUkoxM1Q2REZpd0tfekQ0dGZoQlluc21wZEhR?oc=5",
       "publishedAt": "2026-09-18T00:07:16.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -128,7 +209,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4dlgtd3lraVBBdS1ORG9xcm12QmRCeHdEV2dfVHEweXBXQmwyaFZSQTJOME9pRkFMTTZ3TDdzTG9ScEtEQ3dVS1pTb3JkeGFXOGV3TWk1Wm5ldw?oc=5",
       "publishedAt": "2026-09-17T08:42:02.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -155,7 +236,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRU1KU0cwSm5SczJwZl9NQTFKd2NzdTFIdnFBYXNmOGZfNXJ5ay04dHZrV1hCTVRveWtCRUNfNG8yR2lhVlpMam9yNVF1eDZKbEc2UDdUTkxiUzg1WkJxcnFuQ05IWnBMOUhUd29Wc05vOXE3b1RTY2dndEtvMnk5SVc2UQ?oc=5",
       "publishedAt": "2026-09-17T07:00:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -179,10 +260,10 @@
     {
       "id": "b392b5a7c6208e82",
       "title": "카카오·LGU+, '모두의 AI' 대중화 맡는다…전화 AI·모델 운영 투트랙",
-      "source": "etnews.com",
+      "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EN2JjY0pSd1BTcS1WeFh2dEZ5NkxRZnc0LTVEZnBhemRZeXN5azd2Uks5eGRmbjFON2pWQjBYSmJkV3N4OEZqeHowejA2dw?oc=5",
       "publishedAt": "2026-09-17T05:22:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -206,10 +287,10 @@
     {
       "id": "d762e3cf88aac52b",
       "title": "소액주주 지지 필요한 카카오, “주주와 성장 결실 나눈다”",
-      "source": "주주경제신문",
+      "source": "s-econ.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGQXdfM0dmU2ZvMktoLVRlRU1sVWtCcDVxQVJUQjItOVBmbDY5TndoRkpoaXhYLWhsNFhtQ2djbUlPcks5R3hkOU5BWEFMMHFaR2hmMkRrczVDLXpRY1ZhRm1CVlJmbVR3?oc=5",
       "publishedAt": "2026-09-17T05:15:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -233,10 +314,10 @@
     {
       "id": "75239f8a3d1d4128",
       "title": "카카오 합병·인적분할 앞두고 소액주주 달래기 '비상'",
-      "source": "thelec.kr",
+      "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VS0k2aENGLVpPbGZWemxkVXNmMkZoSFNQZko4cGRPbDFUM3I1VFRCSkhaTnBLazFoOWpzS1k1ZjlsNFk4Wm1oZFZ2MkZDcEVwS1FPQl91bjJueG9sd09rQTBlZnhfQQ?oc=5",
       "publishedAt": "2026-09-17T03:08:04.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -263,7 +344,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcWR4aG1HcHlxUm1HTXlHZC1fdHItSTBYRmJZMmZ4RTFVNHNNa3AtM0dzaUJDQ0g2M2k2Z3pUa1lpY0llWThJazhVeEZRWlZkTWRmTzNkX3poYlZkaGZXUUM5YktwTzZsVGNTcHN5TmFVUGMy?oc=5",
       "publishedAt": "2026-09-17T01:18:50.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -285,66 +366,12 @@
       }
     },
     {
-      "id": "e3f047b1eb8710e9",
-      "title": "카카오 \"두나무 판 돈 3000억, 주주에 돌려주겠다\" 소액 주주 설득",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT01nWWozeG5oY0gwT3psZ1ZOUkF0VzN4SmdKTnFzSURaMS0xaWFjRW01dWt2SzNnZ3Y1R0Y1dGREZUhyQWowSm92RjYyTmZvYk1raTk2M3dWNzVRZ2RhbFJMU3NSVU1ZOGI1c29TUmJMMk5pZkRUWnk4VGh6NWhUZWFaSQ?oc=5",
-      "publishedAt": "2026-09-17T01:16:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오 \"두나무 판 돈 3000억, 주주에 돌려주겠다\" 소액 주주 설득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "65ee9509e742cc4c",
-      "title": "내 국민연금 궁금하다면…\"'카카오 AI 국민비서'에 물어보세요\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WRzZOdU4xLTV2RUlSZzhwbUpvZXRVZ0NleFRVRGI1dEZrazZFeXFVSVZEYmhNYnR0Q195S0h1eUlMTDg0WXJPZk9jRDgzR05CR3hiMkNSbDhJMU3SAWBBVV95cUxPTFVQdDlKWGJtRnpxa1ZwZWtuQTQ1WXBRdVdCY05vYjZ5cXZCcEVBNjBmR0txOXRnVlhnWUdsOG9qcEZlZG05MUJYWE8xU3BpSVJUQnNHdDVpRzZ5M3cxbkQ?oc=5",
-      "publishedAt": "2026-09-17T01:00:05.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "내 국민연금 궁금하다면…\"'카카오 AI 국민비서'에 물어보세요\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "761628c13b12f131",
       "title": "카카오페이증권, 신혼부부 금융 토크쇼 후원…‘주식 축의금’ 캠페인 잇는다",
       "source": "이지경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMzBMUF8wclE4WDMzajNmbER5aTF0MzMxZC1ZZEJxNUJXY3FuUElaUlJGY3F3YXJUdnFDZjFwaGRqcVJiNXpnVnlCckF2YjJhdmtpOWQyZDNkRkp6V3hvMHVMQzdkd19pMEtJZmdR?oc=5",
       "publishedAt": "2026-09-17T00:13:11.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -371,7 +398,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lQ3FqTGNaLWVVTlpFbkZ4TXVxLUJxYnpJVnpTc3FKTGpsYjNuOHVxVDRTY09ON3Qta2U0bVB3eTZzVzhCVnZEaU9YN0FqNnlrT1NvYWZYTDhFMm5GUWtfUTMteGE?oc=5",
       "publishedAt": "2026-09-16T10:02:50.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -398,7 +425,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kQm5McmwyLUl5cWdjUEp1c25hSDlydS1HTFRvNmZlNlY3TG9Wb3RlN0w4NU9uU2lORXpIcHlsbmlRNmF6cVE0TUFFRUlWOTR1TTJNcUJVRlA5RTBwdjh6ZVV4VWwzZ044WkVjeGZoZXrSAXRBVV95cUxNbFM5ZDRsN01KbkJfWHRLYjR1QW5Yc19uWHU0UUlnVzlYc3ZMSG1XS2N3SXo0UUVKQkNZSTVNSXdHV3l4Vi14WDBVdHY5d05OM2h2V0ZPalFiRC13dFQ3cXJvZVZkQ2FOTHBsX1g0Ym1JMmdCbw?oc=5",
       "publishedAt": "2026-09-16T09:58:42.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -422,66 +449,12 @@
       }
     },
     {
-      "id": "a8588767737d1d81",
-      "title": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다”",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aRjhMSFV5NzEyUVFXdGFBMlI2NjVUV3VkUUhabmN6Y3pkSDJnTnJCbWNIdmlSRm1RS0haLXJWLURPNWlWSE1rUDJXN2Q4b1U?oc=5",
-      "publishedAt": "2026-09-16T09:32:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d6318c818a2e207e",
-      "title": "인적분할 후 ‘매출 6조’ 내건 카카오…AI로 새 성장판 짠다",
-      "source": "헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5udVQ5amE3ZVJPQ1FLRUU0dXdHYUJPWHRvYS1JT0dJWGFYSUQ5b0dPcHNZUmc1X2JJMDlrdGkwdlRGS1NNa0FweXBNOVFjLVRxMVFiUEN3?oc=5",
-      "publishedAt": "2026-09-16T09:30:53.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "인적분할 후 ‘매출 6조’ 내건 카카오…AI로 새 성장판 짠다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c6962cf3acc853d4",
       "title": "인적분할 카카오 \"AI 기업으로 평가받겠다\"",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZOVJ6WlN5aUxrcTFHNm9WSFJNR01IaTVfb1VxV29nSVdIUExFbk1HZUtQUlJfYXRqZ1VveFhTMTZ6elNEb0R3N2hzY2l5dVFZYXNaQktUOWlQQQ?oc=5",
       "publishedAt": "2026-09-16T09:06:23.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -508,7 +481,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEYxUzJDbTVKNmJLbXg1eUNYVmo0U3VaLTdvMkNnbDRUTzVFclNMNmNRalFBa0xQNTFIZUtQMDBfMkhlNmU0RHk2VHZZQkhZQ1FKeEhfaV9QU1pfOUxRaFhoMy04bV9UUXU3LU5TS1NDM0JZOHJmWHVXMXdtQjg4Nnln0gGWAUFVX3lxTE5TdWZTaG5hVmpmUGNEWDVPZVp3eUxBUEc0djctSnFOLTlUQXFSdURhNVJDVExhdU14N3N0Q2dOcGVtYTVXeWYyTjB5QVNLaFdmQnM1N09aT2ZLcDRnRHY3RU1WbkNFSzJsWFZxZHdPYzQwTkR5YWdQdkE1X2NVV0FBNC1qVkh3WDJrejJUZWJkMm5TN1FaUQ?oc=5",
       "publishedAt": "2026-09-16T09:02:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -537,7 +510,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lQmVDcmkxOVZDZ2dnd2JMUEJXRWN5TjE1TFMzRFhUVWo5R2ZhMG9ndGhnc1J0b1F5NUVoczhNdWhHN09rckFpQUpQcDdvaDgwVlAtWXZWbGZLNldK?oc=5",
       "publishedAt": "2026-09-16T08:59:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -550,6 +523,33 @@
       ],
       "summary": "[종합] '왜 쪼개나' 답한 카카오…'AI 1조' 증명은 남았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "730f2f55ff15f20b",
+      "title": "카카오, 인적분할 후 AI 사업 2030년 매출 6조 달성 목표 제시",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jYkF2RlZyX3FIS2pSc0dPY0ZkOW41QlNZT2g1YVpraldLdTNzcHpwT0QwZV95VDFoRFNqOVBtc2ZnTUVCQ0VLeDBpMHhIYUNubmJvWnowTTdrOXhJNEtfcQ?oc=5",
+      "publishedAt": "2026-09-16T08:56:46.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 인적분할 후 AI 사업 2030년 매출 6조 달성 목표 제시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:22:57.497Z",
+  "generatedAt": "2026-09-21T16:42:58.039Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "AI가 분석해주는 압사이 (ABSI) 상승확률은?",
-    "울트라제닉스 ① '소아 알츠하이머' 첫 치료제 승인에 저점서 반등",
-    "레딧, 실적은 오르는데 주가는 눌린 구간입니다 Reddit, NYSE: RDDT"
+    "예약은 6,640억 달러, 주가는 마이너스 28퍼센트. 오라클의 주방은 지금 공사 중…",
+    "울트라제닉스 ① '소아 알츠하이머' 첫 치료제 승인에 저점서 반등"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTlfblJoNWhEbjFqLU9yamxsQ2o2WnlkV3lUcEc0UE5OUEt6SmlycktUNUdob1FQd18wTkZkRnhXODVnazVYQnZmR0dJM1dYVmtpbGpGY2dhbDFDdTVFR0N6UXAxbE80UVNpVUNic191ZDUwbG1VbkNaZEM0NzV2UTNxOEJKdw?oc=5",
       "publishedAt": "2026-09-21T07:39:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "4ef95593600df126",
+      "title": "예약은 6,640억 달러, 주가는 마이너스 28퍼센트. 오라클의 주방은 지금 공사 중 ORACLE ORCL",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUEtU1NUYU9JeWJnalBMU3RHMWRyS0paYlFUUDNibHRkZGdFR09rSFhlSlp3SGNIa1UweE0yd1FscW91NW1NWlJaU3NDQm9GS2dYajQweXNTQWYzZnJ4bzhnZVBCRVFFUlliaHZJZG1neGFWWHBleUFHOTIyWjZSNEFXRS1pSGUtVzhDNw?oc=5",
+      "publishedAt": "2026-09-21T07:10:00.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "예약은 6,640억 달러, 주가는 마이너스 28퍼센트. 오라클의 주방은 지금 공사 중 ORACLE ORCL 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3dd0547ce08e6f7f",
       "title": "울트라제닉스 ① '소아 알츠하이머' 첫 치료제 승인에 저점서 반등",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PMWJjbEJCaVRhUXJvbUdrUU1yNmRBcnliY2ktOFE5a3RETmZlYmRjVlpCaDVrN1hmY0lLa0dELTlaWnEwTFdZc25KRXdHdmVPSTNhMVZhVzdnblpUZlBoeHRTYXpnUGpzWHRvQjBzRzB1UHpfWTdSVzJxZw?oc=5",
       "publishedAt": "2026-09-21T02:25:11.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -71,66 +98,12 @@
       }
     },
     {
-      "id": "09859650f6b3d77c",
-      "title": "레딧, 실적은 오르는데 주가는 눌린 구간입니다 Reddit, NYSE: RDDT",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZy1YVkRjRWQtNzM5Y3ZRMng1clh6ZXpmWEZJaURmRXVvZTliVVlxXzNKRlcyNXlSREZ0R1U0dDIyMlp6NGJNcTc2WDBpNEpfWnNrdHU0SmF1UWEtWGRrV2ExRDM4TURtOTRFQ3dPNmpZcnpOUkNiU2JzcFdiYTVDdDBRNUlMcWdhRXJsaw?oc=5",
-      "publishedAt": "2026-09-20T06:21:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "레딧, 실적은 오르는데 주가는 눌린 구간입니다 Reddit, NYSE: RDDT 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2b9ab9728e2c8662",
-      "title": "허브스팟, 이익은 커졌는데 주가는 왜 눌려 있을까 (HubSpot, HUBS)",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzBSdjBPQWJoZk0wN25hUklVSmVvaVJLLWt6RENZV2NrcGRlbkhMT2Y0Y290bEo3cl9VcWdPTGNnQXlSMnprX29HTTJ4TXBqVmN2MDV5N29sZVNCMEs4bEdJRnEzb3dBazYzXzBMbUNRVl9PWV9zUXcyTHNzX0VBSS1MU0lDVnNJaVgxSQ?oc=5",
-      "publishedAt": "2026-09-20T06:14:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "허브스팟, 이익은 커졌는데 주가는 왜 눌려 있을까 (HubSpot, HUBS) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "41bc6f8df3a79c1a",
       "title": "주식시장 경고등, 속은 썩고 있습니다 (주간 투자전략)",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUExwZUt5clF6SFptWXBIMk5HR2dKQ2RCMWhKTl82SFdSbHN5QnhFUFp3Zk1pelRvcjVraXplSi1SNXVueTBJdGhKc2hfczNGdUpNYjNBWFJMUUVDazA0MDVibFE3UXBCeGkwbzgyZTgxRWJJTXItNDFabWRtMUhlSEU5SERRX1hLMGdF?oc=5",
       "publishedAt": "2026-09-20T05:51:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -159,7 +132,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXgycjdhVndGZ0RZMHhZVjBtazVBUEF6TGZFWEdSSnBUNFRwRjJFZFh2ZE1EM01NSzF1MFJRc2NNd1Vwd3d0OFQ3TEtuaWRXQ3hYUlR1aGFDM1pCZm9KUGROdG9WSngtZmctamdCa3dIME5ZZk1UZ0JxRWQ0T3o5V1Bmb0M5bS1i?oc=5",
       "publishedAt": "2026-09-19T22:50:29.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -186,7 +159,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EOUNXUk9CeS1mQ2oxX2dQUlFXVnVULVFUX0pCODlxR2tFcmtVMnRSaG13cEhmTnFLSVJ1NXhLRjBHUndPRjlIZkc0TWNld2daSXlET19oWUkyS1Nx?oc=5",
       "publishedAt": "2026-09-19T22:00:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -213,7 +186,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGs3X2NJSGtCX1NHZDdOc3NSN1otZ0FTLVJLM3hwX3VyTml4MGhXLTJjZ1hWWVVvck9YS0lnamRmSWxubzlPQ1htUGFVN2ZSSWJPb3hEY1lpMVFzdFhtVFhmQkFkTEo2c05VMU5kbTRCMEVMdFJRMjB1cE9oNmJ6TGFyaw?oc=5",
       "publishedAt": "2026-09-19T03:37:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -240,7 +213,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TRnVwTmRYZF9yRkwxVEZIRzRlQ0RhSjJSdmlDQjNzNUZmOFBaN1pzR1AyNkpWZHdZQnlzOWNMbW53b1hqMlRqWk1ObEJUSzNWVHNYeQ?oc=5",
       "publishedAt": "2026-09-19T00:04:51.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -267,7 +240,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtcEJOdEJOYzg5bjMtRVRnWkE3R2xNSlNWTW5xWnA0V0hLMHUtb1NuazF1ZnBrck5TcFJscnJwUWVFcW9xdEVSb0Z1N1NmNFM1bHpzOUV2dFF0UnJB?oc=5",
       "publishedAt": "2026-09-18T03:16:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -294,7 +267,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcktmZXZHMG9DSUpUdG8tUUNYYTQ4SHFLcFpQaFZWVXVEMzR4UHRPNm02cXpTV2poVGJ4Qmw0dVR1RXg1MnhURDYzbUN5cmd6OE8yNm1WTUVfVmF5MjVTMGZPYnNUOHVzdHhV0gFvQVVfeXFMT1lsSm5TU1luVWVqX0NXQ2M0WHlHTzh3NkFTcjZPNlg3MTJQbENpaXVoSEx6U21nanB6MVN6TmtmSlZRcEFMZFVWUHE4NGlzSHBETEFSbmR3aG5FOWVtRmVBODktOVhqMW5xa2ltSWxZ?oc=5",
       "publishedAt": "2026-09-17T23:35:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -321,7 +294,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQThCeVZmX1JmNzNaMnZ4V25jZ1RGVGs1QXMwZ29DVVhENlVVSkFnSWFwQXdGWFNTRDFGaTJMWGI4Zm5uQWpMVmFfanpqNHFvUEI3a1dZV2tUOGpMcklRNWxrM2NMTUpia0pyZzlwSFd2MzF1aVZMX3B5YVZkMnVncGVlOU0tM2VESnN2UE92Yw?oc=5",
       "publishedAt": "2026-09-17T18:54:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -348,7 +321,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWN6WE9MY3ozQ0lwam1jRXdZcmFpUmdDb0xRMlZnWF9SRFhEc0FXQ1N1cHNpcU15eTNhcFVtR1NwQXdGTVNQTWxIT2Q1TElremxWOGYwRkF2eUJOcVNsb0VSc2ZBZklPSzducUl2ZGRMNEgwT0NlMlBJbG1xcF9OMXk1Q2N4Q09QMlln?oc=5",
       "publishedAt": "2026-09-17T13:29:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -377,7 +350,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91OWIyMWFDWWJKeFlXeUZPd2FtU1YwTUJ6RHg1ZmVvMXMzZmoxYkxyb2ctcEZaSmFLSS1saHRtNjl5MUpJRXRmeFNkc2RZakxIUldtOVZaZGxndw?oc=5",
       "publishedAt": "2026-09-17T08:37:22.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -399,12 +372,39 @@
       }
     },
     {
+      "id": "6e05fdc0af9989a4",
+      "title": "네이버 ‘AI 쇼핑 에이전트’…실시간 배송정보까지 반영한다",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41V0JaWEJGY21xT3pqbDZ3U0h4UDFzOXV4cXBfVmRKM3JBWnZueHJWZjA1dXN0RlNxX01jUnlfQTJwM3pqV2FSZlRSd25XRVRNTFHSAVNBVV95cUxNSDROZUlyN0hYalB0MVJUV0pieGc2TndDVUVEZjBHNkFRUE9VNHkxOTk5NnNONHZLdWltcU42RG43TkJMejlOai1KOEMzeEdEb1VvUQ?oc=5",
+      "publishedAt": "2026-09-17T06:16:57.000Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버 ‘AI 쇼핑 에이전트’…실시간 배송정보까지 반영한다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f082b4ca1e9de5aa",
       "title": "\"내일 도착 상품으로 알아서 추천\"... 네이버 쇼핑앱 ‘AI 쇼핑 에이전트’ 배송 특화 기능 고도화",
       "source": "NAVERCorp.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JUWxzYUtISUJ6WTRkc1lQMkZ1Ylhvbmp2bGRoYVBaRTNtbkVUZWRuMEZkb0tYLWVubHQxYVo1a3Z3TFEwME5iU3hqdnM5WWJObzJwZnRWQnhEcm5aQUhmVXVScGw3aEJSc205SQ?oc=5",
       "publishedAt": "2026-09-17T02:37:30.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -431,7 +431,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qX0g3OUFkaEQwajdsbWZXdXlESE1GeXZ6VldickVTNG51Zno0Z0s1cEhEb1p2azlaM08xTGJVdkxBQlh5Zjh0OHVZMUk2bEJsbFQ0bg?oc=5",
       "publishedAt": "2026-09-17T01:09:49.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -458,7 +458,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXNwR0xONEplVWpBVEFoVFlHb2FCQ2lEYzE3SDltM0lhRVA2cDl3Q2twUFlsdTFBWlo1VEhEYVZ4R3VCZ2tBRUJ5TkczNDQ3V3JXQkMxcENYazNaM1ZfY0V2d1B5QlhXVTVEMC1WQnVoWFFYUUpwdHVmQ1BIWWZPbjdwdw?oc=5",
       "publishedAt": "2026-09-17T00:55:42.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -485,7 +485,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzhSSjZfUml3WWtUTzVCbG5HQmFER0hubU04NXZENGVvVlBuakNGVkMxNFh1azNTcEJ0U19kd2FDa3RHaU0ycDU3QmV1UFpoY2JsbE11Tng0RmNNVm9YVGY1TTVKS01XaVlwUUNnUWp4YnVNNGtCZGZZQjRvUEYxaWpRaURXQWxHNTg3S3c0WQ?oc=5",
       "publishedAt": "2026-09-17T00:03:19.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -512,7 +512,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NFJKOGRONWQxNGZIbzNIMUpfV2hYbm92ZEx5cWlCNnliVG9xMzl1VHlLbkY2OGhNVWZIRWhBUUNjQTM5Ymo0MzV5NUktN0paTFE?oc=5",
       "publishedAt": "2026-09-16T23:11:54.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -541,7 +541,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xUlAyNXowX1JRT2JQWmdpSFRYYnVESnBiNE1xN1VHejZId21VNkstZXBrcUpJWHdBOWZJaHVVTHB3b19xeC15OFdHOGlYSFVaRlVha2NSaENOMDQ3?oc=5",
       "publishedAt": "2026-09-16T08:45:00.000Z",
-      "collectedAt": "2026-09-21T08:22:57.497Z",
+      "collectedAt": "2026-09-21T16:42:58.039Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
