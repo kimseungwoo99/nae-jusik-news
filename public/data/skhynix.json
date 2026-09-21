@@ -1,88 +1,418 @@
 {
-  "generatedAt": "2026-09-21T08:30:00+09:00",
-  "source": "mock",
-  "isMock": true,
+  "generatedAt": "2026-09-21T01:15:08.932Z",
+  "source": "google-news-rss",
+  "isMock": false,
   "stock": {
     "id": "skhynix",
     "name": "SK하이닉스",
     "ticker": "000660"
   },
-  "dailyBrief": "오늘은 HBM 생산 역량과 AI 메모리 수요, 연구개발 투자 관련 보도가 주요 소식입니다.",
+  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "HBM 생산 역량 강화 계획 점검",
-    "AI 서버용 메모리 수요 전망 소개",
-    "차세대 메모리 연구개발 투자 보도"
+    "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\"",
+    "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행",
+    "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위"
   ],
   "articles": [
     {
-      "id": "skhynix-001",
-      "title": "SK하이닉스, HBM 생산 역량 강화 계획 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20HBM&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T08:05:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "5a2f6e6e8358ae16",
+      "title": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\"",
+      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83dWJHSnF2bzJtaTQyN1Ffam9mVlk5cUNvVTdkdkFXbjQ2ZE5GLVFwRVZ5TUtpUDF4RlVmcXg4SWtkbUdJY2xxMW1Wdw?oc=5",
+      "publishedAt": "2026-09-21T00:49:46.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "고대역폭 메모리 생산 능력과 향후 공급 계획을 점검하는 업계 보도가 나왔습니다.",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체"
     },
     {
-      "id": "skhynix-002",
-      "title": "AI 서버 확대로 고성능 메모리 수요 전망 주목",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20AI%20메모리&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:34:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "f3b66a74abad7720",
+      "title": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tN19kQmJ0TmRtYzlrdUpJTDRxeDJlazBWdU9kUTFsQ0VKZWJ6UXVBWXdHcWlDYjc5MVZlOFRWR1VZbGxtWDNpM3J5d2xFZmZ4Ml9EMmFYcjRMQWI0LXA0Qw?oc=5",
+      "publishedAt": "2026-09-21T00:17:34.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "AI 서버 투자가 늘면서 고성능 메모리 수요가 어떻게 변할지 살펴본 내용입니다.",
-      "category": "실적"
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
     },
     {
-      "id": "skhynix-003",
-      "title": "차세대 메모리 연구개발 투자 계획 소개",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20연구개발%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T06:48:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "71e591612462fa5a",
+      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
+      "publishedAt": "2026-09-19T12:32:05.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "차세대 메모리 기술 개발을 위한 연구 인력과 시설 투자 방향이 소개됐습니다.",
-      "category": "투자"
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
     },
     {
-      "id": "skhynix-004",
-      "title": "글로벌 반도체 공급망 협력 움직임 확대",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T18:05:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "d70ca1fd13c70fd1",
+      "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4ZnBDb1RZM29GUW9QaXZmQi1rSGEwQjNyNXBEbHpIVUgxOTdwNEw3UGZ1bU9BN2Q2Z1lPQkdkQXJkM0ZUY3p2azlnUmhldjVLOVhZWHNHMUpDZEhKUUZfZkplbzEzc1pEdUE?oc=5",
+      "publishedAt": "2026-09-19T08:47:54.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "원재료와 장비의 안정적인 공급을 위한 국내외 기업 간 협력 움직임을 다룬 보도입니다.",
-      "category": "산업"
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
     },
     {
-      "id": "skhynix-005",
-      "title": "메모리 업황 관련 증권가 전망 잇따라",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20업황%20전망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T15:30:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "c03dc9aba0c5fb86",
+      "title": "삼성·SK하이닉스 아성 흔드는 中·美… D램·HBM 점유율 추격 거세진다",
+      "source": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4SU41UnltQ0d4NzB0dTVMdURuV3lpcXdvWDdOME1id0sxdDY0bTgzdW93QzZmeEUxaEpsQXgwc0RaYkZ6aUhqOTlHc0d6SUdNcDhmbWdxSi1KZk9Qc0VKYUtSZ1NRMnVjUXc?oc=5",
+      "publishedAt": "2026-09-19T07:44:18.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "메모리 가격과 수요 변화를 바탕으로 향후 업황을 살펴본 여러 전망이 소개됐습니다.",
-      "category": "실적"
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성·SK하이닉스 아성 흔드는 中·美… D램·HBM 점유율 추격 거세진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "f8e4a3bcf58ed0fa",
+      "title": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵",
+      "source": "SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRFNwOWlHNzFtcUFmdzB2b2k0WnBwWlpKTjhWa1RMb3J0UWtGdVJPczFJR1oyMmZadkRDRHFlVUNqSEJQemt3R1hMM3dKQ2JBOGJF0gFYQVVfeXFMTnhLR0k1aV82YWJPY0tPdTh6NjQ4X2tFY05xMG1qazhRNTZlajZsaERmSnlRVlBJMk5rY3dDTThKZnllelo2N0l2WTFub0g3d0JxT2o5c3d2Mg?oc=5",
+      "publishedAt": "2026-09-19T02:20:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "fd8447ff8129cf5c",
+      "title": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다”",
+      "source": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQVpEZzU2TG9uLVlYRDNfMWNXUHpCWEdCQWRpZjUzM3RKMUlCTDhtUXpTWVcyR1ptVmxtWVd4WWhHTUR6VnEyT2FlRENaMHRxcEw0N21fc0RoQllLcHdsZk5oTDdxYzFZ?oc=5",
+      "publishedAt": "2026-09-18T08:21:47.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "49011129bfffc935",
+      "title": "SK하이닉스, HBF로 HBM·SSD 사이 메운다",
+      "source": "아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xUks3OUhoSTJwQjFEdkxEUk1WVkFDem5aZmlZUnI1TlRTRE96cjBybzc2OXFLODE0M2EwU0ZJMFpxVUczenRyNDlBcHo1WGU0U09uYzFoYmtpSHA4YVNZQm8zdmJKM3lm?oc=5",
+      "publishedAt": "2026-09-18T07:35:46.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBF로 HBM·SSD 사이 메운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "a9411e94daa372e6",
+      "title": "HBF 역할 선명해졌다…SK하이닉스 \"장문·대규모 AI 추론 겨냥\"",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BQUczTzJQYlJ2OGs0SFBoellIN1ZNVkxjNkpJemlFbXJKTURhVHZORXI4aVRVekZtYlh0VE9PR19TQWlaMENCNUhsbkR5S241QXFKcXgxU2lEbi1t?oc=5",
+      "publishedAt": "2026-09-18T01:48:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBF 역할 선명해졌다…SK하이닉스 \"장문·대규모 AI 추론 겨냥\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "5a3e78748d3a2757",
+      "title": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는?",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpeHV3ckdfUFhJbzA3am9ObGZiOGdSVmE5OUEySnNaSjZMcGR0eHdkb2c2TjhHMjBzOW9rSmROT3htWXNXVTRLdzR0ak1fUXk3dFBBOHVTU05JUQ?oc=5",
+      "publishedAt": "2026-09-18T00:00:04.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "ba2b3397c64983f2",
+      "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
+      "publishedAt": "2026-09-17T23:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "c9333d3d707adf19",
+      "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLW1PVVFZU1dieWtfbTJIWDM5dDhYR3d1enBLaHdhVlNBSzBfVXVidFViY1E4eU95LUJDZXB6RUM0YnZZQ245WU1QU0NIMl90NHNDckRRQUNlVGd1Zmg1blJZT0U3QnRnSmVTZFJyUEFvcmdtaHFiRjlHVlluYWE2Q2tKX2ZtSHNDcE4yaTBxcw?oc=5",
+      "publishedAt": "2026-09-17T20:16:16.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "eeb9cfe114e4c3fb",
+      "title": "삼성·SK하이닉스 독주 계속된다...빅테크 \"HBM 대체기술은 보완재일 뿐\"",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56a0RyWWV2U2xScTZISWV3NDJTNzhtVlJJc1phTVQwUlVoYWdPaW91SUVINlV3SzQ4SXdmYVFlNHF5T21jMjVPSzVmeTdicXB0YnY2ekpZUXNfY2xicVE?oc=5",
+      "publishedAt": "2026-09-16T22:38:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성·SK하이닉스 독주 계속된다...빅테크 \"HBM 대체기술은 보완재일 뿐\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "db1bc120b1947283",
+      "title": "AI시장 HBM독주 계속될듯…\"대체기술 CXL, 저장장치 보완재일뿐\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DVXRudEt2U2haRk9nWmU0U05vUGE2RHpJTmJ5c3FxMFU1ZmFoeDZqY2tNTm0wcndKbVBlV1J4M1V2VHZaV0hzazBTRlUxc09FWFQ3YUJSRV92cknSAWBBVV95cUxNSThUT1BvWkR3YklsNm5jV0JUOXM2MTRKMThFUnZYcUZMbE1udU1UMHdHNzNBUl9wQ0JvQ0pYYk5KZFhxVmFuV1FXU3lqSkJzTjEtZ2wwRmMxSjd1WjJ4dkY?oc=5",
+      "publishedAt": "2026-09-16T22:06:59.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "AI시장 HBM독주 계속될듯…\"대체기술 CXL, 저장장치 보완재일뿐\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "7ce92ca9b441dbb9",
+      "title": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\"",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILWNwSWxGNHQ3NXpuQ1p4M3VsLWVzQlJ2OW1aaEIxMUhqM3BmV0EwbGxPZXlvSjhwa0tkN0hKVW1hVGxNcWJOeTdzNU9BQzVITTJiaWlieU90cThlblE?oc=5",
+      "publishedAt": "2026-09-16T13:01:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "056b5e9474905478",
+      "title": "\"SK하이닉스, 인텔과 美 메모리 생산 협상 중\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SckgtaHd6SnkyU1AxRGhSRGp1alRsbXkxdGdFQlgwTkRBS1NKeldCSWJoMllwZl9zUFc5Vkswak9GY2hEd28ybEQwVWlFUHlKc2JwSVNTd0owcmVtR1BQdUc1UXRJT1k?oc=5",
+      "publishedAt": "2026-09-16T11:53:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "\"SK하이닉스, 인텔과 美 메모리 생산 협상 중\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "4a643375fef5394a",
+      "title": "로이터 \"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의 중\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0YU05VHA2TTdpM1NIZlQyMl91bGUzeEd1dVloQnhrLXU4b3JEWHVVUGpBd2JHcjRoOGJhNFlSS1Y1S1IwTFZMcENselZmazJFTXhDVDhpZEY1dkhQd2xrVll2eHU2WWM?oc=5",
+      "publishedAt": "2026-09-16T06:49:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "로이터 \"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의 중\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "0bba534c15f4e5cc",
+      "title": "“범용 지고 HBM 뜬다”···삼성전자·SK하이닉스·마이크론 '증설 전쟁'",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAta3ZIbkotSmJwekxqZTd1REpjLTFuWWVZLUZ3eDdtUVUzUjRzSHMwRFd3akxhSmQtQklaWXJUeDVGY25CZzVUTU1NckJ5VXNnT3B2OFNvX0tJbHM3N2hmNHVhM05uZU10anJGSF9CRDdNZ9IBdkFVX3lxTE54NGc1U2tzbTlNaFpqTXlvWE5RMEd1dzdNNlJaVy1pSlFHNWVPODBBQzRkaXRVLTBRVmJEaTdMVngxYnVRMW10QkdUazVpWGN1d3htN2FSbTZNME5oUndJaGxHdUI0by15Rnp3MDNfejh1ZndyOHc?oc=5",
+      "publishedAt": "2026-09-16T06:47:09.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“범용 지고 HBM 뜬다”···삼성전자·SK하이닉스·마이크론 '증설 전쟁' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "8909f4c5e6ea8268",
+      "title": "'AI 종말론' 짓누른 트럼프…삼성전자·SK하이닉스 'HBM 슈퍼사이클' 청신호",
+      "source": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T2ZTOUFjZWdGSzMxQTBOMGVQVHFTSXpUWk5GU3A5Ml9YTUdEX2FLemdKb0Qzc2VZZ2JyT0t2UWt3MVQtSjB5RXBic1BuajhjY25HM09Ba0lnNS1CSGRNTWVRT1REZUs3MjF3Z2I5QlVQX0J3?oc=5",
+      "publishedAt": "2026-09-16T06:24:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "'AI 종말론' 짓누른 트럼프…삼성전자·SK하이닉스 'HBM 슈퍼사이클' 청신호 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "03ec6383d7a3dc1f",
+      "title": "“SK하이닉스, 인텔 美시설 임대해 메모리 생산 검토”",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5cThPaDlkdlFRbjBURGd5bUhZYmZPa0V3RGVfY3ZmRTRsQlRGZ0FZM24xMmVteVNnVlZyZjZkMmlaNFVFcnJLX1A1Qi1oR291Sl9PSFBCbWRUZ0NPbHZEOU5PMTU5YlVJTGpfa2tSNmJ3R3PSAWZBVV95cUxNcmlSWXR1aTVTZHFSc0FJYmtiTGJHXzQtSDE4TC1oM3JKZW16a0t4ZF8tLVJUdWZOLVFiUWl4b1lPejJxc2RsSWxwUGY1em8wTFk1cm0xSGFQSU1KY080VXJpdFg5LWc?oc=5",
+      "publishedAt": "2026-09-16T06:23:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“SK하이닉스, 인텔 美시설 임대해 메모리 생산 검토” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
     }
   ]
 }

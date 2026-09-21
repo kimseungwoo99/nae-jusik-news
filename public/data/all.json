@@ -1,217 +1,1207 @@
 {
-  "generatedAt": "2026-09-21T08:30:00+09:00",
-  "source": "mock",
-  "isMock": true,
+  "generatedAt": "2026-09-21T01:15:08.932Z",
+  "source": "google-news-rss",
+  "isMock": false,
   "articles": [
     {
-      "id": "hyundai-001",
-      "title": "현대차, 전기차 생산 전략과 신차 일정 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20전기차&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T08:18:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "5a2f6e6e8358ae16",
+      "title": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\"",
+      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83dWJHSnF2bzJtaTQyN1Ffam9mVlk5cUNvVTdkdkFXbjQ2ZE5GLVFwRVZ5TUtpUDF4RlVmcXg4SWtkbUdJY2xxMW1Wdw?oc=5",
+      "publishedAt": "2026-09-21T00:49:46.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "f3b66a74abad7720",
+      "title": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tN19kQmJ0TmRtYzlrdUpJTDRxeDJlazBWdU9kUTFsQ0VKZWJ6UXVBWXdHcWlDYjc5MVZlOFRWR1VZbGxtWDNpM3J5d2xFZmZ4Ml9EMmFYcjRMQWI0LXA0Qw?oc=5",
+      "publishedAt": "2026-09-21T00:17:34.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "2bb8de3cc73cc5e7",
+      "title": "\"자동차 넘어 문화·사람 연결\"…현대차 다큐 '더 스튜디오' 개봉",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZEMxdExSZnBYMFJ2MjBfYnhwd1ZsVVAteFczeHZuNjJ1ODZVRnFEdVA3bVhtNlpITWNMdjg4amhyZ2s4QVpETUgtaHNMeFE?oc=5",
+      "publishedAt": "2026-09-20T23:46:51.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "전기차 생산 운영 방향과 앞으로 공개될 신차 일정을 정리한 내용입니다.",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"자동차 넘어 문화·사람 연결\"…현대차 다큐 '더 스튜디오' 개봉 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차"
     },
     {
-      "id": "samsung-001",
-      "title": "삼성전자, 차세대 HBM 생산 계획에 업계 관심",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=삼성전자%20HBM&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T08:12:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
-      "summary": "차세대 HBM 생산 확대 계획과 공급 일정에 대한 업계의 관심이 이어지고 있다는 내용입니다.",
-      "category": "반도체"
-    },
-    {
-      "id": "skhynix-001",
-      "title": "SK하이닉스, HBM 생산 역량 강화 계획 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20HBM&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T08:05:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "고대역폭 메모리 생산 능력과 향후 공급 계획을 점검하는 업계 보도가 나왔습니다.",
-      "category": "반도체"
-    },
-    {
-      "id": "hyundai-002",
-      "title": "하이브리드 차량 판매 흐름에 시장 관심",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20하이브리드%20판매&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:52:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "b977fe5981dd2bd7",
+      "title": "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNmt5OHpiQ0Q1Y0ZHMkJUU0FtTzRpWnNtVE42UUM0OHdxY2RYMFJvcnMzSFhqZXRlTXQxMzZlRHVFS2tscmo2T0xYMGpDendJenVpOGVqdnpEWEVLbmdZdTZRSQ?oc=5",
+      "publishedAt": "2026-09-20T23:41:26.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "국내외 시장에서 하이브리드 차량 판매가 어떻게 움직이는지 살펴본 보도입니다.",
-      "category": "실적"
-    },
-    {
-      "id": "samsung-002",
-      "title": "삼성전자, 반도체 연구개발 투자 확대 방안 공개",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=삼성전자%20반도체%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:45:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
-      "summary": "반도체 경쟁력 강화를 위한 연구개발과 생산 시설 투자 계획이 소개됐습니다.",
-      "category": "투자"
-    },
-    {
-      "id": "skhynix-002",
-      "title": "AI 서버 확대로 고성능 메모리 수요 전망 주목",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20AI%20메모리&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:34:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "AI 서버 투자가 늘면서 고성능 메모리 수요가 어떻게 변할지 살펴본 내용입니다.",
-      "category": "실적"
-    },
-    {
-      "id": "hyundai-003",
-      "title": "차량 소프트웨어 기술 협력 범위 확대",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20소프트웨어%20협력&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:10:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "차량용 소프트웨어와 연결 서비스 개발을 위한 기술 협력 계획이 소개됐습니다.",
-      "category": "기술"
-    },
-    {
-      "id": "samsung-003",
-      "title": "메모리 반도체 시장 수요 전망에 관심 집중",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=삼성전자%20메모리%20전망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T06:55:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
-      "summary": "데이터센터와 모바일 기기 수요를 중심으로 메모리 반도체 시장 전망을 살펴본 보도입니다.",
-      "category": "실적"
-    },
-    {
-      "id": "skhynix-003",
-      "title": "차세대 메모리 연구개발 투자 계획 소개",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20연구개발%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T06:48:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "차세대 메모리 기술 개발을 위한 연구 인력과 시설 투자 방향이 소개됐습니다.",
-      "category": "투자"
-    },
-    {
-      "id": "skhynix-004",
-      "title": "글로벌 반도체 공급망 협력 움직임 확대",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T18:05:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "원재료와 장비의 안정적인 공급을 위한 국내외 기업 간 협력 움직임을 다룬 보도입니다.",
-      "category": "산업"
-    },
-    {
-      "id": "hyundai-004",
-      "title": "해외 생산 거점 운영과 공급망 현황 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20해외%20생산%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T17:40:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "주요 해외 공장의 운영 상황과 자동차 부품 공급망 변화를 점검한 내용입니다.",
-      "category": "산업"
-    },
-    {
-      "id": "samsung-004",
-      "title": "스마트폰 신제품 출시 앞두고 부품 공급망 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=삼성전자%20스마트폰%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T17:20:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
-      "summary": "스마트폰 신제품 출시 준비와 주요 부품의 안정적인 공급 상황을 점검한 내용입니다.",
-      "category": "산업"
-    },
-    {
-      "id": "skhynix-005",
-      "title": "메모리 업황 관련 증권가 전망 잇따라",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=SK하이닉스%20업황%20전망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T15:30:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [{ "id": "skhynix", "name": "SK하이닉스", "ticker": "000660" }],
-      "summary": "메모리 가격과 수요 변화를 바탕으로 향후 업황을 살펴본 여러 전망이 소개됐습니다.",
-      "category": "실적"
-    },
-    {
-      "id": "samsung-005",
-      "title": "삼성전자 주요 경영 일정과 주주 안내 사항 정리",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=삼성전자%20주주%20경영&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T14:10:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [{ "id": "samsung", "name": "삼성전자", "ticker": "005930" }],
-      "summary": "회사의 주요 경영 일정과 주주가 확인할 수 있는 안내 사항을 정리한 소식입니다.",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업"
     },
     {
-      "id": "hyundai-005",
-      "title": "친환경차 연구개발 투자 방향 소개",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20친환경차%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T13:50:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "b2167552c62f3188",
+      "title": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTRKRWRzVW9KYV9ER0U5eEFYalVyMmFVR0g5NTZFbmJqTXVHaTlsLURXZTNBaUh4a0szSUo0elBkT29Vc0J2bDJQV2w5RGFUVVJZTjdKZzdJQk80UlVDVjcwOVVTT19TSThwS3A5WXZZMU5WMGJ1UUhXdWZRVXlKRGZBLV9mQzUtV2RLSlZ1NXNlUjlVcUNTVEx1V3Btd0dv?oc=5",
+      "publishedAt": "2026-09-20T23:30:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "전기차와 수소차 등 친환경차 기술을 위한 중장기 연구개발 투자 방향을 다룬 소식입니다.",
-      "category": "투자"
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "ba44e13f959b1635",
+      "title": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzk2VzY5R1h3MC1nclZPaUtIYkJ4NG1nMnA2akdXNWxYUWwzbzU4ZENLcnVwbHczbnlVYUVFdWg3QlJSeGJkZVA1c19BcWtkWmptZWJqMG51QTllT0JsMnBfVElwVXc5bnZzT1RSU0d1MHlqQzlHaFQyMkNzZDNncVNXNTNMZlBXcF96eExnLUVGdnpfVjVwQl9R?oc=5",
+      "publishedAt": "2026-09-20T23:30:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "a9aa5ecf0a733a36",
+      "title": "현대자동차와 공동 부스 운영한 모바일게임 ‘레이싱 마스터’ (엔터테크·GES 서울) [포토]",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xZmVMb1Y4bUZaTnJ1aUV5ejM5UWRYaVhwZVFUWUxGN1VHN0lKc1RkRnVWOTE4V21FaE5EdzRsa1BzWEFMQ0E?oc=5",
+      "publishedAt": "2026-09-20T11:05:09.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차와 공동 부스 운영한 모바일게임 ‘레이싱 마스터’ (엔터테크·GES 서울) [포토] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "466defae425fff28",
+      "title": "삼성전자 최대 노조 ‘반도체 노조’로 개편…최승호 위원장 ‘억대 개인혜택’ 의혹도",
+      "source": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EVDZWdlVwcENjUndPVVFLYTBHb1RMUlFlak9RaVAxeXBseGFWY3FPcWNrZGRLcW9UcF95OXNCM044cmNKTW52WEVPWncwSW5z?oc=5",
+      "publishedAt": "2026-09-20T09:06:52.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 최대 노조 ‘반도체 노조’로 개편…최승호 위원장 ‘억대 개인혜택’ 의혹도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "27b6af6bbe45623d",
+      "title": "6년 만에 싹 바뀐 현대차 투싼… 근육질 외관에 뒷문 83도 ‘활짝’ - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISzRLSjJwYUJHWmVLeUd0WHptQXdZTWNpYU01VGpGMVBXVGRoMXpLUWZmak9yWDFzWnJMZWRsRFlydFdMeU1sbmEteDQxUXFPd0xxZ1Zua2VBUGJRcWZzREtkMWdnWWFpeXdaU01vNWtZcDhvR05nU3lETFZ3MG_SAZMBQVVfeXFMTUxCdzFwbU5zTVh4My1YaWw3UDdxRGtOblpGWkxQUVNpZnNBQ0w2VDVQcU9EMlZkZ1ZJczRlelZYREtJd2NoM3lPMkYweHA4MF9UdklMVHlsdFRJZEFaOFVockM3ZTE4Z081eWtWWng4WDJyQ3ZSaXNTX1BVS0JNckNOUVlnQnBKMWt1TktqNXVONWxJ?oc=5",
+      "publishedAt": "2026-09-20T04:36:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "6년 만에 싹 바뀐 현대차 투싼… 근육질 외관에 뒷문 83도 ‘활짝’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "4e4bc3c44c79b057",
+      "title": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcHJ2NnJGb3pNa2k2WE8tTk9raEpFNnZkNGEyS2Z4SjlySEJCT21ZLXY2VFdkMUxqZjRNNXJyUmlGMW9ibndUZHZhM2w1SGlJam5FMTUwZm5kQQ?oc=5",
+      "publishedAt": "2026-09-20T04:17:48.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "5ee365f65147e29d",
+      "title": "[포토] 포지드 카본 패턴에 터프한 매력까지...현대차 오프로드 특화 트림 '투싼 XRT'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekZhSkFtVkJmWmVuRDdGYnB4WEM3RVBKMnJZNlQzWHVQSnU2ZDFNRk1hd2FLLWQ4LTZrR296RnY1T3Z5cW53S19pSTdGSXJKaHFleUJVTnlUOGRlbWQ3OG9xZ1M0bDJGNEs5OFkwblJoN0poNjQyZ1p6UENUNUx6amwyMjV4Zw?oc=5",
+      "publishedAt": "2026-09-20T01:01:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[포토] 포지드 카본 패턴에 터프한 매력까지...현대차 오프로드 특화 트림 '투싼 XRT' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "d887086945ce139f",
+      "title": "현대차, 차체 키운 5세대 투싼 공개…6년만에 완전변경",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMnJMdTJreHlhWVg2MjktZFpkRWFuRloxS1IzbTRQTlI2MHFRUVhtcERLZnhSb3NLQ0dwd0NzNkl5amFCZEphSmtuOGowR3lMc2hiUmVZYUlyTk3SAWBBVV95cUxNbGJNbDlsbkhXN1Z1dU01ZE5YSm5GOExTcjExOU1YWGh2c0RaYzJMOGdZR0hzY2ZUOHp0N0dXdjg4eTdlZVdXa2tnR0ZpRDJEUjhSQXZ5Q2dLR2dQSklCN2g?oc=5",
+      "publishedAt": "2026-09-20T00:56:33.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 차체 키운 5세대 투싼 공개…6년만에 완전변경 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "ee67c2ac107ee580",
+      "title": "[포토] 차급 뛰어넘는 공간성에 첨단 AI 비서까지...현대차 '디 올 뉴 투싼' 실물",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjlub2xtWEE4SExxMjQwM2wxb0ZpWHhGQ24xWXpXdXg2Y19zR3cxSERIdGtoclppZEdiVWVxd1NnZG1aT2Q4WVNEeEFQZjF1NFo1T2tDUGJ4MmVId3RORC00a0ZuYXpEeFJhbGU0VjdwbUFVbWY3Qi1ZVXZiQUJvY2R6SDE?oc=5",
+      "publishedAt": "2026-09-20T00:48:28.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[포토] 차급 뛰어넘는 공간성에 첨단 AI 비서까지...현대차 '디 올 뉴 투싼' 실물 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "be8f4904f3cd891e",
+      "title": "체격 키우고 탈출·방호 첨단 무장…현대차, 5세대 ‘디 올 뉴 투싼’ 공개",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLclpFSHR1Qll3QXpzS081NkR1UHU1X19hVW5kRHM1Wi1sNjdDUEVYZG9pOWhWTjJkcUFaZ0FkM2Q0QUdYWkVURDB5TVJuYWRwUE1YTENyTFNPZ9IBX0FVX3lxTFAyNGlzWmlXTWlXYnN1Q0RwRnAzUk1DMmJEb2VJc0swS0JzdHZmNnpNZjlvNkU4SHhmYXBEY1BKdmxmX010elI5QTdEcTJLUzU5YlZ1djlmSVJralNBSzNr?oc=5",
+      "publishedAt": "2026-09-20T00:32:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "체격 키우고 탈출·방호 첨단 무장…현대차, 5세대 ‘디 올 뉴 투싼’ 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "cde1893c16a5596d",
+      "title": "\"쏘렌토·싼타페보다 넓다\"...현대차, 5세대 풀체인지 '디 올 뉴 투싼' 최초 공개",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkY4eXdEaFA5TV85RmFSUy1HcXp4RnhJQmU5UTYzQVNiSG8tRlh6Um1mX0RhUGVRdVlNTjd4b2ZNNDlYeXZQeXRGT29EeEN4SmZVYXBYZmFjR1EwbjR5YzIwWi12ZktvVjloR2xNN1lXSlIwbkdBXzJfa1oyNkxJamVOZTE5dw?oc=5",
+      "publishedAt": "2026-09-20T00:20:11.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"쏘렌토·싼타페보다 넓다\"...현대차, 5세대 풀체인지 '디 올 뉴 투싼' 최초 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "f000af14f4c79c7e",
+      "title": "현대차, 6년 만에 완전변경 '디 올 뉴 투싼' 첫 공개… 글로벌 1000만대 달린다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rNmJjdmtxTVZobHMxeTcyWHotejJJem54elRHYksxcEI0dkJkclhucUpuazFJd0FUTHdQdXJSd3o1bUI2bkMzY19ueFdfUQ?oc=5",
+      "publishedAt": "2026-09-20T00:05:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 6년 만에 완전변경 '디 올 뉴 투싼' 첫 공개… 글로벌 1000만대 달린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "4995cc518f6d7d8f",
+      "title": "현대차, 6년 만에 '디 올 뉴 투싼' 승부수…차체 키우고 HEV 고도화",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NYm1ydjVMb25YQXNVZFZ5TGthd3ZtU2xCMjRhUTlfejhkUUdvTGFLZnNUT0hiUDZiNUtVSzRHSkZmV052cVJqQmRXUV93ZDZGbGJhWnNwTEdTRVZnQmc?oc=5",
+      "publishedAt": "2026-09-20T00:00:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 6년 만에 '디 올 뉴 투싼' 승부수…차체 키우고 HEV 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "d21a692a56910aec",
+      "title": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJVMDFpSkZQMEVVQjVfRTdweUJIYXJzcjVaSEpTN3VObG95eVFnWnZva21ZMGtWT2tLU3VxOFRNbUJ0bXV6SDJuWTRQZWYyY3RORkRac1FGbkhwd19fcVFWNndIOGlTaW9TUVdydlV2bUYyZE1BYmhVYnFYSEZCTjBlb19pd2c5LWRIeGd1Zw?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "eff4addf1685f9a9",
+      "title": "美 취향 겨냥한 '강인함'…디 올 뉴 투싼, 거친 오프로더 감성 '물씬'",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWlFMMkN6a0tnMWFSY1l4cUZSOVg4V3pwbTl4LWRpb0RsYk5kQUYzR3F6YXZ3Z3hmMWxnVDI5TDYtVGtmWTh1MDBMMjhkeU1Fd21wLVUzZVJSdVdydUFrbHFSbHg3UdIBZkFVX3lxTFBuWlFMMkN6a0tnMWFSY1l4cUZSOVg4V3pwbTl4LWRpb0RsYk5kQUYzR3F6YXZ3Z3hmMWxnVDI5TDYtVGtmWTh1MDBMMjhkeU1Fd21wLVUzZVJSdVdydUFrbHFSbHg3UQ?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "美 취향 겨냥한 '강인함'…디 올 뉴 투싼, 거친 오프로더 감성 '물씬' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "b3ce94255f107844",
+      "title": "현대차, 디 올 뉴 투싼 최초 공개 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzl2NHNHZ2hwTFNiN0MzcGg4OGRwdG1hX2JjVHpxaF9aX1JmS3JRc29wWkp3THJ4RHNpTGZNYWltTllkVUNuVVBaTnRtbGVGQ3RuZUJFMEZVUktsYUFRLWF6a1RXMExpbXBvSzU2NEF5bGlZWkptRDJUNG45N3pGZE02UHlOeGprX0RhVg?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 디 올 뉴 투싼 최초 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "2cab9f18b1345a73",
+      "title": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥]",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42LWhZY09HcGVNWmNaZ0JKMmtQTlZzX21KNUt2eE52V19lU1JKb29idVZMTHdYQ2pJVVgxNWRKcXVrTEZqZElfcVh4WWtLd2N4MkE?oc=5",
+      "publishedAt": "2026-09-19T23:57:52.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "8df4cc67d7c264ae",
+      "title": "삼성전자 최대 노조 ‘반도체만’ 남는다…96% 찬성으로 DX 배제",
+      "source": "주간조선",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taVhzTkd2anM3VjUyUVJIYWNBUG9UX2d2NEZyTTVJb29zN3RESnYwQWdoV2Zrbzl5VGhmZzlIbFRHX1NPQ3FTcWU5MHdYWVZDUUh1Nk9NY0ZHMzNvbVAxcDJEVE4xWXZwaVHSAW5BVV95cUxQNE5QWkZEWi1tQkppSHZ1Um5GYzNrWHlCSEkwRFVMMWxsZm44U0VCMFk4S0V3aldObG85UUxRYURZV21vcFBLM0pSb3F2Y0tmZXBVZDlDbzJlVHBqTGM3N3FOZk9rV2RWTUt2QUZEQQ?oc=5",
+      "publishedAt": "2026-09-19T13:07:15.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 최대 노조 ‘반도체만’ 남는다…96% 찬성으로 DX 배제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "71e591612462fa5a",
+      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
+      "publishedAt": "2026-09-19T12:32:05.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "d70ca1fd13c70fd1",
+      "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4ZnBDb1RZM29GUW9QaXZmQi1rSGEwQjNyNXBEbHpIVUgxOTdwNEw3UGZ1bU9BN2Q2Z1lPQkdkQXJkM0ZUY3p2azlnUmhldjVLOVhZWHNHMUpDZEhKUUZfZkplbzEzc1pEdUE?oc=5",
+      "publishedAt": "2026-09-19T08:47:54.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "c03dc9aba0c5fb86",
+      "title": "삼성·SK하이닉스 아성 흔드는 中·美… D램·HBM 점유율 추격 거세진다",
+      "source": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4SU41UnltQ0d4NzB0dTVMdURuV3lpcXdvWDdOME1id0sxdDY0bTgzdW93QzZmeEUxaEpsQXgwc0RaYkZ6aUhqOTlHc0d6SUdNcDhmbWdxSi1KZk9Qc0VKYUtSZ1NRMnVjUXc?oc=5",
+      "publishedAt": "2026-09-19T07:44:18.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성·SK하이닉스 아성 흔드는 中·美… D램·HBM 점유율 추격 거세진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "62e6187ecad84410",
+      "title": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다",
+      "source": "진일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ER2pnUnZNV1I0Zmw5ZWRxMFkzM2dzTGJmc1FVVEhtX0J3a0xGUEJDU1dWemN3Qk5fOWpwa2xZQnJTU0hjdFMtWUhMTllFSGNFSllFbDRqWm5vM2ZzYV9KUmUydWFEQTYwNmxNWFNEdw?oc=5",
+      "publishedAt": "2026-09-19T06:59:48.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "32b5d8d4927ff3a9",
+      "title": "삼성전자 초기업노조, ‘반도체 노조’ 전환",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEYlhOYVIyYmw5ZHJpRXJMSE5meDFzWmRUdEZrYnlMemlvTWlfN090TWR1SEgtT0lDeWpFdzZxYXZ5QlZ1TFdJblk4cE9KNHhkb1JUby1haGZyZ9IBX0FVX3lxTE1KNnlRR2JJNGh0c3ZzbjdCT3R4QTFkQkpkN2V5TFRnV2g3QXVVZEstUk9RS2V1MklIQlVyUU5wWGwwNzF2WVhYOGQ1b0R5T0NocVl3RlhxdUJGeUFBcFJV?oc=5",
+      "publishedAt": "2026-09-19T04:44:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 초기업노조, ‘반도체 노조’ 전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "c8c9c2539484d96c",
+      "title": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TmZkWG5KakJoeUd0bmpVbXZKLVBrSmUzVHlKQ1lOdHU1Q0NqSTBScnU2d1FMUkpXTkNHMU5YVWZfa29MN1plZXRHSndrTWlsUVZldjJPQWJ2TE5vUEktd0ZyN0PSAWpBVV95cUxOY28xajNSUEVsUUZSZ3lGak1XNF9UbkNsR0l0VVI3cHZ5bGtYbHEtaE5hN1RKM2hiNVZ4YW9zTTBhYUtlandZZXFWNnpYSWpDTUQ2cnFPOFJ4eElsM2NUWXlyaTJuSEVwTGN3?oc=5",
+      "publishedAt": "2026-09-19T02:47:02.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "f8e4a3bcf58ed0fa",
+      "title": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵",
+      "source": "SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRFNwOWlHNzFtcUFmdzB2b2k0WnBwWlpKTjhWa1RMb3J0UWtGdVJPczFJR1oyMmZadkRDRHFlVUNqSEJQemt3R1hMM3dKQ2JBOGJF0gFYQVVfeXFMTnhLR0k1aV82YWJPY0tPdTh6NjQ4X2tFY05xMG1qazhRNTZlajZsaERmSnlRVlBJMk5rY3dDTThKZnllelo2N0l2WTFub0g3d0JxT2o5c3d2Mg?oc=5",
+      "publishedAt": "2026-09-19T02:20:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "c52f6f9c4723ac33",
+      "title": "[ET톡] 삼성전자, 내부 기강 다잡아야 '초격차' 지킨다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lTXNhaU5sWHNuaTlraVdCSVNUeW1uTmNMalhpeHdSZ095NFJOV2xvMHZqVzJnTF9FQUotclUxaFlYM05WZTZYQ0VpbmRVQQ?oc=5",
+      "publishedAt": "2026-09-18T21:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[ET톡] 삼성전자, 내부 기강 다잡아야 '초격차' 지킨다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "310cb0ebfa42c237",
+      "title": "\"현대차밖에 없다\" 구글 러브콜…수만대 만드는 '이 차' 정체",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZU9LMlNfcnBRZTBsNVNwb0RuczkwVjBjbTFfMU5Ya0JYRzJGYVgxNWh4Sl81bDBlQ1J1TDc4azROYlRWQWFPZFYwVHp2d1Y4MlV4RFk1eWtSdw?oc=5",
+      "publishedAt": "2026-09-18T08:37:29.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"현대차밖에 없다\" 구글 러브콜…수만대 만드는 '이 차' 정체 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "fd8447ff8129cf5c",
+      "title": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다”",
+      "source": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQVpEZzU2TG9uLVlYRDNfMWNXUHpCWEdCQWRpZjUzM3RKMUlCTDhtUXpTWVcyR1ptVmxtWVd4WWhHTUR6VnEyT2FlRENaMHRxcEw0N21fc0RoQllLcHdsZk5oTDdxYzFZ?oc=5",
+      "publishedAt": "2026-09-18T08:21:47.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "49011129bfffc935",
+      "title": "SK하이닉스, HBF로 HBM·SSD 사이 메운다",
+      "source": "아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xUks3OUhoSTJwQjFEdkxEUk1WVkFDem5aZmlZUnI1TlRTRE96cjBybzc2OXFLODE0M2EwU0ZJMFpxVUczenRyNDlBcHo1WGU0U09uYzFoYmtpSHA4YVNZQm8zdmJKM3lm?oc=5",
+      "publishedAt": "2026-09-18T07:35:46.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBF로 HBM·SSD 사이 메운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "6191ebb2a0eca11c",
+      "title": "29년 포터 '고별운행 편지' 그 후…현대차 임원 손편지 답장",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YNWJ2M2N2am1OZ2IwajNRWUVueWdFeEkzbFMxbFpEVjV2d2UyYVJ5SW40T2VaUEpPSVFEZ0dqZHZVc3Z3d1E?oc=5",
+      "publishedAt": "2026-09-18T06:59:52.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "29년 포터 '고별운행 편지' 그 후…현대차 임원 손편지 답장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "8972072268b08586",
+      "title": "삼성전자, 3.4% 급등 마감…SK하이닉스는 6.4% 뛰어(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQzUyVXZPdkVQa3J4VnJZM1NHRHJlMnhNamFJMmVYLXZOb3hpaXluUm1hVS1ubFkwUjZHczBGbzNhX2VaZl9jYVl3OVRVdEhSRmdhUTRkVlNzcm_SAWBBVV95cUxQVk9Wc3RBNWZxWDVNQnluVm1sOVF4UENjVC1aTmJBTE5nX3dDUzJmaHl4elRFVUNSdlE3QTBIN2RXbmhHY0I0XzBtRG9aTXVsQVRPVjJYLTByVUZ3LXJkbm4?oc=5",
+      "publishedAt": "2026-09-18T06:52:52.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 3.4% 급등 마감…SK하이닉스는 6.4% 뛰어(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "e3c9727c56854744",
+      "title": "현대차 CEO \"미국, 시장보호 유지 안하면 중국차 밀려들 것\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OS1QN0l1bWNfeUwxSHJhR2YzUHlvNjdPOVRzYThCS1VyWUlwSWMxNXc1UXdPdU9HUEo2M1dLMm1WOGdsNFY1R2hxeWdVNWRoeGg2WXdsVHBUaGPSAWBBVV95cUxNYnhJeE9IS0U5Vm1DSzlXQjVYRmJ5R2pHeFVNVlY0OE1XWlhuV2s3NzhLUEtJejRPXzE0V0NZc1JyWDRUbG43dmVyYkhSdUk2MWlHVWpYNG9tY2RGX3g4QnQ?oc=5",
+      "publishedAt": "2026-09-18T06:46:01.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 CEO \"미국, 시장보호 유지 안하면 중국차 밀려들 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업"
+    },
+    {
+      "id": "fe8bf6b1ddadbcb8",
+      "title": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설",
+      "source": "mdtoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUUZkNVJFWERLTF9iV2oyNjA4N0Vzempud3JBZHRXclBVTkh6LUVCUG05ZmI2MFVYU3hyREwtOG1UYlNrWWRkZDZGeC1IT0ZiUkNqMmIyQVlGVldtRjRXNkhOc21wSk5pTVR4dg?oc=5",
+      "publishedAt": "2026-09-18T05:43:03.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "a4a5880980870cbe",
+      "title": "현대차, 실리콘밸리서 인재 확보전…\"자동차 넘어 피지컬AI 기업으로\"",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0xPWGM4c2ptcktHbTBGRzFzTHFJbTlqZFBSZEtYUE1CdUZTRmVMdnZtSE1abjI4Umozd21QUmdBWVlra0lDUFdQci1mb1doUEs2dldobXpvMUN2RWxKV3A4TkU0Tmw0NWpDUnR5LUtZVXc2RUtjR1N5eDhWWHRiV1k3VQ?oc=5",
+      "publishedAt": "2026-09-18T04:47:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 실리콘밸리서 인재 확보전…\"자동차 넘어 피지컬AI 기업으로\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "a9411e94daa372e6",
+      "title": "HBF 역할 선명해졌다…SK하이닉스 \"장문·대규모 AI 추론 겨냥\"",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BQUczTzJQYlJ2OGs0SFBoellIN1ZNVkxjNkpJemlFbXJKTURhVHZORXI4aVRVekZtYlh0VE9PR19TQWlaMENCNUhsbkR5S241QXFKcXgxU2lEbi1t?oc=5",
+      "publishedAt": "2026-09-18T01:48:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBF 역할 선명해졌다…SK하이닉스 \"장문·대규모 AI 추론 겨냥\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "5a3e78748d3a2757",
+      "title": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는?",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpeHV3ckdfUFhJbzA3am9ObGZiOGdSVmE5OUEySnNaSjZMcGR0eHdkb2c2TjhHMjBzOW9rSmROT3htWXNXVTRLdzR0ak1fUXk3dFBBOHVTU05JUQ?oc=5",
+      "publishedAt": "2026-09-18T00:00:04.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "ba2b3397c64983f2",
+      "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
+      "publishedAt": "2026-09-17T23:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "c9333d3d707adf19",
+      "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLW1PVVFZU1dieWtfbTJIWDM5dDhYR3d1enBLaHdhVlNBSzBfVXVidFViY1E4eU95LUJDZXB6RUM0YnZZQ245WU1QU0NIMl90NHNDckRRQUNlVGd1Zmg1blJZT0U3QnRnSmVTZFJyUEFvcmdtaHFiRjlHVlluYWE2Q2tKX2ZtSHNDcE4yaTBxcw?oc=5",
+      "publishedAt": "2026-09-17T20:16:16.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "086f875c96570636",
+      "title": "[단독] 엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다",
+      "source": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NS1iQ1NGVWhOb0J0LUEtMHBpZldlRmp6YThsaDBRdGY4N2xpTnBzZGNqVTlDNVNPWDhza2JhRU1wemRSeEtWeE9fanRkdk1fQTFLUzhn?oc=5",
+      "publishedAt": "2026-09-17T20:00:01.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[단독] 엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "95fe6dedad4d68b8",
+      "title": "[이슈] 삼성전자 반도체 하청노동자 \"단기 도급계약에 고용불안\"…산재 처리도 ‘눈치’",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ZUJuQV9FVm90WHFrVG1jdVZsN090RllZRGNuVXdhSUd1YjZVTXNvckhpTXVxb3NLX1N6cUp2c3VPbjJvSWZDTlM3QUFtRTVPdEtWWGtxY1ZKX3pHcnU2emdCNXItZUpK?oc=5",
+      "publishedAt": "2026-09-17T10:03:24.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[이슈] 삼성전자 반도체 하청노동자 \"단기 도급계약에 고용불안\"…산재 처리도 ‘눈치’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "226bae79e29d69dc",
+      "title": "[현장] \"다쳐도 티 내지 말고 휴직하지 마라\", 삼성전자 반도체 하청 노동자들이 전하는 '일상화된 차별' 실태",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUU5KaG5zZTltMHFFekJqMTNLRTRMaFdTLWQxc2JLU2gydTdKMDdrS3JZREF4QUJReTZPVVE3SEIxc1ZkcVdZaE1CeFRmV1pONV94eGZGc0V0X3JjeVBYOXVxNUxZV0lMQWpOdXFYd2hxT1k?oc=5",
+      "publishedAt": "2026-09-17T08:15:14.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[현장] \"다쳐도 티 내지 말고 휴직하지 마라\", 삼성전자 반도체 하청 노동자들이 전하는 '일상화된 차별' 실태 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "c4297ab160e3077b",
+      "title": "“삼성전자 직원은 양반집 딸이고 우리는 머슴”···하청노동자의 ‘가난한 호황’",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82cHl4MlJucWUtUnBtLUJoS01qbjFSUFdLWmR6QWV0dGlXTjlkNjA0OEQydFRaUFhUMlpnVVZPN1NWTWZYeWU1bV9fMjU2QnBVa1l5WUg0MEs2UdIBX0FVX3lxTE1DVjlPWWNkMV9VcnFybklBQ2ZsSk5Ha3g5b0V2Zkp2M3RfUTI2SExFeC04d0FvSFRGWi1YRjBGVFY0RUtkaEhOTHJwYlRtWGdFSDd2R3BSNlZsdER2aXJv?oc=5",
+      "publishedAt": "2026-09-17T07:35:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "“삼성전자 직원은 양반집 딸이고 우리는 머슴”···하청노동자의 ‘가난한 호황’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "9c2ce6ef730b8209",
+      "title": "삼성, 올해 QD TV 생산 80% 줄인다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zS3NPWERTdlpjaFZJdkM4YWJkYklhdjU2bXBBVXFEbGc5d3VocE94aFVnZUZfc3BHMVVpbWk1Y2ZmOXdOS01uZXllMjE4QQ?oc=5",
+      "publishedAt": "2026-09-17T07:30:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성, 올해 QD TV 생산 80% 줄인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업"
+    },
+    {
+      "id": "417dd363f3d88457",
+      "title": "삼성전자, One UI 9 공식 버전 업데이트 시작",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTmhZOWxpSDNpTXlDU0JkTU9zaFZJUlNSRkdHbWtzUXdrVk04RkhRRFNoc0tlUzRUMG0wZ2xsU2lWU1c3cFRRTTk0TkRUTGNMblV2dmpaOFNvVFdtbGwtM2Vod25FNVMwT09zM3FwRWRHVk5QZ3ZNSnZCVWxxWUtVaElXSC1tZmxEb1RaTm9xRE13bUo3NV9iLUI2WFpQU2p5eVh1TmFubXpkZzdITUgzZGhwTGVNMUtpVmdINHdES1RWVWZBRHYyUUZSU1gzdEtYOHBCUWZUVl9hU1lCWUJyQzVVNlJjMTZQbVpuSGJMSE5HTlJDR2ZkWDE5VQ?oc=5",
+      "publishedAt": "2026-09-16T23:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, One UI 9 공식 버전 업데이트 시작 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "eeb9cfe114e4c3fb",
+      "title": "삼성·SK하이닉스 독주 계속된다...빅테크 \"HBM 대체기술은 보완재일 뿐\"",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56a0RyWWV2U2xScTZISWV3NDJTNzhtVlJJc1phTVQwUlVoYWdPaW91SUVINlV3SzQ4SXdmYVFlNHF5T21jMjVPSzVmeTdicXB0YnY2ekpZUXNfY2xicVE?oc=5",
+      "publishedAt": "2026-09-16T22:38:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성·SK하이닉스 독주 계속된다...빅테크 \"HBM 대체기술은 보완재일 뿐\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "9677d24242a1ee4e",
+      "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석]",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45M0NvY0RfY29PMWhTbHppUzRaNTJvQnFmUGZSdU9nS0xPb1JxRThEY1dzWkJDQS15cXRaaGZuM1AxbllON3dhUkdDTjdjeERSMW9CYjVWb2hmdw?oc=5",
+      "publishedAt": "2026-09-16T22:22:04.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업"
+    },
+    {
+      "id": "4fa62506d6df1d03",
+      "title": "'대박'이라던 삼성 파운드리의 민낯과 정부의 오판",
+      "source": "OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS11SUFSb0FJVDh6NjRiRWZTNkhlR0ZGeS1pY2xtb3BwbnZNQUhTTE94VG5lZlNsMlZoNWdLVU5XY1h0LVRFVkxBbDlWYWF6enFaMFU2bmR3U25SS0hHS2tDbk00V1BrNUtUX2VpN3MzTEhhNDIzdUFlaFBWUU0tRC05ZEw4dnBnQ2c?oc=5",
+      "publishedAt": "2026-09-16T22:16:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "'대박'이라던 삼성 파운드리의 민낯과 정부의 오판 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "db1bc120b1947283",
+      "title": "AI시장 HBM독주 계속될듯…\"대체기술 CXL, 저장장치 보완재일뿐\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DVXRudEt2U2haRk9nWmU0U05vUGE2RHpJTmJ5c3FxMFU1ZmFoeDZqY2tNTm0wcndKbVBlV1J4M1V2VHZaV0hzazBTRlUxc09FWFQ3YUJSRV92cknSAWBBVV95cUxNSThUT1BvWkR3YklsNm5jV0JUOXM2MTRKMThFUnZYcUZMbE1udU1UMHdHNzNBUl9wQ0JvQ0pYYk5KZFhxVmFuV1FXU3lqSkJzTjEtZ2wwRmMxSjd1WjJ4dkY?oc=5",
+      "publishedAt": "2026-09-16T22:06:59.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "AI시장 HBM독주 계속될듯…\"대체기술 CXL, 저장장치 보완재일뿐\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "7ce92ca9b441dbb9",
+      "title": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\"",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILWNwSWxGNHQ3NXpuQ1p4M3VsLWVzQlJ2OW1aaEIxMUhqM3BmV0EwbGxPZXlvSjhwa0tkN0hKVW1hVGxNcWJOeTdzNU9BQzVITTJiaWlieU90cThlblE?oc=5",
+      "publishedAt": "2026-09-16T13:01:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "056b5e9474905478",
+      "title": "\"SK하이닉스, 인텔과 美 메모리 생산 협상 중\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SckgtaHd6SnkyU1AxRGhSRGp1alRsbXkxdGdFQlgwTkRBS1NKeldCSWJoMllwZl9zUFc5Vkswak9GY2hEd28ybEQwVWlFUHlKc2JwSVNTd0owcmVtR1BQdUc1UXRJT1k?oc=5",
+      "publishedAt": "2026-09-16T11:53:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "\"SK하이닉스, 인텔과 美 메모리 생산 협상 중\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "4a643375fef5394a",
+      "title": "로이터 \"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의 중\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0YU05VHA2TTdpM1NIZlQyMl91bGUzeEd1dVloQnhrLXU4b3JEWHVVUGpBd2JHcjRoOGJhNFlSS1Y1S1IwTFZMcENselZmazJFTXhDVDhpZEY1dkhQd2xrVll2eHU2WWM?oc=5",
+      "publishedAt": "2026-09-16T06:49:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "로이터 \"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의 중\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "0bba534c15f4e5cc",
+      "title": "“범용 지고 HBM 뜬다”···삼성전자·SK하이닉스·마이크론 '증설 전쟁'",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAta3ZIbkotSmJwekxqZTd1REpjLTFuWWVZLUZ3eDdtUVUzUjRzSHMwRFd3akxhSmQtQklaWXJUeDVGY25CZzVUTU1NckJ5VXNnT3B2OFNvX0tJbHM3N2hmNHVhM05uZU10anJGSF9CRDdNZ9IBdkFVX3lxTE54NGc1U2tzbTlNaFpqTXlvWE5RMEd1dzdNNlJaVy1pSlFHNWVPODBBQzRkaXRVLTBRVmJEaTdMVngxYnVRMW10QkdUazVpWGN1d3htN2FSbTZNME5oUndJaGxHdUI0by15Rnp3MDNfejh1ZndyOHc?oc=5",
+      "publishedAt": "2026-09-16T06:47:09.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“범용 지고 HBM 뜬다”···삼성전자·SK하이닉스·마이크론 '증설 전쟁' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "8909f4c5e6ea8268",
+      "title": "'AI 종말론' 짓누른 트럼프…삼성전자·SK하이닉스 'HBM 슈퍼사이클' 청신호",
+      "source": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T2ZTOUFjZWdGSzMxQTBOMGVQVHFTSXpUWk5GU3A5Ml9YTUdEX2FLemdKb0Qzc2VZZ2JyT0t2UWt3MVQtSjB5RXBic1BuajhjY25HM09Ba0lnNS1CSGRNTWVRT1REZUs3MjF3Z2I5QlVQX0J3?oc=5",
+      "publishedAt": "2026-09-16T06:24:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "'AI 종말론' 짓누른 트럼프…삼성전자·SK하이닉스 'HBM 슈퍼사이클' 청신호 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "03ec6383d7a3dc1f",
+      "title": "“SK하이닉스, 인텔 美시설 임대해 메모리 생산 검토”",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5cThPaDlkdlFRbjBURGd5bUhZYmZPa0V3RGVfY3ZmRTRsQlRGZ0FZM24xMmVteVNnVlZyZjZkMmlaNFVFcnJLX1A1Qi1oR291Sl9PSFBCbWRUZ0NPbHZEOU5PMTU5YlVJTGpfa2tSNmJ3R3PSAWZBVV95cUxNcmlSWXR1aTVTZHFSc0FJYmtiTGJHXzQtSDE4TC1oM3JKZW16a0t4ZF8tLVJUdWZOLVFiUWl4b1lPejJxc2RsSWxwUGY1em8wTFk1cm0xSGFQSU1KY080VXJpdFg5LWc?oc=5",
+      "publishedAt": "2026-09-16T06:23:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“SK하이닉스, 인텔 美시설 임대해 메모리 생산 검토” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체"
+    },
+    {
+      "id": "9031b69befa3ab1d",
+      "title": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ3QUZNdW9RNkNZRmQzVXRDbl8tU3p0UFRFRUFNYWZpZkltNkxvazRvQzVlVnYxSXZReFlmQnFRQVZVdjl3MVgwR2FWTEpsMFZVVi1MU3NzcG9aWXM5Rnkwb3BENFl5bjNLNk9wX2hUY3dySnVOclpRRGYwOE0wNVVZZUViV2g3SlN3?oc=5",
+      "publishedAt": "2026-09-15T15:44:46.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적"
+    },
+    {
+      "id": "999ac485b2f3913a",
+      "title": "삼성전자, DDR5 모듈 외주만 늘린다...베트남·인도 등 해외생산 확대",
+      "source": "thelec.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RFRQSzhGR0laUkQtazVFNkhjWWd3cGhsU0dfVHBuNG5QYWxRRlVlaW5KRXFoaFdpSG05VzJDV2pVcnlOdnUzRW5ZNWpxaWtfcHFqUlN0VFlvNWVRcGt6WDE4RklZQQ?oc=5",
+      "publishedAt": "2026-09-15T09:51:50.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, DDR5 모듈 외주만 늘린다...베트남·인도 등 해외생산 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업"
     }
   ]
 }

@@ -1,88 +1,418 @@
 {
-  "generatedAt": "2026-09-21T08:30:00+09:00",
-  "source": "mock",
-  "isMock": true,
+  "generatedAt": "2026-09-21T01:15:08.932Z",
+  "source": "google-news-rss",
+  "isMock": false,
   "stock": {
     "id": "hyundai",
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 전기차 생산, 하이브리드 판매, 차량 소프트웨어 기술 관련 소식이 주로 다뤄지고 있습니다.",
+  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "전기차 생산 전략 관련 보도",
-    "하이브리드 판매 흐름 점검",
-    "차량 소프트웨어 기술 협력 소개"
+    "\"자동차 넘어 문화·사람 연결\"…현대차 다큐 '더 스튜디오' 개봉",
+    "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대",
+    "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스…"
   ],
   "articles": [
     {
-      "id": "hyundai-001",
-      "title": "현대차, 전기차 생산 전략과 신차 일정 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20전기차&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T08:18:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "2bb8de3cc73cc5e7",
+      "title": "\"자동차 넘어 문화·사람 연결\"…현대차 다큐 '더 스튜디오' 개봉",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZEMxdExSZnBYMFJ2MjBfYnhwd1ZsVVAteFczeHZuNjJ1ODZVRnFEdVA3bVhtNlpITWNMdjg4amhyZ2s4QVpETUgtaHNMeFE?oc=5",
+      "publishedAt": "2026-09-20T23:46:51.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "전기차 생산 운영 방향과 앞으로 공개될 신차 일정을 정리한 내용입니다.",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"자동차 넘어 문화·사람 연결\"…현대차 다큐 '더 스튜디오' 개봉 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차"
     },
     {
-      "id": "hyundai-002",
-      "title": "하이브리드 차량 판매 흐름에 시장 관심",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20하이브리드%20판매&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:52:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "b977fe5981dd2bd7",
+      "title": "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNmt5OHpiQ0Q1Y0ZHMkJUU0FtTzRpWnNtVE42UUM0OHdxY2RYMFJvcnMzSFhqZXRlTXQxMzZlRHVFS2tscmo2T0xYMGpDendJenVpOGVqdnpEWEVLbmdZdTZRSQ?oc=5",
+      "publishedAt": "2026-09-20T23:41:26.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "국내외 시장에서 하이브리드 차량 판매가 어떻게 움직이는지 살펴본 보도입니다.",
-      "category": "실적"
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
     },
     {
-      "id": "hyundai-003",
-      "title": "차량 소프트웨어 기술 협력 범위 확대",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20소프트웨어%20협력&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-21T07:10:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "b2167552c62f3188",
+      "title": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTRKRWRzVW9KYV9ER0U5eEFYalVyMmFVR0g5NTZFbmJqTXVHaTlsLURXZTNBaUh4a0szSUo0elBkT29Vc0J2bDJQV2w5RGFUVVJZTjdKZzdJQk80UlVDVjcwOVVTT19TSThwS3A5WXZZMU5WMGJ1UUhXdWZRVXlKRGZBLV9mQzUtV2RLSlZ1NXNlUjlVcUNTVEx1V3Btd0dv?oc=5",
+      "publishedAt": "2026-09-20T23:30:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "차량용 소프트웨어와 연결 서비스 개발을 위한 기술 협력 계획이 소개됐습니다.",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "ba44e13f959b1635",
+      "title": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzk2VzY5R1h3MC1nclZPaUtIYkJ4NG1nMnA2akdXNWxYUWwzbzU4ZENLcnVwbHczbnlVYUVFdWg3QlJSeGJkZVA1c19BcWtkWmptZWJqMG51QTllT0JsMnBfVElwVXc5bnZzT1RSU0d1MHlqQzlHaFQyMkNzZDNncVNXNTNMZlBXcF96eExnLUVGdnpfVjVwQl9R?oc=5",
+      "publishedAt": "2026-09-20T23:30:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "a9aa5ecf0a733a36",
+      "title": "현대자동차와 공동 부스 운영한 모바일게임 ‘레이싱 마스터’ (엔터테크·GES 서울) [포토]",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xZmVMb1Y4bUZaTnJ1aUV5ejM5UWRYaVhwZVFUWUxGN1VHN0lKc1RkRnVWOTE4V21FaE5EdzRsa1BzWEFMQ0E?oc=5",
+      "publishedAt": "2026-09-20T11:05:09.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차와 공동 부스 운영한 모바일게임 ‘레이싱 마스터’ (엔터테크·GES 서울) [포토] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "27b6af6bbe45623d",
+      "title": "6년 만에 싹 바뀐 현대차 투싼… 근육질 외관에 뒷문 83도 ‘활짝’ - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISzRLSjJwYUJHWmVLeUd0WHptQXdZTWNpYU01VGpGMVBXVGRoMXpLUWZmak9yWDFzWnJMZWRsRFlydFdMeU1sbmEteDQxUXFPd0xxZ1Zua2VBUGJRcWZzREtkMWdnWWFpeXdaU01vNWtZcDhvR05nU3lETFZ3MG_SAZMBQVVfeXFMTUxCdzFwbU5zTVh4My1YaWw3UDdxRGtOblpGWkxQUVNpZnNBQ0w2VDVQcU9EMlZkZ1ZJczRlelZYREtJd2NoM3lPMkYweHA4MF9UdklMVHlsdFRJZEFaOFVockM3ZTE4Z081eWtWWng4WDJyQ3ZSaXNTX1BVS0JNckNOUVlnQnBKMWt1TktqNXVONWxJ?oc=5",
+      "publishedAt": "2026-09-20T04:36:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "6년 만에 싹 바뀐 현대차 투싼… 근육질 외관에 뒷문 83도 ‘활짝’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "5ee365f65147e29d",
+      "title": "[포토] 포지드 카본 패턴에 터프한 매력까지...현대차 오프로드 특화 트림 '투싼 XRT'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekZhSkFtVkJmWmVuRDdGYnB4WEM3RVBKMnJZNlQzWHVQSnU2ZDFNRk1hd2FLLWQ4LTZrR296RnY1T3Z5cW53S19pSTdGSXJKaHFleUJVTnlUOGRlbWQ3OG9xZ1M0bDJGNEs5OFkwblJoN0poNjQyZ1p6UENUNUx6amwyMjV4Zw?oc=5",
+      "publishedAt": "2026-09-20T01:01:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[포토] 포지드 카본 패턴에 터프한 매력까지...현대차 오프로드 특화 트림 '투싼 XRT' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "d887086945ce139f",
+      "title": "현대차, 차체 키운 5세대 투싼 공개…6년만에 완전변경",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMnJMdTJreHlhWVg2MjktZFpkRWFuRloxS1IzbTRQTlI2MHFRUVhtcERLZnhSb3NLQ0dwd0NzNkl5amFCZEphSmtuOGowR3lMc2hiUmVZYUlyTk3SAWBBVV95cUxNbGJNbDlsbkhXN1Z1dU01ZE5YSm5GOExTcjExOU1YWGh2c0RaYzJMOGdZR0hzY2ZUOHp0N0dXdjg4eTdlZVdXa2tnR0ZpRDJEUjhSQXZ5Q2dLR2dQSklCN2g?oc=5",
+      "publishedAt": "2026-09-20T00:56:33.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 차체 키운 5세대 투싼 공개…6년만에 완전변경 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "ee67c2ac107ee580",
+      "title": "[포토] 차급 뛰어넘는 공간성에 첨단 AI 비서까지...현대차 '디 올 뉴 투싼' 실물",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjlub2xtWEE4SExxMjQwM2wxb0ZpWHhGQ24xWXpXdXg2Y19zR3cxSERIdGtoclppZEdiVWVxd1NnZG1aT2Q4WVNEeEFQZjF1NFo1T2tDUGJ4MmVId3RORC00a0ZuYXpEeFJhbGU0VjdwbUFVbWY3Qi1ZVXZiQUJvY2R6SDE?oc=5",
+      "publishedAt": "2026-09-20T00:48:28.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[포토] 차급 뛰어넘는 공간성에 첨단 AI 비서까지...현대차 '디 올 뉴 투싼' 실물 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술"
     },
     {
-      "id": "hyundai-004",
-      "title": "해외 생산 거점 운영과 공급망 현황 점검",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20해외%20생산%20공급망&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T17:40:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "be8f4904f3cd891e",
+      "title": "체격 키우고 탈출·방호 첨단 무장…현대차, 5세대 ‘디 올 뉴 투싼’ 공개",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLclpFSHR1Qll3QXpzS081NkR1UHU1X19hVW5kRHM1Wi1sNjdDUEVYZG9pOWhWTjJkcUFaZ0FkM2Q0QUdYWkVURDB5TVJuYWRwUE1YTENyTFNPZ9IBX0FVX3lxTFAyNGlzWmlXTWlXYnN1Q0RwRnAzUk1DMmJEb2VJc0swS0JzdHZmNnpNZjlvNkU4SHhmYXBEY1BKdmxmX010elI5QTdEcTJLUzU5YlZ1djlmSVJralNBSzNr?oc=5",
+      "publishedAt": "2026-09-20T00:32:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "주요 해외 공장의 운영 상황과 자동차 부품 공급망 변화를 점검한 내용입니다.",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "체격 키우고 탈출·방호 첨단 무장…현대차, 5세대 ‘디 올 뉴 투싼’ 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "cde1893c16a5596d",
+      "title": "\"쏘렌토·싼타페보다 넓다\"...현대차, 5세대 풀체인지 '디 올 뉴 투싼' 최초 공개",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkY4eXdEaFA5TV85RmFSUy1HcXp4RnhJQmU5UTYzQVNiSG8tRlh6Um1mX0RhUGVRdVlNTjd4b2ZNNDlYeXZQeXRGT29EeEN4SmZVYXBYZmFjR1EwbjR5YzIwWi12ZktvVjloR2xNN1lXSlIwbkdBXzJfa1oyNkxJamVOZTE5dw?oc=5",
+      "publishedAt": "2026-09-20T00:20:11.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"쏘렌토·싼타페보다 넓다\"...현대차, 5세대 풀체인지 '디 올 뉴 투싼' 최초 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "f000af14f4c79c7e",
+      "title": "현대차, 6년 만에 완전변경 '디 올 뉴 투싼' 첫 공개… 글로벌 1000만대 달린다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rNmJjdmtxTVZobHMxeTcyWHotejJJem54elRHYksxcEI0dkJkclhucUpuazFJd0FUTHdQdXJSd3o1bUI2bkMzY19ueFdfUQ?oc=5",
+      "publishedAt": "2026-09-20T00:05:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 6년 만에 완전변경 '디 올 뉴 투싼' 첫 공개… 글로벌 1000만대 달린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "4995cc518f6d7d8f",
+      "title": "현대차, 6년 만에 '디 올 뉴 투싼' 승부수…차체 키우고 HEV 고도화",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NYm1ydjVMb25YQXNVZFZ5TGthd3ZtU2xCMjRhUTlfejhkUUdvTGFLZnNUT0hiUDZiNUtVSzRHSkZmV052cVJqQmRXUV93ZDZGbGJhWnNwTEdTRVZnQmc?oc=5",
+      "publishedAt": "2026-09-20T00:00:39.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 6년 만에 '디 올 뉴 투싼' 승부수…차체 키우고 HEV 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "d21a692a56910aec",
+      "title": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJVMDFpSkZQMEVVQjVfRTdweUJIYXJzcjVaSEpTN3VObG95eVFnWnZva21ZMGtWT2tLU3VxOFRNbUJ0bXV6SDJuWTRQZWYyY3RORkRac1FGbkhwd19fcVFWNndIOGlTaW9TUVdydlV2bUYyZE1BYmhVYnFYSEZCTjBlb19pd2c5LWRIeGd1Zw?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술"
+    },
+    {
+      "id": "eff4addf1685f9a9",
+      "title": "美 취향 겨냥한 '강인함'…디 올 뉴 투싼, 거친 오프로더 감성 '물씬'",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWlFMMkN6a0tnMWFSY1l4cUZSOVg4V3pwbTl4LWRpb0RsYk5kQUYzR3F6YXZ3Z3hmMWxnVDI5TDYtVGtmWTh1MDBMMjhkeU1Fd21wLVUzZVJSdVdydUFrbHFSbHg3UdIBZkFVX3lxTFBuWlFMMkN6a0tnMWFSY1l4cUZSOVg4V3pwbTl4LWRpb0RsYk5kQUYzR3F6YXZ3Z3hmMWxnVDI5TDYtVGtmWTh1MDBMMjhkeU1Fd21wLVUzZVJSdVdydUFrbHFSbHg3UQ?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "美 취향 겨냥한 '강인함'…디 올 뉴 투싼, 거친 오프로더 감성 '물씬' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "b3ce94255f107844",
+      "title": "현대차, 디 올 뉴 투싼 최초 공개 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzl2NHNHZ2hwTFNiN0MzcGg4OGRwdG1hX2JjVHpxaF9aX1JmS3JRc29wWkp3THJ4RHNpTGZNYWltTllkVUNuVVBaTnRtbGVGQ3RuZUJFMEZVUktsYUFRLWF6a1RXMExpbXBvSzU2NEF5bGlZWkptRDJUNG45N3pGZE02UHlOeGprX0RhVg?oc=5",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 디 올 뉴 투싼 최초 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
+    },
+    {
+      "id": "310cb0ebfa42c237",
+      "title": "\"현대차밖에 없다\" 구글 러브콜…수만대 만드는 '이 차' 정체",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZU9LMlNfcnBRZTBsNVNwb0RuczkwVjBjbTFfMU5Ya0JYRzJGYVgxNWh4Sl81bDBlQ1J1TDc4azROYlRWQWFPZFYwVHp2d1Y4MlV4RFk1eWtSdw?oc=5",
+      "publishedAt": "2026-09-18T08:37:29.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"현대차밖에 없다\" 구글 러브콜…수만대 만드는 '이 차' 정체 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "6191ebb2a0eca11c",
+      "title": "29년 포터 '고별운행 편지' 그 후…현대차 임원 손편지 답장",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YNWJ2M2N2am1OZ2IwajNRWUVueWdFeEkzbFMxbFpEVjV2d2UyYVJ5SW40T2VaUEpPSVFEZ0dqZHZVc3Z3d1E?oc=5",
+      "publishedAt": "2026-09-18T06:59:52.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "29년 포터 '고별운행 편지' 그 후…현대차 임원 손편지 답장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업"
+    },
+    {
+      "id": "e3c9727c56854744",
+      "title": "현대차 CEO \"미국, 시장보호 유지 안하면 중국차 밀려들 것\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10OS1QN0l1bWNfeUwxSHJhR2YzUHlvNjdPOVRzYThCS1VyWUlwSWMxNXc1UXdPdU9HUEo2M1dLMm1WOGdsNFY1R2hxeWdVNWRoeGg2WXdsVHBUaGPSAWBBVV95cUxNYnhJeE9IS0U5Vm1DSzlXQjVYRmJ5R2pHeFVNVlY0OE1XWlhuV2s3NzhLUEtJejRPXzE0V0NZc1JyWDRUbG43dmVyYkhSdUk2MWlHVWpYNG9tY2RGX3g4QnQ?oc=5",
+      "publishedAt": "2026-09-18T06:46:01.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 CEO \"미국, 시장보호 유지 안하면 중국차 밀려들 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업"
     },
     {
-      "id": "hyundai-005",
-      "title": "친환경차 연구개발 투자 방향 소개",
-      "source": "샘플 뉴스",
-      "url": "https://news.google.com/search?q=현대차%20친환경차%20투자&hl=ko&gl=KR&ceid=KR%3Ako",
-      "publishedAt": "2026-09-20T13:50:00+09:00",
-      "collectedAt": "2026-09-21T08:30:00+09:00",
+      "id": "a4a5880980870cbe",
+      "title": "현대차, 실리콘밸리서 인재 확보전…\"자동차 넘어 피지컬AI 기업으로\"",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0xPWGM4c2ptcktHbTBGRzFzTHFJbTlqZFBSZEtYUE1CdUZTRmVMdnZtSE1abjI4Umozd21QUmdBWVlra0lDUFdQci1mb1doUEs2dldobXpvMUN2RWxKV3A4TkU0Tmw0NWpDUnR5LUtZVXc2RUtjR1N5eDhWWHRiV1k3VQ?oc=5",
+      "publishedAt": "2026-09-18T04:47:00.000Z",
+      "collectedAt": "2026-09-21T01:15:08.932Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
-      "relatedStocks": [{ "id": "hyundai", "name": "현대차", "ticker": "005380" }],
-      "summary": "전기차와 수소차 등 친환경차 기술을 위한 중장기 연구개발 투자 방향을 다룬 소식입니다.",
-      "category": "투자"
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 실리콘밸리서 인재 확보전…\"자동차 넘어 피지컬AI 기업으로\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차"
     }
   ]
 }
