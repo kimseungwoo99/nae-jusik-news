@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:42:58.039Z",
+  "generatedAt": "2026-09-22T01:21:45.461Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 반도체 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "코스피 7000선 되찾았다…삼성전자·반도체에 쏠린 투심",
-    "[특징주] 삼성전자, 반도체 수출 호조 및 특별배당 기대에 4%대 강세",
-    "삼성전자, 전남 광주사업장에 HVAC 생산라인 착공…내후년 초 가동 목표"
+    "삼성전자 역대급 배당 소식 삼성전자 vs 삼성전자우",
+    "삼성전자 30조원 배당 임박…28일까지 사야 '막차' 탄다",
+    "삼성전자, 광주 냉난방공조 생산라인 첫삽… AI데이터센터 수요 대응, 지방투자 강화도"
   ],
   "articles": [
+    {
+      "id": "a5c6f00f0dc6eacd",
+      "title": "삼성전자 역대급 배당 소식 삼성전자 vs 삼성전자우",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMTEhUcFZlbmNXU3p4OVZRU0FXVWM3TS1ybGE4dVlLaGVweGRFVVpfRk93emxVNWdXZzNqU3d6UUZHT3pMQ0ZfcFhLZER3dXpfVmFMRy1VYzRwZjhlR21MSWJmaWFaM0lGbnpiQU1fZjnSAXRBVV95cUxOeEVRVEtEY1luT1dJX25uXzJmRmhmaXZlcnRnVmQwYktoTk9SZUk2ZWI4aHlEODNxZjRPY1FrVkxDZWpkYnJxOXFmaW9iZ3FFSllkMF9tTkZxZ1lRVjBucDhfNWFDdllrYThOdlBzMWU3VkZZSw?oc=5",
+      "publishedAt": "2026-09-22T00:00:26.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 역대급 배당 소식 삼성전자 vs 삼성전자우 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dc745efd6f82473d",
+      "title": "삼성전자 30조원 배당 임박…28일까지 사야 '막차' 탄다",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qcVpDRE8tbTQwd2R4NFpzcm9EcktRTWF5T19jTlVGTndqbWxxQmY2Z0g0SG44eUR0Z0FXS1BpY29EZlB4V1ExS1RhSmYyRzBRcnQzOG9jdkhHdFdE?oc=5",
+      "publishedAt": "2026-09-21T21:00:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 30조원 배당 임박…28일까지 사야 '막차' 탄다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6387b12880d33bd0",
+      "title": "삼성전자, 광주 냉난방공조 생산라인 첫삽… AI데이터센터 수요 대응, 지방투자 강화도",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vM1puOHpSVVMya1R3NEZBR05pS0VhNXVOVFpQRGcwZUFDTUsyOF9Ud2xMTkR4X0Mtb3Axc0xDQ2dESWZ0bWl4UFlzTlA4SGhZdWM5RHI2eG14WVpvazZwRjRvTkNTT3ZBeXp5cjhXWU9fSk53cFHSAWZBVV95cUxQWGdEREw3bWhHR3FrbEZhYUtPOGhCVmxjWVYwVEJZV3I0SVQ0YVlSN3RfMFZYa2xhUDdqUEVIeklBRjgycnFCU0plRXlKZ0diZ3lZODBkOWNhbVJ2bDRtMDktbi15Wnc?oc=5",
+      "publishedAt": "2026-09-21T15:30:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 광주 냉난방공조 생산라인 첫삽… AI데이터센터 수요 대응, 지방투자 강화도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "117ba4c7f32c0db4",
       "title": "코스피 7000선 되찾았다…삼성전자·반도체에 쏠린 투심",
       "source": "이코노미스트",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50WXd6S3M4S1RHN0NfejlBZjRkMTJxSU1DNzJVUnYzbGRtanl2ajIwQnZiSThvampTX01yVlNpTjZmY1FRMFhIeHg1UnBTa2Utd0dLLWVDbG5ab3FCR2tGeW1R?oc=5",
       "publishedAt": "2026-09-21T08:21:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -42,12 +123,66 @@
       }
     },
     {
-      "id": "3bf27014561b1e95",
+      "id": "2b12cacd7007f4e6",
+      "title": "수술실 거즈처럼 공구 하나도 철저히…삼성 반도체 지키는 솔직함",
+      "source": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mZTd4ZzRRWU14YnNnbjExeS1LbzhCSFVPU0VfSW5KQXBEZUlRVWxCa0RuRkJPZFMzeEdES1Y4Ym50VHRPZ3owdE52bktneV9Uc3gtc0Zid1VLRElueFlla3cyQWM4eTFwdkxYWWdrMmg3eEVP?oc=5",
+      "publishedAt": "2026-09-21T08:03:06.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "수술실 거즈처럼 공구 하나도 철저히…삼성 반도체 지키는 솔직함 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "83c457f74671e82a",
+      "title": "'삼성 반도체' 이끈 권오현 전 회장, KAIST 이사장 선임",
+      "source": "헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aN0RuaXpuZ0VKQ29sTkd2MEhVNnlCa2xuVHF0cEF6NXZPWjZFRHpXSV9iUV9XQmJTNnY1UkppcmJiZ1owQ2N3NHhGWWpSQlVfcjd4WTdOSzhtRkxJUmMyMjVQRXZ0cFpwVnc?oc=5",
+      "publishedAt": "2026-09-21T07:50:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "'삼성 반도체' 이끈 권오현 전 회장, KAIST 이사장 선임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "434d605282a64a50",
       "title": "[특징주] 삼성전자, 반도체 수출 호조 및 특별배당 기대에 4%대 강세",
       "source": "오피니언뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PbDhoUWdtd0FCWXY5aFlodUI2MmxhVlo2STJGOExIeGtaZTZBRlRBUEF5a3JlSXoxc1REZW5rLTR3ZkJGa2hQM3VLQTJrdm8tbWNpSWx0NjE1d0oyZG9aaTJDRHV6QjY0WC1RQmc5NDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZzEwaklyOEEwd002TmJTcURkVzVoQ3ZTaXZCWTVLWlB4QThSZkJzMWljNVdqNGNKdUpCbXY4bFgtNW0zOXJhV2dfRWdtWFJveDFZVUJuU2VteDZzSTdiRlhiaC1TX1p3QmVHUHhreDIyUQ?oc=5",
       "publishedAt": "2026-09-21T05:49:58.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -73,10 +208,10 @@
     {
       "id": "416c49ed4dd8203b",
       "title": "삼성전자, 전남 광주사업장에 HVAC 생산라인 착공…내후년 초 가동 목표",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PRmw5azNUalAtY3NpeF9JNF9ISWt3Yy1veUdINXZ3UWRkYW5LZ09IdkFBVGNqLUx1OWRzWUpTNXRtSnd3WnZFQVF3b3lZT3BjeEctR0Nn?oc=5",
       "publishedAt": "2026-09-21T01:00:01.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -103,7 +238,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EVDZWdlVwcENjUndPVVFLYTBHb1RMUlFlak9RaVAxeXBseGFWY3FPcWNrZGRLcW9UcF95OXNCM044cmNKTW52WEVPWncwSW5z?oc=5",
       "publishedAt": "2026-09-20T09:06:52.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -129,10 +264,10 @@
     {
       "id": "d1a2f892267aba53",
       "title": "[단독] 삼성전자, 내년 HBM4·4E 생산 2배 늘린다",
-      "source": "서울경제",
+      "source": "sedaily.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Vjh3N19GWVozNlJWYmh5N19XVkhZMlpuektNalR5VTFnZy1ac184d2xYbEROVXJVM3A4SmtwWUd1NHF0YXo2dUZMU0ZSazVyRVHSAVNBVV95cUxNR05QWkptNlVCbXR6OV9wc1FFd3BWUzJaRG1SVWlybmcxQjBwYmxDRXJFOVNhd0JLa0pMUXkyWHFiUlNaQ3ktR2xQNDRzaTdwUVlfNA?oc=5",
       "publishedAt": "2026-09-20T07:33:51.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -154,12 +289,39 @@
       }
     },
     {
+      "id": "62e6187ecad84410",
+      "title": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다",
+      "source": "진일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ER2pnUnZNV1I0Zmw5ZWRxMFkzM2dzTGJmc1FVVEhtX0J3a0xGUEJDU1dWemN3Qk5fOWpwa2xZQnJTU0hjdFMtWUhMTllFSGNFSllFbDRqWm5vM2ZzYV9KUmUydWFEQTYwNmxNWFNEdw?oc=5",
+      "publishedAt": "2026-09-20T07:00:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "2cab9f18b1345a73",
       "title": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥]",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42LWhZY09HcGVNWmNaZ0JKMmtQTlZzX21KNUt2eE52V19lU1JKb29idVZMTHdYQ2pJVVgxNWRKcXVrTEZqZElfcVh4WWtLd2N4MkE?oc=5",
       "publishedAt": "2026-09-19T23:57:52.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -185,8 +347,8 @@
       "title": "다시 오르는 반도체…특별배당 받으려면 삼성전자 28일까지 매수해야",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GM3FXUXBfOER0LVFsNTVJVUNTSHZuQUY4c0twUVJzcnpONGJjYWlnYXJBQkpSSEd2bl9hU3o1UlpTVFZ4eWc?oc=5",
-      "publishedAt": "2026-09-19T22:48:51.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "publishedAt": "2026-09-19T22:48:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -213,7 +375,7 @@
       "source": "주간조선",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taVhzTkd2anM3VjUyUVJIYWNBUG9UX2d2NEZyTTVJb29zN3RESnYwQWdoV2Zrbzl5VGhmZzlIbFRHX1NPQ3FTcWU5MHdYWVZDUUh1Nk9NY0ZHMzNvbVAxcDJEVE4xWXZwaVHSAW5BVV95cUxQNE5QWkZEWi1tQkppSHZ1Um5GYzNrWHlCSEkwRFVMMWxsZm44U0VCMFk4S0V3aldObG85UUxRYURZV21vcFBLM0pSb3F2Y0tmZXBVZDlDbzJlVHBqTGM3N3FOZk9rV2RWTUt2QUZEQQ?oc=5",
       "publishedAt": "2026-09-19T13:07:15.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -235,12 +397,12 @@
       }
     },
     {
-      "id": "62e6187ecad84410",
-      "title": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다",
-      "source": "진일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ER2pnUnZNV1I0Zmw5ZWRxMFkzM2dzTGJmc1FVVEhtX0J3a0xGUEJDU1dWemN3Qk5fOWpwa2xZQnJTU0hjdFMtWUhMTllFSGNFSllFbDRqWm5vM2ZzYV9KUmUydWFEQTYwNmxNWFNEdw?oc=5",
-      "publishedAt": "2026-09-19T06:59:48.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "id": "25835939314f0fce",
+      "title": "삼성전자 초기업노조, '반도체 노조' 전환…DS부문만 가입",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5b29MNHVwQk51bFFOajlfV0RTWGcwbXFaWlY4U05sci1vWlc3ZThZR3V4cURDaXVFQ3JTZk4tcXVDcDc2RUg4V3BDRWtmSHhFYkR1cGNocWpQWGZFX0d3YWNEeU1lekJGblNieXFFM0E?oc=5",
+      "publishedAt": "2026-09-19T03:24:55.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -251,7 +413,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자 초기업노조, ‘반도체 노조’로 재편…DS만 가입 가능해진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자 초기업노조, '반도체 노조' 전환…DS부문만 가입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -262,12 +424,12 @@
       }
     },
     {
-      "id": "32b5d8d4927ff3a9",
-      "title": "삼성전자 초기업노조, ‘반도체 노조’ 전환",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEYlhOYVIyYmw5ZHJpRXJMSE5meDFzWmRUdEZrYnlMemlvTWlfN090TWR1SEgtT0lDeWpFdzZxYXZ5QlZ1TFdJblk4cE9KNHhkb1JUby1haGZyZ9IBX0FVX3lxTE1KNnlRR2JJNGh0c3ZzbjdCT3R4QTFkQkpkN2V5TFRnV2g3QXVVZEstUk9RS2V1MklIQlVyUU5wWGwwNzF2WVhYOGQ1b0R5T0NocVl3RlhxdUJGeUFBcFJV?oc=5",
-      "publishedAt": "2026-09-19T04:44:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "id": "ac98f2f56562dddf",
+      "title": "삼성전자 초기업노조, '반도체 노조' 전환…DX 간부 2명 불신임",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KSU1JdzMwSktLWmF0SnJVV2NweVRDUld1M0dVa25aTWwxM1NPWlo2R2dzc0ZINl9uUFJBQ3RJaXoxdnFrRV9oOTVhVW9aamUxdDh3Ukx5Q0xTYzDSAWBBVV95cUxOdFE1bUVTNjg5UDY1RzdNRGpKRmgxb3VuZ3Y4S01kNzNyelhPb1RqT2FwMXI4aHdhX0kwejliczd3eUxiTjBsNUI1X1RyNjNEYS1nMGNzYWNPUkVuV3QyZ20?oc=5",
+      "publishedAt": "2026-09-19T01:40:22.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -278,34 +440,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자 초기업노조, ‘반도체 노조’ 전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c8c9c2539484d96c",
-      "title": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TmZkWG5KakJoeUd0bmpVbXZKLVBrSmUzVHlKQ1lOdHU1Q0NqSTBScnU2d1FMUkpXTkNHMU5YVWZfa29MN1plZXRHSndrTWlsUVZldjJPQWJ2TE5vUEktd0ZyN0PSAWpBVV95cUxOY28xajNSUEVsUUZSZ3lGak1XNF9UbkNsR0l0VVI3cHZ5bGtYbHEtaE5hN1RKM2hiNVZ4YW9zTTBhYUtlandZZXFWNnpYSWpDTUQ2cnFPOFJ4eElsM2NUWXlyaTJuSEVwTGN3?oc=5",
-      "publishedAt": "2026-09-19T02:47:02.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자 초기업노조, '반도체 노조' 전환…DX 간부 2명 불신임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "negative",
@@ -323,7 +458,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CUjVobEEwWFdiQXB6SEFKTVRUaUM4ZVhDRTF6d0diQjJ2NThMbFQzRllQdW45ZVJyU2dsSlJYc0pEbXFOSkNCTGxrNmFhTVpkTnpnZFY0QmpsQQ?oc=5",
       "publishedAt": "2026-09-19T00:30:02.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -345,39 +480,12 @@
       }
     },
     {
-      "id": "fe8bf6b1ddadbcb8",
-      "title": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설",
-      "source": "메디컬투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUUZkNVJFWERLTF9iV2oyNjA4N0Vzempud3JBZHRXclBVTkh6LUVCUG05ZmI2MFVYU3hyREwtOG1UYlNrWWRkZDZGeC1IT0ZiUkNqMmIyQVlGVldtRjRXNkhOc21wSk5pTVR4dg?oc=5",
-      "publishedAt": "2026-09-18T05:43:03.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "4fa62506d6df1d03",
       "title": "'대박'이라던 삼성 파운드리의 민낯과 정부의 오판",
       "source": "OhmyNews",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS11SUFSb0FJVDh6NjRiRWZTNkhlR0ZGeS1pY2xtb3BwbnZNQUhTTE94VG5lZlNsMlZoNWdLVU5XY1h0LVRFVkxBbDlWYWF6enFaMFU2bmR3U25SS0hHS2tDbk00V1BrNUtUX2VpN3MzTEhhNDIzdUFlaFBWUU0tRC05ZEw4dnBnQ2c?oc=5",
-      "publishedAt": "2026-09-17T13:39:06.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "publishedAt": "2026-09-18T10:24:43.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -399,12 +507,12 @@
       }
     },
     {
-      "id": "226bae79e29d69dc",
-      "title": "[현장] \"다쳐도 티 내지 말고 휴직하지 마라\", 삼성전자 반도체 하청 노동자들이 전하는 '일상화된 차별' 실태",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUU5KaG5zZTltMHFFekJqMTNLRTRMaFdTLWQxc2JLU2gydTdKMDdrS3JZREF4QUJReTZPVVE3SEIxc1ZkcVdZaE1CeFRmV1pONV94eGZGc0V0X3JjeVBYOXVxNUxZV0lMQWpOdXFYd2hxT1k?oc=5",
-      "publishedAt": "2026-09-17T08:15:14.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "id": "fe8bf6b1ddadbcb8",
+      "title": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설",
+      "source": "메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUUZkNVJFWERLTF9iV2oyNjA4N0Vzempud3JBZHRXclBVTkh6LUVCUG05ZmI2MFVYU3hyREwtOG1UYlNrWWRkZDZGeC1IT0ZiUkNqMmIyQVlGVldtRjRXNkhOc21wSk5pTVR4dg?oc=5",
+      "publishedAt": "2026-09-18T05:43:03.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -415,38 +523,9 @@
           "ticker": "005930"
         }
       ],
-      "summary": "[현장] \"다쳐도 티 내지 말고 휴직하지 마라\", 삼성전자 반도체 하청 노동자들이 전하는 '일상화된 차별' 실태 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
-        "label": "negative",
-        "score": -0.4,
-        "confidence": 0.68,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "고용 문제"
-        ]
-      }
-    },
-    {
-      "id": "c4297ab160e3077b",
-      "title": "“삼성전자 직원은 양반집 딸이고 우리는 머슴”···하청노동자의 ‘가난한 호황’",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82cHl4MlJucWUtUnBtLUJoS01qbjFSUFdLWmR6QWV0dGlXTjlkNjA0OEQydFRaUFhUMlpnVVZPN1NWTWZYeWU1bV9fMjU2QnBVa1l5WUg0MEs2UdIBX0FVX3lxTE1DVjlPWWNkMV9VcnFybklBQ2ZsSk5Ha3g5b0V2Zkp2M3RfUTI2SExFeC04d0FvSFRGWi1YRjBGVFY0RUtkaEhOTHJwYlRtWGdFSDd2R3BSNlZsdER2aXJv?oc=5",
-      "publishedAt": "2026-09-17T07:35:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "“삼성전자 직원은 양반집 딸이고 우리는 머슴”···하청노동자의 ‘가난한 호황’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
         "label": "neutral",
         "score": 0,
         "confidence": 0.35,
@@ -455,39 +534,12 @@
       }
     },
     {
-      "id": "9c2ce6ef730b8209",
-      "title": "삼성, 올해 QD TV 생산 80% 줄인다",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zS3NPWERTdlpjaFZJdkM4YWJkYklhdjU2bXBBVXFEbGc5d3VocE94aFVnZUZfc3BHMVVpbWk1Y2ZmOXdOS01uZXllMjE4QQ?oc=5",
-      "publishedAt": "2026-09-17T07:30:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성, 올해 QD TV 생산 80% 줄인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "417dd363f3d88457",
-      "title": "삼성전자, One UI 9 공식 버전 업데이트 시작",
+      "id": "f1231caecc856225",
+      "title": "삼성전자, 교사 500명 노하우 반영한 교육 솔루션 ‘갤럭시 클래스룸’ 출시",
       "source": "Samsung Global Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTmhZOWxpSDNpTXlDU0JkTU9zaFZJUlNSRkdHbWtzUXdrVk04RkhRRFNoc0tlUzRUMG0wZ2xsU2lWU1c3cFRRTTk0TkRUTGNMblV2dmpaOFNvVFdtbGwtM2Vod25FNVMwT09zM3FwRWRHVk5QZ3ZNSnZCVWxxWUtVaElXSC1tZmxEb1RaTm9xRE13bUo3NV9iLUI2WFpQU2p5eVh1TmFubXpkZzdITUgzZGhwTGVNMUtpVmdINHdES1RWVWZBRHYyUUZSU1gzdEtYOHBCUWZUVl9hU1lCWUJyQzVVNlJjMTZQbVpuSGJMSE5HTlJDR2ZkWDE5VQ?oc=5",
-      "publishedAt": "2026-09-16T23:00:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORWhud3VBeXlkR1FJazRma2IyUnNYMDZUQ040cVUxLU9vbEc2aDROcml2VnNadkpWcWozMGR1TGdkN1NHVDgwajJjSURSTTNfczNjYVNxNWdtaDBDbTZ4bk1oTm55THBySmhuRkFCVE1lUmJpd2ZPYU1ORHU2QTBkSlM4SHUyQzZnaXB1UkozNV9EeXFHQndKNmJOb1cweUNWckNJb2dGQlNxZjRQUzlQcXRDaDRaTHpVcnlwRlhYYmJsLXNiMUJSbjJOLVVQM1RlNGI0MkxyTGdQY2lobk15cEdXRmp1OExUNkp5ZlR6RmdfMllWc19sUjhTX3pwOTEwRTEtUlNkYWNTYlBTb0VkbU1LUFg2SENZSVl6cXRsLVRmMXM5OHc?oc=5",
+      "publishedAt": "2026-09-17T23:00:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -498,62 +550,8 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자, One UI 9 공식 버전 업데이트 시작 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자, 교사 500명 노하우 반영한 교육 솔루션 ‘갤럭시 클래스룸’ 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9677d24242a1ee4e",
-      "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석]",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45M0NvY0RfY29PMWhTbHppUzRaNTJvQnFmUGZSdU9nS0xPb1JxRThEY1dzWkJDQS15cXRaaGZuM1AxbllON3dhUkdDTjdjeERSMW9CYjVWb2hmdw?oc=5",
-      "publishedAt": "2026-09-16T22:22:04.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9031b69befa3ab1d",
-      "title": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ3QUZNdW9RNkNZRmQzVXRDbl8tU3p0UFRFRUFNYWZpZkltNkxvazRvQzVlVnYxSXZReFlmQnFRQVZVdjl3MVgwR2FWTEpsMFZVVi1MU3NzcG9aWXM5Rnkwb3BENFl5bjNLNk9wX2hUY3dySnVOclpRRGYwOE0wNVVZZUViV2g3SlN3?oc=5",
-      "publishedAt": "2026-09-15T15:44:46.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,

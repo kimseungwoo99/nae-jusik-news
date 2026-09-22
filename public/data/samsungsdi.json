@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:42:58.039Z",
+  "generatedAt": "2026-09-22T01:21:45.461Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -11,7 +11,7 @@
   "dailySummary": [
     "[헬로스톡] 9/21 주목할 종목 : 삼성SDI·삼성물산·GS건설·카카오",
     "삼성SDI, 시너지셀즈 투자 재개…美 단독 공장 2028년 띄운다",
-    "삼성SDI, 반도체용 '고방열 EMC'로 장영실상 수상"
+    "전력망부터 서버까지…삼성SDI, AI 배터리 시장 정조준"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNk9PWGV1RVI3NElSSU9iTU5ISlVSQmpodDlHMlV2NkNnWWw0b1RHblVHU3c2SGY3a3FNdnBGNFY4OGcyTGFSRDF1ZkNjVjY0S2QwZVJ6b28xU3ZFaFdV?oc=5",
       "publishedAt": "2026-09-21T10:01:45.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -52,7 +52,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15WTJmNTJyZU5WMThxRVFtaGUzcmo3RTJmMkFQSEJVTW1sVE95TGdLSjgyMHZvSGY0OTZoM3BnLTlLVUNWcDNjVE1VVm5mMEwyRWhlLVhGRHNhakxlSkJSdTFiX3k5UQ?oc=5",
       "publishedAt": "2026-09-21T08:22:54.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -74,12 +74,39 @@
       }
     },
     {
+      "id": "0d1fca56918879da",
+      "title": "전력망부터 서버까지…삼성SDI, AI 배터리 시장 정조준",
+      "source": "데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RcHF0WW95OW8yS1ZZNjA1XzVvN1FwZDJJeDE2UDRCUWJjT1J2dXpJN25ZNl9ObGg2RjhENVo4UlUyb0wtV1ktU1g5OXVYeGlSTzU2UDdzWUNtYy1wNGU4cnRwWDIyRzNiV281blM0UdIBc0FVX3lxTFBRY2QwVk9ZUURrZjlMUVAwUkp0UjVLVWxaT0Q1bkFBWUxET3IxbnA2d25ibWd2VS01M1dDME1SMWJkVzFSN0xMNVpwRmRPM1JZdjhLd3ZoVWxYTC0wcDVVc2pTZlB2Z3hZOWNyMFA3WERNQkk?oc=5",
+      "publishedAt": "2026-09-21T06:11:23.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "전력망부터 서버까지…삼성SDI, AI 배터리 시장 정조준 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5f9a12ebc5c03f86",
       "title": "삼성SDI, 반도체용 '고방열 EMC'로 장영실상 수상",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zYUJFWFlvcy1yYzBYSlcxMWZrRTVWZ0drUXlwd0lkamk5TndCQmRWNE1fQlFPTlVId1VoTWpqbVJRWDRxZGdlX2xBY1Y1YVVCSDdiN2ZNZnJVRUZzMzEtdnVlaUhKUQ?oc=5",
       "publishedAt": "2026-09-21T02:24:20.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -106,7 +133,7 @@
       "source": "경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVS1MaW9XTmxaMjRsOENWQng3VnN6R3BSZkZPNkEwUVl4a0lsRXo3THY1MWF5S0Vick5XaG9tY2lSZlkwY2NzMHJSekIxTk9NcENJ?oc=5",
       "publishedAt": "2026-09-21T01:39:29.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -133,7 +160,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OYi1BNW9aZi1XSEFnMHh1cmVMbTROTnp1Z29wTlhQOWNUSTJ3UHp3UnNwX2dySkNWUG1WNXlETnVsZ1puRm1GM29wQXBrTllPdTlJckotY2ZlSW84S1lBV2lqRTc?oc=5",
       "publishedAt": "2026-09-21T01:16:45.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -155,12 +182,12 @@
       }
     },
     {
-      "id": "54ace51444bd0922",
+      "id": "22dfa61f541c7dcb",
       "title": "“AI가 두뇌면, 배터리는 심장”…삼성SDI, 전고체 배터리 로봇 시장 공략 [미리보는 헤럴드 기업포럼 2026]",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00TkVBWXcyV3pPY1hjcmFkN3MxT2NCQ0M4NUNXamJQVklDWnRGMkpKSVk0YzhtT0NzRU82S1Q3bGFRcWFvZGxIQVNtc0hUa0E?oc=5",
-      "publishedAt": "2026-09-21T00:02:10.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "source": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4YTVmY1A0QkcxMmd5eXFad3lmdk1TbW5HaTVLUnZpSDJWc2tpTDU0bGV5QXFFM25yNnZrTExGdUQ3SjVBclFpa3VDSE9BR015bjZRV1BBSQ?oc=5",
+      "publishedAt": "2026-09-21T00:00:04.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -182,39 +209,12 @@
       }
     },
     {
-      "id": "b072943f442ca81b",
-      "title": "iM증권 \"삼성SDI 3분기 어닝 서프라이즈 전망\"…목표가↑",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRFlNMFUwUnl5VDd3N01NbWlmREdZMF96ZURONEZWYXdHV2RtN1MwNDFKeXRSbElCdk05cTRwUC1qQmdlSFJSV2I1OHU4TEJFNU56dUtGd2JTTk03TmhXONIBYEFVX3lxTFBBRFlNMFUwUnl5VDd3N01NbWlmREdZMF96ZURONEZWYXdHV2RtN1MwNDFKeXRSbElCdk05cTRwUC1qQmdlSFJSV2I1OHU4TEJFNU56dUtGd2JTTk03TmhXOA?oc=5",
-      "publishedAt": "2026-09-20T23:37:43.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "iM증권 \"삼성SDI 3분기 어닝 서프라이즈 전망\"…목표가↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7af8df35f63decf1",
       "title": "iM證 \"삼성SDI, 전력 인프라 업체로 재평가… 목표가 80만원으로↑\"",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9xNXJkQjBzb3QyeDRSQjFTYUx3cW5LalZ0WXdJbWl6M2gyRGkxT2puN21LeFhpWkRzUk0zNElTc05WcGNISUctZDJScmE1VWYzcDJ5WUh2TTFvVHhxWDVMZXR3X3k5aDhWVVpyNlByZ1Fwc3JVbDRLdEk5WVAxVXVjcHZOUlZt?oc=5",
-      "publishedAt": "2026-09-20T23:15:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "publishedAt": "2026-09-20T23:44:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -236,12 +236,39 @@
       }
     },
     {
+      "id": "b072943f442ca81b",
+      "title": "iM증권 \"삼성SDI 3분기 어닝 서프라이즈 전망\"…목표가↑",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRFlNMFUwUnl5VDd3N01NbWlmREdZMF96ZURONEZWYXdHV2RtN1MwNDFKeXRSbElCdk05cTRwUC1qQmdlSFJSV2I1OHU4TEJFNU56dUtGd2JTTk03TmhXONIBYEFVX3lxTFBBRFlNMFUwUnl5VDd3N01NbWlmREdZMF96ZURONEZWYXdHV2RtN1MwNDFKeXRSbElCdk05cTRwUC1qQmdlSFJSV2I1OHU4TEJFNU56dUtGd2JTTk03TmhXOA?oc=5",
+      "publishedAt": "2026-09-20T23:37:43.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "iM증권 \"삼성SDI 3분기 어닝 서프라이즈 전망\"…목표가↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "163eb65ed826f9b3",
       "title": "삼성SDI, InvestingPro 적정가치 예측 후 64% 급등 By Investing.com",
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yYV9NZE5rUFpaYW9JNUtYRzRYRE5kc0FrWW4wRTlORDItMlU5WUlpMEFYU1E4TXRXSkxWQ0phUTNEd19GMHRFMWJBZ3J4V2RTeV9DLUVEQmZDdVJzR1hMR2hMR09ubHIzd3kyekRaSWROS3hDakE?oc=5",
       "publishedAt": "2026-09-18T11:50:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -265,12 +292,39 @@
       }
     },
     {
+      "id": "5e6582767253d9d5",
+      "title": "“삼성SDI 지금 들어가야?”...국내 주식 유망주 더 있다",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSWGhLc2JZdTBEOTVFcFZCU3ktUFBlc3Bnc05yVElQcGd3ZmF0S2Utem9DM2N2aW5XOHp6RUZWT0NBLXNma3cxbzlQbTdtVy1lNlZ1LQ?oc=5",
+      "publishedAt": "2026-09-18T06:17:55.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "“삼성SDI 지금 들어가야?”...국내 주식 유망주 더 있다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "832ae7433bae78f2",
       "title": "원익피앤이, 청주 배터리 테스트 센터 가동…삼성SDI와 협력",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTDY5M3NjU0xUNEMzbmZsVTNyUkFHMnNzcW04WG1MdkNIZVBZaHlDRjd1UHkxQ3BETHo2bEtvYTladzN1Xy1FejNMSEoyUkdBNlhkdzJyZnoyYzN6UDNyVEpTMmx2UQ?oc=5",
       "publishedAt": "2026-09-18T03:00:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -292,12 +346,96 @@
       }
     },
     {
+      "id": "a44e703534c67ea3",
+      "title": "삼성SDI·SK온 LFP 뚫은 엘앤에프, 6년 만에 '기업 얼굴' 새단장 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12TjBCNUNKTlNuV0phMTZlck45N0l2V1RlM3U0UUdaU2tKRk5PbVM2S2VpdjJwUG1qaU14TmFsZFhBeWhDcWdMbUhuX3dpRTVBMkxtdDUyOE1wTXduZ2pvSTBSVVlHUnpFb2N5MdIBckFVX3lxTE02c1V5UzNtODQzZS05cVFGQUJ5cThLY29wSUozV1ZLWTRNVFhBSGM1X3RGSGtsQndCb0dqNi1nM0hzbjl1dUF3VGhnVUZLa1pNNG8yYW54dkJNTmhTY0JvZEU5ZzB5b0hhenVRSXM5RzEwQQ?oc=5",
+      "publishedAt": "2026-09-18T01:47:34.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI·SK온 LFP 뚫은 엘앤에프, 6년 만에 '기업 얼굴' 새단장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "89941927d3b7afaf",
+      "title": "LG엔솔 늘고 삼성SDI·SK온 줄고…엇갈린 북미 고용",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NEJLcHBIUXF1V1NKeWYwd3p6eG15YTdrM08tcjFUX2p1T1NGMHJjTU4yc0tZUGRsclgyaFVJU2dfMnBoZS1EUHhRcENwNEVneDZEalBiVVBEb2VjckpzQ2tEamhkR0FOYmJtTnB5WGPSAXRBVV95cUxQUzhXVXhkX3czbkhEX24wM0h5TEo0clVHNl9qd1UxZERyOXcxWGFuN21rWkdiOG9oQ1puVi1YR1RLaXlSZU93eWxqR29Pa0FDRXczcVl2YWh0M3FQNVVLMTdQT3NpY2Ita2lPZ0lfc2d1Zm1EOQ?oc=5",
+      "publishedAt": "2026-09-16T22:00:00.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "LG엔솔 늘고 삼성SDI·SK온 줄고…엇갈린 북미 고용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2f70b8a7b17ed7ca",
+      "title": "\"삼성SDI, ESS·소형전지로 실적 회복…북미·유럽 수주 확대 주목\"미래에셋證",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KM3NSMVJaSDlBOGYyVTVITGh1U3Z3NkZ5SUFLVG9YUUNDZ29rbHVsVnptUlJxMzRWbXV6bjVBODVqbTlvanAtYzFvQTZ2TDA?oc=5",
+      "publishedAt": "2026-09-15T20:31:09.000Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "\"삼성SDI, ESS·소형전지로 실적 회복…북미·유럽 수주 확대 주목\"미래에셋證 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "confidence": 0.88,
+        "positiveTerms": [
+          "실적 개선",
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a374f3d820e34e33",
       "title": "[특징주] 이차전지주, '中배터리 견제' 기대 이어지자 강세 마감(종합)",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTllCa2VUUkM0amZpWUV0T0NidnQwZmltbVl3VkgwbTUzSVR3cHlQTDctVkM3UlVudlZQYUhKVHRkNDRnMnNqbFBQcjNhWGxUVlRMaVNVc1NMdmPSAWBBVV95cUxOWTNkTkRkdmhQcjhpVjI1ZHRQamUtLXJnbUxxYnBlNzl5YndJVXZNNHpranpIZU5RYUJqUm9vUUlhMU5kUjdmb3JXNm0zWUpzcEtPdE5Ed0pWZUpXRWs1NFY?oc=5",
       "publishedAt": "2026-09-15T07:24:40.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -326,7 +464,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DdnJNcW5UUjE5bnRYVVRYZDc3NGZuMHpsUGhNXzNvak43VndWSUhIY1pEWklhVzhjcGpvenJURjlLd0hoemRMN2dUbF9nbXhoZTRXcTlqNEVrbzBaejZDNHRaWjNKR0NmRC01T3NZTGU?oc=5",
       "publishedAt": "2026-09-15T05:35:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -357,7 +495,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OWGVraWRuY3R1QzdjcDQ0ajR5SGotTkhaTnBseGNSdDJmQ0FReUMtZnhyUlFMYjZXNmhiTkR2LWhaeEE3bTB2VVFvWkFmTnR5WXJoQWtuWER6dXZK?oc=5",
       "publishedAt": "2026-09-15T05:20:05.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -386,7 +524,7 @@
       "source": "2news.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQ3pLaGl0UkJBU2pqMEViWS16b3pvOGo0LWp3akszd3VYUm8tdGNZRHlHc3FyZlFiMTR6RU1oQzNfamIybVNua2pYNmpDc2RpanpxVGg2MWpiaC1VRm9OOTZFVW1NYWVH?oc=5",
       "publishedAt": "2026-09-15T03:10:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -415,7 +553,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BNHJINjh1alFfZ2lJNHBfWUF2TjF2MXREQno5TFZPdTN3QUVCSWY3RzFLN0paZ3dlM3lXQmpwdlJQRzNXNzM1eVdlbUdPb1ktSk42R3NTMjBNRTU0YkhF0gFkQVVfeXFMUEZYaGdSb3ZYNUsybUt0bGc5WjhKMFRVR0lKbEtacWxOZkNoeG9PY2hHalhrTkNzcHlzdmdJZ1FoMFBuYW9yTUZzQWQxdTJvTXhVNnREYlpCUk1GRlJOV3gxUzVLOQ?oc=5",
       "publishedAt": "2026-09-15T03:00:07.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
+      "collectedAt": "2026-09-22T01:21:45.461Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -434,147 +572,6 @@
         "confidence": 0.67,
         "positiveTerms": [
           "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d3ec433bd063abaf",
-      "title": "“삼성SDI, ESS 사업 성장으로 올해 흑자 전환 전망”",
-      "source": "주간동아",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aY1J6M2Znci1wQlRXQ01ubmItNjJwbE5QYVlIQ3V4WGptUnNCeUl3MjhaMkRXTzJFQ25sOGxjZFJhZTdINU1QdVI5d1Vfd2RZdGpRdklKTlZzX044S3E2SGtuWVNjLWly?oc=5",
-      "publishedAt": "2026-09-15T02:04:13.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "“삼성SDI, ESS 사업 성장으로 올해 흑자 전환 전망” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "흑자 전환"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4171278cbaa7f373",
-      "title": "\"삼성SDI, 4년 할인 드디어 끝났다\"…SK이노베이션, 정유 3중 호재에 목표가↑ [株토피아]",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94Mk1MaHhIMzl2and6cks4UXZuWHBUcjJJT1puMXl4RWlSclJZU3BnUlBUSFU5bkJVVGVLTk5rNHo4UG5KaEx4NlhxbVVWLWM?oc=5",
-      "publishedAt": "2026-09-15T02:01:10.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "\"삼성SDI, 4년 할인 드디어 끝났다\"…SK이노베이션, 정유 3중 호재에 목표가↑ [株토피아] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b4be2994afdfe08b",
-      "title": "'中배터리 견제' 모멘텀…K배터리 '빅3' 나란히 화색",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LTFhvUkFCdVRuV0dIb0FjQkRPYVpYRXllVzA2aGdiVHZFNVZvQXctRUFZNUxQZEhFTU84Rzd2REdhMmFvSE9TdC1JY3lxb0E?oc=5",
-      "publishedAt": "2026-09-15T01:43:49.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "'中배터리 견제' 모멘텀…K배터리 '빅3' 나란히 화색 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "884c14a0d9f72fb9",
-      "title": "[특징주] 삼성SDI 3%대 강세…美, 中 배터리 견제 목표주가 ↑",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkamhKSUFwblN4a201Mmx0VXhnMnVvYlZGUUUzRlE0b01JblRxMnppczJLbllwVkYwWEZKOUk3c0ozOW5WU3c2M0RycENIMUh5UVpLT2FkUDduMm1n?oc=5",
-      "publishedAt": "2026-09-15T01:39:00.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[특징주] 삼성SDI 3%대 강세…美, 中 배터리 견제 목표주가 ↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "강세"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3da444c3984b93c6",
-      "title": "[특징주] 삼성SDI, '中배터리 견제' 기대 이어지자 장초반 강세",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSWtqX3hfenVZd0ZJYzkybzFnZnVJVjM5QzRBZEJza2NscDUybno2Z05YVG1vcTd3ZVAyVmtWLVFYVWtMTktZQ2RCSlRGMk5USU1zQUR6TUY4RUXSAWBBVV95cUxQeXBNblRqcC1zV3gtaXNtVTVuSkhsR1hpbWdlVW9nYmVTNURxR1VTYk9BUHBRUURwQnV6OWFjNkpsemFzU01PMDM0WmRVV2hOdUFqVmdnU3lkZ2R5aFliUDA?oc=5",
-      "publishedAt": "2026-09-15T00:48:01.000Z",
-      "collectedAt": "2026-09-21T16:42:58.039Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[특징주] 삼성SDI, '中배터리 견제' 기대 이어지자 장초반 강세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "강세"
         ],
         "negativeTerms": []
       }
