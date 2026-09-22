@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:21:45.461Z",
+  "generatedAt": "2026-09-22T08:05:12.528Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "SK텔레콤",
     "ticker": "017670"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SK텔레콤 '믿고 쓸 수 있도록' 신뢰지표 관리한다",
-    "[코스피 현미경 분석] SK텔레콤, 코로케이션·GPUaaS 등으로 주가 다시 뛸까",
-    "[Who Is ?] 정재헌 SK텔레콤 대표이사 사장"
+    "SK텔레콤, KISTI와 양자암호통신망 ‘디지털 트윈’ 개발…구축 전 성능 검증",
+    "SKT \"AI가 예약·결제 전 RCS로 이용자 승인\" 글로벌 표준 제안",
+    "SK텔레콤 '믿고 쓸 수 있도록' 신뢰지표 관리한다"
   ],
   "articles": [
+    {
+      "id": "e87ba96d17ef4c7b",
+      "title": "SK텔레콤, KISTI와 양자암호통신망 ‘디지털 트윈’ 개발…구축 전 성능 검증",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZjFycU9VZndpc0hzZXR4bkpPSmJnN3N0ZGIxSGp6VWp0S1VlRjlTdnZIVUMtT1pJQzNKZ25TRHNWRFNxY3hZSE9jZlk1V3AyS0NnSUJ4ejFDTXlnVU1NN2tfQnB1Zy10X2ZYR1R4MGs1UQ?oc=5",
+      "publishedAt": "2026-09-22T07:13:34.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, KISTI와 양자암호통신망 ‘디지털 트윈’ 개발…구축 전 성능 검증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c4825617acaf64f4",
+      "title": "SKT \"AI가 예약·결제 전 RCS로 이용자 승인\" 글로벌 표준 제안",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTWmtDRkhXQnVKRWVDaHpPWWdEa3cxMlNWZ3RGMGNHVXZUTmdweHI4cVhXMDBKRjItQVpLRC1XMWVIVENrSHhMLUlrUDRVeXc?oc=5",
+      "publishedAt": "2026-09-22T05:27:00.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT \"AI가 예약·결제 전 RCS로 이용자 승인\" 글로벌 표준 제안 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ac6a8c9d819aa947",
       "title": "SK텔레콤 '믿고 쓸 수 있도록' 신뢰지표 관리한다",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56cFFnbERhY005YjZTUnJYUTdQY1dQbzNYeXpzY18xZDhZQ1h2UHZLTHFzSGJLUEVDT2N4NFNGY25zU0pHYXVqVXFRd2ZvZU0?oc=5",
       "publishedAt": "2026-09-22T00:58:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -42,12 +96,39 @@
       }
     },
     {
-      "id": "fb3cdd1dee9f80d6",
+      "id": "1b1a3f57ee21f62f",
+      "title": "SKT, 고객 행동 분석해 기업 신뢰 측정 지표 만든다",
+      "source": "yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hZVA1Zy15dnpaMDA3eEY5cUlNVGJOVzlHamlIZldueEYtUG1wUWZpdkoycnBjZ0lsMy1xUmVPODhSM3BlZXMweFBHbk1TT2FBV1hRazhabDYyNHI4aTFraNIBYEFVX3lxTE5hZVA1Zy15dnpaMDA3eEY5cUlNVGJOVzlHamlIZldueEYtUG1wUWZpdkoycnBjZ0lsMy1xUmVPODhSM3BlZXMweFBHbk1TT2FBV1hRazhabDYyNHI4aTFraA?oc=5",
+      "publishedAt": "2026-09-22T00:24:07.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, 고객 행동 분석해 기업 신뢰 측정 지표 만든다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0588a1a155708051",
       "title": "[코스피 현미경 분석] SK텔레콤, 코로케이션·GPUaaS 등으로 주가 다시 뛸까",
       "source": "데일리인베스트",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbHhYTFVWTHBkWmlOVURyb0I2WWk2UE5WZm9wS0kxR2JlUVJMRTJiMEtPUDNZcC1SNkRqLTZiaDNHX3N5eS1uR1hVNUo2aVNGVF9GekQ4cFkyOXRXNGFQZ2dCVGtTem44azNDdtIBb0FVX3lxTFBTQlp1aVJMSDdIRS1KTlZqc2tUNjc1N0RwcUt2Y2xzazY0SDNQWTVLVmtmQjN1UzBaYmFqbGVlT3lRRFlwV3BzcXk5SVBsMFpMZXNyWWp0ZF9CVnpoU1RhZjJKTXV2X3FNVVdMbmU2RQ?oc=5",
-      "publishedAt": "2026-09-21T23:45:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTQlp1aVJMSDdIRS1KTlZqc2tUNjc1N0RwcUt2Y2xzazY0SDNQWTVLVmtmQjN1UzBaYmFqbGVlT3lRRFlwV3BzcXk5SVBsMFpMZXNyWWp0ZF9CVnpoU1RhZjJKTXV2X3FNVVdMbmU2RdIBb0FVX3lxTFBTQlp1aVJMSDdIRS1KTlZqc2tUNjc1N0RwcUt2Y2xzazY0SDNQWTVLVmtmQjN1UzBaYmFqbGVlT3lRRFlwV3BzcXk5SVBsMFpMZXNyWWp0ZF9CVnpoU1RhZjJKTXV2X3FNVVdMbmU2RQ?oc=5",
+      "publishedAt": "2026-09-22T00:14:23.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -69,12 +150,66 @@
       }
     },
     {
+      "id": "c837336dc2e0918a",
+      "title": "SKT, KISTI와 디지털 트윈 기반 양자암호통신망 연동 기술 개발",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkTG9nSlF2YV94V09ralJIcVBkQlB6a0lvQm5rTk9mY0hVYVEtSy1zWmRHeV9SQ3NjeWJDdS1VMW1sT0JsLXA0SQ?oc=5",
+      "publishedAt": "2026-09-22T00:00:03.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, KISTI와 디지털 트윈 기반 양자암호통신망 연동 기술 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5820efdd57701543",
+      "title": "SKT ‘2026 인사이트 데이’… 고객과 신뢰 지표 만든다",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XQWRxaURJcnhwRXpBX0diaXg1a29OVkd4SHRQRzhfT1NNd29sVXlzRkdXcEJVS2tLT0ZTazZ6NzRMbEJtMlRkQQ?oc=5",
+      "publishedAt": "2026-09-21T23:51:07.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT ‘2026 인사이트 데이’… 고객과 신뢰 지표 만든다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7e111f35a86f1a02",
       "title": "[Who Is ?] 정재헌 SK텔레콤 대표이사 사장",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85eVdUNFFHZ3Q0Wlg0d3NHWDNUUWNNWlFza01TbmZoMS1tNU9MVlJkNk5TQ0RaVldQdDlqdTY2WmpXR1Jqd2Q1NDZRcXZuQnpsN3RRRFpBZTM3aEFFNXZGTTZvVVEzRVBfS1E5WTg2U01tbE0?oc=5",
       "publishedAt": "2026-09-21T22:00:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -101,7 +236,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PNUtSWnVvX3BWT0NUTHVHcW5idmF6eUpUekkyR3ZpUlNYZEFxOXdiUVJtU01hUGpJVmJrRjg4d3lGMG45NUJ6Sm9Ld01zYndsaUZ1WXpFcC11M04yZnlwaE1nMmRZdw?oc=5",
       "publishedAt": "2026-09-21T08:27:53.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -123,39 +258,12 @@
       }
     },
     {
-      "id": "6f3e462daff9cdf1",
-      "title": "하루 1400만건 AI 트래픽 처리…리벨리온 NPU, SKT AI 서비스 4개에 확대 적용",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtakpMZDlVRFFBSTAtX0lFOHdMN0VYNUhhNml3X2xqLWRReVN2UkEyZ1g1T0p4c0tZcHpPUF8yYjIwS0ZwNGc?oc=5",
-      "publishedAt": "2026-09-21T06:00:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "하루 1400만건 AI 트래픽 처리…리벨리온 NPU, SKT AI 서비스 4개에 확대 적용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "753ef1b6c294f18c",
       "title": "추석 연휴 동안 읽어 볼 도서는?…SK텔레콤 경영진이 직접 추천한다",
       "source": "테크월드",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSHdNRjBCUW9OMFVSMEZpajhNTUZDT0FpZTFDQWVmLU9Ua1drZHRtWnZsVDU0WF9rSU1JcDRnUFpYYmtHdVVONm5HMGY2Vm40WmRuN3RORkdPeDNqcUVUVXBZeXFuVFUt?oc=5",
       "publishedAt": "2026-09-21T05:00:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -182,7 +290,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84aTVvQzJlS3JtNW45OXpuRk9EWG9PMkxEazVXdlBxMUV4cGZmeDZGT2FBUjN3WWtIREJBNHF6VnZDSmF0aGt0WnZmM1B5QQ?oc=5",
       "publishedAt": "2026-09-21T04:55:24.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -209,7 +317,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ib1VPaVdEX0lieTdibFVhQS1md3JYakgtZXFySXlnTlB5TTBLNS1FbTNmc28zbFl4ME15MDVJM1R6R2k5VDItcXBaVUtINlFfczc3UjJfMlJ3TDZtNTdJYWhaZUlyZl9TSjYzWkJxMzkyRXNP0gF0QVVfeXFMT2JvVU9pV0RfSWJ5N2JsVWFBLWZ3clhqSC1lcXJJeWdOUHlNMEs1LUVtM2ZzbzNsWXgwTXkwNUkzVHpHaTlUMi1xcFpVS0g2UV9zNzdSMl8yUndMNm01N0lhaFplSXJmX1NKNjNaQnEzOTJFc08?oc=5",
       "publishedAt": "2026-09-21T02:23:54.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -233,10 +341,10 @@
     {
       "id": "a4b01afa24bb2a84",
       "title": "SKT, “공공 분야에서 AI·빅데이터 널리 활용해야”",
-      "source": "문화일보",
+      "source": "munhwa.com",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5dk5TZzJJa1pMUVRQMldKeHhTZFdVZ0FQdFlRNlQ0dVVNbEVqX2Qtc1pLTGliOFM0ZjZRTG44SVUycDBtUzJGa29ld1FJOXkw?oc=5",
       "publishedAt": "2026-09-21T02:16:44.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -258,12 +366,12 @@
       }
     },
     {
-      "id": "d2cfb05196f57575",
-      "title": "SK텔레콤, '그랜데이터 퍼블릭 데이 2026' 성료",
-      "source": "메트로신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxWms4VXIxTXVsTDZJV1ZsYVZoTHBwUzFoUFhFampLVUltZ0UyTHVsdWpIMXdnaV83MHZlWXF0Nmdfb2Q0VVJjTmlIeTVCXzBEdmVpWnp1ZVBBQ3A5MDN5QQ?oc=5",
-      "publishedAt": "2026-09-21T00:41:39.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "id": "b7249f1e9aa8d257",
+      "title": "리벨리온 NPU, SKT AI 서비스 4종에 적용… 하루 40억개 토큰 처리 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEJKWldtYUZUR0tZTmhETG9uUWxGeE1HUFB3RlhiWXJVWEV1V04yM215MmtuQ3daa0lUQjZmeE50VVNBazFyNjZfb1BOZ2h3ZTlKcFdvRFA5Z0hucFU3RnBQMjBKTjRhWG9XdnE3dDlKRk9vTGEwMjEyZHNUam9yQmNhRW5YRm9Kby02Uk4xZm9nUGhjRWfSAZYBQVVfeXFMTnBCSlpXbWFGVEdLWU5oRExvblFsRnhNR1BQd0ZYYllyVVhFdVdOMjNteTJrbkN3WmtJVEI2ZnhOdFVTQWsxcjY2X29QTmdod2U5SnBXb0RQOWdIbnBVN0ZwUDIwSk40YVhvV3ZxN3Q5SkZPb0xhMDIxMmRzVGpvckJjYUVuWEZvSm8tNlJOMWZvZ1BoY0Vn?oc=5",
+      "publishedAt": "2026-09-21T01:52:00.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -274,8 +382,8 @@
           "ticker": "017670"
         }
       ],
-      "summary": "SK텔레콤, '그랜데이터 퍼블릭 데이 2026' 성료 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "리벨리온 NPU, SKT AI 서비스 4종에 적용… 하루 40억개 토큰 처리 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -287,10 +395,10 @@
     {
       "id": "93909dfd801ad55c",
       "title": "SK텔레콤, 공공 AI 시장 공략 강화… AI·빅데이터 혁신 세미나 개최",
-      "source": "라이센스뉴스",
+      "source": "lcnews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ckpuWlBrZFFMOGgxdW1TaEd4c1BwQ0t3SkRRY196WXh0cEsycjA5dlF1eTZFS2tvcXhDZDVmcDVGUFlKZWY0enlabG5vWXdKQ2U2MmRlZjVPbWktZWxtQm9nU1gtTUU5NGRv?oc=5",
       "publishedAt": "2026-09-21T00:23:01.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -312,12 +420,39 @@
       }
     },
     {
+      "id": "26ae3a8eca26c976",
+      "title": "'보이스피싱 막고, 취약계층 돌보고'…SKT, AI 사회가치 11종 공개",
+      "source": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4c1A0dEhZUkNEZjgwOXFvYjRYd050eUhtdmYzNTZmNVRuV2lmMzJFYTBMbVpIaktyWTNVenJBN2JfSGlEMTFtWVpoeWZBWWhsMnN0NHJCazVFSTJPLWswaVNONERqNDJZM1Z6MUpibFE?oc=5",
+      "publishedAt": "2026-09-20T05:59:49.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "'보이스피싱 막고, 취약계층 돌보고'…SKT, AI 사회가치 11종 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c0947298d162ec55",
       "title": "SKT, AI로 사회문제 해결…'사회적가치 페스타' 참가",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1La2Q1WDFTMmhmQ1NQX3RaNEFBTzBlVl96MlgySHNuWDM4RUR1MmFxWTlBTVZ1dXFGbk5IRXJYVkFOdTQxazBGOHp1UlJBVVhUd2JGNGttdXhhWUXSAWBBVV95cUxNQUZONDNlcWwtS0JXaV9wajd4d0VoYUtSeWxLTFR4ZlF2dGJLZWJQTUdPSk4yc3I5emlUcl9XWHdCQjJwQW15QVg0ZjF6SFVRLTQ3MjZ1SjlmYWN5S0lCeTI?oc=5",
       "publishedAt": "2026-09-20T01:13:52.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -341,10 +476,10 @@
     {
       "id": "4526d49a5a974f10",
       "title": "SKT, AI 기반 ESG 성과 알린다",
-      "source": "sedaily.com",
+      "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYUJyY3o3SVE5bGRKb3ZKcWdFZXRvQmN3UWFHdE1RUlNmV0tVcGVoNGtXOFp5dE9mb0tlUUh0V1hNdW4tbHBub0p0OVJpQTBsV3fSAVNBVV95cUxNWm12a29WN1dONFhxQlA4RU5yaURlcHFneTRnX2FRa3AtMGFzX0lWcEp3UENMSFBNQ0o1SmsxU3p2dEh5VzNpVjVSamstUk5GdVE3cw?oc=5",
       "publishedAt": "2026-09-20T01:01:29.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -371,7 +506,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NU2RrYkl4OWpNNl9xcktfMTVWYlNac0JrQV9IeWdJSDJUVHdraXhKdWZaR05jZENXdlZINThtZVRkZDVDZmJHS2NlVjY1UUg3WG92Mm1MMDBZckxzcWpFNmpUVS1DMjlQMmc?oc=5",
       "publishedAt": "2026-09-20T00:00:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -393,39 +528,12 @@
       }
     },
     {
-      "id": "ab107f25cd1351c8",
-      "title": "보이스피싱 막고 취약계층 안부 확인…SKT, AI 사회가치 사례 11종 공개",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dzVvd1d4THREYkptNXVEdDk0VlE5WDhTYnlUOExhcE1UNkJFNFV2U1p4ZF84WDV3SFVCVEVPVXNjVWktVm1JN1puTHhOQXA1TU05WGo5UFhrOGxQV3RRLUdYOVF2azhaYThhQWRWbUVxWFRhQ29HbNIBeEFVX3lxTE44dzVvd1d4THREYkptNXVEdDk0VlE5WDhTYnlUOExhcE1UNkJFNFV2U1p4ZF84WDV3SFVCVEVPVXNjVWktVm1JN1puTHhOQXA1TU05WGo5UFhrOGxQV3RRLUdYOVF2azhaYThhQWRWbUVxWFRhQ29HbA?oc=5",
-      "publishedAt": "2026-09-20T00:00:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "보이스피싱 막고 취약계층 안부 확인…SKT, AI 사회가치 사례 11종 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8c247d2a67cf8acb",
       "title": "휴대폰 요금 받던 SKT, AI 시대엔 '서버 월세' 받는다[주末머니]",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tRUx1NDVKY2tUX0JVOUxDR3pQQXlDZElheDRrSU5SY0NEN1ozSW5kZm93U3RnY0NhUk5LWWZDVEQyVzBTQVZzWnB6UzEydWpELVZaYw?oc=5",
       "publishedAt": "2026-09-19T04:11:49.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -444,116 +552,6 @@
         "confidence": 0.35,
         "positiveTerms": [],
         "negativeTerms": []
-      }
-    },
-    {
-      "id": "726fd1f8dcc7836b",
-      "title": "SK텔레콤, 추석 특별 소통체계 가동…협력사에 1318억원 조기 지급",
-      "source": "m-i.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tUW0zQWJKY2E5R1dPSDNvV3RfNEJzcnBNZURobzFTN2REMDRyYXhsM0dDeDBuSkFyNWoyMkE4MG1EZWxQbXhick1lZldUSWtmenltSVl4d2hRYXpJQzdxTlMxR2PSAWhBVV95cUxNX0diSXhUdTNpVzhTMjFQRmZ2NzFVQlhmVEhZRVcyU1Q1NFFfMWk1RElPX0cyODc3dzNCaEgxNnpFVk5FYjNyWHJ3MHF2T2JaYXl3MVQ5RndsM3lGc0VZOVJmeE1mNUVUQg?oc=5",
-      "publishedAt": "2026-09-18T03:28:43.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤, 추석 특별 소통체계 가동…협력사에 1318억원 조기 지급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5fc21df5383a0814",
-      "title": "SKT, iPhone 18 Pro & Pro Max 출시",
-      "source": "SK텔레콤 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3TVdncktRblNSTGRZU0dLenlYVXNJaGVwYzR0eXFDSG9Od1NkWmVRenh1R2ZraUNhWjhMcklQZThBMldzclhxSQ?oc=5",
-      "publishedAt": "2026-09-18T00:40:19.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, iPhone 18 Pro & Pro Max 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0fcae22ffe8b4582",
-      "title": "SK텔레콤, 추석 연휴 종합 대책 가동…협력사에 1318억원 대금 조기지급도",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBlU2VhSk1XYVFDUFgwYXUzZnc5dVRGUE5QNlhEcHVzN0NNOTRCbVZidkpBSFBPZjZXdkI1djFDTEJhZ2I3LUE?oc=5",
-      "publishedAt": "2026-09-18T00:32:38.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤, 추석 연휴 종합 대책 가동…협력사에 1318억원 대금 조기지급도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "64d958d5ca47c7bd",
-      "title": "[초점] '2300만명 정보유출' SK텔레콤 과징금 소송 시작",
-      "source": "뉴스워치",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16VE9Yd2pVeU1QaE1Hc3BCRFQ1UXRrbTdiUGpDU3c2MHNfOTJCTHJYbngzYWxpZHhETzV0M01WZS1DZlhxUEhNTkZXS2JQZ0pTUnZCSFNQQzVVUF9JSzQtRE1URTFPcmlYVnc?oc=5",
-      "publishedAt": "2026-09-17T23:55:14.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "[초점] '2300만명 정보유출' SK텔레콤 과징금 소송 시작 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.47,
-        "confidence": 0.72,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "수사·소송"
-        ]
       }
     }
   ]

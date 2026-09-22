@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:21:45.461Z",
+  "generatedAt": "2026-09-22T08:05:12.528Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "에코프로비엠(247540)",
-    "포스텍부터 에코프로까지 뭉쳤다…포항, ‘교육혁신 선도지역’ 도전장",
-    "에코프로 1.85% 하락…2분기 흑자 유지 속 소재사업 점검"
+    "에코프로비엠 10만3900원 강보합…유상증자와 실적 회복 사이",
+    "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 : 네이버 블로그",
+    "에코프로비엠(247540)"
   ],
   "articles": [
+    {
+      "id": "f03c1c7176d53c37",
+      "title": "에코프로비엠 10만3900원 강보합…유상증자와 실적 회복 사이",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9naHFBekYySkhEalN2LUVlZ0M2OWVRYlFoWkd5LWhtNDlMa09reXg2ZnFTcnRuVW84UjhXRTBXdTAzaWZXMURfODBRNE1uSU9Ybm92ZXozelNybnB1emp0N3ZCbEZsTHZUekJwQzlB0gFyQVVfeXFMT2JXSzVkZUhxRndvM2l4RjVENEJUcEFja1FaaHFuclVjT2ZtVXFja19sSkhhOFdmS0pjQXZwV2FsWFp0VjBUX01lVVNoWjNMN3N0YllfQkcwWEtnckpIR1ZXMEQwQ1duemRRODJYMlBRUmR3?oc=5",
+      "publishedAt": "2026-09-22T06:27:46.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠 10만3900원 강보합…유상증자와 실적 회복 사이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ca23103604bd223f",
+      "title": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 : 네이버 블로그",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEctRmNNLTBkM3R1MkFoZUpJa3AtN0s4S0p5c052Y2pSanBFWHpRM3JiaER2RXJSdDhDZThncVpRMWJCdEVBRkxNTjY5ODVCT3AtUl8wQlM0bkxUYTAtR0RDQktJZmNLNHFqWnFlN1ktMGUwb3JvWGVieHRaUklfaTlmR1lqc29YcmdaS3pSYw?oc=5",
+      "publishedAt": "2026-09-22T04:00:07.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "d9b2f8ca3903a27a",
       "title": "에코프로비엠(247540)",
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE5DNVI0ZFRIUnhZTzZaX1pNY05DaVBRRVl5ZGpNS2l3c0ZCLVZYUndvRTJEbzNCRlkyLVVuanhaaHBoaXplSzgtcGYzdkpRdTlKbnh5MFNpMVFaV1dKLWNfbVZBTVA2X29rWE9mRm1VX0dPd3pOMGtRaDdRbHdJS2wza2tFVXdvYXFVTDZnV2N5dW5IUWRZ?oc=5",
       "publishedAt": "2026-09-21T15:18:02.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -47,7 +103,7 @@
       "source": "경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZk50Vk1WdE8xTVdYNFptMWVQSW1XTkNvWnJzcEFwVE9NQlROM3JyVUZucVM5NVBKNm1lMTNwekJ3ZFFZekE0MlFPQzlwWmNCODU3QWFVS09FZw?oc=5",
       "publishedAt": "2026-09-21T06:52:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -71,10 +127,10 @@
     {
       "id": "c853c4c25c9ffcb6",
       "title": "에코프로 1.85% 하락…2분기 흑자 유지 속 소재사업 점검",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DMTJpa0FXV2ctODBCMHc1WE04ZUVQMWU2SWZhMFBvR2hycDF1a1Y2M3oxZnNoTmhZMWhZTS03LXRTa1l3ZG5jRE9nY3JnWFpOVmdvaS0wekVpOEJJOGtyUHl0Y0tmQjk3RkladlRDUS1nd9IBckFVX3lxTE1DMTJpa0FXV2ctODBCMHc1WE04ZUVQMWU2SWZhMFBvR2hycDF1a1Y2M3oxZnNoTmhZMWhZTS03LXRTa1l3ZG5jRE9nY3JnWFpOVmdvaS0wekVpOEJJOGtyUHl0Y0tmQjk3RkladlRDUS1ndw?oc=5",
       "publishedAt": "2026-09-21T06:00:08.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -101,7 +157,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaLTlmWkFhRHh3V1Myb1BNblhIcmRBcmo2THdlZWlNbGtVMnAxd21Rejd6RkV4OHV4SFpaU05mSW5qc0owZkFYUC1JeFFfUkE?oc=5",
       "publishedAt": "2026-09-21T05:22:03.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -126,12 +182,42 @@
       }
     },
     {
+      "id": "2725b1ddbb95c2cd",
+      "title": "[食전食후]삼성전자 5% 급등에 코스피 7000선 돌파…기관 1.3조 순매수",
+      "source": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DT3AwTnNVY2FUYXFkclFvd01FOGFIc1Q1MkFMcE9fb1VoLTkxcXJ6ejVWQVdvYnVfbmZ1R3NhRFYzanhkOFFjU0xXd1NHRDRnaEhKU2tLTVnSAVhBVV95cUxPQ09wME5zVWNhVGFxZHJRb3dNRThhSHNUNTJBTHBPX29VaC05MXFyeno1VkFXb2J1X25mdUdzYURWM2p4ZDhRY1NMV3dTR0Q0Z2hISlNrS01Z?oc=5",
+      "publishedAt": "2026-09-21T04:49:32.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[食전食후]삼성전자 5% 급등에 코스피 7000선 돌파…기관 1.3조 순매수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.9,
+        "confidence": 0.93,
+        "positiveTerms": [
+          "급등",
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0a18db36449ba339",
       "title": "미·유럽 탈중국에 K-배터리 \"기회 왔다\"…소재사도 반등 기지개",
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUmVwNDVqdmlOVHZvbEZkSENTSTJxQ3JxME1hTnI1eGtNa00yQWdEcE1sYmplY3NmcXZ3eHhaQXN4UFRIVVpfQ2pVNXhNdHRiakFfYldDSUpjd9IBVEFVX3lxTE03SW9sYmM3ZlpYZVJkWnpXZ1FUamNuZHg1aGRNaUxLOFRackRQTGg5bUhmR05fOVVCUTFRMkktQXltUi1TS29pd0hhX0NlTExvTDdRWA?oc=5",
       "publishedAt": "2026-09-21T02:53:51.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -155,39 +241,12 @@
       }
     },
     {
-      "id": "f3e98478e57c6dd1",
-      "title": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRnE3NFZUQjgyZ1E2cjZpN3VrclFBaW9iWjJ4Z1BZVmZxXzcxQzBxLWY2N1ZGUjlYUmttT3FqOUlpTnl3NmhnSmhFOXFmbmM?oc=5",
-      "publishedAt": "2026-09-21T01:25:24.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ab6fde3451c84d41",
       "title": "에코프로 등, 에코프로비엠 지분 47.40%로 확대",
       "source": "데이터투자",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYWZ4bnhSc0thTWdkczRvbDNwVXAxemFMcWRaWXB5MzdIMHUxSHdsR3Y5TmhaMkk5NHdzSXc4TVNtOUhHcjhOSGJBLVBnejVUMy13LXRwcDFNN1UxZS16UDNnNXhBV2ZRZkxKSHFMVU9NdkU?oc=5",
       "publishedAt": "2026-09-20T22:38:44.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -214,7 +273,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFN0UVAtdmJ1czZlMk1fLVl2bXpTWFo0RHFRTDJhbFJNd0Q5UHpPWTI3Y2d4OWdzeXB2WjlyNWx0YVhWMkdqb1FDaDNHekJCdUdlNFVYSS0xZ2VYcUF4T3ZNSnczZVpIQTl6dWlYTUxFR2ZrT3VFeUpEUXRxaElXSGxtUTdXeEtI?oc=5",
       "publishedAt": "2026-09-19T18:45:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -238,12 +297,12 @@
       }
     },
     {
-      "id": "7f8149c3ee00a480",
+      "id": "d4d309b9637f7920",
       "title": "에코프로 BBB+로 내렸는데…메리츠증권의 위험한 베팅 : 네이버 블로그",
       "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSU8wb1MxNTRodWF4X2JzRV9zTlZ6bW1QOWk2ZG0xTTNDcklBUUhGdFhKcHF0eEQxN0NTYTlILXV6cmV5dk1oY3l0bDVlSkhJa0hUeVpnV2hjNmQ2YWZpMjU2LWJ2aGRuZUN6eHpqcUljRHNCNHN6c3IwVGhfVGhmUXFlZnFFcUFBLVhQMGdGaw?oc=5",
-      "publishedAt": "2026-09-18T19:23:26.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rTEh3N0hPUGFhb3U2dkZJSzBTaGZlQmtab1FhVXY3MGdTQl9GZ1JqSmFoRzNUOVpuSVlpRmxaUHd1SDB2SDh3ZjdRQThHZ2RiUjdJUjVqc3dVNHh5SWxlVy1vVWRlQjd5eWNrblU5X0JTaktZZ0RGMTk1akw?oc=5",
+      "publishedAt": "2026-09-18T13:21:00.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -270,7 +329,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CQ21Kb3ZQX25UaDFMM01hMFJ5RGx4bHNoY2NHMnhvWUdER3hFdnF2MzJQd0FyTmVmS1ZqWmhkOWNLYTBZdk9jZ3VibUN6QzVnQlhva01jSWZERkFvZTF1VVRMT05IQQ?oc=5",
       "publishedAt": "2026-09-18T07:54:18.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -297,7 +356,7 @@
       "source": "리드경제",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZenQ4cE5UdkszRGkyaFpMcjVyUlFVam1HVjNQdnBoVU9veHMtdUFVdm9vOXNPZnBNcDExb2NBaUZfQU91NjNpMTY1Q183MWNzVHowMVdDM2YySkZnNGlXVUQyTmVOZ1RmTUkwWGRmRQ?oc=5",
       "publishedAt": "2026-09-18T04:36:53.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -319,39 +378,12 @@
       }
     },
     {
-      "id": "d4f4204c37d6e6bd",
-      "title": "[공시]에코프로에이치엔, 최대주주 등 지분 변동",
-      "source": "한스경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT3FpZmgtQ2ZBSkEtSWVXVUVaUUlvbHNVejFkeVhUX2hLSnBIMG80Vm1LaUNPbHlxbU9YcUhZLWh5cVhGY29zeFo4LTUtZ3JMekVadndXc0RWZTVqNXFERlY0TWJHU0FSaE10YdIBb0FVX3lxTFB6V0s5U0NPMVROalFiaHRjWVMzRzMtblJHS0t2S1puX0NhU3praFlpbmdfaEF6XzRUMEttajdZUk81VnZLeW9IeUtncmVYQkhsbC1iTllza2lnSWJDT2F5dHc3STJ1bTNRUmczV3FyRQ?oc=5",
-      "publishedAt": "2026-09-17T10:29:10.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[공시]에코프로에이치엔, 최대주주 등 지분 변동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9a6a7eb54cfca25d",
       "title": "[공시]에코프로, 반기보고서 영업부문 주석 기재정정",
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCMlVyY2JpLU9xdmxEaWo0ZU5GcE8wUGl2Y1FiN2pwX2ZrYnRvaEdnSmYxQU9tOFNxZm95eGVYR1hMLVpGMjFUbHpNV2V0RlliTENhWmw2cGs4U0EtRUNzVVcxVFVQU1ZPR3Nn0gFvQVVfeXFMTWVlcTFicGZfdUkzS2dNeVp1M081cUNFUVlNdmZsbHQ2VEsxalZFcmlYUlFoMFVqY2hYQU5ucjRQZ0FLWjhXQ0gxWlVSeHl0Qmp4UFBvWU1zdS1NSDJISkdSSXZpR2phU29TTkp3Zk9Z?oc=5",
       "publishedAt": "2026-09-17T10:26:11.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -373,12 +405,39 @@
       }
     },
     {
+      "id": "256407c40f8b4473",
+      "title": "불량 잡던 AI, 이젠 공장 전체 돌린다…산업부, 제조업 AX '전주기' 확장",
+      "source": "포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfLUR1T09MMHZmVVpSUTFxLWd0ek9wam11b3YzR2g4RmMzckJsaTBXZU0xZWgyTE5JZVNTZTMtam1kMkVTN3RmSEFVUm1FakpLWDZraGQxRENybHp1UGFCdlZLamtiZUtZaEVBZjBOc2TSAXRBVV95cUxPczJQRENaLXpLdF9sS2hKTlYwUUtvQUNNalF0ZF83WkJ1c0xjSE02UDdOdE5jZVh2SGpnUWg4WktaOFJQUUVScHY5NUhBdlVnb0ZZYmR5QVUwMklBZWlQcGpuYV84ek1MczRILTF6SmJ5cllJMg?oc=5",
+      "publishedAt": "2026-09-17T08:29:03.000Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "불량 잡던 AI, 이젠 공장 전체 돌린다…산업부, 제조업 AX '전주기' 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "4005d2c6089399d1",
       "title": "반도체 호황 올라탄 에코프로에이치엔",
       "source": "충북인뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbF9NLWdXbFRHdW0tSFNsc1RYSUZPS1VjUm5ua3BEUFVpb0FUS2dLb0FpNGNPbHBKZklBaGQybFhaR3RNQWF1c2hmVExNNndKYUhWbDF4Wm83WlBsazhwVV9OZTd0WThFN3J1TNIBcEFVX3lxTE5xYTUzVmd4VE5Gci1LVFg5QXNpVzhDYXJkSTFPM0djYWZEOXFxYUs0eXZJZlItSUhmdXpOZGtkM0NoY3cwbDRCVzhyRk9qb1BvODJBSFYtYVhLMF9DTHdjYjh6aER0U1ZwVW5fblVSaE4?oc=5",
       "publishedAt": "2026-09-17T06:53:00.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -405,7 +464,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNUUV1S2R0TFpUejlzM1lnR1JhcmdWQ1phNjBWSnVERFNLeW5Idy1xUVR3V2JUMGhReERjS3RmdlBHRF93SmVGbUpmMmZnT3lZeEdfdDZhQ1RRMVJYSDktLThPT2hETy1qbm5IYWRuSi1vd2fSAXdBVV95cUxPWWhaazhOQ3RkZWp1Y2o1N0IxeXhIMHdfVmM3aVBBSmFpYURjYjNtVkVrbXY2alpyNzk5bUJlMnF2WUxxNTRjUWZ1NzdSRTJxc3B1R3dNSjlaTk5HaGpqc05iVkZfSEZHNWhoVElSMGpoZEEtdmJ5QQ?oc=5",
       "publishedAt": "2026-09-17T00:48:35.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -432,7 +491,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3I1OEpNaFFMWEJOeTFLZjNld1pRUkZSeWFmVGxmUGJiOEljallEbDRRMEhLc1hfaFo3ZlZNRDRyX1RHZzZXNEs4QmNfN2xwNFVfZ0NWM3lCLVdWdVBpeVZ5ZDVHRDZwVUx6OFEwS2ZVbVB4Vi1LZGQyTnB6UjdJRkVRbUQ5VkQy?oc=5",
       "publishedAt": "2026-09-16T22:14:46.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -456,10 +515,10 @@
     {
       "id": "ee40e875e92cd19b",
       "title": "최고의 빙고 사이트 : 완벽한 비교 가이드 (2026년 최신판)",
-      "source": "histoire-pour-tous.fr",
+      "source": "Histoire pour tous",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnB6VGluY0t2Mnk1b1FaOElGam1WOWRpSFVCallQWmNzTFdaRlpUN1gtcXVjM09qZk15MG82QmUxeXVSYmN5a20zR2xVdVhZZGcyZEl0TVAzWlBsMTRpRFFLelVyck5kVFVhU002UG5ObGJ5dTlia09JNy1LS0dkTEs5UEtjSzM1ai1WNWRsUUVqRktZcm1zdVEzX3dhenlyNFpSajduWUtGZi1hb3pBQmQ1ZHM4TkRMNGc?oc=5",
       "publishedAt": "2026-09-16T22:07:34.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -486,7 +545,7 @@
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RnJQWHRSZ3NSbmJOSXJKM1dsTjBBODlyRXJkanc5OGF3dlh2SkhoSmdQMWZwQy1teFUyaGY0dC1BeFE4bWVIUXhiZUx5d3FpUEVRNkpjdTFtek5DZEJlbkVfU3JoNXFfUkxz0gFvQVVfeXFMTWZkcGpEdmhDdE5Bd245UnpETDNXaXpGYzZHNG5xOVNUY2hqbWlLeUx0ZVppQmhnTm5HemJzbGlnRC04UGJtcTBlYnhOZ2J6ZWMyaXdfalh2NUVDNWNkTUFGQXl6c3B2c2czczBfcEdv?oc=5",
       "publishedAt": "2026-09-16T07:51:41.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
+      "collectedAt": "2026-09-22T08:05:12.528Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -505,62 +564,6 @@
         "confidence": 0.35,
         "positiveTerms": [],
         "negativeTerms": []
-      }
-    },
-    {
-      "id": "16c26dac359a83f0",
-      "title": "에코프로머티 이규봉 대표, 3.8억 주식 증여",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBodGZIMjN3dGp4cjVTd1NrY01VQlI5RXpsem5pcThXQ1QyNzIyMTM5U3VtUy1TS1Nkd3lWOGtKN2l2WkZYZVlZRzhJMnlXYzlUV1ZldE5zMkZjTWtRc0lHNy1aUVJ4X1lI0gFsQVVfeXFMTnlKaXI2cnpLZ051VlYtT2RUSm9rTkEzM2tCVDA3bHBCUjJWcjY3VVZRSmhkVV9JUkFlRmh2ekRvV2FLTnlBNksweTktSEsxWmxkUTN5WWRiaXVqUXVBQ1RqQW9NUnZFVWpUTC1Q?oc=5",
-      "publishedAt": "2026-09-16T06:51:50.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로머티 이규봉 대표, 3.8억 주식 증여 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "54a181dae6ce3b05",
-      "title": "【리스크 모니터링】에코프로비엠 헝가리 공장, 양산 4개월 만에 생산중단 처분…시정조치 마무리 단계",
-      "source": "임팩트온",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZRXROZHpmR0k3VERFaGhnTzNKbXhpYVh5eDFFazNuVDQ1akRibG1MY214ZlBLNXlxTTBHS3FRU2VndVJMQUU3eFRobEtYaW02WU5GTU9rWUtIbG5xc1NQWjlKVmM3LWxf0gFsQVVfeXFMUDJxejZoNnNFeEM2NXNXdXNCMERLZTY4NVdMTWs5RXc2dk84SC1Ma2dQbjQ0R0R5WXh1RWM1bkVYVTd3SnMtTDd5ZHpmTzcwTFpERmNvMU9QZnBTc0Q5MjBUdThvanM3ek5qUUs2?oc=5",
-      "publishedAt": "2026-09-16T01:46:53.000Z",
-      "collectedAt": "2026-09-22T01:21:45.461Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "【리스크 모니터링】에코프로비엠 헝가리 공장, 양산 4개월 만에 생산중단 처분…시정조치 마무리 단계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.45,
-        "confidence": 0.71,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "생산 차질"
-        ]
       }
     }
   ]
