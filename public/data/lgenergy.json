@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:05:12.528Z",
+  "generatedAt": "2026-09-22T15:17:05.799Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG에너지솔루션, 엔비디아 AI 팩토리 파트너로…국내 배터리사 유일",
-    "엔비디아 손잡은 LG엔솔, 선그로우 노리는 삼성SDI…ESS '연합전'",
-    "LG에너지솔루션, 엔비디아 AI 생태계 진입…BESS 경쟁력 입증"
+    "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략",
+    "LG에너지솔루션, 배터리 R&D에 AI 확대…소재·설계·수명예측 고도화",
+    "LG에너지솔루션, 엔비디아 AI 팩토리 파트너로…국내 배터리사 유일"
   ],
   "articles": [
     {
-      "id": "54a517759f72471f",
+      "id": "a897d008eff73b4b",
+      "title": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5R3V0bUhHT09RR0Q2TzdDQVcyNVpCTkIzREJwRFJrSGpFWUZBbUNTVTZrODBNbkN6RmRZdmJ6d3N2OXFvdjNLSmYyWno0dDVnbFVXSm1EZXFRNXlqMzBQRnVUZ3dfTGpNZ2gwRWUzdHBtQQ?oc=5",
+      "publishedAt": "2026-09-22T08:39:52.000Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AI 데이터센터 ESS 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2b928b7e0a77ab4f",
+      "title": "LG에너지솔루션, 배터리 R&D에 AI 확대…소재·설계·수명예측 고도화",
+      "source": "테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RS0FiRXdmd2hGUWViQnBRM3UwNFpOQjRlLXMtcjdfakdMVWdLbER6QWc5c3Zqdlg1N2l5MUtrMXczY2FUV1JPelk2U2JpdDZSOG9hT1NhamcxSGNGMnlScGtvMjAzdGlx?oc=5",
+      "publishedAt": "2026-09-22T08:00:00.000Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG에너지솔루션, 배터리 R&D에 AI 확대…소재·설계·수명예측 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "18492ab2a964d3d0",
       "title": "LG에너지솔루션, 엔비디아 AI 팩토리 파트너로…국내 배터리사 유일",
       "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIVjJaTDZITEE2WkI4WG5zZ0x2RVp6T1VvNWt6bHloel8zenZWZmhnNTNxTlpFcmNNa01obUZVWkkySlNudVEzQ052c25NazNoVklrdnVvdWlpYVZYY1hHY2ZXUzFLYi1sNGhVNUtrTVJIZm5xWGfSAWZBVV95cUxQYzlqVnY0VVVYcTdHNnVDbzN5NHQtcUx5STZQQ2E5Y18yS2x6WWNVWEZENXNYVlhoeUotQUh3UU4zZXZkV0Jzbm9lbElnYmhwU0o2d20tWlJ3R1pVVVItR0lYRG8wVHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjOWpWdjRVVVhxN0c2dUNvM3k0dC1xTHlJNlBDYTljXzJLbHpZY1VYRkQ1c1hWWGh5Si1BSHdRTjNldmRXQnNub2VsSWdiaHBTSjZ3bS1aUndHWlVVUi1HSVhEbzBUd9IBZkFVX3lxTFBjOWpWdjRVVVhxN0c2dUNvM3k0dC1xTHlJNlBDYTljXzJLbHpZY1VYRkQ1c1hWWGh5Si1BSHdRTjNldmRXQnNub2VsSWdiaHBTSjZ3bS1aUndHWlVVUi1HSVhEbzBUdw?oc=5",
       "publishedAt": "2026-09-22T06:47:24.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -47,7 +106,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HSXJoWlNjbXJ4UWlqWEJjVXFEcDlVQ1M1MnlObDd4R3J2Q0hUcUJJQk1TeE1VMndJQ3Bfdzg5c0JGRHRjZndBeXlUZENRck5OaTJBMDAwdWZ3TndrYkw4Zi1UY0xtd0dL0gFsQVVfeXFMUGFYZnowTEpGa09FOGZpY0FKa0FrQ3dlTWdrcjVYeF9WTU1rRkE5aXU3ZWIzX0JPVVhSTUhrM3E2bmhEN29yVVVtTDhtcm5HcGkzVVQ0YVpKM2ZydTUtYTh5bm9zaVV5MXRDVTBs?oc=5",
       "publishedAt": "2026-09-22T05:42:35.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -79,7 +138,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYblFqSjJXYlh3cTY2c2R0d2paYUhIZ0FUYllyRE55dHM5R3k5dF91eko2eGxEeExpUTNsY2tpcFVXREo0Y2Nib2tiVjR6X0tSYkxaNldmMG84VkhCSWhKOA?oc=5",
       "publishedAt": "2026-09-22T04:45:23.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -103,10 +162,10 @@
     {
       "id": "1bd37dbb02bd6b8e",
       "title": "LG에너지솔루션, 엔비디아 AI 팩토리 생태계 본격 합류",
-      "source": "뉴스와이어",
+      "source": "newswire.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90dHRpU09VXy14T2lFWkFoNU52VEZZZVh6Sk1DdlJMTzl0akNodWhZbUp0bnhqOG5YREJuWDdzLVd3ZVFGU3B3ZkFNdHpya1ZydkZhaVBCeXo4LUdzaVln?oc=5",
       "publishedAt": "2026-09-22T04:42:34.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -128,39 +187,12 @@
       }
     },
     {
-      "id": "ca4a647e0f53a87e",
-      "title": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AIDC ESS 공략",
-      "source": "테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtZmlQMjg0WUd5QWNVdzBfZnZvaWVhT3B3anVMTWZXc2VvbUJ6a2hwSWp0NGdXNlkwcWlIeDZwdzlWTGd5WWJwR01tRW81XzNUR3oyVnJQdUN6Y0RuTUJ5UGtLVmVUNjIy?oc=5",
-      "publishedAt": "2026-09-22T04:30:00.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 엔비디아 ‘DSX 레디’ 합류…AIDC ESS 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "782a3a1c9874c004",
       "title": "LG엔솔, 엔비디아 차세대 AI 동맹 합류…K-배터리 유일",
-      "source": "m-i.kr",
+      "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVjlmbnpHM09LOU1UaUZnbUpKdE1kYTBKLUQ3RzdfeXdXMmRZaEtPUjNUN3JtMFNCd2hTd1hyaXFjYzIta25XNlRrTG5CWDlNTHk3VGtqYlE5aGRaOUFrbmc4VVl6M0dx0gFoQVVfeXFMTWhWOWZuekczT0s5TVRpRmdtSkp0TWRhMEotRDdHN195d1cyZFloS09SM1Q3cm0wU0J3aFN3WHJpcWNjMi1rblc2VGtMbkJYOU1MeTdUa2piUTloZFo5QWtuZzhVWXozR3E?oc=5",
       "publishedAt": "2026-09-22T02:44:04.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -187,39 +219,12 @@
       }
     },
     {
-      "id": "f0494e1b34b9aa67",
-      "title": "LG에너지솔루션, 엔비디아 'DSX 레디'에 BESS 기업으로 선정",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84U0JMOFhpS1ZwQnNmaFJsY054TGc0dm9mNnZGemxqOE9kTWxrVVVxaTFBN3hjSlAxZmpad2czSlFyYUdXVmIwUnJPYU0wUQ?oc=5",
-      "publishedAt": "2026-09-22T01:18:22.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 엔비디아 'DSX 레디'에 BESS 기업으로 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "96732c3e5753603b",
       "title": "LG에너지솔루션, 차세대 배터리 기술 개발 박차",
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUzJkdFhGR0Q0U2N6S0paaUNzc1dUX19nMkdseEg1cnhxbEQ4Tm5vSXNISlJJdDk1d2NMUDRrSjZFLVdwNUVzd2R0Nm9CWUMwUW5xbjJGWl94V3B2Q3BCOA?oc=5",
       "publishedAt": "2026-09-22T00:38:19.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -246,7 +251,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KR0dLSlBPZldzbEVaUFE2bmR1VVBTLTVNUmZtbGNaeE5XUzZWeWduM29RUVhGRnltR0ZOdjdfQnprMUp3ZGtnanp3M0tNdXkwcEpFMWZQQmE3WkJJNE00am5GNHU4ajdselRhYm8xRU1pTmZJ?oc=5",
       "publishedAt": "2026-09-22T00:18:50.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -273,7 +278,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1weUFDZkhYOF90VFM3U2hnUEtzN2pqczlkWVJFUm83ejNxQmlKbzhqbUd4T3VBTlZTc1E5dGFWNlF1cXdoY0FCeGNnY3YtVXpubF80QkdhX1N1V3p4LTFn0gFfQVVfeXFMTXB5QUNmSFg4X3RUUzdTaGdQS3M3ampzOWRZUkVSbzd6M3FCaUpvOGptR3hPdUFOVlNzUTl0YVY2UXVxd2hjQUJ4Y2djdi1Vem5sXzRCR2FfU3VXengtMWc?oc=5",
       "publishedAt": "2026-09-22T00:10:00.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -300,7 +305,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwS0NLTi1wYms0a05iQ2lRYWhiejVPUTY3N01kTzFWcmlxNVVDQ0RaZTZtTEJSUEJNUGdtYV9jUmEyd092WlZhLUtkNjVJa2tjbUc2OERB?oc=5",
       "publishedAt": "2026-09-21T23:33:46.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -326,8 +331,8 @@
       "title": "LG에너지솔루션 함솔이 봉사단, 어둠을 밝히다",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZWpZVjZSVEs0Z1B1MmZYcmtPZl95dXhSQ21LZ3ViMkxVZE9RRGRBTGZRS0ladXNhTDdlY3R6SEZwRmNadlF5UFBxN2N2dVk?oc=5",
-      "publishedAt": "2026-09-21T11:07:22.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "publishedAt": "2026-09-21T11:07:00.000Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -354,7 +359,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pamJSTWQ1R1NLVllNcnp5aFlnaGR4R1F3a1c4T0tEN3pOMTJzLUVFbkprR3hMcWJvM1NYQ18xVDFSOXdPWG9JSU1RZTJETmhLajFucXpB?oc=5",
       "publishedAt": "2026-09-21T07:40:15.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -378,10 +383,10 @@
     {
       "id": "cabaae52ffb57923",
       "title": "[이슈] 소재 개발부터 수명 예측까지…LG엔솔, 中 배터리 기술 추격에 'AI 전환' 속도",
-      "source": "팍스경제TV",
+      "source": "paxetv.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9teldhbkV1dE42QnotcFpQbEZCMzdZZXNRb1VkcnhHY2JHalpiby1ZMEJpcThvWlVTSmVHUlhpaTF1VmJ3VTZMbjRqUFFWSWNmNDZoQ1lRWnIwdkgzbEM4S18yRXlGcl9K?oc=5",
       "publishedAt": "2026-09-21T07:29:54.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -403,12 +408,12 @@
       }
     },
     {
-      "id": "5d7363029828b09b",
-      "title": "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbGR6dmdXVVMwVXhTOVIwY1J1aXdqWDR5XzhBSTdZNUV0b0VtY1RGOTdjMEc5Vlh3Wk9XQVc1VmgwMG5LSjNzNUpqb20yeFBkYUlzMUhnaHVNazNjSWJfNUdQY3NicE0?oc=5",
-      "publishedAt": "2026-09-21T03:13:04.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "id": "1a17f699d9ae00fa",
+      "title": "[배터리코리아 2026] LG엔솔 \"배터리 셀 개발 단계부터 AI 적극 활용\"",
+      "source": "파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WnRHZTNScnJjNXk4YUNwODdiN0J0akNTcXc5bG15ZHE3U0liVWhHVjljdzlfeDc5SEw0bThlNGFScC1wWGV5RlRwMXJFc0tnZTBfM2xqc09od2FNcW1BU2dSV0g5ci1KWnp0Z05PN2swM0VO?oc=5",
+      "publishedAt": "2026-09-21T07:10:24.000Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -422,6 +427,33 @@
           "id": "lgchem",
           "name": "LG화학",
           "ticker": "051910"
+        }
+      ],
+      "summary": "[배터리코리아 2026] LG엔솔 \"배터리 셀 개발 단계부터 AI 적극 활용\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5d7363029828b09b",
+      "title": "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색",
+      "source": "녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbGR6dmdXVVMwVXhTOVIwY1J1aXdqWDR5XzhBSTdZNUV0b0VtY1RGOTdjMEc5Vlh3Wk9XQVc1VmgwMG5LSjNzNUpqb20yeFBkYUlzMUhnaHVNazNjSWJfNUdQY3NicE0?oc=5",
+      "publishedAt": "2026-09-21T03:13:04.000Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
         }
       ],
       "summary": "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -440,7 +472,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83SldKME1VUGJTNC03MEQ3enNmWW43REVGLV8tX2pSWUpYTXJneDdEMTVNRldydXp2ZkZpX1d6bVE2RUF0cEY5clg1eGI1UER2MmVYRzVfWm01dldTUi1nQ0hwVE9paWtIajNoZWtTeGZXMHdKbl8wdUpwY9IBgAFBVV95cUxNRnNqX19Tb3oyN1d3SUNsOWxBcTB4SGtEM2c5ZXAxUVl3enRtSk5xMWVmYl9MRm15OENMTE1jYWF5N1k1M0Etd0twbkpBQzlsTmZBdVNoUkVwX0hYcWdES09ZTFJKRXBSRi1Ca2l2Zkg0V2VMTXcyajk2Vk9oNjhkTw?oc=5",
       "publishedAt": "2026-09-21T03:00:56.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -472,7 +504,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXRWpBTTZGMjI3Z2MzQ2pDcWNuNVZxMjRqYmttWU92WGxWa0w1c2NhRE9wMzhvbkRXck1INHJkMkZ5aDdUODJNc0VPVG5fc0xrOE9RVA?oc=5",
       "publishedAt": "2026-09-21T01:03:04.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -499,7 +531,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1JQWnNma3NfbndxQVNQeXFaOFREa19PdzBOTENNRndULWd1ZWE1dXpBVXh0ZFhzSW1RTDNlQ2VzWGl3NzhIVkxxdWcxUm5YSHZFSW40SlBVYzIxVjcwVWdQdVN6YW5oUl8xcGQ2eG5nZE56Z2NuUDJtSTdTenlqSy1ZZ05EMWpUZzNReURpWXQ5U0Etd2tB?oc=5",
       "publishedAt": "2026-09-18T15:36:00.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -526,7 +558,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGUDN2YU5mdWpPSkVHdmRGOW9rXzY1VkxWTW1fYjU2bC14VGxuVDBXYzh4Q21hVkkwbS01cUE2TWFUa3RmOGhBMG1MMlZzTUtYVDRlODRWb2ZaVHZVeDZSeDVlNzZnbmFVRFF0alZ3NUVvS0nSAXdBVV95cUxOT01rVWVWcVZQV01NdGlWaGwzVm92NjBMaUI5TzNwVFFDQmpWa3dzakRGYXVPUGF1T1IxVk5UWG50OVFiaDEyT0lqekdIMTM5LWFkRHFxNlVXa1hzeWstZk4ySmlucWc5SlFxYlhWbURjTWRabTA5TQ?oc=5",
       "publishedAt": "2026-09-17T09:16:50.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
+      "collectedAt": "2026-09-22T15:17:05.799Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -544,35 +576,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9cb95427d84d1522",
-      "title": "\"텃밭서 일군 반등\"… LG엔솔, 8월 中 배터리 탑재량 2배 급증·점유율 2.03% 기록",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE41Z0tJZ0F3NEZic3NSQmdKUE1lZXhERE9EZWg5cHk5bzM3cjVvNk9ReGFuaTNUcnVkQXJiNHROc2FvVWdSUnExbGp5ckFjX1BqaUoxY0J2NVZjWkJ4V1NZVU9jUlh0cWxkTlh1cUNVZjgxbW5odnBncjZVQUpWaEhFT2RyNmZz?oc=5",
-      "publishedAt": "2026-09-16T10:07:18.000Z",
-      "collectedAt": "2026-09-22T08:05:12.528Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "\"텃밭서 일군 반등\"… LG엔솔, 8월 中 배터리 탑재량 2배 급증·점유율 2.03% 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
         "negativeTerms": []
       }
     }
