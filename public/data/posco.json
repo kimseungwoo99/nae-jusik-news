@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:04:55.868Z",
+  "generatedAt": "2026-09-23T08:07:30.476Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,18 @@
   },
   "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "고려아연·KT&G 등 7개사 106분기 연속흑자 ‘대기록’…LG엔솔은 20분기 연속적자…",
-    "엔포러스, 제철소 스팀으로 수소 만든다…포스코홀딩스·RIST와 20kW 고온수전해 실증",
-    "포스코홀딩스·RIST, 엔포러스와 아시아 최초 제철소 고온수전해 실증 착수"
+    "POSCO홀딩스 31만원선 약세…장중 저가 30만9500원",
+    "포스코홀딩스까지 겨눈 브라질 파산 심리…약 2700억원 대여금 행방은",
+    "포스코홀딩스, 미래는 리튬·현금은 가스…해외 자원사업 '다변화'[NW리포트]"
   ],
   "articles": [
     {
-      "id": "57bef325891fea19",
-      "title": "고려아연·KT&G 등 7개사 106분기 연속흑자 ‘대기록’…LG엔솔은 20분기 연속적자 ‘오명’",
-      "source": "CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51WHgtQzJxRXhub2gxckd1ak5nYUZoTXFsYkstQm9CUkdVVEVZNC14SURWTkxRSXZTd1pDdUNmb0NneVpkeFJBYlVYNFdjdVRVNFRyZUw0X0tPeGVpT19SQ2p4TGFyNXc5?oc=5",
-      "publishedAt": "2026-09-22T22:00:00.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "id": "39d74542546af118",
+      "title": "POSCO홀딩스 31만원선 약세…장중 저가 30만9500원",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaR1ZiNXM1eDJ4M1ZQZ1BxVDhYMDR0MnBlc2lOVXJzclhXZDl0RWZnYkU5eWp4Ulp4ZGZnemFaNkZLYk9fYlNDN0VTbEtzZDUxWTZtSEY4alBEb05vbmEzRnQ1SlZnZG56UmVCY2tCOWkyUdIBckFVX3lxTFBaR1ZiNXM1eDJ4M1ZQZ1BxVDhYMDR0MnBlc2lOVXJzclhXZDl0RWZnYkU5eWp4Ulp4ZGZnemFaNkZLYk9fYlNDN0VTbEtzZDUxWTZtSEY4alBEb05vbmEzRnQ1SlZnZG56UmVCY2tCOWkyUQ?oc=5",
+      "publishedAt": "2026-09-23T05:04:27.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -31,7 +31,36 @@
           "ticker": "005490"
         }
       ],
-      "summary": "고려아연·KT&G 등 7개사 106분기 연속흑자 ‘대기록’…LG엔솔은 20분기 연속적자 ‘오명’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "POSCO홀딩스 31만원선 약세…장중 저가 30만9500원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "약세"
+        ]
+      }
+    },
+    {
+      "id": "5439e8a17bb0894d",
+      "title": "포스코홀딩스까지 겨눈 브라질 파산 심리…약 2700억원 대여금 행방은",
+      "source": "리드경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10SUdxcnp4djluVTJ0WDNDaXpLdTY4c2RyRXl4MVZObmFnRzg0QWJ0LVdpcW9yZ0ZZMF9ub1BNTmh2S1dDRUxrd2laVDRlbjZKd2hGelRxdF9zUnNnNjVmaHVXc3BRMmllZ0k5Z1VCUQ?oc=5",
+      "publishedAt": "2026-09-23T00:30:05.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "포스코홀딩스까지 겨눈 브라질 파산 심리…약 2700억원 대여금 행방은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -42,12 +71,68 @@
       }
     },
     {
+      "id": "d7ccd198d996c59f",
+      "title": "포스코홀딩스, 미래는 리튬·현금은 가스…해외 자원사업 '다변화'[NW리포트]",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vVXdZazlnTktidFFqQWxNdnF5U2k2Z3RvemU4YlB4anh5WV9HUkVKLTRNa0hORDNyUVJDS0xVZExVNFBLV3c?oc=5",
+      "publishedAt": "2026-09-23T00:19:08.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "포스코홀딩스, 미래는 리튬·현금은 가스…해외 자원사업 '다변화'[NW리포트] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "246079dca0d29118",
+      "title": "POSCO홀딩스 31만6000원 약보합…리튬 흑자 전환 뒤 숨 고르기",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUlpHcHRxVWJQTUV4a0ZGVDR5ZEs3SzBoRHNuM01Lbzd0MWNicnh6dHRNY3R5ejN6c2pyMEtkeDVINDdUYld5YXVqS2pPUmxodzcwSm4zZW9qU0JFaGM0elhWRmVmSVI2V3ZRbmx30gFyQVVfeXFMTUFkRk5ZNnZTeGpNckdYdnRsQ3lYUms2bXNqTW9oM3MxakxjUWdVQnVQSlI3bmVBN2hpSEFhYUVUWlA3eG1uSzExRW9ZeGt4cW9jM3lveXlubnpKU1NINzBBclE0OFJCd0IzSlVFengzdGdB?oc=5",
+      "publishedAt": "2026-09-22T06:05:25.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "POSCO홀딩스 31만6000원 약보합…리튬 흑자 전환 뒤 숨 고르기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "흑자 전환"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7285e5a996b63107",
       "title": "엔포러스, 제철소 스팀으로 수소 만든다…포스코홀딩스·RIST와 20kW 고온수전해 실증",
       "source": "벤처스퀘어",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OUVRXYWNkUmgzcUo3azlRNnlYenJPMkhJbGNHWXp2LXItb2pSamtMVEJzakpyUDlhanlqc3R0aW9qREUxVkdmM1BmRUlsT0k?oc=5",
       "publishedAt": "2026-09-22T03:46:32.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -71,10 +156,10 @@
     {
       "id": "90183dd7495e32ab",
       "title": "포스코홀딩스·RIST, 엔포러스와 아시아 최초 제철소 고온수전해 실증 착수",
-      "source": "스타트업엔(StartupN)",
+      "source": "startupn.kr",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWFNiU1hfeXZHejBIQVktcWllWm9EVjhfTE8xWWRBb2hOOUotZ18yZ0hvUGNwd2xCcDdxa18yVlVRem12VEhPLUdWX1I0OE1ELWhlYzcydkI2eG1hUlRheTg3ZDJMTEhLcm1mZtIBbEFVX3lxTE5VWFNiU1hfeXZHejBIQVktcWllWm9EVjhfTE8xWWRBb2hOOUotZ18yZ0hvUGNwd2xCcDdxa18yVlVRem12VEhPLUdWX1I0OE1ELWhlYzcydkI2eG1hUlRheTg3ZDJMTEhLcm1mZg?oc=5",
       "publishedAt": "2026-09-22T03:35:10.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -101,7 +186,7 @@
       "source": "산경투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DbHNpbV95VjdYY3ByQWc2Z3pZYmMyNS1LRGE1MXZkNGUtbXI1VmUwQnU2YVNlbkdaRkVaUGR1aWtxbkNfRmdvMlY5eXdrbUN1aGhtZjJkTnBGOXJMYmFFN1FXY2RqbnhhMUV0dlZLRlTSAXRBVV95cUxNRUdUakYtVndhRmNXVE5nYkRQMmVKNTZ1UVJsbnBKSXlmaFE5Q1Z3NEVnemF0U1BZdkRFNWZtZDNHVnlIaWh4TVRjeUxXbHBtVjkwZk52NjYwOTJKeW5SZ3c5MmVmamZoZHhPOEl3ZXZpM1BJbw?oc=5",
       "publishedAt": "2026-09-22T03:15:25.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -128,7 +213,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NT1JVZXlxT0FoZ2xSMlJvb2p2N19LN016eERIRV93U0l5RXM0OW5sSHBMV3JER0Ryd3ZZRFNmRnRFSzdoVHdJWEhRbTRELUVUd0pldDR4YTNrQTRIQ1huZlJwb23SAWhBVV95cUxQQ3VyNTllY0FZdVVNUDFHemJaWGpUM1VueC1tWlpHQi1fNGY4dlljdm9zb043SHhxSlJBYXBQcFMyMnR2eHZCTnBJRUZ6aFpLX2dna05meWtyMkpVekF6QzVucDAxOGtYVg?oc=5",
       "publishedAt": "2026-09-21T23:44:33.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -155,7 +240,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLT2E1M2MxOUhGUGh0Z1pMTWd4UzI2UW95TnFVdklRNENVeGFkdVlDMHdJQ29fZVJUNkNmQXhsaFBvT1VzRk5Qd0VpR1NsTGU1ZzUteTRpRXp6dw?oc=5",
       "publishedAt": "2026-09-21T22:37:00.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -177,39 +262,12 @@
       }
     },
     {
-      "id": "d6de6d40496a1e6c",
-      "title": "CEO추천위 둔 대기업 이사회 3.1% 그쳐…2년전보다 2곳 감소",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aYkwwdzJ1NlZnYVB5NjZmd0dFZkdFaHhsdjRqaVdzMGFBTDkyNXZpWDE4VFJLdGtVNmRjN213TTVqVm44ZndsZTVxVDJUTDQ0SU5ORFRuNnhocnpNYmRLTdIBYEFVX3lxTE1aYkwwdzJ1NlZnYVB5NjZmd0dFZkdFaHhsdjRqaVdzMGFBTDkyNXZpWDE4VFJLdGtVNmRjN213TTVqVm44ZndsZTVxVDJUTDQ0SU5ORFRuNnhocnpNYmRLTQ?oc=5",
-      "publishedAt": "2026-09-21T21:07:01.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "CEO추천위 둔 대기업 이사회 3.1% 그쳐…2년전보다 2곳 감소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e679ecc2e8f381ef",
       "title": "CEO후보추천위 설치·운영…50대 그룹 중 '포스코홀딩스' 유일",
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KVGZTUWxlWkJVSkktZzdHc1Y5QkRBM2RMb1NqN09lVVhyZkZkNlNkNW1qTGpLcm9qRWdXT1M2NFpEVUtkTlQ0dDRLMG45cEVRWUxydHNMV2Y3NnYxNzhRaWs0aHXSAWpBVV95cUxOQUpheEFUaDhlM0lHRWZBeGctWGc2blJUUk9IYXVnZkM1OEtzOWROdDhGSVktZWxQekxkeU5LWEN4Wlp1ZzVkcEZiQi1ITFppenA0dzdBekptZVR6QnJkZWh1RXRxdWd1SER3?oc=5",
       "publishedAt": "2026-09-21T21:00:00.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -231,12 +289,39 @@
       }
     },
     {
+      "id": "e9da9a285e6a1539",
+      "title": "POSCO홀딩스(005490)",
+      "source": "매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0FPeHFzaWxOcTl5TV80TnJkOHQzUlFOcmw3OTFSUENmYnpzZE43RlVrQW5wc1BtQTBvbzRVX3g4VEx2S2VWZEV1OXlRVFE3cUNnRGEybVJJTTNkcmV1dHVPUUF0MmNUM25nUEIyTXByZ09ZSU5MbVlhVVd1TXlCNEJ5d084N0I5cnIzWjNVU3BRMjU5Yno0?oc=5",
+      "publishedAt": "2026-09-21T15:14:00.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "POSCO홀딩스(005490) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "915960a6641fca51",
       "title": "POSCO홀딩스 1.70% 하락…2분기 이익 개선과 리튬 흑자 전환",
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jXzE1NWRCZmt4Y3NXWGpmd243TjhBb0V4WVJiQmJTOWs5ZUtoZE1ZRlBiVU9yUGFiX2VvWEtadXV0RG1FOUJNUGVGN3FvYnhTcDROakdFUmFNQnI1M283cmp0U0VESnhhcUhWWmg3MlVfZ9IBckFVX3lxTE9jXzE1NWRCZmt4Y3NXWGpmd243TjhBb0V4WVJiQmJTOWs5ZUtoZE1ZRlBiVU9yUGFiX2VvWEtadXV0RG1FOUJNUGVGN3FvYnhTcDROakdFUmFNQnI1M283cmp0U0VESnhhcUhWWmg3MlVfZw?oc=5",
       "publishedAt": "2026-09-21T05:52:30.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -265,7 +350,7 @@
       "source": "press9.kr",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NMnliVUxWZUtpZllqMzlqQ3BuaElZWTFoZ1UyWmoxc052a1Z1R1YtTVQ5ZGtmd3FRaFRUVGNLSll5WnlIMU1FZk5tWWZ2bVRKN0ZkdFdTd1lyM0J0TnVlbjkxQW5ldw?oc=5",
       "publishedAt": "2026-09-21T03:28:54.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -292,7 +377,7 @@
       "source": "페로타임즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UNFhqZ3VLcnhGSldtRnh3YVdSVWxqVVdsSXdLQzF5UHA3dTZFTXpnZG9UQzlqWXRGbTdBbm54aVlTRjFMSi1WejRKdV9NVTZaalNEZHVwMFIxZnFYVEhhYXROSXA4ZUV3YkpQRg?oc=5",
       "publishedAt": "2026-09-21T03:07:07.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -314,39 +399,12 @@
       }
     },
     {
-      "id": "7a6ba53a8777f85d",
-      "title": "포스코홀딩스, 美 SEC에 'Form SD' 공시 제출",
-      "source": "파이낸스투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yOGYtdXY4LXFvRy0wcEdRcTcyWnBIVlJPaXV0MmRsbzRHU0hCdVRWaVNja1pvTUQzcmNSTE9oUTkwa2F6aTFoWlUxXzUtWDFPU0hLUmdfX1puNXN6LUhoQkJ6U3ptVEk4NURPVA?oc=5",
-      "publishedAt": "2026-09-21T02:02:03.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코홀딩스, 美 SEC에 'Form SD' 공시 제출 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cd75a9ba384bdd4a",
       "title": "POSCO홀딩스(포스코홀딩스), 美 SEC에 자원개발 정부 지급내역 공시…4개 프로젝트 대상",
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnQnoxY0xIVGR3aDdwQkMySFVhVFMxWTZPUzBWd3RJMk96cVdXQVRyWWg4ZlE4OE5DRE9qTnZOanVrbDBXN0g5ZjVSakxScVp5eU1yNUhkZkF4aGE1YVFTTWR3N2FaclVQ?oc=5",
       "publishedAt": "2026-09-21T01:35:18.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -373,7 +431,7 @@
       "source": "재경일보",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wM2w1bFV2Xy1ZUFFuNDlBWE9IRzhyakhWVFZSMi1pWkhvRWU4M3g3VWlWNFN6bU4wbU5sSWhvUHJNQkZUejJzSFVR?oc=5",
       "publishedAt": "2026-09-21T01:34:00.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -397,12 +455,12 @@
       }
     },
     {
-      "id": "7b3b097cf3127e4f",
+      "id": "c001addf605af015",
       "title": "[특징주] POSCO홀딩스(005490), 철강 버티고 리튬 날고…부활 신호탄",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QT2djYURnb09NT053ajJLV2J6MnpESERfWkl6Zk9QLWVudDF0Q3NyMjRRQnptZ3VlUm9uakY1M2hqNzdCNVhzR1FzXzl0ZTQ?oc=5",
-      "publishedAt": "2026-09-20T08:20:06.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzb0Y2V1BGQ3dMWTQ1R1Z4UlloWnE4RGNNSWU3aTE0clV3THlQd3hmLUo0cmdKT0RJYmFoaVMtTUJWQ1I3TFlOUTY0QW1BMFNMNFprMw?oc=5",
+      "publishedAt": "2026-09-20T08:20:00.000Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -424,39 +482,12 @@
       }
     },
     {
-      "id": "d8bdf1f336512fd8",
-      "title": "POSCO홀딩스(005490)",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbC1uN0dha01kNG1KNHpQUVJIS2pxLW9LTnV1Zy03Q0hDSi1Cb0xZdVQ5bjExVVIzTE9zSl82a2llekdRNmFCQ1ZuNHlnNVpoWGc0Nk9FMmlDazJFVm9RUm10ZDRGeWFIbUw3aDZKenVFYTdhT1l6a3dVa0xsOWdVSU4wQkxkMGRJTkl4MG5xZnJza3g0b1o4?oc=5",
-      "publishedAt": "2026-09-19T20:19:44.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "POSCO홀딩스(005490) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8e15b71bf4dfc01a",
       "title": "[단독] 브라질 파산법원, 포스코홀딩스도 피고로 추가…검찰은 '증언 포기 대가 3억원대 제안' 수사 검토 요청",
       "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNSTlTcjg4TVM2RTR2eG9EcmJnclNfSDJ2TVhwY3BkeW1abHFId0E2M21GclpOa0U3WnhXamVtek5ZQVNkQUh5VlZ1ZFltWktaem1GWGxFZFlrcTFGamVuRGlIRkl3T1VHNlIxU1pxZFhVVC1YZ19hc05oRk4xZU5TcUxEX2lsbXpzbDNkTGxuLV9WRllRaU52VEF3bFpjTy1LUUpJWVVBc1FiVmtYakVTWjlJcFk5YkFkdDJYYS1XV0phMXFzZE1sUkFkU2VfUkdJTC16aWdydmh4NmZGRWpvV1FlMjQybk5FNkpGX3Q1NURnNkI0YVRNN0ZrMXBmWHFzeE82bHJlQ2dDNUs0LXlZcVQ3N2ktenZsaVRlR0w1X1phanI5S1VsZ0xCN0JoQjlMRzZISk9WTE9PX0dHTEE?oc=5",
       "publishedAt": "2026-09-19T08:51:02.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -482,10 +513,10 @@
     {
       "id": "9138c8bbccd93d3d",
       "title": "터치 조작과 마우스 조작의 차이, 마스터 듀얼 덱 레시피 사이트",
-      "source": "calgaryroughnecks.com",
+      "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNelJvZkxyZ2h5elV1akdoMnY0VEdIR0RxZHZkSDFfdVFFN1JJMnpKN3J4Mk5pNWNsbWhkYktUbEZGczMwb3c0YzVEQVI3NF81aUh0TWx6X3lQOHEwTWo5Nkh2bG8wYUhVX18yV0tDR3J3c0NWY1NDM09kQTN3TDhURXFtZnFMcThzSjdKREczV0VFTEtZUlRkY09XWHNpZXVRbVhYektn?oc=5",
       "publishedAt": "2026-09-19T06:39:44.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -512,7 +543,7 @@
       "source": "Histoire pour tous",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTNzR3JWYTlkVU5SOGdxWW8zN1MwZEF0UnBrUUVYRURPWE5mT1pxR190VDhSbm1ERk1DT29ZZWppdnBKbGU1VU42THcxUERBS1NoYlBGS1BIek1WSVQ1TTFjVUpMVE1pQldfb0d1OC1sRWVUVWFiMWdXdldxOWJ6MDY4aGFHRUhVd2hlb09WSXRyWkt1YllmdGJqVkFvQ0FLTFB1LTFVUVllb0g5SUNXZGZZZ2RzV1JB?oc=5",
       "publishedAt": "2026-09-18T20:11:21.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "collectedAt": "2026-09-23T08:07:30.476Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -524,33 +555,6 @@
         }
       ],
       "summary": "잔액과 이번 결과를 나눠 보는 백금 슬롯 화면 정보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "73c1e758d1e45d1e",
-      "title": "포스코 파업 확대되는데… 장인화 회장 송도서 포럼",
-      "source": "부산일보",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVDIxY2pRZ1NvWXBmNDg2Q2VQcGRIOEtvQmdnUk5Pc0xEVXFOYWlELUpLT2VRaDNLRUZWeFBzX1Y4eUtrUS12a0pXU3ZRYk1uN3Fwc1ZQTHhXX0lJX0lOQzFnUHV5YzR6Uy16cVJNZHFhdnZvcVRDY1hvaGZPNHdZNnFCM3YxblZVejBGekRraE14VEVZVHZfNTIzSGhoWExmcWktY2VnZUZ4YW5uMW04aGlEOTYzOUNFcHhNTzZrWVp4dF9DeG9ZT2pNRkFYNWRCamM4bWxLRUFKdw?oc=5",
-      "publishedAt": "2026-09-17T08:21:12.000Z",
-      "collectedAt": "2026-09-23T01:04:55.868Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코 파업 확대되는데… 장인화 회장 송도서 포럼 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
