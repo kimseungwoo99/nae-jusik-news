@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:07:30.476Z",
+  "generatedAt": "2026-09-23T15:14:16.766Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
-    "SK하이닉스(000660)",
-    "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다"
+    "1인당 최소 '7억원' 날렸다?…SK하닉 신입 4명, 연수 중 짐 싼 이유",
+    "SK하이닉스(000660)"
   ],
   "articles": [
     {
@@ -20,16 +20,11 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxNkFTZ2k2Z0d1QkJCdFVkSGx1dW9UcVR0bG9DbDN1OS0tTHhrcG5kN0dwVXNmdm8tS3NCV3pBcG5wVHZMTjRuaE1ZVzNKWVVOZFdPUlVMUQ?oc=5",
       "publishedAt": "2026-09-23T00:34:44.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
       "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
         {
           "id": "skhynix",
           "name": "SK하이닉스",
@@ -47,12 +42,39 @@
       }
     },
     {
-      "id": "bd16de0d6a9eb768",
+      "id": "7e6869e19571cda5",
+      "title": "1인당 최소 '7억원' 날렸다?…SK하닉 신입 4명, 연수 중 짐 싼 이유",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cFZ0OUdQRmFzdGRvOGxscjNPQTBBREFXM1hzaW43SEdXUzZrWWd2cUZWVUFCMExGam1lSlA1b0E0R0VGNFlyc1JkU1lrMEk?oc=5",
+      "publishedAt": "2026-09-22T22:24:00.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "1인당 최소 '7억원' 날렸다?…SK하닉 신입 4명, 연수 중 짐 싼 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5663d4ead0d03a40",
       "title": "SK하이닉스(000660)",
       "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3p3MVhCNlBiWmdJQUx4dmxFQ19waTY2c0RsRFEySEF4M25kcWJEMXdLeF9QTHNYV2p2NkhwVkFEUjBMMGduajhFQVNwNDQtVEZpSDR5d1pQaWdTeHFocFF6ZTJPUndtR011RzQ5SkptQ1BVVTZXTFNhVWVyRnNBWTZGT3BZd0ZIYmNEUlpCc2lTWnN6MV9abQ?oc=5",
-      "publishedAt": "2026-09-22T15:29:37.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkpxRDdzc1ZUVlVSdmdVM09RckdvSTVPZHhGbVV2OU1jbGVBNmNfOGotWTRlbGNyMUtxcjZPSnBmNjdYX2lwdU1vQnFFc3JDZ0NyY2lBZU9ENU5TNEl3ci1MSFlzTlg3WWpkeFdRZmNxanM1Zzh0U2xmNmh0X014VTVBMjZyeXA5S0tZR2k4Y2taUDJOTW1j?oc=5",
+      "publishedAt": "2026-09-22T15:29:55.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -74,39 +96,12 @@
       }
     },
     {
-      "id": "84a98d58adee508e",
-      "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10aWFReURrM0R5SUx0NExYOFRLZ0U5ek9hQXNKODVJYkJ3X0JPeVJ2bkY3LXA0a1F3N0VHTS1GdGdCRVB0UlpOOGEzUlVxcFNBdTN1VUtyNGtNdw?oc=5",
-      "publishedAt": "2026-09-22T10:12:19.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "459846529ef337db",
       "title": "[DM왔어요] \"술 때문에 SK하이닉스를\"…신입사원 해고, 무슨 일? 外",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZkpBc0RCVmZxQVhYSURhbFA0MnliUFFoNWxfN3Z3cTcxZzU4Sm1kYmx5TFlqUHVuelhLdFVuMHdpWHl6clhkNWV4a0dsejRqY2JPT2NSYTcyZWduZDNEOHM0YnllMEU?oc=5",
       "publishedAt": "2026-09-22T09:48:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -135,7 +130,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90XzBTZUt1cnJWNVVXM2RrQ3UwRlJ3bklwZVdNR3FDTjhmX0NYRGptdEZ2cUVJRkY1cWJNeGtYM0NLc0pUT0tlWl9vaktpUFd5RzBxZFlfSXh6RHBmQmh0VFVoQ0RCMnVZcWNUeDdQdF9aZ1F1NG9V?oc=5",
       "publishedAt": "2026-09-22T08:18:36.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -159,41 +154,12 @@
       }
     },
     {
-      "id": "b4c0308691432ab7",
-      "title": "술 때문에 ‘꿈의 직장’ 날렸다…SK하닉 신입 4명 해고된 사연",
-      "source": "중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90R0RNRzZPWExUVmFRQ3l0MGRCd1ROOC1YenBJYlRDN3RDb2haN2NxUFRUVVFDbVZ2bVJxSkFHckN2SGZTUDJBWDJ3ZmR3bkNmeWxDaThR?oc=5",
-      "publishedAt": "2026-09-22T07:47:52.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "술 때문에 ‘꿈의 직장’ 날렸다…SK하닉 신입 4명 해고된 사연 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.4,
-        "confidence": 0.68,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "고용 문제"
-        ]
-      }
-    },
-    {
       "id": "78cb89a589a212b1",
       "title": "SK하이닉스, HBM 다음은 ‘AI 추론’…HBF·PIM으로 메모리 영역 넓힌다",
       "source": "Korea IT Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdGxscmZqeWgzcGw0UEJGd0tlNU5WZklCNXJSTlo0Xy02NHRCM2U0Wl8yT182TWtYRTBDX1Y2WXhZSVR2TXJQRENiZG9UMk40NVd5dkpyVTNCYURoZXMzanhlNFIwSnBuRmhIVk54SDM?oc=5",
       "publishedAt": "2026-09-22T03:32:46.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -215,12 +181,39 @@
       }
     },
     {
+      "id": "bc7ff846b64fd622",
+      "title": "SK하이닉스, HBM 넘어 차세대 AI 메모리로…글로벌 생산·R&D 기반 확대",
+      "source": "Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GVmQ5TGQzZkEzMzlKQWF1WU5Mc09wQkg2T041Y1FfSEJlUkM3enRCNjROMmsxdmZwdE1abjFqVE5GNVNENEhVUkJzT0FFSjNta3VpVUd4RHBROXVkRmdPdzdCbnp3NGpEZ19ZYU1za3I?oc=5",
+      "publishedAt": "2026-09-22T02:49:46.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBM 넘어 차세대 AI 메모리로…글로벌 생산·R&D 기반 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "02e011d69a391dc9",
       "title": "SK하이닉스 ADR, 美 반도체지수 조기편입…개미 '최애' SOXL에도 담겼다",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tanVmMWxzWkg0dnluTW9hVkhrQWpNcjl0M1VmbS1EME5pYVhOcE5ib2dMb1gtajB5dy1JZjJ6VE00ZVVrZ3JRQTFqbmRDeVJmNXpwWlpvTGNmQjgyc0s1eXdCQnQ1YnNUamlUSXBYZEE?oc=5",
       "publishedAt": "2026-09-22T02:20:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -247,7 +240,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNWdZSFpHcHE2V0lCaWhTRE15VnAyZFBwUWJoenN6ZlJLRnNDaUJnQWU0cndMT2pIb00wSFFYamhBamxQX3ZiSHJUODlKaEIzQ1QyUXpzYWRvVnVIQy0xMFdVVEVQeHM?oc=5",
       "publishedAt": "2026-09-22T01:02:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -273,19 +266,14 @@
     {
       "id": "6eb89733a652f57d",
       "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
       "publishedAt": "2026-09-21T21:06:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
       "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
         {
           "id": "skhynix",
           "name": "SK하이닉스",
@@ -303,12 +291,68 @@
       }
     },
     {
+      "id": "689777c5797d6822",
+      "title": "\"성과급도 못 받고\"..SK하이닉스서 해고된 신입, 무슨 일?",
+      "source": "edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3ZkVWRPVGI5WXhiclBrVXBJWXBOU1ZDd3kza2FybUFpVTA1WDNOOUI1alp1Z21PY0pPUlBYUGcxZDctTER2VEJHUm9nT2x0a3N6ZDNVSWhuX2FQRWQwakpOT3lFVE9MX0dHRlNyTHRyNFBmenFleFEtTmZ3bVp3ZQ?oc=5",
+      "publishedAt": "2026-09-21T14:29:00.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "\"성과급도 못 받고\"..SK하이닉스서 해고된 신입, 무슨 일? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "confidence": 0.68,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "고용 문제"
+        ]
+      }
+    },
+    {
+      "id": "71e591612462fa5a",
+      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
+      "publishedAt": "2026-09-21T13:34:01.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ce5bfe0939e8dcc4",
       "title": "HBM 시장 1위 굳히기?...끊이지 않는 SK하이닉스 미·일 투자설",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjZJMWNobV8zNGJSb1hOUlY4TDZ6WXVFRXdITkhsWTdnU2tmWW1TbmdwNEJDTDdHWmMtRHFZS05PSkJSeEJ0MGxNMjVUVVU5R2VmX0hsbE9XLTN3OWtkTEoxLXRjMERxWEFINXdtc2VLQ1JBZXVqT1YySzdDcjN0ZmxHcDVUZw?oc=5",
       "publishedAt": "2026-09-21T04:54:40.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -335,7 +379,7 @@
       "source": "코리아리포트",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44OTNNMkNCQ1pWVDBWVWtrc0lBaV9zeUNlRWd3UWFDLWl0NTV5V0FnanJTZGZzUjFaNWhpYzBvUmhsbUt4X2QwZ3VqU2Fqclp4QlVPMEdYWDROTjBXUTAtUllYYVRxejhFVU1LUVM0N3k?oc=5",
       "publishedAt": "2026-09-21T04:19:44.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -357,12 +401,39 @@
       }
     },
     {
+      "id": "e3b8e6c9d6abdaa8",
+      "title": "SK하이닉스, HBM 1등의 역설…中 CXMT 범용 딛고 G5 양산",
+      "source": "토요경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWUlkQzluek1BS3UyczQ0aTZmSDFNS0VOdUlLRjlCZk9FZ3Qxd0Zqa2FvRW9oZUxiTll0RXBnajFyMXd6RWRIRWxxLTVPa0xSaEJPQWpZZUpGYXM5Wnd6ZNIBb0FVX3lxTE1NNUJvOElVWmp3NkFhTlV4WkhScmRlZU5CUlB5b3p4MVI1Nk5oQ2kxS0tTbm4xUHNvR1JSS1BiSURlaEZUakxSRWpsOXJkU0hkajAxeUhHNm5GTGtKUzZBTXpRbmhpUm9rcndSYmNXMA?oc=5",
+      "publishedAt": "2026-09-21T02:44:19.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, HBM 1등의 역설…中 CXMT 범용 딛고 G5 양산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "87cc317f530614bb",
       "title": "SK하이닉스, HBM 다음 '전가의 보도'는…차세대 메모리·글로벌 거점 확대",
       "source": "서울이코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41bEk3dDRKOFZOeHIzMThGWGhBUERSS2hoZ3JBTFpwS2UxRG5xOVBFblVjd3B2dE5RSGdiVUMzZ1NqSzFaRHphZERpTmRSM0NuSE9vMFVCZDNnaFBJUE0xOE5ZdEQ2X19ZRjZ3ald3?oc=5",
       "publishedAt": "2026-09-21T02:29:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -389,7 +460,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPQmpFY2locHA2bmRMVE1XODRDMDFzcmdDaGFhQ1FhUFJuM1lycHlVemwyYUp4SzBlVFpjV1NTMDF2ZFJvcEk5U01DaUJYbzlaalF5WlJYZFJvUTUtai16NUhR0gFnQVVfeXFMTkI4YTdQMkRQa1Z2dS1SR2pRYzA2eVNBNEZWUHBhcGVYdWhUZkY4NVg0VUkwOXQ3UmFaWndlYUtVLXZiMUI5THFPV1BhYmc3cVI3NnlnLWpXdUZYdTZPWVY2TDRUM1pCcw?oc=5",
       "publishedAt": "2026-09-21T02:05:46.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -413,39 +484,12 @@
       }
     },
     {
-      "id": "5eb03e2844003885",
-      "title": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행",
-      "source": "주간한국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQ052NzU2a0tfZXlTVVBQWTlFVDV5ZWFSTjUzYlF4b1JpMk9KWmpBZlpFOWdHNkdjWGZrSXdzeHU2Zlp1WVhjUHlUYTZvZ0pFZGdPQUZveTB0QVVLZ1U0RDFsUVpLNnVWOFc0b1dNVWtpVXdV0gF0QVVfeXFMTV9DTnY3NTZrS19leVNVUFBZOUVUNXllYVJONTNiUXhvUmkyT0paakFmWkU5Z0c2R2NYZmtJd3N4dTZmWnVZWGNQeVRhNm9nSkVkZ09BRm95MHRBVUtnVTREMWxRWks2dVY4VzRvV01Va2lVd1U?oc=5",
-      "publishedAt": "2026-09-21T01:26:34.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "70d3f81fbbb48860",
       "title": "SK하이닉스, AI 실전 역량 겨루는 해커톤 개최…총상금 1억원",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQmdXcGJjXzVfbmFtQ2VKRXBoVHdKdmxmZjVVdlFMcVl1bDdud0lxdXllbXl1ZTFya1BQMjFndkliS0dYSDBmUXFiWjd4Y0FkbTM0bkR5QnVXSXJIRDJhMmFZaTdISjNDWWlJQjZLamg?oc=5",
       "publishedAt": "2026-09-21T01:25:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -467,12 +511,39 @@
       }
     },
     {
+      "id": "59aa804ec464cffe",
+      "title": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EOTY0blhzWkdITzN1Wm9ORzljV01nWFJxR1V0cmdyUzFIeklhZ3VsNmFILVRFbGFQRjJHdUttME5SaHB2QjhMVjIwU3RucXRraTVyMzVuOEh3WFpIZUY1Nw?oc=5",
+      "publishedAt": "2026-09-21T01:10:01.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a4623568fee32cfe",
       "title": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\"",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wQ3ZmcXFtVElLS0dEdXNkTnByMldaYlVWNXkzVV9tRWNLTnFsYTNaZ0V2NUM5TUlxNTJfNmZOd0lmYVFQdUpLdmY2a3hjZTA?oc=5",
       "publishedAt": "2026-09-21T00:52:07.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -484,89 +555,6 @@
         }
       ],
       "summary": "곽노정 SK하이닉스 \"HBM 이어 차세대 메모리…AI 시장 지배력 지킬 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "71e591612462fa5a",
-      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
-      "source": "kukinews.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
-      "publishedAt": "2026-09-19T12:32:05.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f8e4a3bcf58ed0fa",
-      "title": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵",
-      "source": "biz.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRFNwOWlHNzFtcUFmdzB2b2k0WnBwWlpKTjhWa1RMb3J0UWtGdVJPczFJR1oyMmZadkRDRHFlVUNqSEJQemt3R1hMM3dKQ2JBOGJF0gFYQVVfeXFMTnhLR0k1aV82YWJPY0tPdTh6NjQ4X2tFY05xMG1qazhRNTZlajZsaERmSnlRVlBJMk5rY3dDTThKZnllelo2N0l2WTFub0g3d0JxT2o5c3d2Mg?oc=5",
-      "publishedAt": "2026-09-19T02:20:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "꿈의 직장 SK하이닉스 입사직후…신입 4명 '음주 해고' 발칵 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.4,
-        "confidence": 0.68,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "고용 문제"
-        ]
-      }
-    },
-    {
-      "id": "fd8447ff8129cf5c",
-      "title": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다”",
-      "source": "CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQVpEZzU2TG9uLVlYRDNfMWNXUHpCWEdCQWRpZjUzM3RKMUlCTDhtUXpTWVcyR1ptVmxtWVd4WWhHTUR6VnEyT2FlRENaMHRxcEw0N21fc0RoQllLcHdsZk5oTDdxYzFZ?oc=5",
-      "publishedAt": "2026-09-18T08:21:47.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, HBM 이을 차세대 AI메모리 전격 공개…“HBF·PIM 등 미래 먹거리도 1위 지킨다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:07:30.476Z",
+  "generatedAt": "2026-09-23T15:14:16.766Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 실적 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SK증권 \"삼성물산, 내년 초 DPS 8550원 전망…목표가 55만원 유지\"",
-    "HL로보틱스·삼성물산, 아파트 주차로봇 공동 개발",
-    "삼성물산, 하이테크 중심 실적개선 전망 By 알파경제 alphabiz"
+    "HL로보틱스·삼성물산 “주차로봇, 주거 요소로”",
+    "“삼성전자 공장 짓고 배당받고 ‘꿩 먹고 알 먹고’…하이테크가 멱살 잡는 삼성물산”",
+    "삼성물산, 한·미·일 SMR 협력 타고 유럽 공략"
   ],
   "articles": [
+    {
+      "id": "16d241d8a7e1d38c",
+      "title": "HL로보틱스·삼성물산 “주차로봇, 주거 요소로”",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aVmVaWHp2RTR0bGlORkVDY2ZyUTM2cGRLenFrT09IcExGR2VmMlRIY0FqRTdROTdrclhwdUVMMzVFTV9BcTZkdnNvNWp0d1dQYWVURVFxMzliZ9IBX0FVX3lxTE1lY0NCMW5YSWs5amFLbXBFTlFJVHRpRnNscVVuZlhHQ1pfT3pfQVQzczZFcEJjbkE3SzNxVjJuczVPakpneUZfb3F3SktiNkFHS0FYU25MVlM5U1puYWw0?oc=5",
+      "publishedAt": "2026-09-23T10:06:00.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "HL로보틱스·삼성물산 “주차로봇, 주거 요소로” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7a45e6064bc36d8b",
+      "title": "“삼성전자 공장 짓고 배당받고 ‘꿩 먹고 알 먹고’…하이테크가 멱살 잡는 삼성물산”",
+      "source": "뉴스퀘스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcE1nc3RxeWs4RHJVWlMwQUJYR2diTDlBTTFUWDcxdm1kZGZxbXJmQmh5UXoxWHBNNjF2N2ctbnQtWktBS2d2TW5GdzFnaFJ1Mk9iMGZBUWJzYnFfS2loVEJBd3RKa0pDVS04SkxpWQ?oc=5",
+      "publishedAt": "2026-09-23T06:40:51.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "“삼성전자 공장 짓고 배당받고 ‘꿩 먹고 알 먹고’…하이테크가 멱살 잡는 삼성물산” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7b2c55dd57450c4f",
+      "title": "삼성물산, 한·미·일 SMR 협력 타고 유럽 공략",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yakRKRVRqM3V3RWszZ3U0bUhrTVpqUGh2ZElSU3hLazhjSGxNcU5FZlQwRDJ3V2xnckR0TzRFUW53OGJVWklyUklpSERGNWJNUGJJaUpvMHJtdw?oc=5",
+      "publishedAt": "2026-09-23T06:40:48.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, 한·미·일 SMR 협력 타고 유럽 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "9afe360f8e752b1e",
       "title": "SK증권 \"삼성물산, 내년 초 DPS 8550원 전망…목표가 55만원 유지\"",
       "source": "thepowernews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TGEzdEU1NS1LckVIUW1KaDk3S2FjNlZTdENRQXRGWHM5SFZsNmRhdTJ0dmV4Y3BjRHpJLWxtMFI4d1E4bXVLWnNET3ZmR1pTa2hBVzRUWHBSV0dRbkFQbWtnbWJNelBCYzZzU3U3TW9KSmk4Nl9EMml1angxdw?oc=5",
       "publishedAt": "2026-09-23T04:49:25.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -42,12 +123,41 @@
       }
     },
     {
+      "id": "91f39c9a703f8122",
+      "title": "실적 호조·주주환원 확대 전망...삼성물산 주가↑",
+      "source": "gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MRG5PMFhwZzVTemtkcTJQVFFfUmc2U0NVbGZzYU5TcHZPeFdDUzJadDUwLTJ4SHRvaGo2ZG9xWlFsN2NQcUgxQlkxX1gtYW9wWlE3aXN0MDhZYkxmcm9aWmVDblp0VzZJbUlxYmpB?oc=5",
+      "publishedAt": "2026-09-23T04:15:02.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "실적 호조·주주환원 확대 전망...삼성물산 주가↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0874d4fe7167ac51",
       "title": "HL로보틱스·삼성물산, 아파트 주차로봇 공동 개발",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wUTQyYzlYWTdlM2dUX1gwSHNtZm9FQjlNelN1M2ZHY2VNUnFSbXRqSExnR3d3MkV6Y1F4dHAyaVRqRGxVQnRBR2dHampPR2V6cGwxRDVYOVVQOGpsZ3ZRM2x2Vi0xQQ?oc=5",
       "publishedAt": "2026-09-23T03:32:31.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -69,12 +179,12 @@
       }
     },
     {
-      "id": "357f97a06e2ba083",
-      "title": "삼성물산, 하이테크 중심 실적개선 전망 By 알파경제 alphabiz",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzdjF3WFBpMTJpWjhaZ0Q4Y3JBMVY3Uzk1aklvWW1qSk1tS0dySnNHbW9DeTRpNHBvN2tVcEhpY0lURzBmaEoyb2x5NXAxRDV1ZkJ6Y1J2M1V2TVJJTVJjbFpZamF0Nng0WjhHMWIyWFg?oc=5",
-      "publishedAt": "2026-09-23T03:28:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "id": "a21d64b017cf753a",
+      "title": "삼성물산, 하이테크 중심 실적개선 전망",
+      "source": "알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hb3N2S1BoVE5HWmJuYjd0TGJ5WTVFSU94Z3ctdnZ6d0prdXVzdUZfVGRtUXZJUU5hUnhKdkszLWdrTUhyOG5JR0w2ZHNpejdCYVl3M0RHREVKcTdfNjNiMmZham4zdHZhaC1fNXdn?oc=5",
+      "publishedAt": "2026-09-23T02:23:46.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -85,7 +195,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "삼성물산, 하이테크 중심 실적개선 전망 By 알파경제 alphabiz 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성물산, 하이테크 중심 실적개선 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "positive",
@@ -103,7 +213,7 @@
       "source": "ebn.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53TVVQWXZjZTdtVkhFSUcxWWRuMEo1TkpjY2V6QkFZeUYxNGtmTG5yeTdnYm93bTlhRk80bjNNaFI4QUduZlM1SmNFNlgtT2NEVnBnblZjcTRoTzdTNUg5dm04QmpfMjZX?oc=5",
       "publishedAt": "2026-09-23T01:55:08.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -130,7 +240,7 @@
       "source": "ppss.kr",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oWXl3YW1PR3dPSFo2aGFjVm9aTTdxcDE1Y2NmR2wzaXJjQ2FEMzBiMFVpNTJNdS1qQXhLS1dOUDRNbWFlbEdUUVdzY2tBSFRFalZHeERjRV9IWVA5TWNGWmRwRXc?oc=5",
       "publishedAt": "2026-09-23T00:22:37.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -154,41 +264,12 @@
       }
     },
     {
-      "id": "281dfb74bc00c682",
-      "title": "삼성물산, 하이테크 중심 실적 개선·배당 확대 기대",
-      "source": "ksdaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDSUotRnJXUmM3bnBydHpUZWM3SjNGRGtrMEpocEJDUUZYYm9oUXZPcE96UVdoLWl3Z1h3MUZzekpYRWZEcFdIZk05WV9UX0lsZzZOMDRfTG9meWZjWXQweFBacUxhRWpIeW9J?oc=5",
-      "publishedAt": "2026-09-23T00:03:13.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 하이테크 중심 실적 개선·배당 확대 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "477329dbcc6f92ab",
       "title": "HL로보틱스·삼성물산, 주차로봇 기반 미래 주거 솔루션 개발",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zLWctakY3RVJEYm54aFZjaWw4ZVRRbU4teEZzYjZaNEFrcURUdzhyNnd5elZUV1pDU3ppekZyN0dwNnR5Vm5aSUtVZkNrd1dZZGY0dzNHS2JoMTBjdE5Xc9IBYEFVX3lxTE5zLWctakY3RVJEYm54aFZjaWw4ZVRRbU4teEZzYjZaNEFrcURUdzhyNnd5elZUV1pDU3ppekZyN0dwNnR5Vm5aSUtVZkNrd1dZZGY0dzNHS2JoMTBjdE5Xcw?oc=5",
       "publishedAt": "2026-09-22T23:58:45.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -215,7 +296,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uYV9LVUZBYjRMYTFiY1hFaFFGZXpSN2JqUGJEb01IRzVWMU5QWGZfZGwzWUlTc3Y2QzB1ZVFXbUpadkFmX1UwSE9zMDhNb043czhnSnkxSUdQOENT?oc=5",
       "publishedAt": "2026-09-22T23:58:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -242,7 +323,7 @@
       "source": "버핏연구소",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FOHBUd1dIV1hBTC1mT2hjUWgzMW5Nekdsc1JxYTNzWWN1eU5FcGdybEFhSjdja0VBTC1pM3BVRFBHb19kVnRUOE1Ecmktc3EyS0FSbXI4Z2p2Zkl0UUp3ZFJB?oc=5",
       "publishedAt": "2026-09-22T23:51:34.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -266,12 +347,12 @@
       }
     },
     {
-      "id": "1a2c5c11f1d1d950",
-      "title": "SK증권 \"삼성물산, 삼성전자 배당 확대 수혜 눈길\"",
-      "source": "파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQc3p5d0I5dnNOdGFRRFUtUTJDb1lpTHdORG5rMlg4anF5ZmNzUnU4Vk85a2hFYWtDLWw0NHlfX0dFUUZqaTRVRndLdmJvTHpVVGRMWUM4NV9SQ0ZCSVE4TmxpVEpNc0M4LWVNN28xZHlHeEl4?oc=5",
-      "publishedAt": "2026-09-22T23:44:42.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "id": "81aa848a0984c03d",
+      "title": "HL로보틱스·삼성물산, 주차로봇으로 '스마트 주거' 만든다",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ibmFGaGdKMjY3MXFpOXgxcVdZQzh2eml0TjJJX3pnZ09PbkR5VUtvd3E4Wkp2UG9tUk5MdFBTaDRnWXlSNWFCY3BjZjAtQ0NScEJldQ?oc=5",
+      "publishedAt": "2026-09-22T23:41:48.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -282,8 +363,8 @@
           "ticker": "028260"
         }
       ],
-      "summary": "SK증권 \"삼성물산, 삼성전자 배당 확대 수혜 눈길\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "HL로보틱스·삼성물산, 주차로봇으로 '스마트 주거' 만든다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -298,7 +379,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3akU0Zno4T3k4MkRlcVFkaHh3dFpEREstM2E3b0tJbUlmcmcwLVRTQWtKNEZsR2tRNURZSkFMbHBVWmNOajQ2d1VaUVlHNUxWOHc?oc=5",
       "publishedAt": "2026-09-22T23:26:13.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -327,7 +408,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40S0xLVjNZb0lkeWtxcVh0NlZDOThlYlRxU0hrZGkzdmtrSU1oR0o4RFRsTGpUMlVtQmxtY1NFWEY4elBNbEFJN09IQm50NndSX0FQRA?oc=5",
       "publishedAt": "2026-09-22T23:04:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -349,12 +430,39 @@
       }
     },
     {
+      "id": "e704a33769b0c0f4",
+      "title": "삼성물산, 美 차세대 SMR 시장 공략 나선다",
+      "source": "donga.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoNG5IckRWajh1VVh6LUo1YWNQdFRRbHpYMWR0cHpnUDFDbHNZeTZ6al9lWHh5UFNqMjREU1RDaDlBNkFBM0QtcWdHMWVWVWlyT0p1NFRGTl91NTFiaWdTNnA2cDdwZ9IBZkFVX3lxTFBoNG5IckRWajh1VVh6LUo1YWNQdFRRbHpYMWR0cHpnUDFDbHNZeTZ6al9lWHh5UFNqMjREU1RDaDlBNkFBM0QtcWdHMWVWVWlyT0p1NFRGTl91NTFiaWdTNnA2cDdwZw?oc=5",
+      "publishedAt": "2026-09-22T15:30:00.000Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, 美 차세대 SMR 시장 공략 나선다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "239e44de975a9b18",
       "title": "삼성물산, 하이테크 수주 기반 실적 성장 기대… 원전·신재생 사업도 주목 - 유안타증권",
       "source": "s-journal.co.kr",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yYjdjTzk3azNjNEctSFFDdTBsa2EwNF9MNU85SjN3V0FIY196VTRPLThmeXNZWVRNbkdxaFUwcERwYVZCSWZBR1V2S1I5Z2RrQXZ2OWxJUTF2Y0ptbENtSjhzRVJrdFVfUnlvcFJn?oc=5",
       "publishedAt": "2026-09-22T08:03:33.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -383,7 +491,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12UzVrRmpsYVBxRGdNMTB4Z3ZzdjFSSnFlVURIWFFnRDFpZy1saWl1dTh1MjZXaDB5MDQ3Vk1KV3M5TnprSEh0QjlOME5HOVY5YTE3Wmc0MURlREJDRVFib9IBYEFVX3lxTE12UzVrRmpsYVBxRGdNMTB4Z3ZzdjFSSnFlVURIWFFnRDFpZy1saWl1dTh1MjZXaDB5MDQ3Vk1KV3M5TnprSEh0QjlOME5HOVY5YTE3Wmc0MURlREJDRVFibw?oc=5",
       "publishedAt": "2026-09-22T00:49:01.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -410,7 +518,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhdTVjUl9UazAzYmdwNXk0U1l0anpHbGo2RTByd25JbnVLWXAtN3lxRWs5SGxiSk5oR1FhZk1COUhSakNPa3hfb3llUTVEMEw1UU5ud0ZlMm41UElCSG5OV2JyMEJyZEU1dlpmcS15bTVHcmEx?oc=5",
       "publishedAt": "2026-09-22T00:40:52.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -434,10 +542,10 @@
     {
       "id": "d2f8ae33d165842c",
       "title": "삼성물산, 美 카이로스 파워와 차세대 SMR 협력… 7000만弗 투자 추진 - 조선비즈",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHRPWGduYjd5TE12VjFtMTVXMkNXSUtxaVR2SE1IRnM2cno2aGdjdnMwNkE0dEVqN0FfRzVxbUdCWEM0RmdJNWE4RVlVeldBWnRVc2w4MG1sQUhrQkM0SFNwWVotVmljWnVWMHZ3dVdlRExOcm9rY3NHUTBKV014VGtxeDZvSTBjV2luQnVtaEJEWGVtTmhVatIBrAFBVV95cUxOVzlqdklEaXBGYUJfUE5PVE9aeURodDQ2NFJiWWRuV0F4a2xKQ284TlVyWDJqZE5xVkhLamh3RzRsdTlaYnF6amFvcTlkOFVUTjBQeGZicnU5ZW81RUV5elJidjFjb1FHaElPaFM0cXNrSW12T0RYNUxvWm5WQlV5YVFmSWJoc3c5ZnhvMnY5TlRpTjB6YU1UM2w5Q3NNRnBXczFaUW5ucmRjQUlw?oc=5",
       "publishedAt": "2026-09-21T23:58:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
+      "collectedAt": "2026-09-23T15:14:16.766Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -450,116 +558,6 @@
       ],
       "summary": "삼성물산, 美 카이로스 파워와 차세대 SMR 협력… 7000만弗 투자 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c5c59599142902a0",
-      "title": "[특집]삼성물산, 높이에서 깊이로…주거 본질 다시 세우는 ‘래미안’",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJd21QVUt2Y1dKYzRxR2I2LUw2cEloNmZRTF83blhYMUpOQ2VsTEJEdklBQlZKWWg3a1FHLUdnRjAtNF83WHQ2cXlHTGh4eE8zY1FldjJwVUNKUdIBX0FVX3lxTFBnOTM5Mnd4aTM3LTR3Vmo3djA4RjZJWkUzYVZ0ZmxvMXRIVWtudW1OSDgzWnA2QldYbURvOXgyejVuYTM1dkxjN1ZULTYzZ0xiSTRsX1BseU5QMlBrVnZJ?oc=5",
-      "publishedAt": "2026-09-21T11:48:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "[특집]삼성물산, 높이에서 깊이로…주거 본질 다시 세우는 ‘래미안’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "91f39c9a703f8122",
-      "title": "실적 호조·주주환원 확대 전망...삼성물산 주가↑",
-      "source": "gukjenews.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MRG5PMFhwZzVTemtkcTJQVFFfUmc2U0NVbGZzYU5TcHZPeFdDUzJadDUwLTJ4SHRvaGo2ZG9xWlFsN2NQcUgxQlkxX1gtYW9wWlE3aXN0MDhZYkxmcm9aWmVDblp0VzZJbUlxYmpB?oc=5",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "실적 호조·주주환원 확대 전망...삼성물산 주가↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "15b1fb7c06a5025a",
-      "title": "[0921시황레이더] 삼성물산, 약 1조8,275억원 규모 성수3구역 재개발 시공사 선정 등",
-      "source": "인포스탁데일리",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56T21HWUFUZnBZZkZBTjRVZWdEaXBTcDBSS05Gdm5kQTFCNjRNQ1FjMmFIbjA2aTROQkNabWhhWkFYN1R2bkxxWDJERktmZmlxWXd6VmFTc3JaTWI5MHY1dXg0LXlnNXppZURYWEJkUE9Zd0VXS2c?oc=5",
-      "publishedAt": "2026-09-21T04:40:04.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "[0921시황레이더] 삼성물산, 약 1조8,275억원 규모 성수3구역 재개발 시공사 선정 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "065d253b8dd519fb",
-      "title": "삼성물산, 1.8조 성수3지구 품었다…'래미안 레비르 성수'",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ueWdNLUVQQWlBM2dEamNLaUUxeXJWbDVkS0RKcWJabkxGZW44eDZ0UVJHNlZqYUhzZVVBQmZGbk5XWE1TcHl3bjJwTmVmSVc3R2c4ZkVGYkdCdw?oc=5",
-      "publishedAt": "2026-09-21T02:19:19.000Z",
-      "collectedAt": "2026-09-23T08:07:30.476Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 1.8조 성수3지구 품었다…'래미안 레비르 성수' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
