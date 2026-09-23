@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:17:05.799Z",
+  "generatedAt": "2026-09-23T01:04:55.868Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차그룹 보스턴다이나믹스, 美 '로보틱스 응용 센터' 개소 |",
-    "아틀라스, 현대차 공장 ‘인턴’ 발령 났다…휴머노이드 2만5천대 단계적 투입",
-    "현대로템, 항공우주 생산기지에 현대자동차 스마트팩토리 기술 도입"
+    "현대로템, 獨 철도 박람회서 차세대 기술력 공개 | 뉴스 | 현대자동차그룹",
+    "아틀라스, 현대차 美 공장 '인턴' 발령 - 머니투데이",
+    "현대차, 코이카와 모로코 마라케시에 전기버스 ‘일렉시티’ 공급"
   ],
   "articles": [
+    {
+      "id": "d6bc3ef8f7c979ce",
+      "title": "현대로템, 獨 철도 박람회서 차세대 기술력 공개 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmc5bDVSOV8yaFVySVRFQkFiNVhEWFpONlJHQnNPejRxcGY5dmtJMHNIZFFUaGRRLVduZno3VW9USmw1MjRuMm40QzRaWkVqTkhXVTkwZW95amZsM2NEVldUMk9wWlRZeXg1UGc3eURhcUtwd3YwYWFDekNoR09qd29UaWNtcUZSY2JNSWZoV054eURy?oc=5",
+      "publishedAt": "2026-09-23T00:27:00.000Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대로템, 獨 철도 박람회서 차세대 기술력 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d9baf9f6aabb2a5a",
+      "title": "아틀라스, 현대차 美 공장 '인턴' 발령 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xT1pSX0c0eXEySzYzWUhtWnVnamtkR0htMmpkLTNxZ0xEVzFmRFJzUUtfYUdKWUg0bFNNaTRHMHpDei13bmtYeFNDODBFV0ZaQ0xhRVdfZ3c1d0R3eVkyRFZnSF94ZXVoUTc3QtIBckFVX3lxTFBxYkQxdnRGcTFNYTFOSHJ3RVdpd0phUDRVS2FnUnItdGIwZ3hFYjY1cW9NOGY0LXQ3bHVXVG81blNhdzl5OUN1WUQyNm1oT1JBOW9KclV4bTlQd0tXb3JBb3B2aXlqLVkxSXpXc1YxemloUQ?oc=5",
+      "publishedAt": "2026-09-22T19:10:00.000Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "아틀라스, 현대차 美 공장 '인턴' 발령 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c3c401d3eb08a961",
+      "title": "현대차, 코이카와 모로코 마라케시에 전기버스 ‘일렉시티’ 공급",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadnlQMGZ0QkNfWDZtdUl1YWxjUi1iUHJXaDhJQ05na1VOdmg2ZVZrZWZtM2EzbXZDaGl4dFAyREVUamowbndkQ2VGdmhTajlnVGh6a0phRHRnM2FDbWpHYlBKdW0wSjJuUmRfUlJJNmvSAXBBVV95cUxQWnZ5UDBmdEJDX1g2bXVJdWFsY1ItYlByV2g4SUNOZ2tVTnZoNmVWa2VmbTNhM212Q2hpeHRQMkRFVGpqMG53ZENlRnZoU2o5Z1RoemtKYUR0ZzNhQ21qR2JQSnVtMEoyblJkX1JSSTZr?oc=5",
+      "publishedAt": "2026-09-22T17:47:40.000Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 코이카와 모로코 마라케시에 전기버스 ‘일렉시티’ 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "3ade4b4041422f5f",
       "title": "현대차그룹 보스턴다이나믹스, 美 '로보틱스 응용 센터' 개소 |",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHbVlvTnJoM2ZHUFdlbjZFdHlhNHJWODhTT2YtSVlWcmxzOW1TbHlZc0ktWDk1NllQSG5QY2FXZE55R2t1NXZNaTAwQmJfWGJGMFZhTEJDUjBUZUFZQjY1WFlaMEEtVFVySk93ZkQ2SDFGU2dp?oc=5",
       "publishedAt": "2026-09-22T05:37:52.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -47,7 +128,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMzVWTXIzQUdWWWJRX2pSR0wzUTBFMXoxbXNyVWlaTDd3bElGZFFaRHJyVEJiMVBoaVRjNDExZnpaX3F4QW41TDlvb1FYczlQUjVUMFR2SjNid9IBX0FVX3lxTE96M3BlNGp2cWRrcTBjMVFDQ2ZDY3FFbmtxMHpkakRVNFRmMWR3S0FUZzJzcWFVdEdsZ2tvUW9HMEZLbXlINFpqNmpPUURrRjhDeTBfZDZqblgtaG9XMzdR?oc=5",
       "publishedAt": "2026-09-22T04:30:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -71,10 +152,10 @@
     {
       "id": "7d929e928027098d",
       "title": "현대로템, 항공우주 생산기지에 현대자동차 스마트팩토리 기술 도입",
-      "source": "newswire.co.kr",
+      "source": "뉴스와이어",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ek9fWE1KSkx1Q1p2Qk51UElhb1c4WGtIdFRCS0RrNHZNY0J5TDlsWXZXY202YVN0a0V1OUJXT3F0RE1DUE1Xd09Hck5IYlI5LXNUWlpjNFlyN0RMMUNv?oc=5",
       "publishedAt": "2026-09-22T01:44:55.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -98,10 +179,10 @@
     {
       "id": "4da5117a828ea8e7",
       "title": "현대자동차, 코이카와 함께 모로코 마라케시에 ‘일렉시티’ 공급",
-      "source": "newswire.co.kr",
+      "source": "뉴스와이어",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02QWtKSjNaQnJZMUNUd0FIOWstLU5RakE1LU1FU0NkdkJFRlpLcEZJMUI2WGJMOGZ3OU9laU55d0JXclFpOS1jdzYtRGluQnBDT1YxU3FTcmMzdkpIbWww?oc=5",
       "publishedAt": "2026-09-22T01:33:29.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -128,7 +209,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XV1lqcEFNaWtXZlBtUmZvdnh3M2FVT2I5X3BmR2UyM3J2eU5fSHpoQV81LUdWMWRRajBJRWY1MWFHN0ZIb1czZnEwZ3BLUUROWWFJWm9JcmctclnSAWBBVV95cUxPNTRIUTFjNExUWDV5dnZnTkxWXzZycXc5enI3RjQ4ai1uWlMwclFpNDRXemloRTBfZUZNS2xibWZ1VHlrajhCc0JvRDNfR3k0WWpsNFZpMFVZam9GeDd3YjY?oc=5",
       "publishedAt": "2026-09-21T23:59:23.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -152,10 +233,10 @@
     {
       "id": "adcb67e35c904ff1",
       "title": "\"78층 구조대 안 와요?\" 주가 반토막 현대차, 증권가 전망도 뚝뚝 - 머니투데이",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aSk96RFFVVHlIRnk3QUZtb1RuY1lYMDlmZGI4dllORGZUOGlJak9lU3pEZXQwX3l0cGJ1WUctTWZLWTg0eFd6NWVHak9OUjNkd3VxU1NUOTVERm9oMTd0dUlqdXlWVy1f0gFuQVVfeXFMUDRLSno4dDJUdkJfRnEwWVFpQVpuVTRBV0xoWGxUQ0I2cXZrSlJYLTJUN3pMYXlxekJsUFRua0lCR2RyQlBQeHR3R1FDSG50WlpLU1dIa3FLamZvRkNLM01zaS1nQ01xM2FCQTFha0E?oc=5",
       "publishedAt": "2026-09-21T23:54:17.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -179,10 +260,10 @@
     {
       "id": "41d33da85ac4c92d",
       "title": "《현대 트랜스로컬 시리즈: 호 추 니엔》 전시 개막 | 뉴스 | 현대자동차그룹",
-      "source": "hyundaimotorgroup.com",
+      "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazFaSnFueWpkQlR1WUNKbUw0S2pQTzRnbGpRcjh1SXJfWlpjVENhZHhTMmxLVEJMcWZweW44LXZjbzFVWXBmZE9PVWZiRzduSkJoajZMWVBYcjV5ZXhLcEpUSkVpREhfbjZuWnNpbzZSMXBaQWw2eFlGSUkteUhiRlI1OWt6eTNIUlVYT2VkemwybGtNX1BYcnI5NUZLVHM?oc=5",
       "publishedAt": "2026-09-21T23:30:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -204,12 +285,44 @@
       }
     },
     {
-      "id": "9a5f279f746bc4a9",
-      "title": "주가 40% 빠졌는데…현대차 담은 '피지컬 AI' ETF 올해만 7개 - 머니투데이",
-      "source": "mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OdXc4UGt6OFZDRDJYVXlTMk1FSFZTblVTSTJaOHM3dEFpOURIZl8xbUR0SHJxWEF2aXNoTTRVLVZibXlOa2l5OXFESjZzN1NyWXRyYTMyUDFTZVpWbHdBQTViOER6aHg40gFuQVVfeXFMTmZPUmg3QVRZWUQ4czhoRGxIQ1I1UTI2dmw4cTU4NGJWVkNrT3RtRXVfMmQteDU1NEVRRFhnQVh3TUlJYW8yY3NuMWlUTnFGQ0dXZHkzSk9OUGEwWmNWTEIxbi0zNlZPclF2c0tCcHc?oc=5",
-      "publishedAt": "2026-09-21T07:09:34.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "id": "dcb77d8c722abad1",
+      "title": "완성차 5社 판매 버텼지만…현대차 '16만대 공백'에 신차 시험대",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRczZld2hGOTVweGNhMUgwakpoVFh4LUF2T05oSWpIdmhzT2E3Z0lFR0EwSy1tanJXZDg5dFh0b3ozSlRYVU9rN21jUy1JM1E?oc=5",
+      "publishedAt": "2026-09-21T09:01:28.000Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "완성차 5社 판매 버텼지만…현대차 '16만대 공백'에 신차 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d21a692a56910aec",
+      "title": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJVMDFpSkZQMEVVQjVfRTdweUJIYXJzcjVaSEpTN3VObG95eVFnWnZva21ZMGtWT2tLU3VxOFRNbUJ0bXV6SDJuWTRQZWYyY3RORkRac1FGbkhwd19fcVFWNndIOGlTaW9TUVdydlV2bUYyZE1BYmhVYnFYSEZCTjBlb19pd2c5LWRIeGd1Zw?oc=5",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -220,8 +333,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "주가 40% 빠졌는데…현대차 담은 '피지컬 AI' ETF 올해만 7개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
+      "summary": "6년 만에 돌아온 투싼… 몸집 키우고 현대차 첫 안전기술 넣었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -236,7 +349,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XckFCc3h2ZW4wdUlJLTkxQXVuM3hBWkpfcG8wOXVJRF9YZ2dIcy1TX2taeE9NYlpydnc4S2tXRVVvb18xRVNUYUNwblpnT3Fqbm95TGZSV1J3SHhjaHhpWA?oc=5",
       "publishedAt": "2026-09-21T06:43:38.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -263,7 +376,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2tyQTRSZ3RpekE2NnhYS084NXJGTmJ4QnpmMFd4X0FIUFFCOTJBcDhQODk1QldSTk9ZVkh1eE5KaW5KdGVmVjdhMzV3RFpDd01FR053?oc=5",
       "publishedAt": "2026-09-21T06:27:06.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -285,39 +398,12 @@
       }
     },
     {
-      "id": "625249710a6d594e",
-      "title": "현대차·폴크스바겐 배터리 셀 자체 개발에… 배터리 3사, 하청사로 전락하나 ‘전전긍긍’ - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CV3RXNWp6VzJySUVVT09jUEUzVmxWVTNLOXVKQjlNWXZfQWRuSndQMF9HeDJJd3Y0dUpZX1VTUXVPWmppMVQ5MW1UemdmZFlfRGJZUnFobmVmYlBlbXMxNmVUbm5FME1jUVZRYkNjekZiemlRUWZvRVBaSnpvc3fSAZMBQVVfeXFMTXh1OWtpRWQ4emlOOU9WZGx5MzFlTVRkb0lzVWUwRmpLT0IzTmhrSEtvV2N2RXIxOFdaN09JME82aUFDcllpOVN0dXhDZnczUDlWeUppaDMwb0hlU2ltWlNQZGhIZWtJRnNFUUFaSklxeFVVMUI3clBIOFBFN2dTZGJ2YThRUVh3RkEwbHVTOUVqdEdF?oc=5",
-      "publishedAt": "2026-09-21T05:45:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차·폴크스바겐 배터리 셀 자체 개발에… 배터리 3사, 하청사로 전락하나 ‘전전긍긍’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ee85321210430e7d",
       "title": "현대자동차 ‘디 올 뉴 투싼’ 최초 공개",
-      "source": "newswire.co.kr",
+      "source": "뉴스와이어",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yQ1lyeHRQcjdCb3cySjU0NFgtWUxKTEt4cTRlT3ZuVzB2VWY2cXZGaHB5R21nNmpIWHgwbzVVM3V2R2JLNEljbTVyaTZDWTU0dVBTdFdfSENmRF9qMlBB?oc=5",
       "publishedAt": "2026-09-21T04:43:15.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -344,7 +430,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJOWpQNkdiMnFZWUZwS090RHByM0lyeXJlZlRSaGtfbWZBeWhrdE1uQ0hUYzgtNkZXMUZVeDR1U2lhM2lZcndGS0NVMHh3SUJt?oc=5",
       "publishedAt": "2026-09-21T02:52:08.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -368,10 +454,10 @@
     {
       "id": "19a91564edf526dc",
       "title": "“현대차는 대중차, 기아는 상용차”···전기차 ‘2색 전략’",
-      "source": "sisajournal-e.com",
+      "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQlNZa2FCbEFuTDdpZU5LYklVVmN5RHI4ejdxZ0pLTjVjZDlVYkZxWDZhMnJhY3hHUzRfbUJiMjBoUTJaRUZ0UzZnR3VxdVUtQnJldUwtRTl3ZlVDNVNOTGI1V0tRSmdia0E1dG5MbkRTZ9IBdkFVX3lxTFBMQXZ3ZE5xWUhDRGlFeGR1dWxqQ2cyOHUzMWd2XzU0blRkc0hlWE04Sjl3b3hPZGxKajU1UmlTekZEM0pKRk5qVFlTdHhyMk1NVVMwRVNqaEgwN2dSR3ZmaHEwdlZDc0dHbXc2UFYzTTZhc2o3Wmc?oc=5",
       "publishedAt": "2026-09-21T01:59:14.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -380,6 +466,11 @@
           "id": "hyundai",
           "name": "현대차",
           "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
         }
       ],
       "summary": "“현대차는 대중차, 기아는 상용차”···전기차 ‘2색 전략’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -395,10 +486,10 @@
     {
       "id": "6b53ebd4ef07e449",
       "title": "현대자동차, 12년 현대 모터스튜디오 여정 담은 다큐 ‘더 스튜디오’ 공개",
-      "source": "womentimes.co.kr",
+      "source": "우먼타임스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RmFzRzdHTWNYYlhZVXQ5ekdtNThfeHMzRzh4Ykd3V0Z6VFNLd21hVFE5UHlxazdtd3RmZnhEbUtUcjlyU1BBTk1uZXczVk1ZVlJhdFA1U25FUTc4bmVQQldDQTZxX01UV3JXWWhpbDDSAXRBVV95cUxPSHRaUk5kN3V3Y0NtYWU2bmJHQm5mbjZGQkIwUVJxbFFsQTV6c0JGY1ZISGdBd3BPMmxLMVNKVmJXR3pvcC15NVhTWUhKWUh1eUVsR3JqZHpjMl9zQUdSaUc0STMySGljMFBUTUVid05KU081QQ?oc=5",
       "publishedAt": "2026-09-21T01:43:27.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -425,7 +516,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JN252MXMweTJXVHZNNjk0WHVXTmNmcGJDd1pRVjNEUGRQMmJnb0hiMlkwWE1wdFd3ZWpDV0NJRnZDRzhlUTBqQnFyZw?oc=5",
       "publishedAt": "2026-09-20T23:46:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -449,10 +540,10 @@
     {
       "id": "b2167552c62f3188",
       "title": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹",
-      "source": "hyundaimotorgroup.com",
+      "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTRKRWRzVW9KYV9ER0U5eEFYalVyMmFVR0g5NTZFbmJqTXVHaTlsLURXZTNBaUh4a0szSUo0elBkT29Vc0J2bDJQV2w5RGFUVVJZTjdKZzdJQk80UlVDVjcwOVVTT19TSThwS3A5WXZZMU5WMGJ1UUhXdWZRVXlKRGZBLV9mQzUtV2RLSlZ1NXNlUjlVcUNTVEx1V3Btd0dv?oc=5",
       "publishedAt": "2026-09-20T23:30:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
+      "collectedAt": "2026-09-23T01:04:55.868Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -464,87 +555,6 @@
         }
       ],
       "summary": "현대자동차, 현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화 더 스튜디오 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ba44e13f959b1635",
-      "title": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹",
-      "source": "hyundaimotorgroup.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzk2VzY5R1h3MC1nclZPaUtIYkJ4NG1nMnA2akdXNWxYUWwzbzU4ZENLcnVwbHczbnlVYUVFdWg3QlJSeGJkZVA1c19BcWtkWmptZWJqMG51QTllT0JsMnBfVElwVXc5bnZzT1RSU0d1MHlqQzlHaFQyMkNzZDNncVNXNTNMZlBXcF96eExnLUVGdnpfVjVwQl9R?oc=5",
-      "publishedAt": "2026-09-20T23:30:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 글로벌 우수 서비스 인재 초청 교육 실시 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "111b879e578337ab",
-      "title": "\"현대차 80만원 → 36만원, 반토막\"…증권사들 목표주가 줄줄이 낮춰",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wUjZTWHZVY2NITHZ6SlhYdjNYSnUydkUxQXVHTk9fYWppRTczbWx0RUFkWFVxVjJlSGtEYm9peFcySjBLWEI5QlJEc1gzOWs?oc=5",
-      "publishedAt": "2026-09-20T23:28:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "\"현대차 80만원 → 36만원, 반토막\"…증권사들 목표주가 줄줄이 낮춰 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d6cdb459d000cb22",
-      "title": "[오늘의 IR] 현대자동차ㆍLGㆍ보로노이 등",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VaFRMTU9MV1F5OVI5ekRfZjNpNHhxd1dWcVBwZ2NZTDVZN1BrMy1Lam82ZkQ5R1FRX0hScmJKVk9yR1lzMjZ3bzZGclVJekxKSjRPWg?oc=5",
-      "publishedAt": "2026-09-20T22:33:00.000Z",
-      "collectedAt": "2026-09-22T15:17:05.799Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "[오늘의 IR] 현대자동차ㆍLGㆍ보로노이 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
