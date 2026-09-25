@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:21:58.158Z",
+  "generatedAt": "2026-09-25T15:41:22.653Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "4대 금융지주 상반기 11조 벌었다···하반기 실적 가를 변수는 '증권'",
-    "4대 금융지주 회장 인사에 얽힌 4색(色) 평행이론",
-    "[더밸류 브리핑] 오늘의 KB금융 소식...KB증권·KB 자산운용"
+    "호실적에도 안심 못한다...KB·신한·하나·우리證 CEO 연말 거취 촉각",
+    "4대 금융지주 회장 인사에 얽힌 4색(色) 평행이론"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTlNCTkFUVzRnWTViclo5M0xpTEU1WjBHMnM1NFA2N1dvaThNNE1kYjFtbW1mSEt0d3hHRTdFRGVoZ2lvSFZDU1dEcmtFVUEtdWhxb3FrdTFmMHZ3dzBTajU5eGZ4YTkzakYwMnM0M0lQN1V6aFHSAXZBVV95cUxOYk5TQk5BVFc0Z1k1YnJaOTNMaUxFNVowRzJzNTRQNjdXb2k4TTRNZGIxbW1tZkhLdHd4R0U3RURlaGdpb0hWQ1NXRHJrRVVBLXVocW9xa3UxZjB2d3cwU2o1OXhmeGE5M2pGMDJzNDNJUDdVemhR?oc=5",
       "publishedAt": "2026-09-23T07:49:13.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -47,12 +47,39 @@
       }
     },
     {
+      "id": "227ec7670b49dfbf",
+      "title": "호실적에도 안심 못한다...KB·신한·하나·우리證 CEO 연말 거취 촉각",
+      "source": "녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ybzR3bnFjUm1BOV9xY005ZXNpTDVtY18wQzlpV2F0Z3JVMS12N2o2aE9wNW5aZHRmVWNfT1hLSlJVbk1lTjUxbU1YYWNFVnpkaWRiSDY2NHJDZUp1anRrYkU0NFRVLVU?oc=5",
+      "publishedAt": "2026-09-23T05:56:41.000Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "호실적에도 안심 못한다...KB·신한·하나·우리證 CEO 연말 거취 촉각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "40dedcfd0b2e7ab5",
       "title": "4대 금융지주 회장 인사에 얽힌 4색(色) 평행이론",
       "source": "뉴스퀘스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dlNST1lTZy03WTJ5SW9oNnBmanlLYjRRUnZ6V3VBandudkhtVHNKYzEyTHVaOE02aDVmRFRzSGJvR2twVjVUWWlQNTBoenNJbnFGZ2o3RnNlLUhpdlVSS0Q3OFNZbTlRS0Z1Zy0wVQ?oc=5",
       "publishedAt": "2026-09-23T05:47:37.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -79,7 +106,7 @@
       "source": "더밸류뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yUU1JM0g3YnV3bmNQNVhFcWtyMGJnNFV0WjJ1NmcwM0JvbDhZUGtPWkdSNXhLY2EwcjVWdFJVYXBUTXJpQWU3VFhIZFBaTUFaR19jTDFHVGFlZ09UcWdiTVZxOXg?oc=5",
       "publishedAt": "2026-09-23T02:41:20.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -101,39 +128,12 @@
       }
     },
     {
-      "id": "6b94b5f6d7579823",
-      "title": "KB금융, 호실적 딛고 ‘미래 도약’ 승부수…‘이재근호’ 출범에 새 판 짠다",
-      "source": "더밸류뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0dzU5XzVpQzRSWXF6ZE5CV2JoZUJLX1lObzZTV09HYTl6R0tlajJvOHZaUlotbG1qeDJ4ejN3bGY4alE0N1hQcnlMbmN2YmR4SnlF?oc=5",
-      "publishedAt": "2026-09-23T01:30:36.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, 호실적 딛고 ‘미래 도약’ 승부수…‘이재근호’ 출범에 새 판 짠다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "de7d04f28256b27d",
       "title": "KB금융·상생협력재단, 소상공인 에너지 절감 사업에 6억원 지원",
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XeEZyMXVVWEVHRE5NeXQ3Ti1id01iTUNvbktXeS04Y0w0M0hUZm5pR3VvQkxBdWtFMTJjdUpzUXVkLWJBVkJ2YWQ1c3FzcGltQ2loU2MwNEFQZGlremZ5S0hmVmh5VTZmcUhBdjJXUU5kU3Ri0gF0QVVfeXFMT1d4RnIxdVVYRUdETk15dDdOLWJ3TWJNQ29uS1d5LThjTDQzSFRmbmlHdW9CTEF1a0UxMmN1SnNRdWQtYkFWQnZhZDVzcXNwaW1DaWhTYzA0QVBkaWt6ZnlLSGZWaHlVNmZxSEF2MldRTmRTdGI?oc=5",
       "publishedAt": "2026-09-22T16:43:44.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -160,7 +160,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xOHFBMVdfbW53NlVLWXJlODU0aFVESUxTSTRFV1JhSldyN20tc1VJVzhtMEZmYS13bTh5LVdqREV6dW9HZmhidVQ3QUxYanNnUnpDTWZ3Q1I1cWs?oc=5",
       "publishedAt": "2026-09-22T07:28:51.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -182,12 +182,12 @@
       }
     },
     {
-      "id": "485eba8f7d8c9a03",
+      "id": "9eb79113de0fb7d7",
       "title": "상반기 이어 3분기도 최대 실적 전망··· KB금융 연간 순익 어디까지",
       "source": "그린포스트코리아",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XeVJVSDlyNWZmODdpejFVMWpHV0hFdU9XMFVhWkw1clphR0xsak5GM0c1WVJfQ2hKQ25HN3VDWGRBd21YWVBpR3VkSnRVR1NuRHBra1c1dzF0TWtiVGJBU1ZNN19kdm9PYjhWTWxWeWk3aTRzMlHSAXpBVV95cUxQMUdWcWFxMDdwbzFSR0pfNWdLMXpZZmkzbGJrVHlSQ2ZlY2RhNVBuTENLWTJVSFpwbnFfWDNCSFRsalJ4RnhkM3E4dXEteEFYbDdxd1otMEZiclQ5R19La3FjYV9sZkowS1p6UWtJbE93dHZ5RjVDTERKUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxR1ZxYXEwN3BvMVJHSl81Z0sxellmaTNsYmtUeVJDZmVjZGE1UG5MQ0tZMlVIWnBucV9YM0JIVGxqUnhGeGQzcTh1cS14QVhsN3F3Wi0wRmJyVDlHX0trcWNhX2xmSjBLWnpRa0lsT3d0dnlGNUNMREpR0gF6QVVfeXFMUDFHVnFhcTA3cG8xUkdKXzVnSzF6WWZpM2xia1R5UkNmZWNkYTVQbkxDS1kyVUhacG5xX1gzQkhUbGpSeEZ4ZDNxOHVxLXhBWGw3cXdaLTBGYnJUOUdfS2txY2FfbGZKMEtaelFrSWxPd3R2eUY1Q0xESlE?oc=5",
       "publishedAt": "2026-09-22T06:34:16.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -214,7 +214,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jNFZNdmVjTXhlNEwyZWloU3QzZVhGN2kxbUJiaEJSck1xTFB4WFF5S2JiX0ZjNmJhSkdXTkIwNUFYYWRrOVRlem5DdkhVQWJaMEJ0Y1Vn?oc=5",
       "publishedAt": "2026-09-22T04:39:59.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -238,10 +238,10 @@
     {
       "id": "e4429c0d7953074f",
       "title": "[취재수첩] “1등 의미없다”는 KB·신한금융의 속사정",
-      "source": "ddaily.co.kr",
+      "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdUpWQW94cnV2clp2SDFDLXUxTVhlMFZ0cVd5RWdnUmE0LTJ1UVZXQV9YSGVneS13dHdiNjVSUFVvRk85enQ4UHg3cnVia3Qya29Ub1d6MlMwOGJrN3NOX1JSQWQ?oc=5",
       "publishedAt": "2026-09-22T03:15:47.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -258,7 +258,7 @@
         }
       ],
       "summary": "[취재수첩] “1등 의미없다”는 KB·신한금융의 속사정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -273,7 +273,7 @@
       "source": "이지경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USndlamRTVFRjYTZXdTdwWlRaaV9sZWhwLVNXeDZzRTU0bktsNXp5Z0Jrb2lybEt1cEwwOXE4dUEyZzl4RkJoWTVZWW9QZjVaLVFObnRXOVJZaThFYjUwX2hYYThRWGhhTWdFU1VR?oc=5",
       "publishedAt": "2026-09-21T22:00:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -300,7 +300,7 @@
       "source": "직썰",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbXpnemR5UVBCMGdLQnZ5UWVqX3RGdFIxdlEtOFpURFE5NWYwRmd6T0RqMFp4QmV3azI0RU1aNTlSSDMxRWpYbzJtNWhKU0lIUW8zMzFCMkQ2MEhZdmZwemJmeVhobDhw0gFsQVVfeXFMUGFEREcyVy1KZ1lteTdfbk1GeFR0OTZtY195QmJNWXFZcGliRGhPVzFnd1pYNTVFSXYxRnUyYkxiZTVEYzhiUEpVM1VHekZMdzNubk93d2o0cjBaLWFMRkg3S1Z6Wk01bU9fOGxU?oc=5",
       "publishedAt": "2026-09-21T21:00:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -309,11 +309,6 @@
           "id": "kbfinancial",
           "name": "KB금융",
           "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
         }
       ],
       "summary": "“금리·환율 쌍끌이 호재”···4대 금융, 3분기 실적 신기록 다시 쓸까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -332,7 +327,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmdwWjFKM192c0FTQlJLRlZNaWVzenRvNVQ2dnBOaFZlaW9ZOENvMFNLYTJVT29uRTNZeUwtREhVRVN4emtNVmZzWG4wZlFxWmJHaTJkUXBJdW1CN3lIRmprQVpnOTNTc1JjSWkxS3V3LUFWWnhWend0Y0lnd29walRQSWxNeGh0a0FUWU1TV3M2SjY1ak1R?oc=5",
       "publishedAt": "2026-09-21T15:56:34.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -359,7 +354,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yelhGOWhzYk04aTdBcTZFZDR3S3Q2ckotWE5EYW5fYjNwRHljcjE3c0lkOGFDVlZkdTNVNVB5Wm5nQmF4al95UXAyMHVEZHV6WVY4YllzYTZnTzdMN0Rzb3JjalBld053VWZB?oc=5",
       "publishedAt": "2026-09-21T09:01:57.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -386,7 +381,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vLXctdk11dGtVb2lmRnJ5V3RWZGhkaUVjZmVrdjJzdUZwRHA0dllmVkY1SWtLMko2RHFVcWJIN0FBb1BvYUNMWlU5UHNPTVU5dU93VFdyZVVoVnU2MEJMVFRybkcyOEpXZVkxc0phSTdYbWs?oc=5",
       "publishedAt": "2026-09-21T00:02:20.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -415,7 +410,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54ajRoOC04UlE0VFpXWnZmQ0gyVVFibjA2T19pRnppSldRUnBnUnJveHhGbE5lLXQ3RkY5QmZQQUpUenRYY1RQZFZhWkZKQ2NI?oc=5",
       "publishedAt": "2026-09-20T23:30:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -442,7 +437,7 @@
       "source": "한경매거진&북",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNa0dQNFZoVDdodTZJbDRxZVlSUkR0VHBzT0VLVVgyNDNDYXlpLV91NFVrWHhoenR2UFpEdllnZkZ1SDZCcUkxa1ZwTzY2QVFOMmJoYTZfcGFQZ1NQR0lLQUF4VjlFb3lNZ3JwQQ?oc=5",
       "publishedAt": "2026-09-20T23:21:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -464,12 +459,39 @@
       }
     },
     {
+      "id": "66addbdd8fee7ba2",
+      "title": "[기자수첩]이제 신한금융이 긴장할 때",
+      "source": "비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85SFZjRlBhcTYyVjNfR3BuMVU3M19kLWctQW90dVVkd3NhaXpRZWE3Zm1KRkxUdTlFTm5vR1RYR0dqRlV1OFhBZHlFZXB3TnA4QXZZQkRfWUhnb3UyYnNXYmoxeWZWTi1oN2JR?oc=5",
+      "publishedAt": "2026-09-20T23:00:03.000Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[기자수첩]이제 신한금융이 긴장할 때 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8a665720f94c93d4",
       "title": "[KB금융 이재근號] 비은행③ KB증권, 순익 8천억·1조7천억 자본확충…‘비은행 성장축’ 시험대",
       "source": "경인방송 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taVUydFhUODlVN1VRQm5MZFZwNThlUmxVdDRlWWN0T09PdWVsbnVWbDZJQkZwN0hCT0lfckJMeW05dzB1NTlKTl9wbmtfb1B3cVR6X3M4bXRNYXEtTXV1RHRKZVHSAWhBVV95cUxQQ0pvcG40MnlwNUlzUGs1NkREVEFlWlE2LTNZS0Fyckw5eldGbEtsRW5hbHVNVlJIdWF5NHVFb2l5Q09YYVJIV1k3LWExbmxGVE12c3JkZGVrX2RjNDRwaVhNNjRXcmpLcw?oc=5",
       "publishedAt": "2026-09-20T22:30:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -496,7 +518,7 @@
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jU1FjQ1Q2OTE4OVljNWFiWkRLRXdySm1zQTNhSWNsTUo1QUNYVXNBb0F5bjlUcGtuNmNwa1RidmZWYmZORTFqWHdFWWI0OFZDaDNWclZhcXEzU0hzYmpxc0ZHNmUzUlFuWFpjckFZVks4SVVfOFE3ZjJQS1A?oc=5",
       "publishedAt": "2026-09-20T22:00:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -520,10 +542,10 @@
     {
       "id": "9391e1412396c59f",
       "title": "'정상화' 다음은 '수익화'…이재근, 글로벌 사업 시험대",
-      "source": "dealsite.co.kr",
+      "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeTdKOWRjNjluTjNjbHNtdHhqQkxfaHI1RTNUYl9KdWNpeWNyN25sM0c2VzhCb1pXejAyOTl6NVpkOEJmNnlpSmJEMUNVQkU?oc=5",
       "publishedAt": "2026-09-20T21:29:59.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
+      "collectedAt": "2026-09-25T15:41:22.653Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -535,33 +557,6 @@
         }
       ],
       "summary": "'정상화' 다음은 '수익화'…이재근, 글로벌 사업 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d0af0a7ad1274a2c",
-      "title": "[박종면칼럼] KB금융 양종희 퇴진이 던지는 3가지 질문",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5eXU0ODZDVG4yUlpkbzBiWWk2dkZuR1JBcXBidHVXcGdkLVpTOG9iVVpNWW1BdmtNM2JtTVpSUEdlT00tOUhlTm5pd2VWbkpOa3M1NDRPSUNGcjRRc1ZGejRGdWpUN3Bn0gFsQVVfeXFMTVVlMDlFeGZTT2V0M0lQbjdlUGYtVXB2NEwyM25OWFBMZW9ZRDRCQ0NaZE9PLWdLYXRCcFY2YUIwMkpxdlFPQXJNRmR5MldNbGhaZEFpVkVwQldwRVFKNDBsaHhuUHV6RGhnZnVn?oc=5",
-      "publishedAt": "2026-09-20T21:00:00.000Z",
-      "collectedAt": "2026-09-25T08:21:58.158Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[박종면칼럼] KB금융 양종희 퇴진이 던지는 3가지 질문 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
