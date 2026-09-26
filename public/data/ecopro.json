@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T01:04:17.903Z",
+  "generatedAt": "2026-09-26T08:07:58.527Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "게임을 분류할 때 볼 kb 스타 클럽 룰렛 진행 특징",
-    "에코프로 8만원선 지켰다…에코프로비엠 상승, 새주 그룹주 흐름은?",
-    "[공시]에코프로, 인도네시아 법인 지분 취득 연기"
+    "충북도, 5년간 이차전지 4830억원 투입…기술 다각화",
+    "\"국내 최대 이차전지 제조거점 충북을 글로벌 산업 허브로\"",
+    "게임을 분류할 때 볼 kb 스타 클럽 룰렛 진행 특징"
   ],
   "articles": [
+    {
+      "id": "0d7dada92ab9acfb",
+      "title": "충북도, 5년간 이차전지 4830억원 투입…기술 다각화",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2aFBhVTZMRXdlZFQyVU45ZUk3TUZwUnJPUGpDTHpJVU5SMlVPblJsNkYwWTJhSGpGaTMxTkhrQ3FmQkdwZlBCUGpadktjTWN6QzBsc0xaQVdmS0F6SVFObGw3blZUUDhZV1ZRV0lPc0JmZzRpekpqT9IBeEFVX3lxTFB2aFBhVTZMRXdlZFQyVU45ZUk3TUZwUnJPUGpDTHpJVU5SMlVPblJsNkYwWTJhSGpGaTMxTkhrQ3FmQkdwZlBCUGpadktjTWN6QzBsc0xaQVdmS0F6SVFObGw3blZUUDhZV1ZRV0lPc0JmZzRpekpqTw?oc=5",
+      "publishedAt": "2026-09-26T03:24:15.000Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "충북도, 5년간 이차전지 4830억원 투입…기술 다각화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8874108fb03e0d2b",
+      "title": "\"국내 최대 이차전지 제조거점 충북을 글로벌 산업 허브로\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IQkhadnFubmdIX2NaRDQ0VjctMkFuOVJsb0Y4Sm51Y3ZtdUdHNkxfbWM1NzZ3YkRoOW8tN2Y3LVFOZDR5WE9SandFWmtPVEZKaEZqNllGVF9iRVJIUGsxddIBYEFVX3lxTE1IQkhadnFubmdIX2NaRDQ0VjctMkFuOVJsb0Y4Sm51Y3ZtdUdHNkxfbWM1NzZ3YkRoOW8tN2Y3LVFOZDR5WE9SandFWmtPVEZKaEZqNllGVF9iRVJIUGsxdQ?oc=5",
+      "publishedAt": "2026-09-26T00:40:01.000Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "\"국내 최대 이차전지 제조거점 충북을 글로벌 산업 허브로\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "8f40927430049153",
       "title": "게임을 분류할 때 볼 kb 스타 클럽 룰렛 진행 특징",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3JhZWdZWjYyNWdqMFdrQXNfbXpDbGFwWUFna1pJSGwtVkJ4RnlxRGhwZ3BuZGh1T2xETlVwU1JPMHpDSkNSR2lWM29nanJEX3c5T005WERmWXd3TFhtaU9fX2NtcE1GM014YU90VU1HWWhfTDBCbUtGVHlvU0Uyd3R4UmZrNUx6LVdhNEJIZ080STFURFhWRkptVkZDbE8zcWtyaWZ3dzB4eWtRRDFod2ZzWTF6SEpkLVlz?oc=5",
       "publishedAt": "2026-09-24T13:47:45.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -47,7 +101,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jYkJObUhSel82aFVqRzJBVlNhbHIwSk03QjhSdzBaRW5iVVFZU1ZrREsxZW5WSUJ4c1hkdTRiWl9WUXk4UTNRUFBsZ3ZmYVpqclpXYlZ4Ykd0ZDdGSExjblZPVjZ6YlZt?oc=5",
       "publishedAt": "2026-09-24T08:38:57.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -74,7 +128,7 @@
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMUpXbl9oTU5WQUtwMnpGSEdSVzV3Ry05N0Zrd3I0NWVxUThBLU1mSGFNSGJOVkF1dnlHZzNTOG9lT05tX0tkS0Rwbmt5UDIwUThBdmtNZlF0TlFMN3UybUpVTkVub0lkTS1R0gFvQVVfeXFMUFpjZ1VlSW95WTNZXzgyQWFUQmw1bXpXbDZwNVRpUXNuSjRubFduZTExejJRMkhwS1BSYldTcUhvU3VmUUFUdnVYbG1uWTZfNGVlbnM2X2hma1liY002NWgwakg3b0hrR1JlOHN0cW9j?oc=5",
       "publishedAt": "2026-09-23T13:48:56.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -101,7 +155,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95a0Rzd2Nfa2hCdG81Z1pERkhHTExILVEtV2ZVdlJOc2hBV0I5X3pqNG9IVk8yRFVOY2M5QlV6UVFSNkJpclFaSGpfLUlQdGxmZ2tkQ3VxU01BZzFaQi0xcXExWElENHRGcVFaUXA3djZETnfSAXdBVV95cUxOMGxIMm9OMjl1b1hJX3Z3U3ppbjhpU083cTB4SlNiR05sRGRSdmtvd2lqblBncnZWemo2MXp6Rl93UmhkMkdrRndXdm5RbHk0cEhIZlVvbFVENHZUb1NoR1ZfajRuVnQ4a3BVSjhMV2dRZDNkRTlsUQ?oc=5",
       "publishedAt": "2026-09-23T06:53:27.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -128,7 +182,7 @@
       "source": "그린포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lRlFBUW1oYlpWX25uaVhQdER1b09KRkYwVHphWHFqVU5jVDFaZ0pFamowcVF6eVNrVTlvd0JvOWJtVFJlWjZfQmlnSExqY1pWcDMxUWpDUlo0X24tNWwwcjBhY3QzX1lOMlU0UHJLVmhkUGJYanfSAXpBVV95cUxOQVNidlp3U016ek9TcWpsbHg3bWdqYndOSERjdnJzRzRWQ3prckEwcjh5VFRXajhoOFluTEFoWjNxNktvYTZsSzJQM2JjSGQ2ZXpKTk1pRVQzcVBRQUdwbjRrVmJoZXJpYTFJWWJTaGVxUnlIVlp5bFBwUQ?oc=5",
       "publishedAt": "2026-09-23T06:20:13.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -155,7 +209,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOci0xdVptRFhINlZpZ3U1aVRtWURtTFhqTUM2Q3ltcjY2NWRpUnFqNW8wQkxvY0dPeWd2Nm9JOHpGZnFCZXhOcTdIcjFKeDh5R0Z1OUhQaXVnUXZ1anZ4OEtGWHduUkx5dDJhYXJsU1gwZzZIR3lpT0Z6Y2RtWHhObzZBc3lvdFU?oc=5",
       "publishedAt": "2026-09-22T09:49:50.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -182,7 +236,7 @@
       "source": "소년한국일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWTY2cFdScWQ3dFNxWUp1TWZpZGE2dzBYcjRaeXdfX2NJdzdYeHExUlEtVjdWTDNwLU1DSlRJYXA2TlhCb0VPTjdwTzJsR2RDM284aFdwTkxUNjZoU0RlN1hVRjZUYmJFX2ZRMNIBcEFVX3lxTFB1Vm1ydURyMHQ2ellfeXpmR21Id1BYbmV6ZDZ4THpCdTNsNTZTQzhsY1Jlb2FLd3Zmbm5mc2NBYWJtOWxXSWItTDA3a09OeWxZZjktcjNkdW9HRkJURHd4RUJmOWxSVUJ5SGY0Q09pbzQ?oc=5",
       "publishedAt": "2026-09-22T08:11:01.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -209,7 +263,7 @@
       "source": "재경일보",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuS0ZlQjBXd1l4NU1TOTY1NmR3VXR0ZkVUbkhnNzZ1Rnc3d3VSOE1MN0tqMWdlTjNuVTFpNG9zX3pIMXFZV0xOTmNB?oc=5",
       "publishedAt": "2026-09-22T07:59:00.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -233,10 +287,10 @@
     {
       "id": "ca23103604bd223f",
       "title": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 : 네이버 블로그",
-      "source": "Naver Blog",
+      "source": "blog.naver.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEctRmNNLTBkM3R1MkFoZUpJa3AtN0s4S0p5c052Y2pSanBFWHpRM3JiaER2RXJSdDhDZThncVpRMWJCdEVBRkxNTjY5ODVCT3AtUl8wQlM0bkxUYTAtR0RDQktJZmNLNHFqWnFlN1ktMGUwb3JvWGVieHRaUklfaTlmR1lqc29YcmdaS3pSYw?oc=5",
       "publishedAt": "2026-09-22T04:14:07.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -263,7 +317,7 @@
       "source": "재경일보",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WMGRxd3V6NWxHejZDRlZYZFdvWHBkMngyblNVYTd2S1o4a2dReDFKYV9nSjE0OVJOWlN1dldwNXotWUJsOERUMWxB?oc=5",
       "publishedAt": "2026-09-22T02:33:00.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -290,7 +344,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE5DNVI0ZFRIUnhZTzZaX1pNY05DaVBRRVl5ZGpNS2l3c0ZCLVZYUndvRTJEbzNCRlkyLVVuanhaaHBoaXplSzgtcGYzdkpRdTlKbnh5MFNpMVFaV1dKLWNfbVZBTVA2X29rWE9mRm1VX0dPd3pOMGtRaDdRbHdJS2wza2tFVXdvYXFVTDZnV2N5dW5IUWRZ?oc=5",
       "publishedAt": "2026-09-21T15:18:02.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -317,7 +371,7 @@
       "source": "경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZk50Vk1WdE8xTVdYNFptMWVQSW1XTkNvWnJzcEFwVE9NQlROM3JyVUZucVM5NVBKNm1lMTNwekJ3ZFFZekE0MlFPQzlwWmNCODU3QWFVS09FZw?oc=5",
       "publishedAt": "2026-09-21T06:52:00.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -344,7 +398,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zNHh6aHg5U2o3R1N4Tm5kUHJEUmFDZ2xMMTFjMndjTER3N2RkZFc4Sm95a00xWTV2YW5oRlNVMWVNbURhR3RJYXZnMThjbE1iZnlGUnBzaDlrdUNnaW9heEZkVTN5NE0y0gFsQVVfeXFMTncxNW4zY1MzcFcyOUl0aElRTjBveEREOWhPRnpEOVg4TUxWTWdTWDhQZ240Y3RqaEE5NGd0SzBYcHZ6eVZ3MGJlckZnWk00clZLamFaLVpXR0RCWEVmZ0JaU19UcmhScm9tMElS?oc=5",
       "publishedAt": "2026-09-21T06:22:12.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -371,7 +425,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QRUYxSzdKc2pvOFl6NWwzSHZuZnEzanFhNFNSTEdoNWFMUlZIM3RuMktDNFdCNjhIOEQya2hVOHVMRUdSLWc?oc=5",
       "publishedAt": "2026-09-21T05:22:03.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -401,7 +455,7 @@
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUmVwNDVqdmlOVHZvbEZkSENTSTJxQ3JxME1hTnI1eGtNa00yQWdEcE1sYmplY3NmcXZ3eHhaQXN4UFRIVVpfQ2pVNXhNdHRiakFfYldDSUpjd9IBVEFVX3lxTE03SW9sYmM3ZlpYZVJkWnpXZ1FUamNuZHg1aGRNaUxLOFRackRQTGg5bUhmR05fOVVCUTFRMkktQXltUi1TS29pd0hhX0NlTExvTDdRWA?oc=5",
       "publishedAt": "2026-09-21T02:53:51.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -430,7 +484,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFN0UVAtdmJ1czZlMk1fLVl2bXpTWFo0RHFRTDJhbFJNd0Q5UHpPWTI3Y2d4OWdzeXB2WjlyNWx0YVhWMkdqb1FDaDNHekJCdUdlNFVYSS0xZ2VYcUF4T3ZNSnczZVpIQTl6dWlYTUxFR2ZrT3VFeUpEUXRxaElXSGxtUTdXeEtI?oc=5",
       "publishedAt": "2026-09-19T18:45:00.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
+      "collectedAt": "2026-09-26T08:07:58.527Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -451,62 +505,6 @@
         "negativeTerms": [
           "지연·실패"
         ]
-      }
-    },
-    {
-      "id": "a69fee97dbd37a39",
-      "title": "[공시]에코프로비엠 임원,유증 신주인수권 101주 확보",
-      "source": "한스경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DODBYQnVKcHl2ekNPNHF3eXZrYmNVbjBhOTFTQlNhWjFDZDJYT0JIYy1VMkFLMGkwYTZGM1BUQUVGeW9nY2FQa25QcE02RllCMndXc3VHeFNxY3JRVjkwRXc2aVVqYlF2WEdZ0gFvQVVfeXFMUFNELVRzZjM1VENwTURHang0UzA2emJTQXNxeklpWW1OcmxVMmJXbHB0S0FDWEZUUEFlYjItOFN2TTVJY1hvZTJ6eVc2VkZRTFNjN3B3bmRYZERPTE9iaE4zelVXd19jNkdnQ2s5Y0NB?oc=5",
-      "publishedAt": "2026-09-19T03:21:04.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[공시]에코프로비엠 임원,유증 신주인수권 101주 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6e5b7d703d2dad4d",
-      "title": "코스닥 강세 지켜…에코프로비엠·원익IPS↑, 알테오젠·에코프로↓",
-      "source": "CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeFZwQnRtbThYYjM2dTgzdk1ETWdsM1BCdVBiSnQ1U1lBLThEcTJEYS1rc3B4YVlZeEJES2FKRHpaMHVnM1NFQW9zdEczNFBmNW5GanVvRGdEYzdKMHpNVURlcTQ0OGIw?oc=5",
-      "publishedAt": "2026-09-19T01:20:00.000Z",
-      "collectedAt": "2026-09-26T01:04:17.903Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "코스닥 강세 지켜…에코프로비엠·원익IPS↑, 알테오젠·에코프로↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "강세"
-        ],
-        "negativeTerms": []
       }
     }
   ]
