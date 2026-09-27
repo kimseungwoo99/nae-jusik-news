@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:01:43.243Z",
+  "generatedAt": "2026-09-27T08:44:17.677Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 자동차 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성은 가전, 기아는 전기차, LS는 전력…멕시코 간 9개 기업 ‘누가 무엇을 노렸나’",
-    "LS전선, 해저케이블 생산·시공 묶어 유럽 해상풍력 공략",
-    "해상풍력 멀어지고 커진다…LS전선, 유럽서 HVDC·해저케이블 시장 공략"
+    "LS전선·LS마린솔루션, 유럽 풍력 전시회 참가…해상풍력 시장 공략",
+    "중앙아 3국에 깃발 꽂은 LS…MOU에서 수주까지는 '긴 호흡'",
+    "“로봇이 만들고 AI가 관리”…K-전력기기, 스마트팩토리 고도화"
   ],
   "articles": [
+    {
+      "id": "722e1890d5fbef06",
+      "title": "LS전선·LS마린솔루션, 유럽 풍력 전시회 참가…해상풍력 시장 공략",
+      "source": "강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV2pPWlVfYkNKbGJSZmFHUkUwMlhoRm1ZdGg1RUtlSnJBSjh2ZnRlWTBGZXZISGs0ZXNxTU0xWnhzUVRZZl93Rk84NFBEZWMweDVCcEdfbDEwRVU?oc=5",
+      "publishedAt": "2026-09-27T02:53:41.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS전선·LS마린솔루션, 유럽 풍력 전시회 참가…해상풍력 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "3144c3532e01d2e0",
+      "title": "중앙아 3국에 깃발 꽂은 LS…MOU에서 수주까지는 '긴 호흡'",
+      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yVWo4NWRNRVhmc2RONUNEeUZDLVJ5MjRBaU1pS2hGd2J4Ry1Rc3ZrX2ExMFc4ekR3YUxqbkVJT2hXLXprMWNpZ2hyOA?oc=5",
+      "publishedAt": "2026-09-27T00:00:01.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "중앙아 3국에 깃발 꽂은 LS…MOU에서 수주까지는 '긴 호흡' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5dd14cdecec4e825",
+      "title": "“로봇이 만들고 AI가 관리”…K-전력기기, 스마트팩토리 고도화",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FeENEa29tSlZ4ODNnRjVTTE04OXJvQ1hrcDVyY2g0a3Zub0d5OW85SkVWdDE5RVIzcm5QX21NSHA3VTBKNGlZVnA4NzFHWHNZSnVGNm9ycnhYV2M?oc=5",
+      "publishedAt": "2026-09-25T21:00:00.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "“로봇이 만들고 AI가 관리”…K-전력기기, 스마트팩토리 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2f2916e669ed0731",
       "title": "삼성은 가전, 기아는 전기차, LS는 전력…멕시코 간 9개 기업 ‘누가 무엇을 노렸나’",
       "source": "경인방송 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cEJNUEtDNWZoQ2dfTnZPZ29mQ2hnQ3R4a1A0dmQ2UjE4ZmFrNFhSSVVlYlBOT2NqeGNNTWx1dE4yRjhvMUctOVZPam16dzNPRGNoaHIzUWhsZTRuZkZTRFpqX3HSAWhBVV95cUxNVUh3M1N6N09NaWVOR3pmV1MtZDFveXlReE9GQ0xuLS0tR0dHVnZsd0RFVUFsWWxhZ3BMVF9BV2pLc3B1ZmJZc09GaTlWNGdLRUJRYmY1QUc5TEVNcUN2MlItSGhqa2RNLQ?oc=5",
       "publishedAt": "2026-09-25T08:47:39.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -42,12 +125,39 @@
       }
     },
     {
+      "id": "7207b0a1a71aa808",
+      "title": "LS그룹, 중앙아시아 사업 확대…통신 인프라·핵심광물 공급망 공략",
+      "source": "웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQ1pYb3F1d2Z6V3VZS0tLaXotUzAzTWlnUjlXazJ1bUt1eW4tRHNJeURZZVBBVEVqbnFoRHpkaXlpMFN1THdiWW42WVRpOHVNa1dMZnkxTWFTdmNWQjNMdlhndVdKWFVKV0M0YUR5NXYtZw?oc=5",
+      "publishedAt": "2026-09-24T11:01:00.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹, 중앙아시아 사업 확대…통신 인프라·핵심광물 공급망 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9ab370d952610ce4",
       "title": "LS전선, 해저케이블 생산·시공 묶어 유럽 해상풍력 공략",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hcU5kcWFBeG1QVWJnU3RQYVlxbDZ4X2dYX2htVGtjVGFOU3l4TnBxZVJtc3dISTNsZXdRQm9FZHZTUzZzWnhWOGdLdkxCY29obnZ1c2lzSndUZFhjQ3pnR1pLS3U3QQ?oc=5",
       "publishedAt": "2026-09-23T07:57:52.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -74,7 +184,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01WmNJNUUtd2Q0UzVWYjBkbkZ3alA4VVFSLWFTN3lwTjdzcUplOXQwZG1namJja2tSRTBRdHYwTlBsUjZYSnZtaTdCRjVVdTBKWm90Y2xNRVBabThQWU5xdjZtSHlrcVhJaGNOd3RoenZ4QQ?oc=5",
       "publishedAt": "2026-09-23T04:23:03.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -98,10 +208,10 @@
     {
       "id": "9a45e86d3b742b9b",
       "title": "[LS 구자은의 AI 승부] AI데이터센터 전력 팔고, 공장에는 로봇 투입",
-      "source": "ekn.kr",
+      "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRFNrWXpsT3NjeVowWlJqNVMyaUc1Q0xvU01HUWVjRmtrVUhVaHRON2tibFB4TzBZMmJmNXZrbU1jVVhsRmxHV1Q1NDhJMkJNZ0JKSmtQNjlPWms?oc=5",
       "publishedAt": "2026-09-23T01:41:15.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -123,12 +233,39 @@
       }
     },
     {
+      "id": "5f8af0042e05986f",
+      "title": "자동화 넘어 첨단 로보틱스 도입하는 LS일렉, ‘품질·납기·안전’ 삼박자 갖춘다",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ocVFDWFVHRXpIdjl5ZU9XbmhfNENpQmRsSmZYZjBXSXloa2hUTlpGWFhxTDhmbEY3Zk5rOHhkOUpNMEdhaVc1ZlVIajVvMzJTRURqY3ZYSFZrX21tU3pwaWppdVpyUFpZbkNoa9IBcEFVX3lxTE85SW8xSktGQ2kzYkFwV2NCN1hjRUlSZmxNbFllSVkxUmZtbHJGV2U5YVdOeVRVbXBwU2ViSElUX2JDdEF3MTBEdmRmeFhTakJiYVhBTy1aSFpEMGJLajFLU3ppY25TdW5mLWJlczZ2aEI?oc=5",
+      "publishedAt": "2026-09-22T06:51:19.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "자동화 넘어 첨단 로보틱스 도입하는 LS일렉, ‘품질·납기·안전’ 삼박자 갖춘다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c3c6aa3fc9695ac3",
       "title": "전력난 허덕이는 AI 시장에 '구원투수' 등장… LS일렉·SB글로벌, 데이터센터 전력 인프라 공동 구축",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zVERZb3BDc2RLUEdNcllPRVdjdUNUUXpYWkxIdEdoRkE3NVJFRWdmY3RlSU5LUDNvREdMcFVFTlZDZkFkUkUzaWs2c2x6a001bnNfRGo0VmFId2VJRFY5anZxOFdMVTFtZjJHc9IBcEFVX3lxTE1RZWpoMUFhV2w1WDg4dGlXS0hYWUdvTlNlVFJtZ3AzOVo2UW9pNFNvbjItNEVXcS03VlpEaDAwU1JvQjVaTHdJLWEzWWsxUWc0VDJ0Q2M0MkpMdE9DQlZLRjVyVE90dDIzMDJBckctaDU?oc=5",
       "publishedAt": "2026-09-22T01:37:43.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -150,12 +287,12 @@
       }
     },
     {
-      "id": "9de1689836f70ac4",
-      "title": "[AI 대전환 리딩 전략]LS일렉트릭, AI 수요 사로잡은 직류 배전",
+      "id": "4c3f3926b815c26c",
+      "title": "'14위→8위' LS, '8위→11위' 카카오…구자은 웃고, 김범수 울었다",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45bXE0M2tPNW5vRmxpd09DSlM0S0hxSTdOYkNIQTlEUW5rOVVINVA0R2dCa1NiSUFOYVZ1SWxPakF1RkhwZ1E?oc=5",
-      "publishedAt": "2026-09-21T14:29:51.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LMGdfUjFMUTFxSFE4aXhHaFFFN0Jyc1hUeW9Jd0pjaFBhQ2hTR2M4MUFjVzh1ZnNienlpLWl4YkV2RmFyUVFMOVc0Yw?oc=5",
+      "publishedAt": "2026-09-21T09:01:20.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -166,8 +303,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "[AI 대전환 리딩 전략]LS일렉트릭, AI 수요 사로잡은 직류 배전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "'14위→8위' LS, '8위→11위' 카카오…구자은 웃고, 김범수 울었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -182,7 +319,7 @@
       "source": "위클리오늘",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRzlLUF9BbE9PejZ2UW83anRaU3ZwbHZuVW50ZUsxMHVic1FOd0VFZE56MGlNaDlpbi1jaXMwbDA1bndMT2dmV1NsekN2NS1KQm5GSjFQbGl4OHk4VE9ka1h2VEFMS0V1MWJpdGpYbw?oc=5",
       "publishedAt": "2026-09-21T08:00:46.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -209,7 +346,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGd1TWdZaW80cWtLYTBQUlktM0hKZHlpSl9XSDhIVDVOLTBla1UzU0VoQldvRjRaNFV6SS04QmRFN0paZ3lHODBaNFlGWEV3cEc2NUpBbTlHNGZPbzhzdjJzMkVlNkFNN3ZtNk03a2p3N0FXaWw1VnZOSUhBcm5nZmpHeDBfZw?oc=5",
       "publishedAt": "2026-09-21T07:45:59.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -236,7 +373,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TnB3Y2k2aktGbWFiNEd3dWZ4REJOdHBkMFRlaXh0LWdhYkhxdkM2S2RrSGdKWHdITzRsUktsNmdvN0lRNkdoMmVxUmVjQWdxRnI1dy00ZzJpUEpLVTBZZ044VXBNa3p2WXpuVThBVEpxVEk?oc=5",
       "publishedAt": "2026-09-21T07:45:07.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -263,7 +400,7 @@
       "source": "업코리아",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heDJMWlp4THMtaHNtd2NFN21pZlpvZXA5WDMtWnZrOUlraVlJbUY2RzJtSFFuczZsRy1HVElmaEE5UUlDRUIzazhCLThaYWhQZ1h4aDZkNjV6cUVIWF9OakxlUnRsNlJHanFXU1V3?oc=5",
       "publishedAt": "2026-09-21T06:01:04.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -287,12 +424,39 @@
       }
     },
     {
+      "id": "1a7d818bcc415bad",
+      "title": "구자은 회장 \"AI 가치, 고객이 체감해야\"…LS, 사업화 박차",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YdFExNXBaOGJFNWpEcHgta0J3djY3aTlBSWtGeEdsMFdKQVQtU2ZqYkZCbkhUck9CSm9qWm9MR3BXTFh3bERUOVlGWXRhSmFqZ1VtVmVrZnBteTJr?oc=5",
+      "publishedAt": "2026-09-21T05:44:00.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "구자은 회장 \"AI 가치, 고객이 체감해야\"…LS, 사업화 박차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7caa56a3ecb991a7",
       "title": "LS그룹, 제조·전력 솔루션에 AI 적용 확대",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV0s3ZjZZOXVOTUZ5ajE0c0FYX01paTViaUlwYzE2OFYybkdxNk5tZDlTbXR2QllsZnVZZ1pkTDQzamppeGp4SEtkVFJnY2ZwaHd1QTctR01pdThkeUtBWk5hdmluZw?oc=5",
       "publishedAt": "2026-09-21T02:10:58.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -314,12 +478,39 @@
       }
     },
     {
+      "id": "0d9653d37dcf66dd",
+      "title": "구자은 LS 회장, “AI시대, 고객이 체감할 수 있는 새로운 가치 만들어야”",
+      "source": "백세시대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAteXJQM05VYkVlcXNBcXV1SG9CcE1CdkZkUlVFMGx1UHl1U291dVRrc0FYcHVRTEpyQW0wQlhtaWRxSWRUbU1tLWhESkFYcVFuclFqVFRkcHo3b3poYzJzNTJZNnRFQ2ZrU0E4?oc=5",
+      "publishedAt": "2026-09-21T01:14:46.000Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "구자은 LS 회장, “AI시대, 고객이 체감할 수 있는 새로운 가치 만들어야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d7d0c3ee6bbb4421",
       "title": "구자은 LS 회장 “AI 시대, 변화의 속도를 누구보다 먼저 즐겨야”",
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OQzRrc0N5U3lNcXlMTnllOWU2WE9jWDFfUWc4MGxJQ2RpOGJOR0VDV0tMd2wtOFZUOUR3R2dLWVpsbWZUYUdFRFdGc25BX2U0MDZNSHhYd0RJTUtmOUZhNVZGdXNyYjE3ODFfdVFqMXJMZw?oc=5",
       "publishedAt": "2026-09-20T23:26:24.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -346,7 +537,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VRWFyNldvaV9seFdzRHlVZVVZbEd2OFlYRk0xeXVfRnRad2FlUkc0MWJqcDdwRmVnNmQ0OEN4LXd6YXl4TTNVa2Fiay1VOXNBZUhaaDFPVFotc2c1RXN5aDAyWTVFS01YZWhTSA?oc=5",
       "publishedAt": "2026-09-20T23:24:02.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
+      "collectedAt": "2026-09-27T08:44:17.677Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -358,195 +549,6 @@
         }
       ],
       "summary": "구자은 \"변화 속도 먼저 즐겨라\"…LS, AI 사업화 박차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d1864dd6efdede26",
-      "title": "‘보조’에서 ‘핵심’으로…가온전선·LS에코, LS그룹 ‘성장축’으로 부상",
-      "source": "대한경제",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOXgyMmZVWERjckhEczhyeFZDU2FPLVV0eFRpQ3FGUEotUFpqYUxaZDFLcDBaaHRuVzl6R0p2YTBFS1ZOWWd6RUJ3OVAxVmJOc2s2UXRMM3dnWEh5V0xSWi10cHZYd1J1TGZORFdnd0ZZVU82?oc=5",
-      "publishedAt": "2026-09-20T20:40:31.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "‘보조’에서 ‘핵심’으로…가온전선·LS에코, LS그룹 ‘성장축’으로 부상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a92053de8c69b175",
-      "title": "구자은 LS그룹 회장 “기술변화 속도 즐겨야”",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SRVRMZk5OOVpJdHlSY1NQbl9zbjJxb0s3c0E4WnZFVm1SS3BpNWd0czdmMWtXOURXRUtUZkd0dWEwQW9LNGc?oc=5",
-      "publishedAt": "2026-09-20T15:04:46.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자은 LS그룹 회장 “기술변화 속도 즐겨야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6ecc4efa8682f3d4",
-      "title": "“AI 아이디어 500개 발굴, 이젠 사업 성과로”…LS그룹, 제5회 퓨처데이",
-      "source": "더게이트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ekp2ZW9ZLXZjOUhtNFhuSlBHUTJlTU1Na1JyZV94b0dlemhFSlJXWF83T0FiLXVMLVNSNFNTdDdqbGhwLUJ3anhkYkw0TjhpN2pXTzJnd3c4S1kzU0laZ3podVFSOExa0gFsQVVfeXFMUE1GOXR1N2t1WVAtTG1aOU4tUFhtZE1haDNOaGtGTTRmMGZZYmtjdXhpR242T2trczhFZGc5Y2k0UnVTRGFvbzZzZ2RlMmhrZVV0SXNwNXBRd3AwZWoxT0VfTVRxZFlhVmFuR3Q3?oc=5",
-      "publishedAt": "2026-09-20T02:54:46.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "“AI 아이디어 500개 발굴, 이젠 사업 성과로”…LS그룹, 제5회 퓨처데이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cafb5222b7724cd7",
-      "title": "[오늘Who] LS 회장 구자은 \"AI로 생산성 혁신해야, 변화 속도 두려워 말아야\"",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JMy1oTjloSGNqZG9CUXFFQzkxdHFXWExfLUo4WkNFMXZudzVwYnhpZHNzX21lUWNHcVQyb1JIREttcWsxQ2YtU016U2lra0YwRFkxODA5ZHZZN1VIZWRsYVlvV3NtUFhVQXZ2WHBXQWFpZmc?oc=5",
-      "publishedAt": "2026-09-20T02:41:04.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "[오늘Who] LS 회장 구자은 \"AI로 생산성 혁신해야, 변화 속도 두려워 말아야\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ddf3dac9f6885ec6",
-      "title": "“AI, 단순 탐색 넘어 현장 속으로\"…LS그룹, 제조업 AX 속도 낸다”",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONmxjN0oyUUwwRmplY0h6c0huUEJJNDh4SVVNU3JiVTd1My05X25aYVpidV9odWJpVnBGYllyb1RfMldJUzI5YUFXY0QycC1qZWNkc09NVkJtTFBvYmFoajJVU2htdElPM1lNQg?oc=5",
-      "publishedAt": "2026-09-20T02:13:59.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "“AI, 단순 탐색 넘어 현장 속으로\"…LS그룹, 제조업 AX 속도 낸다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "30c480428d8e0519",
-      "title": "구자은 LS 회장 \"AI로 생산성 높이고, 새로운 가치 만들어야\"",
-      "source": "데일리인베스트",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xdGtsX2x5WklYaFBlSnNEY2NUTWlIM1d6NnY4cDNDd3FBekRpRGowTzdhVXowZzBEQlZVTUZMOEZUMXBsLTBGakcwWFQteUFuYTdKa0lJR3FOOUp4NkZQWjRMVzFHWGw0OE1N?oc=5",
-      "publishedAt": "2026-09-20T01:45:24.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자은 LS 회장 \"AI로 생산성 높이고, 새로운 가치 만들어야\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bf1ef4a6271a8b8e",
-      "title": "구자은 AI, 탐색 넘어 성과로…LS, 제조·전력사업에 AI 이식",
-      "source": "아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZjMtMHFBQTVyLXlXQlpNR1B0MkVEWTdlU1pEblotUTNoUzBuSkxxMWRQMFZLUmw1LUdzejdKM2ZndjhDa1RiUXFjXzVHXzRFcEg1VngzcDFLQdIBWEFVX3lxTE82OEFZQTh2ekdVakNiNVIzb1BOTl9XSXkxaDdQbXlWSE1OU1JRNHZ1c1ctUmVfcHY4TEZSM0R0My1rOHR5NkFveE5kTGhBa2FOVWJfdlc0RHY?oc=5",
-      "publishedAt": "2026-09-20T01:23:33.000Z",
-      "collectedAt": "2026-09-27T01:01:43.243Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자은 AI, 탐색 넘어 성과로…LS, 제조·전력사업에 AI 이식 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
