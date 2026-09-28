@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T09:09:20.096Z",
+  "generatedAt": "2026-09-28T18:19:14.447Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성SDI, LFP 탑재 ESS 대형 화재 시험 통과",
-    "삼성SDI, LFP 기반 ESS 화재 안전성 입증⋯글로벌 테스트 통과",
-    "삼성SDI, LFP배터리 화재 안전성 '글로벌 인증' 통과"
+    "LG·삼성, ‘캐즘 악몽’ 벗고 배터리 반등 하나…“ESS 시장 급 부상, 흑자기조 굳힌다”",
+    "삼성SDI, LFP ESS 경쟁력 높인다…글로벌 화재 안전성 평가 통과",
+    "삼성SDI, LFP 탑재 ESS 대형 화재 시험 통과"
   ],
   "articles": [
+    {
+      "id": "327a131d065f2ae3",
+      "title": "LG·삼성, ‘캐즘 악몽’ 벗고 배터리 반등 하나…“ESS 시장 급 부상, 흑자기조 굳힌다”",
+      "source": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fbGhyTGdqZjZmbWdVQ2JDNzR3YzduUmVFVS0zUGl5VmFlR29UNmlsNGVHRzBxYWtGYTJXYlRGOG9TTDlRZ0tpSEZpOUZsX3NrMldpRno4MFQ3dDBWUFJRQjR5bmZHUVU3?oc=5",
+      "publishedAt": "2026-09-28T08:54:16.000Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "LG·삼성, ‘캐즘 악몽’ 벗고 배터리 반등 하나…“ESS 시장 급 부상, 흑자기조 굳힌다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e6f40e3c917cf491",
+      "title": "삼성SDI, LFP ESS 경쟁력 높인다…글로벌 화재 안전성 평가 통과",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wTUluYVZzaG5va2ZUbTRrQ3puUDZHeVl0T0NJYlJSY2dRT0xsbEp2eVFoUTNZN3N6SWFrNFV1ci13OWgwYnBWWGlkMjlmT2NheHFERWc4VUthUW5HUmJWUjE5Yk5sakhH0gFoQVVfeXFMTTBNSW5hVnNobm9rZlRtNGtDem5QNkd5WXRPQ0liUlJjZ1FPTGxsSnZ5UWhRM1k3c3pJYWs0VXVyLXc5aDBicFZYaWQyOWZPY2F4cURFZzhVS2FRbkdSYlZSMTliTmxqSEc?oc=5",
+      "publishedAt": "2026-09-28T08:36:32.000Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, LFP ESS 경쟁력 높인다…글로벌 화재 안전성 평가 통과 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "021279c015fe5cb4",
       "title": "삼성SDI, LFP 탑재 ESS 대형 화재 시험 통과",
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfYmxBaUdpTXZ0eTg5bC1VUDlhejBRY2Y5WmlBVlpCaHo5MHIxUzI0dDd6dWZrMHhHSHUwTGtPdUhXbzdHRHlELU1HVUFCcTlQbElPaW9NN2ZhWV9NaEd6cQ?oc=5",
       "publishedAt": "2026-09-28T06:05:21.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -47,7 +103,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcU1QUl9BcHBReTNSbnFmYnVzek8tTi1NanI3TzRqM0tENU9RMWRXQXRJM19WdzJtWFZjYlRZZU1YRGZaWDQ2RFpFQk5JSG1XSlgwRg?oc=5",
       "publishedAt": "2026-09-28T05:28:00.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -74,7 +130,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fREJETE0tNWlBUmxrZjJXN3pOMVlKRHczY25nTlp4NHU5VkZvbHNNa1FJb3gxTWluZmM2eGhxZGRoVDRlVEd0R1VyNkQxdw?oc=5",
       "publishedAt": "2026-09-28T01:11:16.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -101,7 +157,7 @@
       "source": "edaily.co.kr",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHJ4NW5qMXJ1SVA0eVl1TjlzQmVRZ2RlNUo0MWR0dkYxbDhTTk1zV1hxbXM5YUZtdmZSNks3YWdHS3RLU2lydzZTbW5TMGhQVlpJdS1kaXZ3dnE5ck1ZV0pHcVlnSGFfYlh5Y1AtMzJFcDBBRjdaMWN4VkhhWVlSeg?oc=5",
       "publishedAt": "2026-09-28T01:09:55.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -123,66 +179,12 @@
       }
     },
     {
-      "id": "c7b20ef82e46a2b5",
-      "title": "삼성SDI LFP 배터리 탑재 ESS 'SBB 2.0' UL 대형화재 안전 테스트 통과",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uS245R0hpeEk4WmJ1OV9vRENpX21PLTRGc0h0MzJBZ1FCbUdoZWxhQ1FuOTFuWVdPSU5iNlpGTVJ6a0UyZXNUWDBIbUNQcWxLR1llaU1vWElVYUJ1TGczSFdtVlhKMUdGVk5WWFE3TkRDaEU?oc=5",
-      "publishedAt": "2026-09-28T00:44:22.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI LFP 배터리 탑재 ESS 'SBB 2.0' UL 대형화재 안전 테스트 통과 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6cad51a714200e20",
-      "title": "삼성SDI ESS 'SBB 2.0', 글로벌 화재 안전 인증 통과",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9LNFZTNXhaakw1QlJ1V0RsdEcwY0lud2dvNzhUSzE0VkZmWFhfZ2hvUHNZWk4wRmlWZC1fTEFzNk5PV1FPRmhXeGNGUS1XNnl3M0w5UmZCOTdHRUlYU2I2RldwdDBmNzVHZ2ZnWGxpM25aOFB4Wnh0QmpZRTBNYUpaZUY3dw?oc=5",
-      "publishedAt": "2026-09-28T00:36:20.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI ESS 'SBB 2.0', 글로벌 화재 안전 인증 통과 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "fde9e329a163815e",
       "title": "삼성SDI, ‘실적 저점 통과 기대’ 52주 신고가…목표가 줄상향 ‘100만원’까지",
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PaVJKYUpqc0w0Wk9JS0JiTEt5eXNVdG5QOEZHQVI5aFlGQnBJVTFUVFBObmxxQVk2UGx4bU9yMGpHRTdUNzRNbkRwX0N1OHM5QnZXVHlENmc5X0I0UHVsLWJTNA?oc=5",
       "publishedAt": "2026-09-27T11:26:56.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -211,7 +213,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idGJHWjFPNmZGNEhtSFJKRUFXSDJLVk9GeFhuSXhET3hTeThLVkNzdHl5UE4waTdBZ1huNk9oam1XVUpXTnRvUFMtckF0Y2lVNjJadjFzOHZXX2ttZEdZZA?oc=5",
       "publishedAt": "2026-09-27T06:00:21.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -240,7 +242,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WV1FJdGFuUDJ3Q1cwbmF0U21CWkFVZXV4RWNWSmlwT1VHLWxMdndyVm1Vdm1aODVzRkdPWksxVldETWFHdXJ6M0dRZjFja194SExGckR5TWlwTm41NlVGaHhNRWxyUlZ1RVhfQWFhLXhTUFB5MWfSAXZBVV95cUxPVldRSXRhblAyd0NXMG5hdFNtQlpBVWV1eEVjVkppcE9VRy1sTHZ3clZtVXZtWjg1c0ZHT1pLMVZXRE1hR3VyejNHUWYxY2tfeEhMRnJEeU1pcE5uNTZVRmh4TUVsclJWdUVYX0FhYS14U1BQeTFn?oc=5",
       "publishedAt": "2026-09-27T01:55:02.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -267,7 +269,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYek4zMFZ0a1BURm1jV0hGS3RzTENvRGxrUldIVEJlSmZGSk5zUWtNMU9TR2pnNDhiVmV3RTRLX3Bka2lmNElhUmkySDQtc2VjYS1QUk9BMEJxZkp5VE5xaHJJeHVhY3RSam40YWZoUkktWms?oc=5",
       "publishedAt": "2026-09-26T21:00:00.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -304,7 +306,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82Y2FrSVoxclZxY1NoQ0h6R0FiU1ZtdWxGTy1oajQ2NldxUTgxYkRnS1dOaTA0b1ZPYmx4cmM3N01JejBtclZ5U1BTQXdHZ0Q4NkpQRS1aU1cyREpxX3RadVBXXzNKaDdseU5nYktORUpwbnfSAXdBVV95cUxNaWtEckxGOTRQVVUtTldqWmMxdE9uWUItd3NoQmJyLW1WdFk2QmtYZWx6WHRXSnVvaXNqRmEtZEswQkNwb1NjTTJ6R0xOMl9ZNjhtVS1CaVR3ZU1TNFZnLVlJQXBXYkxxQThCSlpBNDlqVXZ0UFNNYw?oc=5",
       "publishedAt": "2026-09-26T06:21:38.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -331,7 +333,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1lvc1ZVT0NLcGxaUTY3Nk1IS0Z0T0FnUFRRQmFaRWlidGVJcXFGMHlGMGJuaDdIQk1yT0x2MldlcGcwVEJZcGFpVFpsZzU5WmFEUS1YaXc3WmVtRmpnaUZxYW5NNzNtMVlHbERjdk90QnoyZUZzNGdmMWk3NThGaHZtN3hEdw?oc=5",
       "publishedAt": "2026-09-26T01:00:00.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -360,7 +362,7 @@
       "source": "중소기업신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YN25OcVdHeWlQdm1KVnZtNENUNERIUjhYWk93MzUxdlBQRkRQeFJVaWdCSDhvSTNTUHUzQnlUeElmYUs0ZW0xWU5lY1o3Y0JXN1psX1ZRc2xkZktlZWNCZDFOckdTRmJONHF4SHJR?oc=5",
       "publishedAt": "2026-09-25T07:07:53.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -382,12 +384,44 @@
       }
     },
     {
+      "id": "b22473a1ec0a1cbf",
+      "title": "코트라, '배터리데이 유럽' 컨퍼런스 개최...삼성SDI·LG화학 참여",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Za1NsSHk4OU9VY29fdVdMOU1CbWVfV2tsc2kydUtvY3l0TGhKcHgtTzJLSURTVFVPblV1WVU5WDZZMEhTMTZweE9GX2dOVnAxdklwbTlBZU9FMUlJd0NtTE1ucw?oc=5",
+      "publishedAt": "2026-09-23T22:55:22.000Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "코트라, '배터리데이 유럽' 컨퍼런스 개최...삼성SDI·LG화학 참여 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ee756f0a87a7ea98",
       "title": "오염 논란에 닫혔던 헝가리 괴드, 삼성SDI가 연 24시간 하늘길",
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWtHRjFUcHRIRFNaeVJEMXkwZEszS2VVLXhQS1NEeWdDWnN4eU1KTVNZMHNteFo3Wjd4VWJLX000MUFzZlExTjgwUVpXeGNzNmdVeG5WOWh5YjRIOW43VmNVZVowRDhra01YeFVXTmJZX2FTTTljWXI1c3dVS1BESTFtYkE3Uy1a?oc=5",
       "publishedAt": "2026-09-23T09:28:08.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -416,7 +450,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtdW9VNXUxOF90NGZreFhPRmw5RHZvSXpmTk1tZGNhT05uZFdhbjVlal9pUEkyR3ZKRjVZM1MxV1NBaVBIX1VXMXoxVHNQcGZ1WnFsWW5FOGxsMTVN?oc=5",
       "publishedAt": "2026-09-23T05:01:00.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -445,7 +479,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HSXJoWlNjbXJ4UWlqWEJjVXFEcDlVQ1M1MnlObDd4R3J2Q0hUcUJJQk1TeE1VMndJQ3Bfdzg5c0JGRHRjZndBeXlUZENRck5OaTJBMDAwdWZ3TndrYkw4Zi1UY0xtd0dL0gFsQVVfeXFMUGFYZnowTEpGa09FOGZpY0FKa0FrQ3dlTWdrcjVYeF9WTU1rRkE5aXU3ZWIzX0JPVVhSTUhrM3E2bmhEN29yVVVtTDhtcm5HcGkzVVQ0YVpKM2ZydTUtYTh5bm9zaVV5MXRDVTBs?oc=5",
       "publishedAt": "2026-09-22T05:42:35.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -477,7 +511,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakRNVFZ6cnZLbHMzaFJhenpQS3ZDX1Z5Y1FWRDNleEw0UWtDOTduZXBFT0VST3hyZHN5T2lJQUdMcENnLVRzWTdVY2lRQmhhalkzam1jQ2FOYmJwb1Y4ZDF0bWtoaVFPQUhfaTU5aTJfb0l1MUxucXFrSUZZd1haaUl5MFF0RU5p?oc=5",
       "publishedAt": "2026-09-22T05:41:51.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "collectedAt": "2026-09-28T18:19:14.447Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -489,33 +523,6 @@
         }
       ],
       "summary": "“배터리만 보지 마라”…ESS가 띄운 삼성SDI, 전력 인프라株 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cf061477a8a0ba67",
-      "title": "[헬로스톡] 9/21 주목할 종목 : 삼성SDI·삼성물산·GS건설·카카오",
-      "source": "헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNk9PWGV1RVI3NElSSU9iTU5ISlVSQmpodDlHMlV2NkNnWWw0b1RHblVHU3c2SGY3a3FNdnBGNFY4OGcyTGFSRDF1ZkNjVjY0S2QwZVJ6b28xU3ZFaFdV?oc=5",
-      "publishedAt": "2026-09-21T10:01:45.000Z",
-      "collectedAt": "2026-09-28T09:09:20.096Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[헬로스톡] 9/21 주목할 종목 : 삼성SDI·삼성물산·GS건설·카카오 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
