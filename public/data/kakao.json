@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T15:27:53.635Z",
+  "generatedAt": "2026-09-28T01:19:25.318Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "정답은 단 '두 글자'…카카오뱅크 AI 퀴즈 정답 (9월 27일)",
-    "AI로 승부수 띄운 카카오···핵심 기반인 카톡 이용률은 '뚝'↓",
-    "카톡을 ‘생활 AI 관문’으로… 카카오, 의료·금융 연결 추진"
+    "\"연내 AI 에이전트로 주식투자…미래 선물하는 투자문화를\" - 머니투데이",
+    "카카오, 부산에 동남권 AI 거점 만든다…인재·스타트업·기업 한곳에",
+    "정답은 단 '두 글자'…카카오뱅크 AI 퀴즈 정답 (9월 27일)"
   ],
   "articles": [
+    {
+      "id": "30e47c8b4803e1f2",
+      "title": "\"연내 AI 에이전트로 주식투자…미래 선물하는 투자문화를\" - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIQnlqaFRnSmRVdXVZN0F2YW1rRnBMbGpoNGt0bjhYYVZ1SFo1UlpQVFRac3JGeVA3dkJiM3BWMXA1Qm5XLU00bjFYN0N5OUtxUDFWZ1lZUFV5MC1RRlROa1RqZ3Y3YVl3OGNvZmR30gFuQVVfeXFMUEhCeWpoVGdKZFV1dVk3QXZhbWtGcExsamg0a3RuOFhhVnVIWjVSWlBUVFpzckZ5UDd2QmIzcFYxcDVCblctTTRuMVg3Q3k5S3FQMVZnWVlQVXkwLVFGVE5rVGpndjdhWXc4Y29mZHc?oc=5",
+      "publishedAt": "2026-09-27T21:00:00.000Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "\"연내 AI 에이전트로 주식투자…미래 선물하는 투자문화를\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "65e9ac34c4adb91f",
+      "title": "카카오, 부산에 동남권 AI 거점 만든다…인재·스타트업·기업 한곳에",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZzlRYU1aMmRrdTZZN3I1eWNYc2xNdWdGNkN2ek91bkQ1SFNGS1RCWU5XY0NYWnJ2MGRQQlRSUm52TmxDY2VDaDlUTnp0eFF6ZWk1VGZpSnQ4Wlh1Z3ZyUNIBeEFVX3lxTFBtdGlGcFU1NlJBQ0p6ZDV1eTVWeC1TVTRaUFJGbEFoVlpBa0NvbDNwa3hFZDU3dzRkMUZzRjFJbVVwb2lKMHBzNEVFNTVjUFhSU3l6eG5yRmxkbVEybWVFTll6MVBzdmo5YzMtR3hJcXRFTDNqTHNqOQ?oc=5",
+      "publishedAt": "2026-09-27T09:37:10.000Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 부산에 동남권 AI 거점 만든다…인재·스타트업·기업 한곳에 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "8a61779fedeeae89",
       "title": "정답은 단 '두 글자'…카카오뱅크 AI 퀴즈 정답 (9월 27일)",
       "source": "위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZGtvbzRJQjR3cmxWZ0JHcHZjZlhpbFEtQ1JiRDByM01EZHFNV202SDlHR0hjNEJaT2R1LXYtRURrWVRMMjBiZjRaeDc0LXJBWnFIY2Zn?oc=5",
       "publishedAt": "2026-09-27T00:58:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -47,7 +101,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44NnJPOGZWcXdvUTFzcW9obzlVc29mYldwN2djLTVWdnZKTlVibXM0U19Oc0tFekktY3E1ZmZKcUllaXpTR0ROMTlLV0dYaUljS1BidFduRlJxUVdUUkNaVXNfNXlQdmNRV0FvQUVQMVlPZ1Fmc0HSAXZBVV95cUxOODZyTzhmVnF3b1Exc3FvaG85VXNvZmJXcDdnYy01VnZ2Sk5VYm1zNFNfTnNLRXpJLWNxNWZmSnFJZWl6U0dETjE5S1dHWGlJY0tQYnRXbkZScVFXVFJDWlVzXzV5UHZjUVdBb0FFUDFZT2dRZnNB?oc=5",
       "publishedAt": "2026-09-27T00:31:58.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -74,7 +128,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc1FXU2JVQzQxUTR3YjVnZFdfeXF3ei1PWjRuRjRiOFdyX1UyTkJuMTR5SE5pRmNacU1yVWRKTElvQ0hIb2hES0lnVDRpM1ZGbHhNTnhlVmRfVDRja0o3c0hWRWdyLWNwTmZGdkttNTJRQ0tT0gF0QVVfeXFMTkJzUVdTYlVDNDFRNHdiNWdkV195cXd6LU9aNG5GNGI4V3JfVTJOQm4xNHlITmlGY1pxTXJVZEpMSW9DSEhvaERLSWdUNGkzVkZseE1OeGVWZF9UNGNrSjdzSFZFZ3ItY3BOZkZ2S201MlFDS1M?oc=5",
       "publishedAt": "2026-09-27T00:05:28.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +155,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MbnN3cnllLV9tSEhOeGFGMVlkaTlLbDJNMnJpakFrNlM4eGk4bFRzYXFHN3RLZzBsMWN5WFgwWHZPRjJKck41R3p2ZmM3UjlQcnBZd2J3SDNFZXN0WFBqOVdxRnfSAWhBVV95cUxPOXpaQ19EMkZfMVdSU3VQaHBKdU4wSEg3WEYxYzdFOXd6LVM3NHEtc092aHJDZWwxOXhKLVNWVmJSS0Y0d2Y5Ynl4d2I3SWstdnBLcGY2V3VmMVo2MkpoYk9QQVJ0LTNxNg?oc=5",
       "publishedAt": "2026-09-26T01:41:36.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -123,39 +177,12 @@
       }
     },
     {
-      "id": "e7c44d0da1ce0592",
-      "title": "카카오, 카카오모빌리티 美 ADR 상장 제동…이사회 반대 결의",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUy1oYXFLOUE4WEJ0Tk1haVo3T0huUjV6NzZjVTdfMWJWaXV6YjJVY2pHSFBfUkR0VnZDYjRnQmdkSXN3akJOSTNMVDlWSGJGMTE5ODgyOW10cmRXWGVkdVdKUFo?oc=5",
-      "publishedAt": "2026-09-25T23:00:07.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 카카오모빌리티 美 ADR 상장 제동…이사회 반대 결의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a5b8a9822728771a",
       "title": "[기업 이모저모] 카톡 AI로 한결 다정해질 추석",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuMWMzOXBIRWFYY2tZbkNyU1AwRXNseTlEdGZrR1ZZMVJJMlFKZERRT3VVMGQ5a2RvQ2Z6SDJKN2V2aWNBc2FYenNSX2NUM3FTWW5MdWp2Zk5jM2t6d3g2SHktZEdzb2dqekY0ZkpZcjU?oc=5",
       "publishedAt": "2026-09-25T00:00:19.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -179,10 +206,10 @@
     {
       "id": "cbffeb365bd2a7f9",
       "title": "대화하듯 장소 추천, 네이버·카카오 'AI 지도' 연휴 맞대결",
-      "source": "sidae.com",
+      "source": "동행미디어 시대",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpdFdpNEl2eUR3b28wQ1FqcUZ1NThmTDZBT3ZLV3BQMi1MUHUzdFNqUXMwWkpjYS1zWGNwRC1KVUtXcDVRUzFia2M0MWZOMGprM3ZQcWZEZV9KTXJCalE?oc=5",
       "publishedAt": "2026-09-24T21:45:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -209,7 +236,7 @@
       "source": "MTN 머니투데이방송",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10SDJZQ2lOekZ1MmN0WDMwc0dNTmdEOTU5NWFFWVM5OERjOG4zeFNLWEtCTWRNeVljbGtVS29YX2J2ZlpoZ1B1dGVPZzExUlJONnpNQWV3bVQ2bTdHZmRKei1GVGw?oc=5",
       "publishedAt": "2026-09-24T03:00:01.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -218,6 +245,11 @@
           "id": "kakao",
           "name": "카카오",
           "ticker": "035720"
+        },
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
         }
       ],
       "summary": "명절에도 AI 개발로 분주…SKT·KT·카카오, '모두의 AI' 베타 사활 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -236,7 +268,7 @@
       "source": "위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VZ2tHbUl2QUJHRDV6YmtaNW1wRHh3bnhhZTdyejZCVU5zN2R0TVZxejZMRXFWZ25uZV84OTRabVp5bEZHOTVyd0pNX1NxUHBmbFlMYUZR?oc=5",
       "publishedAt": "2026-09-23T23:58:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -263,7 +295,7 @@
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HaXhxR0JxeC1kLUxhUFRmM3EwSjM4T2RBRFh5Y1g4U0owNmdFOXhJU0FHaFNsMDdLR0lWOU5tQUI3Vmkzb2N1N2pjcmZRNkNzYWNqLXF0X1lBeEVoWlhCY2p4MzViVXhl?oc=5",
       "publishedAt": "2026-09-23T22:00:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -290,7 +322,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtcVo0cERDYUh1M1Y3eHVCTk9iTlc3bVRORkVYR1g3UnpQcFdsNXFfNEdiTzQ3d1NkcThndW5CT2Vrd2R2REFzOU04dWk5TnAtZEJQUDBVbTlGSUZPQ0Z2QWZyYW8tQWpRQkgzcmUxZmJVVS04R3fSAWZBVV95cUxNNDFCNTFIdng5ZWRfQ2ZXOWJOWnZXNGhtUEQ5MkhOQ0p4Rk8xSW5oNGtXUlJKcFpndDZKOVRxUEZCbUU5cFVzTnJ4MF9KWUxKblUtc1NxV2lUeEt5SDJSdHc4Ym4wNHc?oc=5",
       "publishedAt": "2026-09-23T05:51:54.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -312,12 +344,39 @@
       }
     },
     {
+      "id": "659f96c9b761f4e7",
+      "title": "“부모님 선물 뭐 사지”…카카오, AI로 추석 선물 탐색 돕는다",
+      "source": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9feHNxZDdVekU2c3oyMWFDX1YyS3pNU0hrdDBLU3FOQ3A2czE5UmhQNkpzeU9QbWY3SkZ2MUxkVHJ3NnlGNVZvY2x5YlFBYTJSZXNJcEJBQkYxNDBWNk1EQndkVkpEQQ?oc=5",
+      "publishedAt": "2026-09-23T05:04:45.000Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "“부모님 선물 뭐 사지”…카카오, AI로 추석 선물 탐색 돕는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "677a7d76d89e689b",
       "title": "카카오페이증권, 주식 거래 고객에 MMA 티켓 증정",
-      "source": "이투데이",
+      "source": "etoday.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HT1BzUHpWTjB4TnlMX0FqTXBDeUU1TndmWkd5X2hoS3JLZ3RSa3ZQZElBMEVNWW1yWHVMV3VHTTBCa2didE9HeFNBQ3lxYS1WSXNaYg?oc=5",
       "publishedAt": "2026-09-23T04:50:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -344,7 +403,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iamp4U3RqUTNBVGxwUVJmVi1lLXZLWXJFNUFuRVpxLU9LUVB3dkdJNUxSZkxzTlF0blJtOU9Vc05xcXAtaUVIeTZwNG1QdnBrenZNY19SMjlaeG9ObHJDeG5B?oc=5",
       "publishedAt": "2026-09-23T04:48:51.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -368,10 +427,10 @@
     {
       "id": "48641f1433eb9411",
       "title": "[카드] 카카오페이증권, 멜론과 주식 거래 이벤트…MMA 티켓 '추첨'",
-      "source": "newsprime.co.kr",
+      "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50bWpzS3hGR1VHOVQ4Sk1ZLXdFY0F0NUs5cVhTcmxucGh0aml1Z21PcUpuNnp4dGQyT3RTZjgwZ0VPRjRLRkVTRDRaaU5SdGh6aC1zTWFfcEFmU054aUsyR3hfa3Vidw?oc=5",
       "publishedAt": "2026-09-23T02:25:30.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -398,7 +457,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wR2dqb2RtWEpMUllrdkRzdU80Tjh0SDJRVWdzRG9Hdy1fbUJYcnFvcnEyVV8yRXBTVzdhenVGbTZ2bWEzOERBdEpIX0tKV190WkIyclR1RGNqUl9mMllZ0gFkQVVfeXFMUGFaUHJCZlFFZzdrdFVxLTFWMGJNVXZaSmttXzFnQklSTktScWluNjFRRXJPaXhId19qX3JtNHNhSzdjOHAyMTNBYnp2dDhTR09FV1dKb3BNWmF6REF6STg0OUxrcg?oc=5",
       "publishedAt": "2026-09-23T02:19:11.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -425,7 +484,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03TnlNY3dpbHhyUmlrT1l5enJreDhuR2o4VDFuWTI4enJwaG9aM19pS18teGZVbzU1TzU5ZFM5SWxxVWVycFR1OFBrYW9qQW41Y2paYkdicVJaRjVuX1ZYelZ1UWVSRlU?oc=5",
       "publishedAt": "2026-09-23T01:21:11.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -449,10 +508,10 @@
     {
       "id": "c8be708c2b4bff79",
       "title": "카카오페이증권, 주식 거래하면 '멜론뮤직어워드' 티켓 쏜다",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KczA2UDJRbHRQdXU3YWUwcTFXN1lPRUYyRUY5WlVzNWVhVzVVRDR2aV8wY1IzZkY2WlprcVp5QzNRV2p5VFNYZ2NWQWs4bk4tQlo1VTdBLWxuZXo5?oc=5",
       "publishedAt": "2026-09-22T23:59:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -479,7 +538,7 @@
       "source": "위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16cVpESlpYYWx2RVRrcjktQWp1NHRyWG4yTlpQMC1ENlZfRmdHTjFxZXBOUGVXZVhPd0FhMnBxZGNuUzZFX1NBbGwtNEhWeVZKbjU1Yk9R?oc=5",
       "publishedAt": "2026-09-22T23:02:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
+      "collectedAt": "2026-09-28T01:19:25.318Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -492,60 +551,6 @@
       ],
       "summary": "낮 12시에 뜬 시계 모양…카카오뱅크 AI 퀴즈 정답 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5e30353670f5d8bb",
-      "title": "AI가 허문 플랫폼 경계 파고든 오픈AI···네이버·카카오 '긴장'",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzalYxUEs0OUtLTW9qbXFVcXVaNFNJVVgxSlFHeHlmVUtZMjJtZUt0ZDhHZHREeU84bl9LNWRKWnBfNHBTb2R6czd3SEl6dDFWclNvQngxWkRRZkoxeno5RDg1RXNrbkhURDhyeWNGdkhVQdIBdkFVX3lxTFBvMjBlcGQwd0VkQVVZTS15RGxteTl3T0tZSlVGRDVfR3NVOFhQclJaUmdvNERBaW55T3RrR1Fac29HX3JRVTBiVWlRWTctall3YVRSQWEwWXhpd0ZHRHVMZ2ZfY0JOX2J0SU5yeVphRTI2RXdzZFE?oc=5",
-      "publishedAt": "2026-09-22T11:00:20.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "AI가 허문 플랫폼 경계 파고든 오픈AI···네이버·카카오 '긴장' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c373b1f99ee1898c",
-      "title": "카카오, 카카오모빌리티 美 ADR 상장에 제동… TPG 회수 셈법 꼬였다 - 조선비즈",
-      "source": "biz.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXBlekNaT1pOLXVOUDlVamlDN1VVTlo1eGpXQTRBTF9malR6SHZyX2pWMkVSSjFNOGpRX3NpODc3TmNTSXoyNDJHd3dwSDRJOUpsa2d2ZXFzeTVOVF9ZbFE5VEl6VFJSM1hZR3R1ZHk5RnF0V2JRVTJNb2d1NkJkdTNn0gGWAUFVX3lxTFBwRkFhYnFHUkxwVVVlUUQ0bWxEZWNKNVYxRlBHWktoejhLT2diRHE2aGxaZFRVa2plQU0yUzdmVGd3TkJUdExVNmg4QUhKbm1jSEV3UVlKbVp3RFJYYkd6bjVPRmZlNklEb1ZiamRhZlgxbEhxUmp5MGRLS05VbS1zdTB0YUpQVzFucUg2cV9lS196bkFwZw?oc=5",
-      "publishedAt": "2026-09-22T09:48:00.000Z",
-      "collectedAt": "2026-09-27T15:27:53.635Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 카카오모빌리티 美 ADR 상장에 제동… TPG 회수 셈법 꼬였다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
