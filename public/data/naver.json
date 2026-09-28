@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:19:25.318Z",
+  "generatedAt": "2026-09-28T09:09:20.096Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,105 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 수급 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "광섬유도 AI 수혜주?…주가는 뛰었지만 ‘돈 되는 기술’은 해외에",
-    "“악재 주식은 기회?”…박새로이 투자법 현실에선 : 네이버 블로그",
-    "이번주, 이 3개 신호가 주식 시장을 흔든다!"
+    "한화솔루션 주가 전망 : 오늘 14% 급등한 이유는? 태양광 관련주 가격 동반 상승",
+    "“답하는 AI에서 일하는 AI로” 네이버·카카오 위기 맞나",
+    "우주 주식, 지금 매수 타이밍인가? 함정이 있을 수 있습니다."
   ],
   "articles": [
+    {
+      "id": "2a30137d86bfe5d5",
+      "title": "한화솔루션 주가 전망 : 오늘 14% 급등한 이유는? 태양광 관련주 가격 동반 상승",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlBPQ01TNTFWazZaOUFqM0xVcklzZmlqWXJ3OWdoanFBUkJyX3ZJd1I2NG5wZW12REE3cnJWNVctSE1saDV5Zkw4eWplTGkteWl5eFRNNWNIVWRxTEV4VzBMbVpLeWZwYnBkSG5DNHhKYTV5VmUyYmFza2g3Y1V0MEx4MA?oc=5",
+      "publishedAt": "2026-09-28T08:43:38.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "한화솔루션 주가 전망 : 오늘 14% 급등한 이유는? 태양광 관련주 가격 동반 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b9810a11764cd6b4",
+      "title": "“답하는 AI에서 일하는 AI로” 네이버·카카오 위기 맞나",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4Zmk4ZHhHSDQxNEVsMnBqeDRiODVLaUFRckJkRFQwQlU2aHRNd05Yem1MV0ZlT3otTThiZEQ5dEtOTkZ6X09OMVF3S1BYdUE?oc=5",
+      "publishedAt": "2026-09-28T06:51:00.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "“답하는 AI에서 일하는 AI로” 네이버·카카오 위기 맞나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "51dd47813337c6c5",
+      "title": "우주 주식, 지금 매수 타이밍인가? 함정이 있을 수 있습니다.",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0k5WXZBYmZSU3U4TDdMM2ZGS05sSlplaXZJdGNHQ01ZZmNlS3h6UFZRUjhzdVBWbkpOemNJNzhiWkY0NjVsY2hBRDJILVpQeTBHRGRUcEpEVEdncmRDbHdQVUZDeDB5a25ZaTZoZ2l3MTAza21TOVMyck1ld0k5MG1wQ3pZRzJkZElF?oc=5",
+      "publishedAt": "2026-09-28T02:00:00.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "우주 주식, 지금 매수 타이밍인가? 함정이 있을 수 있습니다. 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "5fe61e560b98d0ee",
       "title": "광섬유도 AI 수혜주?…주가는 뛰었지만 ‘돈 되는 기술’은 해외에",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVFHbXpRalhPZmc3dXQ4eW5RXzBMM1VQTDRSNi12amZiUEhpVC1tR2JVTzY3MVUwYktwc1lBVU00dkdnX2NGbDBKUnZHdzgtQmlTcWJTenBkRThGS2ZSWGE4VFlFNDV6dHdYSzVRZGlPdzZjY0luNkY3eWRJLTQtS0d3VQ?oc=5",
       "publishedAt": "2026-09-28T01:13:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -42,12 +127,39 @@
       }
     },
     {
+      "id": "2114ae45c8ef43e2",
+      "title": "NAVER 주가, 9월 28일 장중 200,500원 2.98% 상승",
+      "source": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IaUlrWi1kbDktSVYwZnlQdENxNXBocW5vRVYxNE1pMjd6Wi1QdHpnZWM1aGF6VVladEFBMUlPLXQ5TTREdXhScFdxbHp3SUhPR0ZsSkUxMlBVQ3NRcFR4bkFrTWdEWno4bFY3Z2FsN3RKQQ?oc=5",
+      "publishedAt": "2026-09-28T01:11:09.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "NAVER 주가, 9월 28일 장중 200,500원 2.98% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "69caec2a8a28bffa",
       "title": "“악재 주식은 기회?”…박새로이 투자법 현실에선 : 네이버 블로그",
-      "source": "blog.naver.com",
+      "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkJvQXB3Y0lQd25DZ1dFQ2xxVlFEOUh5dW1DQ0JXWXBHNHA2Y19hSERTeTZ4X2dEaEZYYmZzZFU5c0RvdjVPc0Vud0oySDN0SHBuTExHcUxGUWxlLWJ0YVJPVXY0UFp0R0t6eV9oa0FCMzZxVEl1cTNPY2o4Rmt4aU9Uc3plS0o3WTlfZTdtQQ?oc=5",
       "publishedAt": "2026-09-27T18:12:39.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +186,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDZ1eXlxaTNIcTdveGhBRF9QVXAzR1gzUHRXeTFlT1JBRGNJd09HSU90V1JwSThZMGJ1eDVQWGZxVGJkZlUycnp1YzVHV3RoSW52OFBVWmxsWUNBYjl5dzI2QVhtaUVYQ1dtQ3dWYWk0YVVJcjlOU29MTkUzUm5iVTN0MUtnSzg3NVVz?oc=5",
       "publishedAt": "2026-09-27T11:49:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -98,10 +210,10 @@
     {
       "id": "9b6b067b1e7fa1d0",
       "title": "“40만원 간다” vs ”시간 필요”…NAVER AI팩토리 두고 엇갈린 시선",
-      "source": "kukinews.com",
+      "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wazBwVU9Pd2c1b1dXOXhwR2VBbkk3OXhzdmh6MzN0MmFDQkpfWHJ6bFptZFNyS0diOFY3dWZBMi0xNXMyTEw0RHktTFRWZ2xyVkRHYVFSVkNlMEkyTVdZUHN1SQ?oc=5",
       "publishedAt": "2026-09-27T10:35:45.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -128,7 +240,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoYXk2d0xaRTdlQV9DMHphUVdsQXB4X2lJcElvUTF4VmVuNXlwcXJKSE83cW13clQxZHhqYlZPUmRqZzBzN2JkWG9kZkFOeVV0dlJ1bUpjLTMtanV4cmJkTVQ1SjFsb1pSTDJSTkdOeWNvTTIz?oc=5",
       "publishedAt": "2026-09-27T07:29:01.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -155,7 +267,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZmNtRmxONzVfTzhwX05Ia1VKMTJaY2gyVUVnenlCalNxb2hxUjI5MUxZWEJoYm9CelV5WWJ0VXFFdGhBendOZFc3UVlyTVFGZk12WUl6SzdWdw?oc=5",
       "publishedAt": "2026-09-27T04:52:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -182,7 +294,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbWtPbTg4ZnJteGxxM3NWeDFuUTQ2SnM1Qmd3ZzNrbHdUc1dZMEJmZnRwWVgxemtvM2s0NC10bUVxQ0hBVWZVT0hfN25FZnpkQmpLaHhDZ2JWTWVK?oc=5",
       "publishedAt": "2026-09-27T00:00:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -204,176 +316,12 @@
       }
     },
     {
-      "id": "4082e8e2ef42a609",
-      "title": "네이버, AI 팩토리에 '보안 독파모' 싣는다…해외 풀스택 공략",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zcm1LdmJCQmJRdFZnRnhVLW00N1Y2NW12VmVVbm5FTXZRNDhUMTNmSTMwOXZzZ3JyQWtidjU1c21URzdXNVBjSnhJSDh0dDA?oc=5",
-      "publishedAt": "2026-09-26T21:51:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버, AI 팩토리에 '보안 독파모' 싣는다…해외 풀스택 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fd6bbd238e37e072",
-      "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cNIBYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cA?oc=5",
-      "publishedAt": "2026-09-26T21:33:01.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4416c6d5d8fe89de",
-      "title": "아이패밀리에스씨, '롬앤' 선봉 글로벌 확장…수익·주가 관리는 '경고등'",
-      "source": "blog.naver.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMnZNUVNYcVpWZUUyUExuNF9lVmtfUnlCbF9CMF9iM09YaW9Zbm40djJYRTgyYmEtNGtuSG9qZUZmdWxYbUkzNUhhVnZxQjhYZktJaGw0bFNTdWlkNGluMXYzYXBGcVBKamFIMGhuVEY2VHFKdFRWT3VBaXAyWVk?oc=5",
-      "publishedAt": "2026-09-25T12:17:33.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "아이패밀리에스씨, '롬앤' 선봉 글로벌 확장…수익·주가 관리는 '경고등' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.3,
-        "confidence": 0.63,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "우려"
-        ]
-      }
-    },
-    {
-      "id": "2a480333f7393fd8",
-      "title": "액셀리스, 주가는 식었는데 실적은 뜨겁다",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGVJNzBzUWpmZnpjakZWdm9keF83RC1LdzB4XzF4VHZMWmxQSWtzOTFXUVIxT0kta1FrVDREd2lBWEZVLVZhUzZsZWlCa2h5dDdsekZSQ0JSOWs0bWFGRXVlODVkR0Y5ZVZIMThITVU4TUxFbjdIR3VjOG16M1kxeWQ3UERTRElSYnhUNw?oc=5",
-      "publishedAt": "2026-09-25T12:03:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "액셀리스, 주가는 식었는데 실적은 뜨겁다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8768e49944a0cd24",
-      "title": "바이낸스 비트마인 BMNR｜미국주식 선물 구조와 위험",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2FZelRZRjMyUHJRME1FcnlsSUNNQWdFRlM3aDVWZkxocTM4RkhyVlFGSHRaY1pjV19NQmpsUTBoLXdFN3J0VnpRdnlqS2ZVOEFYMjdxVC1sMWJJVW1HTG1fQW01YlhuZTJNaHdMeUtrZmw3dElnTDJxUzVDRDJ2ZUFNajNUWHBzY0J1VjFldnp6Zw?oc=5",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "바이낸스 비트마인 BMNR｜미국주식 선물 구조와 위험 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "28641b8d90868e65",
-      "title": "미국 금리 19년 만에 최고, 주식시장 괜찮을까?",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnFvbTMyaGdSYmFhMFVJYWJHSlJrNUxyZVZ0QzdiNUFDekZPLW1NM052MTYybjlpVkFpMEdmTkV5QTJMejgwVUhYdWIwVjlvOVlvLXBTbEtqSlVqN3NhblZ5Sk1BeWE0QWlvY3Q4QWloTUlUZ2NxQ2JETXAtQW5qaHlnbWRiTWpPWHE4?oc=5",
-      "publishedAt": "2026-09-24T13:32:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "미국 금리 19년 만에 최고, 주식시장 괜찮을까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "28082c85c68866ac",
       "title": "메타 주가 11% 급등…도대체 ‘뮤즈’가 뭐길래 : 네이버 블로그",
-      "source": "blog.naver.com",
+      "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkNkQzRRYVI1MkRMUllQbm9fVm5SNDQzM2U2S2hWXzhQMXNzelZoVFhPSklSWnh4Y1FxaGtwMVVrd3g2QjlGSDRFdzZQd01hOVdWTUxtME1Fa2pBYXZmMVJva19yOVdxZXFFY0VuUDBNZmIzM2FBNlVnZ0pNM3Bmd2JTWlhlbS1YaFM2ZHd6QQ?oc=5",
-      "publishedAt": "2026-09-24T08:02:48.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "publishedAt": "2026-09-26T21:51:42.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -397,12 +345,124 @@
       }
     },
     {
+      "id": "4082e8e2ef42a609",
+      "title": "네이버, AI 팩토리에 '보안 독파모' 싣는다…해외 풀스택 공략",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zcm1LdmJCQmJRdFZnRnhVLW00N1Y2NW12VmVVbm5FTXZRNDhUMTNmSTMwOXZzZ3JyQWtidjU1c21URzdXNVBjSnhJSDh0dDA?oc=5",
+      "publishedAt": "2026-09-26T21:51:00.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버, AI 팩토리에 '보안 독파모' 싣는다…해외 풀스택 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c298ad63b4cd0573",
+      "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LZHhrbEtTN2xWVkwyLXF5dlpKdXBEdnJmVUk2cWkyN2lqVDUwa3I2VW5EUlV3cVltQzU0S1c5M3lFT29MSFlhbERHaXY5bW5fWXdCWA?oc=5",
+      "publishedAt": "2026-09-26T21:35:00.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4416c6d5d8fe89de",
+      "title": "아이패밀리에스씨, '롬앤' 선봉 글로벌 확장…수익·주가 관리는 '경고등'",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMnZNUVNYcVpWZUUyUExuNF9lVmtfUnlCbF9CMF9iM09YaW9Zbm40djJYRTgyYmEtNGtuSG9qZUZmdWxYbUkzNUhhVnZxQjhYZktJaGw0bFNTdWlkNGluMXYzYXBGcVBKamFIMGhuVEY2VHFKdFRWT3VBaXAyWVk?oc=5",
+      "publishedAt": "2026-09-25T12:17:33.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "아이패밀리에스씨, '롬앤' 선봉 글로벌 확장…수익·주가 관리는 '경고등' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "ddd7554eb9a65601",
+      "title": "“좋은 기업인데 나쁜 주식” 성난 주주들…네이버, ‘AI 비서 전면화’로 정면 돌파",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sS1ZROG1UemhNV3EzYzBnazJqWXJZU2FESzNlV0lMQXpaYVVyMmhHOUR4ajVZaDBqb0tBUnN6WXhmbkhsSHJKVzhtNkNlbjNvbDFvYlN5Rlp6SXpuRmV3NW1zVQ?oc=5",
+      "publishedAt": "2026-09-24T04:03:51.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "“좋은 기업인데 나쁜 주식” 성난 주주들…네이버, ‘AI 비서 전면화’로 정면 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5548d1513d763049",
       "title": "AI 스테이블코인 전망과 써클(CRCL) 주가 분석",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUG1SWElCSlVlOUVqeTd0VVQzT0lhc2UyQ1JYa2Jad0dxVVNuS3BSUHR5WFdYc3cyRGxQZVY0X1ItUV9DeDNwV1VRZ3M2NlhjcmFFdTRVcFpzQlY2MmlyaXVsaXFiV1Y2YWlKLTV5bUJQVUpvRGZiMUVUcVRLLUppazhEbm0zdVlKeGxFTEhTTFg5M2s?oc=5",
       "publishedAt": "2026-09-23T14:49:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -429,7 +489,7 @@
       "source": ":: 위즈경제 ::",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UTFfTjY5SWlLUXRwM2FZVUk0MVZEOEdQdVdpQm5OSmFCa19WOS1lZ2hxUmRodnZ2RUstVG05YnJQVFhmc0w2M3RDeE9ULU5rRzdzcA?oc=5",
       "publishedAt": "2026-09-23T07:00:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -453,12 +513,39 @@
       }
     },
     {
+      "id": "5d1897b2d44b9a44",
+      "title": "NAVER(네이버) 주가 20만원선 하회…연휴 이후 흐름도 주목",
+      "source": "CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeUhXenJfYnpvaEVvZFA3UWk3eWJkRFJOYUpfWWpvaW9hTXVaMHRaQWR6Z0VXdFJRTjRvWDNVNVdUVThEOVNzREJPZnBMZFhERDNwb0EtMlVEbDNmT0w1SFR3NUR2MFA1?oc=5",
+      "publishedAt": "2026-09-23T01:56:39.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "NAVER(네이버) 주가 20만원선 하회…연휴 이후 흐름도 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "709f8ff110a27c57",
       "title": "NAVER 주가, 9월 23일 장중 196,100원 2.44% 하락",
       "source": "톱스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNFk4elJwZTY2Qm1FVUdORVlfNUY3X2tjZmlGNm9zWHNHR2l0ZV9XbHJPV2VlRjdsNGt0ZkdtTzl3RVlYclllMVlkMlp3VmotRzFPTWY0OHAzNUxpbW1rWmRJbnNvWENUWjZVbjhNVkliZw?oc=5",
       "publishedAt": "2026-09-23T01:53:50.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -470,87 +557,6 @@
         }
       ],
       "summary": "NAVER 주가, 9월 23일 장중 196,100원 2.44% 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "227bd8eac9abcc56",
-      "title": "네이버, AI·데이터·검색 결합 추석연휴 실시간 생활정보 강화",
-      "source": "뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBONWlfQnBEbnFJWFNaZ1VZZkxINUlGb3N5TkIxMGVPMVBSdE81N0pYM0xNbW1MZHdoVzRuLTZ5cGxVTlFyZnczVTllNHhaY1llcllVbnBWckgzR2x5N2ROYlluTTVrYUNJQmRxZ2ZlQmlxa2fSAXdBVV95cUxPckN6SWVNVGdqNldrQ2ppOFNHM1duT1dwZVpHZGdGQnM1SXlRWGVNcDBFN3FaZmZCbXBQc0NPckxjaXFkMnpXMGhfdnUxeGsyZVA1ZGUwVGY1M3M4eUU0aEJhTEd2eDltVnpxZndvdS1lV29zazg1Yw?oc=5",
-      "publishedAt": "2026-09-23T00:10:01.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버, AI·데이터·검색 결합 추석연휴 실시간 생활정보 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bd8b32ae441771df",
-      "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
-      "source": "AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRUswSlhrTWtUMFFCMlVIZ3ktbkNXNnJGZmY3c0lnYm5nZzB2MEdNNFVXMHNKNXk0blJpNlNtQVpuZGo1Z2xGX3VnNFM4YWJ5N2pTcGFqLU15ZU4teGNnQk1weURBTXNjNmc?oc=5",
-      "publishedAt": "2026-09-22T08:38:13.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "de9fe9509009f09b",
-      "title": "NAVER 주가, 9월 22일 장중 201,000원 1.57% 상승",
-      "source": "톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BeWo4aERKODZPbjE4N0RFUDFBX3FydGd4NldKQzdpNXlGZTZZQlA2bll1N1plbHA4RFhUSjdpSThYRVAtLVBBZjZ0R2NodG5ydE91MWlvU1djbjBYbUpPYWExSUhZb1dRbzhzUmszU2FhQQ?oc=5",
-      "publishedAt": "2026-09-22T01:51:04.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "NAVER 주가, 9월 22일 장중 201,000원 1.57% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "수급",
       "sentiment": {
         "label": "neutral",

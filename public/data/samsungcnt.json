@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:19:25.318Z",
+  "generatedAt": "2026-09-28T09:09:20.096Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성물산 패션부문 SSF샵, 11주년 기념 프로모션 진행, 고객 성원에 보답하는 다채로운…",
-    "대교·목화 이어 시범까지…삼성물산, 여의도 한강변에 '래미안 벨트' 짠다",
-    "삼성물산 건설 영업익 2년 새 84% 뛴다…“기업가치 다시 봐야”"
+    "삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 - 조선비즈",
+    "삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정",
+    "벽이 사라진다… 삼성물산 ‘넥스트 홈’ 핵심 기술 확보"
   ],
   "articles": [
+    {
+      "id": "dcd0b9bc973e0590",
+      "title": "삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVW9oRktQUFNyRWlYTjBHYXFJSkdqcWI5RDBORk1DaHBHOURoQmNQZ2xXTnY2bzhnaERudURxQWJuVTRLYVpGWGdQS3pqTmszZlB0WERzbDhhcFNKcWFvQjBTR3JHTXRmalkxTUtSY2YtQlFsRjMxZkM1N01GZjlwNlFCcHJzR25aTDZjbnZiLTFyM2tmWm1VMNIBrAFBVV95cUxPUngzRkJEZWFCRDVNVVg0WDZXMVpoakRKbEY5MWV4bWNwTDliRGlVM01rQ0ZfWFdXWFFXRG1GX1V4QWp1a0ZXTERfb3dMTGJmUHBlc1FpRFA5QTdkT0M5aDJ5dy1vQXUxNlNnR3l6SElnbXk5cl83Q0w0SS00ZXJmZkJ3bENMc1J0S3d1UkhrNDJhSEhKSXd6MUtxZkNaOHc3SWxHVDNXZEk0Yndj?oc=5",
+      "publishedAt": "2026-09-28T08:17:00.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "adb9be329cd13538",
+      "title": "삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53OGtMa0I1cy14dmlfa2VEX0NHb0ZMVVJISmRDcTNnRXJtYjFraHRVZ1lSdmh1SFlaYWxoTklhU0YxT0NjQ1JOVWEtcTFTUmJxd0s3RVlfazhSYWpNZ0h0aEgyV1RBelIyblZMUWdvUERnd9IBckFVX3lxTE53OGtMa0I1cy14dmlfa2VEX0NHb0ZMVVJISmRDcTNnRXJtYjFraHRVZ1lSdmh1SFlaYWxoTklhU0YxT0NjQ1JOVWEtcTFTUmJxd0s3RVlfazhSYWpNZ0h0aEgyV1RBelIyblZMUWdvUERndw?oc=5",
+      "publishedAt": "2026-09-28T05:29:59.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b241d6d008154794",
+      "title": "벽이 사라진다… 삼성물산 ‘넥스트 홈’ 핵심 기술 확보",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XRWFablpLSW9wZzFiNHVLZ2hjMHAzREcxYlJvcEVHR1lXeTRQRXE2bndyczNDb1I2X0ZENG9UUW4xb05hY2c?oc=5",
+      "publishedAt": "2026-09-28T02:18:57.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "벽이 사라진다… 삼성물산 ‘넥스트 홈’ 핵심 기술 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "24d19fa2ce8a210e",
       "title": "삼성물산 패션부문 SSF샵, 11주년 기념 프로모션 진행, 고객 성원에 보답하는 다채로운 혜택으로 쇼핑의 즐거움을 더하다",
       "source": "삼성물산 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNVmtqQ0lEbVFsU3BDYmIwck9wWGppZjZpUmtHLTVHR1QxcEhhSkF5b1o2UFFhQTBpR0VOUXNSUTAzTVRhS1BndUFLRUhnT1dqQmYxLW1vQW9VXzhqOWV5MGpiVmlhVFpPWUJyal9ERTM3ZEx2VFFCQUVCNkUyWjc2cXNDRGI5Wl9HaXl0WFZnYUVMV1p0X0hMeW9XdFYzeENWOGdZWU1oUE03SUo0aEM3QUhxZktlZWtTeGc4bV84UmJVVWdVLUoxV0VYdzBTaVBQelpfYTlsUWN2Qi1HTzZ6aUVLNWp4dlg5dkRnU0JQc1BiZDZnUXlGa2YyU2tiNk56bjZSMXplLWZUaV9NaDBtNzRjMExhZGtWV0hBdmNFdEpjR09zQzFUNDNtQWtQZEhYMXpGOWZCdGNQeDMtNXo3Y1dHaldXMURKRENMWHE4dUdpS3FMSndBVlAtTXVFQ1AxeXVKWU1SdGFScWZNWUktRVFzTEZrLTZ5SmxUc0VXZExBU19lZ3YxSWlZeDZlUS15Vm1mN3AtSDM2ZlJYbC1nczVKY0xOZ0tDWmFTbjJ1RmhWaXlS?oc=5",
-      "publishedAt": "2026-09-27T23:30:10.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "publishedAt": "2026-09-28T02:04:35.000Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -47,7 +130,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HWWE4SVBqaFExX0xSdGRsZVV1bURuTDU5UENpdU1feGs1VnhIZkRXdU1KQTVNQXpVZlo0cml3cHB0YThfak5xb0VVZlRFaV8tX3hod3cyWmVja3Nkb0xYMU1ncw?oc=5",
       "publishedAt": "2026-09-26T15:00:36.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -74,7 +157,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1Y2pTbm9hX2JnVXAwT2J5T29MV1hrWkVxeUpCT0hIYXB4N2trYzEtbGcxRE1xLTRVdHNQM3FZOWNNeE40QkVHV2hfUTFSOWpsRWtzeFM4NXhabExYTVk2b2NOcGhjWHFrU1pjZW5HUjVBQUZtVF9j0gF3QVVfeXFMUDVjalNub2FfYmdVcDBPYnlPb0xXWGtaRXF5SkJPSEhhcHg3a2tjMS1sZzFETXEtNFV0c1AzcVk5Y014TjRCRUdXaF9RMVI5amxFa3N4Uzg1eFpsTFhNWTZvY05waGNYcWtTWmNlbkdSNUFBRm1UX2M?oc=5",
       "publishedAt": "2026-09-26T05:03:37.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -101,7 +184,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12OHdLWGxXOVpVbVUtR2pwa2FNYXQzbS00Uk5QbU9TbXliOGF5SGRXQnpWTGxuN0VZWGpaVUtNRlJVVmp4bURYakw5WjZXNGJyLVZRTEV0VlFlaUtTSGJyRTlMdw?oc=5",
       "publishedAt": "2026-09-25T23:00:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -125,10 +208,10 @@
     {
       "id": "bd9964075025937c",
       "title": "'도시정비 10조' 현대건설 이어 삼성물산·GS건설 추격…상위권 치열 |",
-      "source": "연합인포맥스",
+      "source": "news.einfomax.co.kr",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFY3dXNHVON25FSjBob2hzVmEzcFR4dlVPeWZPcjZKX2dOWGJZMW13ZmRoMWFEdEc5cUUyWkNobHR6S0pKZ1ZaX0FxZ2h0QmxTdUdIcHJnQ21KYlBTT3dtQ0J2bTBRamxNSWk0U1ZRWGlDQ1V1?oc=5",
       "publishedAt": "2026-09-25T22:06:54.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -155,7 +238,7 @@
       "source": "뉴스퀘스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcE1nc3RxeWs4RHJVWlMwQUJYR2diTDlBTTFUWDcxdm1kZGZxbXJmQmh5UXoxWHBNNjF2N2ctbnQtWktBS2d2TW5GdzFnaFJ1Mk9iMGZBUWJzYnFfS2loVEJBd3RKa0pDVS04SkxpWQ?oc=5",
       "publishedAt": "2026-09-23T06:40:51.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -182,7 +265,7 @@
       "source": "ksdaily.co.kr",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDSUotRnJXUmM3bnBydHpUZWM3SjNGRGtrMEpocEJDUUZYYm9oUXZPcE96UVdoLWl3Z1h3MUZzekpYRWZEcFdIZk05WV9UX0lsZzZOMDRfTG9meWZjWXQweFBacUxhRWpIeW9J?oc=5",
       "publishedAt": "2026-09-23T05:08:08.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -211,7 +294,7 @@
       "source": "thepowernews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TGEzdEU1NS1LckVIUW1KaDk3S2FjNlZTdENRQXRGWHM5SFZsNmRhdTJ0dmV4Y3BjRHpJLWxtMFI4d1E4bXVLWnNET3ZmR1pTa2hBVzRUWHBSV0dRbkFQbWtnbWJNelBCYzZzU3U3TW9KSmk4Nl9EMml1angxdw?oc=5",
       "publishedAt": "2026-09-23T04:49:25.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -238,7 +321,7 @@
       "source": "gukjenews.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MRG5PMFhwZzVTemtkcTJQVFFfUmc2U0NVbGZzYU5TcHZPeFdDUzJadDUwLTJ4SHRvaGo2ZG9xWlFsN2NQcUgxQlkxX1gtYW9wWlE3aXN0MDhZYkxmcm9aWmVDblp0VzZJbUlxYmpB?oc=5",
       "publishedAt": "2026-09-23T04:15:02.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -267,7 +350,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wUTQyYzlYWTdlM2dUX1gwSHNtZm9FQjlNelN1M2ZHY2VNUnFSbXRqSExnR3d3MkV6Y1F4dHAyaVRqRGxVQnRBR2dHampPR2V6cGwxRDVYOVVQOGpsZ3ZRM2x2Vi0xQQ?oc=5",
       "publishedAt": "2026-09-23T03:32:31.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -294,7 +377,7 @@
       "source": "현대경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9obnFjeDRqQlBZQmh6ak8wMGREdHoyMjlWczduLWJwYXJZMHM5ODFCV2o1dzZTT0paX243VHU3VEEtalRvQWYwd0liclpwNGh4U3pjT1ZFN2x0cmhTZF9TQWZBSHd1STAw0gFrQVVfeXFMT3ZSSWhrWVBsdHVpUGdUbHFiVnVJTG9JTE5wR2w4cHFpckpnMkFXcjlydC1OZ3Bwell4Vm5DdDhFRnFNbHZBcTNxSFVIaHh4bDEzTDE1RHdhVXcwUHpaS2JYenRCSlpTWE01NzQ?oc=5",
       "publishedAt": "2026-09-23T02:15:56.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -323,7 +406,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eVFjblYzbVlIeDdIZzdpbWliTWoxeG8zZ1pFX3UtalZsek94cVFBNFBGWENfWENVUThHQVJPOWl3bmdZSmNWcDdOaURwUEUtYUZaY0JveHREXzDSAWBBVV95cUxQOV9scnFkOHJITnY2QmFuaDZyWWJJUk90TzdudDdfVGJiSXVRWDdSNGc2NFNBTmpnZkhXQkhWRS1ZUmVLWlNMRGhUSEhuVEtuQnBBVkhYOWQwb0FtdDdycU8?oc=5",
       "publishedAt": "2026-09-23T01:39:06.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -350,7 +433,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91bmxSZ2EyVjRfdkx2N2FfZjAxZHV5R20tZFI5dmlvaGxKOFpJV3FVS2x0eTE0ODE5RmpJU0F6TnNuUlRkSFZ5YU9xY000Wk85WThVUFdWTzVQX0phSUczTXVyZ1o2UFBXWWfSAW9BVV95cUxOcDk0VUFseE04Zk4wRzRiWmhGRlJ5aDl1dE9UQ3RmbVhkRGcyRG9lLVdTejJXUTRhLW1TZTVMQWMySDRxYW9vb1A0LW1OR0gzRml0MFA4MHAyd1BSTkJaalBudzVOU2RTT0ZoSmFiLVE?oc=5",
       "publishedAt": "2026-09-23T01:22:20.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -377,7 +460,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uYV9LVUZBYjRMYTFiY1hFaFFGZXpSN2JqUGJEb01IRzVWMU5QWGZfZGwzWUlTc3Y2QzB1ZVFXbUpadkFmX1UwSE9zMDhNb043czhnSnkxSUdQOENT?oc=5",
       "publishedAt": "2026-09-22T23:58:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -404,7 +487,7 @@
       "source": "버핏연구소",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FOHBUd1dIV1hBTC1mT2hjUWgzMW5Nekdsc1JxYTNzWWN1eU5FcGdybEFhSjdja0VBTC1pM3BVRFBHb19kVnRUOE1Ecmktc3EyS0FSbXI4Z2p2Zkl0UUp3ZFJB?oc=5",
       "publishedAt": "2026-09-22T23:51:34.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -433,7 +516,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYVBVLW9EZmlNLXRVUG9TYWlHcEdIUXN2S3IxOWROa2k1enRhY2dGc2M5eEFmRGQwdXdBcThqT0VtUDJLMlRiU1V1UzBxR0U?oc=5",
       "publishedAt": "2026-09-22T23:49:04.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -462,7 +545,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOXFyLVBheDNlQzdYWkVLOG1MWURrZnVzVERpUmJkd3JSbDZZT1BhVTFrREpWZmpUWFY0N25ReFVTSU9FZGhJSXlrM3Zyb2lqc25mLVdvekY2UG_SAWBBVV95cUxQX1BlMUQ4aVZUUUdqUkVEUXpOcHNEQVJJQ1dKMVJhLWRkMlI3MXQ0d3NIYjNIeGRXTUFMSEQtMVFUenpfbjExSjJQVDRla1djVE81MUdXaGpEeFRoLS1XX0k?oc=5",
       "publishedAt": "2026-09-22T23:26:13.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
+      "collectedAt": "2026-09-28T09:09:20.096Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -481,89 +564,6 @@
         "confidence": 0.69,
         "positiveTerms": [
           "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "828665402b46976f",
-      "title": "SK \"삼성물산, 삼성전자향 매출 비중 상반기 29.2%⋯하이테크 공정 확대 수혜\"",
-      "source": "etoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40S0xLVjNZb0lkeWtxcVh0NlZDOThlYlRxU0hrZGkzdmtrSU1oR0o4RFRsTGpUMlVtQmxtY1NFWEY4elBNbEFJN09IQm50NndSX0FQRA?oc=5",
-      "publishedAt": "2026-09-22T23:04:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "SK \"삼성물산, 삼성전자향 매출 비중 상반기 29.2%⋯하이테크 공정 확대 수혜\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d649a46f38522423",
-      "title": "삼성물산, 美 차세대 SMR 시장 공략 나선다",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QVzVIcWNaT0h1THF4blZGYUtGU01CTkhqeHZWNHJIWFZ6azdScXRDcm5EdnlwZFFYOWh6SExhUFpfOE9TVmV0UVR4VlZZM1RMNnhUV1ZUZjFBXzRxLTI4Z2VtbHQxMFE1MGdXUE9HMVpGN2lWekHSAWZBVV95cUxQaDRuSHJEVmo4dVVYei1KNWFjUHRUUWx6WDFkdHB6Z1AxQ2xzWXk2empfZVh4eVBTajI0RFNUQ2g5QTZBQTNELXFnRzFlVlVpck9KdTRURk5fdTUxYmlnUzZwNnA3cGc?oc=5",
-      "publishedAt": "2026-09-22T15:30:00.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 美 차세대 SMR 시장 공략 나선다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "239e44de975a9b18",
-      "title": "삼성물산, 하이테크 수주 기반 실적 성장 기대… 원전·신재생 사업도 주목 - 유안타증권",
-      "source": "S저널",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yYjdjTzk3azNjNEctSFFDdTBsa2EwNF9MNU85SjN3V0FIY196VTRPLThmeXNZWVRNbkdxaFUwcERwYVZCSWZBR1V2S1I5Z2RrQXZ2OWxJUTF2Y0ptbENtSjhzRVJrdFVfUnlvcFJn?oc=5",
-      "publishedAt": "2026-09-22T08:03:33.000Z",
-      "collectedAt": "2026-09-28T01:19:25.318Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 하이테크 수주 기반 실적 성장 기대… 원전·신재생 사업도 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
         ],
         "negativeTerms": []
       }
