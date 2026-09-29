@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:19:14.447Z",
+  "generatedAt": "2026-09-29T02:25:27.010Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "넥센타이어, 기아 '2027 쏘렌토 하이브리드'에 신차용 타이어 공급 확대",
-    "美 EV 보급 속도 조절…현대차·기아, 현지 생산·판매 유연 대응 ↑",
-    "넥센타이어, 기아 쏘렌토에 신차용 타이어 공급"
+    "노무라, 현대차·기아 '美 연비규제 완화' 수혜 분석…테슬라엔 '악재'",
+    "“합작사는 안 된다더니”…기아 중국 법인, 가격전쟁 뚫고 반등한 비결",
+    "넥센타이어, 기아 '2027 쏘렌토 하이브리드'에 신차용 타이어 공급 확대"
   ],
   "articles": [
+    {
+      "id": "51ead27e10fde754",
+      "title": "노무라, 현대차·기아 '美 연비규제 완화' 수혜 분석…테슬라엔 '악재'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXRqc0Q4aWhqR2FvTWdDOGQ5Q2hNcmluQjU0OHU4QnhLSGYtN2dnMmc1eFc5Nm0yZ0hnQ2ZIZ1VfaU5JTF9KVm1jcVFXOE5kSW1qdE4xMW1tTEhzanZ1azFlT09fNGhwRkg0QU92QVYtdkE2eGJLTUFLWUFTNG1ZQlJXbEpVdTZn?oc=5",
+      "publishedAt": "2026-09-29T02:06:00.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "노무라, 현대차·기아 '美 연비규제 완화' 수혜 분석…테슬라엔 '악재' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8d3582957c1aa6fd",
+      "title": "“합작사는 안 된다더니”…기아 중국 법인, 가격전쟁 뚫고 반등한 비결",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1V0UjlOOWsxWGVWZDdYXzhnYmFMTzB5NFZ2STlNWmljY3U1OHh5Y1JQUm1zOVQxMkdJdFNXVmFIdDVhN2lyQWk3UzR5MjRxRUR3NU1lZkFmRlFkY0dEalJwTXE3QjIzSU9OYXhPVTc5aFJhSFlleTk4WjFmWldXdzRtaDdGcHlK?oc=5",
+      "publishedAt": "2026-09-28T19:10:00.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "“합작사는 안 된다더니”…기아 중국 법인, 가격전쟁 뚫고 반등한 비결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "faa3177a0e658800",
       "title": "넥센타이어, 기아 '2027 쏘렌토 하이브리드'에 신차용 타이어 공급 확대",
       "source": "비즈월드",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kT05xeWJvSnZjblR5U200YkdrUTJ6WURnUFhfQTI1UGFrbkw5Nkgzb2FBVlRkTDdZNFFxMWl6cEJrR09PYVVaRk96cGxHWWVQX0xVZlV3NlBqc0F0dW1XLWpmS2R2RHd6Y0E?oc=5",
       "publishedAt": "2026-09-28T17:05:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -47,7 +103,7 @@
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EczRXTUFWS2lLMEFPRktmOFB0a2pabm9PdS1TSU9oR3I2dG5DSnRhbWJWMVFHbTd3S2l0bktPMm1maV9renRWb2lrcnBuMVduNUJaN0V2YUo2VDg0cmQ2Zm5FcS00NHdhdGlQUHhn?oc=5",
       "publishedAt": "2026-09-28T08:51:29.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -74,7 +130,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4bi1XWXJFdF9MQjhYVXY1ZHBHQnZNVXZnM1hWd0NEbzhpSFNyRm0yWDVCeFpzOUk4bVpxYzktdDZ1TXBSYkZzeVZmRHVwSFFqeDBkOExxN0taQ1dxaTlIUURVQdIBaEFVX3lxTE5LajFQSTVEeThfXzNZWVRTNXpiUUJhNmwzcDE5Yi1ZbE93TU11c2NYeUVvOXNnNThLQ2xRLXRwVzRDdGlEZS1nalh3NkR4eHh5MFZjVENMZHBCSVEyQjdyTDJneFhqWV9R?oc=5",
       "publishedAt": "2026-09-28T07:54:48.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -98,19 +154,14 @@
     {
       "id": "07ac4ede5fd17bf6",
       "title": "美 아이오닉5·EV6 '리스 만기' 도래…현대차·기아, 중고차 가격방어 총력",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vi1BcXZ6QlljYlZid1ZNZEg5VS15U3FHRzMtRHZKREVCMDZTbkdYZlpadmZWekhyTHViS2Y2THNXS3RfcEI4N1VpdFk3bHEyTFFvZ0dn?oc=5",
       "publishedAt": "2026-09-28T07:09:19.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -133,7 +184,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJUW4xR3pMZks2aEpUZXJkdHVCQlY5Um1oVFlBNkRzSmhSZVk1NXUzVzBKbnhhdDFoc0JLUlBuQzZpak1pcERPaGV5STR5QjZHNUxSbEx3QnI1LUlVQUU1cFg3dw?oc=5",
       "publishedAt": "2026-09-28T07:00:31.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -160,7 +211,7 @@
       "source": "천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFekI1WWZwVGQwY1BjUlo2NmtpbGdScGdJdXp1U2dienk5RXU4XzlCT3ZLRGFzVE9MLWlBUE1Id3hfdTFUeHZnQnlZYXRkRGc1YlBqdGx0bTFnNjNnUTVSX01aZmhlYmNxa3c?oc=5",
       "publishedAt": "2026-09-28T04:14:40.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -187,7 +238,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yU2xBM1FjSHhtZUpoVy0wNUl2VFZLZ3VkQmFHSjhYbmVhWDNXOHl4UmF6VDkzZ0l6TkdoQ0toS092dnJXWUU1WlQtb2h1MFM1V21QLTBIblVQLUNHRTc2eUZ4c29hNDhyaEtHSk1pT3rSAXRBVV95cUxNZWtONE5fME5oVVNsZ2JISXRnUHBYcy00b3BOVFBQZE9QTk5tNE4yckVEU1BvZ2ZmOG5RS3RScVJNeVNJY2JHY05KUmxyUTBuVVJTNHd4S3pCRmFHZy1TY1VEbUpDNTRCdExhdXNTdkc2dWlodw?oc=5",
       "publishedAt": "2026-09-28T02:14:21.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -214,7 +265,7 @@
       "source": "위키리크스한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55OHRwbzRqSzdVOVIwb2NvMHZ0cUxxZktYOHgxLUlmaUJfUmw5cDdIYWJ4MEJYWkJRemZMQkdzT0JrT2hEMktJOVVTTnhGV2RlM2MyT3p4am9hc09QV2RlcTNGUkdCc1ktVTRHREU2dEM?oc=5",
       "publishedAt": "2026-09-28T01:21:09.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -241,7 +292,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tNWs5OVFXdkNFRXZOSjBHVVJiTXZuRHY4S3JQQnk1cTRGUnN1N1g2cWJuOGNXV19zVzhqamhyeDRpYUlWN0wtQ2JYNjhaU0NkQmVyOWRfSUdfcU9HT01NNlVHRV94cHJDaFJ0TXQ0S0VycjTSAXNBVV95cUxOLTVrOTlRV3ZDRUV2TkowR1VSYk12bkR2OEtyUEJ5NXE0RlJzdTdYNnFibjhjV1dfc1c4ampocng0aWFJVjdMLUNiWDY4WlNDZEJlcjlkX0lHX3FPR09NTTZVR0VfeHByQ2hSdE10NEtFcnI0?oc=5",
       "publishedAt": "2026-09-28T00:31:04.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -263,12 +314,12 @@
       }
     },
     {
-      "id": "db57a6fd8aa0d4c7",
+      "id": "a3d55058039a3361",
       "title": "기아 'EV9 어드벤처' 디자인 美 특허 등록…현대차는 '가상 변속 제어'로 기술력 과시",
       "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Gci11UTRJdUd4VmFPeXdRRzVZRjQtd0xZMG1iVFpaTzNtQm9ieGs4Wjk1eV9MZTMxNk9XYTJtZUh0VTRLRUt3VjAtbE9WVjlCa0FRaFNnb1lZZHZIY0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4S0N4d3ItNmlDV2gtZmRETkZKdGRUT2M2QkpELVJXdThZQXlpM2dSNl9JTUhHYktUdUVxU3VXNEtyU1RfcjRXQ3hkeFpscW84R3NGLWxDcURka3ExdDVwLVg0NA?oc=5",
       "publishedAt": "2026-09-28T00:30:17.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -295,7 +346,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UGVrSEhpRkRjZUJMSWN3aHczcGRidXFwbnB0MUExQXZFQWdYOU5qcWg2RTZpSWZyX0RNbUZEV2p3N1l3Z3laMWgySTByQjJYZVFQTjEwU2lyUGp3d19jRmxQQ29xNG1o?oc=5",
       "publishedAt": "2026-09-28T00:15:50.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -317,16 +368,21 @@
       }
     },
     {
-      "id": "6616a7320c558b68",
+      "id": "fda31f35ff20f8f4",
       "title": "EU, 中 하이브리드까지 조인다…현대차·기아 '가격 방어막' 주목",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lUzE3VEtRMnFRRGxGY1FrMUhKRHJCdHI1WEtHMC1FaGpRejd6Ti11Ykt1eHVsVWVjZ0lqRmNQa1BXLWtldGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yNHV5cWJ1MUpQT3RpZ2MyeVBGUC05c3BiQnEzbm1wc3dLMkQwV0p4VWZITnRydFBIakx2ZDVwSjR0MWUzZ1VFYTg1WV9Gblk?oc=5",
       "publishedAt": "2026-09-27T22:01:34.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
       "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
         {
           "id": "kia",
           "name": "기아",
@@ -349,7 +405,7 @@
       "source": "토픽트리",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2Q4Vl9iQ0lzWXNrZHZkam1jZ3BfcTNCV001Q2N4emlUU2pOZFlUNkFQMGhXZ2FUZ3BpT2lJME5aN3hEeFlrQzk2YmJFbkVtSWJiQzNoUTFrOUs0cF9wek9FZE1ZeVlqdlhEaGlXMkZMb3pNbUlIb2Y2TkJlckZZZHQ1YVJuNFFsRHQ2NzhoMy3SAZgBQVVfeXFMTkpJUUFKcmJxbm14THpvUW1EZDZpNEFPWTBhd2tQbjVxM1ZUT1Y5NVkzTG5PRjl1VnJqcUdZV3praEtOWk1jdzB4c3RHU0hkWlpGSXhXZlBsWGxTeTBLTlNRYjNKeEg2WE9OUkdXUGJuT2trOGVuU3VOVDVZTTBJem9lTkVtcldGV09jUGRLbXpmTXU1MEJVLU4?oc=5",
       "publishedAt": "2026-09-27T03:39:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -376,7 +432,7 @@
       "source": "미주중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pd2JzYkpTU0JJbzBFc0hCNUlqb1k3Z0Fxd1ZUSTY5eDFZOUxaenJVb0t4SkdVRG55eVRFbUgtYnZzbWxEdGZxVHN0cFR2UmdnVk93Yk5BZVdkQ0xyOFlHdS1R?oc=5",
       "publishedAt": "2026-09-26T23:01:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -398,39 +454,12 @@
       }
     },
     {
-      "id": "e8fe439b712f5ee9",
-      "title": "현대차·기아 서비스 거점 1992곳…수입차 전체의 4배",
-      "source": "부산일보",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoQ3Y3QzhMcVN1ZWVOdmpQVlc4WmRtWVhxZ0daU2FYTjRZR0NJOXZOUUNOWUNUYnRtLWkxRjZoTUdMcG1BMkdIejNRR25fTDV1RHJsbGdMTUNIbF9uM0FINzNVNHhhUmhVeFRuUkpTOE5jT0tGU1JscVVzUQ?oc=5",
-      "publishedAt": "2026-09-26T07:19:29.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아 서비스 거점 1992곳…수입차 전체의 4배 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6f939dcebfd3c683",
       "title": "현대차·기아, 서비스 거점 2000곳 눈앞…전동화 정비 강화",
       "source": "신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlNG55cnFQc25mazFZN0J3ZUtYV3lWM0dpQWlfUDREa3FMM2t6dm5FdkIteWRGcWhkeFJQdkh4YTBRSVFqeHUya3FUamZ0M2ctbW1PR2NhbFlRQnRIVVFYQVhZaEkwSkxhVm9PeGVZOU0?oc=5",
       "publishedAt": "2026-09-26T05:49:18.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -452,12 +481,12 @@
       }
     },
     {
-      "id": "feb5d97ecc84d1d8",
-      "title": "\"신차 살 이유가 있나?\" 연비 17.4km/L 찍고 2천만 원대로 타는 하이브리드 SUV",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95emtvVFVIb3FwR0tpalVHVHlLdE44U3dYZ3ozOFhYVkZFWFhFYVp4aWZoLUFkLWRZVFEwX2d4aVZ2UGVZbVE?oc=5",
-      "publishedAt": "2026-09-26T03:00:04.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "id": "98eed14cd31eaa5f",
+      "title": "현대차·기아 국내 서비스 거점 1992곳…수입차 전체는 458곳",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtTjVwc2VJamo3R29LUE1vVkxTVVNMRG9nUzJ5VlFZem81NUJwcHhQbjJ3TVJqbWcwRlRDMDc0ZnpFa1NJeFBSc1dpdlU2N2FvRlBpSFF0ejJpc0l6WmpXMnF2UHLSAWhBVV95cUxQNktpV245Q0Z2V2xIS0U3S2NjeU9vR0U1WmROVXExV2xfMVNWUVREZ1JMS0tpMHBRTzhtQm5ReHRTYlQ3TEVtTjhkQXo2YUJ6WXF6Z1NLTktYTmROOThHaGtnem5YNl9YaA?oc=5",
+      "publishedAt": "2026-09-26T05:23:10.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -468,8 +497,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "\"신차 살 이유가 있나?\" 연비 17.4km/L 찍고 2천만 원대로 타는 하이브리드 SUV 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "현대차·기아 국내 서비스 거점 1992곳…수입차 전체는 458곳 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -479,41 +508,12 @@
       }
     },
     {
-      "id": "48f74af63c7f3e1b",
-      "title": "현대차·기아, 미 콜럼버스시 도난 소송 100만 달러 합의",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFp4cVhhQmZkdGx2MHVpZWpvXzU2Z3JYUG82dTVibWRxRFRHdjVuSHdla1lDaWh5VWRzWEE2Q3FaeU1pOWE5U1UyY0pyV2JpX0pOUWpxUXJRSlpTaUZ1V3VtY1Rjd2xua20yX0txTUdZLWdVVkU4MDYwS0NnejdYemVyX0V4YXlP?oc=5",
-      "publishedAt": "2026-09-25T23:09:14.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, 미 콜럼버스시 도난 소송 100만 달러 합의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.47,
-        "confidence": 0.72,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "수사·소송"
-        ]
-      }
-    },
-    {
       "id": "03291a0b8c94ad92",
       "title": "시작 화면과 진행 화면이 다른 맥스코인 토토 구성 이해",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGNIbnJxNFN6ak4wOHJBVDkxaklKQW15VU9XTFJSVFFLM1Nkb0hZOXJKLXhJVGpEZU9VbGVQeV9kNmFVX2tvR0RmYi0zNUF5Umd6b0taQWkzYnNNSnZWbi14RGtWaXRkRXdUd1F2TlpQNXRrQUs0dVNuYk9GUEFCMVVGcnFlblJweVdDOFdYVjVqa1YzSkIwMGhyOXF3SVRQSjRIQw?oc=5",
       "publishedAt": "2026-09-25T13:32:02.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -540,7 +540,7 @@
       "source": "토픽트리",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QczZuZ0NxcFBVZzBwTDQwclpPTjZrVUFsU0dqUk1ieEVvUkhQWnZFTC12aElYOHFQa0s3a2otNjNMbnJFbDBVb0dkdnFLVU1nRVRQTVZaT1dWY3VRLXNCNHB5WFNCZHc4V3pIZEpwNnFqV29jYkVBYkloOUtaSTTSAYcBQVVfeXFMT1lkbDFKaEpfTTIzOHdoWExlWEV5MmpsVGhxUW15OElJUVVuRHI1U3B2ZXF1NWhwMXFwZGRDMHYyanZKc1BkYUpnYWpqUjBzT0k5RWVDQkF5emQ4VndnRnM2ZDJVMXBCREp2b21GNThNOEdSUEY2RHFnNTRJQkRKa0JKQ1A5dzhJ?oc=5",
       "publishedAt": "2026-09-25T07:29:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",

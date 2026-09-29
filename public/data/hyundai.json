@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:19:14.447Z",
+  "generatedAt": "2026-09-29T02:25:27.010Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,155 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차·기아, 미국 시장서 RV 누적 판매 1,500만대 돌파",
-    "美 아이오닉5·EV6 '리스 만기' 도래…현대차·기아, 중고차 가격방어 총력",
-    "[오늘의 모빌리티] 한국타이어·금호타이어·현대자동차"
+    "\"피지컬 AI 기업으로 진화\"…현대차그룹, 美 실리콘밸리서 '테크 포럼' 성료",
+    "현대차그룹, 'HMG 테크 탤런트 포럼' 리더 총출동…미래 비전 공유 - 머니투데이",
+    "현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료 | 뉴스 | 현대자동차그룹"
   ],
   "articles": [
+    {
+      "id": "95337cecae7b0691",
+      "title": "\"피지컬 AI 기업으로 진화\"…현대차그룹, 美 실리콘밸리서 '테크 포럼' 성료",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzZjJHbm9oU3dJT1VCSmlZQnJ0empZdGJ2Q3dBbzhLN29HOERDZlVKT3FLbENpeUxVV0xuZ29sMnk3U0J1ZkJ0a1ZpM3BJYWZNNnZ6YjU1cW5Sa2Z3QzFDQUdJLWNxV093cFAxVXk0dWE?oc=5",
+      "publishedAt": "2026-09-29T01:46:32.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"피지컬 AI 기업으로 진화\"…현대차그룹, 美 실리콘밸리서 '테크 포럼' 성료 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8af0343151b241ad",
+      "title": "현대차그룹, 'HMG 테크 탤런트 포럼' 리더 총출동…미래 비전 공유 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KTkNxbmxYSm9VQi13Y2M0QkVZOU5Bb2xSbTFmNlZfVnQtckljNVFyYUdzbDVWT2Mtem5kV2JPQllQMjNYZ0MwY0ZCa0FzaUZGSzFRSG9MaTJlNURmOGhBNTg3YjV3OFJrMmtjRNIBckFVX3lxTE5RZkJFaTRjbDFrUDVoeC1XQ0ZtVFU2dWlWZWgzbnRlUHJFOTZIeEhHM29YQmI4d2RBaW1iUmdZaS0yb0VmWm9lTG1xR1hBeXN2ZHMwX1pXdlh3dFFQYTlCVUdyck5FZm0xZkJwR2pFckFCUQ?oc=5",
+      "publishedAt": "2026-09-29T00:13:10.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차그룹, 'HMG 테크 탤런트 포럼' 리더 총출동…미래 비전 공유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "74293b20d3954fb6",
+      "title": "현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzJRU2dFZExuRng0djdQNXZ1VDdlRWFqUlZyd05kRXBNNjl0U05NM3N1NGJrZV91QnFLcDlBU3k5R3h6c0tLeHBqNGdJQlg2aHJ2RmdFbGh1UUt1MW5VYlJKQU5pZjJZQ2NsdEQwazhZOGJtNWRNUDZaeHhUbkozX293VlVSZXljNktj?oc=5",
+      "publishedAt": "2026-09-28T23:30:00.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차그룹, ‘HMG 테크 탤런트 포럼’ 성료 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "93b005ef592b469f",
+      "title": "신차 무대 美로 옮긴 현대차… ‘미국 퍼스트’ 가속도",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOSXpHWklUOWhqRzMzaHdvTk9KSDZuUk12ZFR1cVhKR3AwWkVjU1dlb2NJWXE1ZlIwR1ZtWEZYMWpfWktVZHBnd0pqcy1DVUlKbDJHMVVYa3AzaDFHU2N2VmFMLVVMOU1ZNG9JTFlFVWXSAXRBVV95cUxPTEE5MUljdXJCdlZlLU1CMHA2ZEFqU2d5NWtTM2Y3em81SjlaWkxteTJ1YzZ5enlSRHhXOVJzaFhfTW0zNUV4aVQ5UXdCQjRCTUFmOVh0dnpSTWRSWXNJOVFvNVp5dG1mbVZoRlV6a1pTR0ttOA?oc=5",
+      "publishedAt": "2026-09-28T21:00:00.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "신차 무대 美로 옮긴 현대차… ‘미국 퍼스트’ 가속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5598da6dec6d9cc5",
+      "title": "'2026 인제 월드 투어링카 페스티벌' 개최하는 현대자동차와 인제군",
+      "source": "모터피디",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtSWNoOEI2ZW5mSFNKRmxSX0xOeHZ0YVBjejk3MU04OFJ6UGxVSjRLZGVDQ0NnRTE3YlBxSzJjOFRIOVRaRDFPMk5uLWVNZ2tGV3d5U3FSdlZrcjVJVFppN2ZfWEdLWVl3?oc=5",
+      "publishedAt": "2026-09-28T14:08:27.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "'2026 인제 월드 투어링카 페스티벌' 개최하는 현대자동차와 인제군 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "71c165a062e559ed",
       "title": "현대차·기아, 미국 시장서 RV 누적 판매 1,500만대 돌파",
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWkNPNkNXdXNRM081UDNOSVdZM0lrdk8takVtUW43clJPZnFzZURlTG4yQ0sxNm1oMjdDdVNmUWloVk9lVlpicTRsWkpHZC1MYmc?oc=5",
       "publishedAt": "2026-09-28T07:59:59.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -44,44 +179,12 @@
       }
     },
     {
-      "id": "07ac4ede5fd17bf6",
-      "title": "美 아이오닉5·EV6 '리스 만기' 도래…현대차·기아, 중고차 가격방어 총력",
-      "source": "zdnet.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vi1BcXZ6QlljYlZid1ZNZEg5VS15U3FHRzMtRHZKREVCMDZTbkdYZlpadmZWekhyTHViS2Y2THNXS3RfcEI4N1VpdFk3bHEyTFFvZ0dn?oc=5",
-      "publishedAt": "2026-09-28T07:09:19.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "美 아이오닉5·EV6 '리스 만기' 도래…현대차·기아, 중고차 가격방어 총력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d08363dc2fe674ec",
       "title": "[오늘의 모빌리티] 한국타이어·금호타이어·현대자동차",
       "source": "파이낸셜리뷰",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YaF9jQ0xzUmFPSERjcVBURUxRNnRqeTFBODJDaFBQM0plQWVKS3RqOXd6MFJvb0tyaHNDNHFWem50WS1rTld3Z0thQVp1dlcwWGx2SVhMN2F3dTdGNHY0V1MwRG1aemU5QllMdXMzLWhjN0pV?oc=5",
       "publishedAt": "2026-09-28T06:33:50.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -103,12 +206,12 @@
       }
     },
     {
-      "id": "cd63d71153533127",
-      "title": "현대자동차-인제군, ‘2026 인제 월드 투어링카 페스티벌’ 개최",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Z0ZPdEgxc0Z0enNvQVluZDJkdFl3ZG1YRlNSNmpBQmF1ZHhqNlZTUDJHdlU1VERwN28zUHNwb0QwWGtsNC14TmIweEdhUTB4TVBMc19SVkEzeXppRjBuT0NpS1F0RWVGUVNEZkhR?oc=5",
-      "publishedAt": "2026-09-28T02:20:45.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "id": "a5df95e4bc32bf0e",
+      "title": "현대차, 中 재공략 신호탄 '아이오닉 V' 29일 출시…현지서 2000만원대 가격 승부",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03TEh0WjM0c2ZodF91ZTNVYUF2a2dIRWVMTVhxbDBkSkprcXBhb3AwaDcxRWdjSFN6SUZLYlRWZmo0Z1FDb0VXaWp2b1hneV93OVBUdVEydmhIUkg2aWJBbmN1MUZPMC1yM0tSX240VmxPQXdGdGstM9IBeEFVX3lxTE03TEh0WjM0c2ZodF91ZTNVYUF2a2dIRWVMTVhxbDBkSkprcXBhb3AwaDcxRWdjSFN6SUZLYlRWZmo0Z1FDb0VXaWp2b1hneV93OVBUdVEydmhIUkg2aWJBbmN1MUZPMC1yM0tSX240VmxPQXdGdGstMw?oc=5",
+      "publishedAt": "2026-09-28T02:17:45.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -119,8 +222,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "현대자동차-인제군, ‘2026 인제 월드 투어링카 페스티벌’ 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "현대차, 中 재공략 신호탄 '아이오닉 V' 29일 출시…현지서 2000만원대 가격 승부 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -135,7 +238,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NWUtvclE1WDdJVERhd1pqTWZXNi10TmhVN20wakg0dENCVGRKdlV2MEZHUHdkekNVZ2ZmTW1OZktEY0RQSzlHbFF3Rm50RExFWXZCZFhnT0NWM3c5clFpSjA4TkpYbldabXh6a1VHWHhFOUtG?oc=5",
       "publishedAt": "2026-09-28T01:07:45.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -162,7 +265,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrT1R0ZDZ0Zy11MWFneVp1cEhzQzN0N1dmYzZRY0d4VDZmbXl5c2dOWmJpNmRKeXFINzlKLVhnUGVTeVdPdUNLcUFDdFd5UE8xNVMzS1QxOHJqSW5rUURidE8yNDU2eWFYeWpxd25UT1R3d9IBckFVX3lxTFBrT1R0ZDZ0Zy11MWFneVp1cEhzQzN0N1dmYzZRY0d4VDZmbXl5c2dOWmJpNmRKeXFINzlKLVhnUGVTeVdPdUNLcUFDdFd5UE8xNVMzS1QxOHJqSW5rUURidE8yNDU2eWFYeWpxd25UT1R3dw?oc=5",
       "publishedAt": "2026-09-28T00:15:46.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -186,10 +289,10 @@
     {
       "id": "d2ca31cb1c458e33",
       "title": "현대차·인제군, 현대 N 페스티벌·TCR 월드투어 공동개최…10월 3일부터",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPV1ZWbHUzXzZWV0J6a1J2WDJlQnd4a0hCajA1dGswXzBlcmU5ZV90RDJsamk5aDVFV1hUU09iQ2tyNTBqUWdDby1tb3FiWWIzZEo0VDlR?oc=5",
       "publishedAt": "2026-09-27T23:54:14.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -216,7 +319,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NX0lFNlhPeTJYUTdRLXBKbEtqUWlKamwtSmFzMUJ5cVlpYlFWLURPRFBmVzI3VzNBMGZxQWE5MnJmek5aal9mTDVDMDBkcnVwQWs5Q3hMWEpsbmx1RVJmamJJTzJFQdIBZkFVX3lxTE1NX0lFNlhPeTJYUTdRLXBKbEtqUWlKamwtSmFzMUJ5cVlpYlFWLURPRFBmVzI3VzNBMGZxQWE5MnJmek5aal9mTDVDMDBkcnVwQWs5Q3hMWEpsbmx1RVJmamJJTzJFQQ?oc=5",
       "publishedAt": "2026-09-27T22:30:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -238,12 +341,44 @@
       }
     },
     {
+      "id": "fda31f35ff20f8f4",
+      "title": "EU, 中 하이브리드까지 조인다…현대차·기아 '가격 방어막' 주목",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yNHV5cWJ1MUpQT3RpZ2MyeVBGUC05c3BiQnEzbm1wc3dLMkQwV0p4VWZITnRydFBIakx2ZDVwSjR0MWUzZ1VFYTg1WV9Gblk?oc=5",
+      "publishedAt": "2026-09-27T22:01:34.000Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "EU, 中 하이브리드까지 조인다…현대차·기아 '가격 방어막' 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "18971d5d1b264073",
       "title": "항공우주 생산기지에 현대자동차 스마트팩토리 기술 도입",
       "source": "koreasprint.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOeW8xTkV2d2tETENKelhlYXlZQnAtYmxiUDlpb0Y5Q19paVNMWllFXzVXanE0SHhwektOZVhCQmY1aTVjVDNnV0ZxY3lFZ2c4RDNKenIzbXprY1lRS3RER0h3VUprS0lWbHpYUnhn?oc=5",
       "publishedAt": "2026-09-27T17:01:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -265,39 +400,12 @@
       }
     },
     {
-      "id": "6126ee07ec314e62",
-      "title": "현대자동차, 코이카와 함께 모로코 마라케시에 ‘일렉시티’ 공급",
-      "source": "koreasprint.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LWkNNN0J2NzRoeTJyOHoxMk1fVjRfUV9QNGhvNWFVMWNma2c0RjI5T05vVXBTWmNILWJWTTBYb0FZdEE2eXRlc3pTRnNLdldrSXpDMEZTREtzZzZ2VDlrVXhSdUoxWTB2ZUlXb2tn?oc=5",
-      "publishedAt": "2026-09-27T17:01:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차, 코이카와 함께 모로코 마라케시에 ‘일렉시티’ 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "01e50590c4d9a2d5",
       "title": "\"엔비디아에 운명 안 맡긴다\"…현대차의 자율주행 승부수 [최수진의 모빌리티톡]",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjelU2ZnBkdG5hcDUwWjQtcTZjN0xuTnBVNkJiNW5aUnJ4ajFEQ1RaYTlDM1ZPN1BmRGlVVVI2dFBvZmtjb2VEZ0dOWnJQV3lUWlJTcjFOaldDUQ?oc=5",
       "publishedAt": "2026-09-27T07:12:56.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -324,7 +432,7 @@
       "source": "데일리매거진",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqemdILWd4NEZIV3lhOTNZSjREX2hMLUlhTktDaFlFMmF0MWNkcV85OXJEZmVZeUNuUEdFQkpLUzQ3Mks0MllwQ2hMbnhvQVZTQ1lUZWlwcE5mZDVIamFDQUpMVEUzazNuMlVNQUZqMG1Nejh5Vm5B?oc=5",
       "publishedAt": "2026-09-27T02:15:41.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -346,39 +454,12 @@
       }
     },
     {
-      "id": "d3347eec26f6e06a",
-      "title": "전북도, 현대차 8.9조 투자 연계해 산업지형 바꾼다",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91d0hCVUVwcGRFOE54dGs0TzI5TUd6eFAzbU5Zdk5pRlFPY1gyOWh6YWhGSE9HWUFOZEdpRkZQZ3lXVVNXWnVsTVNlOTBQZlZYNzUyOGlVRnR5QdIBX0FVX3lxTE5Mb3pCZEpYbW1lcUstQmlUYUZmT1VmRFZ5ZGlGUkJpdGlSdlplTE9JbElaYkVvYXFBdEtRVzFSWnBDUUd2b1hlZkVlemVoMWFNN2hhWmFSQzBDZUMxMml3?oc=5",
-      "publishedAt": "2026-09-26T11:38:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "전북도, 현대차 8.9조 투자 연계해 산업지형 바꾼다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ba4a71f4c6312a3b",
       "title": "현대차 스페인 법인, '유럽 최우수 고객경험' 인정…고객 접점 경쟁력 입증",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00S3VMT191MTV6MUVXeXdMRUVpY2tHd3FxbUR3djZ4YVBQcGZqUzhxUzgtakZ6THdNdm94cHUwdjEtMHBFYmdNOXktTGRtcDhuR3lhdDRsLUxNRzJNaUE?oc=5",
       "publishedAt": "2026-09-25T22:30:08.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -405,7 +486,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0VjhVRVN3UDdPWW9fZ1NCU0NMbllYS0lzbTRYSDNkRGN1TGlybTBlT2V4OGc5Tko4Z01pRk9ZQUhfaVg4SllQQjFDV09qdXBZRWc?oc=5",
       "publishedAt": "2026-09-25T22:19:55.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -432,7 +513,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NR19CRFlfSXNod3Q0UDBlZ3RTakU1eFdVcjJKbWM0WDlKUHVSTUhSU0JqZ0JoYmJmVUdaX1lBaEFGNHVCSm9iX3NqU3l5bjRMVGxsYm5R?oc=5",
       "publishedAt": "2026-09-25T22:00:24.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -461,7 +542,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzZ0FhcG5xMTJSYktNU0U4MnYzaENPbmhGMEtGOUtCTDdfMGNxMTRrdHJDRFZqUS1pQS1hc1laX1QtQXFjTHNyOWdCWEd2VVlNaVM4WkYtZ0pIOWtKX0hXODFxWktwdlhmbXgwbTRwQTA?oc=5",
       "publishedAt": "2026-09-25T07:00:03.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
+      "collectedAt": "2026-09-29T02:25:27.010Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -474,87 +555,6 @@
       ],
       "summary": "[르포]현대차 9조 맞을 준비에…더 바빠진 '새만금' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cf0c384d5b3a2473",
-      "title": "美 분기 판매량 포드 추월 앞둔 현대차그룹...3위 노린다",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPVVFWXzRFMW5JdXFPZ0pTdUpsSE5KSDhIUm1ncUdGZUlvT2hyNmhKYlNLdnJJR3QtSHBjdjlaU2NKNThVWWFnclJDcGtNSHVWZXhQbE05V3Q0N0tTQ3ZfaGpoSWEzekMtdnppcTJwekZ0cjlxendmYVIyTVdiS2c?oc=5",
-      "publishedAt": "2026-09-25T06:29:57.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "美 분기 판매량 포드 추월 앞둔 현대차그룹...3위 노린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "199729962b640d72",
-      "title": "현대차, 美 3분기 판매량 포드 추월…‘톱3′ 전망 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmQ2LXM3RWNnVlBxaWhwd1VITGlWMWUxUndDTUlDRWoyTGR0dU40ZmRHUHNJM1duZngyYkk4NmY2ZXVlOGdZN2JkdXRYT2t6U00tOEtQYm5kOWlrSmZhbkc0akxZeG5ELXlJLXFFRW9nSmdtc0RGd2RzYkw4bk42cWlnMHFuemk5QmVjYUlVeVN5c0VaOUhOenZaSWd1QdIBsgFBVV95cUxNcXRyVjNHbGNwVG5OSG5CdlNOaTg3bG9nT3BObFRGcV9xU1gzaU5GdTQzcjQySk9MYmQ3V2tqcVFsZFI2ZnVRdmRSV0dxT0lmNjhlWEc4QU1IYlFSSG9DaU9ScVJUWE5XYXhiUXVmV0hjZ3oxWjZJeV8wRnltR1ZkYnh6S015b01UakZfQnNmZ2RJcEdwYldrdWRSUWhDMmF1LW5HYVd6OFdiNUlHTmFGVVNR?oc=5",
-      "publishedAt": "2026-09-24T23:55:00.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 美 3분기 판매량 포드 추월…‘톱3′ 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b046d9c4c43d0b35",
-      "title": "\"충전 걱정 없이 960km 달린다\"...현대차 美서 '싼타페 EREV' 생산 준비 돌입",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXpqbDNuZ0ZGdlpBOHdrVTMzUkIyXzdrNGRnSUNaRUtobzY0NjZHYy0xZEYzMVh2N2F3aTEzTURCU0pwbnBSVHo3eHlUREpsVThBU3piQmNRV3pnUThfNnF2S1dBUEMxUDNYMl9RazVpOWJ1cW9GWmtFc3RpWXk0T1drd1Q?oc=5",
-      "publishedAt": "2026-09-24T07:05:25.000Z",
-      "collectedAt": "2026-09-28T18:19:14.447Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "\"충전 걱정 없이 960km 달린다\"...현대차 美서 '싼타페 EREV' 생산 준비 돌입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
