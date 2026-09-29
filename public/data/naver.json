@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:18:37.853Z",
+  "generatedAt": "2026-09-29T16:42:10.531Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "메타-네이버, AI 글래스에 네이버지도 연동…음성 도보 길안내 추진",
-    "네이버, 멕시코 정부·기업과 AI 협의…디지털트윈 사업 모색",
-    "메타와 협업한 네이버...\"AI 안경으로 네이버지도 길 찾기 가능\""
+    "네이버, AI 기술 자문단 출범…기술 요소 검증 - 머니투데이",
+    "자진상폐는 돈 드는데 강제상폐는 공짜?…코스닥 ‘요건 강화’ 그림자",
+    "네이버, 멕시코 정부·기업과 AI 협의…디지털트윈 사업 모색"
   ],
   "articles": [
     {
-      "id": "5c893592d31e0fa6",
-      "title": "메타-네이버, AI 글래스에 네이버지도 연동…음성 도보 길안내 추진",
-      "source": "테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYSzd1ZmU1M2lqZk5sVUF2WlBfVnh2cFdjcnRRS0NnT0luRXk1VUdYeHBycVUzSUJEVU9IM3BlX1NKM0RmSnBDRmRkLXJMT1BxUUt6Q1lOWHNUYWNmWjJVMmY1SmdzcDRW?oc=5",
-      "publishedAt": "2026-09-29T01:10:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "id": "ff7cfb55143f3148",
+      "title": "네이버, AI 기술 자문단 출범…기술 요소 검증 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYUt3UWJrQmtPZVByWU51SVZwWEExblpPYnVkOTFjX0JWOXR1d3Z2NnVJQ1BJUnRGRzZyT3VUQkRKUFJGUjlucEZkVHl6YkRTcjZJRmd0M1pVYks3MExwT3pYWTV4ZFB2V3Y2RdIBbEFVX3lxTE5wYUt3UWJrQmtPZVByWU51SVZwWEExblpPYnVkOTFjX0JWOXR1d3Z2NnVJQ1BJUnRGRzZyT3VUQkRKUFJGUjlucEZkVHl6YkRTcjZJRmd0M1pVYks3MExwT3pYWTV4ZFB2V3Y2RQ?oc=5",
+      "publishedAt": "2026-09-29T10:00:41.000Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -31,8 +31,35 @@
           "ticker": "035420"
         }
       ],
-      "summary": "메타-네이버, AI 글래스에 네이버지도 연동…음성 도보 길안내 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "네이버, AI 기술 자문단 출범…기술 요소 검증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d4d5c7e5506e89d9",
+      "title": "자진상폐는 돈 드는데 강제상폐는 공짜?…코스닥 ‘요건 강화’ 그림자",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1dvdGZfNVNXMlVvV1ZFLVZnQVNzd2tZYm5oa256N2F0ZzRxNlFaY2pSZWpVNExRd1RtUDFfOEluOWR0dERNSWxJd0N1b213b3JtX21pR09ZQ3NvbkdkelFWa0JaaXMzTEF1TGJWUzZMcFZEOE5WTEtFcG5PNTlGX2Zpbw?oc=5",
+      "publishedAt": "2026-09-29T04:29:00.000Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "자진상폐는 돈 드는데 강제상폐는 공짜?…코스닥 ‘요건 강화’ 그림자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -47,7 +74,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DMzdsLUxhdEFKZjhuVVE4dXVueVRpNy1fZHF6M2RDRFNHSDBydG1Sd3d0ZTMtS3ZzZmkzc29wLUlyOG9CbFRIVTZRM29XVUZtLWRhdlU4cXp0a3dHeU1XQ9IBYEFVX3lxTE5DMzdsLUxhdEFKZjhuVVE4dXVueVRpNy1fZHF6M2RDRFNHSDBydG1Sd3d0ZTMtS3ZzZmkzc29wLUlyOG9CbFRIVTZRM29XVUZtLWRhdlU4cXp0a3dHeU1XQw?oc=5",
       "publishedAt": "2026-09-29T00:57:37.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +101,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WcXZuLXpQWEVFeUhxR2xlZmNqak13SEhZTUZNc0JmWEViV0JyOVVjN0xBNk9rS0dqdkVNbmNzRXBGV0N0cXk4Vjd5Tmc3SmxJNGJEYTdtSG4yQmFxV0RBTw?oc=5",
       "publishedAt": "2026-09-29T00:40:17.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -96,12 +123,12 @@
       }
     },
     {
-      "id": "0bc922299bcb37c0",
+      "id": "427c4189266310b8",
       "title": "[AI픽] 네이버지도 길안내, 메타 AI 글래스로 듣는다",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkdHSllyUkg4QkpZMHJFSmpOZmdvZmV0N3hpUFZuTW55Sm1HblpwLThWbGp6ODdreS1HTElIaDhLRTFkNXNJX051cUQySlU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSYzhScFlKbTBac2t4alFFV01FM2VaM2ZSSk1nZl9oV0ZMbzRSYjZfUEItT2FqaUhIN3lGdThSTXNQaDhocVE?oc=5",
       "publishedAt": "2026-09-29T00:32:43.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -123,12 +150,12 @@
       }
     },
     {
-      "id": "e68fb2a08cd92206",
+      "id": "5735528dd55edf37",
       "title": "10대가 쓴 파충류 정보, 네이버 AI가 답변에 쓴다…70대도 '메이트'",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VZkdNQmcyWm1MYkxsRXJRSEZQdmxHd25yUEliRGVpb1RQcW9SZnlUM1pfUzhNUlMxb1dGcFJzSkt3ejNDNGxhZVF3NGhsc1J1OXpKQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhYTJlOGJKNDlZOUo0WjZMOXpaZ2o3eGYzdXNMM0kwblcxQ3RjelVDUXNteV80anduMXJGWE1BWWZxemJ5bUE?oc=5",
       "publishedAt": "2026-09-29T00:24:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -150,12 +177,39 @@
       }
     },
     {
+      "id": "896f78d90f869cc4",
+      "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은?",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXFZU3ZHSk53YzU0UnRtQnE3bTl2R3lJMV8wd252Mk5VZUoyZ25RUVVKcThmM3IxeE5NTzZpUm1Ba2hNanR0WjA5WXc2TFNKZ1M1ZS13VUJpSHdtbmoxQzBrWU4wOTh1eWpNQWZwaGczUlplY3U0STRiYjB3NkotTjZfblQzQQ?oc=5",
+      "publishedAt": "2026-09-29T00:11:35.000Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ec5e6c861311e5e4",
       "title": "AI 주식들도 버티기가 어렵다",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDdaTHlQWnpkdjg3ZmJJRzR1aHZ0cUNlQlItRlRNbl95NUpJdzRGSGJDZTVWV0pMVUptWExoQXREbm5ZdnBDeC1ZQ3AzLXN0QUlhSkpUcDFSc1hhNkdWZUxlNnJsSHJGQ2dqRFVJNGNGem00MnFsOHBGSlQ4c3RRNUhjRGFUYmQ5dVdr?oc=5",
       "publishedAt": "2026-09-28T22:11:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -182,7 +236,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeV9mQ1RLVk16bjFMNFBoWXozcEYyUUlnVEdnNUs5bGNaNmFoZGRJUmt6X2V4ZExUSFZ0MGhIMzN5Z19oSERBR3lzOTdrdEVDUksyRlY4UnFEUFpGR2c0R2phNlZGU2FmUGFRTG1NMFh2YTVvVGYtT0twMEVKRzliY2lHaw?oc=5",
       "publishedAt": "2026-09-28T21:06:30.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -209,7 +263,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZdXVvVEQ0U1JHZmlFc3hjTGR4dDJCMmhfZDdzeDdnYXdkZkxhWUt4UjU4WWVkTDRXUXg4Q3NDdVc4TmZNZGJPYWFnRUFGMVhNVTBNdTVSME5tVUp1Y185VXVGcG51VjM5VFJ3dtIBbEFVX3lxTFBZdXVvVEQ0U1JHZmlFc3hjTGR4dDJCMmhfZDdzeDdnYXdkZkxhWUt4UjU4WWVkTDRXUXg4Q3NDdVc4TmZNZGJPYWFnRUFGMVhNVTBNdTVSME5tVUp1Y185VXVGcG51VjM5VFJ3dg?oc=5",
       "publishedAt": "2026-09-28T21:00:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -233,10 +287,10 @@
     {
       "id": "2a30137d86bfe5d5",
       "title": "한화솔루션 주가 전망 : 오늘 14% 급등한 이유는? 태양광 관련주 가격 동반 상승",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlBPQ01TNTFWazZaOUFqM0xVcklzZmlqWXJ3OWdoanFBUkJyX3ZJd1I2NG5wZW12REE3cnJWNVctSE1saDV5Zkw4eWplTGkteWl5eFRNNWNIVWRxTEV4VzBMbVpLeWZwYnBkSG5DNHhKYTV5VmUyYmFza2g3Y1V0MEx4MA?oc=5",
       "publishedAt": "2026-09-28T16:16:48.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -262,10 +316,10 @@
     {
       "id": "747383951261c561",
       "title": "반도체 주식들이 다시 하락하는 이유",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmhEb1hnSEdpYzRsRWpNeHlMUkxkb3B5V0xwUWJZOEJVelh2Mm1HY3lJLUNvZUx6VmpDSTVucVZBRnJVNUVBR1Fwa182R1F2Y3h0ay1zSThmRmZKNHc4VldSdnR2REpJaUtsN2t2QnhISHdLSEdUWkltd2VoeXM0dWwzbE5QU0ljZ1Jz?oc=5",
       "publishedAt": "2026-09-28T13:29:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -289,10 +343,10 @@
     {
       "id": "9b3080d1663818c7",
       "title": "삼전닉스 주가를 미리 안다고? 분기 실적 풍향계는 ‘줄줄이 훈풍’",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN25EN0NZTnBIakVmR2d0TzBOaklvekR2RlVLR0JHMzhiaGRneTRGRDU5WEw3Z2NVMURVSGhYWFcwb3ljT2lQMVZFaTVHSXVhZnd0U2IxcWpXRHFwZmo5T3J3ZmlJTGF1RVRnU2Mzd1htODBJWF9qaDVYN0RGeF9TTmNtYw?oc=5",
       "publishedAt": "2026-09-28T08:41:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -319,7 +373,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nMzRLUW9nU3Y3OW5QTzVYWnVXendILVY1UXBBMWVkTVhDTGNqT0hKS3lTT1ZwMGdsZ0ZqODJxdnItaEhyV3dSdEc2X0VKZF9TTGNYaUFrZkZiZw?oc=5",
       "publishedAt": "2026-09-28T08:20:33.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -343,10 +397,10 @@
     {
       "id": "db0c135b04078b38",
       "title": "AI가 분석해주는 ACV 옥션스 (ACVA) 상승확률은?",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOUY0U0QtMXJ6TWJWTGNHZUlJVkZLWk8yY2JESFFpSFNTamN5YnZ0M0ZISlVDT0FoUTFxM0hybG9EZUN2MWxhaXVvdXl1cEdyX0U5QXE4VFhIS1NSVWlWTDRDVmJsa2tsSDZjNWt2elJaeTUzdmplMkNNSGVCRmRPLWpWUF9WUQ?oc=5",
       "publishedAt": "2026-09-28T07:28:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -370,10 +424,10 @@
     {
       "id": "51dd47813337c6c5",
       "title": "우주 주식, 지금 매수 타이밍인가? 함정이 있을 수 있습니다.",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0k5WXZBYmZSU3U4TDdMM2ZGS05sSlplaXZJdGNHQ01ZZmNlS3h6UFZRUjhzdVBWbkpOemNJNzhiWkY0NjVsY2hBRDJILVpQeTBHRGRUcEpEVEdncmRDbHdQVUZDeDB5a25ZaTZoZ2l3MTAza21TOVMyck1ld0k5MG1wQ3pZRzJkZElF?oc=5",
       "publishedAt": "2026-09-28T02:00:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -397,10 +451,10 @@
     {
       "id": "5fe61e560b98d0ee",
       "title": "광섬유도 AI 수혜주?…주가는 뛰었지만 ‘돈 되는 기술’은 해외에",
-      "source": "프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVFHbXpRalhPZmc3dXQ4eW5RXzBMM1VQTDRSNi12amZiUEhpVC1tR2JVTzY3MVUwYktwc1lBVU00dkdnX2NGbDBKUnZHdzgtQmlTcWJTenBkRThGS2ZSWGE4VFlFNDV6dHdYSzVRZGlPdzZjY0luNkY3eWRJLTQtS0d3VQ?oc=5",
       "publishedAt": "2026-09-28T01:13:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -422,66 +476,12 @@
       }
     },
     {
-      "id": "69caec2a8a28bffa",
-      "title": "“악재 주식은 기회?”…박새로이 투자법 현실에선 : 네이버 블로그",
-      "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkJvQXB3Y0lQd25DZ1dFQ2xxVlFEOUh5dW1DQ0JXWXBHNHA2Y19hSERTeTZ4X2dEaEZYYmZzZFU5c0RvdjVPc0Vud0oySDN0SHBuTExHcUxGUWxlLWJ0YVJPVXY0UFp0R0t6eV9oa0FCMzZxVEl1cTNPY2o4Rmt4aU9Uc3plS0o3WTlfZTdtQQ?oc=5",
-      "publishedAt": "2026-09-27T12:12:39.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "“악재 주식은 기회?”…박새로이 투자법 현실에선 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "74625e0a974a00f6",
-      "title": "이번주, 이 3개 신호가 주식 시장을 흔든다!",
-      "source": "프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDZ1eXlxaTNIcTdveGhBRF9QVXAzR1gzUHRXeTFlT1JBRGNJd09HSU90V1JwSThZMGJ1eDVQWGZxVGJkZlUycnp1YzVHV3RoSW52OFBVWmxsWUNBYjl5dzI2QVhtaUVYQ1dtQ3dWYWk0YVVJcjlOU29MTkUzUm5iVTN0MUtnSzg3NVVz?oc=5",
-      "publishedAt": "2026-09-27T11:49:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "이번주, 이 3개 신호가 주식 시장을 흔든다! 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9b6b067b1e7fa1d0",
       "title": "“40만원 간다” vs ”시간 필요”…NAVER AI팩토리 두고 엇갈린 시선",
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wazBwVU9Pd2c1b1dXOXhwR2VBbkk3OXhzdmh6MzN0MmFDQkpfWHJ6bFptZFNyS0diOFY3dWZBMi0xNXMyTEw0RHktTFRWZ2xyVkRHYVFSVkNlMEkyTVdZUHN1SQ?oc=5",
       "publishedAt": "2026-09-27T10:35:45.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -508,7 +508,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoYXk2d0xaRTdlQV9DMHphUVdsQXB4X2lJcElvUTF4VmVuNXlwcXJKSE83cW13clQxZHhqYlZPUmRqZzBzN2JkWG9kZkFOeVV0dlJ1bUpjLTMtanV4cmJkTVQ1SjFsb1pSTDJSTkdOeWNvTTIz?oc=5",
       "publishedAt": "2026-09-27T07:29:01.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -532,10 +532,10 @@
     {
       "id": "9e7ff7ed8fc1f92e",
       "title": "탐색•추천 넘어 결제까지⋯ 네이버, ‘끊김 없는 AI 쇼핑’ 만든다",
-      "source": "브릿지경제",
+      "source": "viva100.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZmNtRmxONzVfTzhwX05Ia1VKMTJaY2gyVUVnenlCalNxb2hxUjI5MUxZWEJoYm9CelV5WWJ0VXFFdGhBendOZFc3UVlyTVFGZk12WUl6SzdWdw?oc=5",
       "publishedAt": "2026-09-27T04:52:00.000Z",
-      "collectedAt": "2026-09-29T09:18:37.853Z",
+      "collectedAt": "2026-09-29T16:42:10.531Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
