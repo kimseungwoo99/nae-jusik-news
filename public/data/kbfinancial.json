@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:09:34.358Z",
+  "generatedAt": "2026-09-30T16:33:39.766Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "KB금융",
     "ticker": "105560"
   },
-  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "은행권 예금 경쟁 재점화…카카오뱅크 성장세·KB금융 실적 기대 주목",
     "KB금융, 상생협력기금 30억 원 규 상생협력 모펀드 조성",
-    "[금융街] KB국민은행·우리은행·KB금융·BNK부산은행",
-    "KB금융, 상생협력 모펀드 결성"
+    "KB금융, '상생협력 모펀드' 결성...상생협력기금에 30억원 출연"
   ],
   "articles": [
+    {
+      "id": "8799108ca96abfc2",
+      "title": "은행권 예금 경쟁 재점화…카카오뱅크 성장세·KB금융 실적 기대 주목",
+      "source": "s-journal.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhQWtMbTFzcG1GR2IxS1R1UURUdkFnaHBRX0JDLTAwWFhoNnhjYWpuSGlnQ19WVU9GS1BqNUUwRXFVWUpDSUhhb0ZaME1HNmstRkk4Z2hoSjAxajIzQVlBdHdIZlluX19WWGZtUGJn?oc=5",
+      "publishedAt": "2026-09-30T09:52:18.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "은행권 예금 경쟁 재점화…카카오뱅크 성장세·KB금융 실적 기대 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "e05df3f98ca53d1c",
       "title": "KB금융, 상생협력기금 30억 원 규 상생협력 모펀드 조성",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TWnFBdzJEOEQ5Mm5FaW5SWVNnS2NJT181QWlqTG9ZdFZBUS1PMmQ1bTFzRXdua21xcGs1YkhadWFXUU53WUI5RUFPUElWZ1NwNlhpdWtkSncyXzR6Rjk1cEJYOGQ?oc=5",
       "publishedAt": "2026-09-30T05:09:26.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -42,12 +69,66 @@
       }
     },
     {
+      "id": "9138f919d4efd0a7",
+      "title": "KB금융, '상생협력 모펀드' 결성...상생협력기금에 30억원 출연",
+      "source": "이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UbkMybnRJaDVHb1pCM0xJRXY0cXBRMzdHTE1ZZWZoNkNSMjdWaWl3aHFoeldacHF1ZlprUlNjVFJOTFI3aHBzVDVJZGZvRkdya3ZhSHI2OE5EQkZ0UllMZW1FVjVJUQ?oc=5",
+      "publishedAt": "2026-09-30T04:31:05.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, '상생협력 모펀드' 결성...상생협력기금에 30억원 출연 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6d454dce2b363259",
+      "title": "KB금융그룹 \"사회적 가치 창출 기업 성장 지원한다\"",
+      "source": "ngonews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QcXhpM0VQb25xSDNrblpNSEh3eEpiTHJHczBYQkRZWHFrSUpBQTBNQ2QzTFhuQWtpb2hSSjBsSFZsYTNVVWQzdUNCV2VrTXN1c18xWHotYVpld2o0bUNpTnlhaTdraGE2?oc=5",
+      "publishedAt": "2026-09-30T04:03:16.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융그룹 \"사회적 가치 창출 기업 성장 지원한다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "556f0ba9ad76760a",
       "title": "[금융街] KB국민은행·우리은행·KB금융·BNK부산은행",
       "source": "경인방송 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUQ005UERDLWZSMm5lSktLMDVPampDeHVSM1BPZFlPMkdnUmxZSkNjR3ZjMm9nWVo4M0xQSFcwX3pvU1ozN3Z6V2prNGs3cDg1VEJrN2tqUXUwajM5bW5qUlRPUTHSAWhBVV95cUxPMkZzdDFCV3Bmb1pFTElUcjYzVS1ZSmp6SGF6al8tU1d4eU0zT19DNl9hNHRSa0NReWJPalpMZGpPdDJsNTBKcWlvV3NKOUd5Ymk3TEtuNFltRF9IbmN3dUFxcW5iREVPcw?oc=5",
       "publishedAt": "2026-09-30T03:39:53.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -69,39 +150,12 @@
       }
     },
     {
-      "id": "1b2ea2c9281db7d4",
-      "title": "KB금융, 상생협력 모펀드 결성",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qN0RkRmVaZmNnRkU4Slg4aVVIOEpDdWpBV0d5YzJFaDNDSjZubVRhLVl4bUlqV2IyVGJxMkd0SmRDTWRaWGY1cVBvb0lONmZsYkxfdm5aSmkxdw?oc=5",
-      "publishedAt": "2026-09-30T02:13:32.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, 상생협력 모펀드 결성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "41bdd252ec0b9713",
       "title": "KB금융, 상생협력기금 투자 물꼬…임팩트 기업에 성장자금 공급",
       "source": "조세금융신문",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TMU5weWdfTWJoaVJ4d0NVSzUwb1otT3gyc1lwZ1JUaW5hSFhyWExXRi1zNENCM2ZLbEZMOG9VRWZCMkhqV1pLcVI4T2trbEs5QkE1RFdLVnExX285bzRVaXhVbw?oc=5",
       "publishedAt": "2026-09-30T00:44:32.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -123,39 +177,12 @@
       }
     },
     {
-      "id": "a9d20e0be093b04d",
-      "title": "KB금융, 상생협력 모펀드 결성…사회적 가치 창출 기업 지원",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SU3ZicF9qWXhmYlVGU3FaYUlsSS1NNDc2M1ZHQlp3T0JPQlVpeXhUT2VYeUJnVHdLQ3FWQW1VQ0pzWXRBT0wyd3F4SklCX3M1Z1dWc2FPQ2xyWEnSAWBBVV95cUxQeFFoMS1JRnFGVDBXa0ppUzVWNEIydmdLZnM3MHJIcUlSNVlkc0xxWFBDbzhtOTdGVzNwZ2JRa3VVaHZYclZkUEF4YkVicDBvejlJcnd4X294MnFsRl9rU2I?oc=5",
-      "publishedAt": "2026-09-30T00:38:51.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, 상생협력 모펀드 결성…사회적 가치 창출 기업 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "874ae18fd884e706",
       "title": "KB·하나·우리금융, 은행장 인선 절차 착수…'승계룰' 바꾼다 |",
-      "source": "news.einfomax.co.kr",
+      "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcjBpOTNibU9iNHVRMzJRbE5XeGZqc3RMWGtBZV9CdzNJYWZPbkJ5UWVKQVZsTmtPU2ZWYVFXY2RtSlh2OWZfQ1pKMmtNRmszY3pNQXdmQ2RhV3Q3SjFGYmYzQnc4aEpvNkdWZk42NTNkQW1v?oc=5",
       "publishedAt": "2026-09-30T00:27:51.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -177,12 +204,39 @@
       }
     },
     {
+      "id": "0505360002c9d755",
+      "title": "KB금융, ‘상생협력 모펀드’ 결성…사회적 가치 창출 기업에 투자",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54LVZCS09kZGJLLTIzYW1sdkZHSXhMZndiUFA1U2toMXJ2X2k5RjZzTEVMTF9COWVTcDlqVHVGX1drOE1wSVVzOGNERk1VaUIzREJ6ZG5BZElzYnk1Q1NQdjMyOXZ2emZm?oc=5",
+      "publishedAt": "2026-09-30T00:26:39.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, ‘상생협력 모펀드’ 결성…사회적 가치 창출 기업에 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "90f14b4704e74d0a",
       "title": "“이자이익 상승 주춤해도 비이자이익 터졌다…KB금융, 연 6.7조 역대급 실적 행진”",
       "source": "뉴스퀘스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wUm14SzZmWW0yY3BkRHpMQ29BWWMxeUdqRUxwbVB4WUJZVG9mRDgwWGpxbUl6dThwMXhvYkxMRzJ2bWZucENPQjdnaVNpamVHWWszd0xIeHoweFQtRWJBdjY4VE5BU09OcnhuUnFjUQ?oc=5",
       "publishedAt": "2026-09-29T10:04:36.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -204,12 +258,39 @@
       }
     },
     {
+      "id": "be58483b462dd9e6",
+      "title": "[금융픽] 제19회 KB금융그룹배 여자아마추어 골프선수권대회 30일 개막 外",
+      "source": "뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYlBadzJVZEZDNTZmbzVkdm5JajVSN3JRTExhN1pmNnFvLVJua1BzeFRRZDY5eXZwYTA0OG1XR0x1WmxaMWM5czFoWWtVZlhoM2ZxMTVMWWd1QzBfYkxUWmJoWW15YU8ydkHSAW5BVV95cUxORVotZXRUZUE2bzlCREpJY1BBVlpzQnhiUTh6NzhfQk9FR3dWQjAyekxDQkxMYTVZLTdVMm4tNlhtOWU5Y3FuNDN4b0xkbmhZVjJXOE1nRDVCVkFvZHprZjFUcDA1UFFKV1BzY19Ddw?oc=5",
+      "publishedAt": "2026-09-29T09:03:55.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[금융픽] 제19회 KB금융그룹배 여자아마추어 골프선수권대회 30일 개막 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "01ee15febb575bd7",
       "title": "KB·신한·하나·우리투자, 증권사 CEO 연내 임기만료…호실적 속 거취 관심",
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16QThsbjVMWm9CbXBhbk1Id1RkLXRYV2k3UDRoTTRTNVljV0NkYllxNi1xcE1DX1J4bWluUndUOHE5Y0VGZGd2aDBiOVVnZW9XVXFGNmdZNC1peUFRWThhTFhuNDhtZw?oc=5",
       "publishedAt": "2026-09-29T08:26:31.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -236,66 +317,12 @@
       }
     },
     {
-      "id": "03f469eb15097519",
-      "title": "내용이 긴 규칙 페이지를 탐색하는 오즈 벳 토토 읽기 안내",
-      "source": "calgaryroughnecks.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzgwRzJUOENpc01DZy04S1JUV0U1QW9ONzRRS2pUcHczUXdhcDU2b1dudkFrWF9ybFJsempnTWVfU3lLUVh4Q0VwVWlXSGxsYUJqYWRFSldmYnBQY0J0Rk1sWUg3cjZQU0ozUXVmczNPUHRmRjdmNHVYSzFWbVZUdy04eFBlc2RYdnZmcHRfRk5iNmxEYVYwZjF5a29CckZ4M3NvZmdfZmRxOFdseGJuaTItd0V4ZWcyOEZ4TUdSVUpfNzRKQkJUN0I2djUzcmIwZVFzcF9HU3hfNkNjb3JpcmhOYVI4Vy1Cb2FqZ1Vvbjg?oc=5",
-      "publishedAt": "2026-09-29T08:18:27.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "내용이 긴 규칙 페이지를 탐색하는 오즈 벳 토토 읽기 안내 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dd48f7d42f5a7306",
-      "title": "[은행 Talk Talk] KB금융배 여자아마추어 골프선수권대회 30일 개막 ​外",
-      "source": "DealSite경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12NlN3WUZNaHpfWGhucnZ1cU5saWhZa3ZBeUUtd2pXRVNxLXVTSENnc3V1SHRGamRUbG5oamZQTnI2RFFFdDBNTWVnRmVhSHZ2SDJqSkRn?oc=5",
-      "publishedAt": "2026-09-29T07:25:48.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[은행 Talk Talk] KB금융배 여자아마추어 골프선수권대회 30일 개막 ​外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "42ce4ce38bd019cd",
       "title": "호실적에도 '세대교체' 바람…KB 계열사 대표들 '좌불안석’",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SSmJOMnVpZnFWQmJPcFVSRjQ2a0drTXQxclRsRE11cklkbkpsTU51cmd6ZWp0VFpINk1Qb3RDbGhDX2lMNHd0YUVYWkhhcHRTZkJoVUhXeHdzRlVBd25MU1pIX2M?oc=5",
       "publishedAt": "2026-09-29T05:51:35.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -322,7 +349,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0UVp4cVo2OVVLVGc1QnFWZVBLM1dNOGRpYmp0bDFqM05pSjFIOHlZalZIQS1FT2VIQXVVMzhablBkN1ZUelN5YlUxS2trZw?oc=5",
       "publishedAt": "2026-09-29T05:16:53.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -349,7 +376,7 @@
       "source": "뉴스톱",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aM1ljZkl2UktMU2RuSTR3TlJfbVMxSmhLZUc1N0JHZmQwUlpkbEdUVFhGS2V3RlIzVjVENE1walBEZDBUdnRNWlFwc3VCWjFPbGtuRkpUR3Rwd0ZyZms2VFBvQnVjZnlkTFRjYURhbw?oc=5",
       "publishedAt": "2026-09-29T05:15:11.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -376,7 +403,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtjY3QwWlpKeHNkcnB1WDczTmRSMHBqckRvRWt2MzZoYXZoQzVZODZkTzV1cUFncm5iM2h2SUg2RElrLVpKdGZzcDFUVTlWc3NYb2kxUnpCb1FsVEgyZTlTdk9oWnFBbVY5OVQ2bkFxNGhIUkpzYXlHcHowUDg1Tm90Yw?oc=5",
       "publishedAt": "2026-09-29T05:10:00.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -408,7 +435,7 @@
       "source": "알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SRm9Ba0NXSWhlc1ZkYkVTRTFPS0VWR1VnMzNISUx2eE5Id0h3cmY1YzRka2pOUUNzZkNSSWZHaW1vQnIxRkQzajU5dlBveVE5SUVGaGNVUWl0MXFqd1JlSmZYdXBZQlBtTWlNaXBR?oc=5",
       "publishedAt": "2026-09-29T02:31:45.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -432,10 +459,10 @@
     {
       "id": "0ad617fd90cf7b03",
       "title": "\"일회성 이익 없이 호실적\" KB국민은행, 하반기 리딩뱅크 되찾을까 |",
-      "source": "newsfreezone.co.kr",
+      "source": "뉴스프리존",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wR1JNbFZxVTlvRENqZVNJMTVPRFc2QXJDOEJyaUdYc3JPY2ktdGREbnprOGpMNTJlbVJmU0w4Rm42MFV5M3VrdVB6YzlMa0pIX2JQWWhLUm5nZ3UxRHI5Um9DbmZGckNvcW0zdHo5Vkp3MWJlMExJ?oc=5",
       "publishedAt": "2026-09-29T02:03:09.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -457,39 +484,12 @@
       }
     },
     {
-      "id": "0a8cb460dcd6a67d",
-      "title": "KB국민은행·카카오그룹, 디지털자산 금융 역할 논의",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VSE9VUjBQdVQ2NDB1RDg3b1lSRzFjUFFndGVpdE94aTNERjF2dFd4M1dSMHV6LWZmMjlmcjJzY19QbGs3Zjc3Vk5lWEJOUU9peVZoNW5vamEtRUhzUTdZLWdrUmdqdw?oc=5",
-      "publishedAt": "2026-09-29T01:28:02.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB국민은행·카카오그룹, 디지털자산 금융 역할 논의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a6367d583cc3d412",
       "title": "KB금융, 여자아마추어 골프선수권 30일 개막…우승자에 KLPGA 출전권",
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05ZC1rWUdOMEhIWmI4N1FWeDUyX3RLWGZubWFOZ2lBS1QzcUEyTVBLUDVEVVI0amx6TFo1YV9tLUtRNXhZWFdvUXhLQWRFTndfTjFrWHVELUQ0UjNYZGhIMEt0Tk05Zy1JSGRRNlhTc0x0UGt10gF0QVVfeXFMTTlkLWtZR04wSEhaYjg3UVZ4NTJfdEtYZm5tYU5naUFLVDNxQTJNUEtQNURVUjRqbHpMWjVhX20tS1E1eFlYV29ReEtBZEVOd19OMWtYdUQtRDRSM1hkaEgwS3ROTTlnLUlIZFE2WFNzTHRQa3U?oc=5",
       "publishedAt": "2026-09-29T00:30:49.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -516,7 +516,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNkZEOUFVMWZib19QV1Q0SUFOSkI0aG1rN1lFajdUNF84Nnh6c1gzLWpOMURobTRiZW1wQWZ3U29GTkEzaWx5ODZDRW81MUN4dXJMc2xrRFcxczdI?oc=5",
       "publishedAt": "2026-09-29T00:19:00.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -538,12 +538,12 @@
       }
     },
     {
-      "id": "964ff8687750a358",
-      "title": "[초점] '세대교체' 이재근號 KB금융, 연말 인사 관전 포인트는?",
-      "source": "서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EVkhhR1JKRnRWUkQzY1R3aV9MS1hhS0d3aktBZzJhNEZDSW41X3lSVm1QNTJ5WlpkUDVPeWtPbGxuNkRvNV9mSzViMmx6ZVRrRXd2dFNYemQ3b1NmVjFhVkhDT3YxOEdObmc?oc=5",
-      "publishedAt": "2026-09-28T23:30:00.000Z",
-      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "id": "3ee353432f9861ba",
+      "title": "[게시판] KB금융 여자아마추어 골프선수권대회 내일 개막",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTDR4Y1JsT1k0ZjRDWWhGaWtIT0tEQk1EVV8wZWpna3hva1FnakJxeWtEY0txV0FjbUFEbmR0bWE2WF9ONFRBTkRDRXpRT1B5amlFb0tPbkZxeUXSAWBBVV95cUxQRENUUGk5NFVVOXJGc3hyRnBXOElvMmJFT2ZqZEU0SWx6c2VtMXpnaWxqUVA3YXVYOElzWGl0Rk1uWEJTYWNyaTNiU1FkaG1GU3VLRmcwOW9ZdU5oSEtoVTI?oc=5",
+      "publishedAt": "2026-09-29T00:09:03.000Z",
+      "collectedAt": "2026-09-30T16:33:39.766Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -554,7 +554,7 @@
           "ticker": "105560"
         }
       ],
-      "summary": "[초점] '세대교체' 이재근號 KB금융, 연말 인사 관전 포인트는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[게시판] KB금융 여자아마추어 골프선수권대회 내일 개막 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
