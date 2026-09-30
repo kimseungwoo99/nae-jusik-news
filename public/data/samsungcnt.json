@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:42:10.531Z",
+  "generatedAt": "2026-09-30T01:45:20.984Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[속보]삼성전자·삼성물산 등 6개사, 美 AI 인프라 기업 '헬릭스'에 1.3조 투자",
-    "삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 - 조선비즈",
-    "삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정"
+    "엔비디아도 콕 집은 그 회사...\"1.4조 베팅\" 삼성, 계열사 총동원한 이유 - 머니투데이",
+    "삼성전자 하이테크 공정 본격화… SK증권 “삼성물산 건설 실적 개선세 주도”",
+    "삼성, 엔비디아와 美 AI 인프라 기업에 10억 달러 투자, 왜? - 머니투데이"
   ],
   "articles": [
+    {
+      "id": "b4c0260495c6e520",
+      "title": "엔비디아도 콕 집은 그 회사...\"1.4조 베팅\" 삼성, 계열사 총동원한 이유 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfNDZJVmJQUGpCck5nMVBxWnFxRng3a3FVQjRCa09hMXktY3VNUVh3dnFoZl9MeVJHMXFwQUhodzlfTWVnbC1iUTRzd3ZhYzVSVTNkUGJ5U3VWRGhrSTNYOUxhQy1jUzIybDJaONIBckFVX3lxTE85V0pkS2wtemNmZ0FmcWJMVTI4VjZBSDk0YXc3ZXl2dWY4a0xHZ2taUndxOXJDZ1RqQ2NkZWtXWkxESl9zQ19OSG92UEtrTy12R0hGUjQtWHpYWkI2RXRoSnlIQkY5SEhFcmtBdGZjQTF5dw?oc=5",
+      "publishedAt": "2026-09-29T21:00:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "엔비디아도 콕 집은 그 회사...\"1.4조 베팅\" 삼성, 계열사 총동원한 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b9a0682b8507c09c",
+      "title": "삼성전자 하이테크 공정 본격화… SK증권 “삼성물산 건설 실적 개선세 주도”",
+      "source": "biztribune.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTnJJclFwQk15bnFTMHFEenRqbTZhcDRMMnNfTjRfTXNiOFg4dVhJMGdLdjl4VG9XNS1TdXdGRlp6N1FwYWNzYWQxSWJST2pscUphMUQ1TFBlNHVPTE55YTB2ZjRYRDloWXIya1FMVmo?oc=5",
+      "publishedAt": "2026-09-29T09:39:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성전자 하이테크 공정 본격화… SK증권 “삼성물산 건설 실적 개선세 주도” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8491e20fe035ec3b",
+      "title": "삼성, 엔비디아와 美 AI 인프라 기업에 10억 달러 투자, 왜? - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9peV9jbHU3bGJibUtyNURmTkN1a0IwZFZVSXljaGNIQWlkZlY1UUJtQWhISWREZ1JJZXlOc3J0N0prVlN3RjN4U3RWSDlTZ0dZZElXN282cDNsUUJKLTMxWVlWUlVKdTcwUVh3cU00TkpCd9IBckFVX3lxTE9peV9jbHU3bGJibUtyNURmTkN1a0IwZFZVSXljaGNIQWlkZlY1UUJtQWhISWREZ1JJZXlOc3J0N0prVlN3RjN4U3RWSDlTZ0dZZElXN282cDNsUUJKLTMxWVlWUlVKdTcwUVh3cU00TkpCdw?oc=5",
+      "publishedAt": "2026-09-28T23:41:41.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성, 엔비디아와 美 AI 인프라 기업에 10억 달러 투자, 왜? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ca470dfe13e96c9a",
       "title": "[속보]삼성전자·삼성물산 등 6개사, 美 AI 인프라 기업 '헬릭스'에 1.3조 투자",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HWHcwVjkyVnI3bzY3OHBoSjVaRWNxaW9sLXQzTl9mcGVUY29xSzNLZG94V2pwV1FWVk9OVTdCU19fanpzcWxtd0J4TzZyNlQ3Smt4NXlMWHJhbWdubTNpdNIBeEFVX3lxTE1SUkUzdGFSVGU5M3pFMEM0UXpzZklpaVFhS2FTTDBOTzNtVzlPMHd1N1B1Nnd0bGdqVnNfUWtWOXM4UDR5OTZXcTlKMFFMclRIQWJoeFNOLW5UdFdUMWxRWmZycHZlS2tYYlFvWlcta05QbWpaTUZ2cA?oc=5",
       "publishedAt": "2026-09-28T23:04:10.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -42,12 +125,41 @@
       }
     },
     {
+      "id": "05d97a8095884562",
+      "title": "10조 넘긴 현대건설·7조 삼성물산…정비사업 수주잔치 속 경쟁은 ‘미지근’",
+      "source": "데일리안",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQllBSjJMRjE2Wnc4cVdnUTUwMmxtcUtKMWxrMTVmMVYzbldvYmVCWFl1dTVNSzhrN01YM3c0Z3dCZmp5emdSVzZ3LWxWbVFsUVhOVG1JWV8xSUg5aVhtS3hVOXY0ODFWbE1xdjJ0VXREcUt3RWY5OEFCVmxTWi1TeGdFUXlRVUZLYkIyN3cwdl8wR1JtS2NFRm5QRG9FMngyRFZzLTR0M1RBRUtsVUtZUHNYMlhfeGZqaFpJTmhJOHhvYWNWdVN0WE9WYWtrX0JTT3o5OEdadEQ5anJfcGtPTk43ZTNBOWk5UUNZU1RVOHZvWFNHLWpZMXBFSWlVNjIwUGRKSy1YWE54RkhqNHc?oc=5",
+      "publishedAt": "2026-09-28T21:44:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "10조 넘긴 현대건설·7조 삼성물산…정비사업 수주잔치 속 경쟁은 ‘미지근’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "dcd0b9bc973e0590",
       "title": "삼성물산, PC 공법도 최고 수준 내진 성능 확보… 국내 첫 인증 받아 - 조선비즈",
-      "source": "Chosunbiz",
+      "source": "biz.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVW9oRktQUFNyRWlYTjBHYXFJSkdqcWI5RDBORk1DaHBHOURoQmNQZ2xXTnY2bzhnaERudURxQWJuVTRLYVpGWGdQS3pqTmszZlB0WERzbDhhcFNKcWFvQjBTR3JHTXRmalkxTUtSY2YtQlFsRjMxZkM1N01GZjlwNlFCcHJzR25aTDZjbnZiLTFyM2tmWm1VMNIBrAFBVV95cUxPUngzRkJEZWFCRDVNVVg0WDZXMVpoakRKbEY5MWV4bWNwTDliRGlVM01rQ0ZfWFdXWFFXRG1GX1V4QWp1a0ZXTERfb3dMTGJmUHBlc1FpRFA5QTdkT0M5aDJ5dy1vQXUxNlNnR3l6SElnbXk5cl83Q0w0SS00ZXJmZkJ3bENMc1J0S3d1UkhrNDJhSEhKSXd6MUtxZkNaOHc3SWxHVDNXZEk0Yndj?oc=5",
       "publishedAt": "2026-09-28T08:17:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -69,12 +181,39 @@
       }
     },
     {
+      "id": "bfc49c08994d4db8",
+      "title": "삼성물산, 건식접합공법으로 내진 최고 등급 획득…넥스트홈 혁신 가속화 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFNkpCSTNlREQ5bWNXdTFTWUFnc3FXU0s5SFdvWXZwYUtVRlFDUVM5eUZ5eDdXYjRiRWM2Z1BvNzRla21vcV9JMS1IR1RYY1hBOUNfVHYxQ1FvWW1XeXk5SGZUU2xvVjBJb3RDN2x1a9IBb0FVX3lxTFBFNkpCSTNlREQ5bWNXdTFTWUFnc3FXU0s5SFdvWXZwYUtVRlFDUVM5eUZ5eDdXYjRiRWM2Z1BvNzRla21vcV9JMS1IR1RYY1hBOUNfVHYxQ1FvWW1XeXk5SGZUU2xvVjBJb3RDN2x1aw?oc=5",
+      "publishedAt": "2026-09-28T06:46:28.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, 건식접합공법으로 내진 최고 등급 획득…넥스트홈 혁신 가속화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "adb9be329cd13538",
       "title": "삼성물산 5%대 하락해 34만5500원…실적 호조 뒤 조정",
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53OGtMa0I1cy14dmlfa2VEX0NHb0ZMVVJISmRDcTNnRXJtYjFraHRVZ1lSdmh1SFlaYWxoTklhU0YxT0NjQ1JOVWEtcTFTUmJxd0s3RVlfazhSYWpNZ0h0aEgyV1RBelIyblZMUWdvUERnd9IBckFVX3lxTE53OGtMa0I1cy14dmlfa2VEX0NHb0ZMVVJISmRDcTNnRXJtYjFraHRVZ1lSdmh1SFlaYWxoTklhU0YxT0NjQ1JOVWEtcTFTUmJxd0s3RVlfazhSYWpNZ0h0aEgyV1RBelIyblZMUWdvUERndw?oc=5",
       "publishedAt": "2026-09-28T05:29:59.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -98,12 +237,39 @@
       }
     },
     {
-      "id": "e8e9e1cd0cf6442b",
+      "id": "ccfbd8fdd751a217",
+      "title": "삼성물산, ‘특수모멘트 PC 건식 접합’ 국내 첫 인증…‘넥스트 홈’ 속도 낸다",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EM210aU9qZk1BQVlQcGlMbWtzZWxYdEVOeURGQlFYY3I2M0FWUkl4STBqSnhRS2hMMWcwTlZSRGVVVUZJYWJyX3VxMTZVcFlKdGfSAVNBVV95cUxPSDBWaEQ1blZOajJwSEJBeWljUkZYVUU1Nkxlc2JHamtrRTI3dlYtcV8yNUZNVThhWXVGOFBtMnRMOUotejNlelpfQ3pwa0JhbVBLYw?oc=5",
+      "publishedAt": "2026-09-28T02:21:30.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, ‘특수모멘트 PC 건식 접합’ 국내 첫 인증…‘넥스트 홈’ 속도 낸다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "449a914eb45b9e75",
       "title": "벽이 사라진다… 삼성물산 ‘넥스트 홈’ 핵심 기술 확보",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sTGRkUnE1UXN5eHFJZG9WbXNhWDViTWJfZjM3U3NjUFJDLXRhUTJHOUlDU0dOMi0yRkpGLXliT0xDR3dqc3NReVRYc3JuT1E?oc=5",
-      "publishedAt": "2026-09-28T02:18:57.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XNFNNc2g3Zl9MblZfcnJyWG45TnhMMzhOQkZFU3U1UV9uZ1JGZGNFZ2h6MzN0XzNoVmdzOGp6QVczNUttcnFTSE9BOA?oc=5",
+      "publishedAt": "2026-09-28T02:18:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -130,7 +296,7 @@
       "source": "삼성물산 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNVmtqQ0lEbVFsU3BDYmIwck9wWGppZjZpUmtHLTVHR1QxcEhhSkF5b1o2UFFhQTBpR0VOUXNSUTAzTVRhS1BndUFLRUhnT1dqQmYxLW1vQW9VXzhqOWV5MGpiVmlhVFpPWUJyal9ERTM3ZEx2VFFCQUVCNkUyWjc2cXNDRGI5Wl9HaXl0WFZnYUVMV1p0X0hMeW9XdFYzeENWOGdZWU1oUE03SUo0aEM3QUhxZktlZWtTeGc4bV84UmJVVWdVLUoxV0VYdzBTaVBQelpfYTlsUWN2Qi1HTzZ6aUVLNWp4dlg5dkRnU0JQc1BiZDZnUXlGa2YyU2tiNk56bjZSMXplLWZUaV9NaDBtNzRjMExhZGtWV0hBdmNFdEpjR09zQzFUNDNtQWtQZEhYMXpGOWZCdGNQeDMtNXo3Y1dHaldXMURKRENMWHE4dUdpS3FMSndBVlAtTXVFQ1AxeXVKWU1SdGFScWZNWUktRVFzTEZrLTZ5SmxUc0VXZExBU19lZ3YxSWlZeDZlUS15Vm1mN3AtSDM2ZlJYbC1nczVKY0xOZ0tDWmFTbjJ1RmhWaXlS?oc=5",
       "publishedAt": "2026-09-28T02:04:35.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -157,7 +323,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLMnBxSXBsUTkxSkhBZ2ZIQkprVkRqTVhnRl9TUDFIbV9DcVd1MXIyVDhtSjZtLWNrWmZSLWZXc3h5M0hHV0poampsYzRlZDZGSUxIZk9lSWR1Zw?oc=5",
       "publishedAt": "2026-09-28T01:52:46.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -179,12 +345,66 @@
       }
     },
     {
+      "id": "04a6e1ae6c7e3947",
+      "title": "현대건설 8년 연속 1위 도전…삼성물산, 성수3구역 품고 2위 도약",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTms3ZWJkN3o5R0lyMXc0NVpQOWpMSTI5QnlvMkN3MnN6MENKMzZPOEpmVjVJMmMwYmpFdmZYbmQwSkZaLXhTRXd4ZzJHU0F5SUpPQnVjdkhEYWJSaUhoZFQ3ZUxiaXowa3VGTlRYRzdGVTdGYUQzLTYwQ1lxd0tLaDV6Y001dGgtbmc?oc=5",
+      "publishedAt": "2026-09-28T01:21:28.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "현대건설 8년 연속 1위 도전…삼성물산, 성수3구역 품고 2위 도약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "91c842b05ffbc26d",
+      "title": "성수 대어 품은 삼성물산…목동 재건축 '정조준'",
+      "source": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13TF9EeGJDNnpRTEVYcFRodllvNC1EZ21hc2lrQXdqczR3TWNkSEFqRURGMUdjQy1hbHY0RllQZUJHS0doRG41QTBOdnBEdzJOclo0R2R6R3B5cG1Bdk5fWEJ2Q0szd3JLTmY0RVUyMFk?oc=5",
+      "publishedAt": "2026-09-28T00:50:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "성수 대어 품은 삼성물산…목동 재건축 '정조준' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5e12090d18f9794d",
       "title": "삼성물산, '국내 최고 내진성능' PC 건식 접합공법 인증",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5idVNYNmg3R0RFakdnaEVoWkJ0dnBQOGw4VVFhS29aOTIwSG9VZnFnTHRPNTZWNjVRSTJUVFFnZm9kZDMtX2c?oc=5",
       "publishedAt": "2026-09-28T00:22:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -206,12 +426,12 @@
       }
     },
     {
-      "id": "5f8af1a3b9bbba8a",
-      "title": "대교·목화 이어 시범까지…삼성물산, 여의도 한강변에 '래미안 벨트' 짠다",
-      "source": "theguru.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HWWE4SVBqaFExX0xSdGRsZVV1bURuTDU5UENpdU1feGs1VnhIZkRXdU1KQTVNQXpVZlo0cml3cHB0YThfak5xb0VVZlRFaV8tX3hod3cyWmVja3Nkb0xYMU1ncw?oc=5",
-      "publishedAt": "2026-09-26T15:00:36.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "id": "3366c6917271178c",
+      "title": "[CEO와칭]이재언 삼성물산 상사 대표, '산업재·에너지·테크' 3대 성장축 키운다",
+      "source": "metroseoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pWElYTFhzY0h2OFhSVFhTbFZPV2YtbHFVVUpLQmtaM1NOUVQ2U1NONGdhVnZ1UWNhZkxDVE9uOHlhVW8xU2E2b1ExN0I3WXpJX0lhNUJLOEVzbi1YRHFhNA?oc=5",
+      "publishedAt": "2026-09-27T06:36:12.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -222,7 +442,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "대교·목화 이어 시범까지…삼성물산, 여의도 한강변에 '래미안 벨트' 짠다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[CEO와칭]이재언 삼성물산 상사 대표, '산업재·에너지·테크' 3대 성장축 키운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -235,10 +455,10 @@
     {
       "id": "0393ff2469b480eb",
       "title": "삼성물산 건설 영업익 2년 새 84% 뛴다…“기업가치 다시 봐야”",
-      "source": "핀포인트뉴스",
+      "source": "pinpointnews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1Y2pTbm9hX2JnVXAwT2J5T29MV1hrWkVxeUpCT0hIYXB4N2trYzEtbGcxRE1xLTRVdHNQM3FZOWNNeE40QkVHV2hfUTFSOWpsRWtzeFM4NXhabExYTVk2b2NOcGhjWHFrU1pjZW5HUjVBQUZtVF9j0gF3QVVfeXFMUDVjalNub2FfYmdVcDBPYnlPb0xXWGtaRXF5SkJPSEhhcHg3a2tjMS1sZzFETXEtNFV0c1AzcVk5Y014TjRCRUdXaF9RMVI5amxFa3N4Uzg1eFpsTFhNWTZvY05waGNYcWtTWmNlbkdSNUFBRm1UX2M?oc=5",
       "publishedAt": "2026-09-26T05:03:37.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -265,7 +485,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LNlhCS0xnb2tDVTNYVDVucHEza0F4Yms2bVpEN3RqQVFUX2Nwbkt0Y0htbDdPSHlvRXVXai1rMEo3XzdyNWJXR3hDSjBZNk10bm9BR2F1NmV3dTY0MTMxRnNtQ0I0OWRzdEFZR2FCZ0w?oc=5",
       "publishedAt": "2026-09-25T22:00:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -287,12 +507,12 @@
       }
     },
     {
-      "id": "c629a99d6d144c28",
-      "title": "삼성물산, 내년 배당 8550원 전망…시장 예상치 두 배 넘는다",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XaEgybkhrN205TkJLSFVuR3RIS08xM3BXWHJKbzlmU2d6Ry1DY2k3NHVxckI1NGFONWk4elJ1QktLTndBN19Bb1BXUXVVNTFsM1pjbDl2S2Y5RDNTQ19NTFhuUzcxaXZJaWU4NDNiRDhoVFXSAXdBVV95cUxPNTR0UUFlTFVSNVJ6U1hkWEs1VVBOZjNpcDJqU19hbHlZOFk5SDZ1ZDV6RlJBNmt5TkZnaDF4U3VMRDVJeWZFcjVLM2JKUWhyYjNGcWZNSmtfWVVHVUV4WWtxZkRINnJHSHQwMlgwYktXSmQzNzFMYw?oc=5",
-      "publishedAt": "2026-09-24T06:23:59.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "id": "49accc27339e734e",
+      "title": "게임 설명과 실제 화면을 맞춰 보는 리치마작 꽃패",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVVFINTFwd1ZMcjZydnQzT3lRWlpZWkpRZDBielo4bDlQeXJyUjlNaV9panNXUnA4bGU4M29SSTJyZW5saWxGQnB5MG1qbGMxWW8wYWM0UkktZzkzTkVjZ3ludDQ3SndEYTRqaE9rQXBfMVpDT0NQeTJxbWRaajE4NGxHRUQ5YmR4X05VWGctdzFMcFNrcW1NSmZhbnI3a1VqejdieWJWQWtBSnhWdTF1d3NLak4yYzlTcmp0NEszY05qZlpNM0RmekRYdkZiWFkwMWxXVkxPTEJhTDB5d3I0QjhWajNnLW5PbnQ5YmM3N204T3kwcld6bzBtUlZMTVVYVGN3R3dma0Q3dTJPNi1YaGdvRUlUOHZheHZ5SkVQVWJaQVBZQXc?oc=5",
+      "publishedAt": "2026-09-24T22:45:12.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -303,8 +523,8 @@
           "ticker": "028260"
         }
       ],
-      "summary": "삼성물산, 내년 배당 8550원 전망…시장 예상치 두 배 넘는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "게임 설명과 실제 화면을 맞춰 보는 리치마작 꽃패 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -314,12 +534,12 @@
       }
     },
     {
-      "id": "16d241d8a7e1d38c",
-      "title": "HL로보틱스·삼성물산 “주차로봇, 주거 요소로”",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aVmVaWHp2RTR0bGlORkVDY2ZyUTM2cGRLenFrT09IcExGR2VmMlRIY0FqRTdROTdrclhwdUVMMzVFTV9BcTZkdnNvNWp0d1dQYWVURVFxMzliZ9IBX0FVX3lxTE1lY0NCMW5YSWs5amFLbXBFTlFJVHRpRnNscVVuZlhHQ1pfT3pfQVQzczZFcEJjbkE3SzNxVjJuczVPakpneUZfb3F3SktiNkFHS0FYU25MVlM5U1puYWw0?oc=5",
-      "publishedAt": "2026-09-23T10:06:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "id": "c94e3bb6fa6207ba",
+      "title": "럭키 슬롯 심벌 설명에 붙는 예외 문구",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVE4tTlZqbmtnTUNFX3JIYmZtcHVlR0xzVW5VOGozOGlXeFFKcndoLUdVWDhpYVFSZWdsM2VmVWtiMDFDY1FtZXhyREs3cDVsYzRRclFZWWE1dXNiY1RTeVRSUTVkWDYtcHRJTkhpT0VGZlNUZFlPT0JpaS1XYXNzcTZQNkNYdjdqVkJ5enRvVUhVeWI5dFVOSndYdEI5Z05DQXFNTE9qdk0yN0Q1MzBVRmtwbWw0cHdxYm4yeUViNG9tQXNkRlVNbEduRDJyWjVaWDF6U1V3MkczTHhGMV9uaC1vSHU1MkwtR2VjSVAtaWlYdDZ0OHlINldPZVhQWXJ2QXlMRWUzVld5QUhTVndhZGpiZ3B3X09WY3hWZnVIYlRWNWR3UDlHSTdHNXVGT2lFNEJUN1lVM0FheUcxVktBRzdNRG8?oc=5",
+      "publishedAt": "2026-09-24T21:28:57.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -330,235 +550,8 @@
           "ticker": "028260"
         }
       ],
-      "summary": "HL로보틱스·삼성물산 “주차로봇, 주거 요소로” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7a45e6064bc36d8b",
-      "title": "“삼성전자 공장 짓고 배당받고 ‘꿩 먹고 알 먹고’…하이테크가 멱살 잡는 삼성물산”",
-      "source": "뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EcE1nc3RxeWs4RHJVWlMwQUJYR2diTDlBTTFUWDcxdm1kZGZxbXJmQmh5UXoxWHBNNjF2N2ctbnQtWktBS2d2TW5GdzFnaFJ1Mk9iMGZBUWJzYnFfS2loVEJBd3RKa0pDVS04SkxpWQ?oc=5",
-      "publishedAt": "2026-09-23T06:40:51.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "“삼성전자 공장 짓고 배당받고 ‘꿩 먹고 알 먹고’…하이테크가 멱살 잡는 삼성물산” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7b2c55dd57450c4f",
-      "title": "삼성물산, 한·미·일 SMR 협력 타고 유럽 공략",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yakRKRVRqM3V3RWszZ3U0bUhrTVpqUGh2ZElSU3hLazhjSGxNcU5FZlQwRDJ3V2xnckR0TzRFUW53OGJVWklyUklpSERGNWJNUGJJaUpvMHJtdw?oc=5",
-      "publishedAt": "2026-09-23T06:40:48.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 한·미·일 SMR 협력 타고 유럽 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "281dfb74bc00c682",
-      "title": "삼성물산, 하이테크 중심 실적 개선·배당 확대 기대",
-      "source": "ksdaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDSUotRnJXUmM3bnBydHpUZWM3SjNGRGtrMEpocEJDUUZYYm9oUXZPcE96UVdoLWl3Z1h3MUZzekpYRWZEcFdIZk05WV9UX0lsZzZOMDRfTG9meWZjWXQweFBacUxhRWpIeW9J?oc=5",
-      "publishedAt": "2026-09-23T05:08:08.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 하이테크 중심 실적 개선·배당 확대 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "91f39c9a703f8122",
-      "title": "실적 호조·주주환원 확대 전망...삼성물산 주가↑",
-      "source": "gukjenews.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MRG5PMFhwZzVTemtkcTJQVFFfUmc2U0NVbGZzYU5TcHZPeFdDUzJadDUwLTJ4SHRvaGo2ZG9xWlFsN2NQcUgxQlkxX1gtYW9wWlE3aXN0MDhZYkxmcm9aWmVDblp0VzZJbUlxYmpB?oc=5",
-      "publishedAt": "2026-09-23T04:15:02.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "실적 호조·주주환원 확대 전망...삼성물산 주가↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0874d4fe7167ac51",
-      "title": "HL로보틱스·삼성물산, 아파트 주차로봇 공동 개발",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wUTQyYzlYWTdlM2dUX1gwSHNtZm9FQjlNelN1M2ZHY2VNUnFSbXRqSExnR3d3MkV6Y1F4dHAyaVRqRGxVQnRBR2dHampPR2V6cGwxRDVYOVVQOGpsZ3ZRM2x2Vi0xQQ?oc=5",
-      "publishedAt": "2026-09-23T03:32:31.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        },
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "HL로보틱스·삼성물산, 아파트 주차로봇 공동 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0b70ce21ba6e09fa",
-      "title": "삼성물산, 실적 개선세 지속···삼성전자 배당 확대 수혜",
-      "source": "현대경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9obnFjeDRqQlBZQmh6ak8wMGREdHoyMjlWczduLWJwYXJZMHM5ODFCV2o1dzZTT0paX243VHU3VEEtalRvQWYwd0liclpwNGh4U3pjT1ZFN2x0cmhTZF9TQWZBSHd1STAw0gFrQVVfeXFMT3ZSSWhrWVBsdHVpUGdUbHFiVnVJTG9JTE5wR2w4cHFpckpnMkFXcjlydC1OZ3Bwell4Vm5DdDhFRnFNbHZBcTNxSFVIaHh4bDEzTDE1RHdhVXcwUHpaS2JYenRCSlpTWE01NzQ?oc=5",
-      "publishedAt": "2026-09-23T02:15:56.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 실적 개선세 지속···삼성전자 배당 확대 수혜 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a3fc1377c1c65166",
-      "title": "삼성물산, 유럽 SMR 시장 본격 공략…글로벌 파트너십 구축 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91bmxSZ2EyVjRfdkx2N2FfZjAxZHV5R20tZFI5dmlvaGxKOFpJV3FVS2x0eTE0ODE5RmpJU0F6TnNuUlRkSFZ5YU9xY000Wk85WThVUFdWTzVQX0phSUczTXVyZ1o2UFBXWWfSAW9BVV95cUxOcDk0VUFseE04Zk4wRzRiWmhGRlJ5aDl1dE9UQ3RmbVhkRGcyRG9lLVdTejJXUTRhLW1TZTVMQWMySDRxYW9vb1A0LW1OR0gzRml0MFA4MHAyd1BSTkJaalBudzVOU2RTT0ZoSmFiLVE?oc=5",
-      "publishedAt": "2026-09-23T01:22:20.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 유럽 SMR 시장 본격 공략…글로벌 파트너십 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1a4573a7ff5581da",
-      "title": "HL로보틱스·삼성물산, 주차로봇 기반 미래 주거 솔루션 개발",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cll2ZU01NTFieVVkcm5sUFVhb2FpcXJ6UzBxbTRPeTNQZHQ0aEFmaGtuT3MzSkJOSU94WjNSX2VEV3p6Y0ZUTml6Qy1WRTUwcndBalJFOWNIMlk?oc=5",
-      "publishedAt": "2026-09-22T23:58:45.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "HL로보틱스·삼성물산, 주차로봇 기반 미래 주거 솔루션 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "럭키 슬롯 심벌 설명에 붙는 예외 문구 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,

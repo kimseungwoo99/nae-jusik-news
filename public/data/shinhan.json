@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:42:10.531Z",
+  "generatedAt": "2026-09-30T01:45:20.984Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "신한금융",
     "ticker": "055550"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "[은행 뉴스브리핑] 신한금융 '한·일 금융협력 컨퍼런스' 참가",
     "KB·신한·하나·우리투자, 증권사 CEO 연내 임기만료…호실적 속 거취 관심",
-    "\"신한지주, 올해 최대 실적·해외자회사 경쟁력 강화 '긍정적'...목표가↑\"-BNK證",
-    "[금융지주 풍향계] 진옥동 “토큰화 새 금융 인프라” 外"
+    "\"신한지주, 올해 최대 실적·해외자회사 경쟁력 강화 '긍정적'...목표가↑\"-BNK證"
   ],
   "articles": [
     {
-      "id": "ed7fc137505e585d",
+      "id": "81fe80c5de8204e8",
+      "title": "[은행 뉴스브리핑] 신한금융 '한·일 금융협력 컨퍼런스' 참가",
+      "source": "아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfYjgtQlVSSkFaMGFjMFNvbTh2c3VZbTRDTm11NjVUZThVWk9NM3dKU0hSeEJRZXpzX0NXSFk4MXZ3c3Rfb0xreC1LX2VoQnpGUVNKNWRxRG12U01yb2c?oc=5",
+      "publishedAt": "2026-09-29T09:21:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[은행 뉴스브리핑] 신한금융 '한·일 금융협력 컨퍼런스' 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "01ee15febb575bd7",
       "title": "KB·신한·하나·우리투자, 증권사 CEO 연내 임기만료…호실적 속 거취 관심",
       "source": "CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkXzFSSVVNYlozVkVOZllpM2hGZEYwNE1UOFd4eVpHRjE4dEluWHc4bUkwNXFZOEpOTzRrSDJOT3VmSm5IZEl5MUg2Q19aeEZaRVREU2V5UDhMZzlBeG9TWUtXWFJtdUpFX1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16QThsbjVMWm9CbXBhbk1Id1RkLXRYV2k3UDRoTTRTNVljV0NkYllxNi1xcE1DX1J4bWluUndUOHE5Y0VGZGd2aDBiOVVnZW9XVXFGNmdZNC1peUFRWThhTFhuNDhtZw?oc=5",
       "publishedAt": "2026-09-29T08:26:31.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -52,7 +79,7 @@
       "source": "베타뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SU3p2dE9IMS1SR1RucXFvZ21zRXVhRFc2WmRXcmVFU2J3aGxqRlZ2eVRCZlhYRWdnZ1htNWtpamRxLURvVHFyUE0wSmt2WmFtRXVWU29YNHV0dEtldjFYNktKMWY?oc=5",
       "publishedAt": "2026-09-29T08:08:33.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -74,12 +101,12 @@
       }
     },
     {
-      "id": "6eb97239fbf2bb42",
+      "id": "3d4f90e475aa371b",
       "title": "[금융지주 풍향계] 진옥동 “토큰화 새 금융 인프라” 外",
       "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcktTekw0MjZVY0wxaDdTenV4VGJYVHFvMHJLU3ZIbVI2dVdJU25jaW5vdWRPWTQ5Z0VCbzRfZW9acFMxV2dyX0RpUHZHS1RVSmhtYUFoS211N3BsMVdtMnlFMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByM2szNWlBT1k4RjZUbzFxMnlIT051UzlXZklVQnlfdjlSanJWRU1pOVVubUZ4NnRVV0Yybk41aW9uUjBYZEhJdXE0T21wY1dlOG96N25EZkNvMnM?oc=5",
       "publishedAt": "2026-09-29T07:59:29.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -106,7 +133,7 @@
       "source": "파이낸셜리뷰",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YdmZaZVpScEdhaFRTaHhQTXNzMG85OXRqWlF6dldzQzRmV094S1IwR0ZsaXlTMjVGaldxR3BTN3RIU3g0eGlNVnJOR1NLZGxNTTZDLURtd1hXeWpqX0lzdk4xMU9tSTM2blQ4OUg0eTB1N3dY?oc=5",
       "publishedAt": "2026-09-29T07:41:49.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -133,7 +160,7 @@
       "source": "ebn.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ScS1SWTlKbTJMelVfSHJ1LWpGb05PM1JZWVYxM3MwdEpwZUNXZnZzQW5HUU5FYWw2a2ZRYVN1Sk50ZmU4WVc3dHE5SmtNeEttT01qTm4zdF8zR1lISy1CSi1UMDdfd1Q2?oc=5",
       "publishedAt": "2026-09-29T07:22:42.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -155,12 +182,98 @@
       }
     },
     {
+      "id": "64b01ee878134ec3",
+      "title": "신한금융, 디지털에셋·캔톤 재단과 토큰화 금융 협력 확대",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95SFhPaUwyeTdpTkhZdGlsSEI4cnBBNWhLVEJYS1pJS0VoNW9ELTN5SElCR2xQUlpqdDN5YnY4TlZ1RkRBZERmQ3U3U0M5TEpYY2J4OEQ2OXh4LS1o?oc=5",
+      "publishedAt": "2026-09-29T06:50:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "신한금융, 디지털에셋·캔톤 재단과 토큰화 금융 협력 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "aca519ca03c046a6",
+      "title": "5대 금융지주 기후금융 어디까지 왔나…선언 넘어 실행으로",
+      "source": "오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzVlFYOVdEUVdJOTZYWWNkX1BiRWNxM01Tbk9kTXd4cUNGSHZWdXhIbHloSkZxRnR6dEU5SDV6cnJHb25NSThzOWwwTnh3Rl9KVXZNRmxMRnRZbGZ1SDZsNmppUXM4NXJjd182ZHJraFl2QQ?oc=5",
+      "publishedAt": "2026-09-29T06:26:38.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "5대 금융지주 기후금융 어디까지 왔나…선언 넘어 실행으로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2e2b6eb7979f112a",
+      "title": "NH·신한 '밀월'에도 KB證 DCM 선두…회사채 가뭄에 손익 압박 커져",
+      "source": "인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTG8xZlp3ZWw5dmNDLWdnSE56dDJpSmZ5Wlk5TDFpSEtkZGpjYTNNSDd4emhaRmJyU0VTZ3FhelhqV0ZjMTN6U0NaemZ3ZVNzLVkzemtnamthSFpCRnI1Tm9hS2xKXzhMeFBhYVpLV0wwdw?oc=5",
+      "publishedAt": "2026-09-29T05:10:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "NH·신한 '밀월'에도 KB證 DCM 선두…회사채 가뭄에 손익 압박 커져 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0730fefd2a326095",
       "title": "신한금융, 한·일 ‘금융 협력’ 넓힌다...전환금융·디지털자산 논의",
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wbmZjMDk3ZnpveE9UUzJiMlZfcUZtUmlPTUJEeUVKN09wZDB0S2xJaGNmQUJVaTB2ZUdKTzZIdEpHcHpMcW4zejZ4ekd1dnhYTUlEV3dGLXN6VkU?oc=5",
       "publishedAt": "2026-09-29T02:18:38.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -187,7 +300,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVnpHZ1VPX2dXeWdlNmpiVHFrYTBYQ215YnNRSzZmZGVXNDFQaXpNcXhTaDYyR3hvV2V5SGF2VzAyMUVOS1dYeTNMcHpiVW9ydGhzclRIWHVkSUlp?oc=5",
       "publishedAt": "2026-09-29T00:37:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -214,7 +327,7 @@
       "source": "SR타임스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tTWxwd0NFNWhtV0x6NkR1anJRWUs2MDVBcDUtUzdiSmJId1g0Y0ZVZURlaHZHX1lVOFBuazNaVGhrdFR3ZFd4aEI0emxGd01vQjdUQ3RYQ08zaVJVNFdNdno1dVA3aFE?oc=5",
       "publishedAt": "2026-09-29T00:27:29.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -238,10 +351,10 @@
     {
       "id": "998b5cd8299d8b42",
       "title": "신한금융지주, 한·일 금융협력 무대서 기후·디지털금융 해법 모색",
-      "source": "press9.kr",
+      "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IdVQyajN5ZGZPSDBTM2lGaFRfUjZDb2w2TVNNTENKaS1EaWNnS3laUkVIWFNfa1JfUnRidlA3OUJtbDVsYkd1XzhOaVI5WTZMUjVEODNQTlZSd3FIWTg4SVptaXY?oc=5",
       "publishedAt": "2026-09-29T00:13:57.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -268,7 +381,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xeVUyMGpoSkIzaG1mS0VmSnJMSWVYZUZuUzdWWVVsSElXRVF0NzRURkMzTlQ5YmlJTlRUYzVCYkNpUU5mVl9yWWpmSXNHMnVpLWVIenNWVGtHMVJUdUplbThzODhqVV960gFuQVVfeXFMTjJiTVpSazRfNmZlSGRsLXhScWZYYndkV0JHbG8waGs1ellIaEotY2J5UGg0ZFVyTEpOTUNHNE9XaXY0MkFlZHJOblVwUkhENE5vVGQ5RldJZ3dkSVEtVGlLekdBSEhKRVB6bUF6Z2c?oc=5",
       "publishedAt": "2026-09-28T23:38:15.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -294,10 +407,10 @@
     {
       "id": "a29fb2c3fe9d85e3",
       "title": "신한금융지주, 은행장 인사권 나눈다…‘진옥동 낙점’ 구조 달라질까",
-      "source": "press9.kr",
+      "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41d1BMb08zUGdyVXJURkxEb25NS1gzT3ZZb1lvUE80dktWQk1Ca2wyR3F0Q2F2cUVFTm1pM0VwbVBnOUgtcndxTmktT0tvWlNjTnQxTVRZVVdZWWswUW1ZeG1PQ21PZw?oc=5",
       "publishedAt": "2026-09-28T07:45:27.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -324,7 +437,7 @@
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DZEhHNUdrWGl2cGFYc2VSTTdqVnRwMEF3TEFaVWhJNllOLTJiWjYybkxHZ245SHNET2dTS3ZYY3dOX1VkOWxNZDFpekpHblc1NEN3TGNzMHB3Y1pGWE9KLS1ZYkJtYUs0b3hLNnNFQdIBc0FVX3lxTE9LS04xM3h6NElYYjNkNGVtaTBOSDl2VzRIbXltcEpKLVgyTElCQk9BcS1JQWNMUElvdHd5RG56eU9YSHl5UTBhNVE1Wm1nZUJkNjJlVndHdVJaa0tUWVNBdWFHaGlGcmpPRzhGVWRuMzdMc2M?oc=5",
       "publishedAt": "2026-09-28T06:28:15.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -353,7 +466,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYaUZEbUdUMUNFYmZTXzZGcEFBNDFUZnhjVXpiOXhHcWtlbzdyeFRERXFhdnh4OVdfbjJ2QllFeWw4YVp4emN2VVp6eTZhQVRuckc5WXc2SEFUVmx2eVAzNWpFVklCbmJVVXZUa9IBbEFVX3lxTFBYaUZEbUdUMUNFYmZTXzZGcEFBNDFUZnhjVXpiOXhHcWtlbzdyeFRERXFhdnh4OVdfbjJ2QllFeWw4YVp4emN2VVp6eTZhQVRuckc5WXc2SEFUVmx2eVAzNWpFVklCbmJVVXZUaw?oc=5",
       "publishedAt": "2026-09-27T22:20:25.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -380,16 +493,11 @@
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ENDZ0NHFZVXR1YmVPYTZ5bTd6UWRXbzlSVFZHM2Y5SllDUTZjY2UwbkFDOHc3M0R3QXltNVNQMW51SDRzOC1xN01BXzBoNlFpMVY1Zm02c1YwS0Q2cy1TVi1JX1lUcFE0eDB6ZlhsU053RTE4QVVTU1R2WFM?oc=5",
       "publishedAt": "2026-09-27T15:00:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
       "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
         {
           "id": "shinhan",
           "name": "신한금융",
@@ -412,7 +520,7 @@
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdGxCTHVfbm5UNDhRTnhLVExDT2t4ZzJnUEkzeEViOWQzUG5nSUcwdDQ1SzAwbmtmbXlmWTQ1TEhWMWZsWUk2Tk53eE0xWXlteWpVbV8wZ2ZBTVl1LUNFYmJEMWdnR2lxRml3NEZLWGJERlIyRTJkVDVYQmg3bTVqdFFVUlhWcWI4eEd4VGI1cmU5SHRwMmFDYXpqb2dURk5ldlc4aWl4ajF4TTRuWU5HNVNNSzRXeFJMNzBpdVoxRkNkd3dQRmhtWm1rdXp2eG5FdnBfaHFXWFRzcVJjbFJheVNabXV3RldJeGk5bWZhc1Y?oc=5",
       "publishedAt": "2026-09-27T10:08:43.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -439,7 +547,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rc2QzUGJYcm5SY3NxU3dRWk1NOGt5QVFQcE85SFZ0ckUwQkNwWlNvSHhBNG1TQURRakw1bWdjTW9kN1VyekZSZ3NFSFgxT2s2ZUpsajhGTi1oSFU?oc=5",
       "publishedAt": "2026-09-26T23:30:02.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -451,114 +559,6 @@
         }
       ],
       "summary": "“해외에서 벌어 해외로”...진옥동, 글로벌 수익원 ‘2막’ 연다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dc7e147fa45da66b",
-      "title": "연휴 뒤 5대 은행장 인선 본격화…은행 추천위 역할 확대",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUzZ6Z1QzMHF2WDBXWlN4b3Ytdm1MMjdaaEF5U0ZZTjRRREw5QVIzMGZnZ3p3cXB5WlNHa2Q5NkxvMG1FbVNHdWNjSWt4b1U?oc=5",
-      "publishedAt": "2026-09-26T20:49:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "연휴 뒤 5대 은행장 인선 본격화…은행 추천위 역할 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e8b58da443d4ca96",
-      "title": "가계 조이고 기업 늘린 은행권…여전히 대출 중심 생산적 금융",
-      "source": "ntoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EQ29CUGZQcllwOXNkQXhPdW9nZHA0LXI1cllNaWluRXFoRmwzakdmVDZpQ2NydVpFMk44YXdkOFMxaXpOMHU5ZUdWcGQ0V2ktdjlYNFpQN1ZxOTZ4c0VNNVd5UFpvb0k0NHVxS21Za9IBb0FVX3lxTE9EQ29CUGZQcllwOXNkQXhPdW9nZHA0LXI1cllNaWluRXFoRmwzakdmVDZpQ2NydVpFMk44YXdkOFMxaXpOMHU5ZUdWcGQ0V2ktdjlYNFpQN1ZxOTZ4c0VNNVd5UFpvb0k0NHVxS21Zaw?oc=5",
-      "publishedAt": "2026-09-26T00:35:49.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "가계 조이고 기업 늘린 은행권…여전히 대출 중심 생산적 금융 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5559a7f1665540ff",
-      "title": "신한금융, 외국인 ′한국 투자길′ 넓힌다…결제망 참여·통합계좌 확장",
-      "source": "토요경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yT3RNMFVLejdEeDIzQUhOem40Q2JpeFRNQTFJZlR0OVdoLVg3eWJEMGd5X2dZdV9XTzR0Q2NNNUxKOThtQ2hfcGhLY0xNbHRsYnVrMzl6cS1QQWZWV2x1V9IBb0FVX3lxTE9qYmw0RnhCWm0tNG1oUHRZZzFGZ2hmWVBYZEFoRmozeEpwMW1JZUEtSjF0OVBDQ19HQTZMSnBkbXpHY3ZjNnBjN0ZJcFVHc0ZtanhFM2RDa0x2SnZXYU5TY1lEOWRvZ3ByUFE5YXlfNA?oc=5",
-      "publishedAt": "2026-09-23T23:19:24.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 외국인 ′한국 투자길′ 넓힌다…결제망 참여·통합계좌 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5a07185bf898c376",
-      "title": "진옥동 '2기' 첫 인사...2+1 관행 변화될까",
-      "source": "톱데일리",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pRENrZkRzTmpfblY0bGkySWlleGphcWxjR0lMbUxySS1FcmpBYkhSbk1oSlVxX3Jic3V4aVhHVlRYRmtGbG40NWJEa19vTWVF?oc=5",
-      "publishedAt": "2026-09-23T06:17:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "진옥동 '2기' 첫 인사...2+1 관행 변화될까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

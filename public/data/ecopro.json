@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:42:10.531Z",
+  "generatedAt": "2026-09-30T01:45:20.984Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 수급 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "코스닥, 개인과 기관 매수에 상승 마감...주성엔지니어링, 원익IPS 상승 VS 에코프로,…",
-    "'고맙사 삼성SDI' 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급",
-    "에코프로 4.03% 내려 7만8600원…인도네시아 투자 성과 실적화 주목"
+    "\"고맙다 삼성SDI\" 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급",
+    "에코프로, 제련 사업 새 성장축으로 굳힌다…인니 BNSI 제련소 투자 ‘속도전’",
+    "코스닥, 개인과 기관 매수에 상승 마감...주성엔지니어링, 원익IPS 상승 VS 에코프로,…"
   ],
   "articles": [
+    {
+      "id": "5afb3d281ba69cad",
+      "title": "\"고맙다 삼성SDI\" 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ybU5JSXd0VjBtMi1uVlJSSnl4ZklYQzJtdlZvU1pXOTlJblI0RFlpZlJRcUU1ZXR4aF92ZmNoUzB6NGpSMk1uRzZsZ0RfM0dBQjdWcl92eFJmVThhNzJ2UmJkdHhsZw?oc=5",
+      "publishedAt": "2026-09-30T01:34:07.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        },
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "\"고맙다 삼성SDI\" 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f3c1e97bb6b0cedd",
+      "title": "에코프로, 제련 사업 새 성장축으로 굳힌다…인니 BNSI 제련소 투자 ‘속도전’",
+      "source": "CEO스코어데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NTVViSlVOX1hCeW5jV0o5QzNvTV9QMjZUZnFBaGxmVDlfWUJNTnRPNVd6V3pXMHVJRThqWFE4R2NQczZsekhNS3lqWXdpeUJxRkJFc1FfYS1mM0ZERk1Uc3g1QThzdHQx?oc=5",
+      "publishedAt": "2026-09-29T22:00:00.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로, 제련 사업 새 성장축으로 굳힌다…인니 BNSI 제련소 투자 ‘속도전’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "4ee1a9c9f75a44ee",
       "title": "코스닥, 개인과 기관 매수에 상승 마감...주성엔지니어링, 원익IPS 상승 VS 에코프로, 에코프로비엠 하락",
       "source": "이코노뉴스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OWW5oaVA1amkzUHk4UjNaTHVkVk94TGxRRVk2c1BmRW94aUJfNWdBal9ra1ZIU0dXOGktQU5ra29vQlVMV25reU5sejRLQ21CbDhXcC1KcEFjN083YTB0VHRZa05OT2pJbkhaN1R2cw?oc=5",
       "publishedAt": "2026-09-29T12:30:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -44,44 +103,12 @@
       }
     },
     {
-      "id": "60a7e1dae1eb0cfa",
-      "title": "'고맙사 삼성SDI' 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ybU5JSXd0VjBtMi1uVlJSSnl4ZklYQzJtdlZvU1pXOTlJblI0RFlpZlJRcUU1ZXR4aF92ZmNoUzB6NGpSMk1uRzZsZ0RfM0dBQjdWcl92eFJmVThhNzJ2UmJkdHhsZw?oc=5",
-      "publishedAt": "2026-09-29T09:54:47.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        },
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "'고맙사 삼성SDI' 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8b4b1ebc6ed68da4",
       "title": "에코프로 4.03% 내려 7만8600원…인도네시아 투자 성과 실적화 주목",
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xa2FCbk9KZlhOVGpsOFJoTWJHamZUYy1halVRakRiWEpVeERPVmI3ZnFYWmhvdzZKLTM4SkNtSkdSazN5alhFSXdiMEtkY2FUM3BpVkY5ZEpzR2g1SExwUXpVZjNDTW9BR1RoU2pOSmdhUdIBckFVX3lxTE9xa2FCbk9KZlhOVGpsOFJoTWJHamZUYy1halVRakRiWEpVeERPVmI3ZnFYWmhvdzZKLTM4SkNtSkdSazN5alhFSXdiMEtkY2FUM3BpVkY5ZEpzR2g1SExwUXpVZjNDTW9BR1RoU2pOSmdhUQ?oc=5",
       "publishedAt": "2026-09-29T05:11:27.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -108,7 +135,7 @@
       "source": "thecommoditiesnews.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NRDZlVjl5YkZFOTdRWEVnVVQ0eDNLUjR6RU9HWTN5bEVjZjM3bzhZZ2xyLTdZNnBfdWlMYTlOaDRtUkl5UGRFZHNEdEQ3aGkxS1dWbFp4T2t2T3o1dUNCaEp2ZXFpUEFaX09OOV9VNUhiVmxjUE9Z?oc=5",
       "publishedAt": "2026-09-29T01:00:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -135,7 +162,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BNTB3VjdzLWJTdTk0bm1IY2p4ZnJ0Mmh2b01KYndIdmdUSDJXT1ZIWWQ1d3FCT29oSGVwdmtObW9rU1plVzNqUzdDMzVVZDhSTGZMNkhxX2Ywc2tKcERacEd3?oc=5",
       "publishedAt": "2026-09-28T22:11:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -157,41 +184,12 @@
       }
     },
     {
-      "id": "62ba9120c9212929",
-      "title": "[9.29(화) 낙폭과대 우량주] 에코프로비엠 고점대비 -73% — 바닥 다지기·반등 점검",
-      "source": "주달",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zdEpCaDZJMnR1a2c1dEpLTkVyaGtrZjJWaERFVzFjNGpzNGh5c1labVc5TVZ0Z19vZ01LNjdzQXZZM3NFeEJidDZsWTFCU1JVd1FFdGt6cmg2OWRrZUQtdUJqUjBrS1N2TTdUaEJna1JIYTBrV1E?oc=5",
-      "publishedAt": "2026-09-28T22:01:29.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[9.29(화) 낙폭과대 우량주] 에코프로비엠 고점대비 -73% 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "95287218dc5f8478",
       "title": "코스닥 강세…알테오젠·에코프로비엠·HLB↑",
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54UHd4dkd4TEpvVFc2YkdvRnBiU3dUN05EU1BSdzlsQVl5c2xnaGE2ZExkaEd5NF9zWmROXzRna3NQRkFPUWJ6Ynd5c3VqaFF1MnhhbDZjS00wNG0yQUNUNHB6cHEwS1E?oc=5",
       "publishedAt": "2026-09-28T21:31:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -215,12 +213,39 @@
       }
     },
     {
+      "id": "81016b5d11d5f575",
+      "title": "에코프로머티 투자분석 2026. 09. 28",
+      "source": "주달",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41X1huV2xkQkwtV0VXbmlzeklXNjlfZ0V0VHhzc2JaWjdVOTgzSk1zdmZ1WmF5WnZyMWtBU0lISEFGdDRVYzVSTER3NUZZaVg4RmZQS1VkWkhMZzNwUVNBaUZ3U0FmcTBDWUpoTFZDc0ZsaUk?oc=5",
+      "publishedAt": "2026-09-28T09:08:03.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로머티 투자분석 2026. 09. 28 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "018211e56d6f6d3b",
       "title": "'무상증자 공시 전 주식 매입' 에코프로HN 전 대표 유죄 확정",
       "source": "동양일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WdDZyZVlOU09MVTlwSHRheWN0b0MxWmRONEtiVlBDR2paVE80b3l5LV9PSnhLSmJLTXBxbDRMdVJKeWVLNW1nalVNbEN2dHhqaGZhZmxDc0dHRHRZVXZBMDl0TlJtdkZRUVp3?oc=5",
       "publishedAt": "2026-09-28T09:07:57.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -247,7 +272,7 @@
       "source": "데일리팝",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MQ25DRzMxOGZNUVZmSVhJbkJodlVLa2xBbWFoeE10aWkxSzF2RHNtR2xDNGo1YktUUFdhcTJNbWpnUXNQRVhyZHdxYVEzdmFBNWY5ZEhjdkk4U0JNWkJrcjh6LVJWUVUt?oc=5",
       "publishedAt": "2026-09-28T07:43:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -274,7 +299,7 @@
       "source": "moneystorm.kr",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbGppM2pyTHl2MEYxeUNxVlpzdnFIakVFa2gzT3QyTlNtVEM0SE8yS1hiMEpIMVhLazRsTVdnNzRmNmduYW1BT0o4T0VIR2pwdkhlTjktdVRhZmNLaTNzSVg5NUNYbFl3MXc?oc=5",
       "publishedAt": "2026-09-28T07:18:24.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -301,7 +326,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KUzBMdU9TeWdmWWRmemRxdThSTVJGQ2lncjRuZmFON3dpLXdrems5X3VSeHVraDZ0M1dkQ284ODVDd3NFUXctdnozOWtxakh6Vmx3d1NDY184UdIBX0FVX3lxTFB2dHpqSnhRNFJLZ1p3SzhjZjUzdWY0cEp4MVA2cjBLZmwxZUYwSlBuRmJxLVowYXR2cFB0VDM5OXdCM0dPZEhlUDFYSDI5b3RZNGFwVjdDOWxfVjdtNUVR?oc=5",
       "publishedAt": "2026-09-28T05:38:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -325,10 +350,10 @@
     {
       "id": "9215f322c329438e",
       "title": "에코프로비엠, 증자 실탄 3000억 줄자 해외 자원에 올인",
-      "source": "leadeconomy.co.kr",
+      "source": "리드경제",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxQXp0R0Zyb2Y1WUdGNE9Mbm90TUs5OXNZZ0gtcnRJNGpFdE41dTdZWlEzUjBNREJjRktVSTUzOUl6OE0xWVp2VGItcFhTRUxMQjUtTVFSeG9LUmJYRUhxSjliQmJBY19JU3YzQUtaMA?oc=5",
       "publishedAt": "2026-09-28T05:31:54.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -352,10 +377,10 @@
     {
       "id": "48bd6011e02270c6",
       "title": "에코프로에이치엔 前대표 '미공개 정보 이용' 실형 확정",
-      "source": "dailian.co.kr",
+      "source": "데일리안",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQ3VsSDFSd2tfN201QTU0dWMtWjNmNExTVjVqOWRHZm9YMkJ5eTgyS2d3bUV4cWN1SWxmOUJJRU5kYlpGZXRBemF4MDgzVlVPbndaRnc3TVYtUzhTaXJWMjJzQzRyUnF5c0FlX1hNaFJUQV9lenA1WE1VWEU2RVB2bXN1X2hZSndfaGZiZUVWdGdxZnh0eEE2eXRLMC1GN0VyNl9GNFpGNjVJQ2FsY1VlcFluS2daa3ZndkNHMWloNGVVNmtjbTZlTklGS0g1MFdsUVFGM1NzT3p5ekFsSTU3ZUxtR0RzNDBVOXJVQ1ZOX1R4bHhRSm9FYmVMQkhIcldSV3dDQngxWjlEZm85a0szRXM5NkNfOHJaQXlKYk50X0Vhdw?oc=5",
       "publishedAt": "2026-09-28T02:46:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -367,7 +392,7 @@
         }
       ],
       "summary": "에코프로에이치엔 前대표 '미공개 정보 이용' 실형 확정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -382,7 +407,7 @@
       "source": "세종경제뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxX2JLX3NlVDAyM1J4Z3FneWFUcVVMdG5UVVdFdEh3R20wTXg1eUM5TFBpLTk0VnYwNW5SZFIxeVdxYjlLc2FxRElsSWFhQTM0Q3lXYy00ZjJ4VEtMZ1NpTEQtN21VRndXcWlOQS16SVLSAXBBVV95cUxQMV9iS19zZVQwMjNSeGdxZ3lhVHFVTHRuVFVXRXRId0dtME14NXlDOUxQaS05NFZ2MDVuUmRSMXlXcWI5S3NhcURJbElhYUEzNEN5V2MtNGYyeFRLTGdTaUxELTdtVUZ3V3FpTkEteklS?oc=5",
       "publishedAt": "2026-09-28T02:08:05.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -409,7 +434,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQmNjUXFLcEtiQnFfdEFwdVhaelFEQ0xrU3IzZ3V0OXduTUo3bjg0dVdoV084MV9DUk9sbmVPaUNWcTFsQ2VZTkJKSlVUSk9GWFpDaDFQYzBucU5w?oc=5",
       "publishedAt": "2026-09-28T01:41:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -431,39 +456,12 @@
       }
     },
     {
-      "id": "e7009fbceee1b7d4",
-      "title": "에코프로HN 전 대표 징역 1년6개월 확정",
-      "source": "세종경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ueWdoOEhJdGQ2bUdMZGdiQ2x4eE1LLVNkYkJFdFc0aVYtX2g2TjB2NFI5R2dYczR6VTNFZE9Yb1AwUFowcEszQTlXMlB6cThQcU10ZUZONVpxOTdlQzV2OEdpQjVNUnJuR192UtIBcEFVX3lxTE5qTzNhc0NFaXRxQ1lOVWI3V0tPM1dpY21Kbm1XYkpoRm5rdV91Tk9tN0pBczZ3TlpUcVFWajVQWGtlTDJpQUV6YThfbFQ2MTdiTTQtNmhaWkdnMW5BOGNHNlVnRlhKMnYxWHJtM0FkVXU?oc=5",
-      "publishedAt": "2026-09-28T01:34:51.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로HN 전 대표 징역 1년6개월 확정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6235017e840de616",
       "title": "미공개 정보로 6억 원대 부당이득 … 前 에코프로 대표 징역 1년6개월 확정",
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHY4cm1tRHpBNlF0SFZqZHBtMXNtMjl6R1p5dnNJSDNURlBuTnFWaWJJbTZZMHNReEF0dmMyNWJ3aTl0Z1RTMllYeWlzaE5FRVBsdWh6UmREb2YzVHM1ejViQS1YNE9PdmVXdkFlUEptbmtIVC1ZOXZkSnlCSU9LSNIBgAFBVV95cUxOVHY4cm1tRHpBNlF0SFZqZHBtMXNtMjl6R1p5dnNJSDNURlBuTnFWaWJJbTZZMHNReEF0dmMyNWJ3aTl0Z1RTMllYeWlzaE5FRVBsdWh6UmREb2YzVHM1ejViQS1YNE9PdmVXdkFlUEptbmtIVC1ZOXZkSnlCSU9LSA?oc=5",
       "publishedAt": "2026-09-28T00:36:56.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -489,8 +487,8 @@
       "title": "'미공개 정보 이용' 에코프로HN 전 대표 실형 확정(종합)",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVcC1weTJiOWpMSkFTYW1md0ZCT0c3TVRkRXI1bWgwdU05djRRQTBXc2s2Z1R2SWZkUU5BVC1lcldsZDVsN0VReDBOYVhRMmpFUlByeA?oc=5",
-      "publishedAt": "2026-09-28T00:35:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "publishedAt": "2026-09-28T00:35:52.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -512,12 +510,39 @@
       }
     },
     {
+      "id": "47c4249e3e2c5a93",
+      "title": "‘무상증자 검토’ 공시했어도 미공개정보…에코프로HN 전 대표 실형 확정 |",
+      "source": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SR1JEMlJvdmlEcE9pVXAtMU5JUmxRRzZpeGRuNTRjb1hyaVBlX2JSU1lTUEtxdTBjNGM1SGFLcVQxQXpNbkVDZ28tSG1jNHBaX2VlQ01ZWllpVnVqT3FpSmo2NWl4bGZTNnY1SHdR?oc=5",
+      "publishedAt": "2026-09-27T23:42:15.000Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "‘무상증자 검토’ 공시했어도 미공개정보…에코프로HN 전 대표 실형 확정 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d245d923a112c79d",
       "title": "미공개 정보로 주식 매입...에코프로 자회사 전 대표 '징역형'",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94VDJSTGcwWUFMX25XZzdIZ1cyOXNIMzVoWGZER3cydk9wX005clJfQXJTT2p4MlJfMGU0X3Y2a3oyMkRFVFBBOFhPMA?oc=5",
       "publishedAt": "2026-09-27T23:17:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
+      "collectedAt": "2026-09-30T01:45:20.984Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -529,33 +554,6 @@
         }
       ],
       "summary": "미공개 정보로 주식 매입...에코프로 자회사 전 대표 '징역형' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4719d2673e23da84",
-      "title": "윤성진 전 에코프로HN 대표, 미공개 정보 이용 주식 거래… 징역 1년6개월 확정 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnRHT3JqWTRzQXhYbjYzSVFtaDFHWG44X3A1SmRzYTlHaTBJLU90V3hvTUJxZzh5bkpCcmR5d3EyQ3U3UnZmVDFiZUNoQWNlbEU4anQ3N2JxWjZSdXREYUpXV1p6b1R6N1dHNlJSRXBYWkpoeUtJYjVKUlZqY1F4X0UtQTljbE9NQV9DWE1VcmhHS3RSMF9B0gGXAUFVX3lxTE1mdEdPcmpZNHNBeFhuNjNJUW1oMUdYbjhfcDVKZHNhOUdpMEktT3RXeG9NQnFnOHluSkJyZHl3cTJDdTdSdmZUMWJlQ2hBY2VsRThqdDc3YnFaNlJ1dERhSldXWnpvVHo3V0c2UlJFcFhaSmh5S0liNUpSVmpjUXhfRS1BOWNsT01BX0NYTVVyaEdLdFIwX0E?oc=5",
-      "publishedAt": "2026-09-27T21:00:00.000Z",
-      "collectedAt": "2026-09-29T16:42:10.531Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "윤성진 전 에코프로HN 대표, 미공개 정보 이용 주식 거래… 징역 1년6개월 확정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
