@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:45:20.984Z",
+  "generatedAt": "2026-09-30T09:09:34.358Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "SK텔레콤",
     "ticker": "017670"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SKT, 사내 개인정보 보호 실천 문화 확산",
-    "[모닝 리포트] \"SK텔레콤, 4분기 배당 1050원 전망…주가 상승 시도 지속\"",
-    "SKT, 韓 3대 고객만족도 조사 1위 석권"
+    "[AI는 지금] 국민 AI, 10월 예고편 나온다…'모두의 AI' 베타 첫선",
+    "SK텔레콤, 3대 고객만족도 조사 석권…KCSI 1위 탈환",
+    "SKT, AI 개발부터 운영까지 개인정보 관리 강화"
   ],
   "articles": [
     {
-      "id": "78f0898117976015",
-      "title": "SKT, 사내 개인정보 보호 실천 문화 확산",
-      "source": "SK텔레콤 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13empJMkZIT0x3RnFhc1BSUS12Y09WYmI5MUFFXzQ3U1d4OVlRZlVIaWlNR0xMNHJsbzNFV1lmeFNYVFpwNVVLaQ?oc=5",
-      "publishedAt": "2026-09-30T00:41:21.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "id": "c3aa78b14593406e",
+      "title": "[AI는 지금] 국민 AI, 10월 예고편 나온다…'모두의 AI' 베타 첫선",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OT3BaSFFSMjEtUG01cWVCOTk1RzVuY0tob0stYVgtUGVhOWh0RzczNnViWkpsdHBnRnk2NUZjeFoyZUk2RDJfTUU4VGpmbVBUdTFlbzBR?oc=5",
+      "publishedAt": "2026-09-30T07:26:31.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -31,7 +31,174 @@
           "ticker": "017670"
         }
       ],
-      "summary": "SKT, 사내 개인정보 보호 실천 문화 확산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[AI는 지금] 국민 AI, 10월 예고편 나온다…'모두의 AI' 베타 첫선 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6bdcfb6b8cd53cb9",
+      "title": "SK텔레콤, 3대 고객만족도 조사 석권…KCSI 1위 탈환",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMjJlRlpQSzdTMTM2Z21wTUYxbU9YaVpaVFE1d0RWN0t4QVl1bGNETUdLZ3NMbFpQaDNxWUNCeUVNeThZWGY5a2tfYVNIbjhuejVRaGpFcmMwSXNVazVuc1l5RUk?oc=5",
+      "publishedAt": "2026-09-30T06:10:41.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 3대 고객만족도 조사 석권…KCSI 1위 탈환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "confidence": 0.68,
+        "positiveTerms": [
+          "점유율 상승"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ccc720a8f633a041",
+      "title": "SKT, AI 개발부터 운영까지 개인정보 관리 강화",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zWkJUMHl5MWxBbjRGQWRUcmc3ZEVmeEVOSWJuZ2JkUHJxQ0c5Nk5Xd1AwbDRxYTZzYktLbHI4Q1NrVWV0eTFhYU9Xbl9uUFpXcUZnb0h3?oc=5",
+      "publishedAt": "2026-09-30T06:00:16.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, AI 개발부터 운영까지 개인정보 관리 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d6a83b0a01751016",
+      "title": "SK텔레콤, 개인정보 보호 주간 캠페인…AI 시대 신뢰 체계 강화",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YM1o5VEgteS1wNVNlVXNpSkcwaTJIY2RFN0E5bTBaRHpGZ3VHRjVPQTdhQjhqZVJvMEVLUlJPLXYyZTY3Qzl0OW5rTWZHVmRTUUtCUDY3d21OMGkweTNVX2tTOWc?oc=5",
+      "publishedAt": "2026-09-30T05:37:26.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 개인정보 보호 주간 캠페인…AI 시대 신뢰 체계 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b78ed0a119f7dba8",
+      "title": "SKT의 경고 \"AI-RAN, 기술 과시로 끝난 5G 실패 반복 말아야\"",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96RHRqUEhHVDdHRDFoVXdsakxHd3huNE80RXNUSWFaNnlUN21xZDhpMGZMMGZhbmRoUGVJdkUxZWNEWXBrdi0zSGFHZlZ5a0pwa0VELVBNbXFRbHV0NFE?oc=5",
+      "publishedAt": "2026-09-30T04:13:42.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT의 경고 \"AI-RAN, 기술 과시로 끝난 5G 실패 반복 말아야\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.65,
+        "confidence": 0.81,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려",
+          "지연·실패"
+        ]
+      }
+    },
+    {
+      "id": "6e9618ba1c43d867",
+      "title": "정재헌 SKT CEO “AI 시대 정보 안전하게 보호하는 일 중요”",
+      "source": "주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tX1dHdHpST3JlRGtxamFhZEVaLTdvTF81cWhvVF9tS25MaTlzLXZIV2x1bC03Vm1Sb21oYlJKbEFrYXctV3diUXo2MHdzTTdtMlVyMjBOWVIxeDREaENTR3d5NmEwYlo1YmVCdXA1RHFocjZl0gF0QVVfeXFMTS1fV0d0elJPcmVEa3FqYWFkRVotN29MXzVxaG9UX21LbkxpOXMtdkhXbHVsLTdWbVJvbWhiUkpsQWthdy1Xd2JRejYwd3NNN20yVXIyME5ZUjF4NERoQ1NHd3k2YTBiWjViZUJ1cDVEcWhyNmU?oc=5",
+      "publishedAt": "2026-09-30T03:03:30.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "정재헌 SKT CEO “AI 시대 정보 안전하게 보호하는 일 중요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d588cefc967fdb96",
+      "title": "SK텔레콤, 침해 사고 1년 만에 KCSI 1위 복귀… 고객만족도 3관왕 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVFzTWdOMTNpVkdFV2RPMFQwU2k3VllhRlBfWENOQTkxbTNLT09xOWRCWWpsZlRrQnplNlpaSFktV3g0VGZiQzI5czhIMDNTMS1KYm40YTVKRlFlRWotd1ozYjNmZWx5YVpHTF9EUHE3MnRUU1NFLTZkaFc2STdycmtB0gGWAUFVX3lxTE8tTmRFVy1MUV9zLWIwUEhxdjd0VFBEdFhJWk9ZcHNLYkptWVRUbkR0NkUyWVc0T2NsVzBHUDZKVTN3N09zLXFLcDBiVjZIVVpndXJNYnJhTHFlWE5SOHQ4cTFCTWIyX1NYenhTM2lCb0JpNlVpbGtfRm5mdmdXb3laSlhBVDkzN1RtLVllREJ3MDdyemJCZw?oc=5",
+      "publishedAt": "2026-09-30T02:55:00.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 침해 사고 1년 만에 KCSI 1위 복귀… 고객만족도 3관왕 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -42,12 +209,12 @@
       }
     },
     {
-      "id": "c2fa0760ef215e9d",
-      "title": "[모닝 리포트] \"SK텔레콤, 4분기 배당 1050원 전망…주가 상승 시도 지속\"",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPR1BhWnZGN3lSbGhQT01rNFRVSnhKTWZsZUpkRVItX19qRFppVTV0OWVRSGdiT3pMMG94ck84SWxRWFM1bHhLcE42VFdwZ3l0SFlVeUVJYWFaelZk?oc=5",
-      "publishedAt": "2026-09-29T23:50:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "id": "f237654e94cce9de",
+      "title": "[테크스냅] SKT, KCSI 고객만족도 조사 이동전화 부문 1위",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zT0YtcXlfTEJ1eXkwdWxYeXRZQ21FdXBDQUpOTHVmWWpNZ3luQ2xCV0VjV0dJb0VJVGl3Y3VvN3JCSVhGMjRGd0hlZkZ5S3NjZDYyb3ZWalR2YXpHeU5xNtIBYEFVX3lxTE5zT0YtcXlfTEJ1eXkwdWxYeXRZQ21FdXBDQUpOTHVmWWpNZ3luQ2xCV0VjV0dJb0VJVGl3Y3VvN3JCSVhGMjRGd0hlZkZ5S3NjZDYyb3ZWalR2YXpHeU5xNg?oc=5",
+      "publishedAt": "2026-09-30T00:59:55.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -58,8 +225,62 @@
           "ticker": "017670"
         }
       ],
-      "summary": "[모닝 리포트] \"SK텔레콤, 4분기 배당 1050원 전망…주가 상승 시도 지속\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "[테크스냅] SKT, KCSI 고객만족도 조사 이동전화 부문 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b8b1842e820ecbd8",
+      "title": "SK텔레콤, 3대 고객만족도 조사 이동통신 부문 1위",
+      "source": "한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82M3VPODFjRHFFTlZpMGFvTzB5ZDBPMW1uT2QwRl9lWC1ldE5iY09DSGoxSF9WcTVqOGJvNWY1OXZJbVp2eG1OQXN0Y0E3N0NmYnNiRlVORlJDUTVmMVVSUnBuRUJLSkZ2?oc=5",
+      "publishedAt": "2026-09-30T00:35:33.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 3대 고객만족도 조사 이동통신 부문 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "252157cd827c619f",
+      "title": "[리포트] 펜싱 전 종목서 ‘메달 10개’…그 뒤엔 ‘SKT AI’가 있었다",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YYWNYVGpkd1ZRNFZGZHR1eUc1MVVvVEJ3SWtTYUFocWRERHlRYnBfTkdPUENmUzNXNzQ2T2NnYnoySTRLU3RzaXQ4cEVURUNzTXZrQnNERC1fZzYyblB6bE1RSEdtOTRY?oc=5",
+      "publishedAt": "2026-09-30T00:01:33.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[리포트] 펜싱 전 종목서 ‘메달 10개’…그 뒤엔 ‘SKT AI’가 있었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -74,7 +295,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZRDFqVFF6WjdlS2tmd09oSnhNU3pUa21RaXpqUFY4R2cycnQzcmZ5UjlJcDhOZFJNamhqU0tJRHU4VWo3aUVUaw?oc=5",
       "publishedAt": "2026-09-29T23:45:53.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -96,12 +317,12 @@
       }
     },
     {
-      "id": "b02bbf86a93a13b4",
+      "id": "666a143d95dbef12",
       "title": "하나증권 \"SK텔레콤, 호재 많아…주가 상승 시도 이어질 전망\"",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtbW13QWVsUGJ0M3BDQUlnOERETkdTTlBSNWhXQ1pva1c1YTRDcDRIOEZwWFgzZzhhZ0w3N1FwRVlLVEhSUDFFbnpnc1RSSXc?oc=5",
-      "publishedAt": "2026-09-29T23:32:17.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GSEpjM0FvSzVibFNZblpsLTU5b1djd1JoT29pejZYb09HSDFkMnlEU01qWlh4ZmUtTTcweWxpbi1FZXNiZ3M3MUZYNmZTMDZmeWNOOVozSXpPZWFJR3FOMjZnS3dLNWw0MHZYQlllc0l2enJiX3VITlVlRdIBYEFVX3lxTE1OampfTTAydVVsamJVZS10bGRydHZ1ZTdTSWVjY0VKZFpKZEFBOW1ERk9ZYUQyalhCT3NxTkUtcWZ5eUcwWkI4VmNnb3RSZW9QbTcteG9uS3BWMTUtXzIwYw?oc=5",
+      "publishedAt": "2026-09-29T23:30:26.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -128,7 +349,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRVJLZXBOUHBjaVpkcklGcm5sdUFVV21TaWk0Z09FNExtMDVPWTNLTmcwMFVHazB0WFlUX1VfcHM2VE83NHFSNURRaDhjQ2xyQ3diVFU4MG0zbmp1R0lFTGh3ejdGMFVBMHfSAW9BVV95cUxNakRSUlpyeVNuY2NrbVRJbFFRWDNmdGJoX3lCVHc0b0loRHJsajVFTmZrRDB3SV9hOEI3cEpnV1JMMFFmTXNSM2tkZzJkOVp3QnNlN01WMmxHVHdxdUIyOEdYdmhsM21jZUU4blUzaXM?oc=5",
       "publishedAt": "2026-09-29T05:30:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -150,12 +371,66 @@
       }
     },
     {
+      "id": "0b48516675866c05",
+      "title": "금빛 칼끝 뒤엔 SKT 24년간 후원 있었다",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtVjQwUGJGQU5ORHVlMmI2aV9YU0hoM19pVGZQcVFDNDhXMUVpRmF0bDJuVHRSOTRuNlVQMlN5NkdTTXJWVno3eQ?oc=5",
+      "publishedAt": "2026-09-28T16:09:42.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "금빛 칼끝 뒤엔 SKT 24년간 후원 있었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c3478fdc023818ef",
+      "title": "정재헌 SKT 대표 “AI 시대 개인정보 보호, 정부 차원 원칙 마련해야”",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vdC1KektkckU1eXNGWklzM0VOX3JUTDVyS282ZC1SSVd6V0RJM1Joc0I0RlpaenhFRzBYenRmMU9nQ1h4NWdoaXlKbw?oc=5",
+      "publishedAt": "2026-09-28T08:52:30.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "정재헌 SKT 대표 “AI 시대 개인정보 보호, 정부 차원 원칙 마련해야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c15092b6e95df277",
       "title": "SK텔레콤 정재헌 “유심정보 유출 문제지만 실질적 손해 생기긴 어려워”",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EZHdoaUx2U0syeXZXdWR2Q0RuVGpQelpKYlVjV3RXSFBWYTAzVHFLUmw3NldRMVljSDAxTE96cmJWYm1XVHpORF9yWWN5OVMzejBZMFRaMTZyRnh5V0tRV09jU1RDWmRRRjJraDRHTG05WFpaZXfSAXZBVV95cUxPRGR3aGlMdlNLMnl2V3VkdkNEblRqUHpaSmJVY1d0V0hQVmEwM1RxS1JsNzZXUTFZY0gwMUxPenJiVmJtV1R6TkRfclljeTlTM3owWTBUWjE2ckZ4eVdLUVdPY1NUQ1pkUUYya2g0R0xtOVhaWmV3?oc=5",
       "publishedAt": "2026-09-28T08:13:42.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -177,39 +452,12 @@
       }
     },
     {
-      "id": "cf3ab1c7560771a5",
-      "title": "SKT, 전국 7개 캠퍼스서 진로상담·휴대전화 점검",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55c2xBd0hhSkJhV3M0akZJbXVkLVIyX3VBTDNRZ2ZaRDJJWW5xcTFKbmE4UTBpaFlHZURfUWU4OVJ4elJUcThQdWNFbmJZV19pTTdZVC1GMlV0QkVENHVVa05iZzBXZ3g00gFoQVVfeXFMTnlzbEF3SGFKQmFXczRqRkltdWQtUjJfdUFMM1FnZlpEMklZbnFxMUpuYThRMGloWUdlRF9RZTg5Unh6UlRxOFB1Y0VuYllXX2lNN1lULUYyVXRCRUQ0dVVrTmJnMFdneDQ?oc=5",
-      "publishedAt": "2026-09-28T06:29:15.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, 전국 7개 캠퍼스서 진로상담·휴대전화 점검 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a7fd5ee9df2e2f26",
       "title": "SKT, 韓 펜싱 24년 연속 후원…AI 전력분석으로 ‘금빛 지원’",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jOUFTNVo4RFhnT1FvcVRpY2NUYVZSNUQwbVcwWjRnekJhbTk1aGUtNENaWnZkSFVBZ0xqbnNNblBadzF5MUszWVlFX245QzA5ZEVYS1djN25lSmJ4dE1jenJKUE5QdlhS0gFoQVVfeXFMT2M5QVM1WjhEWGdPUW9xVGljY1RhVlI1RDBtVzBaNGd6QmFtOTVoZS00Q1padmRIVUFnTGpuc01uUFp3MXkxSzNZWUVfbjlDMDlkRVhLV2M3bmVKYnh0TWN6ckpQTlB2WFI?oc=5",
       "publishedAt": "2026-09-28T05:33:23.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -231,39 +479,12 @@
       }
     },
     {
-      "id": "25ea6521eaa011ef",
-      "title": "대한민국 펜싱 국가대표팀이 보내온 메시지",
-      "source": "SK텔레콤 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRbTh3WVFuck1RX2ZmMDluQ3M2dFBUdkY4anhxQWE4MzEzeTRteWc4clhSanhPdnhZRll0Q3IxSk9hWGRMZWlnaQ?oc=5",
-      "publishedAt": "2026-09-28T05:13:38.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "대한민국 펜싱 국가대표팀이 보내온 메시지 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cae3dcd7d8e882b2",
       "title": "SKT, 펜싱에 24년간 360억 투자…사브르 4연패 ‘금빛 결실’",
       "source": "기후에너지데이터뱅크",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwZUhPS2ZwLU53RTFXN1p2TTNZSXVIQjBPZTROY2ZNbVlReXJQMGR5MUFucXdTTWdUdk9fUkJNZ002bExUTFNSMktiNUJhVTh1dTQxSUhkcW82ckFVSkE?oc=5",
       "publishedAt": "2026-09-28T05:10:03.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -287,10 +508,10 @@
     {
       "id": "0749a397cbd25ec5",
       "title": "한국 펜싱 메달 10개 확보 배경엔…SKT의 AI·24년 후원 있었다",
-      "source": "news.jtbc.co.kr",
+      "source": "JTBC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVXh4T01pUkUweU1uV0REeWpOU1lZeVplSUZCejVROHkyTVZJYzZkQUw0OGYxSkJDYWN2ZGNYODdZeFh3WjZHOGFVa2NPOFlqT2JINA?oc=5",
       "publishedAt": "2026-09-28T05:09:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -312,12 +533,12 @@
       }
     },
     {
-      "id": "4cd3e72bd24d324f",
-      "title": "SKT, 24년 펜싱 후원에 AI 지원 사격… 메달 10개 터졌다",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmM5VUNHdkg3WGp0by1wclcyM3FUYkhyTVMwQmVMYnd5R0pfd1I4S3o0ZUI4UHI1RTRSMXNUMG1pTVVRZVVaMXZqMEtjdFNhMG1fTjhfT29SNUl0VnM2ZmR0amVHU1V6YnpRUnRfQjNhRjEtbWRhVUw1ZnhtSDhucW13VQ?oc=5",
-      "publishedAt": "2026-09-28T02:16:12.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "id": "125ded9d7ace0b2a",
+      "title": "SKT, 펜싱 AI 전력분석 첫 도입…24년 후원에 기술 더했다",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jR1VIMDBVUG9YbHJKdndfN1A4OWxtMUhHN2lsWFZwTlRveXpEUTNyTUI0SldPMnZCUGNWSmNIQnRMZDhzNGdYUWJNbklFaFhZUXgyeUprcGxKSU9CbGV3cFhIR1dsV3haSEtlbnV5VFg0QQ?oc=5",
+      "publishedAt": "2026-09-28T02:31:50.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -328,223 +549,7 @@
           "ticker": "017670"
         }
       ],
-      "summary": "SKT, 24년 펜싱 후원에 AI 지원 사격… 메달 10개 터졌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "450782414b52408f",
-      "title": "SKT·하나금융·삼성전자, ‘5G 특화망 스마트 오피스’ 구축",
-      "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5od2RkaUlLYXVNUTdCN05kSVBLRzgyWFRxcFhtal9nNXFaMmVsVVZRaFdZdHBMWmR3UU4wNWV2R2RUZXU3VnpjU05RWGtxeGV3RGlxTEk2OWg0YWFIc0tSbTNod3BYVWtrUFJ3cTZBVk9lUHZR0gF0QVVfeXFMTmh3ZGRpSUthdU1RN0I3TmRJUEtHODJYVHFwWG1qX2c1cVoyZWxVVlFoV1l0cExaZHdRTjA1ZXZHZFRldTdWemNTTlFYa3F4ZXdEaXFMSTY5aDRhYUhzS1JtM2h3cFhVa2tQUndxNkFWT2VQdlE?oc=5",
-      "publishedAt": "2026-09-28T01:40:57.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT·하나금융·삼성전자, ‘5G 특화망 스마트 오피스’ 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ea926dced9d94700",
-      "title": "한국 펜싱 '금메달' 레이스, SKT 'AI'가 든든한 조력자",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4taXM0cmdja3RhWGNOQkVqejJBX0N3RFJJUjBaY3hqUVFsS1RMUE5PZUxydWxDY1lTMUxWWDdCYkhIaGMwLWZ3QWRHTWxTZw?oc=5",
-      "publishedAt": "2026-09-28T01:06:55.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "한국 펜싱 '금메달' 레이스, SKT 'AI'가 든든한 조력자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b68079bb2a9b23b2",
-      "title": "[통신 주주환원①] '배당주' SKT, AI 투자 시대에도 고배당 이어갈까 |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mTjVaYTcwQm9ScmlMMGNvZ1FDU0d2VmVySlQwc2V4RU05S3NCRF9hZS1JWXZtX3JhRWk3dzd1anBuTzREejBMZmxkTTV0dEpScUl5V24waVhISjhhaEc3akVDRV9abkh5QU9NS3hfUk55VE01?oc=5",
-      "publishedAt": "2026-09-28T00:49:33.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "[통신 주주환원①] '배당주' SKT, AI 투자 시대에도 고배당 이어갈까 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c6b50088837cb088",
-      "title": "SK텔레콤, 하나금융그룹 청라 신사옥에 ‘5G 특화망’ 스마트 오피스 구축 - 조선비즈",
-      "source": "biz.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbThUM2dxVDRmejl6RHRXOUpNc0xmdmtaWFcwSE9SS3JxSm9DUkgteGVBYUhQb194bFAxa2lwdW1DOFNBQUhfWlRHdGRqZnl5SlVaVmRJN1NRWGkybDVfaFA0cnZwMVB6UGlNRU85eHVlREkwcERKb3V4NG02LXR3X1ZR0gGWAUFVX3lxTE1hQzV0WUwxc0FzaHJpdl91WDdmdE4yRXpJZGRUa2lGMkc2WE9iTHA1YkhCOEk3Z0xlRUVMNkpEcE9Fa0hwaUhqRHRHZzJxTk9lR1J1WEQyeXd6d1pnQUtKdUVySk9QT1JGTWhGM3g5a2c5WmZOclVaWEtUbHhnZXN3LVFQR3FlTm42bTNMeDUxS0NNYmx2Zw?oc=5",
-      "publishedAt": "2026-09-28T00:43:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤, 하나금융그룹 청라 신사옥에 ‘5G 특화망’ 스마트 오피스 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7737b7c8a69cd7a6",
-      "title": "SKT, AI로 펜싱 대표팀 지원…24년 후원 결실",
-      "source": "뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMlRGWjUydkRrWjFBVUVBQnJuQ0l0R2tILTAyVlBIbHo0R1VBYXJZWElfcWlTRnIydjFRNkEwUHRuY0czSjF6UG9wZVVNNlhwbEdhdmNBSXFrMnctanc?oc=5",
-      "publishedAt": "2026-09-28T00:31:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, AI로 펜싱 대표팀 지원…24년 후원 결실 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ee82f92404d852bc",
-      "title": "금빛 칼끝 뒤엔 SKT 24년간 후원 있었다",
-      "source": "SK텔레콤 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12UkNlVU1Ua09qdm01OXd0Wlhhc0VGNmJQRnZ2VnVZX2IxY2ktRmFfTW10YmNLQ0dlU3BwNXZtUDJOS2hnZzBxZQ?oc=5",
-      "publishedAt": "2026-09-27T23:46:03.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "금빛 칼끝 뒤엔 SKT 24년간 후원 있었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ea8a7482078878c8",
-      "title": "AI 전력분석까지 더했다…SKT 24년 펜싱 후원 '금빛 결실' - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zYzFuUk0zM2w1UTQ4WUdnNnlLejB6OVp1ZUdyUWxyVGtBd2U0TElwREJ1R3VfMlF3ZHNhTGlVcU1FMFpVZURuaG1ZQzJjMzFJQUVBLUl3cnIwNlNPX0kwb0RnaVVlTzdzOWxldNIBbEFVX3lxTE0zYzFuUk0zM2w1UTQ4WUdnNnlLejB6OVp1ZUdyUWxyVGtBd2U0TElwREJ1R3VfMlF3ZHNhTGlVcU1FMFpVZURuaG1ZQzJjMzFJQUVBLUl3cnIwNlNPX0kwb0RnaVVlTzdzOWxldA?oc=5",
-      "publishedAt": "2026-09-27T23:22:49.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "AI 전력분석까지 더했다…SKT 24년 펜싱 후원 '금빛 결실' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dfebf58d924258f3",
-      "title": "한국 펜싱 전 종목 메달…SKT, AI 전력분석으로 지원",
-      "source": "아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UODk3YmJ6RHdiYmliRUVIOEpOTjhFRE1ZSDBPdU91aTJKN0Q1ZW41djIxVWc4OENDWk02WG80eUZvX1BFN3RBNjZ6MjVjamRvSlRwaGdPczLSAVhBVV95cUxPVDg5N2JiekR3YmJpYkVFSDhKTk44RURNWUgwT3VPdWkySjdENWVuNXYyMVVnODhDQ1pNNlhvNHlGb19QRTd0QTY2ejI1Y2pkb0pUcGhnT3My?oc=5",
-      "publishedAt": "2026-09-27T23:22:16.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "한국 펜싱 전 종목 메달…SKT, AI 전력분석으로 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, 펜싱 AI 전력분석 첫 도입…24년 후원에 기술 더했다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",

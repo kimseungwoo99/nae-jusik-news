@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:45:20.984Z",
+  "generatedAt": "2026-09-30T09:09:34.358Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 반도체 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[심층분석] HBM 타고 날아간다…삼성전자의 '반도체 질주'",
-    "삼성 반도체 '10년 성과급' 국감 검증대…최승호 증인 출석",
-    "삼성전자, 반도체·완제품 노조간 갈등 심각…내년도 임금협상서 ‘분리교섭’ 셈법 분분"
+    "삼성전자, 에이전틱 AI 활용 확대…DX·DS 적용 사례 공개",
+    "삼성전자, 에이전틱AI 성과 수준은…반도체 설계·제조 적용사례 공개",
+    "삼성전자 반도체 방류수 PFAS 21종 분석 나섰다"
   ],
   "articles": [
+    {
+      "id": "d1b968f08b2ea6bc",
+      "title": "삼성전자, 에이전틱 AI 활용 확대…DX·DS 적용 사례 공개",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UN2FJd08wU3pKTDdIRmI5bHdKZ0lwdUlobnNjcWZkVXFpLTRBTzREVEs5TFFoX0h6YnczQW5Ua00yOTlhTzJTbGp0WG1tdE5hR2lzZWI2blB2YXNDdDBiaFRSLUFFUQ?oc=5",
+      "publishedAt": "2026-09-30T03:04:37.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 에이전틱 AI 활용 확대…DX·DS 적용 사례 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0ab61bc6cb43b07e",
+      "title": "삼성전자, 에이전틱AI 성과 수준은…반도체 설계·제조 적용사례 공개",
+      "source": "서울이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBESjJKazFSM2tEYWNFTERzXy1tclZnQkpPTVc0c0s4ZG5CM0ptTHp3U3FCbkVBakpiZVZGWGd5b2ZTdHdfcFZQQUZmTlVaNnd6YlQyOWlNTGliNmRvdXgwM3RjM3VVVFVUTk0tdkFB?oc=5",
+      "publishedAt": "2026-09-30T02:19:09.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 에이전틱AI 성과 수준은…반도체 설계·제조 적용사례 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6241256d1114565f",
+      "title": "삼성전자 반도체 방류수 PFAS 21종 분석 나섰다",
+      "source": "평택시사신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41enAwZzI3YkpDUkpmS0kwZEp2WHBmYVhCNjQ0eFY0aE5LdWJGYWdNMnROT2g3anJTNzBFcF92WE5OX2hHQnFfYUJtSUQ0MmNIdnBlZnJqRXJBd1dGbHN2YnBxcmpGekE?oc=5",
+      "publishedAt": "2026-09-30T01:15:57.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 반도체 방류수 PFAS 21종 분석 나섰다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "41327d0fd1577aa0",
       "title": "[심층분석] HBM 타고 날아간다…삼성전자의 '반도체 질주'",
       "source": "굿모닝경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSE5GWll1dWVod1lyMkF1UWhycXBMRklVMlJMYW5SbzJlZno2WXFMeWpHaGVlRGJCREctNDAwd2FucnlhOG9GU0lhX1RQdVJyekVaWTdMNnlTWVE4UElhdVBHLXJuVHpqLXJoZg?oc=5",
       "publishedAt": "2026-09-29T21:30:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -42,12 +123,43 @@
       }
     },
     {
+      "id": "2362bc1c97f2a320",
+      "title": "전날 5%대 급락했던 삼성전자, 배당락에도 0.9% 상승 마감(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DREgtTkp2UzV4YjFoamZEQ1FnODRDZ2tUc2t0cUROcGFQVzNUZzYyNFF3c3VwZWxycEQ5LVFjeUVKSUpwbFF6YnZIM0ZBR3l1alIzRlV4Q2c1V0HSAWBBVV95cUxNazhtTDZHaWVXY2NBMWl1SmRlNkQtUFNOblZ3OUg5V0hLR256OE44UU5QUGRHa1NiVkVGbHFNZ0s3cG1fSllBekViUTJXZDdUc19QMmtwd0Vzb2ZYdGROTFo?oc=5",
+      "publishedAt": "2026-09-29T06:58:50.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "전날 5%대 급락했던 삼성전자, 배당락에도 0.9% 상승 마감(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.13,
+        "confidence": 0.95,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "e6075f6615406493",
       "title": "삼성 반도체 '10년 성과급' 국감 검증대…최승호 증인 출석",
-      "source": "metroseoul.co.kr",
+      "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95eUgwR3paX29wNktJLVVEdDFFOWN3aGdDbFVvQTRmV1FpT2MtcUxRaHpSMWVOazVMdW5Eb1NmTzRsRnhtT1hDakV0SmlYTUFmQmVod1ZGRklwd09rTFlqWg?oc=5",
       "publishedAt": "2026-09-29T06:49:03.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -74,7 +186,7 @@
       "source": "필드뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ODBQREp3WTYzTFZRaTE0UWhxNGdJYjdEcHJIX05wa0F3SlI3V19oTUZ2QXZVNmh0dnVVV2pNSzA3RERyVGVpUW1ic2N3V0hGbmYycXd3cUJUUnhOZFdzM2RsZ04wS1l0MVHSAWxBVV95cUxNT3ZwQnJIY0QwQlp4Q0h2N2NUZ1NpQjZiSW5TQTgwbXlBTWo2ei1kRFpfZ0hmdmxEWFQ5bHNGblMxdzJvNFhCYk80Z0tsdzZuQU1KQlM1RHZfRnYyc3dmMHRCNHR6czA1c1hEbFQ?oc=5",
       "publishedAt": "2026-09-29T06:16:48.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +213,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMTQwQnBIWENaMkE3QjJsaWNPbHZtdHJ3UTNjVURjcFBENWRNSnhjSVRqM2syREtvZ1FDZnAwcHFVV1EtdzdKdkFfNDRDTFVHbFFXa1BSMHFMZ1l5bk0zRkdVcW14U00?oc=5",
       "publishedAt": "2026-09-29T05:54:21.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -128,7 +240,7 @@
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QR3pudWJqZk9hUWx0YklIbDRkRVVYZk9NdTJ4eV9ETFpkMU5MQXVNbllOZkY5WmVlZzliZHBFcEJ4U3R2NGZ1THp1VQ?oc=5",
       "publishedAt": "2026-09-29T05:13:59.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,7 +267,7 @@
       "source": "알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KcnhvWlB6SUpOcUtvNjBIMzA1SWZiRWJNdEVQb3E1d0hsd253UWVReE8xZmxHVzViNTlKY1VhYXdPNE5IM0dlczBwTFZUdWdLOHZ6blNzMXU3Uk96Q1VlX2M0MExHLUdnQURveW5R?oc=5",
       "publishedAt": "2026-09-29T02:38:12.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -184,7 +296,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa29LNUw3V21KcTR0QzNsWHFDTFFSeEZkQVhUbHQyS0dDbFdKaU9DYTdhVGN0WXNQY2RuWnF0OUVkZE0tSzM1TmRxUFBGcTFIeF9PcU5zWnJ2Q1hPYnctaVV2ZVdheU4zN3RzQWYwMDhjV1prT21VSVFWejIxVF9mUmxKZktvdw?oc=5",
       "publishedAt": "2026-09-29T00:40:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -211,7 +323,7 @@
       "source": "시사프리즘",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jLXhkMmEyU1VZVU81M2hjY3g2RTljX2VBMzJpMWFvNUQ4UFNTMTctVW85TXJNY2otbVJSeFpxY2U0WlJsNmN2LUNYY1NjcTZiazE2WXdkM0RtbDZlNFdtMGE0MEg2elBx?oc=5",
       "publishedAt": "2026-09-28T23:52:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -238,7 +350,7 @@
       "source": "Samsung Global Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWm9ESEg2VGR0TEFiZTZTMng0VEpTUnppbW85Z0xXNHFpWlQyUktibUNnR3dPMlkxUDItZmVFalplalNybHNyMEFnMzNYaEppbXF0bl8tMlhrOUt0RUJaMnNlV0JXdVNxTDFUd2RPZzZibE9IYmRXbGVtaHh3V1doSG9mREVMdjVKZTlielJGdGIxVmlUR3BpODM3MW95djNpcVM3MVFveWVvUUozdUs4RGJiZ2VUdUJLbGNTVmhOMURESnBwYVFhTW00Z3g2NVhSLTIwRkVZYVZIelpRTEswdTVVUHk1TVVLRjE5U0I0VDdteWNlX29MaVBsTHdyQzlhbUt4c3BPbW9aZXhHdWRyazJWeUpPM2kwVEZtMGlqYkFXSUR1ZVltNVhQQ2JfYXdtdE5tdnBUaEM?oc=5",
       "publishedAt": "2026-09-28T23:00:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -260,12 +372,12 @@
       }
     },
     {
-      "id": "46ef421c7d1861ca",
-      "title": "화성시, 삼성전자와 '성장 동맹'…1조7000억원 투자계획 본격 추진",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrYUc4WU4xQVZ2XzhWbHNyR3hNLVVQT1JGVzdGSmRSb2F3OFItNE9JLXdZUWoyQVlPM1dqSFlRbWp0bzZTWDN2eVVzRDRsUQ?oc=5",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "id": "477d0702e777dbc6",
+      "title": "“460만원 배당 받으려다 마이너스?”…삼성전자, 오늘 사면 얼마 남나",
+      "source": "sisajournal.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwSjBVSXZOcTVCOXdISTZJVzNkaWZ4UVk2MDlNVm1YNXpYSVJRNWgyTFFFNGVBMDZHOHprMmczLS11YzZjMC1qS1hfVEZNT1VZNXRwcW1neW16YUJCT3lQRmNxTnBvLVZYRk10WjE2WdIBc0FVX3lxTE1wVXZHNExJWE9iQXRYazNGWjY2cU1MNkVGTlJpdXUxcXNrZWtxcXYxTkMzOHNQc1c2SFpkM3pOM3dLc25wZjVITnVsRkdTaGZRblhWS01MeF9JQ3hXVHVRZWtFNmVXRmxMbE5TVklmUHFuNDg?oc=5",
+      "publishedAt": "2026-09-28T02:11:46.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -276,61 +388,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "화성시, 삼성전자와 '성장 동맹'…1조7000억원 투자계획 본격 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7b3c0890ded4fd66",
-      "title": "“4500원 배당” 삼성전자…진짜 시험대는 ‘배당락’ 이후",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oX2V4YXV5djdUT3hSNWxKdm4zSXdkTm91Z3JGTW5vemZWYmplRjNoSnZwQ3hsTi1GRF9Qd29LdUpzRG1idkt1eUxsbXYxSXc?oc=5",
-      "publishedAt": "2026-09-28T05:35:40.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "“4500원 배당” 삼성전자…진짜 시험대는 ‘배당락’ 이후 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "38f94cb9877e2adf",
-      "title": "삼성전자 보상안 추석후 세부 공개",
-      "source": "글로벌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVDJBelljMEhwaXV4alI2WVQ5V09KNEM4TG4tTFZmWWNXTE1YTmRVNTd0d3M4Mk9vV3dtTlV1Tkp6UVZSRkRPakZBM3NBS2Z1bEpCX3Ixd3VELUJ4U2NmMDdRUUVVQnZnNEtzWNIBcEFVX3lxTE9JLTFyMUpIYmF4Z2hhS01tSWtjS01HSGZVZTcyc21jaDN4WTdNV0JhSl9pUmE2Q1hPLU92LUpzdldDR3pfeU5zcWhGdVBQWWJlMklsUDdlRHhvdXhhT2tLcmJpT25nTlk4RTAtYTBPRGo?oc=5",
-      "publishedAt": "2026-09-28T04:59:47.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 보상안 추석후 세부 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "“460만원 배당 받으려다 마이너스?”…삼성전자, 오늘 사면 얼마 남나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -346,7 +404,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDN1VMQllaVFR4dTRwcmFxSHFMUXk4UnQyd0hWVGEwQzRvY0o4NGdRNU52WUtKb3ZsTTlDYmNid1FlMnhGa3l4ekFOUENIVUtkQVJNemxB?oc=5",
       "publishedAt": "2026-09-28T01:49:16.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -368,39 +426,12 @@
       }
     },
     {
-      "id": "2d710969e6ddb97e",
-      "title": "삼성전자 '30조 배당' 오늘 막차…하루 뒤 배당락이 변수",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XOW05OTlFR2h0cVhnaUo3b3dZZDAybEtzLWQ4M3VFNldsNFBJcVgzWHJFa19mX0J0VFhUTy1nVTgzb0czRzVlQ0tnU1JVLWc?oc=5",
-      "publishedAt": "2026-09-28T01:00:55.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 '30조 배당' 오늘 막차…하루 뒤 배당락이 변수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c1c1aa9c7a0a0da6",
       "title": "“삼성전자 역대급 배당 막차타세요”…주당 4600원 배당금 오늘까지 - 조선비즈",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG80UnBQU19EZVQ1REhic2dkemtjQWZXTG1FWlBoVVk5RHFjUDdNUEFUV1gyTGtnZHNpY2VmM0lkSVlIbWhuX0hPSDRHZDhCSTV0YU4zNW1BdFVrOGFvWTJNQThQai0yUzdwRmo1aGVfek5fUHZTOHVTLVhTZkdObm9QSjBqdTgw0gGcAUFVX3lxTE1mblY5d2otVnFkRS1seDY5dlc5bUxtdHpMWVRZSzU0dkc1WXBIZTZKX2tKTGNCV0Fvb3YwOC02MDNvWHBHY0xzZm1ZREp5XzJXdUJhYm4yaTBzMWptQUZ1UlBrbHpua1NhMng2U2lZOW5jSjV3bEZVcnRLdC1kMEtCRDJ4VGRoVG1iQ21ZcFhIQ0hnRjdHdWFiS2tBcg?oc=5",
       "publishedAt": "2026-09-27T21:49:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -427,7 +458,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51WE10THFPRnZld3R1a09KdElwRUhCcjNlRXVsaElSbFdvai1GYWR0eWZ3N1MyaWRDdEhJOVlpSTFXbWlkRG1ZbGppU1VVQUU?oc=5",
       "publishedAt": "2026-09-27T20:00:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -454,7 +485,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kTUIzZXZweG5LLXFBcG5xeThRc0N6NS1QcmEwdmRSUWp1RERncURSRXdPNkRGT25Ob2twc3k3bmpBU2FncEszYk00ekllaFlfQlliUnFaZ0VSdw?oc=5",
       "publishedAt": "2026-09-27T08:27:02.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -478,10 +509,10 @@
     {
       "id": "14bb6c6d11d29f4d",
       "title": "삼성전자 3분기 ‘영업이익 100조원’ 넘나…또 역대 최대 예측",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XV2tYUUM3OVpXaXJiSTN4V1dIclNaazZfdjVyXzBNR0VTVzRfZFFGaXlET29LT2RpcHBRMWNXd0JGbmhUUTlQRVJrb1gwR0V5VzVvM2h3eHJ5YXF1WG54OFZGQ25NTFdIZ2c?oc=5",
       "publishedAt": "2026-09-27T06:13:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -510,7 +541,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPak1Gb21qanF1M2JBMnV1MEFmUzlxSjZVMmlxelR2bXVBeWlYRHpBLXYxTU5CbnRJeU9xMndQZUFjeXZCY2pUdWI5MmRpM2N0ZHlGZWNSQjlhRjF6YVRkQlFLWWw0ODZNVnZKY1k4UXhVd3hFekszMGVyNGVaNC1NVDNhTkp6UQ?oc=5",
       "publishedAt": "2026-09-27T04:49:22.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -529,40 +560,6 @@
         "confidence": 0.35,
         "positiveTerms": [],
         "negativeTerms": []
-      }
-    },
-    {
-      "id": "8c1e527e068b70ca",
-      "title": "삼성전자에 145억 베팅한 고액자산가…급락한 현대모비스도 쓸어담았다",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZTB1NUlNdUVGZHR6NEFSSmRWekk5MUY0RXAtZnBJOGcxdllycFFRNm5jb05aNUFGaHkza1ZmWlNBYWVzcDJ6QkNaa1ZINHhGTW5HOW1VUzhaUQ?oc=5",
-      "publishedAt": "2026-09-27T02:00:09.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "삼성전자에 145억 베팅한 고액자산가…급락한 현대모비스도 쓸어담았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
       }
     }
   ]

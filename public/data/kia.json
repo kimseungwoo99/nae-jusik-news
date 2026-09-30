@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:45:20.984Z",
+  "generatedAt": "2026-09-30T09:09:34.358Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,81 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "EU '전기차 부품 70% 유럽산' 요구…현대차·기아 득실 계산 분주",
-    "美 연비 규제 완화…현대차·기아 수혜 보나",
-    "기아, 집배 현장 맞춤형 PBV 개발… 우정사업본부에 PV5 200대 공급"
+    "현대차·기아, 美 ‘도난 챌린지’ 소송에 100만 달러 합의",
+    "기아, 팀장 가족 초청 프로그램 실시 | HMG TV | 현대자동차그룹",
+    "EU '전기차 부품 70% 유럽산' 요구…현대차·기아 득실 계산 분주"
   ],
   "articles": [
+    {
+      "id": "a407276774b900f4",
+      "title": "현대차·기아, 美 ‘도난 챌린지’ 소송에 100만 달러 합의",
+      "source": "법률신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UQUNXOE13ZzA4bE45R0Y0VlQ3VHlaX1Ytb3BPUGwzNzYtWGJGMnM3YmxqTlRvTUhkc2VYM3lyOGgtcWlCMk5VUnF1T1k1VVRGOUNlVUIyMjd4U2tRR0VOaVJhY3FpTzVjMnptd1oxb04zZ9IBckFVX3lxTE1UQUNXOE13ZzA4bE45R0Y0VlQ3VHlaX1Ytb3BPUGwzNzYtWGJGMnM3YmxqTlRvTUhkc2VYM3lyOGgtcWlCMk5VUnF1T1k1VVRGOUNlVUIyMjd4U2tRR0VOaVJhY3FpTzVjMnptd1oxb04zZw?oc=5",
+      "publishedAt": "2026-09-30T04:46:52.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, 美 ‘도난 챌린지’ 소송에 100만 달러 합의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.47,
+        "confidence": 0.72,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "수사·소송"
+        ]
+      }
+    },
+    {
+      "id": "597e63d022aa3af0",
+      "title": "기아, 팀장 가족 초청 프로그램 실시 | HMG TV | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXVMVlhna2ExTGdZbV9IbDJCZlV6OVVmbXhBNExJNmhJT0hNeWpfU2lydGJkVmFfNlJPejRtU05ZeVNvQVdLNkx1MVRnMGUwMkZGOUszODdsckROdkNWWjlwaUMwa0VwLU4teXJQSmM3bDZ5emJNa1pkZ2ZmWlFfVXVxdkpidjUz?oc=5",
+      "publishedAt": "2026-09-30T02:04:58.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아, 팀장 가족 초청 프로그램 실시 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "b664db1b541fe413",
       "title": "EU '전기차 부품 70% 유럽산' 요구…현대차·기아 득실 계산 분주",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xMS1OTksyVzNZRERRMldoT2NoWmZ1OXZFM0p3a1NMLUduRHJYb2NtbXp3VEl6dW92MUI3ZVRxeXk2TG1ZRlpmNFlXMjNuRU1vNi1LUFpzWTRrbHh6NDQ2Rm1MZjN1Mnk3c0NIaW91NWZicmFXRzZDRNIBeEFVX3lxTE8xMS1OTksyVzNZRERRMldoT2NoWmZ1OXZFM0p3a1NMLUduRHJYb2NtbXp3VEl6dW92MUI3ZVRxeXk2TG1ZRlpmNFlXMjNuRU1vNi1LUFpzWTRrbHh6NDQ2Rm1MZjN1Mnk3c0NIaW91NWZicmFXRzZDRA?oc=5",
       "publishedAt": "2026-09-29T09:11:40.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,12 +103,39 @@
       }
     },
     {
+      "id": "2200e6cb13e9f4e0",
+      "title": "[기자의눈] 관세 장벽 넘어선 중국 전기차…현대차·기아, 대응 전략 고심",
+      "source": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vdzIwVXB1Mm9KNS1OM24walNyLVY2bVlEUDZPRGlsSDVOZzllWkxVVWVFMUx4LWd4ZHlzVEhETy15cFhtbWd1Wnh6RzlPVDNvLUFTbnBLdEdSdWtoYm5ybWtVSjhMUlVnMThNczVB?oc=5",
+      "publishedAt": "2026-09-29T08:37:52.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[기자의눈] 관세 장벽 넘어선 중국 전기차…현대차·기아, 대응 전략 고심 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6b448164021bddef",
       "title": "美 연비 규제 완화…현대차·기아 수혜 보나",
-      "source": "시사저널",
+      "source": "sisajournal.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNDhBMW9RLUpxRHRBZFVOVXVyWDlaY2d5X1E4QWlvdFdXRlZSNXNxVlFkd2M2VnVJWS1WV0dGa1c5a1dFTnk1RFlZVVBJNFJyWDN3eXQ0VlJIaE9sUkxTeVBfRndPdm9wRU9lODR0eGVQTVXSAXNBVV95cUxNSTQ4QTFvUS1KcUR0QWRVTlV1clg5WmNneV9ROEFpb3RXV0ZWUjVzcVZRZHdjNlZ1SVktVldHRmtXOWtXRU55NURZWVVQSTRSclgzd3l0NFZSSGhPbFJMU3lQX0Z3T3ZvcEVPZTg0dHhlUE1V?oc=5",
       "publishedAt": "2026-09-29T07:16:31.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -74,7 +162,7 @@
       "source": "위클리피플 인물지식가이드저널",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeFdQY0VkV0J4Nm9FSDYxUlBPcjdPaGl2cHpTTjF1T0QwY1lQRGJzVHlsQU4wNkJHWWxoWUdoRUFLSnFwMXU3X2VYN3QxV25IbWI3ckdFYzRUQQ?oc=5",
       "publishedAt": "2026-09-29T06:02:10.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -101,7 +189,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QeWZ1M25uTkQ4ZGEyZ2ZlZ3lEc08xT0x4azFVT0ZzQnFtQUdrdFZtZi1Jb29pVzNaVEZxeWtXRWZsUk9yOUlELWRHOGw5RS00RnBUOGZrR0dwbHdt?oc=5",
       "publishedAt": "2026-09-29T03:06:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -128,7 +216,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXRqc0Q4aWhqR2FvTWdDOGQ5Q2hNcmluQjU0OHU4QnhLSGYtN2dnMmc1eFc5Nm0yZ0hnQ2ZIZ1VfaU5JTF9KVm1jcVFXOE5kSW1qdE4xMW1tTEhzanZ1azFlT09fNGhwRkg0QU92QVYtdkE2eGJLTUFLWUFTNG1ZQlJXbEpVdTZn?oc=5",
       "publishedAt": "2026-09-29T02:06:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,7 +243,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1LW5WLWVJX1NYREpOclM4MXVzazZBbU53Q1A0U0RtQmk3VmVELUdCejBjMGNNVUhZdGtnZFhBcjJ2eWVmZl9WTmVmMA?oc=5",
       "publishedAt": "2026-09-28T22:33:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -182,7 +270,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1V0UjlOOWsxWGVWZDdYXzhnYmFMTzB5NFZ2STlNWmljY3U1OHh5Y1JQUm1zOVQxMkdJdFNXVmFIdDVhN2lyQWk3UzR5MjRxRUR3NU1lZkFmRlFkY0dEalJwTXE3QjIzSU9OYXhPVTc5aFJhSFlleTk4WjFmWldXdzRtaDdGcHlK?oc=5",
       "publishedAt": "2026-09-28T19:10:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -211,7 +299,7 @@
       "source": "비즈월드",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZ3g3cGluM0thWDdZN0tlSmpFa3BMUHhMMTlOeUxZUGNEUmhCYVhiLUVYQTFKSzdtZ3N1Y0ZGaDkyNnN5akJBUDRlRVNVU0ljZmlMTmNlUV9NN2dqeEc5ek1CVTJ5eHNJOHpJ?oc=5",
       "publishedAt": "2026-09-28T17:05:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -233,12 +321,12 @@
       }
     },
     {
-      "id": "7864d14d10f95fa9",
-      "title": "기아 사장도 놀란 유럽의 PV5 ‘변신 생태계’…국내서도 번창할까",
-      "source": "hani.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NaTJSYk1xWkhaYVJLTTZKdnpRM0pKM3B2Wloxd1pOT1FFdVhfODNZS01kc21OSjJxNGNwMHRFSWRXaWt2dGNyY3loYXZPdkxPdlR1MzZZVEJqS0tBdk1VVG5n?oc=5",
-      "publishedAt": "2026-09-28T10:08:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "id": "2eb786cecc1c0f00",
+      "title": "현대차·기아, 美 RV 판매 1500만대…싼타페 '최다'",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4eGVaWTdxT0NWTUdlZFJWNGZtdWhJZDdPZ3lsbTN4MDMxV3lneVBSSDBWWW1Vd1pjSGszb3VUOVpJeGg3SDVtUERJNXQxWndCTFA4ZEZVMHVSa3NfLWNpSlNNd08?oc=5",
+      "publishedAt": "2026-09-28T08:35:57.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -249,34 +337,7 @@
           "ticker": "000270"
         }
       ],
-      "summary": "기아 사장도 놀란 유럽의 PV5 ‘변신 생태계’…국내서도 번창할까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e727e686308e35ae",
-      "title": "美 ‘EV 의무화’ 종료… 하이브리드로 대응 나선 현대차·기아",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPY294NDlLMF9mVXJQMUtXN1dyWEJLR2w0UU5QSDlxXzVTTE1sbjNlWnpOdHViazlfOE95bWIyZGRiZHhpVU9jczV1eTVQYUJRZ1VzUUFtRUhMc2FueGw2MFdnVG45bkt3S3FmX3BB?oc=5",
-      "publishedAt": "2026-09-28T08:46:47.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "美 ‘EV 의무화’ 종료… 하이브리드로 대응 나선 현대차·기아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차·기아, 美 RV 판매 1500만대…싼타페 '최다' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
@@ -287,12 +348,12 @@
       }
     },
     {
-      "id": "b833ba7da02dae4f",
+      "id": "a4b944769d135e1b",
       "title": "넥센타이어, 기아 쏘렌토에 신차용 타이어 공급",
       "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4bi1XWXJFdF9MQjhYVXY1ZHBHQnZNVXZnM1hWd0NEbzhpSFNyRm0yWDVCeFpzOUk4bVpxYzktdDZ1TXBSYkZzeVZmRHVwSFFqeDBkOExxN0taQ1dxaTlIUURVQdIBaEFVX3lxTE5LajFQSTVEeThfXzNZWVRTNXpiUUJhNmwzcDE5Yi1ZbE93TU11c2NYeUVvOXNnNThLQ2xRLXRwVzRDdGlEZS1nalh3NkR4eHh5MFZjVENMZHBCSVEyQjdyTDJneFhqWV9R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzNEdSNmhhYjB2Z1E1M2NrTUF0TS1keGlTOW5vLVhpSlBFcHk2MmRNOGo5WjJ3UmloMjV5V25BN011eHJhek56bVdORExfNHFQNEJkbUtob0ZpbE1TWGhXbXNiWU4?oc=5",
       "publishedAt": "2026-09-28T07:54:48.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -319,7 +380,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vi1BcXZ6QlljYlZid1ZNZEg5VS15U3FHRzMtRHZKREVCMDZTbkdYZlpadmZWekhyTHViS2Y2THNXS3RfcEI4N1VpdFk3bHEyTFFvZ0dn?oc=5",
       "publishedAt": "2026-09-28T07:09:19.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -346,7 +407,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJUW4xR3pMZks2aEpUZXJkdHVCQlY5Um1oVFlBNkRzSmhSZVk1NXUzVzBKbnhhdDFoc0JLUlBuQzZpak1pcERPaGV5STR5QjZHNUxSbEx3QnI1LUlVQUU1cFg3dw?oc=5",
       "publishedAt": "2026-09-28T07:00:31.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -368,12 +429,39 @@
       }
     },
     {
+      "id": "e2ec5c3e1c7114f3",
+      "title": "[증시다트] 현대차·기아 목표가 동반 상향…실적 온도차에도 ‘로봇 프리미엄’ 커졌다",
+      "source": ":: 위즈경제 ::",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWZ2b3Q1QWtBQXpXN2tyZUQ0MTlvN2p6TVBRWFd5ZmZRMXpMRU15YXVFaGk1dlZrLTVLQkdzaXQ1MEJlWEg3NHp0VnYtNUJzRnFiVA?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[증시다트] 현대차·기아 목표가 동반 상향…실적 온도차에도 ‘로봇 프리미엄’ 커졌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8b7c5c6dfd1f754d",
       "title": "현대차·기아, 美서 RV 1500만대… 판매 70%가 SUV·RV",
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yU2xBM1FjSHhtZUpoVy0wNUl2VFZLZ3VkQmFHSjhYbmVhWDNXOHl4UmF6VDkzZ0l6TkdoQ0toS092dnJXWUU1WlQtb2h1MFM1V21QLTBIblVQLUNHRTc2eUZ4c29hNDhyaEtHSk1pT3rSAXRBVV95cUxNZWtONE5fME5oVVNsZ2JISXRnUHBYcy00b3BOVFBQZE9QTk5tNE4yckVEU1BvZ2ZmOG5RS3RScVJNeVNJY2JHY05KUmxyUTBuVVJTNHd4S3pCRmFHZy1TY1VEbUpDNTRCdExhdXNTdkc2dWlodw?oc=5",
       "publishedAt": "2026-09-28T02:14:21.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -395,12 +483,39 @@
       }
     },
     {
+      "id": "7218e7acf89d1e15",
+      "title": "“지금 계약해도 내년 출고”···가격 경쟁력에 기아 ‘EV3·EV5’ 대기줄",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uR2ctTmxkRmtHLTVvRno3UkdlbUZPYUZqdW8xOExoUXdmSzRsZzE2b3EyeF9td1BhSmtmcUpieFJ6V1R0MXI4a3p4TTM0a2VlTmxtQWlIWDByTXhZU09JREI3WWc4Ykhaa3VucGlGUzBkQdIBdkFVX3lxTE83SEVGM2M5ZjYzdXBVVG85cGN0MXNWRHl4dVZ6c2d5ZzBsejdxenJZNVFvRm0zUDFxNzJmUnEtakFpWFRsbG9majdZLVVJVktRNWpmMUloSFVwTk13cS1PM2RQZkJCeHQ2YzM1ckN4ZnZOLVBieHc?oc=5",
+      "publishedAt": "2026-09-28T01:36:27.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "“지금 계약해도 내년 출고”···가격 경쟁력에 기아 ‘EV3·EV5’ 대기줄 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3cb5411c46661741",
       "title": "현대차·기아, 美RV 1500만대 넘어 신차 공세…하이브리드로 성장 잇는다",
       "source": "위키리크스한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55OHRwbzRqSzdVOVIwb2NvMHZ0cUxxZktYOHgxLUlmaUJfUmw5cDdIYWJ4MEJYWkJRemZMQkdzT0JrT2hEMktJOVVTTnhGV2RlM2MyT3p4am9hc09QV2RlcTNGUkdCc1ktVTRHREU2dEM?oc=5",
       "publishedAt": "2026-09-28T01:21:09.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -427,7 +542,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UGVrSEhpRkRjZUJMSWN3aHczcGRidXFwbnB0MUExQXZFQWdYOU5qcWg2RTZpSWZyX0RNbUZEV2p3N1l3Z3laMWgySTByQjJYZVFQTjEwU2lyUGp3d19jRmxQQ29xNG1o?oc=5",
       "publishedAt": "2026-09-28T00:15:50.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -439,114 +554,6 @@
         }
       ],
       "summary": "넥센타이어, 기아 '쏘렌토' OE 확대…\"20인치 신규 적용\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d20557cf190f2722",
-      "title": "넥센타이어, 기아 쏘렌토 하이브리드에 ‘로디안 GTX’ 공급",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YzdzS0tKeTJ5TzRwXzVNeFpYLWxQY1JqZWQydUh4ZW9VcmpFSXVJZFBTYno5S3Jia051RnUxbUlucmxoc1dWa1M5YjRSa1cxNXFKSA?oc=5",
-      "publishedAt": "2026-09-27T23:54:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "넥센타이어, 기아 쏘렌토 하이브리드에 ‘로디안 GTX’ 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fda31f35ff20f8f4",
-      "title": "EU, 中 하이브리드까지 조인다…현대차·기아 '가격 방어막' 주목",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yNHV5cWJ1MUpQT3RpZ2MyeVBGUC05c3BiQnEzbm1wc3dLMkQwV0p4VWZITnRydFBIakx2ZDVwSjR0MWUzZ1VFYTg1WV9Gblk?oc=5",
-      "publishedAt": "2026-09-27T22:01:34.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "EU, 中 하이브리드까지 조인다…현대차·기아 '가격 방어막' 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6b99315f8f1f9f54",
-      "title": "\"신차인데 2,158만 원을 빼주네\"... 차주 만족도 9.3점의 요즘 대세라는 국산 SUV",
-      "source": "토픽트리",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2Q4Vl9iQ0lzWXNrZHZkam1jZ3BfcTNCV001Q2N4emlUU2pOZFlUNkFQMGhXZ2FUZ3BpT2lJME5aN3hEeFlrQzk2YmJFbkVtSWJiQzNoUTFrOUs0cF9wek9FZE1ZeVlqdlhEaGlXMkZMb3pNbUlIb2Y2TkJlckZZZHQ1YVJuNFFsRHQ2NzhoMy3SAZgBQVVfeXFMTkpJUUFKcmJxbm14THpvUW1EZDZpNEFPWTBhd2tQbjVxM1ZUT1Y5NVkzTG5PRjl1VnJqcUdZV3praEtOWk1jdzB4c3RHU0hkWlpGSXhXZlBsWGxTeTBLTlNRYjNKeEg2WE9OUkdXUGJuT2trOGVuU3VOVDVZTTBJem9lTkVtcldGV09jUGRLbXpmTXU1MEJVLU4?oc=5",
-      "publishedAt": "2026-09-27T03:39:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "\"신차인데 2,158만 원을 빼주네\"... 차주 만족도 9.3점의 요즘 대세라는 국산 SUV 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "70239a8c6b9fe1da",
-      "title": "현대·기아, 차량 절도 문제 또 합의로 막나",
-      "source": "미주중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pd2JzYkpTU0JJbzBFc0hCNUlqb1k3Z0Fxd1ZUSTY5eDFZOUxaenJVb0t4SkdVRG55eVRFbUgtYnZzbWxEdGZxVHN0cFR2UmdnVk93Yk5BZVdkQ0xyOFlHdS1R?oc=5",
-      "publishedAt": "2026-09-26T23:01:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대·기아, 차량 절도 문제 또 합의로 막나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

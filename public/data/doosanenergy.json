@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:45:20.984Z",
+  "generatedAt": "2026-09-30T09:09:34.358Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,130 @@
   },
   "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "두산에너빌리티 1%대 상승…iM증권 “미국 원전 확대·SMR 증설, 신규 수주 가속화 주목”",
-    "두산에너빌·케이피씨엠 ‘ESG 공동대응’",
-    "[단독] '잭팟' 두산에너빌리티, 오몬3 EPC 최종 선정…베트남 대형 프로젝트 연이어 수주"
+    "“글로벌 전력 인프라 투자 확대”…두산에너빌리티부터 등 기계株 온기 확산",
+    "두산에너빌리티 8만원대 회복…발전·원전 수주잔고에 시선",
+    "AI 데이터센터 폭증··· 두산에너빌리티 ‘발전 3각편대’ 뜬다"
   ],
   "articles": [
+    {
+      "id": "dd3acbf48f6da911",
+      "title": "“글로벌 전력 인프라 투자 확대”…두산에너빌리티부터 등 기계株 온기 확산",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10SDVaQlctTl8yanZsdXhPYUR1LTI3andNSU40MVJRNVBHZ1RlWHdta252TGhiUWp5aEdqd3BPbnRwRmRtRzlueU9QWU1JaFpROEV2QVR5aFNhNU5hMklSTEd3UERBVW1UenAtMmJFRWdTWUXSAXdBVV95cUxPU05HR3hQNlo1MVNRbVUtY0JTdUVtejVPQUVBQ25DWTh2MHQzTWVISmtvVnlmVE54SEEyOFg4c2h6b0pWYVB1eWwxbDZaN2l3dno5ZWJVUDJnUk1vS2tuY0szbk1PNzRwVGczWWpYcXdvYUhzYWsyYw?oc=5",
+      "publishedAt": "2026-09-30T06:28:32.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "“글로벌 전력 인프라 투자 확대”…두산에너빌리티부터 등 기계株 온기 확산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "confidence": 0.63,
+        "positiveTerms": [
+          "투자 확대"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e6d74f9452be7f53",
+      "title": "두산에너빌리티 8만원대 회복…발전·원전 수주잔고에 시선",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VaDdmWkdORjRaOG96OFMzS1pOQ3ZNRi1OWjZ4ZjU4MWxWSWF2YkdhdDJiTklFcnp5aTlzM29lUkluOEJpRDNGUlFUR1lsMXFPR0tkcDFwN1hhSGRLY2tQelljYV8xWUZPbTNuaDRyVUFkUdIBckFVX3lxTE1VaDdmWkdORjRaOG96OFMzS1pOQ3ZNRi1OWjZ4ZjU4MWxWSWF2YkdhdDJiTklFcnp5aTlzM29lUkluOEJpRDNGUlFUR1lsMXFPR0tkcDFwN1hhSGRLY2tQelljYV8xWUZPbTNuaDRyVUFkUQ?oc=5",
+      "publishedAt": "2026-09-30T05:43:25.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티 8만원대 회복…발전·원전 수주잔고에 시선 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4e960f7d73f395a0",
+      "title": "AI 데이터센터 폭증··· 두산에너빌리티 ‘발전 3각편대’ 뜬다",
+      "source": "그린포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVlBqYTBjWlBMWTQwNFVNYS1VQ1hJby1JTHBqQnJWNUphLWdxSnhmOHV0d2dFc2tDQjZqRHI3LXNKMjZwUVgyWHdPN3lCZlB6bG9nUDNLTHhvd0prSmVBV19VS0tqSXZlVXktd0NqTTMwUTRhVWfSAXpBVV95cUxNVXhYN2tDcWoxSE9aRF9wWDZjeFZFVWhLd3dCN0NxYlZXN0s0UHpBcFQ5RFZ2TUI1cHhCSk41RFcwWS1FMjFzeFE1NklDWllpRkhrd2FId1VFTVNZV21XQW9RUXhuc1JYN0hRX2FtSFJBR1duTzQ4cFAyUQ?oc=5",
+      "publishedAt": "2026-09-30T02:03:55.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "AI 데이터센터 폭증··· 두산에너빌리티 ‘발전 3각편대’ 뜬다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "96a1ee98127fc623",
+      "title": "종이 위 머물던 美 소형모듈원전 첫 인허가…빗장 풀린 20조 북미 원전 벨트",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlg2Yjd2OFBHYU15ckUycGttVVRDaFlXaFpmLUdvZTRkX1h2TXBXcjV6YnBtVVNqdzFqM0V6djktdDNhTnZmT0l4NjhMZlNJaDJiNlZzOTVnTUVaalZ3aHdRN3Z2OGw3eUw3MUtlSm4xRjRncDJIN3BfRTlVVS1NWWZZbnFFUTV1?oc=5",
+      "publishedAt": "2026-09-30T01:14:21.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "종이 위 머물던 美 소형모듈원전 첫 인허가…빗장 풀린 20조 북미 원전 벨트 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ae76cf0237eff056",
       "title": "두산에너빌리티 1%대 상승…iM증권 “미국 원전 확대·SMR 증설, 신규 수주 가속화 주목”",
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZ25oTWtxa2d1YTJPeVZid0E2Ym5VU3Z2cF9TWmRKV2pzQVR1emxaamRJaXZqZzlXbHJQZjFaYVBiMF9Rd1hFbzF6cVZWbDFDVHliZDUxOFkxd0tBUE1VQ1BHbXlneDVV?oc=5",
       "publishedAt": "2026-09-30T00:37:02.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -50,7 +162,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FOUhiX3FTcGRBYUVNb0F2QVBBNHNmaU1QNjJ4cExiRFdiV2paemJERkF6X3Joa3IxV1k2aGx4M3pyYkdTZlhpaUFYSjRiWG1J?oc=5",
       "publishedAt": "2026-09-30T00:20:13.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -77,7 +189,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVUxkeWhVUng5Uzh5MjFOUGdYTG5TRUtnSjN4d2UySG56S0pZd3dpbU93Y3NJUUZrVUNLMUtmcTlPTFFMSTBKZ2hqRDZNei1vSURYd0VhVWlhNjQ0LVE?oc=5",
       "publishedAt": "2026-09-29T00:52:14.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -106,7 +218,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bVB5SENIbzc1VE1LSEl6TUlEcFpoeS0tZDQtbnN2Tnk0ZlNBcjVvc25HWDZYVG9IVDd2dFRWOGhvTUlEUFl1alUyN1JSNXdMUER6S3Y2WDF4ajdhb0xZb0ZHRTIxbkI5?oc=5",
       "publishedAt": "2026-09-29T00:17:06.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -137,7 +249,7 @@
       "source": "theconnectmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43OWp2bHJ0dHdKUWlUcFJDVUEzVGo1cWljb2RCeGlCNk96N3F1WDdCMUw4MmlQSWMxQTRuVElQR0hqYVZsbm1GMDc0R3dMdnZPcGI3Z1RsdUNOQXI0SlFJQQ?oc=5",
       "publishedAt": "2026-09-29T00:11:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -159,12 +271,39 @@
       }
     },
     {
+      "id": "36501424c06a39a9",
+      "title": "‘하청 교섭요구 배제’ 두산에너빌리티, 중노위도 제동",
+      "source": "매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RWExYMGkxNUJFeTJ5WXR5SGsxbXh2SHhJaGZ4TXBNbDBPSXh4eldWNE5nTllKNFJILXBxRUlwbUM5ZWpIV0hYazVFRkxDVjJ6a1RqUEMxSkNFOW0yTXl3Qms3VU95Z2xBVTMzSVBPUWc?oc=5",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "‘하청 교섭요구 배제’ 두산에너빌리티, 중노위도 제동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9b463444949d1097",
       "title": "[리포트 브리핑]두산에너빌리티, '미국 원전건설 확대 가시화로 수주 모멘텀 가속화' Not Rated - iM증권",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdzNnZ0NFNFBkRFdqQ3RpRWV0V3Vld0lUQ0drb0lGdnB0bnMzMEVENURqeDVuVU9GUW1lOFQ3RklGVkcxNWVid3FSUXh1aDEzQ29tOEhjMXQ5VTZj?oc=5",
       "publishedAt": "2026-09-28T01:13:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -188,12 +327,41 @@
       }
     },
     {
+      "id": "972f2bdc49416434",
+      "title": "두산에너빌리티, 새주 첫 장서 반등할까…미국 원전 관련주 엇갈려",
+      "source": "CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iU3FPdmRCei1LUkNLbjNyR2pyZV8zd2hubTlrdG5ZaWJWQzIwWnJqYmJWYlBpUE5FNmF3WW41STJKMzNXZUNpTVBFOTV3VmNLN3VMandMQkhOejVjQU1JZ1JidGtoSWQy?oc=5",
+      "publishedAt": "2026-09-27T15:20:00.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, 새주 첫 장서 반등할까…미국 원전 관련주 엇갈려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "e43d81b8b1b77d20",
       "title": "범한메카텍, 두산에너빌리티와 고정자 장기공급 계약",
       "source": "경남일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lU0lNUzRKUlI0TS1sZ2tIQWx0MVpHTml0c0lraWVkZUt5WTl6cVliZU9BTnA1Ni1PTEgyR21tWjBTMzFsaUJTcVZNMUVVbU8tUUgwNFJCV05CZDhOYU5hNjBfa2ZvSF9WVEZF?oc=5",
       "publishedAt": "2026-09-27T08:45:38.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -217,12 +385,39 @@
       }
     },
     {
+      "id": "c1f31e90add61a7b",
+      "title": "두산에너빌리티, 추석 연휴에도 네팔 현지 대응…\"누적 660여명 투입해 수색 총력\"",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtclVfQlNyZ3dycVZxdXphd0pTbUxtUWpWYUl1bUh3TU9oOUlMSVl2a2F2YzMtSk9oTDRmb2tMaWZvbTQ5OVhRWmcxTFBJdjdPc29abEwzS3c1OFB3ZzBwLdIBeEFVX3lxTFAzaDVmYmJfbFlOQmJxdmh2TVN0TkgxWjVlLXNuLWNWVTBhUkE2TndYRlI3VmRwbDFDa3RvV0M4MHNoTFhZbXVVczJvQ3VUQzNzUFo3bkdjNlI1blhrWE1XVlN4MjZNVVIzaWEtclhqeEk5TUxjSVhYSQ?oc=5",
+      "publishedAt": "2026-09-25T02:00:00.000Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, 추석 연휴에도 네팔 현지 대응…\"누적 660여명 투입해 수색 총력\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "94117268e6274b09",
       "title": "두산에너빌리티 투자분석 2026. 09. 24",
       "source": "주달",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iR1kyOFc2MDE1V0ZzeE9nME1renNVTkp1bkFnX0dvdTlEQVFCSnNadTk4RU1pUmFFNEE2T1FZdHZfZWNpaGVsSV9yY2JzNmlVZmNPdFFoYThlRU55eVlNcVR0cjB4cGgwSndKcFduMHF0bDA?oc=5",
       "publishedAt": "2026-09-24T22:15:28.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -249,7 +444,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56MTdhdkhkdlBvOXcwT2M5dno3N1lTdmF4QjYzdzNMRi1KT2tkUk5qOERFal8zczAwNlpCMS1NZndpZ0s0dzRVR0NLZFo2djQ?oc=5",
       "publishedAt": "2026-09-24T22:02:10.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -276,7 +471,7 @@
       "source": "이코노미트리뷴",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmV3loYmt6czYtQTFEUGVmamJ2OWh4WG1CZ3lIcUZZdkE2RVZEeElkdklFcVRRSTRqTjVpWG1jTVNYYkZmV3JFc0lhTFFJX21BQW94RExubjZ1U0phQmVKQUp0MDcxX3hSYWY1NDVjOERuaWJwSFRZ?oc=5",
       "publishedAt": "2026-09-24T08:52:20.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -303,7 +498,7 @@
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Tb0RRZEZhRXZlSHhiYnI2WGFMLWR1YTRfOFdicFdUNmtFeXJkRnlkR0pxYjlPS0p4NlRkMktXT1FiUVJJbnBZNF85VXA1UmtwQW12bmRyZmo?oc=5",
       "publishedAt": "2026-09-24T05:56:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -330,7 +525,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vNHMtYzg5NXU5bUFBZzctMy1xOXNha0dEUmtyV0FBWFZqM0RCSEkzNk5yd1BYSUtPcU5peE5DaUQyMzFwbGZsVjB1Y1hhWl9xM0dqM2NDU3Nxdw?oc=5",
       "publishedAt": "2026-09-24T03:08:35.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -357,7 +552,7 @@
       "source": "자본시장뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kQXAybjFfUklYTDhyekVlckczbGpQdHB6bmdqZWplTkJVRFdfQnZmRjc1RlczbU5fczBHQ1FhMkhBak9TT0ZoVGFxdFFIbFgzQWlaOUNrektqcnV5QmxWbXFLdU9xTnc?oc=5",
       "publishedAt": "2026-09-24T02:30:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
+      "collectedAt": "2026-09-30T09:09:34.358Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -370,201 +565,6 @@
       ],
       "summary": "미국 원전 8기 협의…두산에너빌리티·현대건설 수혜 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d98b41762e476177",
-      "title": "가스발전 이어 원전까지…두산에너빌리티, 대미투자 기대감 솔솔",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UbFh0czViUkxCcGdCLTcxSHo2dmVpUXJMU0k3Q1dXU1htT245Qks2VlZoSWVObXJ6X2NncktLeXloSUhJMXc?oc=5",
-      "publishedAt": "2026-09-23T22:01:00.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "가스발전 이어 원전까지…두산에너빌리티, 대미투자 기대감 솔솔 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.28,
-        "confidence": 0.62,
-        "positiveTerms": [
-          "기대감"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fa7f8417b4fe8b9c",
-      "title": "두산에너빌리티 미국 원전시장 진출 눈앞, 박지원 '추가 협상' 불확실성에도 핵심 공급사 입지 탄탄",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zRnVxem91aERVcnpkb1owRU03Mi1zWFZITlRLRmRwbnkxR2gzRHJJT3k3c09xU3Rtb3ZHWU9IMExjQ0RJSlI3dDFvdjEtNElTOGVMMEc1NFl5ZTE5SlBobkVBblh3bXNoa3VEazF2d2JGSUU?oc=5",
-      "publishedAt": "2026-09-23T06:46:10.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티 미국 원전시장 진출 눈앞, 박지원 '추가 협상' 불확실성에도 핵심 공급사 입지 탄탄 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.3,
-        "confidence": 0.63,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "우려"
-        ]
-      }
-    },
-    {
-      "id": "b9f54bc7f0a2f4be",
-      "title": "대미 2000억달러 투자 시동…두산 수주 기대",
-      "source": "MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vV0tmSDZOcFVLcHRqa2hKb0I1OFR6ZDVybTFBeE9XbnNwSmxORVltbHF3RzlqQzhKRWRzc3AwVHlkZFRPbTQxclRYVjVCVnZzNlV2LWE5R1lFNVE1V1NjMUxIdmU?oc=5",
-      "publishedAt": "2026-09-23T06:28:01.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "대미 2000억달러 투자 시동…두산 수주 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "44875d05f37afa5f",
-      "title": "美 원전 8기 뜬다···두산에너빌리티·현대건설 ‘대미투자 수혜주’ 부상",
-      "source": "서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KUHN3T3NPTjctUDZxbzgxMHVYSm9KSUYzSUNia1Y5b2JTRHBNLXZxVVRDRHNXZlZaQWMxOGptVGJFeGIzTFB2aWdPbU95MzJFbzFVOWh0RzV5LXJfM01QZEFZTmw3VWhhTXc?oc=5",
-      "publishedAt": "2026-09-23T06:22:16.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "美 원전 8기 뜬다···두산에너빌리티·현대건설 ‘대미투자 수혜주’ 부상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dc93350dd747cbf4",
-      "title": "갑자기 고꾸라진 두산에너빌 주가…현 시점 전략 세워보니",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keHFVU0VXNktpWksyblJncXl0OXN4dVQ2Vm5rOUpaMnVGU043a0I0TTkwdElReTNpZ3dtZnpwOUxUYkszeElPNDJULTJiSWxLQ0sxS3Z1OVYwQQ?oc=5",
-      "publishedAt": "2026-09-23T05:45:33.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "갑자기 고꾸라진 두산에너빌 주가…현 시점 전략 세워보니 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a77a0517a8cb0280",
-      "title": "'대미 투자 1호' 텍사스 가스발전…두산에너빌리티 빛 보나",
-      "source": "한국금융신문",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NR1pHTUp2M2pyUzJwQVVXQy00bmU2R2p4SHFBV01JUDJoUzNNbklaRDdHeEdqa3ZUVzRJU3pwd3d6aUNZUWFWeUplWTZhdkVtT0NZcExocHhjdTZMRmFuVnp5bWpPSm5aNVlzOVBuS0lpOGMyYVFRQVBkSQ?oc=5",
-      "publishedAt": "2026-09-23T05:18:38.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "'대미 투자 1호' 텍사스 가스발전…두산에너빌리티 빛 보나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b552939ac0ff2588",
-      "title": "범한메카텍, 두산에너빌리티와 손잡고 발전기 기자재 공급 확대",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUhNcnVuZEhTN1hvdU5haE1IOEhFM0o1ald1OU14MWxVNTlZRndxY2h0UUhvMkt3dklKWlVJVWVCVGw5S1VEbno4TG5rTlZhUTZoY0dVdG1LVUd0a2daaw?oc=5",
-      "publishedAt": "2026-09-23T04:50:05.000Z",
-      "collectedAt": "2026-09-30T01:45:20.984Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "범한메카텍, 두산에너빌리티와 손잡고 발전기 기자재 공급 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
