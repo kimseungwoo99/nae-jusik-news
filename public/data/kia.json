@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:37:08.187Z",
+  "generatedAt": "2026-10-01T17:12:05.466Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,31 +7,63 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑",
-    "현대차·기아 뺀 자동차 3사 모두 中 손잡았다",
-    "기아, 3Q 84만6764대 '역대 최대'…해외 판매 견인"
+    "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
+    "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ |",
+    "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장"
   ],
   "articles": [
     {
-      "id": "e152018573585dda",
-      "title": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑",
+      "id": "a97dab7a829e871a",
+      "title": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ub2xkMUdxR0xKUFNMb2V4c2RxRHBHUGhPOGpUX0NpS1lkVDlWUFpKb1JkOTdsTHFnLW16NWdFTjhUUjhpRHIza0xiQllkTEtFNVFvaTVBU2FVdw?oc=5",
+      "publishedAt": "2026-10-01T15:40:39.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "58b24681fccc9273",
+      "title": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ |",
       "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNFhxWGlfdkl6bE1sTzNkaXkyMDNxRUpibFpTQ0xCZFJxZVBVbWpnOTFGYWgwQU5DdDRxNl9QOWNJZjJxeElFeUxUdjFpZGJZT3ZCVHZBZjdGazRDNDl2YWNmM0ZEVWFjRU8yLXNmTTc?oc=5",
-      "publishedAt": "2026-10-01T08:59:16.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yWGR1YWc4TTB0aGxfTk1xVHozRzNTY0tILTl6by1Qbl85a3ZZaURDZWd0aXVvSldwV3J3ZUV1S0Fkby1JOW1vV25tQXVUV3BpUFEtTkZsSlJ5NHdRZVlXZE9Wb3oya2MxNnBZd3hsTnFsNnRr?oc=5",
+      "publishedAt": "2026-10-01T09:03:20.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
       "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
         {
           "id": "kia",
           "name": "기아",
           "ticker": "000270"
         }
       ],
-      "summary": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
@@ -42,12 +74,12 @@
       }
     },
     {
-      "id": "cacec155326c1772",
-      "title": "현대차·기아 뺀 자동차 3사 모두 中 손잡았다",
-      "source": "hankyung.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LWJSNWlGX3BfbzYxLWZHLVAtcDAtLXR3TFQwV193LUpsYkdaM3M3QlZLaThIU1pjdWRhajI2d2V0ZnN5TjRtQTNWUFA5RG1EcDdhamhBY2NhUQ?oc=5",
-      "publishedAt": "2026-10-01T08:41:14.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "id": "ba36f9e4ff288406",
+      "title": "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4TkU4YTl4TlVNYnpvX254ZzEtSWV2LUhzYkVNajJ5V2s3UEswZ3Vtd2xhZVRqdm5qOTBRNDVFd0VCX0FfdC1RSWxQRXQtUmg5OUJ2Q2pDZFpOUdIBX0FVX3lxTFBmanB3M185QlV0UDdYUldJRDdNeEZkNzFXZFU0ZTRpYk4zVjVHMmhyaWQzY1hHWTNmSTdtV2dMRG9rcXQ1QXJrSS00T3p1Vm1HamdabUZZRFh1anNQMU9v?oc=5",
+      "publishedAt": "2026-10-01T08:02:00.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -58,8 +90,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "현대차·기아 뺀 자동차 3사 모두 中 손잡았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -69,12 +101,12 @@
       }
     },
     {
-      "id": "f0ef159b1db2a337",
-      "title": "기아, 3Q 84만6764대 '역대 최대'…해외 판매 견인",
-      "source": "신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZVEybHN5Q0RGdE8tejhUOGNlTmxTWHlrOGROVG45TVo1WDRXWGJMeUM1TlNLQkQ0bjY0Z2pyakExV01hc1FLUm53SS1VSklTSWtDbVhCWFhRN3Rxd0tpQ2JYX0tvUmNhaG9WcGU1WFA?oc=5",
-      "publishedAt": "2026-10-01T08:21:25.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "id": "a13d7691fddd1a79",
+      "title": "현대차는 부진 기아는 3Q 최대 실적…엇갈린 9월 판매",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSS2NvRWJ1QWJzaHdBX1JPMGhEczYtTVNBYmxjVkptalhJT3p0MnVrZzlmU2JhaHRjSXNLNndqSjM3UEU1bnc?oc=5",
+      "publishedAt": "2026-10-01T07:55:43.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -85,15 +117,13 @@
           "ticker": "000270"
         }
       ],
-      "summary": "기아, 3Q 84만6764대 '역대 최대'…해외 판매 견인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "현대차는 부진 기아는 3Q 최대 실적…엇갈린 9월 판매 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -103,7 +133,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oc1FBV2hmMnZwSzlTbDNPb3BVNHlVTFV6eWwyZzg4UzdMaldWVk8xMFI0d0lrbjZKSW9tUGlOVm9qTmJZZlZYdUVYRkxhd2pGYnR2MTBRQzA5ekF5ZFlrZHR6UFVzLVgzY1Vra2h1M1d5aUty0gF0QVVfeXFMTmhzUUFXaGYydnBLOVNsM09vcFU0eVVMVXp5bDJnODhTN0xqV1ZWTzEwUjR3SWtuNkpJb21QaU5Wb2pOYllmVlh1RVhGTGF3akZidHYxMFFDMDl6QXlkWWtkdHpQVXMtWDNjVWtraHUzV3lpS3I?oc=5",
       "publishedAt": "2026-10-01T07:32:21.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -125,12 +155,39 @@
       }
     },
     {
+      "id": "773b6cda7bb796fd",
+      "title": "현대차·기아, 서울시 자율주행 시내버스 생태계 구축 外",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DazVxNl8xUG5wS0lIYk9iblEtMXl6Vm91X0hGSEJyclRmaDkxRmViQ2dycWk2WTFmOGJTUUlyLXp5Y2ptcUdwQ3hrQl9lTUR6?oc=5",
+      "publishedAt": "2026-10-01T07:31:00.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, 서울시 자율주행 시내버스 생태계 구축 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b0f48fd5b2beb7e4",
       "title": "현대차, 석 달 만에 '내수 1위' 탈환…기아와 누적 격차 다시 벌려",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YdmJCNnN4VFo2aGtVaFVDalJkZU8xLXlyQmtKQzY4UkcxVFVETDhzTGw5TFhTZ2s0V0Q2cmpQaWlJMm8yRnRHeEc2X3JYYzBPT1hRQjloQkNkTGhvamF6akU0WGdhMlZJQno1TEI2VldXenpEZ1paN9IBeEFVX3lxTE5YdmJCNnN4VFo2aGtVaFVDalJkZU8xLXlyQmtKQzY4UkcxVFVETDhzTGw5TFhTZ2s0V0Q2cmpQaWlJMm8yRnRHeEc2X3JYYzBPT1hRQjloQkNkTGhvamF6akU0WGdhMlZJQno1TEI2VldXenpEZ1paNw?oc=5",
       "publishedAt": "2026-10-01T07:22:47.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -154,12 +211,12 @@
       }
     },
     {
-      "id": "ac9c54fd298f3c5d",
+      "id": "56ec55b44cba5731",
       "title": "기아, 해외서 70만대 넘겼다…3분기 판매 ‘역대 최대’",
       "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNHE3eE5kWk5tcUxvM2hFSmZ3ampVOElzSnBEOE1VNWdwMlI3TjBwRzVFdFl2UG9JbmxsWEpLZnJrVHd2ejlmZzFPSzRmeFdCUDJPb0hwOHVjX25DQWFLRkJyQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yYWp6X2lqQ3V3UnF5QUVtZjRScHg0NE1XUUJxN3dlRmJyaVJqenJzUFpXenl0MWVHTEJBVHgxUEswXzMtQ0ZsY1hISkh6a1RENmo3WnhjNnZLUWEtYTFlazRn?oc=5",
       "publishedAt": "2026-10-01T06:47:21.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -183,44 +240,12 @@
       }
     },
     {
-      "id": "d087702238b45fc9",
-      "title": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 산업 생태계 구축",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ncE5NYXIwa3l5b3VsXzVrRldOY21pOWdxNmdIMUxPX0oxY042TEpWN0lKTkVvUzdFTjdMamI2UlNMUWVjajNZVkNtY1VwZw?oc=5",
-      "publishedAt": "2026-10-01T05:07:20.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 산업 생태계 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e1c00d42a1d56ff8",
       "title": "기아 '스포티지', 獨 자동차 전문지 평가서 연이어 호평 - 머니투데이",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91d0VNc3JyR0haanNHbGJCT283ZE9BaWx1dkZGRmxNMHFwR1NXVUR4c2ZmaS1vM0k4MUx0Uzl2bldMMENMRVltRDFiaE5WZnA0bUNHMGpYYUhwQWhJb0N3M1h4ZmtxMXMzU3RjeHlQbnlGQdIBckFVX3lxTE91d0VNc3JyR0haanNHbGJCT283ZE9BaWx1dkZGRmxNMHFwR1NXVUR4c2ZmaS1vM0k4MUx0Uzl2bldMMENMRVltRDFiaE5WZnA0bUNHMGpYYUhwQWhJb0N3M1h4ZmtxMXMzU3RjeHlQbnlGQQ?oc=5",
       "publishedAt": "2026-10-01T00:41:59.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -247,7 +272,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VDVlWDV5ZGdiOUdwU0JyQ013TkJ2a3ZJcEhQRHFPdFpHdkRfX1ZHdUpHSUdGd09FM3BQd1p5UDdJeDg4RE9uT19WUjJ3azhKMWdFOTk1aGJJVGdV?oc=5",
       "publishedAt": "2026-10-01T00:38:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -269,39 +294,12 @@
       }
     },
     {
-      "id": "2bfc5fc07a55a0c9",
-      "title": "기아 스포티지, 독일 전문지 평가에서 맞수 마쓰다 CX-5 제쳤다",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aExabzMxRkJkVWliTHpGaG1yUDlWR2pCcnIyTG9FUzU3TWtSMUtrRHMzUjdkeEdHdmMzUXUzUVJmT2ljZUFTWjE2eFNOMVBYZmxpQXBlYkVRMUnSAWBBVV95cUxPNHZFZXQ3YnJiSDlQMF9IOXhlcGtvYldIUjlHNDk2cktJTHNOaUFyTm40eUtfMEl4bFlWNUw3cWJXVEVrMW5YWnBYZlEzSjZtTXlQV0ZMQnpYSTNwMTlnb0Q?oc=5",
-      "publishedAt": "2026-10-01T00:05:28.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아 스포티지, 독일 전문지 평가에서 맞수 마쓰다 CX-5 제쳤다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9c09f937f8a764b6",
       "title": "현대차·기아, 포드 제치고 미 3위로…연비 규제 완화도 호재",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pUXgyZHptYXBPdkxYRUhZcWxDNE9aV0lCeWJ2ZmJRYVhqMURJa281SF9EeVROUmlobk8zVDF6Vm5RblV0SXY2UHR6VFVqVldMa2JBMWxtc2FyaFNXZmRCUmtB?oc=5",
       "publishedAt": "2026-09-30T11:24:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -328,7 +326,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkcxLWpNdGJDeTV3dHhOaGNRTXN4djEyMXZ5SW5nSldjODhrZXJES3JmMGJNR3ZGVjYzaGhDTUt5RVYzNGp0TUQwVUg3R0xuWExRbWpEZTZHV3dZN0cxS0RXa1RJcTNtNmtsdE5KblZxaVlBc29WYVU1R2llZk1EVDFnNzZtQQ?oc=5",
       "publishedAt": "2026-09-30T09:00:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -355,16 +353,11 @@
       "source": "법률신문",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UQUNXOE13ZzA4bE45R0Y0VlQ3VHlaX1Ytb3BPUGwzNzYtWGJGMnM3YmxqTlRvTUhkc2VYM3lyOGgtcWlCMk5VUnF1T1k1VVRGOUNlVUIyMjd4U2tRR0VOaVJhY3FpTzVjMnptd1oxb04zZ9IBckFVX3lxTE1UQUNXOE13ZzA4bE45R0Y0VlQ3VHlaX1Ytb3BPUGwzNzYtWGJGMnM3YmxqTlRvTUhkc2VYM3lyOGgtcWlCMk5VUnF1T1k1VVRGOUNlVUIyMjd4U2tRR0VOaVJhY3FpTzVjMnptd1oxb04zZw?oc=5",
       "publishedAt": "2026-09-30T04:46:52.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -386,10 +379,10 @@
     {
       "id": "6b448164021bddef",
       "title": "美 연비 규제 완화…현대차·기아 수혜 보나",
-      "source": "시사저널",
+      "source": "sisajournal.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNDhBMW9RLUpxRHRBZFVOVXVyWDlaY2d5X1E4QWlvdFdXRlZSNXNxVlFkd2M2VnVJWS1WV0dGa1c5a1dFTnk1RFlZVVBJNFJyWDN3eXQ0VlJIaE9sUkxTeVBfRndPdm9wRU9lODR0eGVQTVXSAXNBVV95cUxNSTQ4QTFvUS1KcUR0QWRVTlV1clg5WmNneV9ROEFpb3RXV0ZWUjVzcVZRZHdjNlZ1SVktVldHRmtXOWtXRU55NURZWVVQSTRSclgzd3l0NFZSSGhPbFJMU3lQX0Z3T3ZvcEVPZTg0dHhlUE1V?oc=5",
       "publishedAt": "2026-09-29T07:16:31.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -416,7 +409,7 @@
       "source": "위클리피플 인물지식가이드저널",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeFdQY0VkV0J4Nm9FSDYxUlBPcjdPaGl2cHpTTjF1T0QwY1lQRGJzVHlsQU4wNkJHWWxoWUdoRUFLSnFwMXU3X2VYN3QxV25IbWI3ckdFYzRUQQ?oc=5",
       "publishedAt": "2026-09-29T06:02:10.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -443,7 +436,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QeWZ1M25uTkQ4ZGEyZ2ZlZ3lEc08xT0x4azFVT0ZzQnFtQUdrdFZtZi1Jb29pVzNaVEZxeWtXRWZsUk9yOUlELWRHOGw5RS00RnBUOGZrR0dwbHdt?oc=5",
       "publishedAt": "2026-09-29T03:06:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -470,7 +463,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXRqc0Q4aWhqR2FvTWdDOGQ5Q2hNcmluQjU0OHU4QnhLSGYtN2dnMmc1eFc5Nm0yZ0hnQ2ZIZ1VfaU5JTF9KVm1jcVFXOE5kSW1qdE4xMW1tTEhzanZ1azFlT09fNGhwRkg0QU92QVYtdkE2eGJLTUFLWUFTNG1ZQlJXbEpVdTZn?oc=5",
       "publishedAt": "2026-09-29T02:06:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -492,12 +485,39 @@
       }
     },
     {
+      "id": "c88fa454201d4516",
+      "title": "노무라 \"美 연비 완화, 현대·기아차에 기회…테슬라엔 부정적\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nR29VdXVRTFBwVldlU2pQVlRMb1k3Z0JoWXNSU3V6OEJQdkQtUEJJZ3M2MnFMVm1iVWxYTXNEOUlRUHZ5anVBa1d4SUpiYVdaMDV4V0cxeWNsM242cUViadIBYEFVX3lxTE1nR29VdXVRTFBwVldlU2pQVlRMb1k3Z0JoWXNSU3V6OEJQdkQtUEJJZ3M2MnFMVm1iVWxYTXNEOUlRUHZ5anVBa1d4SUpiYVdaMDV4V0cxeWNsM242cUViaQ?oc=5",
+      "publishedAt": "2026-09-29T01:53:55.000Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "노무라 \"美 연비 완화, 현대·기아차에 기회…테슬라엔 부정적\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8d3582957c1aa6fd",
       "title": "“합작사는 안 된다더니”…기아 중국 법인, 가격전쟁 뚫고 반등한 비결",
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1V0UjlOOWsxWGVWZDdYXzhnYmFMTzB5NFZ2STlNWmljY3U1OHh5Y1JQUm1zOVQxMkdJdFNXVmFIdDVhN2lyQWk3UzR5MjRxRUR3NU1lZkFmRlFkY0dEalJwTXE3QjIzSU9OYXhPVTc5aFJhSFlleTk4WjFmWldXdzRtaDdGcHlK?oc=5",
       "publishedAt": "2026-09-28T19:10:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -526,7 +546,7 @@
       "source": "비즈월드",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZ3g3cGluM0thWDdZN0tlSmpFa3BMUHhMMTlOeUxZUGNEUmhCYVhiLUVYQTFKSzdtZ3N1Y0ZGaDkyNnN5akJBUDRlRVNVU0ljZmlMTmNlUV9NN2dqeEc5ek1CVTJ5eHNJOHpJ?oc=5",
       "publishedAt": "2026-09-28T17:05:00.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
+      "collectedAt": "2026-10-01T17:12:05.466Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -538,33 +558,6 @@
         }
       ],
       "summary": "넥센타이어, 기아 '2027 쏘렌토 하이브리드'에 신차용 타이어 공급 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a4b944769d135e1b",
-      "title": "넥센타이어, 기아 쏘렌토에 신차용 타이어 공급",
-      "source": "m-i.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzNEdSNmhhYjB2Z1E1M2NrTUF0TS1keGlTOW5vLVhpSlBFcHk2MmRNOGo5WjJ3UmloMjV5V25BN011eHJhek56bVdORExfNHFQNEJkbUtob0ZpbE1TWGhXbXNiWU4?oc=5",
-      "publishedAt": "2026-09-28T07:54:48.000Z",
-      "collectedAt": "2026-10-01T09:37:08.187Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "넥센타이어, 기아 쏘렌토에 신차용 타이어 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
