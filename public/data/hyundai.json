@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:53:41.548Z",
+  "generatedAt": "2026-10-02T09:10:44.186Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "현대자동차, 디 올 뉴 투싼 美 뉴욕서 글로벌 무대 첫 선 | 뉴스 | 현대자동차그룹",
-    "현대자동차, 미국 뉴욕서 '디 올 뉴 투싼' 선봬",
-    "현대자동차, 국산 자동차 기업 브랜드평판 2026년 10월...1위"
+    "현대차·기아, 미국 분기판매 첫 50만대…하이브리드가 '효자'(종합)",
+    "[AD] 현대자동차, 가정용 전기차 충전기 구독 서비스 '마이홈차저' 출시"
   ],
   "articles": [
     {
@@ -19,8 +19,8 @@
       "title": "현대자동차, 디 올 뉴 투싼 美 뉴욕서 글로벌 무대 첫 선 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk9iSFd4T0JBYXl5eGZ0U1k3ZXI1aUxQV3dxQkMxVE45T0pqbzRhaG1rMWpPMWFSYnloZWNvdjRTR3gtRXdlcmR0Yi1ZcFJnX1NBOV9Ram1oX0FDVVM5NlhiWkdfQ3lMYUVZOUltbWFhRGlzR3Y3SU1Zb1J1ZDdGWFBJbXhDMm4yNS1hYWZURDRMZHVnXzA0Zk4tSjFUWkduajJ5b0xqOA?oc=5",
-      "publishedAt": "2026-10-01T23:39:00.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "publishedAt": "2026-10-02T08:43:13.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -42,12 +42,98 @@
       }
     },
     {
-      "id": "1a4841f4daa772b5",
+      "id": "3586943b3f01561a",
+      "title": "현대차·기아, 미국 분기판매 첫 50만대…하이브리드가 '효자'(종합)",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rRVp3Q0pBQk1NWThLRkw2WWo0eERXNHZKLVphM0xta3lPanp3akE2c0NxR0tFWE1GenVsa3JxQmRrd2czcmNscXh5VTAtSnBfSkhsVw?oc=5",
+      "publishedAt": "2026-10-02T02:46:00.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, 미국 분기판매 첫 50만대…하이브리드가 '효자'(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e7e30429f9a2785e",
+      "title": "[AD] 현대자동차, 가정용 전기차 충전기 구독 서비스 '마이홈차저' 출시",
+      "source": "OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ia0NPNkJrUUhvOHJySnVhWmJjZ1NCa1YyRnNLbEx4dE1OY1lRcUFpVHhDQWhUblJxNVRCVXBzOHh4QkEzbFdLYkdPZWpPU1d0RzZzRg?oc=5",
+      "publishedAt": "2026-10-02T01:12:00.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[AD] 현대자동차, 가정용 전기차 충전기 구독 서비스 '마이홈차저' 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f014ecf401abcce5",
+      "title": "현대차, 美 뉴욕서 '디 올 뉴 투싼' 공개…“역대 투싼 중 최고”",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FelItcGNZeDhDQngxQkpWcTlZT3Y1S1hQMlBLX2NOZDd1WUxwdFZZQldMNFJqMUxHMTlfLVBTOUVibU5HTGtGeWRGZm9udw?oc=5",
+      "publishedAt": "2026-10-02T01:07:20.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 美 뉴욕서 '디 올 뉴 투싼' 공개…“역대 투싼 중 최고” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c7b390558bba6176",
       "title": "현대자동차, 미국 뉴욕서 '디 올 뉴 투싼' 선봬",
-      "source": "연합뉴스 한민족센터",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwVzNXQ0dXaHRjdVByb29wZ0VDYVdKZE9wNG9saHpxenB4Uy1hMlZvMjJhMWtsanE3Y3NZd0d2WXpnYU4ybDNwVFQ2a1B3bUNhQUFtRmZDNjl4OGlMbmkyNVFYY1BZTTJvTzhsN0txOG8tYzJj?oc=5",
-      "publishedAt": "2026-10-01T23:16:41.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44OGY1RV9zcGNic1ZJazFLYTdaczBZUFB3amlOZUh2Q1ZmUU9zcjdPUFVxMEpiRWVUOG1Eaml6d2dLcW4zeXVqenFMRkF2X002d0Z3VFctTXVNdE14TFRJN9IBYEFVX3lxTE44OGY1RV9zcGNic1ZJazFLYTdaczBZUFB3amlOZUh2Q1ZmUU9zcjdPUFVxMEpiRWVUOG1Eaml6d2dLcW4zeXVqenFMRkF2X002d0Z3VFctTXVNdE14TFRJNw?oc=5",
+      "publishedAt": "2026-10-01T23:16:53.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -74,7 +160,7 @@
       "source": "비욘드포스트",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rMTJkcWZYYTBhcmpfZ1NCLWktOVpjN1ZqQzl1UU1xS1hpeldDeFpiMm9fQ082aUlHRnN0b0RQNzJFeHZNeFIwOVVjYzdSMWtORXJfSktHTUwyTXBtTG1aa0ZoQXhnWVg1WngzWGxyNWZkb2Izb0hXZ01fR0Q?oc=5",
       "publishedAt": "2026-10-01T23:06:28.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -96,12 +182,12 @@
       }
     },
     {
-      "id": "a97dab7a829e871a",
-      "title": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ub2xkMUdxR0xKUFNMb2V4c2RxRHBHUGhPOGpUX0NpS1lkVDlWUFpKb1JkOTdsTHFnLW16NWdFTjhUUjhpRHIza0xiQllkTEtFNVFvaTVBU2FVdw?oc=5",
-      "publishedAt": "2026-10-01T15:40:39.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "id": "a066ba0c94a42e9a",
+      "title": "기업가치 반토막 난 현대차, IPO 군불 때는 보스턴다이내믹스",
+      "source": "인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1liUjh6QWZtTFg2dzhCRFlyQnNVMVF3OTBkdHdZUkFOLUFGU1ZxUll4WVJrNndONTQtV0UxbTdDRTZSWFpheEc0YnRVdFliS3BRejllREFZVlU3blg5VDJSTlhBb3Q4aFpvRnJQVlFhbXFjVHlTdUdHNDB3STdlVFgwdw?oc=5",
+      "publishedAt": "2026-10-01T22:33:10.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -112,40 +198,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "58b24681fccc9273",
-      "title": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yWGR1YWc4TTB0aGxfTk1xVHozRzNTY0tILTl6by1Qbl85a3ZZaURDZWd0aXVvSldwV3J3ZUV1S0Fkby1JOW1vV25tQXVUV3BpUFEtTkZsSlJ5NHdRZVlXZE9Wb3oya2MxNnBZd3hsTnFsNnRr?oc=5",
-      "publishedAt": "2026-10-01T09:03:20.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차, 9월 글로벌 판매 16% 감소한 30.8만대…기아는 5.1%↑ | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "기업가치 반토막 난 현대차, IPO 군불 때는 보스턴다이내믹스 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -160,7 +214,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LWJSNWlGX3BfbzYxLWZHLVAtcDAtLXR3TFQwV193LUpsYkdaM3M3QlZLaThIU1pjdWRhajI2d2V0ZnN5TjRtQTNWUFA5RG1EcDdhamhBY2NhUQ?oc=5",
       "publishedAt": "2026-10-01T08:41:14.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -187,12 +241,120 @@
       }
     },
     {
+      "id": "fe3d51fb58b202c6",
+      "title": "車수출 감소에도 돋보인 '기아'…현대차도 부진 해소 '기대' - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZUQ4eWU4WkViMzdQYkVFZEl5Vng3SXMtUmI5SGZrNFJOMFVTXzBCNUx0cENqUF9zTnFlelVOWnBvdlJLOHRQc0lFYjBmNk0ybFVqbXAwT0l1R2JOTkNRZ2RxM0p3UEJDeHV1ddIBckFVX3lxTE1nd0tGUWhwOGU3d3luckVYSmF0X0V6VjdQN1VpRlRxZ2J0cEFJczlwTXg5V0t6RlpZY0RvTzA3MEsyZjhuSWptS3BjOVkwanZMYUF0cGptRUNrTEFRY3pSc0x5Z3d0Rjd5cjlNOTc5WkxqQQ?oc=5",
+      "publishedAt": "2026-10-01T08:34:00.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "車수출 감소에도 돋보인 '기아'…현대차도 부진 해소 '기대' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "306f1e14d7e53909",
+      "title": "기후부·환경공단·현대차그룹, '국가 플러그 앤 차지' 인증체계 첫선",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qSW43V0tDd1RhRFQ4Y2tXMDlPN1JnZk5ZRW9jb0Z2WXp6NjB3WFh3YXJVYWJpaXI3c1lKcDBXR0lTNm5JS1FMVnlhWlFCWG41dmlrMkJtdkJDblBzYm5oMtIBYEFVX3lxTE1qSW43V0tDd1RhRFQ4Y2tXMDlPN1JnZk5ZRW9jb0Z2WXp6NjB3WFh3YXJVYWJpaXI3c1lKcDBXR0lTNm5JS1FMVnlhWlFCWG41dmlrMkJtdkJDblBzYm5oMg?oc=5",
+      "publishedAt": "2026-10-01T08:07:06.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "기후부·환경공단·현대차그룹, '국가 플러그 앤 차지' 인증체계 첫선 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8d2004d229b76ff2",
+      "title": "타이어 번쩍 든 ‘아틀라스’…현대차 공장 투입 앞두고 실전훈련",
+      "source": "joongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUZ1lyc2pjVnNiTVlWdlROS0xieUR5ZTFfRFh4YW9aSEwwMURxNVVQSU1ua29wbWY0MXlBNnpUMXctWm9uNXQxNXFDVTVxeUNWZ2RBZk13?oc=5",
+      "publishedAt": "2026-10-01T07:34:05.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "타이어 번쩍 든 ‘아틀라스’…현대차 공장 투입 앞두고 실전훈련 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "863d2a94ce10dabc",
+      "title": "현대차, 9월 판매 30만7998대…전년동월비 16% 감소 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5NmpIcjd5SVhENjZCOUVfcXpVYlBHZGZGalA4eElVak94eENub2g2TUk3N2JhZXoyUm9TYmJLN0tzSVhRS1BYajkwT1gtTTlSS3ZIaGdKVGphRWU4NFhRVXNQNEZBNDJkRlR4NdIBckFVX3lxTE5ETk1CRFE0OVMxS1E3Rnl6OFBfV2VtTVM0RTAxZUNlY19PWVVsQTFGdEhOcWZDUm51eHFmYmwzUVJKTXQzTWJ3ZmhSYVRIM2t0c2lxbW5yS2pvUjRZcmVINEZWSDUtR1hhci13OWkzOGpuUQ?oc=5",
+      "publishedAt": "2026-10-01T07:08:28.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 9월 판매 30만7998대…전년동월비 16% 감소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8d08b357785ebb82",
       "title": "현대자동차그룹, 동유럽 생산 거점 확대해 유럽 시장 공략 가속화",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91dDVfSURXSG9mTUdYdk1LbUMxQ0ZiWUdQVVprVmwzQWd4Nkd3U0gtX1ZHM3BMWnZUMXpkOG1Wckt6NmpYVVgySzh3UVBOZTA?oc=5",
       "publishedAt": "2026-10-01T06:33:59.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -214,12 +376,12 @@
       }
     },
     {
-      "id": "904bee9c21c7b1b1",
-      "title": "현대자동차·기아, 서울시와 레벨4 자율주행 시내버스 상용화 및 산업 생태계 구축 나서",
-      "source": "주간현대",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwaVBlWmg4T2loX2R3ZWtBVTI0TEI4UGlGeVV3akFQMmpyeGY0YU9UQ2dzaHdtMG84RDNocEp3V2VTQVU?oc=5",
-      "publishedAt": "2026-10-01T06:28:00.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "id": "d087702238b45fc9",
+      "title": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 산업 생태계 구축",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ncE5NYXIwa3l5b3VsXzVrRldOY21pOWdxNmdIMUxPX0oxY042TEpWN0lKTkVvUzdFTjdMamI2UlNMUWVjajNZVkNtY1VwZw?oc=5",
+      "publishedAt": "2026-10-01T05:07:20.000Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -228,36 +390,14 @@
           "id": "hyundai",
           "name": "현대차",
           "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차·기아, 서울시와 레벨4 자율주행 시내버스 상용화 및 산업 생태계 구축 나서 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "aa2ebde3cb8d273b",
-      "title": "현대차그룹, 도로공사와 피지컬 AI 실증 나선다 |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3cDNYTTZ5TTVkcUFDbUs0Z3U2TU1XaDdyMnJaNkFObWdTZ0VxLTFsb3ZCVllKRUVnZXp5ZHpzVHZBUkI4cXhuU3BpdHhuVnFpVG1ZUDFJbHdBYkxZZFM4bjdlc0p4UXltSGxlcEhMNVpqaldU?oc=5",
-      "publishedAt": "2026-10-01T02:10:57.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
+        },
         {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
         }
       ],
-      "summary": "현대차그룹, 도로공사와 피지컬 AI 실증 나선다 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 산업 생태계 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -273,7 +413,7 @@
       "source": "헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVmQ1bkhjcGFmcVdpM3RlY18yYkI5MHdXdUh4YzlBeDc0eEI0R0gzYUZRMURnM2htVjNIM0djMlE0Ym1OWlpKLWJ4ZlhoTmNOUnNBUDNB?oc=5",
       "publishedAt": "2026-10-01T02:09:07.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -300,7 +440,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81TWtYUW1zTmg2Tzk2YlkwWVp0STFBZG55TkFjME51R2V6RWZYaGxfZ2NRTXpINVJFWU9ULXNTT09YWTVNbEd5dUN4OU53VWtuNlZLcTVFSUhubUJRMWUwUjVWLU9BSVRscUs2cXF6eC1xNS1PdW1qMjdZTHRpblk?oc=5",
       "publishedAt": "2026-10-01T01:38:47.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -322,147 +462,12 @@
       }
     },
     {
-      "id": "f3e98244ffcea248",
-      "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력",
-      "source": "yna.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YV9sRTVQdHVTbElubzM1QVB6SXp6MnFOR19Semw0bld4VkFfVUEyTFFuU3F2ZXd6djB5U2hMVWtXN1lydVp3ZVhESE9OVTFSWE5aUkFfb2FwdHh0NzI5TNIBYEFVX3lxTE10YV9sRTVQdHVTbElubzM1QVB6SXp6MnFOR19Semw0bld4VkFfVUEyTFFuU3F2ZXd6djB5U2hMVWtXN1lydVp3ZVhESE9OVTFSWE5aUkFfb2FwdHh0NzI5TA?oc=5",
-      "publishedAt": "2026-10-01T01:31:31.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "80ac574f7f888cae",
-      "title": "자동차 AI가 들려주는 동화…현대차 차량용 앱 공모전 대상",
-      "source": "yna.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15dFBWTGQtWHV2X1cyaXFUSFNxNUJHSHlGMW5tU3FVU1VZaU52ZkFvbHpBYTNhYWVxaFB1UjRvZHJIeldudG05ak5VenliTmRZbVZOak00bVFOS1I3a3phVtIBYEFVX3lxTE15dFBWTGQtWHV2X1cyaXFUSFNxNUJHSHlGMW5tU3FVU1VZaU52ZkFvbHpBYTNhYWVxaFB1UjRvZHJIeldudG05ak5VenliTmRZbVZOak00bVFOS1I3a3phVg?oc=5",
-      "publishedAt": "2026-10-01T00:33:53.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "자동차 AI가 들려주는 동화…현대차 차량용 앱 공모전 대상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e7082eba03a9ea93",
-      "title": "전국 고속도로서 피지컬 AI 실증…현대차그룹, 도로공사와 맞손",
-      "source": "yna.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZGc3YlZZMzFOWld1VjdOb29YWHI5TUo0MTQ5UnpuVHVrNm1SNnhiQW5kbXpKSmhGYkFtMXp0czFURWZvWG1VM2xzR0llU3R3VU9yelFZUUZfdEswd283aNIBYEFVX3lxTFBWZGc3YlZZMzFOWld1VjdOb29YWHI5TUo0MTQ5UnpuVHVrNm1SNnhiQW5kbXpKSmhGYkFtMXp0czFURWZvWG1VM2xzR0llU3R3VU9yelFZUUZfdEswd283aA?oc=5",
-      "publishedAt": "2026-10-01T00:06:17.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "전국 고속도로서 피지컬 AI 실증…현대차그룹, 도로공사와 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "38588d8116aadb9b",
-      "title": "현대자동차, 플레오스 커넥트 공모전 대상에 ‘창밖동화’ 선정",
-      "source": "PRESS9",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZFlOVnFUQVhhNG1abGJwQk5RZWJQZ3RyMkU4OUd4Q3czbUJuUmJ6SW4tcnQ2bHRZRkNDSXkyVjlHWEhBQld6bjEzb3NUMlBtaFpVYlhZSmNLVmdqZXFFLVAwYi0?oc=5",
-      "publishedAt": "2026-10-01T00:03:33.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차, 플레오스 커넥트 공모전 대상에 ‘창밖동화’ 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1838900d4947a52f",
-      "title": "현대차, 플레오스 커넥트 앱 최우수 고객 제안 아이디어 공개 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkVVOU5TYWdCRzl5NXpBY0c2T1BaM1g3OU9iVDAxUURBaVBLaC1hOWNtelFOMkQ2Skw4c2NXX003ZUNNT3cxQ0R2VldqSUFVNk1JVEgtYnN2MmZVTEhOMDhIeE1UR1JzY2M1VjJSZHdjSklISTVoSllhOG1UVWVLTjZxbVI3V2FYUmZKeFhHN2pnbUYxc25aT2JYZHhPVGNwN1E?oc=5",
-      "publishedAt": "2026-09-30T23:30:00.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 플레오스 커넥트 앱 최우수 고객 제안 아이디어 공개 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d336189f451c03fb",
       "title": "[최기자 시승기] \"플래그십의 품격에 실용성 더했다\"...현대차 신형 '그랜저 3.5 LPG'",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWIzSjVFVjYzX25FVlpLSVVzZXotZzUwRzBQTEt2WUREeGJTZ29MTUduRFY2TERUUzZRR0g1eDFVMEZLY2VGNGctbnlleFp5amR2MkRpYjFWVXRMOWZuNWl4MmpYRVQ1UUhZT3B2aFBScnljN21vd1BMak1HSDB0Y1hONUd6UQ?oc=5",
       "publishedAt": "2026-09-30T15:07:18.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -489,7 +494,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRGt2M2Q2ZUN0eXlNOHZIM1owZW1YWVhHUUlIaGJZWTNGNDMzQTc4WTN2THlQWVBPalNvZjhoTlhzUGFrd0s0RjRyNFp2a29sQVZOaWhPazFCdVdQd1hva0tzMXNkajA?oc=5",
       "publishedAt": "2026-09-30T08:23:00.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -513,10 +518,10 @@
     {
       "id": "18c282b6c961f3ee",
       "title": "‘이젠 내 집에서 간단 충전하세요’ 현대자동차, 가정용 전기차 충전기 ‘마이홈차저’",
-      "source": "스포츠경향",
+      "source": "sports.khan.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yVXRqMTM3UnE3el9Ld0tjb2otTFA4ZDF1RkxMSG9CSVBvQl9OQXpkN19WeFhYVllfQnF1cEtqMWJJWGxEcDk5clFzSU1yNXg4UFZVX3pVSVFQMTk2T3fSAWNBVV95cUxPOS1adVZURGtweTJjTkxKQ1FKSFdqWF8teDVZN3o2TkY1RHBGVm9Ta1ZmUGtyY0RvSW56MU9PZFc4ejVLd1NELUY5Q0VEd2tpbXVrdFp4LVdFdlhia0VWUENuNms?oc=5",
       "publishedAt": "2026-09-30T06:23:00.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -543,7 +548,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95dDFoWm9pelllYzctaTZvVWlrdG5mTVlUQlMtQllGYTRhUFphUXF2RGEwU0tHYkYwSmh4SFdVTW5uZUg2amRCTW5KSm5wNjg?oc=5",
       "publishedAt": "2026-09-30T05:21:19.000Z",
-      "collectedAt": "2026-10-02T01:53:41.548Z",
+      "collectedAt": "2026-10-02T09:10:44.186Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
