@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T09:10:44.186Z",
+  "generatedAt": "2026-10-02T16:25:26.239Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "LG화학, 전장·반도체로 '양극재 부진' 돌파구",
-    "이녹스에코엠, 신임 대표에 LG화학 출신 정철근…실리콘 음극재 강화",
-    "LG화학, 육군 AI 활용 역량 강화 지원"
+    "한국이 때리자 유럽도 맞불…LG화학·한화솔루션 PVC 고관세 폭탄 예고",
+    "이녹스에코엠, 정철근 신임 대표이사 선임"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyVG43QXFuT0cxQUx0cDQ3M0tXcmF6Wlh6TDE1S09GSk1IbEp5cWZreUlWemFLZkxiWHJUWkFEbGhLS19nX0tMdzQtbC14TGQ1WnhiMDFhQ2lqMEJzdXVuQlNWWVRiZmRfdThXNmhUc9IBc0FVX3lxTE1PMGN4MzVjVHduaVdsRVE4T1JUNjBoZEl5a0FEQmREUExPZTJ4Q3N0OGJqeTZacnVBMUdXRE0ydDh0US1zRUxROUF4bm4tcG1DeTl3YVBCYjRZQnNCNl9CbGJOV1ZoU1JFYUlQRHpuTk9kVEk?oc=5",
       "publishedAt": "2026-10-02T06:15:46.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -44,12 +44,66 @@
       }
     },
     {
+      "id": "bfed129f0a3adb54",
+      "title": "한국이 때리자 유럽도 맞불…LG화학·한화솔루션 PVC 고관세 폭탄 예고",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzckpiQlRCRjN0dTV5MVdUUkpsMkk4NXNKVHpkWWMzVDV6NHAtY2tZT0c2RDJwWjdpRDRNRFpmaG9KZ25CT1hNeGRaOHhFN0JXdWhGSnFWdXh3ejdhZ1VFRmNGaw?oc=5",
+      "publishedAt": "2026-10-02T01:14:23.000Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "한국이 때리자 유럽도 맞불…LG화학·한화솔루션 PVC 고관세 폭탄 예고 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "540ae631a91da417",
+      "title": "이녹스에코엠, 정철근 신임 대표이사 선임",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtblRwN0xkSDY4T3BGTUdVcTh6VjZjOWZndDBxSEZqcTd0bVpLLVJkWGd1ZmdmcHJHWU9OOUVTV3JaSl95djVjanl6Vl9FR0loQnNQQzBDaFB2QQ?oc=5",
+      "publishedAt": "2026-10-01T06:27:03.000Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "이녹스에코엠, 정철근 신임 대표이사 선임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "de440396898ea396",
       "title": "이녹스에코엠, 신임 대표에 LG화학 출신 정철근…실리콘 음극재 강화",
       "source": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54bDNheEdkQ3RKTVdMU3NZenNveVJhcm80NExnbV9iU3NxLW5EN3d1dGdSTkFRMUZ3QmVUenVhMXp3emVqZ1hINl95T0JjcVN5eDdlOUNoSFNvZHQwRjVsVVFyN1Nnd2J1NEZHbjZ5SVBrZWM?oc=5",
       "publishedAt": "2026-10-01T05:58:03.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -76,7 +130,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56a3o4YmhkQzZMUHYwdkpQWmFzZ0swOW9QUExTNW9uNlN6N1M1dXBtaGJxamtrQTFtbjlEc3laUkhUUEVpaXg4WGF1TXc1a3M2Z3RJZFdlZGRnM1d6V3E1bEJIbHjSAWpBVV95cUxPX3NHb1RBQWk2b2VHcGJwZU5neWxfaHBiZXFsOF84MmdGbEdzRG5IMEZnSnp5YnQ0N0RfX2tEczZkSzgzWV9nMjZPQ0RnZkRIWG1QdGJ5bkV3SEFUZ2pxc0hkaWl4UDRDbEpB?oc=5",
       "publishedAt": "2026-10-01T04:52:48.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -98,39 +152,12 @@
       }
     },
     {
-      "id": "bb3c770d27147f55",
-      "title": "檢, ‘16조원대 석유화학제품 담합’ PKC·LG화학 임직원 등 43명 기소",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHZpUnowNjJDVWRqVURxV1piUkhwNXZ0RUIxVExUZi1WcVJOVTlXeHN0SnR1Z2ZORVlyR2VnbEdnek16LWV2SzNFRHZtWFZaclJGU1diTFhqaUtGaHhrNEhUbDJ5MlZOcGdqSVpDTEVDLXFPRHZ1dTBSWE14aTN1TXk5SWI2dkk?oc=5",
-      "publishedAt": "2026-10-01T04:50:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "檢, ‘16조원대 석유화학제품 담합’ PKC·LG화학 임직원 등 43명 기소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "59f01a6759cbf49f",
       "title": "[단독]LG엔솔·LG화학 '2사 1노' 끝낸다…분사 6년만에 노조 분리",
       "source": "edaily.co.kr",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEJaTXczbjc0TW9oR2t6S3VWcE5rd3VsZ0xVNC1hMGhFcUhiSDdQVC16VkZZaVRPb3pqdG5tRlBRTWpaSlBTNW1JX1NUUGVVVFhtOEFmZHQ4Zk9Ia3BWODBOQ01YYmUwZGZsUXIySzhxeGFuMHJxdnNETVB4V3JWWg?oc=5",
       "publishedAt": "2026-10-01T02:31:34.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -157,7 +184,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTc1MGE3NDR2T05zNm1GdDNPOUJTUVFLbkl3ZF90eTJqV1RneEZidHRSU0J2TVlNSEFJb1RnSWVBWTdxaDlFUjA3cVR5b05BOF9UU211dXIySkV3am5QT2pGazlaMF9MZXlZa3hEbkxwTDJyay1MZGVpcjg1enhlRdIBgAFBVV95cUxNVTc1MGE3NDR2T05zNm1GdDNPOUJTUVFLbkl3ZF90eTJqV1RneEZidHRSU0J2TVlNSEFJb1RnSWVBWTdxaDlFUjA3cVR5b05BOF9UU211dXIySkV3am5QT2pGazlaMF9MZXlZa3hEbkxwTDJyay1MZGVpcjg1enhlRQ?oc=5",
       "publishedAt": "2026-10-01T02:21:43.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -179,12 +206,12 @@
       }
     },
     {
-      "id": "fc40e448e4c6152d",
+      "id": "67d90c0ee6bae591",
       "title": "LG엔솔, 싼 망간 활용… 차세대 배터리 양산 준비",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWDVXY2oyc3FRUXliaE5DYzFQR3A4d3ljN1pWUjIzUXJ5dUczY1pDY3U3a1p4ZTEtRVZfYnF3ZUJsMFBzS3lvZElrZ1RDSTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRS2toQVVtSmtPdkJfV3ZLNFZxN19fdldDOTZvLWxIa0p6eXNQUDgzMFZYZ1I5MHUxWE1WUXlMWG1ScFA0Z2dSUmlPNA?oc=5",
       "publishedAt": "2026-09-30T15:36:19.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -211,7 +238,7 @@
       "source": "데이터투자",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91OE4xQ2xMZllxaHVxQTNCOU5fOTNqalByN3BtOWUtT1hTQjVzcVdzb3RHRk5ULUJIMFlySGhEcmx0UUN2TjJXMTZsZTNnOGFzNEJVRmlqTU9Za1dGSUtaeDlwSXVCZUpSdHBBLWYtd0s?oc=5",
       "publishedAt": "2026-09-30T02:15:33.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -233,41 +260,12 @@
       }
     },
     {
-      "id": "7ecbb992510ae537",
-      "title": "[LG엔솔 IPO 이후] ①성장 기대감에 출범 '우여곡절', 이제는 전환기",
-      "source": "fetv.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYldGdldSTFRQQW1SNkxGYXpEZWkyVjNLWjVxUlZkQ21BSVYyajd2OXgtUUhjMHl3TEFvYmEtNDdUY0hxR2tHYjVZQ2VQSTJqM1dsQ2hhTERkcWVXS1dxQVFpcU9mQWYt?oc=5",
-      "publishedAt": "2026-09-29T23:27:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[LG엔솔 IPO 이후] ①성장 기대감에 출범 '우여곡절', 이제는 전환기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.28,
-        "confidence": 0.62,
-        "positiveTerms": [
-          "기대감"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a890da57169157b4",
       "title": "김동춘 LG화학 '석유화학 본업' 개편 넘어서 새 사업으로 새 판 모색 : 글로벌 화학·모빌리티 기업들과 '고부가 소재' 활로 위한 협력",
       "source": "허프포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1c012SVBvd1MwRE1YSHZXSkJFOXBmS2VONElUbGVrMDdVbmR5QnJ2RWdOSkJRejk2X3d4VnRRbVlSc1pTTFRjazEyLWotRHhOZXY4dVhlaw?oc=5",
       "publishedAt": "2026-09-29T07:50:18.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -294,7 +292,7 @@
       "source": "파이낸셜포스트",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRXo3SnR5Zm14RkpxZDN0dzRMbUR1a1RKMzFWRDFSTDF2ZE5RbERvOWExZnNxN1Z2VjY3bk1qeXk1TlFjTlVTTU1rdy1fLUgyWk10d3JYMUhiUjBFdnUtR2pnWXRsbkdiby0td0dGalprb00t?oc=5",
       "publishedAt": "2026-09-29T00:15:59.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -321,7 +319,7 @@
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01eURJdDJ4TVMzelh1amJkS2c0bUtDeW1DZXJrcWZhaUFZdU1rUWxNcF9za3ZmeUxHOFJfNzR3MDVZcEtPRUh4SUhEa0lnVG1WS2FpSlRqOVRoR3VkYjkxQ25XajB6TTRWUHhwOENrSHdkUQ?oc=5",
       "publishedAt": "2026-09-28T10:56:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -348,7 +346,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTlwTlpqMmNRNGxRcXFVYUYzb04tdE5TSjBtZ3E3d1RoOVNXcFRaQXBsTUxzc2E1c0xncFZDTnU3NG92TEtnRGxZaDl0R0p1Y0pqVjd6VWJpSDlrdTNwZk9tbDJ4VmdPNVVnN3RHWGVQQjlNUk90WTVVN2o5NklzbWJlQ2TSAZgBQVVfeXFMUFVPYmsxZXNnOWpPMmRkOUtsZWpXeTRsLXdJaUdiZzhtaTJiZm1TcjlLTzIxMFFtbWh2bk44YWtOLUs0TXhFZXRJX0h5R3lmMGlONkw3UU1sd3NpMFkySlBiQlZKNXh6MUt6MXNZbDh0RUhicV8zU0hTS0lSekZaekdpUDVsa3BaLXlnbmY0VHFtVC1HNUxDQUg?oc=5",
       "publishedAt": "2026-09-28T09:20:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -375,7 +373,7 @@
       "source": "포춘코리아",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hd25WMzNSaWVXbkZ4U3phODNXbk9xNGZhcTFOY0FjRzEydHMxOWZoSW5jU3IwSTRBQWNkWkRBM09mMXFjLUZ3clNSalh2Q1ZQTjBPNkVPdWtSc1VuQVBuMlphVUt0MVUyUnhsWUNPbnhzQdIBdkFVX3lxTE5vdHNfUG02dzJTbF9DeTBhcHQ4OXhsYThwS21mNnZiU1p1MDNqdTFpbXdwZms4LU1GcDF0S2NQNkN4YnRpMnRoQUtZSEgtWVBNcjVPcExTMC1IRFBQX1FGOEJZUDBIbm1aMDNHRHZaQlhpZW9hOEE?oc=5",
       "publishedAt": "2026-09-28T07:00:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -399,10 +397,10 @@
     {
       "id": "b2d0f0c94ca5c501",
       "title": "LG화학 4.16% 올라 26만3000원…배터리 소재 반등 기대",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vd0FtV2ZkZndsLTBUeGpOM0lmNGVFNnVhMXBIRjhlN3dueUNZZi1oLU4zLWw5akhtVnNpRXI2MVY3Nk9yS0FKOTB5WXBESFZOaU0yQ1o4TjA3QzZwUmRuWW44XzNiSVFLRHZCcVRn0gFyQVVfeXFMTllKTUFHMWRXSDM0aGhXVTR0NTdablh0XzFQam9SOTBUX1YxQktiZERFalNLS1JuV0dMLVpVYkxLMWloTHhWX0t3R0RKam01dU9uOHJYQ2dvLWdpcVUtWHc5cjIyNGZTeXFFU1g1bTBpeExn?oc=5",
       "publishedAt": "2026-09-28T05:49:06.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -431,7 +429,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oRkxlT283LXViU3Z2MEpVdHNYQW1jaU5KVk9IakpDa0VNTTZqclc3aExQNUNpcUNQVEt3OEdnNkhaZk1DTDh6aHhDTzhDVEJ6bzlLSUktTTRVQ1R0Zk1yc2tTMkR2Y1gyc1JlddIBcEFVX3lxTE5tSU50ekpaVHNFS1d4LUhNeWdXSkN1MmtEQ2NtejUtVWV5NDZjWDZYdTJ4WnBlbHFWVENNSUQ4MWdycS1oOEpxWG1YdkJfV2Q3aWVZWXZTTWRDOEcySjdRLXlMWWdRQXhzVDBHTllDRlc?oc=5",
       "publishedAt": "2026-09-28T03:57:07.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -453,12 +451,39 @@
       }
     },
     {
+      "id": "8a8431733714f7dd",
+      "title": "LG화학, 폭스바겐과 미래차 소재 동맹…글로벌 완성차 공급망 확보",
+      "source": "ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBET3FjbkhpWDMxRHRQZkdIajUyT1lMRi1ydXFIaDlsMVluMmotTmhiMlg5MVo0aWdpYjNyd0pCem1JQVpyb3JkLU9aRHZfM0NLREtzamFkZ2R0bUNXOUpzaldiMk5OX0Zn?oc=5",
+      "publishedAt": "2026-09-28T03:32:04.000Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 폭스바겐과 미래차 소재 동맹…글로벌 완성차 공급망 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "efe71eebe0d360ed",
       "title": "LG화학, 폭스바겐과 차세대 자동차 소재 공동 개발",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xLVNya1RRdGtYZG1hMWt4QU1NbGxCZ0piOHFOR1E0RlRzRlp5V1ZIeDFMSTFDQ1ZXU3FobFc5RTQ0ZUg5aEZYVnFqWWVuVU1iNW9nc1JmRERGMGJxOTlfR1AxRFVfUQ?oc=5",
       "publishedAt": "2026-09-28T02:59:01.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -485,7 +510,7 @@
       "source": "뉴스;트리",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RNXBsS1ZJMnJ2MWFDYXRBT0FLV2VNZGd0c0Y4OEtsQ1poZWN1Ny1NaExaSkczaGw4WlBNTlJaRml0U211VWhPZTJGcWRGMzBWSGZNbU5rdFZ6OGxK?oc=5",
       "publishedAt": "2026-09-28T00:51:34.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -512,7 +537,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmbmo5U0NReDNFMG0xbVdIZ181aWJyVjNnZjVHM1JEM3A0b2pDN1ZDTzZhSkYwMFlNU2M5YVhsai1mdTJXWGJ1ZENXeTBKc1hORXfSAVNBVV95cUxQdEhKeDBXM01XMFdCbWJYczYwMGh5cU9iRWtLTWd5M1A2cGJiYWNib3pta21zQzZaSnVuak9ZWmJSZDIxZV91VmdJenVUXzBXWVhrQQ?oc=5",
       "publishedAt": "2026-09-28T00:37:44.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
+      "collectedAt": "2026-10-02T16:25:26.239Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -524,33 +549,6 @@
         }
       ],
       "summary": "LG화학, 폭스바겐그룹과 미래차 소재 혁신 ‘맞손’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d3fe359934a2f7a6",
-      "title": "[모닝 리포트] \"LG화학, 배터리·첨단소재 회복 유효\"",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3amx5MmxPQm82V3YwaHVBc1hzeGlHZnl5eXZ6TWllVVZ2YnFDak1pMWpGMHZHVkt2aHkwbDNyRVNJUzVHS0p4ZHFxdFRrQlZSLWppd2NEcGEzZ094?oc=5",
-      "publishedAt": "2026-09-27T23:43:00.000Z",
-      "collectedAt": "2026-10-02T09:10:44.186Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[모닝 리포트] \"LG화학, 배터리·첨단소재 회복 유효\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
