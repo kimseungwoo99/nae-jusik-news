@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T02:16:17.014Z",
+  "generatedAt": "2026-10-04T09:00:02.641Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[공기업 Pick] 수자원공사·한국전력·LH, 글로벌 테스트베드 협약·AI 반도체 도입·…",
-    "이천시·한전, 전력공급 안정화 협약…이천변전소 옥내화 추진",
-    "국산 AI반도체 성능지표 ‘K-Perf’, 한전 전력현장서 첫 실증"
+    "한국전력 직원 개인정보 노출…2만 4천 명 정보가 외부 웹페이지에",
+    "한국전력, 전 직원 개인정보 노출...공조 조사 진행 [단독]",
+    "[공기업 Pick] 수자원공사·한국전력·LH, 글로벌 테스트베드 협약·AI 반도체 도입·…"
   ],
   "articles": [
+    {
+      "id": "d29cde96e5be54e2",
+      "title": "한국전력 직원 개인정보 노출…2만 4천 명 정보가 외부 웹페이지에",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOXNaSmM0dFdHcXEwVGd6a1R6SHo2VEZDRTNLXzhfZXF1cWdyMjA2RVNNRkh1RzBNN0JlTGlOVlZjMnM5My1XcjFHSGQ0d2M?oc=5",
+      "publishedAt": "2026-10-04T07:51:13.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력 직원 개인정보 노출…2만 4천 명 정보가 외부 웹페이지에 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "fd3a8f6625acf13b",
+      "title": "한국전력, 전 직원 개인정보 노출...공조 조사 진행 [단독]",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MVN1bXpDNTRLdEdwVUdxSXJnaEM4WmhsX011ZmRqS25XcGl4cldiV0dFcnRDcVhpalpQREkydEZSME5pYVp3UWNLa2hkNmxQY2VUN2czSWR1bGo2a09LbTZuWjQ1RmR5R3U3RHdaVVpIMmhuQ0E?oc=5",
+      "publishedAt": "2026-10-04T05:34:00.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력, 전 직원 개인정보 노출...공조 조사 진행 [단독] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ec70c6cd77dca810",
       "title": "[공기업 Pick] 수자원공사·한국전력·LH, 글로벌 테스트베드 협약·AI 반도체 도입· 대규모 채용",
       "source": "라이센스뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HaWN0WjFuemFxY1lZaW94a3F0d3hPZ1VFUVVzUWg2RmFIX1drMGJ0anp6YXBsM216cFREU0RNeEJDNGpFSkJDSVE2TnAxOEtxejNwd2NLZGs2U0IwbDFHYl9FWUNyYWdBNzZr?oc=5",
       "publishedAt": "2026-10-02T21:00:00.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -42,12 +96,39 @@
       }
     },
     {
+      "id": "8e740020fc0a0962",
+      "title": "\"복잡한 전력망 움직인 노하우…한국 전력 산업, 제2의 삼전닉스 가능\"",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UGxRSzhsZk5OQUJGNVdScTIwOE1CMVhTLXY5NWd6NFVreGwybVhFM2lPSWktLUcyQWUxZ1Zlbm53TDNzR0MtQkxNNEdIdnRRbXNKTUo4UlZrNlVKR3ptcNIBeEFVX3lxTE1MUDJGS2dPLV9BQUx5M21Ba3FnV0U4aFA2UHJRdXhOX2JRTGR6YzlkRUVmdTRLbVJmMC04bkx1RGJSeHphREg1WE1yQTNQb1lSTDdfMDFOcmJqSE9vdVE5c2wxRVdlU29ZXzc5bzZ1YTNNQkFQTVJzeA?oc=5",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "\"복잡한 전력망 움직인 노하우…한국 전력 산업, 제2의 삼전닉스 가능\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9aa197570255289d",
       "title": "이천시·한전, 전력공급 안정화 협약…이천변전소 옥내화 추진",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sUjFxN3hjWGVXQU45S3NuZ0w5UUR1cExHOVlSaDJDTlIwRmNXMXZTZkN5ODRPQVZfUXVGTFJaTzBWZkJMVkg2VG00aWdpQkRWOFd2bFR6TzdfRE9NV0dWWg?oc=5",
       "publishedAt": "2026-10-02T10:15:23.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -74,7 +155,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9naUcyVEozQkNvUmZzOUpfc1FpQXRKOTA4eG1lWDFCSUFaT1ZvQ2RLdzdMb2d4MHBsUEQ2UDE2cldMMi1UYjVsQkI0RklhemdES1pRaQ?oc=5",
       "publishedAt": "2026-10-02T05:54:01.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -101,7 +182,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yR2dUcUlHend6YkxaMWNVay1lc1RoZ2xiaGQ3aksxY2tiVmhGVENNY21uc1N1WFBaNWRhV0dmcVhPeFdzVDgzcmEwY0xvN1hhdTYyQ3JpSU1aNEl4eV9VanozZnJTem5MT3NXNjlIVmkxMU420gF0QVVfeXFMTXJHZ1RxSUd6d3piTFoxY1VrLWVzVGhnbGJoZDdqSzFja2JWaEZUQ01jbW5zU3VYUFo1ZGFXR2ZxWE94V3NUODNyYTBjTG83WGF1NjJDcmlJTVo0SXh5X1VqejNmclN6bkxPc1c2OUhWaTExTjY?oc=5",
       "publishedAt": "2026-10-02T05:24:48.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -123,39 +204,12 @@
       }
     },
     {
-      "id": "5bc5eb7ae8f4d328",
-      "title": "이천시·한국전력공사, 이천변전소 옥내화· 전력공급 안정화 업무협약체결",
-      "source": "경인일보",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XR2xkdlZZZTZJMTNVTTJJN2N5cldYNm5MZzNsVy01cHRMRUpWRmFnS2plbTRyX3pVN3pnSEttWXk2TVktU3RsUlV1X3BoOTd3eHc?oc=5",
-      "publishedAt": "2026-10-02T03:58:55.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "이천시·한국전력공사, 이천변전소 옥내화· 전력공급 안정화 업무협약체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a1fba6edfe1fad11",
       "title": "한국전력·SK하이닉스, 전력설비 안정 운영 업무 협약…\"K-반도체 경쟁력 뒷받침\"",
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PeFlsQnM3NlhtcW5VZDdJSHYzX0NvUlhEdDR5NnMyTFF0S0lMeTRWd2JqRkpuSkx5V0hOd0VEV2NpdU1JZUpBcEFyVDE5SnJXMXdmcjlRUkU2YVNiUzVxZHlWWlVPcUcz?oc=5",
       "publishedAt": "2026-10-01T08:28:21.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -179,10 +233,10 @@
     {
       "id": "8431396c0dc915c6",
       "title": "한전, K-반도체 생산 경쟁력 강화 뒷받침한다",
-      "source": "electimes.com",
+      "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZHVvN1NZT09hWWN2SENKUjFabVpjMDExbFRsV0pwTnBFa1ZaeHdQX192Uy1TYThWX1hBVjVwN1VCdmNMME54WEZabXpUZ0k4ZzhJRDRYM25SZkxlVVNWTldXWV9KTkwyc3V4SdIBcEFVX3lxTE1zMzNOcmVhd3dhX1lsTFp2amZMNGgtS1Y1R0JERVVWQURrQ2VwODRaMXFtMmFuWFd4eVlralYxellaR3Z1MFYtbi12TERIWjhJR3NPMk81bnM3eG92eGFSdGlBci03dTN5R2I1T1dwRmI?oc=5",
       "publishedAt": "2026-10-01T08:16:30.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -209,7 +263,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TdllHdjIwS1hLd25rcUJBbW16UHNVaVJabEtpellnS1Z4U2Z2TFV1eWFSSjhkbzVMUHVkTmo3VDloN2g4cktOYmZwTUJNcXFCckdfSmhSRWk3YS1Xc0ZQU05Ea24tLV9ZRDA3MnZ1OW5ZZW8?oc=5",
       "publishedAt": "2026-10-01T08:15:34.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -233,10 +287,10 @@
     {
       "id": "c0336099809f6d6e",
       "title": "한전 사장, 거제 수해지역·도서지역 전력공급 현장 점검",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92blExUmQ2Z0xMQ0xfS1Qta0ZvTG5XbFBlMTZ5Y3d3czAtX2tUem0xZ1kxUXYzbC1UcVNuYng4SnNiX09mdzl6QUtqZi1mcTcwMEdVcFAtdTJ4Y2RZYlEtRtIBYEFVX3lxTE92blExUmQ2Z0xMQ0xfS1Qta0ZvTG5XbFBlMTZ5Y3d3czAtX2tUem0xZ1kxUXYzbC1UcVNuYng4SnNiX09mdzl6QUtqZi1mcTcwMEdVcFAtdTJ4Y2RZYlEtRg?oc=5",
       "publishedAt": "2026-10-01T08:03:56.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -258,28 +312,23 @@
       }
     },
     {
-      "id": "f08dd185ba51cd2f",
-      "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 위해 맞손",
-      "source": "yna.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkedIBYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkeQ?oc=5",
-      "publishedAt": "2026-10-01T07:38:16.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
+      "id": "b9d5e3f40883ae1f",
+      "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5",
+      "publishedAt": "2026-10-01T07:58:00.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
       "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        },
         {
           "id": "kepco",
           "name": "한국전력",
           "ticker": "015760"
         }
       ],
-      "summary": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 위해 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -295,7 +344,7 @@
       "source": "한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LbFdzRmYwOVNOVEZxSk9BNU9DRkZkTnh5Z0lPeEd6d0JZWmpyWk1pZ0daWDlLckhWVHN4M0I0Y1E3S21vNGxIM3c1XzZQWXRFMDNSOUJmZ1M5cjZEeS1YeFc5aGswZw?oc=5",
       "publishedAt": "2026-10-01T07:10:00.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -322,7 +371,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85U1hrZnJhdURJYUxJVWpJNU81cGYxZWFCZU5DQTJZQ3BaQnVUVDZuOGUyQ2xoaG9tdlZ1dlhONVprWHBPVm9kdS1TVk5YU3BJdG1pTUE4bnNUcXp3QjJaRHFFajFFQlNJS2NpZ1l6WUs?oc=5",
       "publishedAt": "2026-10-01T07:07:12.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -349,7 +398,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbWhJMm0yb28yelJMWWFBeE45aExwOUlNa3lDdkRaR21ESWJJSDhIcXZoTk5qdnNBUDI0eTZEQzV3MW5ybWZIdGhFa2Z6a005aWdvRDVxT3Q1VS1ZOGJZ0gFkQVVfeXFMUG1SdFVhTUdVc1otc2ZwNGRwcFI5eEhHYU9TeHJ4VDJXMmlYVE5nR3QxSTU4NV9PelFRZEFqeFNUZEV5NGh5ZU12S1ZZdVlpNmptNVpmZmozdElxTzNwZ2RoU0dFUw?oc=5",
       "publishedAt": "2026-10-01T05:05:20.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -376,7 +425,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54eDVjbTZKMWQ0THRSTVlFU3J0bEZ2Si0xYTU4SDA2cWRFQ0lfZXNPVnpaR0FCb2tFdHV5bGhXbDB3U0FUZVE?oc=5",
       "publishedAt": "2026-10-01T05:00:11.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -398,12 +447,12 @@
       }
     },
     {
-      "id": "435d8bdbcdd987f4",
-      "title": "한전-SK하이닉스, 'K반도체 초격차' 전력공급 파트너십 구축 - 머니투데이",
-      "source": "mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GS2lRdzZYNmhkQkRiVkt5T3lLZ2NGS2RyQTRVWDZNa1dyNnY3T2FLYUdBNUZsQnY1VmFueHQtSUx4UFlXU05ENUZPdTIzYjJvaW1RN2tPaGVkaXkwdHp0Mk9Ba000YWFuRWfSAW9BVV95cUxQRGF2LXpRMTVlZFBDSHpBWmJwMm9hYllnSDJ1TXFfYkhWQVRlRl9FZmpJSjB5T3g5WkgtVW1xOXFlaW01eGl6S2s3RXdSLUpXQWdaamsxcjI4dWcyWng4MVZ3VkhCZEU3WGJHLTZXRVE?oc=5",
-      "publishedAt": "2026-10-01T04:31:22.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "id": "d7b9c344b096d91e",
+      "title": "한전, SK하이닉스와 'K-반도체 초격차' 강화 전력공급 파트너십 구축",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWlh5akc5VnZZcUZ6QzlPZElBTHlJaFZGRmZUN1c2OVFGdFRibUpKUXZ3b0ZWTDZjYS1PN3V1b015RUxITmkyb1NKRG1pS0s2LWRQU251U0tkZ0tnVHBFVUF5cE01aDRBN0FnNHBfWUJNaFhuTFBubtIBeEFVX3lxTE1OWlh5akc5VnZZcUZ6QzlPZElBTHlJaFZGRmZUN1c2OVFGdFRibUpKUXZ3b0ZWTDZjYS1PN3V1b015RUxITmkyb1NKRG1pS0s2LWRQU251U0tkZ0tnVHBFVUF5cE01aDRBN0FnNHBfWUJNaFhuTFBubg?oc=5",
+      "publishedAt": "2026-10-01T04:53:41.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -414,7 +463,7 @@
           "ticker": "015760"
         }
       ],
-      "summary": "한전-SK하이닉스, 'K반도체 초격차' 전력공급 파트너십 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한전, SK하이닉스와 'K-반도체 초격차' 강화 전력공급 파트너십 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -430,7 +479,7 @@
       "source": "일렉트릭파워",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wSnFGV2NkaFdSNHZ4YWxrUENPOU9jSUFZMWlwS1dqVmdtZlMydTJwVm9GbGt3SDdOaF9GeEpXRnZuZ1ROOWtvRHRhRFQyMllFS3VCb3ctLVF6Q1BaSnh2OEtVNzZHUQ?oc=5",
       "publishedAt": "2026-10-01T00:56:00.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -452,12 +501,39 @@
       }
     },
     {
+      "id": "cfd71a1254f3fe7e",
+      "title": "한국전력기술, 한국선급과 맞손…해양 SMR 상용화 박차",
+      "source": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByX21JMmRKUk51MTVVSUJGXzVCUUNIckJibWhsaEhLUy1BY3V3d3R1bmZlRlBBQ3FwY2hHbFdSR21oVHVXSVIyUmUyOGxFVzk1MXl1cGZueFR5M2hzTTJBc1Nn?oc=5",
+      "publishedAt": "2026-09-30T08:51:36.000Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력기술, 한국선급과 맞손…해양 SMR 상용화 박차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c9fdb2ff3f8cdb34",
       "title": "김태균 한국전력기술 사장, 국립한밭대 대학생들과 '미래 에너지' 소통",
       "source": "에너지안전신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITWFRYmJJclpGVTJLeWNQT2JKN0dFSHFPc29ScDJsSEI2bU91UWRXQTk4QmQxdGU2Z2JydGFKVWE2WFIxZ2NnQ3h1NVp1cklqWGdnaWhRbHhlNUN1cDdDMjdQcWY?oc=5",
       "publishedAt": "2026-09-30T08:30:30.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "collectedAt": "2026-10-04T09:00:02.641Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -469,87 +545,6 @@
         }
       ],
       "summary": "김태균 한국전력기술 사장, 국립한밭대 대학생들과 '미래 에너지' 소통 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "aa9327f381bb8244",
-      "title": "한국전력기술, 한국선급과 SMR 등 해양원자력 분야 힘 모은다",
-      "source": "에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vOFJlem8ycjZvNkNEOTZTSVVxZWcxZHVFTFV2d3VWUkJMbkoySFE0S0JDREpGUkUycHlVa2NwVEJxU2EwTFA3a2FwZmZaZnB6cE94dDFwbWlJZ25Wc3lEODlIYUZyYUVoM0ptV2VBdE5fdw?oc=5",
-      "publishedAt": "2026-09-30T06:32:52.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력기술, 한국선급과 SMR 등 해양원자력 분야 힘 모은다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "81c536da916b3c33",
-      "title": "부채비율 444% 한국전력공사, 5년간 8032억 ‘성과급 잔치’",
-      "source": "영남경제",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tWWt5UEtybFFTSk95S2xkX3J0RDRKWmUyRjJ0OG1MY2pQMDgxQTVsSHFfWWNBVUtlZ1I5aFlKb0U1UmY5ZGJfX0hHaHB2Q1VyeGlQTU1QdndCcE9qdWNCd2VseG01RTA?oc=5",
-      "publishedAt": "2026-09-30T06:30:59.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "부채비율 444% 한국전력공사, 5년간 8032억 ‘성과급 잔치’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d9014465736c33e7",
-      "title": "한국전력기술, 선박용 SMR ‘반디’ 띄운다…한국선급과 협력",
-      "source": "electimes.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbEttYzlKRnFpeXFxNUJFQXVEMzR1djZKWEd1QTcyTk9qZllWLTJkeGFUYXFKbmJOWjRBX2xvT2p4d3p4UkhRWGFtNEd2MXFCTWZ3b05LalNWSDZhYUZoRkw3UmJFblFncGhPR9IBcEFVX3lxTFAyTk5BTXlFVTN1V3VHaU9KbXY0a3FDR1hTVUV6ajZna1N2NEFoYm5QRkhWUThNWkdhb0tSaGZtcmhEVWdwaC1JMlQ4X1g4aV9xUElVSnpOQzdscThkWmtXeHdVVXdodUYzRGJNdVZFUXU?oc=5",
-      "publishedAt": "2026-09-30T06:15:26.000Z",
-      "collectedAt": "2026-10-04T02:16:17.014Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력기술, 선박용 SMR ‘반디’ 띄운다…한국선급과 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
