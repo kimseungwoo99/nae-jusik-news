@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:59:24.485Z",
+  "generatedAt": "2026-10-04T02:16:17.014Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,81 @@
     "name": "신한금융",
     "ticker": "055550"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "4대금융 3분기 순익 5.6조 전망… 실적 고공행진 이어질 듯",
-    "신한투자증권 IPO 인수실적 87%↓...후속 물량도 3곳뿐, 경쟁사 절반 이하",
-    "역대 최대 실적에도 신한은행 '정보유출' 복병…정상혁 3연임 가도 변수되나"
+    "4대 금융 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효",
+    "4대금융 3분기도 최대실적 전망…차기 은행장 선임 영향은",
+    "4대금융 3분기 순익 5.6조 전망… 실적 고공행진 이어질 듯"
   ],
   "articles": [
     {
+      "id": "ee0b8e20d1c26325",
+      "title": "4대 금융 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1WDJidERVMy1ReG9sYUhFSGlaWUdkdW4zX1NLVXVMblhrSXBIS3VMakJXcDJ0aTZyalhITnctcUNlY0ZpcHgxWXBIVXVVaTNOTFUxUTBkQkwxcFJKRHQ4N3cwN3piMFZPUWl6TGRlWmREdzA?oc=5",
+      "publishedAt": "2026-10-03T21:00:00.000Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "4대 금융 주주환원 10조 바라본다, 금리인상기 주가 기대감도 유효 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.28,
+        "confidence": 0.62,
+        "positiveTerms": [
+          "기대감"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6a1187cedee3b2a5",
+      "title": "4대금융 3분기도 최대실적 전망…차기 은행장 선임 영향은",
+      "source": "yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93bUVpOE15eE05OWVwM0pVZ0JzTDhuZFIxaDlJTnppWmVIa09DTnJmeVl2ekhwVFRybUxHamQ3bTVKbGo2VktRNjh6UVRVY0VQTG9wRUNkYjh4YzNyRkdTUtIBYEFVX3lxTE93bUVpOE15eE05OWVwM0pVZ0JzTDhuZFIxaDlJTnppWmVIa09DTnJmeVl2ekhwVFRybUxHamQ3bTVKbGo2VktRNjh6UVRVY0VQTG9wRUNkYjh4YzNyRkdTUg?oc=5",
+      "publishedAt": "2026-10-03T20:53:00.000Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "4대금융 3분기도 최대실적 전망…차기 은행장 선임 영향은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "db235940280295e9",
       "title": "4대금융 3분기 순익 5.6조 전망… 실적 고공행진 이어질 듯",
-      "source": "IT조선",
+      "source": "it.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNdk84MERwMEpkb2lwY2FJckJXODN5a0dKTUpHUzlqZDJSejdiZExUdWZRU3ZqRDhEYjhYbUtEd00zX0Y1cTktSTBLS3JTVlNkYnhtQWRXTkFzUGRjaU1EY0JaMHJDamVSUzEtU2J1bU9CV1ph0gF0QVVfeXFMUE12TzgwRHAwSmRvaXBjYUlyQlc4M3lrR0pNSkdTOWpkMlJ6N2JkTFR1ZlFTdmpEOERiOFhtS0R3TTNfRjVxOS1JMEtLclNWU2RieG1BZFdOQXNQZGNpTURjQlowckNqZVJTMS1TYnVtT0JXWmE?oc=5",
       "publishedAt": "2026-10-02T23:37:23.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -52,7 +113,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tV2pxaU1VNVVlSFhYdXVhNlM3MEFYYnM4alFBMUJ3SkxuM05XdEZGMWVWbDFuNnN6LWxRN1FvOWY4ZUJITVAyRThIVzhtcEd2UHB1MUVNbGpKSm1hZHZWM0ZvejdETUk?oc=5",
       "publishedAt": "2026-10-02T08:44:51.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -74,12 +135,12 @@
       }
     },
     {
-      "id": "b0145d6caf5c97cb",
+      "id": "2728b486c5ef74b2",
       "title": "역대 최대 실적에도 신한은행 '정보유출' 복병…정상혁 3연임 가도 변수되나",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxU3NMUGVPWEVCdU5YNzRzVEVtdjRpdm9McEhoNGhpd1BOekQ0azJ3Y1ZLZG94R2xEVDZGMjFKRmRPX0JIb2c?oc=5",
-      "publishedAt": "2026-10-02T04:58:58.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "source": "더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oS243RnZrSkZ0Nm0zZ3B0TzNUNWo5TFlRbFhwZVNCN3hVdWNhRGM0ZzA3S2tuRTJFbi1QU0RmWWs1SHMzbGFxRXJfSFM3OG5sdmxwVtIBVEFVX3lxTE9oS243RnZrSkZ0Nm0zZ3B0TzNUNWo5TFlRbFhwZVNCN3hVdWNhRGM0ZzA3S2tuRTJFbi1QU0RmWWs1SHMzbGFxRXJfSFM3OG5sdmxwVg?oc=5",
+      "publishedAt": "2026-10-02T04:57:00.000Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -105,10 +166,10 @@
     {
       "id": "360d6e165b9dab0a",
       "title": "은행만 잘해선 'ROE 12%' 못 간다…청라시대 하나금융의 다음 숙제",
-      "source": "인베스트조선",
+      "source": "investchosun.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pTFdVZ1p1Umh1aElTZjYtNVFwWHlEVXg5LUhtLWlOTEtxSUUyUEt4aEFtWVM5VGVVUlpaMnFpNWU1TTZsZWJQSU5IY3d2UVJlR3FqN09XQ1l5TTVxTThBTDl6RklfVVF6SFhfS21ZNjhBQQ?oc=5",
       "publishedAt": "2026-10-02T02:30:00.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -135,7 +196,7 @@
       "source": "파이낸스투데이",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdUpjaTZsS1dGUWxqU3JkR3c5RUV1cjBCVC1FXzJTc1VTZklfTE5tQVktRlBpbzRCMVdEMXVNQThDWjBQaVVCZ3U1ZkJCT2UyWlBzM29CRHFBbmlaeWFuTDlydjFlMXc?oc=5",
       "publishedAt": "2026-10-02T02:03:24.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -159,10 +220,10 @@
     {
       "id": "698a12cd13f13de6",
       "title": "신한금융지주, 자사주 1.4조 사고 또 산다…4분기 얼마 더 태울까",
-      "source": "PRESS9",
+      "source": "press9.kr",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UazFzWVdDTmxUMkRHS2Q4WXdxMnpleHZCTkRwYnI2RTBjS0FhXzlkREFqOVFqOHdGeW5ubXRNaERZY0ZpaExUTnJxUWdvUDlBS2xsNXJmcmpDajZCamZUcHVUM0RKQQ?oc=5",
       "publishedAt": "2026-10-02T00:59:50.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -189,7 +250,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95amJKWU1KY1psV1czbEZjVks2WVNGbVBUYkg2cVZTWFotNm4xeGNxaFFiQzhiLXZ0cVhNWmZSM19hMUk4Rzl1Tno4N0FyRzZOQlJWOGw4eExNVTRwTmZyZk1SblY0RVctelFLLUVlX08?oc=5",
       "publishedAt": "2026-10-02T00:17:24.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -223,7 +284,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Qamp2NHZLNzZaYXNGSnktaDFRTjVaOWRIWmJyMENpSWVKemZ1cVU1eWJQT0JINDJBS0lIbjZlakNfTnEtOGc?oc=5",
       "publishedAt": "2026-10-01T05:41:07.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -247,10 +308,10 @@
     {
       "id": "8c83450d3eb98f2e",
       "title": "[금융지주 국감④] '내부통제 강화'로 성과급 받은 진옥동…연임 추천 뒤 과태료·유출 잇따르고 이번엔 신한은행 고객 2만5000명 정보유출",
-      "source": "newsfield.net",
+      "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMVJBYjlRTzVmMXJPVkowbWk5aTZ1bjY2SURMcjZPa0VkeS11NjZ4eVRxV1QwTTZSOWNsUW1QVG9tVGg3QktxUkROZ25FMm4wSHlkY1pkMzNUM0ZRdWIwTXVjR3N2TWJ3TTg4ZWNVOTh6dTJzbE1TVTN6Mml2bldGRXRBend1NGJ2QW03VHhSSG55Q29sMEhWdW5XRjVheFB0ZjN0b0V4WUxGMlBGZzhoUk9FM2tQLXFKejhCVWpicWtUOEMyRXoyNGNnaVAtVGtDak1LVGt0RHBPN1I0WmY1VTdGdjRHVzhackZ4eHE4WFF6SHNyQWJ6ZVFPU3N4T3pQRHRNbE52NU1KUFNEMldoRlljTTN1NzdJbk80MDBUaDNMcm9FY0dpQzY5SjJQWnY1T29N?oc=5",
       "publishedAt": "2026-10-01T05:35:26.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -277,7 +338,7 @@
       "source": "조세금융신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUmpsTlNXUmgzWDdfYzFmMHVVZ0l1QjhqWDNFR3d4YXdCa0plNnZCVW1CUk12NTNraE5rY2o3TkdUbVRCOGh6XzJkTWNRWmxEbWpKVnhWbzB2aXRWWHM4cQ?oc=5",
       "publishedAt": "2026-10-01T03:16:59.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -304,7 +365,7 @@
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xb2Z0NTVQUU51OGhrdkhGa01xNF92SUJuS3dvLWhLaHRsRUtNSEc0Y1YyejVDc0ViUDBVNzEwVVRwR282M1g2WC1LRVc0V2kwcnR6bk1KaDI?oc=5",
       "publishedAt": "2026-10-01T00:40:08.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -331,7 +392,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43MEQ2Q3NVMFlMR3V2cndRQ3dZM1J4ZF9tOHNQbzVGWFRBZzhSeXVQbXNOX0Zqd3ZKbWNaQ1h4OUhLVUwwbFY1MW8xY3hKbElDX2xFY1lRREZyYndCRWV3SWFYNWlGMndKanhr?oc=5",
       "publishedAt": "2026-09-30T10:57:58.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -358,7 +419,7 @@
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGR283YVZydXVRbW9fRWpsRkpWRm05RXRzNHdyNG1jSmttRTQ4ckFac2VBb3p4RUdySW5pU2ticlV2S1hHWXc?oc=5",
       "publishedAt": "2026-09-30T09:15:03.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -380,12 +441,39 @@
       }
     },
     {
+      "id": "197d43b49c48f86a",
+      "title": "[현장] 신한금융 ’밸류업 2.0’ 가동…주당배당금 매년 10% 이상 늘린다 By EBN",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QbkRHQ045WXd6V2J1ZTN3djhBQW5IV2ZpVHpNZ1QyQUFwQkFWUUFzZlMwQ2JSMmY5SWMtQ0NVOW5zQjNuWHIxMWdRaUtmMk9ISWJaaVd2UmFyWG5HclNvdS04RjhwU0E3d0loZDZtZm0?oc=5",
+      "publishedAt": "2026-09-29T08:41:00.000Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[현장] 신한금융 ’밸류업 2.0’ 가동…주당배당금 매년 10% 이상 늘린다 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "01ee15febb575bd7",
       "title": "KB·신한·하나·우리투자, 증권사 CEO 연내 임기만료…호실적 속 거취 관심",
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16QThsbjVMWm9CbXBhbk1Id1RkLXRYV2k3UDRoTTRTNVljV0NkYllxNi1xcE1DX1J4bWluUndUOHE5Y0VGZGd2aDBiOVVnZW9XVXFGNmdZNC1peUFRWThhTFhuNDhtZw?oc=5",
       "publishedAt": "2026-09-29T08:26:31.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -412,7 +500,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByM2szNWlBT1k4RjZUbzFxMnlIT051UzlXZklVQnlfdjlSanJWRU1pOVVubUZ4NnRVV0Yybk41aW9uUjBYZEhJdXE0T21wY1dlOG96N25EZkNvMnM?oc=5",
       "publishedAt": "2026-09-29T07:59:29.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -436,10 +524,10 @@
     {
       "id": "78e2ec7f10bfce93",
       "title": "[오늘의 금융지주] KB금융·우리금융·신한금융",
-      "source": "파이낸셜리뷰",
+      "source": "financialreview.co.kr",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YdmZaZVpScEdhaFRTaHhQTXNzMG85OXRqWlF6dldzQzRmV094S1IwR0ZsaXlTMjVGaldxR3BTN3RIU3g0eGlNVnJOR1NLZGxNTTZDLURtd1hXeWpqX0lzdk4xMU9tSTM2blQ4OUg0eTB1N3dY?oc=5",
       "publishedAt": "2026-09-29T07:41:49.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -461,39 +549,12 @@
       }
     },
     {
-      "id": "253c7590aedf2e11",
-      "title": "[현장] 신한금융 '밸류업 2.0' 가동…주당배당금 매년 10% 이상 늘린다",
-      "source": "ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ScS1SWTlKbTJMelVfSHJ1LWpGb05PM1JZWVYxM3MwdEpwZUNXZnZzQW5HUU5FYWw2a2ZRYVN1Sk50ZmU4WVc3dHE5SmtNeEttT01qTm4zdF8zR1lISy1CSi1UMDdfd1Q2?oc=5",
-      "publishedAt": "2026-09-29T07:22:42.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "[현장] 신한금융 '밸류업 2.0' 가동…주당배당금 매년 10% 이상 늘린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "aca519ca03c046a6",
       "title": "5대 금융지주 기후금융 어디까지 왔나…선언 넘어 실행으로",
       "source": "오피니언뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzVlFYOVdEUVdJOTZYWWNkX1BiRWNxM01Tbk9kTXd4cUNGSHZWdXhIbHloSkZxRnR6dEU5SDV6cnJHb25NSThzOWwwTnh3Rl9KVXZNRmxMRnRZbGZ1SDZsNmppUXM4NXJjd182ZHJraFl2QQ?oc=5",
       "publishedAt": "2026-09-29T06:26:38.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
+      "collectedAt": "2026-10-04T02:16:17.014Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -506,60 +567,6 @@
       ],
       "summary": "5대 금융지주 기후금융 어디까지 왔나…선언 넘어 실행으로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "74d70c5211b9ec79",
-      "title": "신한금융, 한·일 금융협력 논의…전환금융·디지털자산 협력 모색",
-      "source": "알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfLXphN00zYVA2X0h5UGE1LXl3a0Y3X0RSYWdreTRTQlNLcHRodE5YOWZqNVlBMjdYTEZia2pVUExfd0VON0dWNWctbEM5V1FLOXcxOEo4OXZQLU5Dc1R1M0ZuOTcxZVI1QWphd0JB?oc=5",
-      "publishedAt": "2026-09-29T04:05:05.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 한·일 금융협력 논의…전환금융·디지털자산 협력 모색 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "49729d7e0fcc1fe5",
-      "title": "신한금융, 한·일 금융협력 컨퍼런스서 기후·디지털 논의",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVnpHZ1VPX2dXeWdlNmpiVHFrYTBYQ215YnNRSzZmZGVXNDFQaXpNcXhTaDYyR3hvV2V5SGF2VzAyMUVOS1dYeTNMcHpiVW9ydGhzclRIWHVkSUlp?oc=5",
-      "publishedAt": "2026-09-29T00:37:00.000Z",
-      "collectedAt": "2026-10-03T14:59:24.485Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 한·일 금융협력 컨퍼런스서 기후·디지털 논의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
