@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T09:00:02.641Z",
+  "generatedAt": "2026-10-04T15:34:29.644Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "\"성과급 1.4억 꽂혀도…\" SK하이닉스 직원들 속 타는 이유 [시선'칩'중(下)]",
-    "기관 '삼성전기'·외인 '우리금융지주'·개인 '삼성전자' 1위 [주간 코스피 순매수-…",
-    "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크]"
+    "삼성전자 3분기 영역이익 ‘첫 100조’ 돌파할까…성과급·주주환원 쟁점 전망",
+    "삼성전자, 용인 반도체 산단 ‘속도전’…2029년 10월 가동 목표",
+    "기관 '삼성전기'·외인 '우리금융지주'·개인 '삼성전자' 1위 [주간 코스피 순매수-…"
   ],
   "articles": [
     {
-      "id": "9d3f828109ff8f11",
-      "title": "\"성과급 1.4억 꽂혀도…\" SK하이닉스 직원들 속 타는 이유 [시선'칩'중(下)]",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTmdWRk9PTVFtd1l2Sl9OdVlzUDZJdGNRNXF6cEdyNDZabnJQNlBnZnhRd3FIV043R05xVzhKeVR5ZkFHR1ZEbk1HQXFNTHltVU5nZW10SlVMZw?oc=5",
-      "publishedAt": "2026-10-04T07:13:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "id": "18670df0c64b5efa",
+      "title": "삼성전자 3분기 영역이익 ‘첫 100조’ 돌파할까…성과급·주주환원 쟁점 전망",
+      "source": "hani.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4VXh4R2k3Mjk4N202UVRHdkk5alVJVTRNZ2VkNTdCUXlhZFZjc2lyckd0NHo4R21LaXh3OExSZXR1aGItRTByZzZVbF9oM1doWk5LUnFFWXdoX1I4VEs4YUI0NVdjb1JqOVE?oc=5",
+      "publishedAt": "2026-10-04T11:15:00.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -31,8 +31,37 @@
           "ticker": "005930"
         }
       ],
-      "summary": "\"성과급 1.4억 꽂혀도…\" SK하이닉스 직원들 속 타는 이유 [시선'칩'중(下)] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "삼성전자 3분기 영역이익 ‘첫 100조’ 돌파할까…성과급·주주환원 쟁점 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8b1205599bb684a2",
+      "title": "삼성전자, 용인 반도체 산단 ‘속도전’…2029년 10월 가동 목표",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZXBfS0pNOHZMc0NJZXlJZzBRTVBMWHZpdkt0Z01LYTZWVG9DbnBjai1uOHRLRzJkTHN3Y1pISGZtZEtob2t3SVk3Ry0yLW5UMXhDR2RyUzRuWnIxMUtFLQ?oc=5",
+      "publishedAt": "2026-10-04T04:06:14.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 용인 반도체 산단 ‘속도전’…2029년 10월 가동 목표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -47,7 +76,7 @@
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IZGtuc3hqX1Fhalh3alZEVXllRU15OGE2NnpqWG5LVUVNRXdRV1AyWWk3WTZxNjRfZkswM3ZlN3lDeXJ2VjA0d01yc210Q2ZFNzZ6U3BYSHdsLS1DV3h6OTFLSmNLa0dLTWpzNjVFTU9QRkN2YXI0bjc2X18?oc=5",
       "publishedAt": "2026-10-04T03:00:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -69,12 +98,66 @@
       }
     },
     {
+      "id": "d77f72ec5bad18ca",
+      "title": "삼성전자, '반도체 투자 360조원' 용인 국가산단…지역 미래 모습 한눈에",
+      "source": "cwn.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FMzEwV0tIejczUVJIamRGbEJsVnBoc3ZxbGt0X3VLYlhkN0lIRnZoYUhtSE0yZFhTQU9UaVF5N1Rsek9DN29fM3p2SVljM3FTQ0hxYUJXZGhQel9TbExzOExR?oc=5",
+      "publishedAt": "2026-10-04T01:55:48.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, '반도체 투자 360조원' 용인 국가산단…지역 미래 모습 한눈에 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8e2407d7ba6663ef",
+      "title": "삼성전자보다 '2배' 넘게 던졌다…외인 지분율 50% 무너진 ‘이 종목’",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tOGtvYUtPeVZyOUNJZ2ZzSDJkeU5YVlRFZXY2OThXOTFhRWlVSlNKQzJIOWIzTzhObTJRLXpLSFRZakhLSTd1MDlYOTFudlE?oc=5",
+      "publishedAt": "2026-10-03T21:38:32.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자보다 '2배' 넘게 던졌다…외인 지분율 50% 무너진 ‘이 종목’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b69144d065d30b1f",
       "title": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크]",
-      "source": "매일경제",
+      "source": "mk.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRXU5SGhRQ2NQUW9UcFU5U05ldEhkZW41bFZwcUsyUndSZk9WaEFGcXN0ZHhyUTZuVEpPNnA2dEJsQk56RWFIYVdLV0Y1MzNBVVE?oc=5",
       "publishedAt": "2026-10-03T01:38:59.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +184,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwUFljRXVfcGpmRmpkTFB2SllWUDctNkFIb0JNUTItQjRmUnMxbGxNSXA0U3A2V3E4QVZCQ2k0bDRrS2VHNnYxWjJDZmkwN09YYTlfOTdVWFFkbmV2T0xvcjRTTUtpQQ?oc=5",
       "publishedAt": "2026-10-02T09:09:07.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -123,12 +206,12 @@
       }
     },
     {
-      "id": "3b30ae9edf1c949a",
+      "id": "389bc32910b8dacb",
       "title": "삼성 반도체 성과급 ‘판도라 상자’ 열린다…사업부별 희비 촉각",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsNHRJdV9FWVhLQUxiRExjZXRxM3BldmxuWnhlamJIcl91OUpnT1phajRtZWxZS0U5LS1qYmMzOWg3N1YzM3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAweXR6Sm5YYVJ5YnNNVnBTbmp3YTRUQS1Wc2NxalJBdTRfSWFUZkhXMzJmeWNlcE10N3haUEgyV0Z2bWVuX1FNa29URDBRelE?oc=5",
       "publishedAt": "2026-10-02T08:09:02.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,7 +238,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9renNZNUZjZkVyT0hzZVNmU2VhSTZicDd5aFJ1QTEzZ0hOMTI5SHlmM09PYXNFV25QRnl1NVJVRUFWUmRiLXVxYk1vbXZkbnlYY09IU05uYW1jUQ?oc=5",
       "publishedAt": "2026-10-02T07:36:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -182,7 +265,7 @@
       "source": "허프포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fLXo5cGMtN0NQNDRoRXNPVjRwTml5bzVsWm5RSEVRN2xZZC1Zc2hDRExWQjVjcWdhV1FsVzFOTWtMN2VDOVN0R096UjE2Y3F6cXhZVHNQUQ?oc=5",
       "publishedAt": "2026-10-02T07:00:33.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -204,12 +287,39 @@
       }
     },
     {
+      "id": "8d97e74cbcd44127",
+      "title": "\"내 통장엔 특별성과급 몇억?\"…삼성전자 다음주 세부기준안 공개 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00aWszTTItQk14LWVJSnpocEcwNGswQzl0cTNlVTVVYkVLa0lVYUxMUGo1Sk9jUy1WUF9JakQwY2M4Ql9KSmYzTFNNRTAza0xtMjhKb3lVWmhBSlhtbjZCSEVtNU9KWllTZkVONNIBckFVX3lxTE1hUXVveG1VWHkwUnNSNjNDdXF1NDhPekoxc2JCU2l0YzE4Yk1wUFkzOHNQajAwQ3ZGZE41SmYtdDY1M0F0azF3Q2xYWXh1a2F4bXYtN0VfSk5rbEN5MU5aZHR5cmVTemZPNXFQMEJTOXRLdw?oc=5",
+      "publishedAt": "2026-10-02T06:47:37.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "\"내 통장엔 특별성과급 몇억?\"…삼성전자 다음주 세부기준안 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6f6e386269779498",
       "title": "삼성전자, 분기 영업익 100조 실적이 감동 줄까…고점보다 24%↓",
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXb1U3dWRPNlFka2IxVzZ2eFNWRWFITHJOSVhFUS0wd0puSzhOQnVXOG1UMGpvZVo4eGV2R2M0R1c3V1NPblB2dEdST3AzODF2ZkpFcQ?oc=5",
       "publishedAt": "2026-10-02T06:41:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -236,7 +346,7 @@
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QbXF5aldTbGtnUEVxaDJSY1RBSEdKUHZaQ29WMk5CWVk3TDc2eHdyNGpVTS1ISzJfUkl6dUxnUHo2ckdMZUp4MW1iYmd6M0JPYU1IQ19sOXBoT29CNUE?oc=5",
       "publishedAt": "2026-10-02T05:19:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -263,7 +373,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6cTFTZEV0eVZtWWJ4em9xNVI1ODBjMlNfWkhvZ0Y4dkliUHlEcGdSRTc4MzVkN2pWM2VFdEIyQkdaVVQtUnh0QmpwaFE0NDQySDZXa1lfZk9JYlExam5yRdIBeEFVX3lxTE8zczZpa3NZR3A5OF9jTWdmVGFsdXlseEtxRVc5dGhaNzZiUXBLT3lPMkQtajNIb0ZneWJqRldoOHdvdXpBbVQyRWhSY2lweHhpMDVxalI5XzdLd3FiRmRGM25VLVJIMjl6Qk9ZMHEzNl9ybkVtdS1ybA?oc=5",
       "publishedAt": "2026-10-02T02:18:14.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -290,7 +400,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sVDFLTHlOM252Zk9hejBhdXJtYkFpWk9wZVJDUzh1SE1fYlpSbVhfeVdwckFnWHlKRHh0enNsUjVGZ0JKZHhSQ1hMVUtNamJJZlR3VTdsTnhSUzVjdXJLSQ?oc=5",
       "publishedAt": "2026-10-02T02:11:44.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -317,7 +427,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NNXJKMVpiZUZ6eWdmZW1YYUxZNmtodmZCREJaOXREb3RjS1gtMmhTVUk2U29VS05mSloyWGVucHpaTUJJN2tLOHVvSEN3X3c5Uk1ETmdOTExBbDJ3TDlTOWJhSmVKUUJCa2N3WnNOOWg?oc=5",
       "publishedAt": "2026-10-01T23:24:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -344,7 +454,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUZlREZpVGhRa2ZKcjhmWERsRUZqQ1BRcE4yUEUzSGhpekpyR3NjT0FtQWtfSFk1Vmo2RWNnQ1o4WFJmak1pV1FCXzBjMUpGLTFoZURWMTU3SUdVVHRPcGNmMFFSUURxUGVnWjFvY0pGQUJRbGRvYm5vZHVkSll6UVdhVQ?oc=5",
       "publishedAt": "2026-10-01T07:35:35.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -368,12 +478,39 @@
       }
     },
     {
+      "id": "16920d5852c56de6",
+      "title": "삼성전자 자회사 반도체 기술 유출 혐의…前직원 2명 구속",
+      "source": "ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZ3d5ejVtQ09YODZfSVlOUXROYzhBdTFCdkZoZ3hkZ0ZkY1NLMlI2b1pxOHFiNEJDQW1IbkhiTFVad0tLcGhYSWhfQmZBYmNWUGE3NlBKNDN4Mi1ycEI3NmkwM1JBQ19V?oc=5",
+      "publishedAt": "2026-10-01T06:55:00.000Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 자회사 반도체 기술 유출 혐의…前직원 2명 구속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "fcce23b06b49e1bb",
       "title": "檢, 자회사 반도체 기술 빼돌린 전 삼성전자 직원 2명 구속 - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnFHVm9wbGZ2OVhzdUlxUENoUlJlTTlfY3lYTGxsRmh5N1lyenptVEtSd1NiRDVPd2NsYzNaMklUNEVWMHVNRkhQZWd1ck9Xc0JvVjNYbndUUzJwX1BSUnF4U1JaTm9pckNyODZMMEpGOHBqUGZqMnA3Ny1sZVhRYmRhc9IBlwFBVV95cUxOMUhQTUg2NmFqUUZsSmdwSW9uNzdWSU52cUR1VGlyX3dRQjZSR0dGTWlEeklQV0ljTndPd0hDbVBud3ViQnNFSmpTeVFjMFRGaFZkaUY1azRwMGFoXzlTR0JQUk1Selc3MzNZX2lpQ0I5VlE1cy1FeVB2Q0xRaXIzRHZnbEQ4MTdtc3hwM2MyZGVMcUxUZnlN?oc=5",
       "publishedAt": "2026-10-01T06:05:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -395,39 +532,12 @@
       }
     },
     {
-      "id": "190bd110c715b3a8",
-      "title": "[단독] 회삿돈으로 에어비앤비 투기한 삼성맨들…들통나자 \"로펌 부모 앞세워 역고소 으름장\"",
-      "source": "알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ncW1FdmhNSl93SXZPcXlHeHVwd2NGTkQzaHRiSkx5UURWeW1ROTNXVDloVzZoTWlFUmxYMzg1UFJDZGNMV3dlMDVPZ0t3MXRxcjBqcUFlcjBvSmY2WFNYUFNUcVFVcnY5OWtqelRB?oc=5",
-      "publishedAt": "2026-10-01T05:09:33.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "[단독] 회삿돈으로 에어비앤비 투기한 삼성맨들…들통나자 \"로펌 부모 앞세워 역고소 으름장\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9350d4cc8cfba62a",
       "title": "'반도체 신화' 삼성전자·SK하이닉스, 올해 영업익 650兆 파죽지세",
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrcTdtM1BOclFhelU2ZWNSUmVSXzdHNlNEc0xtcmw3enl2Zm1pM0VVVk40NGxtZDNhV25iS1lGWlJDT0hsRnN0azJaamw5WFJEQkRocmc0NUx0X0VhcTNQMHdzQk1zQXZt0gFsQVVfeXFMT01UUjJzanhYWmY3ZTVvX09iX0xBeTAzd25LSHhQaXVUckZxZjctNlpSSEZQUVdOTWszT3ZCMGVXS3VnaEFvZ0h5OW9JcjBSUXlmaE9mM3JLOG5BRTZhQlpBdWZOT1lVZUZ5Z1hv?oc=5",
       "publishedAt": "2026-10-01T05:00:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
+      "collectedAt": "2026-10-04T15:34:29.644Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -439,114 +549,6 @@
         }
       ],
       "summary": "'반도체 신화' 삼성전자·SK하이닉스, 올해 영업익 650兆 파죽지세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8d7f0323e25fde4a",
-      "title": "[단독] 삼성전자 자회사 반도체기술 유출한 前직원들 구속",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EMkZDUVVTTTB3Y3V0UldGQjRyREdpck5LNFFhWEJoU2dqTzBNQUFiVXVWVUFBZDFvRlJKYzVHdmtXT3VGSDhucWtzY1B5TDdFbHhHNg?oc=5",
-      "publishedAt": "2026-10-01T00:22:54.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "[단독] 삼성전자 자회사 반도체기술 유출한 前직원들 구속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cb6cf543c6c698bd",
-      "title": "삼성전자, JBL 80주년 기념 특별 기획전 진행",
-      "source": "Samsung Global Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaWJmV2hZaVpqc3VmT3BMYlo1V011a2xCTXI5X00tQndYNlNNamM2Rno4Zmlhd3VINmRRYS0waFFIWnlQTDNJaHFNQzQyaFVPTGZ4OXd1TWhoS3FvbmNDMTBhZ1dqby1mczZTT0xrdUFfVlFydFZLSFluNzZEZGs0d2FzeW9HOG56MkN0S0YwR29fWjl0WkE0NzVqbGNEaWxsTEtJNTN2QkI5MDBWcV85WkJENFRQYl9ZOUZvNEE4Sk5FOWJDLWZfaWJBNWEyQUZJMjh5cEFxQXg5X1FvS24tUDBWTXpqeHZOblNkaGwxOEpyV0Y5dS0tX044eC02b2JZbTJHWg?oc=5",
-      "publishedAt": "2026-09-30T23:00:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, JBL 80주년 기념 특별 기획전 진행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e0392bbf0f865150",
-      "title": "\"삼성전자, 내년 HBM 판매가 100% 넘게 오를 듯\"-KB",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOY1ZZRC1GVmgyektLS1RjZVVvRzlQV0FuTDJWOVVoS3ZhUW14M2h2b25Sc2kyZlhaUGNJVFlFTjdfSUIxVlplZnpmQ3FLQnRfODVnZEFnc3c4dw?oc=5",
-      "publishedAt": "2026-09-30T22:27:47.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "\"삼성전자, 내년 HBM 판매가 100% 넘게 오를 듯\"-KB 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e5a346881a5714bd",
-      "title": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGxRTUxjcE00WEYyOE95M2k1a09mMVdHNzhoR2RBWDYyNDkzc3dVNjNYN2VST0JIN3NyZVhMMWtaNnJWRFlzSlByZDRzZHd3R0VpSzlvb3pIZDNwZEkyZDBrSWd6cjNTM3V1VFZfM0x3c2QxbE91SGpGYjR4RjBWbF9vNGk?oc=5",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "collectedAt": "2026-10-04T09:00:02.641Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
