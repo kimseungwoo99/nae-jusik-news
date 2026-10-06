@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:37:49.610Z",
+  "generatedAt": "2026-10-06T16:59:54.583Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,77 @@
   },
   "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "포스코퓨처엠, 삼성SDI 배터리소재 계약 6조원 규모로 확대",
-    "포스코퓨처엠, 삼성SDI에 6조 LFP 소재 공급…협력 범위 확대",
-    "포스코퓨처엠, 삼성SDI와 6조원 LFP 공급계약"
+    "에코프로비엠·삼성SDI, 전고체 배터리 소재 맞손…2027년 양산 목표",
+    "슈나이더 일렉트릭, 삼성SDI 유럽 84MW 태양광 계약 자문 수행",
+    "포스코퓨처엠, 삼성SDI 배터리소재 계약 6조원 규모로 확대"
   ],
   "articles": [
     {
+      "id": "022c21992b0de018",
+      "title": "에코프로비엠·삼성SDI, 전고체 배터리 소재 맞손…2027년 양산 목표",
+      "source": "스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GQjZRSmwzX2hkbkNjSE1rWHlMaVBxaGJKX1lNbVhUT1gtdFBFNl83bzNiMDVnTWhQV05HWXBPYjU0QnI1alVrWERNWXNQU1hDV3VIQVlyYk5Wb19JS1Y3VndwQW9PMVgzekpkRVRCSTRDcWI1S2VR0gF3QVVfeXFMT0ZCNlFKbDNfaGRuQ2NITWtYeUxpUHFoYkpfWU1tWFRPWC10UEU2XzdvM2IwNWdNaFBXTkdZcE9iNTRCcjVqVWtYRE1Zc1BTWENXdUhBWXJiTlZvX0lLVjdWd3BBb08xWDN6SmRFVEJJNENxYjVLZVE?oc=5",
+      "publishedAt": "2026-10-06T10:22:10.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        },
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠·삼성SDI, 전고체 배터리 소재 맞손…2027년 양산 목표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d4165d2c5ab1f617",
+      "title": "슈나이더 일렉트릭, 삼성SDI 유럽 84MW 태양광 계약 자문 수행",
+      "source": "헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56akRhWmNPazF5U3dETC1qUHk3M1o0WHRlZVVGWkg3UmRyQlhjWF85R193Rl9PeVVFb3RZRWNIbTFTdFUyOUVpbWluUjlPTldEN2VaU3JvSzd1OG40SFJ3?oc=5",
+      "publishedAt": "2026-10-06T09:25:57.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "슈나이더 일렉트릭, 삼성SDI 유럽 84MW 태양광 계약 자문 수행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f52c9a5c08633e0b",
       "title": "포스코퓨처엠, 삼성SDI 배터리소재 계약 6조원 규모로 확대",
-      "source": "kyongbuk.co.kr",
+      "source": "경북일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kalQwdjhKMU9hOFVOQ3FNZzNocFdVcEttbDJETGdkNWNtUTE3TDNJblBqYkk1clozUkdlNV8yNHh3ODc5R2EzTEdaV2FEQUxuUXNYNVlsSzlMMVFhWmFnRWFhMkt2UHU0bTVLYmZxNA?oc=5",
       "publishedAt": "2026-10-06T09:23:37.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -47,7 +106,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXh6WVVlamhpUUVoZGFhcmkwX1lXWHN6emhVRHU0UFVXTjlmLXA1cGRCWk9HS2lZakRRRDdIdWhHYWxtUXV3WDJub214VkNVMVlTdy1MbkNzRUp6VkpRUnFDMkx5MTZGRDYzTFItNHpjZDJzSktXRFk4dGgwcFFxZE5JeTdKMHFRelJnVDhVMA?oc=5",
       "publishedAt": "2026-10-06T08:46:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -69,12 +128,12 @@
       }
     },
     {
-      "id": "751ea91cc9ae910c",
-      "title": "포스코퓨처엠, 삼성SDI와 6조원 LFP 공급계약",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KX2VZSm4yQllpUnZkWDJ4V0tpSmZRdXFkdnZtekhWVEpEZnNodkZtT3ZYY0tQRWdBbXEzV0lnNUVXVWF0MVNEcldKQUJjRzBNdjJ2eVk2MVdOeTVuZ0JqSQ?oc=5",
-      "publishedAt": "2026-10-06T08:30:51.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "id": "686e55cac10010ab",
+      "title": "포스코퓨처엠, 삼성SDI와 리튬·인산·철 양극재 장기공급 계약",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zT0NwaDdtcUIyUGdEU1ZYcnIzbGNxSEV6Rm1DN25jcmhjWktyeDgzQkExS1N0Z08xdFlkTnB2cDRiM1hLbHhFZnJGUnZPaWluRjY4dFVBckRjUmplNVZ4djVzbHhEbTQ?oc=5",
+      "publishedAt": "2026-10-06T08:40:00.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -85,7 +144,7 @@
           "ticker": "006400"
         }
       ],
-      "summary": "포스코퓨처엠, 삼성SDI와 6조원 LFP 공급계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "포스코퓨처엠, 삼성SDI와 리튬·인산·철 양극재 장기공급 계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "positive",
@@ -98,12 +157,12 @@
       }
     },
     {
-      "id": "d04f2266f2326bee",
-      "title": "포스코퓨처엠, 삼성SDI에 LFP 양극재 6조원 규모 공급",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QdlZKc3V3Q1dQYmVPcEV3UzVIUVZxcnhrdW1kZ3RYRXVyaU5yVkhJSXNBRUZMSTdnRTRDRE9EUUhSWktFY2MzT0pQQXpvc0E?oc=5",
-      "publishedAt": "2026-10-06T08:21:33.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "id": "addb18ca8dc27698",
+      "title": "포스코퓨처엠, 삼성SDI와 6조 규모 LFP 양극재 공급계약",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vX25PbDgxM0ViNjQ3MGI5RTBObW5XZ1NsV2pnVHl0SFN3ZjJuY0htUEI1UklIWEMwMlUzMTIzUXpLaVBRUFV0QzY5MDVPX00wc1ZDVS12T3NwQ21XWFZieNIBYEFVX3lxTE1vX25PbDgxM0ViNjQ3MGI5RTBObW5XZ1NsV2pnVHl0SFN3ZjJuY0htUEI1UklIWEMwMlUzMTIzUXpLaVBRUFV0QzY5MDVPX00wc1ZDVS12T3NwQ21XWFZieA?oc=5",
+      "publishedAt": "2026-10-06T08:29:25.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -114,50 +173,25 @@
           "ticker": "006400"
         }
       ],
-      "summary": "포스코퓨처엠, 삼성SDI에 LFP 양극재 6조원 규모 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "포스코퓨처엠, 삼성SDI와 6조 규모 LFP 양극재 공급계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
         "negativeTerms": []
       }
     },
     {
-      "id": "51c705592f0cdbd6",
-      "title": "포스코퓨처엠, 삼성SDI에 6조 규모 LFP 양극재 공급…\"합의 물량 2배 넘어\"",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnhYYmswNm1mNnBQaHdHTEtvNXJuTFl1a3dpaGp4SmRiVEU0UmFMeVJzb3V5b0hnNFplS1dQaFhqQUFZR2hOM0toVVZ0a0xWVDlFcUEtblNfNDhkZGFyUXBfbl9IN291bUdaQTk0SU5Sd09KRVhnWVRtOUszbDlwdjkwQzZsQQ?oc=5",
-      "publishedAt": "2026-10-06T08:21:15.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "포스코퓨처엠, 삼성SDI에 6조 규모 LFP 양극재 공급…\"합의 물량 2배 넘어\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "aa532cd74608fb11",
-      "title": "에코프로비엠·삼성SDI, 전고체 배터리 소재 공동 개발…내년 상용화",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0l0NGF1UXhJa2x5OW1fSVdXaDhsOEN0OFZmM3h4SnFfMUthSUUzWW1Mc2xwOVhjeHdlcWtpQ2N5TEI1QUxZMF9DdDdMM2wySWVrV0VoTVBmY1lSdkVKSlFVLWVLSkhNYXBYc1cyMDNrYWI2ZHZaVUJENWdNclhtMmctR2NjQQ?oc=5",
-      "publishedAt": "2026-10-06T05:57:43.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "id": "808594de68741090",
+      "title": "에코프로비엠-삼성SDI, 전고체 배터리 소재 공동개발",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaDNRRzhGSXpOd2hlRFlGTDRKQ1VncEpOd3Jjd1JCdktRSFFzelRIVzA0M0lNX3paa1hVLVNoNTVUeGNMLUpMUGpWMkxnbUtNeW5jZ25zSG54VFZE?oc=5",
+      "publishedAt": "2026-10-06T05:59:00.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -173,7 +207,7 @@
           "ticker": "086520"
         }
       ],
-      "summary": "에코프로비엠·삼성SDI, 전고체 배터리 소재 공동 개발…내년 상용화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "에코프로비엠-삼성SDI, 전고체 배터리 소재 공동개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -189,7 +223,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UUXhzNjlCUEU0RUZ3SEEtZ3ZKdUg2WXZhR0RXWkdDV2RCRkllYXJnU21iXzlBczA4V2s2RG0tb2UybHdtNnRraFA0LWFsLWVNRzhlNVdsM2NKVU15U3dKVHhxcmhhQnhFcERaRzFES2TSAXBBVV95cUxPVFF4czY5QlBFNEVGd0hBLWd2SnVINll2YUdEV1pHQ1dkQkZJZWFyZ1NtYl85QXMwOFdrNkRtLW9lMmx3bTZ0a2hQNC1hbC1lTUc4ZTVXbDNjSlVNeVN3SlR4cXJoYUJ4RXBEWkcxREtk?oc=5",
       "publishedAt": "2026-10-06T05:22:58.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -216,7 +250,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44QXBkbGc5bVplNU15SjEzNGtsMmlYSGhUazZVaTJvY0dLcExPLWNzWElsdGhPM3phQ1VSRTl0RXhNWmpqTlFsRnZHMEJvc3JZOXF4ZFhoUnl4X2xqREN3VTIxNzBvbG16VVZnSNIBckFVX3lxTE1mT1A0dWw4NlhaQkhKUzZiMDUzZ3NiZFQ1aXpWRkhvUUlOQTJuNXItLTBEVzVvRzNkRjRPMEFTbGt6QnFTU2JxRUVWSmZ4dVZnQUl6bjJzd3QzeElGMm9GQWJmYnh5aU16b3dWRDRKdm1UZw?oc=5",
       "publishedAt": "2026-10-06T04:41:22.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -248,7 +282,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OT1pHdjVWS1QxT0cyTFhkbmRxRGpFUWZIT24wUHFGRldjaTRrZ1ZVWnBIdmFkbTFrQXNTWWppQ2FvVDBFUDBTaUtqV1U3YlJKbkpIbnBORjlJbC1WRGZ5a3ktVTMtdw?oc=5",
       "publishedAt": "2026-10-06T04:00:29.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -275,7 +309,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOWZpcmdFRWVUS2JvU1hvRlNFaHJmbXM4NmtmQTlJdkFfX2dUdC1UV055S0tmaDZDSzBGMlAxdWd2ODFWNEp3RzdFMmRPMFV2YXUtYklIQkd0bkU?oc=5",
       "publishedAt": "2026-10-06T01:26:53.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -284,37 +318,15 @@
           "id": "samsungsdi",
           "name": "삼성SDI",
           "ticker": "006400"
+        },
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
         }
       ],
       "summary": "“내년 전고체 배터리 뜬다”…삼성SDI, 에코프로비엠과 소재 개발 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "af9c02e64c0fae2d",
-      "title": "에코프로비엠·삼성SDI, 전고체 배터리 맞손…2027년 상용화 목표",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVzBHdjY0a0lPcUk1VW4zWHJfVUMzc2VNYkZZMVNzRUVKWjY3Tjg5RzE5T0tGWXlWQW5SQzZaaXY0cHA1b2FPalVHY3ltMG5YVWNxaEVZOHlJT1hYaGJDNQ?oc=5",
-      "publishedAt": "2026-10-06T01:21:54.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "에코프로비엠·삼성SDI, 전고체 배터리 맞손…2027년 상용화 목표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -329,7 +341,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92c3BDWFRnbTl6UHlBZXB3SjVXbzFIOEwyak1iUC1uYkVCXy1TRXozVUFMa2owWXlsa1lUOWZCNkR2aHZ0RU53U2g1U2YtSjEtX2tnS0dTeS11YmtTMEE?oc=5",
       "publishedAt": "2026-10-04T22:50:08.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -356,7 +368,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERVlxYmVBdnlwamhDVGdZb25nZkNicnY4dDVqZ05Kbnk0c3JhVEtRcWJhYmRneHhhaFFoQ25JQXFuZFU2bGNaS25GVlpXaDZyQlhYYXJnRjFfZw?oc=5",
       "publishedAt": "2026-10-01T02:24:10.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -378,39 +390,12 @@
       }
     },
     {
-      "id": "d6e64e12ced86d48",
-      "title": "회계법인, 벌써 내년 감사 경쟁 치열...LG전자·삼성SDI 등 '자유 수임' 풀린다",
-      "source": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUlKa2FDTE5MQ3ZfZUpLUmVJMGRyRUo2ZTBfaFJJSi10MWgxWk42eVdjbVRKYXRmSFVHMmxFTVVjNk81ZjcwcVc2bUh1ZTJGVHg2Z0ozZGJmc01ablhjazZXdlFyNXIxd3dVLUktN0plVTEyalVIbjdXT1ZNdV81UWlBQQ?oc=5",
-      "publishedAt": "2026-09-30T22:00:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "회계법인, 벌써 내년 감사 경쟁 치열...LG전자·삼성SDI 등 '자유 수임' 풀린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5afb3d281ba69cad",
       "title": "\"고맙다 삼성SDI\" 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ybU5JSXd0VjBtMi1uVlJSSnl4ZklYQzJtdlZvU1pXOTlJblI0RFlpZlJRcUU1ZXR4aF92ZmNoUzB6NGpSMk1uRzZsZ0RfM0dBQjdWcl92eFJmVThhNzJ2UmJkdHhsZw?oc=5",
       "publishedAt": "2026-09-30T07:00:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -419,11 +404,6 @@
           "id": "samsungsdi",
           "name": "삼성SDI",
           "ticker": "006400"
-        },
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
         }
       ],
       "summary": "\"고맙다 삼성SDI\" 에코프로비엠, BMW·벤츠 신형 전기차에 양극재 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -442,7 +422,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xd01ORGE2RWprdEREQW1La2kyd0F1QzhKbzExRk9PeHFlLWQxemRudWtBalM2Y3duTGFqTUtGNjA2SVVSVGFzb3VIRmFoWmJDcWVjOThnN25KdUp4OW1NX19WMV9HSkk1Sk9BMA?oc=5",
       "publishedAt": "2026-09-29T21:50:03.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -469,7 +449,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SODBvbm5pR1F0V2pYQWxKM25KbmNkYkphTXI0ZkhMRnU1UTRvaHozRVhVeXRhckR4blZlcm91MGcwUkNpOURQSnUyQ0dQaVp3b3hLa0FwczJJY0poa21iVW9IMzhZa1VuUnRNONIBckFVX3lxTE5kWXp4SVpjLUFYcU1RcURTQzhkWDJUSGlscUJTeHZlejk3cU5VcnhMMVFwQ3NnM3Q2azdpZExDWXhDSEVsVDdkY2EyOGhHbmt1aGMwM2JVcmJJVzJmQUNoTEJoaEtoMzY1Z2toRzVKVWZwdw?oc=5",
       "publishedAt": "2026-09-29T19:01:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",

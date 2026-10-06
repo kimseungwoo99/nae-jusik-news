@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:37:49.610Z",
+  "generatedAt": "2026-10-06T16:59:54.583Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "‘모두의 AI’ 10월 대전...SKT는 \"전화\"·카카오 \"카톡\"·KT '개방형'",
-    "카카오, 멤버십·공공AI 등 AI 일상화·구독 경제 본격 시동",
-    "카카오, ‘AI 돛 서밋 26’ 성료… “카카오그룹 AX 역량 부산에 모았다”"
+    "카카오 월4900원 멤버십 출시…네이버 쿠팡과 3파전",
+    "카카오, 멤버십·공공AI 등 AI 일상화·구독 경제 본격 시동"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAweDB3MlJabGxSUDVOVTBjUzA3WTRWMG5zbGc2Y3NhYVJXZmctMXEyRk9yMjB6YXgtOXZRMFRpNm5aYU96MXl0OWtkS2dKMDZKUl9YcmpKTnRnenZNVnhOYWJDejFlZw?oc=5",
       "publishedAt": "2026-10-04T23:00:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -47,12 +47,39 @@
       }
     },
     {
+      "id": "3097ef0bd2541ccb",
+      "title": "카카오 월4900원 멤버십 출시…네이버 쿠팡과 3파전",
+      "source": "국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTBOYjYyc0VMZEpxNXp5eUxOTVFyWG9yeTAwZkxsWWxlTTNhQ3hIMl9HWWRnUHV5OTYzNXVyZFQ0c2Zma056cEJJYnl2UW9GNnBSbDl4OWlhNkt5REpZN3dlcTRRSVZJU3R0WDVqaERIYTZOWUpJaGY5Z2oydlRZb0JiMHJNNGxLWXJIS0NB?oc=5",
+      "publishedAt": "2026-10-04T03:39:00.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오 월4900원 멤버십 출시…네이버 쿠팡과 3파전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "28434c21a280c88e",
       "title": "카카오, 멤버십·공공AI 등 AI 일상화·구독 경제 본격 시동",
       "source": "천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZcnhFaXVYdmVaYmc4N1VTS3d6akw3MTFUM3R0b0MwU3dJWkUta2JuNmc2ODByOE9tbTFoUWNKNE5JS3NubHk5QUQ4WXV6ZXlqNDVNMV9MdVdEb0l1eDVFMURVRlg5UXRuTEE?oc=5",
       "publishedAt": "2026-10-02T02:01:16.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -79,7 +106,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vV0FacXlZd0RPR3FUb1o0Tl9ZQUpIZTVtY0NCM2llU242LU9lUFE0ZUlTSGI4VzRaZTl6N0I5d1QxU3Y1Y19VLW9hQ2lHSnNTdkJiOTd1WUgxbFBKajBnb01TSHc0T28?oc=5",
       "publishedAt": "2026-10-01T09:20:48.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -106,7 +133,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SGRiLXBIcnNScVlYVEpkQVFUMlY2UVhvZjk5V3NzaXdBdmlnc1dyQjlOUGFTdk50cy0zZkx1V3Nkdk5tVFVjT2FZeFp0eTBnSzJwUGtITVE4SW9FM01iV0w2WF9yanplT1ZmdjlyY2JWbFk?oc=5",
       "publishedAt": "2026-10-01T08:04:27.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -133,7 +160,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ncGJnTzAxYlozZG1GaUtVM3B5RWItYk5SRjktMnRPdVBMOEl1MGpHQXFYQnhIenFtOHJSbFNxaFdkR19pcGM5U1kzRnI1b3F0SHR0TVB3?oc=5",
       "publishedAt": "2026-10-01T07:38:18.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -160,7 +187,7 @@
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82S0I1MEV0TFQzeWlZQ2NQSk8yWHROa2NJY0g3Umsxa1F4d29mUlJhLU12M1d0MzBYTUl0MXdCZXd0bHRZcEEtTE9udmdteUl5aDE3Tm5kYXpNclpYNlUwUkpPbDhTdHVJVkpv?oc=5",
       "publishedAt": "2026-10-01T07:15:22.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -187,7 +214,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SU212R0wzM0RIb2JVX2JiSDZ3dVdzT3dNVFY4UmYwWkhidkUzUExoMl90UTBIMTgyOTU3ZGg2SjlRd2dpX1lFODBPRTlpV3NwWXdLSmtQSUxvUnc3?oc=5",
       "publishedAt": "2026-10-01T06:49:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -214,7 +241,7 @@
       "source": "로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5SWN3YUt1MmtQaVJBTnEwTmljMDdQQ1E3RXRyZ0c3YUtuV1NVdGZlUFZwR0s3X1hidHZPMmhqdTEtWW5UajB1OWNneDgzUmp5TWI3QUVFWG9SUzBVWHlnM3RpZTB3UUU1aTNuUA?oc=5",
       "publishedAt": "2026-10-01T06:06:26.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -236,12 +263,66 @@
       }
     },
     {
+      "id": "e0b3a071e034b8c7",
+      "title": "카카오, 월 4900원 첫 통합 멤버십 출시…쇼핑·결제·콘텐츠 묶었다",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lRjd3WGJfcWM2MGJEZmZqakFncWZiMFF2XzJwWjFwYmlhVzFhQ0dLWGdWSk9SRllUQlVjd2dRc3cwUEpXUmtZV0RtUm9kYXJocFBvUjMxd1R3WWs?oc=5",
+      "publishedAt": "2026-10-01T05:37:52.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 월 4900원 첫 통합 멤버십 출시…쇼핑·결제·콘텐츠 묶었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "80cd6e591565ce2e",
+      "title": "‘카카오도 묶었다’ 카카오 멤버십, 네이버보다 경쟁력 있을까",
+      "source": "비즈한국",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUtCd25mQm5fdHRNeFdLdER1Y1pTdFd3QUVRbDI5ejFXdmlsNzBRd1VQcy00eVRmZnRkaXZ4VDJidWZhREdWOWp1WWgwYllKM2dZR1ZVUnhZeXNJLWlmN3V1eE5kM0c4NFNoUFJRT09oMnlNM2NUUld6UzNTempyR3BMUQ?oc=5",
+      "publishedAt": "2026-10-01T05:06:32.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "‘카카오도 묶었다’ 카카오 멤버십, 네이버보다 경쟁력 있을까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "91dde057e0724354",
       "title": "카카오, 월 4900원 '카카오멤버십' 출시…네이버플러스 정조준",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LUk91RFI1Z290b0NOaXFlc241UTc4VE9FS3FVdjBFaDA4eUhiSjhSNjJXV1NmcHJXdVViakhRX2RjUkNXOWhvTFFvemtaNXNTRnVEeTdHR0Z4NTVialRsaTRPMmJwV2dveHc?oc=5",
       "publishedAt": "2026-10-01T02:24:02.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -268,7 +349,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ub2htZUNMdExKMUkxTHN1Y1R1eTVNZDJ5UmYzRUU3ZUxzczJLdG9qNS1PWTFacHBZX2V6TGY5VU1fZDRDUWdfcnJwQUVEYjhqUE1KR3NiOEcyajd0aUtGbmgxNWdpZmlW0gFsQVVfeXFMTU15eWpuUlIyakNYZTJ4bTlaWHR4M3RGYjY2d2NmQlF5WVY0cGlQTXNPS19FRnE1bG05cFV3ak5MLUFUNFVCR29IZXF1OHhsdk4yQWIzSFQyN3RLcHo3bkF2NnZmLWpmMVBVUEpF?oc=5",
       "publishedAt": "2026-10-01T02:23:09.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -295,7 +376,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fa0pNRUlDVjF4cXk4NWc1RHRsSFh1MU1qdVFHVk1JUmlQUWpGdzA0WnRFMXBacTg1UEotLUxnV3VpaGZjMkFlY2FWeFNiUHBLeVBocWVCRzcxamvSAWBBVV95cUxQSWttQWJ4NXJPYjlZdUJwenI0RDhRTGRkTVRVaDVENFFhSmpnOUs0WUtydVZoc19xckRlaDFieFVkWkxrZnExQ2RWQmVwVzdURklNSUtZTXFJbFFoOGNLUzI?oc=5",
       "publishedAt": "2026-10-01T02:21:39.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -317,12 +398,39 @@
       }
     },
     {
+      "id": "9b933e2a0d8019e5",
+      "title": "카카오, 월 4900원에 첫 통합 멤버십 출시",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWpENzVicmh5U3pIRkMxVnNnZU8zcVY5bmM4TjlXWU1KR0x4NFdDS0s2Sk9uSlFYWFFacWhacENNbDg5aW5sREY3REY4c0Q2ektrM3JSdDBWcUdTbnBsMEQwTHBHMGhOWEowR2lyY2s3ZGRMcE5EdTJKczdvN2tUeTd0SQ?oc=5",
+      "publishedAt": "2026-10-01T01:38:47.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, 월 4900원에 첫 통합 멤버십 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "69c0c5780bb1d42c",
       "title": "카카오, 월 4900원 멤버십 출시…선착순 가입 시작",
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQTl4aXZ3Rk1XVWhHUlpNYzFZR3pQV2ZiVGlTU0JCazd1VEVnX1RXdUdTeXFYWDY4ZE5aYlV1ZDl5OTRGQW11YnFXNW5EeWt1ZU9HanhNODJEcFBBVTBCYy16YTI?oc=5",
       "publishedAt": "2026-10-01T01:29:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -344,39 +452,12 @@
       }
     },
     {
-      "id": "de05d3c978722000",
-      "title": "카카오 멤버십, 월4900원에 주식·이모티콘 등 제공…선착순 판매 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uZUFvcHBNTzVvb0lSNnNJMXpPQWllQXRaaHhKbXZfQ0YtNktFSzFCWkQxT0xaT20xdF9VREU2dWx5YmZ1aXZ5Y1oxUjJFRHJxc0J0STFXMzlVTFJ5MTdNSEI1Q2pWTjTSAWxBVV95cUxPNnh5MzZEYW9tSFY2a1lNSmNKbU42V1pibEQxMG9pbUdIUFJEaE5Ja3pzLWVfSW5QZHprTnBISUlMRTdYTnlMQVlJYWJZLVdGYzR4N0Z6VzBwYkZJMTVJTTJMakI2eml1WVJ0N1Q?oc=5",
-      "publishedAt": "2026-10-01T00:45:53.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오 멤버십, 월4900원에 주식·이모티콘 등 제공…선착순 판매 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "bd0008869a17969d",
       "title": "카카오 첫 통합멤버십 출시…월 4천900원에 쇼핑·콘텐츠 혜택",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQlJWaFVUWFhnMVlTLXdmQVFUczZzUkMwN0JhOTNvS1E0Y0pOQks1SnBVSGRDbGNfTFRsd2hDRDdhZ2hLRnFpaW1YX3B2bEZJeHAzM2dNRVFaNknSAWBBVV95cUxNTkJaOFJSR3o1c1VQNFk3SGVvZFZqdEJIUmxLd1FUQzN0anBOaGFERW40YnIzWi1fZC1NVGZKaHNiNXZTLVpVaXZ3SW9ReUFHQnJzZEIxXy0tc1E0QnBSTDk?oc=5",
       "publishedAt": "2026-10-01T00:45:37.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -398,12 +479,39 @@
       }
     },
     {
+      "id": "52ce1b73cb2148dc",
+      "title": "커머스·금융·콘텐츠 한 데 모았다…카카오 멤버십 출시",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GdURSUmVDLWhWWWJhb1pORlBieUptd2h4YUtvMm51X0Q4eFBiN0pRZmlYc3BUNXlyY3ZsMHlaMHdocElFdzgtOWVBLTdZam9RT3M2VDd3?oc=5",
+      "publishedAt": "2026-10-01T00:39:45.000Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "커머스·금융·콘텐츠 한 데 모았다…카카오 멤버십 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "886095732557a01f",
       "title": "월 4,900원에 선물하기, 오프라인 결제 적립, 금융 혜택까지 카카오 이용자를 위한 가장 합리적인 선택, 카카오멤버십 출시",
       "source": "카카오",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbk1WS0N3VFBNQnVIMHFSZzlrT29HUG0yQUJxRkhhSW9FUUk5ZFZoRUVSZ0lfSk44dEJyazdUNUtmaFhncXBnZjZ2U0dwM0VSREpEZS1n?oc=5",
       "publishedAt": "2026-10-01T00:15:27.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -430,7 +538,7 @@
       "source": "주달",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hN1E0aXJGRjhnOXlqUXFnUnNTMjVhMTN3a18xY1BSUkFncGdJZnZycV96ZmRnWEg2bDcxdG11OHJhVHlic3hGRWV0ckEzb1NvSHlkbFdJZENTWE53Z2VTWWtuTE1QQThGTk5NSXA3QVFDMGs?oc=5",
       "publishedAt": "2026-09-30T07:00:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "collectedAt": "2026-10-06T16:59:54.583Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -443,114 +551,6 @@
       ],
       "summary": "카카오 투자분석 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a91f9c53e60d5706",
-      "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
-      "source": "AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTN0YzeThwR3ZKM0hwek1YZXVXamNXbkQ4UHNfcldnd0Jnd082MjlFN08waUJfUS1Nb1NEX2V2LU0yS2s3M2tPdzhyaFptem41dEI1QzN6VFpvTzMxYnhsbmVtNE54RGdMTnc?oc=5",
-      "publishedAt": "2026-09-30T06:06:12.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2815b045b7ac143a",
-      "title": "카톡으로 국민연금 조회·가입 신청…카카오AI ‘국민비서’ 연계",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2hRLTFmUVhJR2dBeHNKRDVqUU9hVmFzMm9NYmJFWEJ2X3pIT1RzTi1VeS02cDFMYkVhd3NDdHhyS2o5aTVwemwyWVB6a3E2VlBjNjg1ekpkUlZjbExsMnBBM1VxV2VQcWEyMlRkblBsaEJNQ3ZBTjBkNkFRVm5HQm43NA?oc=5",
-      "publishedAt": "2026-09-30T05:53:32.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카톡으로 국민연금 조회·가입 신청…카카오AI ‘국민비서’ 연계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0924150353b43db6",
-      "title": "카카오, ‘AI 국민비서’에 국민연금 서비스 연계",
-      "source": "viva100.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xbUswNzNzWlFNcWZLN0N2WllvN3lnbG1fZGdXR1RlakhxSXdOV0xUNUdKcmFXR3dEdWhjN0xDdlhkRGpSbUFDY3d3eGFMQXgxdzRQYXgxVC00Zw?oc=5",
-      "publishedAt": "2026-09-30T03:41:00.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, ‘AI 국민비서’에 국민연금 서비스 연계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f57f47db0894f42e",
-      "title": "카카오 'AI 국민비서'에 국민연금 연계…카톡서 조회·임의가입",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TWGg5Q2VHcW5iRG9ITnQ2MnZkNjR3NEhGbGwzc2pzaDB0Y0JhWWsta0Y0dnpJYWdhcUNTX0wwSFMyeUszVjRpc2xhR1BSaVVJaTh0VEJYQ2hENExfanJ2TVkwdHNJNUhvUGRZT3lEWXA?oc=5",
-      "publishedAt": "2026-09-30T01:44:41.000Z",
-      "collectedAt": "2026-10-06T09:37:49.610Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오 'AI 국민비서'에 국민연금 연계…카톡서 조회·임의가입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
