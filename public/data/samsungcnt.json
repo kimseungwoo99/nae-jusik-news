@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:36:17.681Z",
+  "generatedAt": "2026-10-06T09:37:49.610Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,105 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[특징주] 美 기술주 훈풍에 'S7' 강세…삼성전기 160만원 돌파",
-    "구미시, 대기업 투자와 지역업체 수주 잇는다…삼성물산 첫 매칭데이",
-    "오세철 삼성물산 대표, 하이테크 반등에 힘입어 2분기 영업이익 71% 증가"
+    "초대형 '한강벨트' 수주전 막바지…정비사업 '10조 클럽' 판도는 - 머니투데이",
+    "[리포트 브리핑]삼성물산, '성장과 주주환원 확대 기대감 유효' 목표가 510,000원 -…",
+    "삼성물산 참여 폴란드 SMR 프로젝트, 현지·해외기업으로부터 6300억 투자받기로"
   ],
   "articles": [
+    {
+      "id": "effc600a2112cb90",
+      "title": "초대형 '한강벨트' 수주전 막바지…정비사업 '10조 클럽' 판도는 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95SzZuN09OMV9SWGxUYkhVQmV3MnF5Nm8yQ1AxYkFaV3dEZHB2ZnE5cjlmSkVnM212NlpVMjNLbDdzRW11TTFVbjNBQUFnYk1BX3lDR1dkWlo0OFBkRGZOSUN6VnZDbTBBV21LRkZ1c9IBb0FVX3lxTE95SzZuN09OMV9SWGxUYkhVQmV3MnF5Nm8yQ1AxYkFaV3dEZHB2ZnE5cjlmSkVnM212NlpVMjNLbDdzRW11TTFVbjNBQUFnYk1BX3lDR1dkWlo0OFBkRGZOSUN6VnZDbTBBV21LRkZ1cw?oc=5",
+      "publishedAt": "2026-10-06T06:58:46.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "초대형 '한강벨트' 수주전 막바지…정비사업 '10조 클럽' 판도는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "deaf3f7cdbf1e0be",
+      "title": "[리포트 브리핑]삼성물산, '성장과 주주환원 확대 기대감 유효' 목표가 510,000원 - DB증권",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuNWIxNy1kamJIRVVBSWlVSVpKTHRlUnZfNF9TVUJVZDJTbjk4a192QWRrRWo0SGFYQjdtNzRVdTJCWW1CdnRQY3NnS1pwRGgwdGYxc0pQdHlKbjIt?oc=5",
+      "publishedAt": "2026-10-06T02:42:00.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "[리포트 브리핑]삼성물산, '성장과 주주환원 확대 기대감 유효' 목표가 510,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.28,
+        "confidence": 0.62,
+        "positiveTerms": [
+          "기대감"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "aa8029f878334d35",
+      "title": "삼성물산 참여 폴란드 SMR 프로젝트, 현지·해외기업으로부터 6300억 투자받기로",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMlRUTHl2enM5TkYwWWVYUUR3cGdpTUpZQUVmSUU4WVVNY0pLR1NReDlybzBJdV8zTnVwT0tWeWxzZm8wNjhmWFlGaUs3NDlORXhSUHU0UUZkSXlpZ1pSYTF4cw?oc=5",
+      "publishedAt": "2026-10-05T23:52:31.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산 참여 폴란드 SMR 프로젝트, 현지·해외기업으로부터 6300억 투자받기로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "cfc56a555ff3aeae",
       "title": "[특징주] 美 기술주 훈풍에 'S7' 강세…삼성전기 160만원 돌파",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUWR6Y0xtWHA0R2tBUTZ4RVlUSlVsd2JtZWFaVDMtWEVHS1dWMlJPVXN2cGVkUWFoRDN1UmdFNW5QV3hkaFY3MS1DdWNEVlk0Mm9FeWg3NlYzeDd4?oc=5",
       "publishedAt": "2026-10-05T23:08:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -45,12 +130,66 @@
       }
     },
     {
+      "id": "390807cc70758df4",
+      "title": "폴란드 투자자그룹, 삼성물산 협약 유럽 소형 원전에 1720억 투자 예정",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3lFRUhzNlVqYmo1ZHl2MDhTM0o2OGNxdkVVVlRKX0FkOXAtWWZ1cTlFTmtfN1JOWXpEQnFnWjV6VmpRcDVmSHYzc0xIek9EdmJHN09IYWFGMHREd2Q3NlRLcDRSdVlFSWJxNlJWQk5LTk1HOU9xa1VfZ1k2RHVRYTR6VFItZEtr?oc=5",
+      "publishedAt": "2026-10-05T21:23:39.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "폴란드 투자자그룹, 삼성물산 협약 유럽 소형 원전에 1720억 투자 예정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "74844c54d59a4353",
+      "title": "[제21회 동곡상 수상자-자랑스러운 출향강원인 부문]지형근 삼성물산 건설부문 전략사업실장 부사장",
+      "source": "강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TDR6OVR5Q1RmQ09SOUZJMXlTM0pKSm9YVWNXTXZjX3BmVEtwM25DcWU5VTZ1YUdwWnBWU2FPYzk3THNuVFJtQXl4OHdxNURJMWRGVWU3QTJyV2c?oc=5",
+      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "[제21회 동곡상 수상자-자랑스러운 출향강원인 부문]지형근 삼성물산 건설부문 전략사업실장 부사장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ca49e63e048060cb",
       "title": "구미시, 대기업 투자와 지역업체 수주 잇는다…삼성물산 첫 매칭데이",
       "source": "kyongbuk.co.kr",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvdFBlTnBHWmVfOWx3bVZjYkNzTk8xemhXd2V0THIwZDBOWnVwU3lpckE4eUFEaFpZak5SMWsxbWIwaTRiSGtzU2Y3bjBSLThZNXFrS3FyODZmc1BCcTI5cnVmVmp4TWRFXzBCd1I4SQ?oc=5",
       "publishedAt": "2026-10-05T09:06:48.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -74,12 +213,39 @@
       }
     },
     {
-      "id": "b927d794716d182e",
+      "id": "cb456ed2d95c96da",
+      "title": "메뉴를 닫으면 진행이 이어지나요? 토토 연령 도움말",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVZWaXg4MDdZWGhmaDdrSlQ5Z21KNWpvXzhfRF9nVGlnYlZFQW1nc1ZCam1WLVFwd0lENFpjMmxadTdlR19KdW50dE1ZRmFWWmg1ZmI0MkJQV3J5dklKcHpRUUJ6YjZrMWdJbHNYU0xxYV9QQnBzUDhVWmxnSm5WYW05TG9RTTZvd1RUcWpQOUc0WjF6NW1JV25MWnhLLV9ZZGgtYlRuMlR5LTVYMjc0WktUdkNzbXl4VTlyelQ0ZmpOUGlldmJJOWpiaDRveEFCVnE2cFZR?oc=5",
+      "publishedAt": "2026-10-05T05:26:28.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "메뉴를 닫으면 진행이 이어지나요? 토토 연령 도움말 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e6245a1e46b4732a",
       "title": "오세철 삼성물산 대표, 하이테크 반등에 힘입어 2분기 영업이익 71% 증가",
       "source": "CEO저널",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNFVNNFBCRUFoZzZ2azdaNFV0cElZREhQTHJpT3Y0Z0NCMW9ybEdFN1dLM190bzJMSW5fcHFBXzY2SXVrd09rMmh5aW84cElkTmJhY0hEdlpyNXdXNktPZGd2S2RVczc0Q2fSAWpBVV95cUxPaTRVTTRQQkVBaGc2dms3WjRVdHBJWURIUExyaU92NGdDQjFvcmxHRTdXSzNfdG8yTEluX3BxQV82Nkl1a3dPazJoeWlvOHBJZE5iYWNIRHZacjV3VzZLT2RndktkVXM3NENn?oc=5",
-      "publishedAt": "2026-10-05T05:55:34.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5maHFLT2k3OGJqQnhHN3R3b2RsLURtMll6U0d2UmdBeXMwekJ0aGFNMXgza1lhNE1Qa2dyTHI0eGw2aHdlV3NTVjhnM1pqMXNoSWFPT29xX09FZnowdVdSbkVEVWtFZ9IBakFVX3lxTE9pNFVNNFBCRUFoZzZ2azdaNFV0cElZREhQTHJpT3Y0Z0NCMW9ybEdFN1dLM190bzJMSW5fcHFBXzY2SXVrd09rMmh5aW84cElkTmJhY0hEdlpyNXdXNktPZGd2S2RVczc0Q2c?oc=5",
+      "publishedAt": "2026-10-05T01:30:00.000Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -104,39 +270,12 @@
       }
     },
     {
-      "id": "cb456ed2d95c96da",
-      "title": "메뉴를 닫으면 진행이 이어지나요? 토토 연령 도움말",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVZWaXg4MDdZWGhmaDdrSlQ5Z21KNWpvXzhfRF9nVGlnYlZFQW1nc1ZCam1WLVFwd0lENFpjMmxadTdlR19KdW50dE1ZRmFWWmg1ZmI0MkJQV3J5dklKcHpRUUJ6YjZrMWdJbHNYU0xxYV9QQnBzUDhVWmxnSm5WYW05TG9RTTZvd1RUcWpQOUc0WjF6NW1JV25MWnhLLV9ZZGgtYlRuMlR5LTVYMjc0WktUdkNzbXl4VTlyelQ0ZmpOUGlldmJJOWpiaDRveEFCVnE2cFZR?oc=5",
-      "publishedAt": "2026-10-05T05:26:28.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "메뉴를 닫으면 진행이 이어지나요? 토토 연령 도움말 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0014f0579b9e4931",
       "title": "계절 경계 흐린 ‘웨더리스’ 패션이 대세…삼성물산, ‘여러 계절 입는 옷’ 강화",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DTF81cWlud201SWJTaDJxc25MdU9HLXktbzBKRzR3WUhLY3BITERIeS1sS3l6eFFpUENpeDE4QXFvaWZsRU5fQWlGMHhTcVhXOFhlZQ?oc=5",
       "publishedAt": "2026-10-04T07:37:14.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -163,7 +302,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hTUtTS0Jnd2F4ZXU0SmJCTzdtTnd6bER1VHNrcEFZWDk3c3Y4ZGw3NzI0UjZ5czMwaDRGelFVMW1TQ3RocWJZQVRCTDBUeHpXNUo0R0Vn?oc=5",
       "publishedAt": "2026-10-03T23:00:26.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -190,7 +329,7 @@
       "source": "헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oc3dzSm1McGZNa08wRjg2SUs5VVNSb0pXbVlCVjVyYUNldDNWVzZTSGJvVF9kVmlkLVpIU25QbTlCM29fajFzdmRYUXFXMFJ0Wm4wVnBn?oc=5",
       "publishedAt": "2026-10-03T22:00:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -217,7 +356,7 @@
       "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOdlUtY05PSjgyaV9oa1hnZnBFaWtZbWdCdHNOSHk5OWlHc1Q4cGw4WXpZZ1RUbU1FWHJUa3hnUTB1Yk53ZnlNQ0pCTkJUaU9MWDM2UnNwN3dzRzVWM1ZXa0hmTzM1dFQ5X3Y4b2dNVzhkVnd1UjFOcE5qWEpwWW03TmNMNldaOHUzU2g4V09heG00V2tyY1QwckxxTTJEM1M5MGNnNTVfRGk3dEZnU2xTeG8tbF9yMXJsM2VWeGJGOHc0eThOUFVsRGRPQW9PTkpmRmhBX24tZHVsN0tRRjlReU5IM0xGTGQzdm1FSW9zVDBvUThOei1aWk9Kc1B5cElINXFMOTB6cm9RalUtR0ZGQmdNU3ltN2ZIYnVfMW5HLUxmQmhEcWl6a3J0MTNqRk1UX205b1FB?oc=5",
       "publishedAt": "2026-10-03T06:34:12.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -244,7 +383,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sUjU2VjhNdGZCSzREZjFLRXVpREVlOVlUYm5jb3pnUTJudklxd2lMQmpEdHNnREVMMGRuR2VpNW9RSjJ2V1VWV1NvS0FMYzRXSDBfb0g1cnlsQVQ0eG1fOQ?oc=5",
       "publishedAt": "2026-10-03T03:28:34.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -266,12 +405,12 @@
       }
     },
     {
-      "id": "5a4697d5aee2d07d",
+      "id": "a1742dca8979a5cd",
       "title": "삼성물산, 목동13단지 재입찰도 단독 응찰⋯수의계약 전망",
       "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3N29uQjJMa096QVZCMTVNWU5VcXRuNTFpUHZmVllUTFdNd2x1cGVVeDRkWk5iYmpiUGFZZV9ZWHJuWTdscHdUeFY0YXlZem8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56cURYYktUX0dEa3pDM01YUVMwUXp2cUtSTWhXejBFcnBJazFmYUVMeWYzTEhEeFNseXgyV0NscXNRLXR5Tnc?oc=5",
       "publishedAt": "2026-10-02T08:23:03.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -298,7 +437,7 @@
       "source": "Tbc.co.kr",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU245dkZVeWxoM2hJeHZlNmJUM0RaT0xXWUpVaFBCYmJmbm1PX1BrQnFtQjVRbENWTjIwdTF1bWFyUXFGemVsbUpPeGt1N29sMkFhdGltTkF4NjVHa2NkMFlwUlhyV1gya0p5RXZ4ZkhxeVNYcHphajVRdmR1YmlHNnVsbVZXZw?oc=5",
       "publishedAt": "2026-10-02T07:00:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -322,10 +461,10 @@
     {
       "id": "f3ab4b57fdfbab18",
       "title": "삼성물산, 전일 상승…AI 인프라 수주·주주환원 확대 주목",
-      "source": "cbci.co.kr",
+      "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LRmZPa3V2YVFMSFNDZnpiNUdub2ZyNUtaSkZ1NC05YUpiM2J3M3pIVlU3MTdkRnc1R3lCNV9TOTBuLXNHS0VCZm5TdmJpUTcxSEQ4QXBhbjVuME1iM3Rnai1XNTVrUGty?oc=5",
       "publishedAt": "2026-10-02T00:03:25.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -354,7 +493,7 @@
       "source": "알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DWlQ3Y0dZOHdJQU9LbFJNWW5ETWViTTZVMHJnc0hhUmdhZnBCYVdaWWxad2VQM0Z1LWRleXZhczlJTlBodFhRdHg3bHpPUlh2VEI1NURJc3N4bm5tbFhEVzVWRTJLNzVjcElZVTVB?oc=5",
       "publishedAt": "2026-10-01T15:55:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -381,7 +520,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZbktyWmVKYi1OZVZLTUxMOE9EejJ2aFdEZU9kYm1zcVk5MmEyUE1zS0JFVkhQeGRiaDYxQWhQZFY0Qkl0clFHWXljYkFNNWlmcDUwUm1laDhZQQ?oc=5",
       "publishedAt": "2026-10-01T07:57:23.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -403,39 +542,12 @@
       }
     },
     {
-      "id": "685f75d30a72f52e",
-      "title": "삼성물산 패션, ‘멀티 시즌 경량 패딩’ 라인업 강화, SSF샵 구매 고객 2배 증가… 에잇세컨즈·빈폴·빈폴키즈·구호플러스, 아우터 시장 공략",
-      "source": "삼성물산 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPMlhZOGNTeEl0V29XcmMxOFl0TS1rUi1yQ1BUSS1NX2lqMkhnc3F3SFoyQjJMeUlqaGVHVlQ3S1kzeFA3WjA1aWVxcWRuSDBlc1BldE9teVNzc1RKX0NTMVNXc3ljV0ttVGJoWW96VXdCMXZ3SDVqX0V1UHJ6VUlyRHZhZzBwNDJGMDJxWVFRdEhfMk93aEdtTFVDRHFDVjYtbVRNVDVLTENZczFpTHd2T0RKOWJZMkdFbW5MSEE5LTdPZlJTWlBsbkRkZVRJQkcwaFhfck1LakJTRXlVcUYwM2o3LVZCVFNnN3o2RnpDaVdjQVVLZzhoQXpmOXRKWjFfVnZiSnVSTlJxa0psWEFxekR0OTJYY2NHQWRaSk4zMjJlUXJHM1V6aVRFLWZTTW1aRHhHZm1UdGppcGhLNF93LUxWNTYwWU5LMkt4WGl2UEFPMG9Qb09helBSTWg2UnBvSGkxQWNmWFJyMENZaW9zTkVmbEVRZGtzaTVoQzJXcndFc0g3ZzdzcEQ5VXVVUzBINFBTN3dvOHE2RW9IdjJmZ2Zmb2M?oc=5",
-      "publishedAt": "2026-10-01T04:58:35.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산 패션, ‘멀티 시즌 경량 패딩’ 라인업 강화, SSF샵 구매 고객 2배 증가… 에잇세컨즈·빈폴·빈폴키즈·구호플러스, 아우터 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e888c673989287b9",
       "title": "삼성물산 패션, '멀티시즌' 경량 패딩 강화…겹쳐입기 수요공략",
       "source": "v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCUWlOMG5UNE4wTmJnZXcwRUdObHB0S1RRS0pfS1E4Z1VWWUNSY1NnbF9nLXdNQVRRSHpnQzZDVVhkRnpOeE5oVTQweUE3WEc0cmtuRA?oc=5",
       "publishedAt": "2026-10-01T01:24:02.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
+      "collectedAt": "2026-10-06T09:37:49.610Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -453,119 +565,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "94bcf266b3da6aca",
-      "title": "정부, 삼성물산 합병 ISDS 환송심 패소…8년 공방 끝 배상책임 부활",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00di15Z1lpV0xHQm1sTVR4TS1yNVZLTTloV2dkMlpCeTkyX1djamZTTGpEZklsUW4zRndxbHQyUnBLQ2FHMGg0VE1zODZkS3NfVVF3UHFWSDh4QW1KMjNCZ2JaRXl3Um1VVGd6UnZZdms?oc=5",
-      "publishedAt": "2026-10-01T00:48:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "정부, 삼성물산 합병 ISDS 환송심 패소…8년 공방 끝 배상책임 부활 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3e4dc9ebd1db5759",
-      "title": "NNT, 삼성물산 주거 플랫폼에 AI 콘텐츠 자동화 파이프라인 구축",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kSTNjT0ZRbjYyN3Q3STRSUjlLbUtsRDRudTd0U0p4bkR4WUF2R0xNTENZaEgzRjVLejk3Nk9NdWRCVlVybmpGblVwVjAtQVk?oc=5",
-      "publishedAt": "2026-10-01T00:41:03.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "NNT, 삼성물산 주거 플랫폼에 AI 콘텐츠 자동화 파이프라인 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "605626e3cbee110b",
-      "title": "오세철 삼성물산 대표, 해외수주 1위 탈환·AI 네이티브 선언에도 실적은 뒷걸음질",
-      "source": "CEO저널",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wNzVfUGczcW1ReDZGbWhURzF2ZzZQWkRzcDFWX2wwVGd3X1NWbE5DZmh3bmlldm52RTBQYWZRZEtaUXlJeTZmcnpMckVraWY0MnZrUThmajlaV3hXZVJCd21LdHNMd9IBakFVX3lxTE5WaFhyQXlpczBzOUFpTjI0anRLdWwtYklPSjROYXRoTExiY3BJenN2c3RVeldLLWJGMzlQbXh4VmdYU2lOTjltR3o2VEdPcWxUMnRiNjdHbFMzUG1ITVdlOGdhR1QxTE9EbEE?oc=5",
-      "publishedAt": "2026-10-01T00:30:00.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "오세철 삼성물산 대표, 해외수주 1위 탈환·AI 네이티브 선언에도 실적은 뒷걸음질 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.78,
-        "confidence": 0.87,
-        "positiveTerms": [
-          "수주",
-          "점유율 상승"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d58288acb71dadd0",
-      "title": "\"삼성물산, AI 인프라 수주·주주환원 확대 기대\"-다올 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42THdUR1k0QnpuV2ZhWEN6QjJKczZ1UXZrZGRrSkpfckZOUXktczlJUGx5N0VqemFXSUEtLU0tTXpXMHM0bXlSREwwVmdnSjVuRXlFNFplWFIwVlUzTU1ORmV3VXdPYk9w0gFuQVVfeXFMT25MVGN4TURwQ0w1bUtRQlM3UWR3Y3hEdWJycnlQZWxXM3NRSHJESVU5TmRtZFRTTW1vWHNpemVueUFYRE54OXd1WDlFSjh5a2JhNTBwRkwtaG4zMVVjc3l5TUQtU0xwTWxtNDJxb3c?oc=5",
-      "publishedAt": "2026-09-30T23:48:13.000Z",
-      "collectedAt": "2026-10-06T02:36:17.681Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "\"삼성물산, AI 인프라 수주·주주환원 확대 기대\"-다올 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
         "negativeTerms": []
       }
     }
