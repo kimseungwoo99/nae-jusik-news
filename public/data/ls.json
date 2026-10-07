@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:54:36.104Z",
+  "generatedAt": "2026-10-07T09:33:49.737Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,217 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS일렉트릭, 대만 전력사업 판 키운다…납품 협력서 공동 수주로",
-    "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대",
-    "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 - 조선비즈"
+    "LS일렉트릭, 대만 최대 석화기업과 JV 설립…전력기기 넘어 수주사업 확대",
+    "LS일렉트릭, 대만 석화그룹과 전력 인프라 JV 설립 外",
+    "LS일렉트릭, 대만 포모사와 합작법인 설립… 전력 인프라 시장 공략 본격화"
   ],
   "articles": [
+    {
+      "id": "0d453f7d48b83542",
+      "title": "LS일렉트릭, 대만 최대 석화기업과 JV 설립…전력기기 넘어 수주사업 확대",
+      "source": "스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfLU1YUUV1NjNfZlk2dEk5WUhMS2hUTFNLam9kaVRBRlVRWEN2dUNjS3NoWUdQVjU3ejdhTEViVGdyUmRUcUdiaXJ3RnJsZUFwcHdHa0lxYjNBTXlveEhoVVBVTk45TkdndjhxdC11d0pQVXNEVzln0gF3QVVfeXFMUF8tTVhRRXU2M19mWTZ0STlZSExLaFRMU0tqb2RpVEFGVVFYQ3Z1Q2NLc2hZR1BWNTd6N2FMRWJUZ3JSZFRxR2JpcndGcmxlQXBwd0drSXFiM0FNeW94SGhVUFVOTjlOR2d2OHF0LXV3SlBVc0RXOWc?oc=5",
+      "publishedAt": "2026-10-07T07:57:27.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 최대 석화기업과 JV 설립…전력기기 넘어 수주사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "103a5f6f7968e110",
+      "title": "LS일렉트릭, 대만 석화그룹과 전력 인프라 JV 설립 外",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwRzFJdkVOUjJJVGhXMzF0RDBpWl8tV3NkLXZvaDBhYmZVNzFqOVhOaHFqSjBFc0Z1TXlqX21sNlctQXdHc216anRrWk1zQXBJ?oc=5",
+      "publishedAt": "2026-10-07T07:54:00.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 석화그룹과 전력 인프라 JV 설립 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "edc148fdf3c812ee",
+      "title": "LS일렉트릭, 대만 포모사와 합작법인 설립… 전력 인프라 시장 공략 본격화",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qd1hRdUd1WU5KVllpdC1mUVp4cEdOM0o4Y1ZZM3pYdHBDSE9kMFlFWldlVVBxTzlabkpQX0dOV2IxcGVzSmM5ZktOcDROcG90N2gxcGkxVS1zZ1VBTW5mZzAwNXZVTkU0TnRDZtIBcEFVX3lxTFBHNTB3YXBFRUxlQ1pkTm5FdE41cktTVDJqRWtKYjVUcDJhZ29DbkNyS255d0JmeHFmem1HRmJWUUVYaWZQVndaV0V6Z1dCbExlQkw2OWFOSThTV3k3cEpRdDg5SnVVN3JxMHFJVVNnOFQ?oc=5",
+      "publishedAt": "2026-10-07T07:39:25.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 포모사와 합작법인 설립… 전력 인프라 시장 공략 본격화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a57591885d8a42fc",
+      "title": "LS '전력 형제', 이익 늘었는데 현금은 마이너스…수주 쌓인 '성장통'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWdBY0E5U083MzRSUkJaVG1pRXlRYjdoRWpGUU5STDcxQkN5QUtKM1RNVUJOQkFGczYzcWx6OVhabnJWc21FTjlYN0N6anRtSTZmemhueFlwV1ExTkx0ZlNCSktuSTRGSEFuZWNSLTB1R1JYdThwRW9ER1FZVm91aE13VXA?oc=5",
+      "publishedAt": "2026-10-07T06:14:43.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS '전력 형제', 이익 늘었는데 현금은 마이너스…수주 쌓인 '성장통' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f10dfae5cc55ca92",
+      "title": "LS일렉트릭, 대만서 ‘현지 수주형’ 전력사업 전환",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1saXRaWVB5S2hJWURiZkhIT3RBUHBVM2lIOVhWZ2U3Y0R0VHBiSUVwUTdreHpDdXBXd1NIcTZNaHdpZU9MQmxBbjcxMXBwTXVpVlk3UE1XSG8yN1VtR1RDVzNJN3A?oc=5",
+      "publishedAt": "2026-10-07T04:38:05.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만서 ‘현지 수주형’ 전력사업 전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "056f34441d448370",
+      "title": "LS일렉트릭, 대만 최대 석화그룹과 JV 설립…전력솔루션 사업 확대",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxMm1lcXN0QUJfMVQ3bkpzQ19nUUdoNklsSGh6VHdFTDFnVkRMMWVTX1pFVk9LZnBqdFdfRmNEc05uUGF2ZGhOZkw0dlhfbzBoaktMTmpOZWdlUVJnX0NNaQ?oc=5",
+      "publishedAt": "2026-10-07T03:07:27.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 최대 석화그룹과 JV 설립…전력솔루션 사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "afa995daf7956a6d",
+      "title": "LS일렉트릭, '기기 판매'서 '수주 사업'까지…대만 최대 석화그룹 '맞손'",
+      "source": "한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10Q1VZSG5zQ0JwUmZPM1pUa3pwNHRZdEFySEFyeUlPU2lMMjN5T2h1dV9DODJsZnpWWWFOMVRLWmptZFFIQzNmalpscUlrT0h4bDFZUk5CUzE2SEZ3NE8ycWZiZjVCOXZtbVhmUkRrZWJzdXRLRUVOSldrd3I?oc=5",
+      "publishedAt": "2026-10-07T02:21:02.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, '기기 판매'서 '수주 사업'까지…대만 최대 석화그룹 '맞손' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "341aca3e7cb02d63",
       "title": "LS일렉트릭, 대만 전력사업 판 키운다…납품 협력서 공동 수주로",
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lVlp6cEFobHpqcHRHMGRGWnZXX0x4dnNhclNjQ3BZZWJGNlNrbkZrTXQyXzBXZU9OZk5ncDM4UkUtSGJtVVlyU0ZTSFVSX2R0SmxLM2FB?oc=5",
       "publishedAt": "2026-10-07T01:36:11.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -44,66 +241,12 @@
       }
     },
     {
-      "id": "0a2fa73b0a1e43ff",
-      "title": "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대",
-      "source": "충청타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyUURXZC1MeHdmQjQyR2s5V1lsb0dJY2phYUpQdnBqSGx1b3J1dFktVzRSb0FZTTg0NC12VGRxY1FBTVd1WU10QXg3cWJ5UWQzeUFhT2VUOGRRd2hiMXNDUHlBVUNsV1kt?oc=5",
-      "publishedAt": "2026-10-07T01:29:00.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "902b4dbe011e8685",
-      "title": "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1VpUFRlQmhZcHFtaGtleXZtcTItbEVSY08ybi02V29paGlIeDZDbVNPaXFqV0M3M3kxUXVOeHVkeDlfWnRDUDRSTHhNNFFnVUM1MHlhRmpmX0lJNUw4dzBhbjhkZmtJQnZDTDNZSXJibFRSY2xlM2IyWUxXT2h5amZNMGvSAZgBQVVfeXFMTTZmOWt2QTBKcnlJVkZIdmwyX0ZIelRUTnExc041MTV1M05IR1d4amxpRlhPQWd6VW5JWGxVd2hzUnB6elh1NmtOLVU0TDgwSlpEUzlnaWRJdVdkb0dNcldNQVBub2ExRHYwWU5RMEM1cXI4Z0pxbGdoM1YxNm14TDNOWnRSUnJWQjQ3ZWpTZnJVc3BJUXpHMTY?oc=5",
-      "publishedAt": "2026-10-07T01:10:00.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "510a75b0d4f0d58d",
       "title": "LS, 아시아 전력시장 보폭 넓힌다",
       "source": "동행미디어 시대",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uVnNFT1FPQi12bkY5bTBvYzZSWTBxNWlBbTNIYnc2UTdHZENCWllpUTRsemVGZXhrZzBFRkd4VmhDRjVsQ0xnS1o5Qy1hY1hUSWpaRFVvYWVSd3A5VUE?oc=5",
       "publishedAt": "2026-10-07T00:56:51.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -125,68 +268,12 @@
       }
     },
     {
-      "id": "c1d37df771271fa2",
-      "title": "LS일렉트릭, 대만 합작법인 ‘남아낙성’ 설립…전력사업 수주 확장",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Sbkh2dWp3eXVSaFdLYlpPU1U4X094R3JHdl8xVmlLS2RJZU56T19KOWx6bVhFWld2UUNLdFR3cHlLMTJ1aGFMdk5wX0RCalJCWUNPYmpYZFNZcU9yOUJkNGNUWmk?oc=5",
-      "publishedAt": "2026-10-07T00:54:54.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 합작법인 ‘남아낙성’ 설립…전력사업 수주 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2bbf8c9f9ef59827",
-      "title": "LS일렉트릭, 대만 전력사업 키운다…포모사와 합작법인 설립",
-      "source": "부산일보",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0b0xGSnZSQUYxSm92eUdPZWllRUxGbE0tSUJ3RjZMMlFSSWgtT2hoQWU5T0dzZEhjcW9xbUUxQWo4SnRZOU5YNGczNklLWS10a2tjTEFWdERfb2d0ZENqaWl6RDZpT0tubUNESnVNUF96VlIzc1VWNWE3MA?oc=5",
-      "publishedAt": "2026-10-07T00:40:47.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 전력사업 키운다…포모사와 합작법인 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0a40413a1665242b",
       "title": "LS일렉트릭, 대만 최대 석화기업 손잡고 현지 '수주사업' 진출 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUFU2M3JGRUcxRTZuWXR4ZmcxcGdNYVBIempxM3BUV3MxQVFZcHFsT3c2Q3hTSm5wUFVnRVNVVGMxOFBqSVl5Qm9xZW04Snh0cm85X1VDQkJQOXJZdVBPazBYTXZTeURHYjhIRFJVa25Yd9IBckFVX3lxTE1HUFU2M3JGRUcxRTZuWXR4ZmcxcGdNYVBIempxM3BUV3MxQVFZcHFsT3c2Q3hTSm5wUFVnRVNVVGMxOFBqSVl5Qm9xZW04Snh0cm85X1VDQkJQOXJZdVBPazBYTXZTeURHYjhIRFJVa25Ydw?oc=5",
       "publishedAt": "2026-10-06T23:57:37.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -210,68 +297,12 @@
       }
     },
     {
-      "id": "02d38a62811d5f10",
-      "title": "구자균, 대만 전력시장 ‘현지화 승부수’…LS일렉트릭, 포모사와 JV 설립",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVTV5bnFZUHA1ZHZFWEpmVDdPbFFDM09HS3Y4NUZ3dExGWDNxQXpYLVNXN085Y0x6ZEQ4bWJRZ1VXWGpOUlV3a1ZkaFdhNXR4bHctQmFGb29pM2ljanZBczYyNWFGVXdGRzcyM3ln?oc=5",
-      "publishedAt": "2026-10-06T23:52:43.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자균, 대만 전력시장 ‘현지화 승부수’…LS일렉트릭, 포모사와 JV 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0af16d3360ba9bec",
-      "title": "LS일렉트릭, 대만 최대 석유화학 기업과 JV… 전력기기 넘어 수주사업 확대",
-      "source": "에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sckVSa2JJYng1d0c2UGtLUnVlRFkwQ2NrSFh6Tk1BeWJneFY4YzRSQmdTWFRtaFo1ZGJLblpSeUZhdUR1SV9wd1Zhd2g1OW1BcDhRWTM1RzNvSWFaSVp3UzM1eFNoYW52eGpkMURlcEFyZw?oc=5",
-      "publishedAt": "2026-10-06T23:40:22.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 최대 석유화학 기업과 JV… 전력기기 넘어 수주사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "36d0b44e766a8b48",
+      "id": "a7f2191a27e517b2",
       "title": "LS일렉, 대만 최대 석화그룹과 합작법인…전력 인프라 수주 추진",
       "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tS0hkeWlZT2lBZkd1RzNqb3lOZGlYX3dOeEVZSmlqWnVoRFRBNWtfOWM5ZllwYkpjQ3JnN1l0aWdla3p1amN5bXYzc1BYcTVPaWloS08wWGFranfSAWBBVV95cUxOY1Q5RWx1YS03bXNmd0VIM3hVMkhRU0N4X3pvZm5KQXc1aHl3cXRMM25DT1ZvNW53WHlWdE54M2NKb1RCTW9qVjVfazFDODNYcS1ONXBUUFA4MWVLOHRva0o?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jVDlFbHVhLTdtc2Z3RUgzeFUySFFTQ3hfem9mbkpBdzVoeXdxdEwzbkNPVm81bndYeVZ0TngzY0pvVEJNb2pWNV9rMUM4M1hxLU41cFRQUDgxZUs4dG9rStIBYEFVX3lxTE5jVDlFbHVhLTdtc2Z3RUgzeFUySFFTQ3hfem9mbkpBdzVoeXdxdEwzbkNPVm81bndYeVZ0TngzY0pvVEJNb2pWNV9rMUM4M1hxLU41cFRQUDgxZUs4dG9rSg?oc=5",
       "publishedAt": "2026-10-06T23:36:33.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -295,41 +326,12 @@
       }
     },
     {
-      "id": "267d6f51c1602549",
-      "title": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fV0NzLVc4eDBYUERQMGlrSnNFMzlrQnQ3OFlLSUVmRHBhLWVPUy1uczFyc2JtYlFGMHFkblBtUzJBQk1scmJ2NnJlX0k4WXplME5mOVZuenprcU5GV0JlRC0zQ2pfNVhFTnfSAWpBVV95cUxOX1dDcy1XOHgwWFBEUDBpa0pzRTM5a0J0NzhZS0lFZkRwYS1lT1MtbnMxcnNibWJRRjBxZG5QbVMyQUJNbHJidjZyZV9JOFl6ZTBOZjlWbnp6a3FORldCZUQtM0NqXzVYRU53?oc=5",
-      "publishedAt": "2026-10-06T23:33:37.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a383a797517ae1ad",
       "title": "LS일렉, 대만 최대 석화기업과 JV 설립…현지 전력 시장 공략",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mQ0dsWFNWNEhpclZvX0RQeGd0QTJYZGowcTBkZnlkVWhQeW5tQjFsdXNnb1h2d2w5Y1RHcENvWGVNSHRHOXlVeU9oX3cteENaLTFMZTVGZTh3eWtQci01aQ?oc=5",
       "publishedAt": "2026-10-06T23:26:02.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -351,39 +353,12 @@
       }
     },
     {
-      "id": "1486754817ca94a8",
-      "title": "LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년 현장에서 경영을 배우다",
-      "source": "뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NWjBCOTNFWkF0U1hYR0NsaUpySmNyUVRDUE1GVVBCakZoLVlNMEtXT0w0Y0hmeTM4MTNQbm5KZ0E0eVMzdWh1N2tVYzRRWXp1cTNPN2xlcVRWU3NzY1E?oc=5",
-      "publishedAt": "2026-10-06T05:47:00.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년 현장에서 경영을 배우다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "75739974516afaf2",
       "title": "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대",
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bm83dF95NENEVjdNdkJvMEZ1OVdzZy0wcXZ3aW9LejkxTEJkOWxDeVpYcnB3ZzVkc2JDRWVNaGViT3E3Rmx5RkhnUEZJM04zckNOVFVWb3pVUTBwTUxMVg?oc=5",
       "publishedAt": "2026-10-05T21:00:00.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -405,12 +380,39 @@
       }
     },
     {
+      "id": "190ac7e93af008e5",
+      "title": "[신(新)인물탐구(64)] LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년 현장에서 경영을 배우다",
+      "source": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzdlRFc2VzRzlDWi1RVHRrM0pXc19jTl95ODJTLXQtdFJmUFRxMDFjbmx6d2x6RFRpRU1aUU52XzdWVHVHSktIUDlfZEc1U0tGcE41cmFsQnBvaHY2U3hybWRkZndxRE1XNTJiVU9DdVVTU0Z3X09iM2F3?oc=5",
+      "publishedAt": "2026-10-05T15:30:00.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[신(新)인물탐구(64)] LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년 현장에서 경영을 배우다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "36adbbeba8edfcd9",
       "title": "작은 화면에서 읽기 쉬운가? 비플러스 토토사이트 모바일 점검",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9wUmJSWGJGci15VlVfSF9HcDUwRk45NWJaQVVwVmRYZjNQUHJGejR2bzJ0ZUQxS25JT1M2eGoyaUgwVnZMV2ZNS0xfdU4za1ppd3F6eVplX0JmLTBXSHJ3dVNmWGd0bmEtTWx2cjhLVkNSMTZGMFVqY0tnWGkyRFlYdUlGTnQ2elpvX0gzQQ?oc=5",
       "publishedAt": "2026-10-02T08:49:57.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -437,7 +439,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDWUJ1ak4xOXdtTkczX1l0eWdTbF9ONWxHdHl3S2xUdnRJSXhEWTBHckVFdTRlSkxWUlI1UHhyYkNUVEtnd3lVV3VUbw?oc=5",
       "publishedAt": "2026-10-02T07:28:11.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -464,7 +466,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPUXdTSjVaQ0E2ZldidnJIeHVZdmZvc1BLSnh2WmU3SUJLS2tpbGF0bXZkazhJU3J3c0VBcHBEYlQ3THVWTGlDQ2tnQWxBb09LQ1I1US1ndV9tWjRfYmVucy1CYTNDQQ?oc=5",
       "publishedAt": "2026-10-02T02:56:54.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -486,12 +488,39 @@
       }
     },
     {
+      "id": "64ead265494f04cc",
+      "title": "[CFO] 이태호 LS 상무",
+      "source": "뉴스W",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HTXdYem9uQ3JRbnZaQXJvYmtOYUJNRzhlbno0bzRXMzV2WGNCM3V6X0FvdGtoNDc3V3F5Nm1LZnFydjVtV0hpZ1NUbnRtV0ZFRkNfR0YzeUZweHk3YUFadzNkSlhOSmI30gFsQVVfeXFMTTlPM1lfNFV1bmFzem9Bb2E0ZTBpd3E4M2xIM2lEWUhiNi1KeWpYU21xOFhUZXhqbjhNbXczbWpUVHFtTnpZbU5sNVZyX19nNWotU0dXa2F1Yk84cFNmZ0ZlSE16aEloUHVMUlhC?oc=5",
+      "publishedAt": "2026-10-02T02:39:22.000Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[CFO] 이태호 LS 상무 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7af18a195993c256",
       "title": "37년 만 파업 뒤 동해 해저1공장 매각 통보 논란 LS전선…구자엽·구본규 부자 상여, 작년 연간 29억→올 상반기 63억",
       "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaGVZWWJ6MUJNcTNDUVZqZ0lSZW1hcWVwdnR2TEpuTENrMnlMS1R1VFkyR0JfNG9LZ0RoSjRFT09lenphdXBOaXBSSVd3ekxiWWxoamY5Yk9ycmhiR1JMR3Y5aE9kdjE3aWlWWjBNUzQzYlhiTHgtWHNQV2VkeHU2LUFwU2JFTENHSEpSX2ZBMXlPdUZJcXJ0TXNzbDlaM09PYkVKdldtRUZfUVFCWmdwZmp2ZFpRWEEtSWY2UEZBTS1ZcktOTHVTREVyTXlpTDk1MFBXTzZQSkFiT0YzZm1oTTZSZ3pac3E0RlcyVDh2SEludlA5eWVGdjNqSEk3NzNtREZXckRpSHFxLUZxcV9lRHR6eU5nZXh6ckE2cnZjSEZPclFyNmZiSFBVTmpjMkh4T2c?oc=5",
       "publishedAt": "2026-10-02T01:48:42.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -520,7 +549,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3RzckQtQUNaX2FqaUx0OW1CbXQxLWJ4SXByRExIN1N3cGdBOHJ5X1BfMkNvQmdlMEhkSGJDVlRrVXVXc2VJR0R1YTcxdw?oc=5",
       "publishedAt": "2026-10-01T23:54:09.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "collectedAt": "2026-10-07T09:33:49.737Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -533,33 +562,6 @@
       ],
       "summary": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "11e98c28d7de0759",
-      "title": "LS, 부패방지·규범준수 국제표준 통합 인증 획득… “윤리경영 체계 확립”",
-      "source": "천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NS1hUc2NRekM3bk16dTlMVGVSc0hWakw3UlVmWDVYVFZhWi1SSDJYakM0WElNSmNVcjNaTHp3S3EwZTJCV1F4bFVGdVMybWYyaTRmb2FXemZnNW1iUHdVN181dkhuNHZ2OUE?oc=5",
-      "publishedAt": "2026-10-01T06:59:46.000Z",
-      "collectedAt": "2026-10-07T01:54:36.104Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS, 부패방지·규범준수 국제표준 통합 인증 획득… “윤리경영 체계 확립” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
