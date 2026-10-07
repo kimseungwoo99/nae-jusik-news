@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:59:54.583Z",
+  "generatedAt": "2026-10-07T01:54:36.104Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -11,7 +11,7 @@
   "dailySummary": [
     "에코프로비엠·삼성SDI, 전고체 배터리 소재 맞손…2027년 양산 목표",
     "에코프로비엠, 9000억원 자금조달로 인도네시아 제련소 출자 추진중… 전지 소재 부문 글로벌…",
-    "에코프로비엠-삼성SDI, 전고체 배터리 소재 공동개발"
+    "이차전지주, ESS 수요 기대에 급등…코스닥 2.98% 상승"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GQjZRSmwzX2hkbkNjSE1rWHlMaVBxaGJKX1lNbVhUT1gtdFBFNl83bzNiMDVnTWhQV05HWXBPYjU0QnI1alVrWERNWXNQU1hDV3VIQVlyYk5Wb19JS1Y3VndwQW9PMVgzekpkRVRCSTRDcWI1S2VR0gF3QVVfeXFMT0ZCNlFKbDNfaGRuQ2NITWtYeUxpUHFoYkpfWU1tWFRPWC10UEU2XzdvM2IwNWdNaFBXTkdZcE9iNTRCcjVqVWtYRE1Zc1BTWENXdUhBWXJiTlZvX0lLVjdWd3BBb08xWDN6SmRFVEJJNENxYjVLZVE?oc=5",
       "publishedAt": "2026-10-06T10:22:10.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -52,7 +52,7 @@
       "source": "굿모닝경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Lc3hZeDFYYWNWVy00WEthX2xma1pqLVRKb0t1Snp4a0ZYTlVFaHc5NXJ1UVAwUTBHV2RMU1d0c0QwZU1KRllkMmM1MlhzbW9LU09VVWQwbzFOMWxaLWUwUUo2UXV4S3RBczBIcg?oc=5",
       "publishedAt": "2026-10-06T09:00:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -74,12 +74,68 @@
       }
     },
     {
-      "id": "808594de68741090",
-      "title": "에코프로비엠-삼성SDI, 전고체 배터리 소재 공동개발",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaDNRRzhGSXpOd2hlRFlGTDRKQ1VncEpOd3Jjd1JCdktRSFFzelRIVzA0M0lNX3paa1hVLVNoNTVUeGNMLUpMUGpWMkxnbUtNeW5jZ25zSG54VFZE?oc=5",
-      "publishedAt": "2026-10-06T05:59:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "id": "0911acb94b715824",
+      "title": "이차전지주, ESS 수요 기대에 급등…코스닥 2.98% 상승",
+      "source": "영남경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5taVh0c0VsZjBOa3lFVWJWX3U1bHl1VS1SZElfWDRQd0h2M004Zkx1SFpBSy12RlJTdFFRZFltaEdLamlpeDl0NkQ1RkVpbXZHU1FsdS1SNzRRRDVsZnNqWG1oWV9xV3M?oc=5",
+      "publishedAt": "2026-10-06T07:01:00.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "이차전지주, ESS 수요 기대에 급등…코스닥 2.98% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "efb76a8c0079fac0",
+      "title": "에코프로-삼성, 전고체 배터리 소재 공동 개발",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wRVZKWkhJeU1Damoycks0MzdzNlJHdTZVOXAzdWpzaThuTXJlbkktZ0ZqdF85cWIyN3FtbFRzdGN6akx4RzBzV1dpV01ScFZiN3lNWmRQSTBHeUtNR2NyYm9GMkktQQ?oc=5",
+      "publishedAt": "2026-10-06T06:48:31.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로-삼성, 전고체 배터리 소재 공동 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "aa532cd74608fb11",
+      "title": "에코프로비엠·삼성SDI, 전고체 배터리 소재 공동 개발…내년 상용화",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0l0NGF1UXhJa2x5OW1fSVdXaDhsOEN0OFZmM3h4SnFfMUthSUUzWW1Mc2xwOVhjeHdlcWtpQ2N5TEI1QUxZMF9DdDdMM2wySWVrV0VoTVBmY1lSdkVKSlFVLWVLSkhNYXBYc1cyMDNrYWI2ZHZaVUJENWdNclhtMmctR2NjQQ?oc=5",
+      "publishedAt": "2026-10-06T05:57:43.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -95,7 +151,7 @@
           "ticker": "086520"
         }
       ],
-      "summary": "에코프로비엠-삼성SDI, 전고체 배터리 소재 공동개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "에코프로비엠·삼성SDI, 전고체 배터리 소재 공동 개발…내년 상용화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -111,7 +167,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44QXBkbGc5bVplNU15SjEzNGtsMmlYSGhUazZVaTJvY0dLcExPLWNzWElsdGhPM3phQ1VSRTl0RXhNWmpqTlFsRnZHMEJvc3JZOXF4ZFhoUnl4X2xqREN3VTIxNzBvbG16VVZnSNIBckFVX3lxTE1mT1A0dWw4NlhaQkhKUzZiMDUzZ3NiZFQ1aXpWRkhvUUlOQTJuNXItLTBEVzVvRzNkRjRPMEFTbGt6QnFTU2JxRUVWSmZ4dVZnQUl6bjJzd3QzeElGMm9GQWJmYnh5aU16b3dWRDRKdm1UZw?oc=5",
       "publishedAt": "2026-10-06T04:41:22.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -143,7 +199,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HWkxuaktIdzFGc1M1SFdVS2tjcC1SV1VQVHBRNGJVTDQ3elo1SkZpN1h0dHNlbW0tNkFFeDNpS0I4QXFTT2V6YmJONlNhT3hzanJ2cDVSNzl1V1JNVm9oa2xQVmRlalJV?oc=5",
       "publishedAt": "2026-10-06T02:48:43.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -172,7 +228,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOWZpcmdFRWVUS2JvU1hvRlNFaHJmbXM4NmtmQTlJdkFfX2dUdC1UV055S0tmaDZDSzBGMlAxdWd2ODFWNEp3RzdFMmRPMFV2YXUtYklIQkd0bkU?oc=5",
       "publishedAt": "2026-10-06T01:26:53.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -204,7 +260,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tUDVoWW5kbEpEdVkyd3FDM3lVa0dYbGtRM0MwNmUtUVZad0pVZ25KTW44OS10WHZMTTBCZDBVUElNeF94NS1uakVQaFdVaUVaMkRwVE93?oc=5",
       "publishedAt": "2026-10-06T01:22:24.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -231,7 +287,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0JYcHVIVTBfLXYyejVTWFJicjF6bzhxeGExQUFvbGdudTlUWi1qMjdpQWRTRHdCUmd5MlVObGQ5RzFWOHVEREl2ZjdLVk9RQXZiUkRqX213REdDeWJjR0FTTUwza3ptWHZBSEQwNHU0R0tITnRMSHg5WnBxMndVYnc0S0JOb3M?oc=5",
       "publishedAt": "2026-10-04T21:27:29.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -258,7 +314,7 @@
       "source": "CNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EYnZvN1MzVXM1cGJ1RkdIVllRZTVuRFhCdWhGLWZQRi1KWld0MmZuWl9OUWRnMThBTUJUa1c0cklkbG1pbnViYURIQlROdWlhcWhpM1UwYzlNOC1XTHNNcl9Ic1ZLSFJsOXRiTzR5UXNQMms2ZVZj?oc=5",
       "publishedAt": "2026-10-02T07:11:46.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -285,7 +341,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VXNuUndiR0xUbTRtOWVpY2ZZQVdzaldVR3J0Rk1kU2tsTFhaRURFMkRLRmZYSk9wRzNqNGMxZnM1MFNZOFBTeHYxeFBoTTFIRk1RSGJRZmV6OEZvNGo4dzNrQW5Fekwx?oc=5",
       "publishedAt": "2026-10-01T23:43:19.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -307,12 +363,39 @@
       }
     },
     {
+      "id": "523e069052980eb3",
+      "title": "[마켓파워]신사업 절실한 에코프로…3000억 재원 어디서",
+      "source": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlTTcwTDRhQVF6TDU0bXJpM3Q1ZDVUTm5laXJ1NTdaUE1LT3pkVDJCVjZCeVc0dmhpeElvMkhES2JvTk5lYkhwX0wtQnNWSnlZSGFUUU9vVk1CZ2xjSVNnLWdZbWdYemtLVFFHWmdR?oc=5",
+      "publishedAt": "2026-10-01T23:00:01.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[마켓파워]신사업 절실한 에코프로…3000억 재원 어디서 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "4b0052f087619a05",
       "title": "에코프로, 사장단 인사 조기 단행…최상운·박종환 사장 승진",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mYXZQVGI2Y2Y2YXdFQjBtZVNfWG92bm8xWFZQR1FZR3kyWlBZdjVnNHV2U2lDMC0tQl9KV0ZFaUh0a2kyNko2bEJIeHRNb2laR1hfYWVDemQ2MmlHTTFUZ2VzdDV6NjBrU0xoWNIBcEFVX3lxTE1FYnEyQ1ZGZzdOd25yWlJWSDhYQUlkbUo4b0pmLVhrMDVnWUs4aE82am1EdXN3TE1oN3RxRUpIbXFXajRNbldweC1UUzBCYVJyS1RsdkZOaFFsSU9QYjFCN2gtWGg1RURZU0x2VHZwbks?oc=5",
       "publishedAt": "2026-10-01T09:00:52.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -334,39 +417,12 @@
       }
     },
     {
-      "id": "7a7198ebf8af3b43",
-      "title": "에코프로, 최상운·김장우 공동 대표 체제 전환",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pcFFJUkdfTGRZWnVUTktNZktpdTZhTXN3Yk5yMGxPamxDOG5xeUp0UnFWYVJwZWVTUTV0RVFOak11Y05tOEhYS29YcDhQUQ?oc=5",
-      "publishedAt": "2026-10-01T09:00:19.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 최상운·김장우 공동 대표 체제 전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c3d2660fef29a77e",
       "title": "에코프로, 사장단 인사 2개월 앞당겨…미래 성장동력 확보 속도",
       "source": "경북일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ya0Q0Q0Q4QW5TS05Cd2s3T3dISmtQZjVWZmdhUUlOUWlLZFFTbnJtRHdzR1NKalc4ZFMyQ1kwMWxsTFc0eExtb0dPMjNTaGhNNzh5aEZhX1d6Ynh1S2lZUW1pWjNHNEhMRHdjUHpHUQ?oc=5",
       "publishedAt": "2026-10-01T08:28:27.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -393,7 +449,7 @@
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02STlObTNYWm9ERGdBaFJHbl92X0RibGNyS1Vleml0bW9DOHRYRmxVcVQtVTFscUdlQ1g5dHotR2pmVjA1S0VfeW1jb0FNN1NNSjN4VGpJSFhVTHhtRWRjaFppUHFzeWZHVkE?oc=5",
       "publishedAt": "2026-10-01T08:12:46.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -420,7 +476,7 @@
       "source": "경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11dEMxWFJZVktvMFJyanF1VnFwWjE3ZTJNbHBUMGd3d2tHUGEzeFZOTkZKNzNWczRubWdUS014SDlDeUQ4QVBfVTQ4Y0pCWFdyRzU2THFsVzI?oc=5",
       "publishedAt": "2026-10-01T07:55:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -447,7 +503,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZbEs3ZE1GUHlVTVpxVHFhMDVEbWZ1WmpQZm01NmcxYm81S1prOFIyNjRSU05ORTcyTDFNQVNhYWZINzRHTTJaSzVmTGxtY2FVNlVGMGUwUkFZaGprd0N2aXFBeXYzam9kNTJERg?oc=5",
       "publishedAt": "2026-10-01T07:15:03.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -474,7 +530,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzVrOG9iVXh6ZVFmWWFhQ29rRGhTeExuR3RteUJVVjYzd0tWdXhnUGdOdFp2RG1xb01GXzlydV9DWmJlaWVka25TdUhvdXNJell3RkJWNF9zeEhPWndTVG4wT2RkQ2RCX2M1bVBGYW12RFM5Ym5hZkJnLVFqOXlGWmRNOFjSAZgBQVVfeXFMTlJCSFpNaThvLTF5dGZqbUFFSjBqR0Vlb0pqa0pMRDVqVjAxSDFXRVRZVGk3Si1JdVZWRG1tZDc5X19ENk9NMFFDd3BhM0pnSWV5MXJaQ2Y4LS1MaHFiajFmQkdick1xSThlRzhXUjdKMlJnS215THhUai1adE8yeFN4RThQZFNyN0piVURHTzBMdDVybVZFMXg?oc=5",
       "publishedAt": "2026-10-01T07:11:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -501,7 +557,7 @@
       "source": "충청타임즈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwdm1SZlVEQTN5Ui13U19NT1RaaGxOWUxUcldzRmxISUY4N1lFWXU1YTZLNFk0Mi1USktINXJ3b2lHMUhwTkZmZmNRdmVfR083NmpsVDVLSGIzZzRTMEVIQUx3SnV6akhC?oc=5",
       "publishedAt": "2026-10-01T06:33:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -513,33 +569,6 @@
         }
       ],
       "summary": "에코프로 그룹 사장단 인사 단행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d80d8409fe3d8708",
-      "title": "에코프로, 사장단 인사 두 달 앞당겼다…대표이사 교체 쇄신",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNm1peHFxS091UlZQNnlGdmQ1ZmJxMmhGOUgyMDk2dUNmUjdjN0xpM2NERUFMUmJUcnlvOVFhSUFmY1JSVmlodGRZWUluSFJ5Uy15V2QxMXlOc2hnSXM3c2Z0LVpNeFpH0gFsQVVfeXFMTlNOQUhRRlcwMUVUbFlxMWxPd1FkekNGNGJZeWZfMW5lOHEwSGhZVkdnTEUtWXNlaXk0RVAxcGhIYW03NW80aEZrU1lJdDZ1ZmlrZmFDUWNnaDVuamVHT1ljekZmdnVseVYtRnZs?oc=5",
-      "publishedAt": "2026-10-01T06:29:03.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 사장단 인사 두 달 앞당겼다…대표이사 교체 쇄신 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

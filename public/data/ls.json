@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:59:54.583Z",
+  "generatedAt": "2026-10-07T01:54:36.104Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대",
-    "LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년…",
-    "첨단 데이터센터 전력 수요 급증… LS일렉트릭, 북미 전력기기 수주 가속"
+    "LS일렉트릭, 대만 전력사업 판 키운다…납품 협력서 공동 수주로",
+    "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대",
+    "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 - 조선비즈"
   ],
   "articles": [
     {
-      "id": "75739974516afaf2",
-      "title": "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bm83dF95NENEVjdNdkJvMEZ1OVdzZy0wcXZ3aW9LejkxTEJkOWxDeVpYcnB3ZzVkc2JDRWVNaGViT3E3Rmx5RkhnUEZJM04zckNOVFVWb3pVUTBwTUxMVg?oc=5",
-      "publishedAt": "2026-10-05T21:00:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "id": "341aca3e7cb02d63",
+      "title": "LS일렉트릭, 대만 전력사업 판 키운다…납품 협력서 공동 수주로",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lVlp6cEFobHpqcHRHMGRGWnZXX0x4dnNhclNjQ3BZZWJGNlNrbkZrTXQyXzBXZU9OZk5ncDM4UkUtSGJtVVlyU0ZTSFVSX2R0SmxLM2FB?oc=5",
+      "publishedAt": "2026-10-07T01:36:11.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -31,8 +31,317 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS일렉트릭, 대만 전력사업 판 키운다…납품 협력서 공동 수주로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0a2fa73b0a1e43ff",
+      "title": "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대",
+      "source": "충청타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyUURXZC1MeHdmQjQyR2s5V1lsb0dJY2phYUpQdnBqSGx1b3J1dFktVzRSb0FZTTg0NC12VGRxY1FBTVd1WU10QXg3cWJ5UWQzeUFhT2VUOGRRd2hiMXNDUHlBVUNsV1kt?oc=5",
+      "publishedAt": "2026-10-07T01:29:00.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 최대 석화그룹과 현지 전력솔루션 사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "902b4dbe011e8685",
+      "title": "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1VpUFRlQmhZcHFtaGtleXZtcTItbEVSY08ybi02V29paGlIeDZDbVNPaXFqV0M3M3kxUXVOeHVkeDlfWnRDUDRSTHhNNFFnVUM1MHlhRmpmX0lJNUw4dzBhbjhkZmtJQnZDTDNZSXJibFRSY2xlM2IyWUxXT2h5amZNMGvSAZgBQVVfeXFMTTZmOWt2QTBKcnlJVkZIdmwyX0ZIelRUTnExc041MTV1M05IR1d4amxpRlhPQWd6VW5JWGxVd2hzUnB6elh1NmtOLVU0TDgwSlpEUzlnaWRJdVdkb0dNcldNQVBub2ExRHYwWU5RMEM1cXI4Z0pxbGdoM1YxNm14TDNOWnRSUnJWQjQ3ZWpTZnJVc3BJUXpHMTY?oc=5",
+      "publishedAt": "2026-10-07T01:10:00.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS에코에너지, AIDC용 전력 공급 인프라에 80억 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "510a75b0d4f0d58d",
+      "title": "LS, 아시아 전력시장 보폭 넓힌다",
+      "source": "동행미디어 시대",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uVnNFT1FPQi12bkY5bTBvYzZSWTBxNWlBbTNIYnc2UTdHZENCWllpUTRsemVGZXhrZzBFRkd4VmhDRjVsQ0xnS1o5Qy1hY1hUSWpaRFVvYWVSd3A5VUE?oc=5",
+      "publishedAt": "2026-10-07T00:56:51.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS, 아시아 전력시장 보폭 넓힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c1d37df771271fa2",
+      "title": "LS일렉트릭, 대만 합작법인 ‘남아낙성’ 설립…전력사업 수주 확장",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Sbkh2dWp3eXVSaFdLYlpPU1U4X094R3JHdl8xVmlLS2RJZU56T19KOWx6bVhFWld2UUNLdFR3cHlLMTJ1aGFMdk5wX0RCalJCWUNPYmpYZFNZcU9yOUJkNGNUWmk?oc=5",
+      "publishedAt": "2026-10-07T00:54:54.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 합작법인 ‘남아낙성’ 설립…전력사업 수주 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2bbf8c9f9ef59827",
+      "title": "LS일렉트릭, 대만 전력사업 키운다…포모사와 합작법인 설립",
+      "source": "부산일보",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0b0xGSnZSQUYxSm92eUdPZWllRUxGbE0tSUJ3RjZMMlFSSWgtT2hoQWU5T0dzZEhjcW9xbUUxQWo4SnRZOU5YNGczNklLWS10a2tjTEFWdERfb2d0ZENqaWl6RDZpT0tubUNESnVNUF96VlIzc1VWNWE3MA?oc=5",
+      "publishedAt": "2026-10-07T00:40:47.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 전력사업 키운다…포모사와 합작법인 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0a40413a1665242b",
+      "title": "LS일렉트릭, 대만 최대 석화기업 손잡고 현지 '수주사업' 진출 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUFU2M3JGRUcxRTZuWXR4ZmcxcGdNYVBIempxM3BUV3MxQVFZcHFsT3c2Q3hTSm5wUFVnRVNVVGMxOFBqSVl5Qm9xZW04Snh0cm85X1VDQkJQOXJZdVBPazBYTXZTeURHYjhIRFJVa25Yd9IBckFVX3lxTE1HUFU2M3JGRUcxRTZuWXR4ZmcxcGdNYVBIempxM3BUV3MxQVFZcHFsT3c2Q3hTSm5wUFVnRVNVVGMxOFBqSVl5Qm9xZW04Snh0cm85X1VDQkJQOXJZdVBPazBYTXZTeURHYjhIRFJVa25Ydw?oc=5",
+      "publishedAt": "2026-10-06T23:57:37.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 최대 석화기업 손잡고 현지 '수주사업' 진출 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "02d38a62811d5f10",
+      "title": "구자균, 대만 전력시장 ‘현지화 승부수’…LS일렉트릭, 포모사와 JV 설립",
+      "source": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVTV5bnFZUHA1ZHZFWEpmVDdPbFFDM09HS3Y4NUZ3dExGWDNxQXpYLVNXN085Y0x6ZEQ4bWJRZ1VXWGpOUlV3a1ZkaFdhNXR4bHctQmFGb29pM2ljanZBczYyNWFGVXdGRzcyM3ln?oc=5",
+      "publishedAt": "2026-10-06T23:52:43.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "구자균, 대만 전력시장 ‘현지화 승부수’…LS일렉트릭, 포모사와 JV 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0af16d3360ba9bec",
+      "title": "LS일렉트릭, 대만 최대 석유화학 기업과 JV… 전력기기 넘어 수주사업 확대",
+      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sckVSa2JJYng1d0c2UGtLUnVlRFkwQ2NrSFh6Tk1BeWJneFY4YzRSQmdTWFRtaFo1ZGJLblpSeUZhdUR1SV9wd1Zhd2g1OW1BcDhRWTM1RzNvSWFaSVp3UzM1eFNoYW52eGpkMURlcEFyZw?oc=5",
+      "publishedAt": "2026-10-06T23:40:22.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 대만 최대 석유화학 기업과 JV… 전력기기 넘어 수주사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "36d0b44e766a8b48",
+      "title": "LS일렉, 대만 최대 석화그룹과 합작법인…전력 인프라 수주 추진",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tS0hkeWlZT2lBZkd1RzNqb3lOZGlYX3dOeEVZSmlqWnVoRFRBNWtfOWM5ZllwYkpjQ3JnN1l0aWdla3p1amN5bXYzc1BYcTVPaWloS08wWGFranfSAWBBVV95cUxOY1Q5RWx1YS03bXNmd0VIM3hVMkhRU0N4X3pvZm5KQXc1aHl3cXRMM25DT1ZvNW53WHlWdE54M2NKb1RCTW9qVjVfazFDODNYcS1ONXBUUFA4MWVLOHRva0o?oc=5",
+      "publishedAt": "2026-10-06T23:36:33.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉, 대만 최대 석화그룹과 합작법인…전력 인프라 수주 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "267d6f51c1602549",
+      "title": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fV0NzLVc4eDBYUERQMGlrSnNFMzlrQnQ3OFlLSUVmRHBhLWVPUy1uczFyc2JtYlFGMHFkblBtUzJBQk1scmJ2NnJlX0k4WXplME5mOVZuenprcU5GV0JlRC0zQ2pfNVhFTnfSAWpBVV95cUxOX1dDcy1XOHgwWFBEUDBpa0pzRTM5a0J0NzhZS0lFZkRwYS1lT1MtbnMxcnNibWJRRjBxZG5QbVMyQUJNbHJidjZyZV9JOFl6ZTBOZjlWbnp6a3FORldCZUQtM0NqXzVYRU53?oc=5",
+      "publishedAt": "2026-10-06T23:33:37.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉, 대만 최대 석화그룹과 합작법인 설립…전력기기 사업 수주 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a383a797517ae1ad",
+      "title": "LS일렉, 대만 최대 석화기업과 JV 설립…현지 전력 시장 공략",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mQ0dsWFNWNEhpclZvX0RQeGd0QTJYZGowcTBkZnlkVWhQeW5tQjFsdXNnb1h2d2w5Y1RHcENvWGVNSHRHOXlVeU9oX3cteENaLTFMZTVGZTh3eWtQci01aQ?oc=5",
+      "publishedAt": "2026-10-06T23:26:02.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉, 대만 최대 석화기업과 JV 설립…현지 전력 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -46,8 +355,8 @@
       "title": "LS그룹 구자은 회장① 성장 경력 - 경쟁보다 순서, 기다릴 줄 아는 후계자.. 32년 현장에서 경영을 배우다",
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NWjBCOTNFWkF0U1hYR0NsaUpySmNyUVRDUE1GVVBCakZoLVlNMEtXT0w0Y0hmeTM4MTNQbm5KZ0E0eVMzdWh1N2tVYzRRWXp1cTNPN2xlcVRWU3NzY1E?oc=5",
-      "publishedAt": "2026-10-05T15:30:50.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "publishedAt": "2026-10-06T05:47:00.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -69,12 +378,12 @@
       }
     },
     {
-      "id": "b0ed0516799a6f9d",
-      "title": "첨단 데이터센터 전력 수요 급증… LS일렉트릭, 북미 전력기기 수주 가속",
-      "source": "폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84NF9wNFpyTUNPVHFsRDZXNERlLV9TRF8wTWl5Sm5hVUZrYnJKZHIwT0hKNURvOFpvRkR5TXBpMUtzemhnSjhpaHZuaHJiMHZaekp3M1Y0endUNjZvOFdJNWo4VFNZS2tBMVp3MlZn?oc=5",
-      "publishedAt": "2026-10-05T10:22:54.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "id": "75739974516afaf2",
+      "title": "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bm83dF95NENEVjdNdkJvMEZ1OVdzZy0wcXZ3aW9LejkxTEJkOWxDeVpYcnB3ZzVkc2JDRWVNaGViT3E3Rmx5RkhnUEZJM04zckNOVFVWb3pVUTBwTUxMVg?oc=5",
+      "publishedAt": "2026-10-05T21:00:00.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -85,15 +394,13 @@
           "ticker": "006260"
         }
       ],
-      "summary": "첨단 데이터센터 전력 수요 급증… LS일렉트릭, 북미 전력기기 수주 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS증권, LS그룹 내부거래 증가…지주 밖 금산분리 사각지대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -103,7 +410,7 @@
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9wUmJSWGJGci15VlVfSF9HcDUwRk45NWJaQVVwVmRYZjNQUHJGejR2bzJ0ZUQxS25JT1M2eGoyaUgwVnZMV2ZNS0xfdU4za1ppd3F6eVplX0JmLTBXSHJ3dVNmWGd0bmEtTWx2cjhLVkNSMTZGMFVqY0tnWGkyRFlYdUlGTnQ2elpvX0gzQQ?oc=5",
       "publishedAt": "2026-10-02T08:49:57.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -125,39 +432,12 @@
       }
     },
     {
-      "id": "6ea1a9b108891cb2",
-      "title": "LS전선, 독일 하팅과 맞손⋯AI 데이터센터 전력 인프라 확대",
-      "source": "아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTkRDa1JNbjR1RGI1VDI3YTh0RURkWk5JUmFOU05NVlgzUXlGUGRxSEs3enBXN1lJQURlaUQzUS01eWZ3WlRiMDJTOA?oc=5",
-      "publishedAt": "2026-10-02T07:14:04.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS전선, 독일 하팅과 맞손⋯AI 데이터센터 전력 인프라 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d0b42a7aec5aa398",
-      "title": "LS전선, 獨 하팅과 AI 데이터센터 전력 설루션 개발",
+      "id": "6138f2d739dfc360",
+      "title": "‘최대주주’ LS전선, LS마린솔루션 지분 추가 확보…구자은 회장 동참",
       "source": "Daum",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtRXFUUnpDLThyTkp6X21pdWpLXzUydXhrYldIYUhTQVdlYkUtc3c3ODhJbElWTXlMVGQ1N0VEeTdvNjRyZ2JQTkNPN1dtZlk?oc=5",
-      "publishedAt": "2026-10-02T06:57:43.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDWUJ1ak4xOXdtTkczX1l0eWdTbF9ONWxHdHl3S2xUdnRJSXhEWTBHckVFdTRlSkxWUlI1UHhyYkNUVEtnd3lVV3VUbw?oc=5",
+      "publishedAt": "2026-10-02T07:28:11.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -168,8 +448,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS전선, 獨 하팅과 AI 데이터센터 전력 설루션 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "‘최대주주’ LS전선, LS마린솔루션 지분 추가 확보…구자은 회장 동참 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -184,7 +464,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPUXdTSjVaQ0E2ZldidnJIeHVZdmZvc1BLSnh2WmU3SUJLS2tpbGF0bXZkazhJU3J3c0VBcHBEYlQ3THVWTGlDQ2tnQWxBb09LQ1I1US1ndV9tWjRfYmVucy1CYTNDQQ?oc=5",
       "publishedAt": "2026-10-02T02:56:54.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -206,39 +486,12 @@
       }
     },
     {
-      "id": "232276068d0037a8",
-      "title": "LS일렉트릭, 美 AI 데이터센터에 1800억원 규모 초고압 변압기 공급",
-      "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQkloa0U2VmVrdEliR3VvV0JXV2lCcGRyenA2TUh3OUNIZDNGcVFkMENQSHVNVkVMLVJuX2JDVUpBdTlHUGtVZmFRU0FJY1dkXzhfaDNaVTMxY2M?oc=5",
-      "publishedAt": "2026-10-02T02:06:08.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 AI 데이터센터에 1800억원 규모 초고압 변압기 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7af18a195993c256",
       "title": "37년 만 파업 뒤 동해 해저1공장 매각 통보 논란 LS전선…구자엽·구본규 부자 상여, 작년 연간 29억→올 상반기 63억",
       "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaGVZWWJ6MUJNcTNDUVZqZ0lSZW1hcWVwdnR2TEpuTENrMnlMS1R1VFkyR0JfNG9LZ0RoSjRFT09lenphdXBOaXBSSVd3ekxiWWxoamY5Yk9ycmhiR1JMR3Y5aE9kdjE3aWlWWjBNUzQzYlhiTHgtWHNQV2VkeHU2LUFwU2JFTENHSEpSX2ZBMXlPdUZJcXJ0TXNzbDlaM09PYkVKdldtRUZfUVFCWmdwZmp2ZFpRWEEtSWY2UEZBTS1ZcktOTHVTREVyTXlpTDk1MFBXTzZQSkFiT0YzZm1oTTZSZ3pac3E0RlcyVDh2SEludlA5eWVGdjNqSEk3NzNtREZXckRpSHFxLUZxcV9lRHR6eU5nZXh6ckE2cnZjSEZPclFyNmZiSFBVTmpjMkh4T2c?oc=5",
       "publishedAt": "2026-10-02T01:48:42.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -262,12 +515,12 @@
       }
     },
     {
-      "id": "1bddf3b31706995b",
-      "title": "북미 사업 키운 명노현 ㈜LS 부회장, 이번엔 사내 준법 체계 국제표준 인증 ‘두 토끼’ 잡아",
-      "source": "이코노미트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kczhObGdYdmNCUlVVd1NMd045S2NjSXJCY1BNYWZVTTlrOUFLOFFubUs0X2FlOEl0MUc0Q3JJNHc0RHpmVHZVb21VRUw0TGphZ3lQOXZpOE9DcURLYzZodEh3a0RucW1CT3ZMLVBMc0d5NUFyenJV?oc=5",
-      "publishedAt": "2026-10-01T12:17:01.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "id": "917bde9745c93109",
+      "title": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3RzckQtQUNaX2FqaUx0OW1CbXQxLWJ4SXByRExIN1N3cGdBOHJ5X1BfMkNvQmdlMEhkSGJDVlRrVXVXc2VJR0R1YTcxdw?oc=5",
+      "publishedAt": "2026-10-01T23:54:09.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -278,150 +531,9 @@
           "ticker": "006260"
         }
       ],
-      "summary": "북미 사업 키운 명노현 ㈜LS 부회장, 이번엔 사내 준법 체계 국제표준 인증 ‘두 토끼’ 잡아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1062e4b940a02b1d",
-      "title": "㈜LS, ISO 37001·37301 통합 인증 획득… ‘준법·윤리경영’ 글로벌 공인",
-      "source": "매일산업뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lS3VjSUgxMEVVYU5SaTdfLTBFZWFsQ0pyVjh3UTNmcFlCN0hyYk9KOUdodEs2Z0JkcWxYZTZEbEM1cDVPWENKdnZCaUxGeEwydTZQUHJQeXV3RC1vODJVYmZkMA?oc=5",
-      "publishedAt": "2026-10-01T06:48:38.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "㈜LS, ISO 37001·37301 통합 인증 획득… ‘준법·윤리경영’ 글로벌 공인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bfdb99ca958ffbd9",
-      "title": "LS일렉트릭, 북미 하이퍼스케일 AI 데이터센터에 1812억 초고압 변압기 수주",
-      "source": "헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYWlPLXE2Mzd5YzFzTm96T0FCNV9aSWFNY2ZUWWx0Z0Jxdkl2ZDZvaDNVNWpQREJWTkcySzZYOGFYWGVWZ0U3emNTcE1sb0JpVXlVczJWVzBlNmxjVW84?oc=5",
-      "publishedAt": "2026-10-01T06:09:28.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 북미 하이퍼스케일 AI 데이터센터에 1812억 초고압 변압기 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS전선, 獨 하팅과 AI 데이터센터 전력 솔루션 공동 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6c206a0acde59570",
-      "title": "LS일렉트릭, 美 AI 데이터센터에 초고압 변압기 공급…북미 전력기기 수주 확대",
-      "source": "메트로신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUWViZFRDejB4X1ViV3FoaWxjN1JwYXNEQkJwZnNqcXB3eDE0RVJ5d3hoN2RLdGpnRi1GX1lhci1vVFZGelhfNFhwa2x1TW10MXRIa0duQkdkRVhfTTJYRg?oc=5",
-      "publishedAt": "2026-10-01T05:28:10.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 AI 데이터센터에 초고압 변압기 공급…북미 전력기기 수주 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5246ccfc7cd8dae0",
-      "title": "LS일렉트릭, 1812억 북미 AI 데이터센터 변압기 수주",
-      "source": "에너지신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10dHN0MkM2NXdQTlVzOU4xLWdBRTBtQzB3OE1McWo5WFMza0V4UkVHNldqSm5SRFUzS19Ha3dvTkllaWUybHoyVnhmQk0tOGhMZmtmbUhnTEhkYVN2THhzMnJqbm9XU1gtbFp6XzR4cVpsZw?oc=5",
-      "publishedAt": "2026-10-01T02:08:24.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 1812억 북미 AI 데이터센터 변압기 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c84808ff3ce3e5cd",
-      "title": "LS, 전선 넘어 방산용 희토류까지…비중국 ‘방산 공급망’ 넓힌다",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZRTl0NUVpSi1XY2YyenJRejgtNjNkUERpMUxUUWw5V1l5c3dhcnpKN3dMMHFSVVFDakdlM2wwN3FwRUI4ckotLTh5N3VpY2ZFN0lZX0hYMlFSa1oyWHFZQm1kWl9lT0dM?oc=5",
-      "publishedAt": "2026-10-01T01:51:02.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS, 전선 넘어 방산용 희토류까지…비중국 ‘방산 공급망’ 넓힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
         "label": "neutral",
         "score": 0,
         "confidence": 0.35,
@@ -430,12 +542,12 @@
       }
     },
     {
-      "id": "8aaf6b26bdc05e24",
-      "title": "LS그룹, ESG 경영 확대...부패방지·규범준수 국제표준 인증 획득",
-      "source": "KPI뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYUElLLWthMWpyRjlTN001cEJlbW11Q0d4Y1VBNFNpNWlQRnZvNjdhZkVIeUtrdlJHZ285SEVyTmZIenlmZEhqRHdLYjFzYmdQckpZeHRMSdIBU0FVX3lxTE8tTU9TTnA2TmJvbFM1RnlsQVZ3UDNEeU5iX0t1Y0xpcG5YOGJ3TVp6MnYwMWF6aEh1dUdWWWwtM0RGaURiNDhBMS1mUmQtdFZqbVhR?oc=5",
-      "publishedAt": "2026-10-01T01:44:21.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
+      "id": "11e98c28d7de0759",
+      "title": "LS, 부패방지·규범준수 국제표준 통합 인증 획득… “윤리경영 체계 확립”",
+      "source": "천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NS1hUc2NRekM3bk16dTlMVGVSc0hWakw3UlVmWDVYVFZhWi1SSDJYakM0WElNSmNVcjNaTHp3S3EwZTJCV1F4bFVGdVMybWYyaTRmb2FXemZnNW1iUHdVN181dkhuNHZ2OUE?oc=5",
+      "publishedAt": "2026-10-01T06:59:46.000Z",
+      "collectedAt": "2026-10-07T01:54:36.104Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -446,116 +558,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, ESG 경영 확대...부패방지·규범준수 국제표준 인증 획득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS, 부패방지·규범준수 국제표준 통합 인증 획득… “윤리경영 체계 확립” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eff2ab89988c143d",
-      "title": "LS일렉, 미국 데이터센터에 초고압변압기 공급…1천800억 규모",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWE5qeUw5WnNEZ0N1dEpzVlRGUE93ZmRhc2l5RkVSMXBQbml0MW5DY1lvRFpzVXo1QkxWTFNkRGZXNVFRNDZ2MG1VT2JROWxqdzg0dnQxMmIzeVHSAWBBVV95cUxPSlNrNndWN0hRRmtjMlJnSGNweXVsR1N5Ulc0TURaUjZRQmoxel9tVEJCTWdRZmk5dVRNV0VrbXBqZTBPaWcxb1d0TTNYSklncVJTcmw1ZWhkX04wa2huNjM?oc=5",
-      "publishedAt": "2026-10-01T01:19:59.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉, 미국 데이터센터에 초고압변압기 공급…1천800억 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "39d30828e287b41b",
-      "title": "[Who Is ?] 구자균 LS일렉트릭 대표이사 회장",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cThzamlnREQ4R2lJNzZrS1Vfcl91RWRDUDB3VzZJM2t5VDdWbTdMZXFzTDZvd08teTJBckhWZDZoYm1aTTJjYTNuU1VRcmJDekFRaXlqQktUREVLamlFSHJxQk9UTWN5RHBaNXZHNFdhcVE?oc=5",
-      "publishedAt": "2026-09-30T22:00:00.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "[Who Is ?] 구자균 LS일렉트릭 대표이사 회장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b3d884d1203edbbd",
-      "title": "LS전선, 희토류 공급망 독립 가속화…베트남·구미에 생산거점 구축",
-      "source": "https://www.sisaworld.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BUUJxOGZlbzdBWEtQUkRBRFZkSnRLdkh2SFJZalJNRUM4akV4a3hVNVdSTjE5Nm1jNkZyNmJZUE51SExjWUg1Q2NtNm9PS1pLTDk4anktTmNBZXd1RkZiZy1DX2U3MWJaa0E?oc=5",
-      "publishedAt": "2026-09-30T15:08:23.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS전선, 희토류 공급망 독립 가속화…베트남·구미에 생산거점 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8141117193f31855",
-      "title": "LS전선 '1500억 투자' 국내 첫 희토류 영구자석 생산공장 만든다 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CWndRb0Zqcnd1SU00WGt0Z0hiRkhlam00cVBsNWd4X2dtWkliWXpIV0hfNTZpWDBSeUF4YUpabjJ5Y0d0QVFPc1l6WE1IWDlCMnNmb3owU2wtdDBrQ2Ntb25mQ0RsWDEyaC1wOdIBckFVX3lxTE9oX0tKeDZNTENBbVlCZjR5ZkpHcTF0SHBGaDMtTWNkaUl2WTlfNDhqOHNqX2NVeDVuZkNSNHdEQzU2bmc5eGtaSng2bzhmelBTcHlFMGtnMTRrRjFlZUlfMHh3MHZQV1pZZmFaMjk5ZUp0dw?oc=5",
-      "publishedAt": "2026-09-30T09:09:22.000Z",
-      "collectedAt": "2026-10-06T16:59:54.583Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS전선 '1500억 투자' 국내 첫 희토류 영구자석 생산공장 만든다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
