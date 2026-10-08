@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:36:52.124Z",
+  "generatedAt": "2026-10-08T02:22:23.383Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "코스피, 삼성전자 실적 경계감 '6800선으로'···페스트 이슈에 제약주 '펄펄'",
-    "코스피, 삼전 실적 발표 앞두고 관망세…6900선 사수",
-    "정비사업 잡아라… '10조 클럽' 막판 승부 - 머니투데이"
+    "정비사업 새 역사 쓰나… 현대·삼성, 10조 클럽",
+    "삼성전자 깜짝실적에도…코스피, 하락 전환해 6700선 털썩",
+    "[1007마감체크] 코스피, 삼성전자 실적 경계감에 6800 턱걸이... 외인·기관 순매도"
   ],
   "articles": [
+    {
+      "id": "1eb63be3bffd3177",
+      "title": "정비사업 새 역사 쓰나… 현대·삼성, 10조 클럽",
+      "source": "한국주택경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpRjJSal9FOENaX0Y0c2E2ZnRoVkYtcU9qSGdjY1hhWUF5b1Z3OXYySlZOZDJkb3JVRm5yZG9zQkF4WFhXV1BldWE4Y0lDamhZa0xIOEFKRFFQVWQtYzVDdWlBMV9ySncx?oc=5",
+      "publishedAt": "2026-10-08T01:34:31.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "정비사업 새 역사 쓰나… 현대·삼성, 10조 클럽 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c69197645c92e25f",
+      "title": "삼성전자 깜짝실적에도…코스피, 하락 전환해 6700선 털썩",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVm5pbXNyaUkxS185cHVPN0hSU3E1RE5PVjlDY2w2VlF0YmJROE5Id0lfdk5iX2hfMU1nZWJKR3U4alFXVmx0dl9xM01PWllSNjJ2SklOSDhJSDI5YTdCRtIBeEFVX3lxTFBReDh3TnNpcVVJUnQ1aXFiZUJIbVJrendiMW9ILTBfUGhVWjhRUVI0QlBGSWJ0MkZuMUN6Vlp4YXRTU1ZEMUlqSk1sZE9PZ18xU1NMdXJ0U3Ita0ZWQTIyNHdMNVFTQlRKbUZsYW82NVRmUnRzVmYzWg?oc=5",
+      "publishedAt": "2026-10-08T00:40:02.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성전자 깜짝실적에도…코스피, 하락 전환해 6700선 털썩 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1324c96918c38566",
+      "title": "[1007마감체크] 코스피, 삼성전자 실적 경계감에 6800 턱걸이... 외인·기관 순매도",
+      "source": "인포스탁데일리",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSVpjb3ZvRFIyMGZPSERhUTFKeHpQbTc2bGVyR3IxTjhZYTJsUHQzWDZwZnctdmp2aGgtTFFNSlY2dldiaFVUaF9qQV96bm43VTNIYmk0RHRQMTJEWGN1TUR1aEhfVDNJYl9ud3FuYXIzNGVwdnc?oc=5",
+      "publishedAt": "2026-10-07T08:24:02.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "[1007마감체크] 코스피, 삼성전자 실적 경계감에 6800 턱걸이... 외인·기관 순매도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "1a1b4bc2fc5912e1",
       "title": "코스피, 삼성전자 실적 경계감 '6800선으로'···페스트 이슈에 제약주 '펄펄'",
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nc0VlSUcwMDczZTdoX3R3MVlXVmJGYzQ0ektvYTVwWEdsb00yUy1ZTHRrYVBfVklsbmZ6ZlRSSm1BbnlrZThtOUdnOFdEcDBxazZsSkpvUmg2MS1qMF9zMEw5WFgzNXB0Q0E?oc=5",
       "publishedAt": "2026-10-07T07:48:44.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -47,7 +128,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BS0dmRkw0aFFXUmdlbGw3eVY0MDVqejhtdTF2VUdiV1JaNG5zRlNKQUd0VXhLWV9XTE9oS0paWnFWVmFhWEE?oc=5",
       "publishedAt": "2026-10-07T00:14:03.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -69,12 +150,39 @@
       }
     },
     {
+      "id": "ca1153422e6450c3",
+      "title": "삼성물산이 지은 베트남 LNG발전소, '올해 발전소상' 등 2관왕 수상",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWExZU2JHOGFPSFM3UTVUcjdZb0xONjhFSmVJeFlZdzRpMU0wX1RjdnhzR2Zlck9TUFFkRjBvZFFIZVlyc2lWaDdzTE9OUEpQdEQxWGtoSXB0VmhCR0xCM3Mtdw?oc=5",
+      "publishedAt": "2026-10-06T23:21:18.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산이 지은 베트남 LNG발전소, '올해 발전소상' 등 2관왕 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ac71ca17cfa9479c",
       "title": "정비사업 잡아라… '10조 클럽' 막판 승부 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xUTV4WUcyaVgwUl9HNUpEMEd2TDROem84c05YUV9RaDF1dEFNX1gtaVpWa3RZeG5XMzBUeHNLZDdUWnIxTkF1M1NkM2xBS29xYnlOSzRBOEJyQ3B5NzFKdHZXaGoyN0ZnZFltTjh0Z9IBb0FVX3lxTE8xUTV4WUcyaVgwUl9HNUpEMEd2TDROem84c05YUV9RaDF1dEFNX1gtaVpWa3RZeG5XMzBUeHNLZDdUWnIxTkF1M1NkM2xBS29xYnlOSzRBOEJyQ3B5NzFKdHZXaGoyN0ZnZFltTjh0Zw?oc=5",
       "publishedAt": "2026-10-06T19:10:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -101,7 +209,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CQ240dXhLOFYtZDdfQ2tuRVd0bXlZblVtWVFUNUNDaXYza3dVOEdsalBCeTdsLVA5YVhRY2VMeUxmVkhuNU05d3RlTWhlUnV0LU50X0IzSFlvR0lMN2pqQVVaTEwzQ2dVMU9jR1NB0gFuQVVfeXFMTkJDbjR1eEs4Vi1kN19Da25FV3RteVluVW1ZUVQ1Q0NpdjNrd1U4R2xqUEJ5N2wtUDlhWFFjZUx5TGZWSG41TTl3dGVNaGVSdXQtTnRfQjNIWW9HSUw3ampBVVpMTDNDZ1UxT2NHU0E?oc=5",
       "publishedAt": "2026-10-06T08:13:45.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -128,7 +236,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QeHE2Yks4UTZmN05QUE5oeWZTdWtBZHNrRGN2U050TmoxbjZqVm1HWnROSWZPZzJ3Sm1KdTdSTEtJSG5iQ2xXMndobllENUU?oc=5",
       "publishedAt": "2026-10-06T07:22:11.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -150,12 +258,39 @@
       }
     },
     {
+      "id": "6f21204eebef45bf",
+      "title": "“누구나 동화 속 주인공이 되는 곳”, 에버랜드, 코스튬 복장 어린이 특별 우대 이벤트 인기",
+      "source": "삼성물산 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQV1l2eXBVZEZ5MU41eGlJTHFLeUVVWXVhYjZEUVBnU2VlUGRSNjd2S3JtRHR6SXZNcWQtVEhtbDJrYjB2SlpUTVdqZEozYUttbTlsMFFBc1pFV0FDVzZjUXBkLWZFLTdscnhGS1Rud0tkSHpQTGdGazNNVExlUmZMbjBsWGpFZ2daUDF2S0tqSWtPRFAycTR1aFFfaVZiZEN3RmtVUVRZbTI1eWFUa3ZRa2NaT09Cb2RzcllUTFRRc1VobWlQZHZDaU5XSXVMUjlOM1p5STFYTTQwb3VwN1lKTEtnRWdiZDhWaUFHRjJUT0ZmUGJmYXdVUFFSaHUzODhyaHdvMU5PVWZpel9oLUNCQm1maHRzdk9HV1Q2T1FDNjdrWHZaUVBTTjQzU3F1U1UwQUNPQnNDU3ROMzI3SHV4X1k5WjBybXFSYmJ6ZDBvTUsyR21rLXZaMHFhR2p1a084N05hNmU1MC1nY0JRZVVfWUliTVhQMTZVd19SU215VG5YN01QTUJjTkx1ZldNb2MzeXBiVXhmaWs2WVFKaFN2SE9JbTBEMXkyQWlYeWt3?oc=5",
+      "publishedAt": "2026-10-06T03:11:43.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "“누구나 동화 속 주인공이 되는 곳”, 에버랜드, 코스튬 복장 어린이 특별 우대 이벤트 인기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5edb1751e3181af2",
       "title": "'포인트·쿠폰 사라졌네'…패션업계 멤버십 혜택 '싹뚝'",
       "source": "SBS Biz",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yWXVrMEY3UlIxOUh2WExZMlRxbEtseWZIUjBOZ0VwQ1pBR0tVbi1BLVZkbkJKYk9sMDV6NHpaenhwczZhaTF0Zi1qcWJWbXRBek400gFYQVVfeXFMTi10UDVScHE2X3AzdTczNkkyUl9pVUhmN09sdXd5NmhvakNrQ0pfRlBGVW1SdjVOUDhLZDR2N0xZRmEtSjBLa0VjMnkwVGQ2X1dqSEp1bFlRbQ?oc=5",
       "publishedAt": "2026-10-06T01:43:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -182,7 +317,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMlRUTHl2enM5TkYwWWVYUUR3cGdpTUpZQUVmSUU4WVVNY0pLR1NReDlybzBJdV8zTnVwT0tWeWxzZm8wNjhmWFlGaUs3NDlORXhSUHU0UUZkSXlpZ1pSYTF4cw?oc=5",
       "publishedAt": "2026-10-05T23:52:31.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -209,7 +344,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUWR6Y0xtWHA0R2tBUTZ4RVlUSlVsd2JtZWFaVDMtWEVHS1dWMlJPVXN2cGVkUWFoRDN1UmdFNW5QV3hkaFY3MS1DdWNEVlk0Mm9FeWg3NlYzeDd4?oc=5",
       "publishedAt": "2026-10-05T23:08:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -234,12 +369,39 @@
       }
     },
     {
+      "id": "390807cc70758df4",
+      "title": "폴란드 투자자그룹, 삼성물산 협약 유럽 소형 원전에 1720억 투자 예정",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3lFRUhzNlVqYmo1ZHl2MDhTM0o2OGNxdkVVVlRKX0FkOXAtWWZ1cTlFTmtfN1JOWXpEQnFnWjV6VmpRcDVmSHYzc0xIek9EdmJHN09IYWFGMHREd2Q3NlRLcDRSdVlFSWJxNlJWQk5LTk1HOU9xa1VfZ1k2RHVRYTR6VFItZEtr?oc=5",
+      "publishedAt": "2026-10-05T21:23:39.000Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "폴란드 투자자그룹, 삼성물산 협약 유럽 소형 원전에 1720억 투자 예정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "74844c54d59a4353",
       "title": "[제21회 동곡상 수상자-자랑스러운 출향강원인 부문]지형근 삼성물산 건설부문 전략사업실장 부사장",
       "source": "강원일보",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TDR6OVR5Q1RmQ09SOUZJMXlTM0pKSm9YVWNXTXZjX3BmVEtwM25DcWU5VTZ1YUdwWnBWU2FPYzk3THNuVFJtQXl4OHdxNURJMWRGVWU3QTJyV2c?oc=5",
       "publishedAt": "2026-10-05T15:00:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -266,7 +428,7 @@
       "source": "경북일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvdFBlTnBHWmVfOWx3bVZjYkNzTk8xemhXd2V0THIwZDBOWnVwU3lpckE4eUFEaFpZak5SMWsxbWIwaTRiSGtzU2Y3bjBSLThZNXFrS3FyODZmc1BCcTI5cnVmVmp4TWRFXzBCd1I4SQ?oc=5",
       "publishedAt": "2026-10-05T09:06:48.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -295,7 +457,7 @@
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVZWaXg4MDdZWGhmaDdrSlQ5Z21KNWpvXzhfRF9nVGlnYlZFQW1nc1ZCam1WLVFwd0lENFpjMmxadTdlR19KdW50dE1ZRmFWWmg1ZmI0MkJQV3J5dklKcHpRUUJ6YjZrMWdJbHNYU0xxYV9QQnBzUDhVWmxnSm5WYW05TG9RTTZvd1RUcWpQOUc0WjF6NW1JV25MWnhLLV9ZZGgtYlRuMlR5LTVYMjc0WktUdkNzbXl4VTlyelQ0ZmpOUGlldmJJOWpiaDRveEFCVnE2cFZR?oc=5",
       "publishedAt": "2026-10-05T05:26:28.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -322,7 +484,7 @@
       "source": "CEO저널",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5maHFLT2k3OGJqQnhHN3R3b2RsLURtMll6U0d2UmdBeXMwekJ0aGFNMXgza1lhNE1Qa2dyTHI0eGw2aHdlV3NTVjhnM1pqMXNoSWFPT29xX09FZnowdVdSbkVEVWtFZ9IBakFVX3lxTE9pNFVNNFBCRUFoZzZ2azdaNFV0cElZREhQTHJpT3Y0Z0NCMW9ybEdFN1dLM190bzJMSW5fcHFBXzY2SXVrd09rMmh5aW84cElkTmJhY0hEdlpyNXdXNktPZGd2S2RVczc0Q2c?oc=5",
       "publishedAt": "2026-10-05T01:30:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -352,7 +514,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xSGY1aTVzU3o2SGlTVnBGQnRoRHhienF0VFJuNWJVNzJFZEhjVm02TFFyTFZBY0l1TTZZdTEtS3A3UkhKVHU4MlFUaUQ5MVZZeUpHbzdjYlFKTzdqMWNXSWgxYw?oc=5",
       "publishedAt": "2026-10-04T21:13:12.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -379,7 +541,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DTF81cWlud201SWJTaDJxc25MdU9HLXktbzBKRzR3WUhLY3BITERIeS1sS3l6eFFpUENpeDE4QXFvaWZsRU5fQWlGMHhTcVhXOFhlZQ?oc=5",
       "publishedAt": "2026-10-04T07:37:14.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
+      "collectedAt": "2026-10-08T02:22:23.383Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -391,170 +553,6 @@
         }
       ],
       "summary": "계절 경계 흐린 ‘웨더리스’ 패션이 대세…삼성물산, ‘여러 계절 입는 옷’ 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cae3eb8c9765320d",
-      "title": "“2년 안에 리모델링 끝낸다” 철거 않고 새 집 짓는 삼성물산 ‘넥스트 리모델링’ [헤럴드머니페스타 2026]",
-      "source": "헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oc3dzSm1McGZNa08wRjg2SUs5VVNSb0pXbVlCVjVyYUNldDNWVzZTSGJvVF9kVmlkLVpIU25QbTlCM29fajFzdmRYUXFXMFJ0Wm4wVnBn?oc=5",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "“2년 안에 리모델링 끝낸다” 철거 않고 새 집 짓는 삼성물산 ‘넥스트 리모델링’ [헤럴드머니페스타 2026] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d71da41fbf920e3f",
-      "title": "이재용 무죄 확정 1년여 만에…정부, 삼성물산 합병 개입으로 엘리엇에 1530억 배상",
-      "source": "뉴스필드",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOdlUtY05PSjgyaV9oa1hnZnBFaWtZbWdCdHNOSHk5OWlHc1Q4cGw4WXpZZ1RUbU1FWHJUa3hnUTB1Yk53ZnlNQ0pCTkJUaU9MWDM2UnNwN3dzRzVWM1ZXa0hmTzM1dFQ5X3Y4b2dNVzhkVnd1UjFOcE5qWEpwWW03TmNMNldaOHUzU2g4V09heG00V2tyY1QwckxxTTJEM1M5MGNnNTVfRGk3dEZnU2xTeG8tbF9yMXJsM2VWeGJGOHc0eThOUFVsRGRPQW9PTkpmRmhBX24tZHVsN0tRRjlReU5IM0xGTGQzdm1FSW9zVDBvUThOei1aWk9Kc1B5cElINXFMOTB6cm9RalUtR0ZGQmdNU3ltN2ZIYnVfMW5HLUxmQmhEcWl6a3J0MTNqRk1UX205b1FB?oc=5",
-      "publishedAt": "2026-10-03T06:34:12.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "이재용 무죄 확정 1년여 만에…정부, 삼성물산 합병 개입으로 엘리엇에 1530억 배상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0e5411e62b2073bf",
-      "title": "구미시, 지역 건설업체 매칭데이…\"삼성물산 협력업체 문 연다\"",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sUjU2VjhNdGZCSzREZjFLRXVpREVlOVlUYm5jb3pnUTJudklxd2lMQmpEdHNnREVMMGRuR2VpNW9RSjJ2V1VWV1NvS0FMYzRXSDBfb0g1cnlsQVQ0eG1fOQ?oc=5",
-      "publishedAt": "2026-10-03T03:28:34.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "구미시, 지역 건설업체 매칭데이…\"삼성물산 협력업체 문 연다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "01d5a82c1eac5c5d",
-      "title": "삼성물산, 목동13단지 재입찰도 단독 응찰⋯수의계약 전망",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSnBFQUFXUzI3Y1dsUDhFcmw0R01RZkpFcE10enlNZFpWT1ltYWg1V1J6VUNjX0ljMW9ma3JfVkU4bDVHd21xa19QdTVZSFViYlVJXw?oc=5",
-      "publishedAt": "2026-10-02T08:22:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 목동13단지 재입찰도 단독 응찰⋯수의계약 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f3ab4b57fdfbab18",
-      "title": "삼성물산, 전일 상승…AI 인프라 수주·주주환원 확대 주목",
-      "source": "CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LRmZPa3V2YVFMSFNDZnpiNUdub2ZyNUtaSkZ1NC05YUpiM2J3M3pIVlU3MTdkRnc1R3lCNV9TOTBuLXNHS0VCZm5TdmJpUTcxSEQ4QXBhbjVuME1iM3Rnai1XNTVrUGty?oc=5",
-      "publishedAt": "2026-10-02T00:03:25.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 전일 상승…AI 인프라 수주·주주환원 확대 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6e1503f8ea888008",
-      "title": "정부, 엘리엇 환송중재서도 패소…'삼성물산 제일모직 합병 손해' 658억 배상해야",
-      "source": "알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DWlQ3Y0dZOHdJQU9LbFJNWW5ETWViTTZVMHJnc0hhUmdhZnBCYVdaWWxad2VQM0Z1LWRleXZhczlJTlBodFhRdHg3bHpPUlh2VEI1NURJc3N4bm5tbFhEVzVWRTJLNzVjcElZVTVB?oc=5",
-      "publishedAt": "2026-10-01T15:55:00.000Z",
-      "collectedAt": "2026-10-07T17:36:52.124Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "정부, 엘리엇 환송중재서도 패소…'삼성물산 제일모직 합병 손해' 658억 배상해야 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
