@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:22:23.383Z",
+  "generatedAt": "2026-10-08T09:44:23.648Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,218 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차·기아, 자동차 본고장 대표 컨퍼런스 주도…첫 '기조연설'",
-    "컴퓨터게임과 보너스 재진입 조건 확인",
-    "현대차·기아, 3분기 호주서 주춤…中 브랜드 '수직상승'"
+    "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+    "‘쏘렌토마저 넘었다’⋯ 신차 비교견적 1위 찍은 기아 EV5 ‘대이변’",
+    "카랩, 9월 신차 비교견적 1위 기아 EV5...쏘렌토 제쳐"
   ],
   "articles": [
+    {
+      "id": "9d0903f56d976142",
+      "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzR9IBYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzRw?oc=5",
+      "publishedAt": "2026-10-08T06:54:49.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.13,
+        "confidence": 0.84,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "86f223a4b62ceaf6",
+      "title": "‘쏘렌토마저 넘었다’⋯ 신차 비교견적 1위 찍은 기아 EV5 ‘대이변’",
+      "source": "브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTW9kdkRpSVVWeEw3aUozMkdfUDlWbmR6RlJRVlNfN2U3ZWVTRGV5TkhURU40OUdHZHc2bU1RNWV2R2s4eG9sUE82Z3FGX1czbE5JVldUZGREdw?oc=5",
+      "publishedAt": "2026-10-08T03:54:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "‘쏘렌토마저 넘었다’⋯ 신차 비교견적 1위 찍은 기아 EV5 ‘대이변’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c0c2c0be5280c0e4",
+      "title": "카랩, 9월 신차 비교견적 1위 기아 EV5...쏘렌토 제쳐",
+      "source": "글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5NnJCaElmVzBfWVk0aDhaLXljbGZkSVVFX1B2LWs0RHpiN1FGT2JIUV95U2psbEIydjFkcDI0amJkazhYQWhQcnpZVE5kUGJXazd4dzN6bVpwUER4NGw3VnlRNi1VZi05NjdfetIBcEFVX3lxTE8yeXcxMHhPZnBOcU03dGs2Y3M0NU5BdnVrWEpkemRybjV5Zl9VT3Z0OUh3RWI0WmJwR0tuRlo3R0VldWNzeXlMWUhxWTVfMENELTVUUjVhX21IdWxnRWFHVzJYeVg2OHZEYTZDNjkyT2M?oc=5",
+      "publishedAt": "2026-10-08T01:10:47.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "카랩, 9월 신차 비교견적 1위 기아 EV5...쏘렌토 제쳐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "02fb92bff435686d",
+      "title": "현대차·기아, '아헨 콜로키움 2026' 참가",
+      "source": "다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YWN4ZzBqWUZxZmFla0JPT1FtbGg2VGRuY1JhZm1nbEN6UkU4M3BuY09XQk5tcGxrSGxJdDZvLUlfVlNfVjZoSHUtTzJ4MV9td0ViaDdoWk5qc1FhQXRnT18xclRwblhxTGc?oc=5",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, '아헨 콜로키움 2026' 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6a057065988d9947",
+      "title": "\"신차인데 최대 1,000만 원 빠진다\"... 한 번에 502km 달리는 ‘3천만 원대’ 패밀리카 정체",
+      "source": "토픽트리",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0t0LWRsOUE0UVRrdTZwN09Xb2YxVzY2TFFIMmxJY1hLeVZqMndkcGYwUDV5WmVJVE0yZGYwUUhvamVtdERRa3RncDEySDJVS1gyVlQ0WkxEQWNvUnI4b2cyTmk1ZGV1NE5NRURiYmdneE5NWF9lM0llaU5JUzNuZFluVdIBiwFBVV95cUxQZmxRNHctclhUVldDN09hcHQ1c3pWNlNmVmlzNW5XYWJaNTQ0dGVETFI5TjJ3UkFUYU5hV2oyRGU3T1doeTVzQ3hEWlB4MzR2NHhyRDdVLUxhaDZHZ3VGR19OaUdRVVBDOFVnR3RSQ0Ywd1ZxdzVCLTlrakxOdTA4YkVHYTU3MFZGT0pv?oc=5",
+      "publishedAt": "2026-10-07T22:57:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "\"신차인데 최대 1,000만 원 빠진다\"... 한 번에 502km 달리는 ‘3천만 원대’ 패밀리카 정체 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "22f2dc7e701fb1b9",
+      "title": ": 다나와 자동차",
+      "source": "다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lRVZDU0xzR2ZHQ28zcF94OXhIZVlqU0NsUjVRTGo3SFJfbDZqS2pzY0JzT1dObXR5Z3NZQmR5X0Nmdk1fZm90bDZUaWV3LU9vMTZNSnVLekprZTIyS0w4Y29pbkdZaGtRMkpmSUlfQzZuMnppd0hj?oc=5",
+      "publishedAt": "2026-10-07T18:54:18.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": ": 다나와 자동차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c79d7e192b475c5c",
+      "title": "\"카니발 샀더니 내년 봄 출고?\".. 기아, 옵션 때문에 신차 계약자들 '날벼락'",
+      "source": "오토트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kLXI3MFFBLXJHTk1XUG1Eb1NkbHpxeUh4Q3dOQzIyU05EWE1yVUJVZ1RpV0I4Z3RRQ3FGdUxycGNtckdYXzJqTUc2Qkk2SW1SbkdIdWZkdDIzT3lnWGZfQ3VkY0Y4elhsSVU5WWNxclE?oc=5",
+      "publishedAt": "2026-10-07T08:06:26.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "\"카니발 샀더니 내년 봄 출고?\".. 기아, 옵션 때문에 신차 계약자들 '날벼락' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "4571430b6880a2ec",
       "title": "현대차·기아, 자동차 본고장 대표 컨퍼런스 주도…첫 '기조연설'",
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xOFNvVDlKMnRKU0Z1WGJrZmUyVXZ4azQwMHpzNmF1WUdnZVF3WDQtWDZBdlk2Mk9VbHBHS20yZmdMYVcyTHNYSWtKWDhwRUUyM2JIZWVpNzNSd9IBVEFVX3lxTE9DYkdvQ2F2X0N5ZmVvRHdLSTVZaERjSXAxQ2plNHI4X1BtZzEyaVVzaUNGTjJtMmU5d0RSeDc3VTRQMXRfMm4wRE0xdjl1amZDeU5ibw?oc=5",
       "publishedAt": "2026-10-07T07:33:32.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,39 +240,12 @@
       }
     },
     {
-      "id": "6ff64089c1c42414",
-      "title": "컴퓨터게임과 보너스 재진입 조건 확인",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNelJLZWRfRmdnendOblMzdnhfakFtVU05bm9vWjBXSDVCa01TTVQ5RHg2ZGpXN0xNT1JuTjNJTVE0YzdoTEVQOFhsQVN6ODNPX3RpbVpIbENaX0VDNDNlcWlKWFdkN0lsc1dtZ1JTYjNWYWh0cmF5MUFLVzJON1U2LVA3NXdfWUVJUzE2VUo5QkxjZkw5ZTZHTnNsdklyZkc5T0plRDM3SG42S0g1SzNKc1JVNmJYNmNwYndEWl9PcXNjUVJFQ1RxbXlxUDhVdFNfM2RuNEJYSlhJVUVIaU9aZWxScnVQWjYyMl85OW13M0luaXpRbnBBcnRFZFVYd0JtOXh0cGlDTDdiejhqRllzMEx2YkxaVDBnSnFwa3c2dHZ2Qk1ybUwwWkZ3?oc=5",
-      "publishedAt": "2026-10-07T06:05:41.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "컴퓨터게임과 보너스 재진입 조건 확인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1b08a503c3e875c9",
       "title": "현대차·기아, 3분기 호주서 주춤…中 브랜드 '수직상승'",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YWUN0aDV6QXJjcmV2Q3VkZTQ3dkJPLTJxZ05zeU5JZzJEYXhPS0xJdjRYUkFHM3dPRnJwUWpMV1hiYkRPS3dycWY0N3JLZ3lsT2FXb2prYWU0X2IzTVFkcUxpOA?oc=5",
       "publishedAt": "2026-10-07T04:53:12.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -101,7 +272,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NeGg1aVJhdFVlNXJDY0twdGYwRFdrZlZ1MmFMN0hXSGJPamdEWFJoMjh0S0RkSGhOcGVKelp6X0xLNTFabC1OWnRUdFRyTUE?oc=5",
       "publishedAt": "2026-10-07T02:54:12.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -128,7 +299,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RazR2UDBhTm1xSWVsWlpJcmxreVdOOUprbEJ6T3VKRzc1b19teDNEM0Z1YWwwUVRDTXZEX3VzRVM3cWppcEU5Rm16cU1FNW9CN1JKbzcxZUFzMmlR?oc=5",
       "publishedAt": "2026-10-07T00:34:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,16 +326,11 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdNIBYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdA?oc=5",
       "publishedAt": "2026-10-07T00:16:29.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -187,7 +353,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zS1B0NTJmaTNfYXRFeC1UZEdYNnV1ckVVSXZUYmg5b0FZM29SS0IzSVEzUDE2QUxyWXBsVjAxQTM1ZUx4Wm8ySEhRT1ZqM3kxRlVjV1cyVDlqbHpVbGY2REM3Vjk0Z9IBZkFVX3lxTE5zS1B0NTJmaTNfYXRFeC1UZEdYNnV1ckVVSXZUYmg5b0FZM29SS0IzSVEzUDE2QUxyWXBsVjAxQTM1ZUx4Wm8ySEhRT1ZqM3kxRlVjV1cyVDlqbHpVbGY2REM3Vjk0Zw?oc=5",
       "publishedAt": "2026-10-06T22:00:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -209,39 +375,12 @@
       }
     },
     {
-      "id": "250229e9094edc17",
-      "title": "웹툰 무료보기 사이트 블랙툰 보너스 조건에 포함되는 심벌",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb2c4TnZsSmQyRHYwZHhFNUp4WWR3VzhiX0ZIbThfcDhtaEwxTmZiVVNBYjdFc1pjM0lhZVg2aDJ0eU5OOGhEeHJiNE9LQS1HOTZCWDNwQ05hV3RPbVd6Q0hYOTM4MUt5RWpfVDJFRS1LZ3RqNEpoTXhURm1tT2k0OUNkX3lVbzZtNUhzU2dJTS00UmNDNFgtLUkwc2JCeTVWRkg5T1dNNEZHMmVGaHZ3R2VqMGx0OU9FMHM2ZUZDVTEwT2JmekdKakhuelA5dUduNFFyS09VLTVBRXBvbk1zYl9BLURCNnNPckl5Ni1rQWNUcGFTTkF6NGRoems?oc=5",
-      "publishedAt": "2026-10-06T12:41:15.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "웹툰 무료보기 사이트 블랙툰 보너스 조건에 포함되는 심벌 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9ca1778b53ae4095",
       "title": "현대차·기아의 美친 질주…포드 제치고 성장가도 달린다",
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iQ2NYeG1JeGpScldfcDB1ODRNMkpaUE9UcVRvM1I5SHd2SktNMzNUeWNmZHcyUWpIaFMxYjJIX0dHQ05ISHp5MWJ2UFpVSTgxUWZLUUhJMzNvUEl2d1JIWFBReXFhMzRidnBB0gFvQVVfeXFMT3ctNmtZN0tiNWdVbDhoWWVEdHhSR0N4eXNXaVpRVUdKYmRtcW5kSnRDRERDa29nVjNkbkthR3psbU84WlBVeGxnck8zU3c0V28yYnNycW1VZlE2Z3MzRGJkdGVZMkZROVlnYmsyeHBj?oc=5",
       "publishedAt": "2026-10-06T10:24:07.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -268,7 +407,7 @@
       "source": "시사통신",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sSVp4a3FpeVZFUnFRblU2aTRQc0pqYmFWVkt3UzlENFZESnFXVXFjUGR0SkpSd0RmeGRsZnhXNENlLUlYYlR3YmdYYzJhZjdFd19BbkZSclFocHBpVDJyRnhTdlAtcWE2RUg00gFrQVVfeXFMTmxJWnhrcWl5VkVScVFuVTZpNFBzSmpiYVZWS3dTOUQ0VkRKcVdVcWNQZHRKSlJ3RGZ4ZGxmeFc0Q2UtSVhiVHdiZ1hjMmFmN0V3X0FuRlJyUWhwcGlUMnJGeFN2UC1xYTZFSDQ?oc=5",
       "publishedAt": "2026-10-06T09:32:20.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -297,7 +436,7 @@
       "source": "다나와 자동차",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OczVRb2FWOXFKdDU0bmx2TlFmM0lSUDJWSkMyTTl1Z0pqMFFJdWVveXE1MWE1WG1QZWR1UzJHb1pKZ2dTU1czc2tscTNBbXVfdXhuT3oxTHpYRk9UcW9SaW5fa0pqTTVsTTU5QXRHb3BtQQ?oc=5",
       "publishedAt": "2026-10-06T09:00:46.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -321,12 +460,39 @@
       }
     },
     {
+      "id": "bca4bef924e53d23",
+      "title": "'친환경차 집안싸움'서 체면 구긴 현대차…전기차 격차 '2배'",
+      "source": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoU09icjF5U2stYUNjenJubWpWQ3lsNnZFZ0ttVWNNUXdXSFI0YlpWYVZZbV92OWVBNnlGZk0xa0NKU21RYnl2RUc2Qnd4RkI2QjI0NWdUMmhpUU9PcFBNUEFqYmhRT2d0MVZqdGlGdThpSjTSAXNBVV95cUxQaFNPYnIxeVNrLWFDY3pybm1qVkN5bDZ2RWdLbVVjTVF3V0hSNGJaVmFWWW1fdjllQTZ5RmZNMWtDSlNtUWJ5dkVHNkJ3eEZCNkIyNDVnVDJoaVFPT3BQTVBBamJoUU9ndDFWanRpRnU4aUo0?oc=5",
+      "publishedAt": "2026-10-06T07:44:02.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "'친환경차 집안싸움'서 체면 구긴 현대차…전기차 격차 '2배' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3111779066889495",
       "title": "기아 차 화성공장, `2026 K.YOU 페스티벌` 개최",
       "source": "화성 투데이",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MU21PdGs1U1JKQVRja3RicGZqRmZGb3lSZVRPQ21RczNOUDNJUUd1alFPX2Iwbmg5ZXRkaEpkS2dDMTZo?oc=5",
       "publishedAt": "2026-10-06T06:00:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -350,12 +516,12 @@
       }
     },
     {
-      "id": "612769a757e42bb5",
-      "title": "[이슈 : 경유 신차 시장 급속 축소...'사고 싶어도 살 차가 없다']",
-      "source": "에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zQXVrYl91dEZSR3FJUEt5di1fbjRyaDduTmZpMmlLVE5SbWpOaXlJZlFKYWRoUnFNQ1Y4ajRoc21TOTZJUEdrWmI4NHRFaHBKYy1JQnpWM0NXRjJSSWhWWU5GS3BmSmVIVnhuamx0bkLSAXBBVV95cUxPM0F1a2JfdXRGUkdxSVBLeXYtX240cmg3bk5maTJpS1ROUm1qTml5SWZRSmFkaFJxTUNWOGo0aHNtUzk2SVBHa1piODR0RWhwSmMtSUJ6VjNDV0YyUkloVllORktwZkplSFZ4bmpsdG5C?oc=5",
-      "publishedAt": "2026-10-06T02:05:49.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "id": "f25bea47f6ec8bea",
+      "title": "화성특례시의회, 기아자동차 화성공장 ‘2026 화성다움 K-YOU 페스티벌’ 참석",
+      "source": "뉴스피크",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Rjc5TDdSd2hKSXkzTjJCU3lTMkhKaVg2bWZyVENDTkh1WkxFU3U0b0pyYm1yb2g3elIzNTNLTW5udGduZC1mTi1oc2RYY0NJQ19BNDBoSFFvWDBGdzlDUTZLX0g4d094?oc=5",
+      "publishedAt": "2026-10-06T00:05:38.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -366,23 +532,25 @@
           "ticker": "000270"
         }
       ],
-      "summary": "[이슈 : 경유 신차 시장 급속 축소...'사고 싶어도 살 차가 없다'] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "화성특례시의회, 기아자동차 화성공장 ‘2026 화성다움 K-YOU 페스티벌’ 참석 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
         "negativeTerms": []
       }
     },
     {
-      "id": "e825f0a89e010934",
-      "title": "화성특례시의회, ‘2026 화성다움 K-YOU 페스티벌’ 참석… 기아 임직원·가족 격려",
-      "source": "경기신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MTVc0c2NQUC1aSUpOYW9OVlJBMjBkUThaQ2ctRHI2ZEk1bE5Hdk4tQWM2ckgwTlpvNndTWVg5enhyUUlnRE96amVSbU5pOXZPUlVVSWZ1Y3dBQnlfdlBoaUNB?oc=5",
-      "publishedAt": "2026-10-06T01:16:53.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "id": "97f4e3120c0e554d",
+      "title": "기아 英 2위 질주 속…'11위' 현대차는 中비야디에 턱밑 추격",
+      "source": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYZnV6RWJ6alZnTUVyYVhrN2czcWlmVVpNWlRvT2NIRDNQTWxKMUlVRGZ5dUthcGhRdXJ1WGEtSmJkUGV2aDNweEFON2YwbWRSZ25fUg?oc=5",
+      "publishedAt": "2026-10-05T09:00:44.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -393,170 +561,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "화성특례시의회, ‘2026 화성다움 K-YOU 페스티벌’ 참석… 기아 임직원·가족 격려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "기아 英 2위 질주 속…'11위' 현대차는 中비야디에 턱밑 추격 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e26fa6d1eb6332a4",
-      "title": "화성특례시의회, ‘2026 화성다움 K-YOU Festival’에서 임직원 격려",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENEo4TExuSmFjS3RSSVRra05qRkIxVTROR2pyUXlUZ01CX1EtSGpkYkZoUEVRZ0VHYjlPSjctMnpTX3pvVzQzSzNzVm5mdk10MDljTkdTNk14SktzcFJfS1hVRms?oc=5",
-      "publishedAt": "2026-10-05T23:43:32.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "화성특례시의회, ‘2026 화성다움 K-YOU Festival’에서 임직원 격려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "84ed4d9bd4873c8f",
-      "title": "화성특례시의회, 기아 오토랜드 화성 ‘K-YOU 페스티벌’ 찾아 소통",
-      "source": "데일리엔뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93R042Y3hFNlRZMW5kREtfR3hnRjU5cnVKV2Z4bGw0LTNIcU1pOEdfMmgyNmczbFdDV242U3hUY2N3ZmVaZ3FFOGdBVGsxMXFjU2dIUk5sRVJYUQ?oc=5",
-      "publishedAt": "2026-10-05T22:28:23.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "화성특례시의회, 기아 오토랜드 화성 ‘K-YOU 페스티벌’ 찾아 소통 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "536add42c2b24389",
-      "title": "기아 英 2위 질주 속…11위 현대차는 中비야디에 턱밑 추격",
-      "source": "아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CZWJ3S3pmemRuTGZENjZ2YzZ4WF9FcW9VTTZIYVdtOFFFSTAzNEx4S2FYNHo4RzM5dTFjcmpLY1hzZ2VGMGF6OW1aSG1jNmEtSnk3WVE5ZlnSAVhBVV95cUxNQmVid0t6ZnpkbkxmRDY2dmM2eFhfRXFvVU02SGFXbThRRUkwMzRMeEthWDR6OEczOXUxY3JqS2NYc2dlRjBhejltWkhtYzZhLUp5N1lROWZZ?oc=5",
-      "publishedAt": "2026-10-05T09:00:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아 英 2위 질주 속…11위 현대차는 中비야디에 턱밑 추격 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b45cf794dfdce2a3",
-      "title": "고쳐 타며 버틴다…국산 픽업, 신차효과 끝나자 '내수 한파'",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMb2t0aGpRejktbkZLM29fVl9sUHNWeE1DakRMcDhwZDFsZTI4MEM2emlHbE96cEpaSW90cFJGQTVXQTMyZmNna1JLZl9CbDlPY01ULVkzaVp5UQ?oc=5",
-      "publishedAt": "2026-10-05T05:32:39.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "고쳐 타며 버틴다…국산 픽업, 신차효과 끝나자 '내수 한파' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "144460a4b0949808",
-      "title": "기아, 英서 8월 누적 판매 폴크스바겐 이어 2위… 스포티지가 인기 견인 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpT1htM2ZRTWFqTlF2VmtqRWgzamhUU0s3TVluNnRjdUx4SEdqcUhSbVBtcEE0TFUweEJNdlkzTV95cGtGbUpUekFmM0YwYmFneXh0cHJvcDZJQjJibXRRMlZDT0d5aWZyQlp0eWZ4OVlRQnN4VWM2Q2g0V2FnQ0XSAZMBQVVfeXFMTWFuRzg1b3l5VHdoTjFBZEwtOHRwMFQ3b3V1elgtelQ3M2Z4S0VkOUhHTGl2cXdhOTByNW1EcW80d1loVktTOEVjcEZyUDNRRTJMVVZPazBwa1pJNnBqZEJFc3ZWMWNrbFBvNzlCaWNuTGNSRjA1dW0tdmtQV2hMempsemUtb2RYbUxyMDgtTDY0SjFB?oc=5",
-      "publishedAt": "2026-10-05T01:53:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, 英서 8월 누적 판매 폴크스바겐 이어 2위… 스포티지가 인기 견인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6fe9277d452d86d6",
-      "title": "[글로벌 자동차 전쟁 ②] 현대차·기아 EV, BYD·테슬라와 맞붙다",
-      "source": "뉴스임팩트",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uQXNnS0FnU1poem5WR2xwa0pjVXM3WHNtdFEyMHkxM3d5T0tVZVF4b21QbjJLNS0yaVFRWVhCRFhmWmdoSnYxXzZ0RWZPVWFCTmFiZlg2NlQ0dEJwWUZvTzJQQjU2OF9uRlNlcWNiN0sxQQ?oc=5",
-      "publishedAt": "2026-10-04T21:10:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[글로벌 자동차 전쟁 ②] 현대차·기아 EV, BYD·테슬라와 맞붙다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,

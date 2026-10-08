@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:22:23.383Z",
+  "generatedAt": "2026-10-08T09:44:23.648Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,110 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트",
-    "현대차, 글로벌 자동차경주 게임서 오프로드 콘셉트카 공개",
-    "모두가 떠난 자리, 현대차가 C세그먼트를 지키는 이유"
+    "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+    "현대자동차, 글로벌 레이싱 게임서 오프로드 전기 SUV '크레이터 콘셉트' 공개",
+    "현대차 디 올 뉴 넥쏘, 일본 출시 5개월만에 누적 점유율 11%"
   ],
   "articles": [
+    {
+      "id": "9d0903f56d976142",
+      "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzR9IBYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzRw?oc=5",
+      "publishedAt": "2026-10-08T06:54:49.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.13,
+        "confidence": 0.84,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "f2d50f0ad38c9646",
+      "title": "현대자동차, 글로벌 레이싱 게임서 오프로드 전기 SUV '크레이터 콘셉트' 공개",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaXM5VUZ4NkgyOGhIZGRJaDVPT1JKMUFfQWJkWWdDWmEtSUZpSEVLQmszOEg0dVFLTWMzZ1dQWGd0ZlhaTnZpNVp2MTc4Wjkza0NzOEI0SFJWNFhoQ19aNHJKZGQxNlU?oc=5",
+      "publishedAt": "2026-10-08T01:34:16.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차, 글로벌 레이싱 게임서 오프로드 전기 SUV '크레이터 콘셉트' 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "16fb80ecb1b77196",
+      "title": "현대차 디 올 뉴 넥쏘, 일본 출시 5개월만에 누적 점유율 11%",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ebk1BOF83LUd6cWZTVV92aGhBU3V0SnNYUmx5S0prYk5PNG9wUmtqb0o3ZEJkRXZlakdpaE9jODRuRm1nYnl3Z3ptY0lwcko2V2EyWjQ5Rm15bEtheTZZSdIBYEFVX3lxTE1Ebk1BOF83LUd6cWZTVV92aGhBU3V0SnNYUmx5S0prYk5PNG9wUmtqb0o3ZEJkRXZlakdpaE9jODRuRm1nYnl3Z3ptY0lwcko2V2EyWjQ5Rm15bEtheTZZSQ?oc=5",
+      "publishedAt": "2026-10-08T01:16:42.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 디 올 뉴 넥쏘, 일본 출시 5개월만에 누적 점유율 11% 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "03edc78a457cb937",
       "title": "새로운 오프로드 탐험의 시작, ‘더 크루 모터페스트’ 속 현대자동차 크레이터 콘셉트",
       "source": "hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNE1wY0VVUEctb29aQm42N3d2TGxSRHRndWFuXzlxVVJ2aWtrX1FRSnI4WlJSYm9ZMFl1eURkblpfUXA5T1g2TDZyS01tRWl2Slg1WEN5ZFZPMjFmVXpkcl84cFVYcjZVTHMzRTdmYTh4TFdsQlY0cmp0ZUVpd1dkNnlfVXBZQkNjem1B?oc=5",
       "publishedAt": "2026-10-08T01:15:20.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -42,66 +132,12 @@
       }
     },
     {
-      "id": "40a684341d4ab99f",
-      "title": "현대차, 글로벌 자동차경주 게임서 오프로드 콘셉트카 공개",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZ1kxZ1BsR0piY1pCYW16VTMzdFFvdjRnYVItXzVwS196eWlVQ3I0OEhPWUdtY0N0VkZQWU9aczd0aDFJbW42Y2phelM4VEZPV3JRQndITEhMaHNlMGRQadIBYEFVX3lxTFBjZ1kxZ1BsR0piY1pCYW16VTMzdFFvdjRnYVItXzVwS196eWlVQ3I0OEhPWUdtY0N0VkZQWU9aczd0aDFJbW42Y2phelM4VEZPV3JRQndITEhMaHNlMGRQaQ?oc=5",
-      "publishedAt": "2026-10-08T00:00:39.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 글로벌 자동차경주 게임서 오프로드 콘셉트카 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2642732abc45f02b",
-      "title": "모두가 떠난 자리, 현대차가 C세그먼트를 지키는 이유",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmVaLWZZb3Z5SmZWMV96U0xBME5mSFBVYWdiX3prVkJsQUFZYkpnQi13b2NZd05RQUFwb0xUakJHZXl6RDY3WGxERDlvRlhQWm1BeTE2Q0Z4WXBxWjAxVF9hTkd0V3VGMERLekdXVGVZZDE1c1VEQTN5allka18wYW56eHR4QQ?oc=5",
-      "publishedAt": "2026-10-08T00:00:06.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "모두가 떠난 자리, 현대차가 C세그먼트를 지키는 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "fa6f0347939376ee",
       "title": "현대자동차, 게임 '더크루 모터페스트'서 '크레이터 콘셉트' 공개",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aT2Y0N2VucXRjZTc5YWNuTldjVjJpM3RYeFhKak5jRWxKc1Rrdm01TU1FeFE2Xy1pTGdGZ3lDU0NTX0FpNzB3NFNuN1VvRWkyU3lkYzdlSmpiajZ3MTlScg?oc=5",
       "publishedAt": "2026-10-07T23:40:10.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -123,12 +159,39 @@
       }
     },
     {
+      "id": "b6e8c6139f7a8bf6",
+      "title": "현대차, '2027 쏘나타 디 엣지' 출시",
+      "source": "다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOR1Z6dVh2RnVzSHZZQkNOdzFKX2ljd1NyYlE0eEpYNElvc19PTzNzWXVqek9aNHRwbUZDQzlDamhBaGNtVXJEalV3a2FQc0g1ajFhcThkazRQUnNWOWVINGY0RURucVBSZkV3SQ?oc=5",
+      "publishedAt": "2026-10-07T21:33:41.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, '2027 쏘나타 디 엣지' 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8addc8ddd4c4e97d",
       "title": "\"車·로봇 AI 고도화\"… 빅테크 인재 모시는 현대차",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3TjgxMU1hd1paQkFoczdaS21DN2pPX2JFZDkzX1JvZ085NUt5Z1lmWmJDSC1XOExibGdHUnROQ2RUU0xvNVZFTzRreUFEbV9DWWdkZTRKU0Q3c2puS3dqdmtfRF9GbXNvckczV0VLcFRxZE9DUWJGRUdLTlhVOUU?oc=5",
       "publishedAt": "2026-10-07T15:33:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -150,12 +213,95 @@
       }
     },
     {
+      "id": "4b836b0195b31dc3",
+      "title": "현대차 판매 16년 만에 최저…신차로 반등 노려",
+      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHX3pNMnJmbXJoZlpBRXpMZER3X0hodkFXTC1HUkcxenFnLUlPNGFxYlhzWFROWUc4R3BkajVxSU9raWlHQU9NU0VpUzNWRjkxaU1OTzdfYUYzUEVaRXIwbGd5dExTdw?oc=5",
+      "publishedAt": "2026-10-07T12:50:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 판매 16년 만에 최저…신차로 반등 노려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "bc99f630b8af5567",
+      "title": "[단독] 현대차그룹, 이달 남양서 '미래차 10년' 비전 발표",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdGtvbFRoOGFKWHBHeXhPeUxsQ3FxbGlUTnRRQjdHR0xnYzR5UXAtOTd0Q3lEdjR2R1hCaEJ5bjNEWkNZbXFieTBkQlNabFE0Z0dhejRxOVY3UQ?oc=5",
+      "publishedAt": "2026-10-07T09:43:34.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[단독] 현대차그룹, 이달 남양서 '미래차 10년' 비전 발표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "3c4b5c1952cd3b6a",
+      "title": "현대차 \"로봇, 실험실에선 완성 못 한다\"…양산 조건은 '현장 검증'",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRE92ZXkxck9RSHlBN0FzS0E0NDJiWFJ3YUdNYkc1QTVid0ZYU3hNUS1OeEhVMkl1Ny1jZGZ6a21lSTRpYmZDYTFBZkdNYXJRdzJZcFl3?oc=5",
+      "publishedAt": "2026-10-07T06:31:57.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 \"로봇, 실험실에선 완성 못 한다\"…양산 조건은 '현장 검증' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5a811934ee44f527",
       "title": "10월 리서치데이 | 공지 | News | UX 스튜디오 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuREdWd1FSTDBBaGZ4RFhvU1B2Mlp3ZGROODBSWEhsVUo2dDg2eDZ0d3RiZjEwakR0dWVfam50WExQcThOMnpPNDYyanVTNGZGY3o3eW1ncTN2WDlMRk14dU42QWhaWnF2UllwUmhZWk9lUG5pTjh0cjhOX3FqUQ?oc=5",
       "publishedAt": "2026-10-07T05:33:20.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -182,7 +328,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SZU5HRGNXc2w0azRPM01yZGNBVU5qTHpuYldkdFdZZmhUNW96RjZlQVZyc1JGaHoyc3Juc2VIR2hmTG11SktTZ3pQWXJ5eFVLcFU2X1RrTXVVX0Nlc0o4UW8tbWtWbHFsZFNzUkJQcGJ5MW1QZ2p3anMwS1RHR2fSAZMBQVVfeXFMTjZaS29HT2t0eWZKbG9sUFBFMnZGV05OLTBBd0FwYy01UWZ4Q3o1Qnh3eUcxWHlmZmxsNVp1MGZfR0luSUJnRG5ESWE3a2cxX3B2YmlGdktRcVlzQXJiQXpOQlI3NWVGUHMzVWVOU1hiM3VLbkxHdXNkQVE5TjBUTEppdDdDaGx1aXg5ZzZRSXBWMV9J?oc=5",
       "publishedAt": "2026-10-07T05:07:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -204,12 +350,12 @@
       }
     },
     {
-      "id": "48d6446c88850318",
-      "title": "하러 현대차그룹 사장 \"기술의 강점 연결, 미래 모빌리티 경쟁력\" - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04Vlp4ZklqcFVrN3VsTlY5a3M2akNtSXJ2cmlBM2JSVW1ob1Rna1FXR0tmY3Y0N1lNNnZmZkt4YUZfVnVTU01hUDlOWTBQLS1vRndEUEZuYUxCYTVKTWdJcUo3QjZCSjVsTUE0ZElsQ2Frd9IBckFVX3lxTE04Vlp4ZklqcFVrN3VsTlY5a3M2akNtSXJ2cmlBM2JSVW1ob1Rna1FXR0tmY3Y0N1lNNnZmZkt4YUZfVnVTU01hUDlOWTBQLS1vRndEUEZuYUxCYTVKTWdJcUo3QjZCSjVsTUE0ZElsQ2Frdw?oc=5",
-      "publishedAt": "2026-10-07T00:39:02.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "id": "9238a0c6eac22918",
+      "title": "\"120만원 간다더니 어쩌다\"…반토막 난 주가에 개미들 '눈물' [종목+]",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GUEMzTmFiblRjZ1AwVURqNVFLSDdlZ1hLMGxLa3VDc2dpa1BFSDU0N1hWQ2xsS1pPYS1sTlBTZXFzVlYtbXNDV01pUFo4aS1qWVdNVnNYVHRTZw?oc=5",
+      "publishedAt": "2026-10-06T21:30:01.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -220,94 +366,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "하러 현대차그룹 사장 \"기술의 강점 연결, 미래 모빌리티 경쟁력\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c57ade7c225b4b66",
-      "title": "현대차·기아, 유럽 자동차 콘퍼런스서 \"AI로 엔지니어링 확장\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdNIBYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdA?oc=5",
-      "publishedAt": "2026-10-07T00:16:29.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, 유럽 자동차 콘퍼런스서 \"AI로 엔지니어링 확장\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "59228948813181fa",
-      "title": "현대차, ‘2027 쏘나타 디 엣지’ 출시 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDRIMzZPR2UtZ1c0TWV3dVRpcTczS1JqRUFFLUVDM2N1VFdYR0RTd3VZcjZZcmoxeVkzc0dmR2Q3RlpHTkxxRm5Ca3M5cDVxSTRkOXAyM3BwLXpWM0I4VV90Q1psYVlHYU5zdzJ3U2hiN0VXdXRVLXR3U3JoUGc1VTZvaFltYUFuamc1Qw?oc=5",
-      "publishedAt": "2026-10-06T23:30:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, ‘2027 쏘나타 디 엣지’ 출시 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7a55f92ae0ea4eda",
-      "title": "\"미래 과학자 키운다\"..현대차그룹 GBC 건립 앞두고 체험 전시 개막 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvajJpOVliY010SmRSLXpRdWlIckt4Rlg1S1laLXZCWTNUUGZfbGtJbmtFRGR6NTVET2hpakR1eUswS2RIQVRxVF95OU1jNUxVajhCWk54OVMtRHJMSlJYOVVqenVudkQyUGdrMNIBckFVX3lxTFBsT2VMS2tEUE1FSzdHdzVEbnIzSmdjeXhGZGxNOGVUaEhaSGpKRUxyVnlXQ21ac0dVN2l3eFFSM0RJTVVfZ0RWTmdyMjBSVGZOUjVkUkQ2ZGlscEt3RkFUMV96ZUd6RGdPUXhmbzYzR3Nldw?oc=5",
-      "publishedAt": "2026-10-06T07:19:46.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "\"미래 과학자 키운다\"..현대차그룹 GBC 건립 앞두고 체험 전시 개막 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "\"120만원 간다더니 어쩌다\"…반토막 난 주가에 개미들 '눈물' [종목+] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -322,7 +382,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSVJwSHZCcVNDeVRFNzc1eFVQOUJLcnNrb1dBZGpabW1Ha3ZmLU9HeFVidkRqSmhIRWpGMWtZLS1TZlZLckNhV3lNMmpJT20zdnZ3Q3FQNVZrTWUtY0RKbdIBYEFVX3lxTE5tSVJwSHZCcVNDeVRFNzc1eFVQOUJLcnNrb1dBZGpabW1Ha3ZmLU9HeFVidkRqSmhIRWpGMWtZLS1TZlZLckNhV3lNMmpJT20zdnZ3Q3FQNVZrTWUtY0RKbQ?oc=5",
       "publishedAt": "2026-10-06T04:27:28.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -349,7 +409,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHhLVU9WcWpjcXlSS0FiZlRjeTJNZ3Nac09tYVpfWmowVkM4UzMtdVBhWVZTVFE5cG1STnk1S092QXB6OGI4dVhkbmlCcHlWcTk1cmFlRXFWZl8wa3FPZ1JKZFE2Y1dndTc4dlV2Vnlwend4N2UwUTNMN2pQYndsV2hCYWU2QWdfZTFhb2F1QVNOX2RhUEpnWmdQNHo2dw?oc=5",
       "publishedAt": "2026-10-06T04:00:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -371,12 +431,12 @@
       }
     },
     {
-      "id": "3a50f83fe2cedf52",
-      "title": "[팜히스토리] 울타리 하나 사이 농협과 현대자동차의 26년",
-      "source": "팜인사이트",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelVLdTNJMnZDXzFxLUFkRV9kbUxLeDR3aS1tRVhmaEMyOFppa0o0MFdBbHlVN3hDZTJuOU0yeFlLckVMUG5aUzhiRVFKM1pxbmxnandHYUNUMUg5UkR4ak43dGU1SHVSZnBqSFBn?oc=5",
-      "publishedAt": "2026-10-05T05:12:00.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "id": "649e231f3921f5bf",
+      "title": "현대자동차 ‘디 올 뉴 투싼’ 미국 뉴욕서 글로벌 무대 첫선",
+      "source": "벤처타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQmZNd05kS3phb0M4Mm9OU3NrX21rUVY3X2lRUG1kZnBjeU9uVEVmcUpwVnc1LXpCREZ3RWlRUzRBT2dFZWpfZXVUOG1vX0pWR1VCam1hMzh5YU5CUFF5d0otQXJEQQ?oc=5",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -387,7 +447,34 @@
           "ticker": "005380"
         }
       ],
-      "summary": "[팜히스토리] 울타리 하나 사이 농협과 현대자동차의 26년 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대자동차 ‘디 올 뉴 투싼’ 미국 뉴욕서 글로벌 무대 첫선 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6c3c65bf3621eccd",
+      "title": "현대차그룹 공식 웹사이트, 글로벌 웹 어워드에서 수상 이어져 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzl3cWdqMHhpemVlVm5IQkkzcnRSTzJJTWZkekp6UjdlQWE3VTdvQmZ0cHVIYjduQTF3TUI3cjZfTVN0czZIeVNvYmhVWEJIaDVqcXF4ZFhuSkIzSGp2X3N4SGtFWXJIaGN2UzVFU3hOaUhWZ1M0eWV4amxHNDZFTXhCY2p3NFBRYlZr?oc=5",
+      "publishedAt": "2026-10-05T23:30:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차그룹 공식 웹사이트, 글로벌 웹 어워드에서 수상 이어져 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
@@ -403,7 +490,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84V2xQc0RqNXVjbURvNmRxN0g3VTRRTEFELXhhODdwSGN1YlJQTVNPT0ZkR0ZsS0lWOS1OS01TSHZsV0JQRzl2VWR0RzRrZDZEclk2NENVd1BHbmJJakxvVNIBYEFVX3lxTE84V2xQc0RqNXVjbURvNmRxN0g3VTRRTEFELXhhODdwSGN1YlJQTVNPT0ZkR0ZsS0lWOS1OS01TSHZsV0JQRzl2VWR0RzRrZDZEclk2NENVd1BHbmJJakxvVA?oc=5",
       "publishedAt": "2026-10-05T01:41:57.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -425,12 +512,12 @@
       }
     },
     {
-      "id": "0859bc706b60ae27",
-      "title": "\"현대차, 미국서 가성비 브랜드 넘어 선도적 주류 목표\"",
-      "source": "Daum",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53anBMMVhxSEV0UnBPTkFkdTZxcVE0Y3lEUTAzX1pWWGpqZ2V4THpIajNJYjN6TFN2MFpUWDRyeTlTM2tBLWhROHAtbw?oc=5",
-      "publishedAt": "2026-10-05T00:02:30.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "id": "b6e215a4b09c9d67",
+      "title": "전기차 시장 판도 바꿀 ‘게임체인저’… 車 업계, 전고체 배터리 개발에 사활 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHRsaWRlOWFwWS04VEc2UjNYcVlJelpNRkdYSEF2UWQtTWI3ZGViMl8tWjlrWUJBVmFYQ0VnOTJycDBydnVMRzhMN3lHZWY0OUVPa01RaV9WWGZ3RlpTeE5kZEN2WkZ2QVdoNHpXbXloVDRySEJ3d2dKNHFfSWJLRjJrRWXSAZgBQVVfeXFMT3V6ZjZOdGNUWmxGTDBiT3BYaEM5MnJ2M3BJVGlMZkRGU1Q2YmdFQV9XS19tZ1BJRzVqRzRiYUpSd21WZjVUREFzS3hsRmZwdGtKOUFfdms3MXB6QTJMTktXOEhiQkhCaEZnRExKZ24xTUtGME9ZeEM3OHhqdURIamhZbUZ0OGRGanZYY0pwYVJsbGVUWk1kYmg?oc=5",
+      "publishedAt": "2026-10-03T21:07:00.000Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -441,69 +528,13 @@
           "ticker": "005380"
         }
       ],
-      "summary": "\"현대차, 미국서 가성비 브랜드 넘어 선도적 주류 목표\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "65caacde67f2fef2",
-      "title": "현대차 주가 70만→30만 '뚝'…한달새 30% 뛴 협력사 정체 [대기업 협력사 전수분석]",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UVE8tRVlNNXp5VG5JbU5YYXNCZXJ4aWpoblIxT3dHcHBuMjBFX3MyQ203cmtyQnRkYThwRk5ib1ZCVXZPQTN0WDRVY3BFT1YxUTQyNDZBc3pYdw?oc=5",
-      "publishedAt": "2026-10-02T23:00:02.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 주가 70만→30만 '뚝'…한달새 30% 뛴 협력사 정체 [대기업 협력사 전수분석] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8b4b7339ab66a82f",
-      "title": "현대차·기아, 3분기 美 판매 역대최대…포드 제치고 '빅3' 유력",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkWVRwT25hMTNtU1Z2Y2FULXdVOU9Nd0FxZ3psemxkZlYxNlNxOTVFRS1iZlhwSnNhV2NKdy1aU0U3aGlEaksybC1XTEhqUQ?oc=5",
-      "publishedAt": "2026-10-02T10:38:13.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차·기아, 3분기 美 판매 역대최대…포드 제치고 '빅3' 유력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "전기차 시장 판도 바꿀 ‘게임체인저’… 車 업계, 전고체 배터리 개발에 사활 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -513,7 +544,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRGRtVEw4QWxQdUFTQTFab0hoRVN6ZEwzNkl6eURLTk1zQ3lxdWJxY1FEQ2VMVVdQV0VqeGVjdGkwSlQwYzVSakhreWdsNFdOVXlNeDJrQXhhUQ?oc=5",
       "publishedAt": "2026-10-02T08:29:38.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
+      "collectedAt": "2026-10-08T09:44:23.648Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -526,33 +557,6 @@
       ],
       "summary": "[단독] 車 만들던 현대차가 왜?…'2028년' 앞두고 인재 싹쓸이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "49b4c6b468c43506",
-      "title": "뉴욕 밤 물들인 현대차 투싼…북미 시장 공략 박차",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2LS1PSFRhMUU0dGxYWWI0b3BsSXVTNkZPT282SkZlZmo5ZG41YUF5U002MUs5Tk85MEE5VXFHQlZIY0EtMEZZQUR2dEowQjI2WEF0TkMwbWQ4THNNMUp5ONIBYEFVX3lxTFA2LS1PSFRhMUU0dGxYWWI0b3BsSXVTNkZPT282SkZlZmo5ZG41YUF5U002MUs5Tk85MEE5VXFHQlZIY0EtMEZZQUR2dEowQjI2WEF0TkMwbWQ4THNNMUp5OA?oc=5",
-      "publishedAt": "2026-10-02T07:06:11.000Z",
-      "collectedAt": "2026-10-08T02:22:23.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "뉴욕 밤 물들인 현대차 투싼…북미 시장 공략 박차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
