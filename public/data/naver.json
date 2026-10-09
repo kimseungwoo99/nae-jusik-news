@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:40:02.963Z",
+  "generatedAt": "2026-10-09T09:49:39.891Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "네이버, AI 광고문구 도입 또 연기···추가 테스트 일정도 미정",
-    "금리가 이렇게 올랐는데 왜 주식이 안 무너질까?",
-    "NAVER 주가, 10월 8일 장중 184,500원 2.38% 하락"
+    "AI 주식이 급락한 진짜 이유",
+    "주가 15% 폭등, 실적 대박난 펭귄 솔루션스 리뷰"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kT1VQOGFabUk0QThEbXhuRmN2b0VxUTBRcFlhRUR6SEpTdjkyVVZfUFY4QzBfdm90NmdpX3VETEZoRTdzaGpsUlNEZTdSNS1OZ0RqdEttdXhpYU41dm9oWS1wVV9uQUtXOTRyLXRhNTlEOUw0dFHSAXZBVV95cUxOZE9VUDhhWm1JNEE4RG14bkZjdm9FcVEwUXBZYUVEekhKU3Y5MlVWX1BWOEMwX3ZvdDZnaV91RExGaEU3c2hqbFJTRGU3UjUtTmdEanRLbXV4aWFONXZvaFktcFVfbkFLVzk0ci10YTU5RDlMNHRR?oc=5",
       "publishedAt": "2026-10-09T00:41:35.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -42,12 +42,124 @@
       }
     },
     {
+      "id": "ba65ec3bb3125cf4",
+      "title": "AI 주식이 급락한 진짜 이유",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTdqV21MaVo2cjFZQV9qNWx0TzhwVENMVkNZSHZMTXBxaHRQQjBRUU1hV3ZaUTA0a1NnWkt6QUU0NGxtTXF4dlJJaUY4OXBhbi1oN0gzNldCYk01YlphRGVhVFJWRWFfME44eFVySXZ2aTF1VkxvWXVpSU0xZHpGOVdCZi1qRDNtajg4?oc=5",
+      "publishedAt": "2026-10-08T23:34:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "AI 주식이 급락한 진짜 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "687f0b7110252e9a",
+      "title": "주가 15% 폭등, 실적 대박난 펭귄 솔루션스 리뷰",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDJzRHZnSWZhQkRnOS1oWnlaczAxcUpwTGdIajQyQ1JWUVY0TjhaRjIyRVl4bWFnMVg3QUphS0k3VVN0Sk1IMjZGT0pCcmJPUndwNmRVZjNTdm16TmlEMlZjdnByODZZWVA5NDR2dE5yVm9zWWVoYWFDUTBNaG5JanVSU1NRVVY2RzV4Rk5oc1RtWlE?oc=5",
+      "publishedAt": "2026-10-08T13:42:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "주가 15% 폭등, 실적 대박난 펭귄 솔루션스 리뷰 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a2bdd0e190e1ce14",
+      "title": "워크데이, AI 에이전트로 한국 시장 재공략 : 네이버 블로그",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWE5WRTE4SDIxYVVhX3VaYW1hSlh3LWpsN3dTV19uNnoxVXVxOUdpVFBpekxfcnJLQmFQelpfRHY2VHZCNzhTaTFONklkQ3d6dlp5dGdyT3FYcXE4bXRVRVNqVkNpUzdmWGFXVTBwcXNtTGF6Wm96TmhOSlhHbEl1VHo1dmlGV1Z0Vk5ITTU3OA?oc=5",
+      "publishedAt": "2026-10-08T09:33:48.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "워크데이, AI 에이전트로 한국 시장 재공략 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5d6811db85226333",
+      "title": "금리가 24년 만에 최고인데 주식은 왜 버티나, 돈값의 비밀을 풀어드립니다",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU5PRlZ1eDg1X01nRnpQMFptS2Nyd21OeXdIekhQQmJLb1R5YUNQWGpTMWI2ZTZnQ2RZeC1tWjlkcWpiM2lTLWczdlNlQUR4U3lCV2ZpOC03SHF6Wi0xTkJmVUpKNjI0LWI4VE02OG9WUUVxUC1WR3NidDdBWVhUMlo3UVhmbFJBT1QxNg?oc=5",
+      "publishedAt": "2026-10-08T05:17:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "금리가 24년 만에 최고인데 주식은 왜 버티나, 돈값의 비밀을 풀어드립니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "26bb63f303dc8105",
       "title": "금리가 이렇게 올랐는데 왜 주식이 안 무너질까?",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWhJV1hvUGFFbkF0V1EwVWk1c3VFdXd3UUlzZ04yQzlOTVF2OGpCTl83QkUwWktHMk5RM0JPUmltM0FLYmh0dGdlUnFvYU03ZHlIZWJSOTBvV3E4VlJUb25JWVg3RnRBSnlFVlVaUVJ1a1JhQ3hhWU1UZU9YVnhrdmZDRUxBQXJkSXVF?oc=5",
       "publishedAt": "2026-10-08T02:38:14.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +186,7 @@
       "source": "TopStarNews",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14VWllUTJFRU9ObVozdEtuMEE3bmtuNjRMT1plRkEyX2YtSl9xZ21tUnVjWkFfMXEwUXU1UlAzclZkNG53Q2RqbEVBUmNqcEJBekhUcnJwdGFLa2tqLURjbzRZWXQzUVJzaG1jQ1ZEM3lTZw?oc=5",
       "publishedAt": "2026-10-08T01:46:53.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -101,7 +213,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0twa29hV29jME1QSG01M2UyUEdwMGozbVZqd3RDaVpJZmV5RWJpTV9Oa3Z5NHRDRjRkb0U3MVZPTy0zTUp3QURicnR5YkJKZVZkTTFuNy1tb25sMmRoXzVKZkxoNHpOcHhTM0JGT2l3Rk5oNUNPTlRNdTJpZ0tGakVUMVdHTHpmSzFVRlVR?oc=5",
       "publishedAt": "2026-10-07T18:50:16.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -123,39 +235,12 @@
       }
     },
     {
-      "id": "787a1c3d99675ad0",
-      "title": "파스칼 ①노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTZWpkbFBlREpLRlQ1aDRzd0RPWVg1RE1HYVo1enBfaWZrOGNBVDg5cVBUc0pkdklYT2ZvNDE0M2gwSWI5Q3B4NjVCdnF0VjFvbVN3ZVFvU01LMW12eVlrdGNXekFPaDEtTFNFUDJPZ3ZFdEVsNUVxc0FvOA?oc=5",
-      "publishedAt": "2026-10-07T14:56:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "파스칼 ①노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "67e17662d9a3b220",
       "title": "AI 주식 계속 사도 될까? 신고가 뒤에 숨은 부담",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclpBalZlR0ZQSld2WkRWemFvUTJldVc4cWlQaG9xRVFDV0g0cFJVWEdfOWExRjdKX3F0VFhxZTBLS1ROckphS2llUVdhWXVJck9XTHc0eXAzMUg3LXU4R0s4Vlg1MklkdXVFcDBiMnhibmRZbFdUM0ZURmptVVNoLUgxUUxpbTZqM1Jn?oc=5",
       "publishedAt": "2026-10-07T13:24:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -184,7 +269,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaW9HSmRNdTNUZTh4dWQtR0pKMzh4cURWSllwMXFDS0lFSWQwX3l0aFc5XzBCMWliV1h1cGNkSkV1QWU1UC1RX09jcDlpUjk2YWk5UlpOczRxYlVZUmdjQlBlazJkY3JrSkk4bm0tOE0tU0dmQ19NNko5eVJVZWdaMzBvUFhuRXZaaGQw?oc=5",
       "publishedAt": "2026-10-07T12:20:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -206,39 +291,12 @@
       }
     },
     {
-      "id": "59b63ebb63f5a6d0",
-      "title": "HIMS, 주가는 우울한데 2030년 ‘안 죽는 시대’의 입구에 서 있다",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjZFV1o2ODhjOHB5MGtRbG9aQmtMQXZGQlRBZXg1MVNTR0F4OHhuRjBCZHV0Mi05dTlVaXAwSl9XeVg2cmVNUVVtU1pDU1lSYVhyWXpXUkdWQmlzYUE4ZktITDFybVphQXFucTN3Y0hPUGhLUnZpWVY5ZVhtUHk4NG5CUTF2R2hCUkpiUg?oc=5",
-      "publishedAt": "2026-10-07T10:20:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "HIMS, 주가는 우울한데 2030년 ‘안 죽는 시대’의 입구에 서 있다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b74b8093dd136b1b",
       "title": "대학생 전공 관계없이 AI 기초교육 받는다··· 'AI 중심대학·AX대학원 공동 출범식'",
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0h3SHRQTHlNa3NKY1NfM3kwN3BSR0VtRE44SVZmdkdUeXhSeVdDVVJFRVBmNVF5QjZNMWladTdvV3RlX3hILU51d3BTd3Q5aEd6Q3BLVENESVU5TmdTMk5kNzRaR1VJci1oN3Z0MUdKckxDaWh0NU9GeEtGS3gwQ29OMmY5OW13aHRFMU9R?oc=5",
       "publishedAt": "2026-10-07T10:03:25.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -260,12 +318,68 @@
       }
     },
     {
+      "id": "9132fe3d82977983",
+      "title": "AI가 분석해주는 C3 AI (AI) 상승확률은?",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQakJibFVjLTByOGlOb3BTekJpdEttUndTbC0xckhKSVh4SmN2THdTcGdBWXE0YVNwX3F2NTVudEc3ME1xMVNLbkxXYWhVLVNjVHdJSHVXWnloUS1RYnJaU29xMHFqa3I3c0Z6YUFnTldxU2FqQ2tFbWlJLXJUd3VLbDFUR2d1QQ?oc=5",
+      "publishedAt": "2026-10-07T07:57:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "AI가 분석해주는 C3 AI (AI) 상승확률은? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2b9b50fcad098741",
+      "title": "[증시다트] 네이버, 엔비디아 AI 팩토리에도 주가 키워드는 ‘수주·자금·수익성’",
+      "source": ":: 위즈경제 ::",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UTFfTjY5SWlLUXRwM2FZVUk0MVZEOEdQdVdpQm5OSmFCa19WOS1lZ2hxUmRodnZ2RUstVG05YnJQVFhmc0w2M3RDeE9ULU5rRzdzcA?oc=5",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "[증시다트] 네이버, 엔비디아 AI 팩토리에도 주가 키워드는 ‘수주·자금·수익성’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "470cc7ce5f512721",
       "title": "나스닥 신고가, 악재를 뒤로 미루고 있다.",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ29yLS1ESVpac1ZKRXBtaFVqUGpuTnhrV3IwWEFfSWxTRTJkYnNxc3Z0MGpqUU9NdWNyRi1mRlYxSU1UMWZMb2ZWUnRYLUtVNFZWcERZVkl6TVZoM2ZDdEVyb3pMWDA1QzZWTVBmSVZ2UVVvTmh1TXZoeE4xTTNzeDVxMA?oc=5",
       "publishedAt": "2026-10-07T03:30:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -294,7 +408,7 @@
       "source": "TopStarNews",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zT24ycDg4d3lvUFByMF8wdUtTbzZqeWMxS2RPV1ZYeUU1bDlpSmp2TnY4VGRZOFNhcUV3QUVhcmZRN2hHTENSNmZ1WTlkaDlQUzNRbmk2NkVkcW5weTBfeFpIM2h6dW4wUDZkcjZ1elF6UQ?oc=5",
       "publishedAt": "2026-10-07T01:33:24.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -316,12 +430,41 @@
       }
     },
     {
+      "id": "c89b24ced09fd784",
+      "title": "AI 성능당 비용 급락…이용자 지갑은 왜 가벼워질까",
+      "source": "블로그",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbnRlRWtWSVJ6dTBvaHRxTUpMUG1yeVktUGM4QXNiQjN4cWk2cm9HbUkwWkVsZloxMW92VUViUzBmOVEtVHBmaFhNTkNBWExtRG1PWGdJdWRwZzJWX1BZSFFxMExUSk5BQmIxZnY5OVpKbm93cUg3aVJIZUdoUHM?oc=5",
+      "publishedAt": "2026-10-07T01:07:00.000Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "AI 성능당 비용 급락…이용자 지갑은 왜 가벼워질까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "0ef2e17d660a88a6",
       "title": "AI를 멈출 것인가, 사회를 바꿀 것인가",
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW85eEhUV2s5dkp3Y2puU1dLekZxZXkwM0tQekhibW5Jb0RpNy1KanNJSExYa3RWRWUzTVdDTUhTN1BSTGhBNXVQVFR1RmtpQjVPVWxHdk8wdUxyVzRBekxKbzlWWFZNeUFZY3RKRlpxZ0ZJc3hfeURFQVZGZHo4YWhlMHFWUERYcDFCY1lB?oc=5",
       "publishedAt": "2026-10-06T15:09:25.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -348,7 +491,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1FsQTlBUWxOYThkNVVkSWtlSWJVRjhMZUs4X2EwZ2toTUhXSi1fV2s5TXZFYjNMTXBYRnA3TkQ3R1FPSTFYTl9nTXU2NGlQSGJRakQ0RTVsUXlwanFaVndDZTJ6WUtrZEFzYkhSVU1HVTdpVW5nYmhjLVN3aEVGVHgyN01rMGxPQjFV?oc=5",
       "publishedAt": "2026-10-06T13:39:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -375,7 +518,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtcDl5STFiNk5yejBKV0xHdUtfSjkzZDRaZlNsbTlCd3o1SXFlN3RkSWlLOHdNc0xwaHB3LXJhc2lmRzFwM2Y1NGI0ZXdSRXp0MUlIRFZVaEhpdndDZkgxZTNDemI?oc=5",
       "publishedAt": "2026-10-06T09:14:09.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -404,7 +547,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aS2pCTFNPV1JhYUxrT1VYOXgwaDg5aFVjZzJxa0xxNUxHeTRnc096QlZOeUk2MDlOSHdTcDhQMHNxSXlRVklCQ1JER0J5SnBvUkVlMg?oc=5",
       "publishedAt": "2026-10-06T08:23:13.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "collectedAt": "2026-10-09T09:49:39.891Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -416,141 +559,6 @@
         }
       ],
       "summary": "\"컴퓨팅 주권은 소유 아닌 의사결정권\"⋯네이버클라우드, 'AI 운영 주권' 개념 제시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d0af7775d107585a",
-      "title": "네이버, AI·결제 투자에 수익성 ’주춤’…AIDC 사업 구체화 주목 By EBN",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xN2t4aXVpMTdzTmYwLXZWYjlyM0d0R3Nxa3BEeUl5UTJPTEhzXzVNMHE3NlJ1RVdISUJ0X1pfTUhydkJCUXduQ0pIRzJxTDE1UUJKQUlCS2Y2VXNNVlNoMzJHd0ZnQURRTmR0OEctUjU?oc=5",
-      "publishedAt": "2026-10-06T08:11:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버, AI·결제 투자에 수익성 ’주춤’…AIDC 사업 구체화 주목 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1ad5077188bb2ecf",
-      "title": "주식 갭하락은 못 피해도 시가 투매는 피할 수 있다, 연휴 뒤 계좌를 지키는 결정",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjdYWnV4MjhmbHk4NENKcnVmVTE3RHlPSHZfUTY1OURsX1Q5NGNWZlF2blVwd09xRVE1SmU1RDNUcVNfNzNCZ1diSUtBMngxZk9sd2trU2tTTDFHbFhRdG16RUFFOFZORU5hUjAyWGhKSEl6OEwxeldwb3VZSWJYNUhiNXVvOFBiQUJFQmd1TG1IZw?oc=5",
-      "publishedAt": "2026-10-06T05:25:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "주식 갭하락은 못 피해도 시가 투매는 피할 수 있다, 연휴 뒤 계좌를 지키는 결정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e6cf8bff0fa8e7bc",
-      "title": "현대차 주가 전망 1편 : 보스턴다이나믹스 상장 (IPO) 연기 영향 지속될까? (feat. RAI 매각 이슈)",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW44REswbGFsbHJ3T0dJRk5ncDJqWTBIT244b0VxeFIzdXA4ajVhdzRleVNNNHZPQnhLQ2p3a21hSXhCOVk3UVZDZ0pWQUpWZlZWMEUxVFZzZGxtMHdKZmtIWEJtR2ZfV1ZnNVJvTHJDNGtkZXFXcEwyR2pINGhZMzNjMA?oc=5",
-      "publishedAt": "2026-10-06T05:06:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "현대차 주가 전망 1편 : 보스턴다이나믹스 상장 (IPO) 연기 영향 지속될까? (feat. RAI 매각 이슈) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1daa5d9a1ac66616",
-      "title": "[N2 포커스] 쇼핑몰 넘어 브라우저까지…네이버, 'AX 영토' 넓힌다",
-      "source": "뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWDBpZHFWWXEzbDg3UUI0QnA5Q2hPSy1SR3FzZTludXN2YWhYNVJqdDJRc3hEdDZ1QzU0VEJMNGMzQ2ZJTzBIVHE1NnphWHgxWG9PV3VwREpaRDMzMUE?oc=5",
-      "publishedAt": "2026-10-05T21:20:00.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "[N2 포커스] 쇼핑몰 넘어 브라우저까지…네이버, 'AX 영토' 넓힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6360df616f1126d6",
-      "title": "리사 수, 7개월 만에 韓 찾는다…삼성·네이버 이어 AI 협력 넓히나",
-      "source": "Daum",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xc2cwc3l0bk5xbE51a3REekp6MGhyd3p3dVZZcGJ6R1hmY0o1YUI0MWU2cWh1OU0zdDJ2VGQ1bUQzeHRiV0ZYLW0yRWo1SjZ1ZTNoYw?oc=5",
-      "publishedAt": "2026-10-05T08:38:11.000Z",
-      "collectedAt": "2026-10-09T02:40:02.963Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "리사 수, 7개월 만에 韓 찾는다…삼성·네이버 이어 AI 협력 넓히나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
