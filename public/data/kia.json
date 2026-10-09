@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:39:49.039Z",
+  "generatedAt": "2026-10-09T02:40:02.963Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "기아 EV5, 쏘렌토 제치고 신차 견적 1위···SUV가 상위권 싹쓸이",
-    "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
-    "‘쏘렌토마저 넘었다’⋯ 신차 비교견적 1위 찍은 기아 EV5 ‘대이변’"
+    "미국 관세에 멕시코 자동차 수출 12% 급감…기아는 미국 의존 낮춰 선방",
+    "‘형님’ 현대차 위협하는 ‘동생’ 기아… 초박빙 승부 이유는?",
+    "기아 EV5, 쏘렌토 제치고 신차 견적 1위···SUV가 상위권 싹쓸이"
   ],
   "articles": [
+    {
+      "id": "5e3724c183d417c8",
+      "title": "미국 관세에 멕시코 자동차 수출 12% 급감…기아는 미국 의존 낮춰 선방",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1neWwyTUZLNW1vOTdMSkwzYjBzTmFiaWJESHhVbHBBRGhMbGxoaFZOc2E4dVJmLUUxTTRRU0c2SXZsLXVRdzE2U09ELWdUcXhScWUtYTYwZ0xBZ9IBX0FVX3lxTFAtYXNPamx6TGtnd0QxVHdsMjhNZDlJMnNXWnZEWVdMM2tzSF8zekRHTGRWOXpkRlN2Zms3VXFTUnNrM3VXRGJvc1kySmFsbWJoQ0NWZU1jeHRZTFlRYVdz?oc=5",
+      "publishedAt": "2026-10-09T02:12:00.000Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "미국 관세에 멕시코 자동차 수출 12% 급감…기아는 미국 의존 낮춰 선방 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e2fffc1984f8eae9",
+      "title": "‘형님’ 현대차 위협하는 ‘동생’ 기아… 초박빙 승부 이유는?",
+      "source": "국민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1R2RucjRFSy14VjRqSGZvcmV0NTlmU3ZoeHE5WEdlOXZrR1M0akIyaW4tZDE2MFBCb2ZIU3p6NkRYUk5nTGJIVTNLYm5ETVJtX29UdDVmY2I3aUlBTHJmNDFsUTEyVktfN29zUNIBbEFVX3lxTFA1R2RucjRFSy14VjRqSGZvcmV0NTlmU3ZoeHE5WEdlOXZrR1M0akIyaW4tZDE2MFBCb2ZIU3p6NkRYUk5nTGJIVTNLYm5ETVJtX29UdDVmY2I3aUlBTHJmNDFsUTEyVktfN29zUA?oc=5",
+      "publishedAt": "2026-10-08T15:15:00.000Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "‘형님’ 현대차 위협하는 ‘동생’ 기아… 초박빙 승부 이유는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "d7befa0833b01851",
       "title": "기아 EV5, 쏘렌토 제치고 신차 견적 1위···SUV가 상위권 싹쓸이",
       "source": "이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yT0lCZ01MVl9hMTc5UWFQMVFUbXVMbkotMTBPY253V0ZpYjh2S3JfNVRheldaSjFjNFZjd210Q2ptbGZORXJZa2RYcmRGajRtNG9DbEdVMTh0OF9uRUVSYWtETWIxTmRIdUNVVTd0bmswd9IBdEFVX3lxTE4zZlp3Ri0zaU5PbUVPbnYyQ01RQS1BLU5FdFNkOFVrMTBpZ0phSzdKdUEydWpXX1JNXzl3U0c4dkJWQVdQWG85QTJrcEFVMFdnQ1hRZVFRTEM5elRCdWh0MnlVNjA1RVB2UTNnSWJXZUdJODQw?oc=5",
       "publishedAt": "2026-10-08T07:41:18.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -47,7 +101,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzR9IBYEFVX3lxTE9CQ3dTeEo1LUxwNTRrUFZYOVVHZ2pmTXBPWVgtekFPcDFjM2Y2YmllV1pSVURBX3ZZUGl4bFJxY2hCOG9wbmxySkFHWjJ6QTdCTVJzdDB5dU43SkxjV3JzRw?oc=5",
       "publishedAt": "2026-10-08T06:54:49.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -73,12 +127,39 @@
       }
     },
     {
+      "id": "0fcc5f6751da0ca0",
+      "title": "카랩, 9월 신차 관심도 발표",
+      "source": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tc3JWQVdaU25zM3NSQzhCQlR1eXJsTExWZEJtcldrRVlTQmhWa2xQZGFxNDdkam5OblFlWWNhZng0S3MySERVcldKN0pBRS11YTRrc0hjaHhfMjE3a1pUYmx3d0h5d0FQV0Zz?oc=5",
+      "publishedAt": "2026-10-08T05:46:36.000Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "카랩, 9월 신차 관심도 발표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "86f223a4b62ceaf6",
       "title": "‘쏘렌토마저 넘었다’⋯ 신차 비교견적 1위 찍은 기아 EV5 ‘대이변’",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTW9kdkRpSVVWeEw3aUozMkdfUDlWbmR6RlJRVlNfN2U3ZWVTRGV5TkhURU40OUdHZHc2bU1RNWV2R2s4eG9sUE82Z3FGX1czbE5JVldUZGREdw?oc=5",
       "publishedAt": "2026-10-08T03:54:00.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -105,7 +186,7 @@
       "source": "글로벌경제신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5NnJCaElmVzBfWVk0aDhaLXljbGZkSVVFX1B2LWs0RHpiN1FGT2JIUV95U2psbEIydjFkcDI0amJkazhYQWhQcnpZVE5kUGJXazd4dzN6bVpwUER4NGw3VnlRNi1VZi05NjdfetIBcEFVX3lxTE8yeXcxMHhPZnBOcU03dGs2Y3M0NU5BdnVrWEpkemRybjV5Zl9VT3Z0OUh3RWI0WmJwR0tuRlo3R0VldWNzeXlMWUhxWTVfMENELTVUUjVhX21IdWxnRWFHVzJYeVg2OHZEYTZDNjkyT2M?oc=5",
       "publishedAt": "2026-10-08T01:10:47.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -132,7 +213,7 @@
       "source": "토픽트리",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0t0LWRsOUE0UVRrdTZwN09Xb2YxVzY2TFFIMmxJY1hLeVZqMndkcGYwUDV5WmVJVE0yZGYwUUhvamVtdERRa3RncDEySDJVS1gyVlQ0WkxEQWNvUnI4b2cyTmk1ZGV1NE5NRURiYmdneE5NWF9lM0llaU5JUzNuZFluVdIBiwFBVV95cUxQZmxRNHctclhUVldDN09hcHQ1c3pWNlNmVmlzNW5XYWJaNTQ0dGVETFI5TjJ3UkFUYU5hV2oyRGU3T1doeTVzQ3hEWlB4MzR2NHhyRDdVLUxhaDZHZ3VGR19OaUdRVVBDOFVnR3RSQ0Ywd1ZxdzVCLTlrakxOdTA4YkVHYTU3MFZGT0pv?oc=5",
       "publishedAt": "2026-10-07T22:57:00.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -159,7 +240,7 @@
       "source": "다나와 자동차",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2hQamZqZXdfVjdJR09JdjZlYy1ETjlLNThxdDNac0VlaXdkcm5SUkxnRkF4amtDMWFSWVFhU25qTEcwekJ6UmNhNFlPUmhYMFR6MHZwcW5YVWJEVTNhcWxjU01NcV9pcVJzc1hhZ2wtME5MNWE2b18tSG1OZktuRS1SaUlCbk5yU0E?oc=5",
       "publishedAt": "2026-10-07T20:23:49.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -186,7 +267,7 @@
       "source": "오토트리뷴",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kLXI3MFFBLXJHTk1XUG1Eb1NkbHpxeUh4Q3dOQzIyU05EWE1yVUJVZ1RpV0I4Z3RRQ3FGdUxycGNtckdYXzJqTUc2Qkk2SW1SbkdIdWZkdDIzT3lnWGZfQ3VkY0Y4elhsSVU5WWNxclE?oc=5",
       "publishedAt": "2026-10-07T08:06:26.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -213,7 +294,7 @@
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xOFNvVDlKMnRKU0Z1WGJrZmUyVXZ4azQwMHpzNmF1WUdnZVF3WDQtWDZBdlk2Mk9VbHBHS20yZmdMYVcyTHNYSWtKWDhwRUUyM2JIZWVpNzNSd9IBVEFVX3lxTE9DYkdvQ2F2X0N5ZmVvRHdLSTVZaERjSXAxQ2plNHI4X1BtZzEyaVVzaUNGTjJtMmU5d0RSeDc3VTRQMXRfMm4wRE0xdjl1amZDeU5ibw?oc=5",
       "publishedAt": "2026-10-07T07:33:32.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -240,7 +321,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YWUN0aDV6QXJjcmV2Q3VkZTQ3dkJPLTJxZ05zeU5JZzJEYXhPS0xJdjRYUkFHM3dPRnJwUWpMV1hiYkRPS3dycWY0N3JLZ3lsT2FXb2prYWU0X2IzTVFkcUxpOA?oc=5",
       "publishedAt": "2026-10-07T04:53:12.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -267,7 +348,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NeGg1aVJhdFVlNXJDY0twdGYwRFdrZlZ1MmFMN0hXSGJPamdEWFJoMjh0S0RkSGhOcGVKelp6X0xLNTFabC1OWnRUdFRyTUE?oc=5",
       "publishedAt": "2026-10-07T02:54:12.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -294,7 +375,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RazR2UDBhTm1xSWVsWlpJcmxreVdOOUprbEJ6T3VKRzc1b19teDNEM0Z1YWwwUVRDTXZEX3VzRVM3cWppcEU5Rm16cU1FNW9CN1JKbzcxZUFzMmlR?oc=5",
       "publishedAt": "2026-10-07T00:34:00.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -321,7 +402,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdNIBYEFVX3lxTE9XMENDMVNiMDRvTk1uR3hoYWh2UmhMcTJPdjJLSzAwNnJjSkFHVllEQ2xNZEp0Nm4xcGpSQ3ZKZzNjXzNwM3VEWUlhUDJtTVJLOUVZUE1tZzJDWVhKRzBEdA?oc=5",
       "publishedAt": "2026-10-07T00:16:29.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -348,7 +429,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zS1B0NTJmaTNfYXRFeC1UZEdYNnV1ckVVSXZUYmg5b0FZM29SS0IzSVEzUDE2QUxyWXBsVjAxQTM1ZUx4Wm8ySEhRT1ZqM3kxRlVjV1cyVDlqbHpVbGY2REM3Vjk0Z9IBZkFVX3lxTE5zS1B0NTJmaTNfYXRFeC1UZEdYNnV1ckVVSXZUYmg5b0FZM29SS0IzSVEzUDE2QUxyWXBsVjAxQTM1ZUx4Wm8ySEhRT1ZqM3kxRlVjV1cyVDlqbHpVbGY2REM3Vjk0Zw?oc=5",
       "publishedAt": "2026-10-06T22:00:00.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -375,7 +456,7 @@
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iQ2NYeG1JeGpScldfcDB1ODRNMkpaUE9UcVRvM1I5SHd2SktNMzNUeWNmZHcyUWpIaFMxYjJIX0dHQ05ISHp5MWJ2UFpVSTgxUWZLUUhJMzNvUEl2d1JIWFBReXFhMzRidnBB0gFvQVVfeXFMT3ctNmtZN0tiNWdVbDhoWWVEdHhSR0N4eXNXaVpRVUdKYmRtcW5kSnRDRERDa29nVjNkbkthR3psbU84WlBVeGxnck8zU3c0V28yYnNycW1VZlE2Z3MzRGJkdGVZMkZROVlnYmsyeHBj?oc=5",
       "publishedAt": "2026-10-06T10:24:07.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -397,41 +478,12 @@
       }
     },
     {
-      "id": "94c3f24ec09debd9",
-      "title": "기아차 노사가 만든 가을 잔치 - 화성공장 ‘K.YOU 페스티벌’ 성황",
-      "source": "시사통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sSVp4a3FpeVZFUnFRblU2aTRQc0pqYmFWVkt3UzlENFZESnFXVXFjUGR0SkpSd0RmeGRsZnhXNENlLUlYYlR3YmdYYzJhZjdFd19BbkZSclFocHBpVDJyRnhTdlAtcWE2RUg00gFrQVVfeXFMTmxJWnhrcWl5VkVScVFuVTZpNFBzSmpiYVZWS3dTOUQ0VkRKcVdVcWNQZHRKSlJ3RGZ4ZGxmeFc0Q2UtSVhiVHdiZ1hjMmFmN0V3X0FuRlJyUWhwcGlUMnJGeFN2UC1xYTZFSDQ?oc=5",
-      "publishedAt": "2026-10-06T09:32:20.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아차 노사가 만든 가을 잔치 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "adeca5da901cdc76",
       "title": "英 신차 4대 중 1대 '차이카'... 기아, EV2·PV5 앞세워 '역대 최대 실적' 맞불",
       "source": "다나와 자동차",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OczVRb2FWOXFKdDU0bmx2TlFmM0lSUDJWSkMyTTl1Z0pqMFFJdWVveXE1MWE1WG1QZWR1UzJHb1pKZ2dTU1czc2tscTNBbXVfdXhuT3oxTHpYRk9UcW9SaW5fa0pqTTVsTTU5QXRHb3BtQQ?oc=5",
       "publishedAt": "2026-10-06T09:00:46.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -455,12 +507,39 @@
       }
     },
     {
+      "id": "bca4bef924e53d23",
+      "title": "'친환경차 집안싸움'서 체면 구긴 현대차…전기차 격차 '2배'",
+      "source": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoU09icjF5U2stYUNjenJubWpWQ3lsNnZFZ0ttVWNNUXdXSFI0YlpWYVZZbV92OWVBNnlGZk0xa0NKU21RYnl2RUc2Qnd4RkI2QjI0NWdUMmhpUU9PcFBNUEFqYmhRT2d0MVZqdGlGdThpSjTSAXNBVV95cUxQaFNPYnIxeVNrLWFDY3pybm1qVkN5bDZ2RWdLbVVjTVF3V0hSNGJaVmFWWW1fdjllQTZ5RmZNMWtDSlNtUWJ5dkVHNkJ3eEZCNkIyNDVnVDJoaVFPT3BQTVBBamJoUU9ndDFWanRpRnU4aUo0?oc=5",
+      "publishedAt": "2026-10-06T07:44:02.000Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "'친환경차 집안싸움'서 체면 구긴 현대차…전기차 격차 '2배' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3111779066889495",
       "title": "기아 차 화성공장, `2026 K.YOU 페스티벌` 개최",
       "source": "화성 투데이",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MU21PdGs1U1JKQVRja3RicGZqRmZGb3lSZVRPQ21RczNOUDNJUUd1alFPX2Iwbmg5ZXRkaEpkS2dDMTZo?oc=5",
       "publishedAt": "2026-10-06T06:00:00.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
+      "collectedAt": "2026-10-09T02:40:02.963Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -480,87 +559,6 @@
         "positiveTerms": [
           "성과"
         ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a0d9b979e4cadefe",
-      "title": "[이슈 : 경유 신차 시장 급속 축소...'사고 싶어도 살 차가 없다']",
-      "source": "에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsU3dSTU81aVAtREk3UXFTcHlhekhDeWJ1dzhVNnZGT2otVlFZR253b2R3dk5SWDloaXZ1d1VVQ0UyMDNNbU8wRlVNX3VfU2FVa0VncUdCdmsyc1R3bEotQnRVbkFjT196dW9matIBcEFVX3lxTE8zQXVrYl91dEZSR3FJUEt5di1fbjRyaDduTmZpMmlLVE5SbWpOaXlJZlFKYWRoUnFNQ1Y4ajRoc21TOTZJUEdrWmI4NHRFaHBKYy1JQnpWM0NXRjJSSWhWWU5GS3BmSmVIVnhuamx0bkI?oc=5",
-      "publishedAt": "2026-10-06T01:32:51.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[이슈 : 경유 신차 시장 급속 축소...'사고 싶어도 살 차가 없다'] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e825f0a89e010934",
-      "title": "화성특례시의회, ‘2026 화성다움 K-YOU 페스티벌’ 참석… 기아 임직원·가족 격려",
-      "source": "경기신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MTVc0c2NQUC1aSUpOYW9OVlJBMjBkUThaQ2ctRHI2ZEk1bE5Hdk4tQWM2ckgwTlpvNndTWVg5enhyUUlnRE96amVSbU5pOXZPUlVVSWZ1Y3dBQnlfdlBoaUNB?oc=5",
-      "publishedAt": "2026-10-06T01:16:53.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "화성특례시의회, ‘2026 화성다움 K-YOU 페스티벌’ 참석… 기아 임직원·가족 격려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "97f4e3120c0e554d",
-      "title": "기아 英 2위 질주 속…'11위' 현대차는 中비야디에 턱밑 추격",
-      "source": "Daum",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYZnV6RWJ6alZnTUVyYVhrN2czcWlmVVpNWlRvT2NIRDNQTWxKMUlVRGZ5dUthcGhRdXJ1WGEtSmJkUGV2aDNweEFON2YwbWRSZ25fUg?oc=5",
-      "publishedAt": "2026-10-05T09:00:44.000Z",
-      "collectedAt": "2026-10-08T17:39:49.039Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아 英 2위 질주 속…'11위' 현대차는 中비야디에 턱밑 추격 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
         "negativeTerms": []
       }
     }
