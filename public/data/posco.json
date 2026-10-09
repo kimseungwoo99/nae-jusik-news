@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:49:39.891Z",
+  "generatedAt": "2026-10-09T17:15:07.503Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "POSCO홀딩스",
     "ticker": "005490"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "철강이 끈 포스코홀딩스, 3분기 영업익 8000억원대 전망",
-    "[증권言言] 하나증권 \"POSCO홀딩스, 안정적인 영업실적 달성 중\"",
-    "POSCO홀딩스 30만원대 강보합…철강 수익성과 리튬 램프업 관건"
+    "포스코홀딩스, 아르헨티나 염수리튬 2공장 상공정 준공…\"5만 톤 생산체제 구축”",
+    "포스코홀딩스, 아르헨티나 리튬 생산능력 4만8000톤으로 확대"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "서울신문",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40Yk94UHFmZjJpQlc5aXBvUzFyaDI5d0lzbHhON21EcWl0TFlObXlWMTdRVEJBV2E4V0FxSW9SaXI4UHJrTGRBV2stcTRtQTdiZnIxVlM2STlHSWxKQU9NT3h6bV9UcXNGOHdLbWppb09rNU5DUkVtUzE4VQ?oc=5",
       "publishedAt": "2026-10-09T09:24:32.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -42,66 +42,12 @@
       }
     },
     {
-      "id": "4594e82196a9217a",
-      "title": "[증권言言] 하나증권 \"POSCO홀딩스, 안정적인 영업실적 달성 중\"",
-      "source": "마일드경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYWDZpTG9lM2lyQUowbnRxUUIzWE5aYjR6Z0RuazhDellSZ1BRcEM3bm14MW8zcHRYeUFGWWZRRFVjRjF0TG5zV2lsWXZ2dTFNNGZRakZ6THNOOFlCWUpKcGlYQnA0UkE0RWRV?oc=5",
-      "publishedAt": "2026-10-08T08:49:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "[증권言言] 하나증권 \"POSCO홀딩스, 안정적인 영업실적 달성 중\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "29858ff14a8064cc",
-      "title": "POSCO홀딩스 30만원대 강보합…철강 수익성과 리튬 램프업 관건",
-      "source": "잡포스트",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85SzYwelRRckYxaS1IejZjb0RjNWQxRjhORkdZMmw4MTI3cWpyc2hqYjNxTlR5SlAwRWo3WEUzOUE0aTZKT25kUzA2X09DY0QxQUZlSlUtRElWRGtGUFFVcHVrazZkZEJfeTgyZnZQeFpGd9IBckFVX3lxTE85SzYwelRRckYxaS1IejZjb0RjNWQxRjhORkdZMmw4MTI3cWpyc2hqYjNxTlR5SlAwRWo3WEUzOUE0aTZKT25kUzA2X09DY0QxQUZlSlUtRElWRGtGUFFVcHVrazZkZEJfeTgyZnZQeFpGdw?oc=5",
-      "publishedAt": "2026-10-08T05:21:10.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "POSCO홀딩스 30만원대 강보합…철강 수익성과 리튬 램프업 관건 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ab2252920fd86ee4",
       "title": "포스코홀딩스, 아르헨티나 염수리튬 2공장 상공정 준공…\"5만 톤 생산체제 구축”",
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qUVVGUlNVNXQ0OE5jd2NBWU9VeFF5eEdwQ2NVT2d4TTIxdzlMSVhqQ2YtYnV5dU1jeC1PSmlIQXdSWkRXOERqRFd5VUJEdmhYZkJaa2kwMktIVWxxMTgwdDA1V0gyZHpt?oc=5",
       "publishedAt": "2026-10-07T14:51:43.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -123,93 +69,12 @@
       }
     },
     {
-      "id": "d875a1cd339fb6af",
-      "title": "POSCO홀딩스 3.30% 하락…리튬 증산은 2027년",
-      "source": "비건뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMkJOSTVRWHBKblo5T09KMzY0NDQtNHhNV3loRHhCMzJuUVBvNmRZMi1vNlJiM2FhMl81aS1KZ2gxM3puRWVNV0E0REc4aWRvU21abjhsc1FUeW5sOElnUGJXcWhiUQ?oc=5",
-      "publishedAt": "2026-10-07T12:59:48.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "POSCO홀딩스 3.30% 하락…리튬 증산은 2027년 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9e5248c0261e276f",
-      "title": "POSCO홀딩스 투자분석 2026. 10. 07",
-      "source": "주달",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50dXNoWmdrRXBRX3cyS3g5cm9XMi15aUJfM3k1NGEyTEVMX1BydTU1ejVGTzhBVEZVTF9hU3JIUk5FRDQ1ZUZXa1JLNll0Z05Xc0Y5UVRyZGxYSXVxOTBHTnlYWDlpaGpWSlJBek9ld28zM3M?oc=5",
-      "publishedAt": "2026-10-07T09:43:32.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "POSCO홀딩스 투자분석 2026. 10. 07 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c01f3f5313b4f86d",
-      "title": "포스코홀딩스, 아르헨 리튬 '10만t 시대' 연다… 2공장 준공",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyRGhwNVhqQklqZFF1SDhhWm40TVlpY2FKX0M3OGEwYXFZODlhcVdXWGU0cjFPX3d5U3RRckZfbUQ4UU8zQlpDSkhYbkc0WHl6ZWZsdVd4Q2RoZw?oc=5",
-      "publishedAt": "2026-10-07T09:21:09.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코홀딩스, 아르헨 리튬 '10만t 시대' 연다… 2공장 준공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "989093289bcd2afc",
       "title": "포스코홀딩스, 아르헨티나 리튬 생산능력 4만8000톤으로 확대",
       "source": "경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LU1BqWXR2OEgwbUI0aUNuZUU1N1czWUZBRHJuYThQYjBBRkxGZ2s0TzJZRXZVcjdZbHpEVWN6dGEyZjh0UUJJR2lIY19RN1JxM1VTSTdveUY?oc=5",
       "publishedAt": "2026-10-07T06:42:32.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -236,7 +101,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PRlAtaWJ0Ty1BZ1JhMDJrcV8tZ0FxcXYySGQwT21ZUFV4WTlrXy10VnhrRXVDbFJQWEFnRE5RajVQWHF1TWRzZUd2LWIzYzh2MS1JVkJSNUMtdFozXzB2UdIBYEFVX3lxTE1PRlAtaWJ0Ty1BZ1JhMDJrcV8tZ0FxcXYySGQwT21ZUFV4WTlrXy10VnhrRXVDbFJQWEFnRE5RajVQWHF1TWRzZUd2LWIzYzh2MS1JVkJSNUMtdFozXzB2UQ?oc=5",
       "publishedAt": "2026-10-07T05:44:39.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -258,39 +123,12 @@
       }
     },
     {
-      "id": "ff5b910269b932c2",
-      "title": "[그래픽] 포스코홀딩스 아르헨티나 리튬공장",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wV0JyMVE0WjFaTXowUVQ2WXJTZngweXlwMXlQdFJPNXFBQklmOTRNN1Fob0xFcnRGcVkzckcyQTN4aGFuZlBoOFFoLXllXzhrelkyRnNMZC15MVHSAWBBVV95cUxQMFZlUWtfbTBncHZ3ZTFjSkZBNVU1Nkw2QkpzY3laSFh4bGQ2Y2czaDZwSVU0VEhSMU8weHZZX1R2ai1BTlctRjZ0NkFqRkhiYlNkSlFuVl9mSjBYVF9kcUQ?oc=5",
-      "publishedAt": "2026-10-07T05:41:37.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "[그래픽] 포스코홀딩스 아르헨티나 리튬공장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a7c693cfde6ea10f",
       "title": "포스코홀딩스, 배터리 핵심 원료 ’리튬’ 생산 능력 두 배로 키운다 By EBN",
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14RndtaG5ab0JMeFJfYTI5cVZvbWtNSnlPTGlYWEZVZUlNaHI2a3kzcnhFa0hJTENEbnM2eWd4R3JEY0Vxck9FVGRrdG9DRlEycEI2Slg2NWFQTlNuWGJCQVJ5eDU1eFh0OTlCVUZOdWk?oc=5",
       "publishedAt": "2026-10-07T05:12:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -312,12 +150,12 @@
       }
     },
     {
-      "id": "7f6cf9df6981fd2e",
-      "title": "POSCO홀딩스 31만원선 아래로…철강·리튬 투자 부담 교차",
-      "source": "잡포스트",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TjItNXpMQkh3ZG04djZGXzdHOHpVN0FXVndsOENPVU5FSGFfRUlJQ3B2NWJMOXg1SjVpQ0hKQTdHenowNVhiZG1od2VvdUxfWTd6QUFxSUdVTDhzRUVDZ2dKMDU4WUlFVXdMQ2M1di0yQdIBckFVX3lxTE45TjItNXpMQkh3ZG04djZGXzdHOHpVN0FXVndsOENPVU5FSGFfRUlJQ3B2NWJMOXg1SjVpQ0hKQTdHenowNVhiZG1od2VvdUxfWTd6QUFxSUdVTDhzRUVDZ2dKMDU4WUlFVXdMQ2M1di0yQQ?oc=5",
-      "publishedAt": "2026-10-07T04:55:12.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "id": "11e4146d6a1ed0a6",
+      "title": "포스코홀딩스, 아르헨티나 리튬 2공장 준공",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xZjRmSU9OdUZISE9felJnQ3g3NjRUdnplY1hEMVJEY29mTHZ2ZnM5bGpSa1NZZzZYSHRmVUxRbHBBNC0zUGlRM3pqTGVzOVl1ZGtJbWlhaFFLREc3djhLQ2tlMEtsdw?oc=5",
+      "publishedAt": "2026-10-07T02:20:46.000Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -328,7 +166,7 @@
           "ticker": "005490"
         }
       ],
-      "summary": "POSCO홀딩스 31만원선 아래로…철강·리튬 투자 부담 교차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "포스코홀딩스, 아르헨티나 리튬 2공장 준공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
       "sentiment": {
         "label": "neutral",
@@ -339,12 +177,12 @@
       }
     },
     {
-      "id": "e03ef7ac5e7efe48",
-      "title": "POSCO홀딩스, ‘아르헨티나 리튬1공장’ 4분기 가동률 상승",
-      "source": "금융소비자뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80cVZETTJadnVNYi1VQ2tiZk1teW1VOEVhblc0UTFZZmlLSTVJNGFMMWZ6Sk16eGp0LTVfZnpOd3VVTC14aVlyalQwS0RGUnVCMlVRM292SjFpSmtwdTA2TzNpNFM2UU8zWUE?oc=5",
-      "publishedAt": "2026-10-07T00:55:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "id": "1f776059b2c623ad",
+      "title": "포스코홀딩스, 아르헨티나 염수리튬 2공장 상공정 준공… 연산 4만 8,000톤 생산능력 확보",
+      "source": "기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yTERqM1pFdGdoMjBRX1NZZzNWWjd2bUxiU2ktblMtTW16UzgwaTJDVFd1QmJ0OWxqZEo1SGpIZU03c2lIcFFPWEEwVkQwSDduaFVuZ3lJMFM5Q212Tk9pUnJKODYtV0k?oc=5",
+      "publishedAt": "2026-10-07T01:39:41.000Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -355,7 +193,7 @@
           "ticker": "005490"
         }
       ],
-      "summary": "POSCO홀딩스, ‘아르헨티나 리튬1공장’ 4분기 가동률 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "포스코홀딩스, 아르헨티나 염수리튬 2공장 상공정 준공… 연산 4만 8,000톤 생산능력 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
       "sentiment": {
         "label": "neutral",
@@ -371,7 +209,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jY1R6MHo1a0RsMnpZTVRJbEhhcVJvZERIdTFsX1RqUExHT2VYdDltTlQta3ZHZzVJYzhMRDMxUktwLW9fRkMzVktHZUFha3M?oc=5",
       "publishedAt": "2026-10-07T00:39:07.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -398,7 +236,7 @@
       "source": "경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RajUtM3Jyem8xVU5FSTFMWUJLRVR6N2VMalljd0FhcHk2SWlPbENxOW5aNVNJVGhIbFR1RE1xaTMtWUhZOV9jbkRxeEU5a2t1a1FZYTFNdi11QQ?oc=5",
       "publishedAt": "2026-10-07T00:28:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -425,7 +263,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kLXlpdW1CMG9wa3J1VnZHa21pNktQUUNUMG9XT3gtU3NQQ3gxVWQ0VWNWZnlxTHpaT2pfbGRZbWdTRTdZM3ZXUnMtWmdiTllsaHpRM2JBZFFDNUtaM1JxQw?oc=5",
       "publishedAt": "2026-10-07T00:08:55.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
+      "collectedAt": "2026-10-09T17:15:07.503Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -438,114 +276,6 @@
       ],
       "summary": "포스코홀딩스, 아르헨 리튬 2공장 준공…장인화 \"핵심광물 안정 공급\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "668f5d7b772cef45",
-      "title": "[모닝 리포트] \"POSCO홀딩스, 2027년부터 체질 개선 본격화\"",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUU1lHcm41cG5wZVFrWWgzakR1cC1HbldubnowbUdsX2tzaTgxdW05Skg1YTljdmViOVRKTEVXSzYwcTRWQWVaTHRFdFo5RmNJTGhsbEExYXROTUJk?oc=5",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "[모닝 리포트] \"POSCO홀딩스, 2027년부터 체질 개선 본격화\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0f09370ae0b30480",
-      "title": "포스코홀딩스, 체질 개선 기대에 투자자 관심 쏠리나",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52QThyQ0x0QjUwYjFKNlFFeGZvTEl5VE9EUi1Hc2l3Y1ZaNWswNGlJWDN4R3huZlBmU2JRUHA1bUpVc0pEc1ZWODJ3Z0FCSTRtby1QZzh2YjNVQQ?oc=5",
-      "publishedAt": "2026-10-06T22:32:53.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코홀딩스, 체질 개선 기대에 투자자 관심 쏠리나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "89ccdd75b0bf4a19",
-      "title": "“영업이익 64배 폭증 예고…POSCO홀딩스, 4분기 대반격 시작된다",
-      "source": "뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xWmh4ZS1XUjJZeG1FbDhBcTRTUjNYNVdSUXhxMXVhUHdwWnpwSkFRa0Zfak01bjNVV2NSNGpsYndFYWZhWHJiMUdDSFpLcHgtWXl2ajBTUTVjM0FIUjlEWUE1SXZwb1BmZm5UNC1JUQ?oc=5",
-      "publishedAt": "2026-10-06T05:16:44.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "“영업이익 64배 폭증 예고…POSCO홀딩스, 4분기 대반격 시작된다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0813b1dc272d28da",
-      "title": "[리포트 브리핑]POSCO홀딩스, '3분기 영업이익 컨센서스 부합 전망' 목표가 550,000원 - 상상인증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1cnJ0OWVFQ19mcXRuYUN4REZnXzdyN0VhR1ZXdDZQREN0eFVUdFkyQ242d0NQdGpjX0FVdnlQVXFULWlNS0c4NWFzYld3aHBDZVZnVGFvc1J1Y3lV?oc=5",
-      "publishedAt": "2026-10-06T01:13:00.000Z",
-      "collectedAt": "2026-10-09T09:49:39.891Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "[리포트 브리핑]POSCO홀딩스, '3분기 영업이익 컨센서스 부합 전망' 목표가 550,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
