@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:59:55.069Z",
+  "generatedAt": "2026-10-10T09:14:01.126Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다”",
     "삼성전자 실적이 쏘아올릴 반도체株…'50만 전자·328만 닉스' 현실될까",
-    "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다",
     "삼성전자 성과급 7억5000만원이라더니…세금 떼면 얼마 남을까?"
   ],
   "articles": [
+    {
+      "id": "2b7bc906e20d0265",
+      "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다”",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uN0JiMndzTk5UOXpnWHhyM3VKc3JaWkw2NklueHJ1TXNVdkVYYXJUNnlrUzBhMEJjT2VkSk9sSEtGUWF2UFVELVRka3JQQQ?oc=5",
+      "publishedAt": "2026-10-10T02:40:00.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "8ca30d17f10df62b",
       "title": "삼성전자 실적이 쏘아올릴 반도체株…'50만 전자·328만 닉스' 현실될까",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OcTJ4T24xZ0gxOW5tVDJGbkc5MW5JYTB6Z24wSUpBeTZmRmc4Smx6Q0hTUGVLLS1kTzhNMnhrdmdRTkxtTHl5d3dLekoyMi1GcWN3aXA5VERad0NZMWc?oc=5",
       "publishedAt": "2026-10-09T15:00:18.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -42,39 +69,12 @@
       }
     },
     {
-      "id": "ab0c52fd70c0a88b",
-      "title": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSVdKbkE3UkVEbzA0OS13TXhaTElKTkwyOXJTUGJQbmpWMlhIYTBuNnpyc3BQWTE4T3RLNW5uZlA3WVpyYUIteUQ0cjluM2dkeWFET0YzRDhVUQ?oc=5",
-      "publishedAt": "2026-10-09T08:47:49.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cc7645364c60b4b9",
       "title": "삼성전자 성과급 7억5000만원이라더니…세금 떼면 얼마 남을까?",
       "source": "주간조선",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Zd1dNV2ZFaHVkc1E3NDdIaWxKcGhkaGNhQUdoOWI4WUhfWVdUN1VuOEhENFJqTnZ2SVV2SWhkNm1xY21wd2c4ZjB0ZVBVSnd6VkRjcDBkSEVLa2hFNFFUOFUxSkt5eEV4TVHSAW5BVV95cUxOT2tfTFlsMFRxUV9yb1pYWDMyZFVvVXl0ODctSElMY3FoTGh4N202RXZNNG5xX1J6SGI5NlA5UmE0S1ZoS2FaNlZKR1BubUEtamhoWnYzWVIwcFJJanBadGNDVzlwX1dZNmJsVU9OUQ?oc=5",
       "publishedAt": "2026-10-09T04:20:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +101,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XdnFDUlkzQ1hsQUJYVjV2cXBDZWF3WElmV0FKSU9ROXY5bTA2VVlJYlBaOEV3MTRoTTZCWjVRdFdIZ2JDWFpEWk53WXBZazkxRENnNg?oc=5",
       "publishedAt": "2026-10-09T03:51:45.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -130,7 +130,7 @@
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YbFNfbHdnN0pDa0xfbXFITnUzMnA1VnpteTYyQmZUWHMtd1d5dW9SUlE0TFpFVmJvZWVXLUVNdmlhNlM5UWgyMzBBME1fQWVSa0RXNnp6dm8xS1ZCOG13RGp6dmFRdzdBQ1E?oc=5",
       "publishedAt": "2026-10-08T11:50:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -159,7 +159,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xOE5oeEtRQVVHRE5BdkYwZXJxdjZIS19hNmFrQTJXaEhuZWljTTZzLU1YWEJBRnZEMi04OVR2LU03SVBmSTUtbVZram84Wkc2?oc=5",
       "publishedAt": "2026-10-08T08:50:14.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -186,7 +186,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WW1fSXJyc3dZQ2tIaHJWS1hrTTl3dG5paHNkWFZKeEM4aVlFRkVrT3MzQnFFWno0NGR0ZlFJWGdiUzVZX1BtYnNHZkRVNklWRzloQ2E5bGRGd9IBX0FVX3lxTE9EX2hOcUdaOVYzcHkxX2FFcUktU0xXdmpndmtIdk5yclZ4RU9LZXZjZ3Z6YmlXSm1oakt2ZmU4b0FQX0pWT0o5TG05Wk1XQjRNcFNTZTByQWZ3dDhiNWo0?oc=5",
       "publishedAt": "2026-10-08T07:59:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -213,7 +213,7 @@
       "source": "경기일보",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZQWZLYUZEcFhHS005RkFQam05Y0VOSjdUQUdkYjBGQ3A4UHR6VHoxZEVvUU5XbkhLUkh3Y0xpZzd4UVlrQVNOVGFsUjdCSXhTY256S0pmX3cxUUU?oc=5",
       "publishedAt": "2026-10-08T07:22:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -242,7 +242,7 @@
       "source": "세이프타임즈",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41RERHNXJob2NXU2ZTXzNKOHV1SWltWUxWc25OdDE2VnZUWDBfUmhUajhBbEdiUGkxdm51NXp1QWkteXNONEI3M3VLUnBCN093dXRGenJ4V3JsbHEyS08yRTVWWGtKRm1hTGp0MjVaVdIBc0FVX3lxTE9fOFkteHpoalQtRk9nWDhTaVBzV1k2UHB3bEMydF9zeTd4R2k1MXBoa0FkUHdITWdRc1lRa3k4U0JmX2ttcFcxMGNPTDlGbzNjU0FSaHFSbnI2eGgtMlBzT1BpQlpTZXZUakhpcDFoLWVoVHM?oc=5",
       "publishedAt": "2026-10-08T07:11:13.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -269,7 +269,7 @@
       "source": "MBC 뉴스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVUt0UEtIYVl3R3pyVGhqbDFBWmZ2dGRFNjlWcVpOd1cxaWhqa2ZHV2UxbEFOZ2NvNm9JSXdXQWNzUTNGTjRab0loWmQyTlR1cjA5RW1Cb012TE9zazBQRWdiU242SzRBb2hXZkpTVGZCWkR40gF0QVVfeXFMUG1wNFBZOUlTUUJ1cDZQNlR4dzdjRVpoUDdmcWl2MnhZZ2tKMUZYZElJb2Q3TEZrUUM0REFORkoyZS1OaVlJWG1TNlFoeXk5aE5DODFoaFdHOTRNRjlsZGRFcTVMQkx2LUJORDJTQ25Da0pDRlA?oc=5",
       "publishedAt": "2026-10-08T05:30:34.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -296,7 +296,7 @@
       "source": "대한데일리",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yeVF4OHJRTGlqVXdPS09pV2dMVTg3Tk1nSVNmdm9XLTU2UjhXMG93dlQwOVk5THdVS3Q1RnpidEVHUV8wR09JTlY3ejlZNzJrYUVwODdnd0Rxc2tiSkNOMXRmcGRFT0dGVDN3?oc=5",
       "publishedAt": "2026-10-08T05:29:02.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -323,7 +323,7 @@
       "source": "뉴닉",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XZFdYSFJHNXluMkZ4OTVCNEF5Z3lUQndMZ21ydW9kLXpDMmt4T19qZmtxODd2NE80eXd6Wk9URmd0QzE1SzM0MVFQdTktTWtmaGxR?oc=5",
       "publishedAt": "2026-10-08T02:32:44.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -350,7 +350,7 @@
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBITm5xNVZUQlAzYm5pdkpBNkxGV2NDWG9JSWN3X2JmNXI2N3lFdm52YnNOaDlKMWxIY19qMm5Kamk3QlZoYVdLQXdzbW1UT0lobHhuY3hLWUZIanc?oc=5",
       "publishedAt": "2026-10-08T01:48:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -377,7 +377,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GUjJHWS1Ic2hfNGlzNm9fTlo0ZmVYaDIyZ3VTQ3NrVWtpVTJUYUdndlRxRjN6aDJySTJzUGN3S01adi16NHh5eE5SOWZwcE9BT3REOElsQXJQMUNfcW1YU1dIMUliNmxYN0k3R1VmenU?oc=5",
       "publishedAt": "2026-10-07T23:16:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -401,41 +401,12 @@
       }
     },
     {
-      "id": "b7156c6c5a43cd49",
-      "title": "삼성전자, 분기 영업익 107.4조원…세계 테크기업 첫 100조 돌파",
-      "source": "중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdjBmQ0piMkZ0TUFqT293SnMwM01VMG51eUlRYXZzdHpDaXozUmxXTkM1NHlZOVBReHpVNVg4SXJpem84SWdvZDVNbkpFb201dkh4UG1n?oc=5",
-      "publishedAt": "2026-10-07T23:02:09.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 분기 영업익 107.4조원…세계 테크기업 첫 100조 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "551ed79c142ed3f3",
       "title": "삼전 ‘영업이익 100조 시대’... 세계 테크 기업 최초 기록",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdm1ieE1RYTRTUmZWZ080M3BGR2xnNDJkeVJLc2NlN2VZNnZfYVNZczh1aHlMelpPX0JkOUU5dTlOQ1ltWk5NU0N1SGF2ZHYtTzQzSk5vM193cmQwbjdJRk5XT1NxeUg2XzNlNnlCWm16RTdncmdXa1VtZjh6bG5uSHVFcw?oc=5",
       "publishedAt": "2026-10-07T22:50:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -462,7 +433,7 @@
       "source": "Samsung Global Newsroom",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkQyeHJWWHhfMjFtUWdJY3RDM2xqMHhTUmwwRUZXeVFMelgtZ3ZoYjBVT09ka3p3MG53RFBpNlMtQm1CZUdXTHlNaWgxNWYzZkR1U3VNZ0lIU2g2YjM1YzktcXRsTG5fNHhrYWJFVDZVQVJjb29ZVDdyRmx2dkdYaTdOd2VsRk0xXzRqeGtTR1oxT2dHaXM1UTdfVnhNcGVaX3pxVF9YbzBRU2t2aWh4TmdYdmQ4TjVVMG00ZXRlcDNSQkE5ZjdfcXBldEpkaU5HMUJnU2NTR0c5bEdzUUFFYnlwLVI3VEh5eFE?oc=5",
       "publishedAt": "2026-10-07T22:46:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -484,12 +455,12 @@
       }
     },
     {
-      "id": "2b33a2adcb69b460",
-      "title": "[속보] 삼성전자 영업이익 107조…'국내 최초' 기록 썼다",
+      "id": "9d13c857518384fe",
+      "title": "[속보] 삼성전자 영업익 100조 돌파…분기 기준 '국내 최초'",
       "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTzNUUVFlOHZlaWozY19Cb2lZY0piSHVyRWtIRGRzYkFkc0htRmNfWHBuaURwX2x0ZHlPek9qTV9iaG9MeERVeGxPaEhzaUczSHZBTDhUVl9fZw?oc=5",
-      "publishedAt": "2026-10-07T22:45:30.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaHVfYVZvYnRKTmZpUjc4UGh4QUxZd3YyYkVXR1c4a2FxWTM4aERMUFJ5a2x2YkhlYVFXeXpZckxmaUp1OTh3LUx0VGhtZkZnZWpzcXZnSzVqQQ?oc=5",
+      "publishedAt": "2026-10-07T22:45:27.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -500,23 +471,25 @@
           "ticker": "005930"
         }
       ],
-      "summary": "[속보] 삼성전자 영업이익 107조…'국내 최초' 기록 썼다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "[속보] 삼성전자 영업익 100조 돌파…분기 기준 '국내 최초' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
         "negativeTerms": []
       }
     },
     {
-      "id": "3d386c28833fd52e",
-      "title": "삼성전자 반도체 성과급 내년 3월 말 지급…“연봉 8천만 원이면 최대 7.5억”",
-      "source": "KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GbDM3VWJsd0I5M2JTd3pSM0ctYWxyVWwycE5xbkYzbGZTLUwtMVVVTmhwU29YUUYzUjEyOVVrYk51WmllUEtudDZDQUR4b0JPX25MVnQ2WmR1M28?oc=5",
-      "publishedAt": "2026-10-07T11:56:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "id": "ac4578aa18bfb0b8",
+      "title": "삼성전자 반도체 특별성과급 내년 3말4초 지급",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVWRFcnJEZHQtMk5SN2xHSFB6TFh2UDJldklwbHIyS2hST0t2ak1BcWp6TFl3QVlSMDFHZFh1ZjlueExmLXFPM3IzUHRibjhzT0hiQmMtbmh2blBvVnJWMlEtNGt4TXRldlAyTWlmcUxsbF9sNVHSAWZBVV95cUxNdlh0YWU3d1BzM0VZZTZ3X0REeUMteFlDQUdxc2hkXzJjMTdIdUROZ3g1RUp5OC1Mb0lOY3JhWnIxc1liRGV5NGVhN2JyR0RJazVOREVVOERFb0FMMXlDZUNPOEItUGc?oc=5",
+      "publishedAt": "2026-10-07T15:30:00.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -527,7 +500,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자 반도체 성과급 내년 3월 말 지급…“연봉 8천만 원이면 최대 7.5억” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자 반도체 특별성과급 내년 3말4초 지급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -543,7 +516,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUhVUExtWFdHNU5MaXl6cmlsdzhuSUZqLXNtcjZSaHpHSEY2dHpBTWh3OWJpMzBXMzlhQkxKYWJVWk9TaUN3djV5dTN0NjdVWlItOFZXd1lLazdPYUpvMHRSUHROelJzSWp4NC1KbEpwSTFtVVFqa0FFWWxhUklSSTdLUU1SZw?oc=5",
       "publishedAt": "2026-10-07T11:12:51.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -555,6 +528,33 @@
         }
       ],
       "summary": "‘연봉 8000만원대에 7.5억원’ 전망…삼성 반도체 성과급 윤곽 (종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a6c72b70df782fe9",
+      "title": "삼성전자 반도체 특별성과급 내년 3월말경 지급…전액 자사주",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSjhEV3B2WFgzQzRKYi1jSy1YSkxMaFExSkVnV3piNm9xdFFLbktZTXNBSE1sVURDS2RQR0FYemtqbVdHM2M0UlRwQ0FlU2x5WjYwYVhuR2FaODlzSFVzTlhRWFNGZDBGVF81LW8xcEM?oc=5",
+      "publishedAt": "2026-10-07T08:33:18.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 반도체 특별성과급 내년 3월말경 지급…전액 자사주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",

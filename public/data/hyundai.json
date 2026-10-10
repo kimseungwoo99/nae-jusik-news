@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:59:55.069Z",
+  "generatedAt": "2026-10-10T09:14:01.126Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "‘전기차는 게임기다’…현대차·BMW가 게임쇼로 간 까닭은",
     "고객의 상상으로 만드는 차 안의 앱, 플레오스 커넥트 공모전 | 저널 | 현대자동차그룹",
-    "현대차그룹, 인도네시아·베트남서 ‘현대점프스쿨’ 수료식 및 발대식 개최"
+    "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YU1NjTU10VnBwV3B0eVh4b3FERGZmMVlSUTlnVnM4WnYyOGVYTGRkdmVHamNrSDEwNE9JenA2dGE4ME5xaC01YnpSdlczTnV6c2xCWURyMG55RkxUdTZOaUdXZUctMEd1ckprdjhiUTLSAXBBVV95cUxOWFNTY01NdFZwcFdwdHlYeG9xRERmZjFZUlE5Z1ZzOFp2MjhlWExkZHZlR2pja0gxMDRPSXpwNnRhODBOcWgtNWJ6UnZXM051enNsQllEcjBueUZMVHU2TmlHV2VHLTBHdXJKa3Y4YlEy?oc=5",
       "publishedAt": "2026-10-08T09:12:03.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -47,7 +47,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkFMdDYtcXZLc3lkdGpib0ZSZERLaGlWeDNkRmZrSXYyXzg5dG0ydE81M2lKeGwyeDZEZXJWRDZJZHItZ1Q5c1NFMmFuNFFWSUdFTTJicXBzRThIN25tcUVVOWkzZk1VY2p4OGwwRTd0UDV6M0RYTTBlejhFVXNwVC1VMnNjQVJxNXBFeWpNeGxsS0o2MlN5V3psUQ?oc=5",
       "publishedAt": "2026-10-08T07:00:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -69,12 +69,48 @@
       }
     },
     {
+      "id": "9cb72e592e56d532",
+      "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xc1ZURVJXUjU2NUFkTEpYeExuQ1dPZDB1UDlyNDhBSHdPeHd5R3FiWndtRlBnVkxOMWpIS1ltcE9kOTdnQ2RJWDdNRkhSUXM1cVRyM1ZENy10Qk3SAWBBVV95cUxPQkN3U3hKNS1McDU0a1BWWDlVR2dqZk1wT1lYLXpBT3AxYzNmNmJpZVdaUlVEQV92WVBpeGxScWNoQjhvcG5sckpBR1oyekE3Qk1Sc3QweXVON0pMY1dyc0c?oc=5",
+      "publishedAt": "2026-10-08T06:54:49.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.13,
+        "confidence": 0.84,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
       "id": "6814f13e31abb748",
       "title": "현대차그룹, 인도네시아·베트남서 ‘현대점프스쿨’ 수료식 및 발대식 개최",
       "source": "다나와 자동차",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNXhYcV9PM0tZYjZBXzNxUkZDMGdJQmhiazI0S0JudUpaZWZ1VFZUM3hUWlJwSFp5WGpMbkRwZk82V0YxWk5qU0JEcEFVdS1aU1BQQXhSWmd3N0hiRW1maWZKMFZfYUxsNXhjeA?oc=5",
       "publishedAt": "2026-10-08T06:04:45.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -101,7 +137,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTjBZTFZQcVY1YWlpdHFnNUR6Y0toekF1MUhmaDY0TlhuZUJ4SkxBaDZaR2F3c2xFWUI1TUd3Vm0wd2VUTWhQQl9LcUlVOE5paUZDNkNtcVFKdw?oc=5",
       "publishedAt": "2026-10-08T03:34:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -128,7 +164,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fdkw2b1Y4Y1dMZ1FoZUJtVExlSXdDdTFLT2toZUNtNmZyN3RvXzBRdllWYUtFLWdsalZpeFJtdFZyRnVjem9iV2tTbUpmX2lQQmNBbTNGMG9OSWVkM0ZpUklocTY5bXY2MWl6bEF1LXhrcHF4dVdvNmU0aWdhVHM?oc=5",
       "publishedAt": "2026-10-08T02:21:03.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -155,7 +191,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY281SFBsR2VCU1AxUFlGY0FsbkRhSzRtR2Zsd3VRYzk5UTg1V1VOQnFub1dpekZ6T3B1WnZUQTYwVXRNZ0V5MGlCQkVLbFNmb1lPTlpsS1c0ZlZzWXpDQzZDUTYyZmFMTXVXaHY5X3pSYVZOaEF1c29kUDA5enhUS2ZIU2NERVFWbUQ2emdNWnB1ZUpjR0pjY1dOSms1UG8?oc=5",
       "publishedAt": "2026-10-08T02:00:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -182,7 +218,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaXM5VUZ4NkgyOGhIZGRJaDVPT1JKMUFfQWJkWWdDWmEtSUZpSEVLQmszOEg0dVFLTWMzZ1dQWGd0ZlhaTnZpNVp2MTc4Wjkza0NzOEI0SFJWNFhoQ19aNHJKZGQxNlU?oc=5",
       "publishedAt": "2026-10-08T01:34:16.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -209,7 +245,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ebk1BOF83LUd6cWZTVV92aGhBU3V0SnNYUmx5S0prYk5PNG9wUmtqb0o3ZEJkRXZlakdpaE9jODRuRm1nYnl3Z3ptY0lwcko2V2EyWjQ5Rm15bEtheTZZSdIBYEFVX3lxTE1Ebk1BOF83LUd6cWZTVV92aGhBU3V0SnNYUmx5S0prYk5PNG9wUmtqb0o3ZEJkRXZlakdpaE9jODRuRm1nYnl3Z3ptY0lwcko2V2EyWjQ5Rm15bEtheTZZSQ?oc=5",
       "publishedAt": "2026-10-08T01:16:42.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -236,7 +272,7 @@
       "source": "hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNE1wY0VVUEctb29aQm42N3d2TGxSRHRndWFuXzlxVVJ2aWtrX1FRSnI4WlJSYm9ZMFl1eURkblpfUXA5T1g2TDZyS01tRWl2Slg1WEN5ZFZPMjFmVXpkcl84cFVYcjZVTHMzRTdmYTh4TFdsQlY0cmp0ZUVpd1dkNnlfVXBZQkNjem1B?oc=5",
       "publishedAt": "2026-10-08T01:15:20.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -263,7 +299,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmVaLWZZb3Z5SmZWMV96U0xBME5mSFBVYWdiX3prVkJsQUFZYkpnQi13b2NZd05RQUFwb0xUakJHZXl6RDY3WGxERDlvRlhQWm1BeTE2Q0Z4WXBxWjAxVF9hTkd0V3VGMERLekdXVGVZZDE1c1VEQTN5allka18wYW56eHR4QQ?oc=5",
       "publishedAt": "2026-10-08T00:00:06.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -290,7 +326,7 @@
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRTJVcVhFajN4azctZXR3VkRkNl9ZN0ZJQTJ5clU3RE1QSlU5M3lxeUtJdVpnanV2d1ZzVzlQN2xQRWRmMU1xLXdCR2l6STJDVHZURE8zNW5ESW9ZNEJReFkxalJEQQ?oc=5",
       "publishedAt": "2026-10-07T22:39:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -319,7 +355,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRDJyMi1IQm52blRuRW5COFRoMUREblZ0UGJkUTh1Z2o3NC1ObUpYLUQ2eHRhQXVGYVBwaEF5NGs2cHVZeGR0OHJ1eFNTbk82a2o5WjBLbzZYX09VVm9XdW1LNUtYS3l6QUNNYw?oc=5",
       "publishedAt": "2026-10-07T21:50:03.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -341,12 +377,39 @@
       }
     },
     {
+      "id": "4921be662db0a0e3",
+      "title": "현대차그룹, 순환출자 풀 승계 시나리오···실탄 확보 관건",
+      "source": "뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Zl9WRVFQNlZWZG50VWllYzI0Q1FLeGpFSFVMLTJNakdIaWkxZHV4YWthT2c5OEpKZHh1UGxPWW5NcUlCQTByY0VhdXpnbWRtMHgzOUV3T0ZrRF82MWNLUmlNY3RzdEhvNGc?oc=5",
+      "publishedAt": "2026-10-07T21:30:56.000Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차그룹, 순환출자 풀 승계 시나리오···실탄 확보 관건 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "bc99f630b8af5567",
       "title": "[단독] 현대차그룹, 이달 남양서 '미래차 10년' 비전 발표",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdGtvbFRoOGFKWHBHeXhPeUxsQ3FxbGlUTnRRQjdHR0xnYzR5UXAtOTd0Q3lEdjR2R1hCaEJ5bjNEWkNZbXFieTBkQlNabFE0Z0dhejRxOVY3UQ?oc=5",
       "publishedAt": "2026-10-07T09:43:34.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -373,7 +436,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuREdWd1FSTDBBaGZ4RFhvU1B2Mlp3ZGROODBSWEhsVUo2dDg2eDZ0d3RiZjEwakR0dWVfam50WExQcThOMnpPNDYyanVTNGZGY3o3eW1ncTN2WDlMRk14dU42QWhaWnF2UllwUmhZWk9lUG5pTjh0cjhOX3FqUQ?oc=5",
       "publishedAt": "2026-10-07T05:33:20.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -400,7 +463,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SZU5HRGNXc2w0azRPM01yZGNBVU5qTHpuYldkdFdZZmhUNW96RjZlQVZyc1JGaHoyc3Juc2VIR2hmTG11SktTZ3pQWXJ5eFVLcFU2X1RrTXVVX0Nlc0o4UW8tbWtWbHFsZFNzUkJQcGJ5MW1QZ2p3anMwS1RHR2fSAZMBQVVfeXFMTjZaS29HT2t0eWZKbG9sUFBFMnZGV05OLTBBd0FwYy01UWZ4Q3o1Qnh3eUcxWHlmZmxsNVp1MGZfR0luSUJnRG5ESWE3a2cxX3B2YmlGdktRcVlzQXJiQXpOQlI3NWVGUHMzVWVOU1hiM3VLbkxHdXNkQVE5TjBUTEppdDdDaGx1aXg5ZzZRSXBWMV9J?oc=5",
       "publishedAt": "2026-10-07T05:07:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -427,7 +490,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnZmSDFEZm1EM3VJQU1fUHZ3MGp3UDFvbnNnaVhtOXR0TFdaMnNoVEhOMGk4NzN2RUJZODNFQUpJdE43cUNEb09JMEZqZGF4RXJxTU9na0VfT0s5aHhzRjdjTUFJNDNnVzV5N1RvczNuaVNueDVZVllCX0d0eG1uNF91UEU5QWVlR1R1eG9ZRGJrSmZ1a21QdUNB?oc=5",
       "publishedAt": "2026-10-07T00:28:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -456,7 +519,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDRIMzZPR2UtZ1c0TWV3dVRpcTczS1JqRUFFLUVDM2N1VFdYR0RTd3VZcjZZcmoxeVkzc0dmR2Q3RlpHTkxxRm5Ca3M5cDVxSTRkOXAyM3BwLXpWM0I4VV90Q1psYVlHYU5zdzJ3U2hiN0VXdXRVLXR3U3JoUGc1VTZvaFltYUFuamc1Qw?oc=5",
       "publishedAt": "2026-10-06T23:30:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -483,7 +546,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GUEMzTmFiblRjZ1AwVURqNVFLSDdlZ1hLMGxLa3VDc2dpa1BFSDU0N1hWQ2xsS1pPYS1sTlBTZXFzVlYtbXNDV01pUFo4aS1qWVdNVnNYVHRTZw?oc=5",
       "publishedAt": "2026-10-06T21:30:01.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
+      "collectedAt": "2026-10-10T09:14:01.126Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -496,60 +559,6 @@
       ],
       "summary": "\"120만원 간다더니 어쩌다\"…반토막 난 주가에 개미들 '눈물' [종목+] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "64d9f8a2cdfbd6a0",
-      "title": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 선봬",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSVJwSHZCcVNDeVRFNzc1eFVQOUJLcnNrb1dBZGpabW1Ha3ZmLU9HeFVidkRqSmhIRWpGMWtZLS1TZlZLckNhV3lNMmpJT20zdnZ3Q3FQNVZrTWUtY0RKbdIBYEFVX3lxTE5tSVJwSHZCcVNDeVRFNzc1eFVQOUJLcnNrb1dBZGpabW1Ha3ZmLU9HeFVidkRqSmhIRWpGMWtZLS1TZlZLckNhV3lNMmpJT20zdnZ3Q3FQNVZrTWUtY0RKbQ?oc=5",
-      "publishedAt": "2026-10-06T04:27:28.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 선봬 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8671a1c7dba662ae",
-      "title": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 Have Fun with Science 개최 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHhLVU9WcWpjcXlSS0FiZlRjeTJNZ3Nac09tYVpfWmowVkM4UzMtdVBhWVZTVFE5cG1STnk1S092QXB6OGI4dVhkbmlCcHlWcTk1cmFlRXFWZl8wa3FPZ1JKZFE2Y1dndTc4dlV2Vnlwend4N2UwUTNMN2pQYndsV2hCYWU2QWdfZTFhb2F1QVNOX2RhUEpnWmdQNHo2dw?oc=5",
-      "publishedAt": "2026-10-06T04:00:00.000Z",
-      "collectedAt": "2026-10-10T01:59:55.069Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차그룹, 익스플로라토리움과 체험형 과학 전시 Have Fun with Science 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
