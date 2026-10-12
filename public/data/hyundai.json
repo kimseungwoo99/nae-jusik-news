@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T16:27:52.573Z",
+  "generatedAt": "2026-10-12T01:55:23.111Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,111 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대자동차, 30년 공들인 인도서 1000만대 신화 쓴다…연내대기록 달성 확실시",
-    "현대자동차그룹, '뚜벅이'가 고객 될 때까지…MZ세대와 동행",
-    "현대자동차의 9월 자동차 판매량은 올해 들어 가장 높은 성장률을 기록했다."
+    "중국차 몰려드는 파리…현대차·기아 소형 전기차로 유럽 공략 - 머니투데이",
+    "\"14억 인구·세계 3위 車시장\"…현대차가 인도에 공들이는 이유",
+    "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”"
   ],
   "articles": [
     {
-      "id": "06fd756066735fdf",
+      "id": "abd03afadd6e3307",
+      "title": "중국차 몰려드는 파리…현대차·기아 소형 전기차로 유럽 공략 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WSmszZ3lqcGJab3AtaHZLTXZoODRvU0l2eVhXTXU2Q2xiQnltTVFiVEJienFRNnFhekdMN1FrYnN6OUt0NlVaOFNqU1E4VDREekJiMGdZLWRfOGw3Ti0waGx4T28zT1Q5QjlqT3RNNG54Z9IBckFVX3lxTE5WSmszZ3lqcGJab3AtaHZLTXZoODRvU0l2eVhXTXU2Q2xiQnltTVFiVEJienFRNnFhekdMN1FrYnN6OUt0NlVaOFNqU1E4VDREekJiMGdZLWRfOGw3Ti0waGx4T28zT1Q5QjlqT3RNNG54Zw?oc=5",
+      "publishedAt": "2026-10-11T23:20:00.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "중국차 몰려드는 파리…현대차·기아 소형 전기차로 유럽 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "81e2b68a35eef5f7",
+      "title": "\"14억 인구·세계 3위 車시장\"…현대차가 인도에 공들이는 이유",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zQjhwSFBFa1RzU0VyVWJxZHZKWEdTbTZrVXV2MmZMeGVSQ0pqZFpVWnh1UGxYY3JEc1NxNFpPaXRRNHdHNnJ6c25JM2owNmVmeVVqUDRhb3dnaHBYdHpOalBlUU1MVUc3ZHhGaHhXVWo0TzhaZmRFc9IBeEFVX3lxTE0zQjhwSFBFa1RzU0VyVWJxZHZKWEdTbTZrVXV2MmZMeGVSQ0pqZFpVWnh1UGxYY3JEc1NxNFpPaXRRNHdHNnJ6c25JM2owNmVmeVVqUDRhb3dnaHBYdHpOalBlUU1MVUc3ZHhGaHhXVWo0TzhaZmRFcw?oc=5",
+      "publishedAt": "2026-10-11T20:30:00.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"14억 인구·세계 3위 車시장\"…현대차가 인도에 공들이는 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1690d7b9d81c8db1",
+      "title": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWUxV2FGd09UWEk1NEEzUDRaQ1hDeDlrOHg5NFJVQW0zcDVjQjZMM0d2QTNDNEtNMUphTVhYOFJ4S21ldXZLQ3hkRXg1VjY0RjZmZF84WWxmUFB6WmtoNEVGXzRIMnhvQ2FycHBKbkc5aHRORW8yVFVBeVZPcFUtZXk4YnBWbzhOVXRwVTNzYw?oc=5",
+      "publishedAt": "2026-10-11T15:42:00.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "bd51a9e272d914fb",
       "title": "현대자동차, 30년 공들인 인도서 1000만대 신화 쓴다…연내대기록 달성 확실시",
       "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MnRvVkZkRHk1LXF5R19LeEFuUThaTnFFM3E2YXNyTXdCUHpYanAwb09vTUJtbFJ5MmNQUDgxWUdjVXQ4a1VyZlZxUXZqci0tV2tidWlhYnFaRVJsV3NFck5pVEVkUlE1UnlCR0Fhb1JOdDRZdVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MnRvVkZkRHk1LXF5R19LeEFuUThaTnFFM3E2YXNyTXdCUHpYanAwb09vTUJtbFJ5MmNQUDgxWUdjVXQ4a1VyZlZxUXZqci0tV2tidWlhYnFaRVJsV3NFck5pVEVkUlE1UnlCR0Fhb1JOdDRZdVHSAWZBVV95cUxQZ0RXUkxRSFFScmF4UnB3TG1RNUw1VmxjTHpZVnpiS3d6Tl93b1RHc1VlRHRCcTh2VWZWamtfS1d4ZEpSSC1UTmxIclJ5QmxEVXo0MUJQaUVYN0o2Unc2S0NPUEJaeWc?oc=5",
       "publishedAt": "2026-10-11T14:08:18.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -47,7 +138,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RXBUUmVhSC1nTF9WMVBoUjJkVERGekJjdnRoUFZKbm5aU2JJSDlRSG9ZMVlpa01CZmJoMEVuMEhzQnRsSlUxcGpjSU5pbko3cjg0Yk9fdVYxUQ?oc=5",
       "publishedAt": "2026-10-11T07:47:46.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -74,7 +165,7 @@
       "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVpTQlJkcDRUaE9kaFduY1o0Y1BPcER6dzZZWjlUMDJoaF9XdlJ3aGI3QjI1UDBheERHUnFObGJTTUtZTnpJM0xaS0UtWUNXN245cVBKNmY0SlE5X1FraVlPS1BiUW4xa0NJOHVjV0tSWUtwMDVUYXNQZmVqemlGdUd6Yk8xQU05bUpoZ2h0eTA?oc=5",
       "publishedAt": "2026-10-11T04:30:52.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -101,7 +192,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yc0Q1eUpUeTc3R2JVbzhKaWJUbkhWYjJpdkZiSFRHdGkxWERuSldWVWtzYkt0WjJXaVZhUGx3eC04UWF4X2dibnplNlNQX1N3TWV3X2xRUVdTR0ctYlB4VXV3MXRyZDFKaDh4aXVCLWhUZ9IBckFVX3lxTE0yc0Q1eUpUeTc3R2JVbzhKaWJUbkhWYjJpdkZiSFRHdGkxWERuSldWVWtzYkt0WjJXaVZhUGx3eC04UWF4X2dibnplNlNQX1N3TWV3X2xRUVdTR0ctYlB4VXV3MXRyZDFKaDh4aXVCLWhUZw?oc=5",
       "publishedAt": "2026-10-11T04:29:25.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -128,7 +219,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BNXVKVDJSaE1YVHF4dTR5c0t3TFZrU1FMOUx0UVVBNUFVSDM3WFRIV1U0UEw5UHpuVlhkZVVGVFhuRkhzNmxWang5Y215Qm42NEpZRENINjdsNTlVSkt2N1ZfX2E1WXlOS3BfQm93Q3g?oc=5",
       "publishedAt": "2026-10-11T02:20:37.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -152,12 +243,95 @@
       }
     },
     {
-      "id": "e75be46bc4d80fd7",
+      "id": "a34f872a44009d72",
+      "title": "현대차 인도 누적 판매 1000만대 초읽기…연내 돌파 유력",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RUnlOWTM5Y3pob3BWZG95OF9HWGlzRmJjZkdaTmZrNUE0b1hsM1c2TXRYUzAxWFBfZllteDlMQktKQWhkUHpTV0ZTdWJrZmM0eGtMMlpB?oc=5",
+      "publishedAt": "2026-10-11T01:41:50.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 인도 누적 판매 1000만대 초읽기…연내 돌파 유력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5b7632334c40a06a",
+      "title": "현대차, 인도 진출 30년 만에 누적 판매 1000만대 눈앞… SUV 앞세워 현지 공략",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZWdDNEa2NVbXRTS0lUS2xqMEl4ZURLaGN5bEpSN2dKZktrWFJERmNEaVJ6MjdHSDdwRVdhTEJwalVtdG0xNmQtNkpUZGJWZG10aGZDOE9EMUg2NENzWUNHbUlTd3kwYk0weEdjTy1IUGVlelprVEtJU3pCQjFMMnhBUGhHNWtneGViZm9RZw?oc=5",
+      "publishedAt": "2026-10-11T00:03:24.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 인도 진출 30년 만에 누적 판매 1000만대 눈앞… SUV 앞세워 현지 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f16cc4a6318bca42",
+      "title": "현대자동차가 완전히 새로운 전기 SUV 두 모델을 공개했습니다.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaX0ZlQkFQYUMwdWV1Ql8wVWxWRUFkeTVNVVRNTm5KM28zNXZ4TW83U2FxMzlkTmZaaWF3enhyVWNrWUQySHZ1eUJBdDJPWmxvWmoxWElJZDY4NnJRY0ZhNFlrOHhoZHdNWEJYOE5Rbmd4U0NiNlkwckpR?oc=5",
+      "publishedAt": "2026-10-10T02:33:59.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차가 완전히 새로운 전기 SUV 두 모델을 공개했습니다. 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1e6f7b64ee48afc9",
       "title": "현대자동차, 인도 진출 30년인 올해 누적 판매 1000만대 돌파할 듯",
       "source": "뉴시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xMElvM0VsSHlfdnM0TzB5UGE3RWRhRTdfTUpObVZJUDlhamE4cjBuUzFHbmVPS3d3QzUzdXdMYkI5Uy16dWJHNU8zRWY5QzBHVnFwREh2bzV2VWV5MndPNE5MR0g4a2w2NjNZ0gFuQVVfeXFMT1JxUXRaOTJwRW5GcFM2Nmx0cXYxOU90eGJJcU5jTGwzWDI3cjdjNzNER2tXN2V4ZWgwSktXY0xIUk0yM0ZFY2ZnQS12dE9meklxWEVqaGZZNUttdjFia3lRTDJWRG9DVDhkWmtCc0E?oc=5",
-      "publishedAt": "2026-10-11T01:42:10.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNzVMaWJYay0zcGJhYklCUENMQVNqNnhjdlZPZmdLeXdHY09PLXV2R1pzbzZXRWJFUU92WVlXNExpbzFiVGhlM283RGpzU1kybWFVVGJZbVlhQ0M5X3ZUdHF4SlJxTTU2ZUHSAW5BVV95cUxPUnFRdFo5MnBFbkZwUzY2bHRxdjE5T3R4YklxTmNMbDNYMjdyN2M3M0RHa1c3ZXhlaDBKS1djTEhSTTIzRkVjZmdBLXZ0T2Z6SXFYRWpoZlk1S212MWJreVFMMlZEb0NUOGRaa0JzQQ?oc=5",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -181,68 +355,12 @@
       }
     },
     {
-      "id": "45a702ba2d4b6d4b",
-      "title": "현대차, 인도 누적 판매 1000만대 ‘초읽기’…SUV로 돌파",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fWEx3OVd4NjluekpZWXI1bnNuRnZkVFpjRldyVzdXSHRmTEQyclNYYW43TmwtUkZiRGZ4dG94WEcwZlMtb1N4Y01BUFBhMjlrMHNXSmlualdIUdIBX0FVX3lxTE94OFdfNnZLcUduSDY5ZUJsUEljS1pqS1lhUS0ySDJ1T1M2V3JWS1IwVVZnUlRhTW9uUlV2QVpTNXo3OXVyUHBIMmFBNU1MSzNWLURCcHY2d05EU3lZazFN?oc=5",
-      "publishedAt": "2026-10-11T00:44:00.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 인도 누적 판매 1000만대 ‘초읽기’…SUV로 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5b7632334c40a06a",
-      "title": "현대차, 인도 진출 30년 만에 누적 판매 1000만대 눈앞… SUV 앞세워 현지 공략",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZWdDNEa2NVbXRTS0lUS2xqMEl4ZURLaGN5bEpSN2dKZktrWFJERmNEaVJ6MjdHSDdwRVdhTEJwalVtdG0xNmQtNkpUZGJWZG10aGZDOE9EMUg2NENzWUNHbUlTd3kwYk0weEdjTy1IUGVlelprVEtJU3pCQjFMMnhBUGhHNWtneGViZm9RZw?oc=5",
-      "publishedAt": "2026-10-11T00:03:24.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 인도 진출 30년 만에 누적 판매 1000만대 눈앞… SUV 앞세워 현지 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "448c86afc865f466",
       "title": "현대차, '디 올 뉴 투싼 테크·익스피리언스 데이'",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1ZDQ4THZiRUZTcGZxdUlWcWp6c0lSaU5SU1pMMWNJeER1Tl9mcjhtQ2lfLWpRbmwyYkZNMDgzVEtTNGsxR2NqYWxXWXpIamVIMmhPbXRiWFRnQmZaNlVOU9IBYEFVX3lxTFB1ZDQ4THZiRUZTcGZxdUlWcWp6c0lSaU5SU1pMMWNJeER1Tl9mcjhtQ2lfLWpRbmwyYkZNMDgzVEtTNGsxR2NqYWxXWXpIamVIMmhPbXRiWFRnQmZaNlVOUw?oc=5",
       "publishedAt": "2026-10-09T01:39:20.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -269,7 +387,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3aFdKVUN5TG80Y0QyWExoc3JlbngxTnRGWDBLTGpiQzdnT1ZyTEx5MFpEeGZYRjk0ZFg5YnktcVRvM3V1cTNtVktKRmJtOUtHbjRBTF90WG95VndHbjlzTA?oc=5",
       "publishedAt": "2026-10-08T10:40:29.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -296,39 +414,12 @@
       }
     },
     {
-      "id": "29d80a6f29222868",
-      "title": "고객의 상상으로 만드는 차 안의 앱, 플레오스 커넥트 공모전 | 저널 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkFMdDYtcXZLc3lkdGpib0ZSZERLaGlWeDNkRmZrSXYyXzg5dG0ydE81M2lKeGwyeDZEZXJWRDZJZHItZ1Q5c1NFMmFuNFFWSUdFTTJicXBzRThIN25tcUVVOWkzZk1VY2p4OGwwRTd0UDV6M0RYTTBlejhFVXNwVC1VMnNjQVJxNXBFeWpNeGxsS0o2MlN5V3psUQ?oc=5",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "고객의 상상으로 만드는 차 안의 앱, 플레오스 커넥트 공모전 | 저널 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9cb72e592e56d532",
       "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xc1ZURVJXUjU2NUFkTEpYeExuQ1dPZDB1UDlyNDhBSHdPeHd5R3FiWndtRlBnVkxOMWpIS1ltcE9kOTdnQ2RJWDdNRkhSUXM1cVRyM1ZENy10Qk3SAWBBVV95cUxPQkN3U3hKNS1McDU0a1BWWDlVR2dqZk1wT1lYLXpBT3AxYzNmNmJpZVdaUlVEQV92WVBpeGxScWNoQjhvcG5sckpBR1oyekE3Qk1Sc3QweXVON0pMY1dyc0c?oc=5",
       "publishedAt": "2026-10-08T06:54:49.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -354,12 +445,12 @@
       }
     },
     {
-      "id": "d8eda870cdc67b5d",
-      "title": "현대차 정몽구 재단, 테마섹 트러스트 임팩트 플랫폼과 손잡다 한국·싱가포르 스타트업 10개 팀 한 무대에",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnA2YUlnM200Y2FzOTI5MDNCdmlLUm91ajVab1p2TTlsbWFqZ1FTX1BSZ1Q2QWxSTk1BelZ5Ti1oZTNaSHNwczdNbTlBbTVUelpUUHRpTWl4cUV1MWN5VnVYOFpKcTNLb2gtOHkxU2JQenBZRnFzLUdNRlRIUFZ1VlZoNWNCSktGZE8tRlVoT1dYNzNtTFo0ZHZaZGoyd2tuanpJUHE2QWt2Zw?oc=5",
-      "publishedAt": "2026-10-08T05:59:00.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "id": "283923498d83dd11",
+      "title": "현대차, 유비소프트 레이싱 게임서 오프로드 콘셉트카 ‘크레이터’ 공개",
+      "source": "다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYSlJGUEJzS2JaLVpOSVJYMmVRTU5pSWhaemIyVFh3XzBzRHNaekZrN01CbzFpQmFzTXV4UmZkaFR3RW40NTZKS0EzNDYxdXBleFlmd2RpT19RY3FDRi1WRktrYkg4YXZJQ0ZWag?oc=5",
+      "publishedAt": "2026-10-08T06:04:51.000Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -370,8 +461,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "현대차 정몽구 재단, 테마섹 트러스트 임팩트 플랫폼과 손잡다 한국·싱가포르 스타트업 10개 팀 한 무대에 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "현대차, 유비소프트 레이싱 게임서 오프로드 콘셉트카 ‘크레이터’ 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -386,7 +477,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTjBZTFZQcVY1YWlpdHFnNUR6Y0toekF1MUhmaDY0TlhuZUJ4SkxBaDZaR2F3c2xFWUI1TUd3Vm0wd2VUTWhQQl9LcUlVOE5paUZDNkNtcVFKdw?oc=5",
       "publishedAt": "2026-10-08T03:34:00.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -408,39 +499,12 @@
       }
     },
     {
-      "id": "4e0b4dd965aa9217",
-      "title": "현대차 넥쏘, 日 수소차 시장서 첫 ‘두 자릿수 점유율’",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fdkw2b1Y4Y1dMZ1FoZUJtVExlSXdDdTFLT2toZUNtNmZyN3RvXzBRdllWYUtFLWdsalZpeFJtdFZyRnVjem9iV2tTbUpmX2lQQmNBbTNGMG9OSWVkM0ZpUklocTY5bXY2MWl6bEF1LXhrcHF4dVdvNmU0aWdhVHM?oc=5",
-      "publishedAt": "2026-10-08T02:21:03.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 넥쏘, 日 수소차 시장서 첫 ‘두 자릿수 점유율’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f2d50f0ad38c9646",
       "title": "현대자동차, 글로벌 레이싱 게임서 오프로드 전기 SUV '크레이터 콘셉트' 공개",
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaXM5VUZ4NkgyOGhIZGRJaDVPT1JKMUFfQWJkWWdDWmEtSUZpSEVLQmszOEg0dVFLTWMzZ1dQWGd0ZlhaTnZpNVp2MTc4Wjkza0NzOEI0SFJWNFhoQ19aNHJKZGQxNlU?oc=5",
       "publishedAt": "2026-10-08T01:34:16.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -467,7 +531,7 @@
       "source": "hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNE1wY0VVUEctb29aQm42N3d2TGxSRHRndWFuXzlxVVJ2aWtrX1FRSnI4WlJSYm9ZMFl1eURkblpfUXA5T1g2TDZyS01tRWl2Slg1WEN5ZFZPMjFmVXpkcl84cFVYcjZVTHMzRTdmYTh4TFdsQlY0cmp0ZUVpd1dkNnlfVXBZQkNjem1B?oc=5",
       "publishedAt": "2026-10-08T01:15:20.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -489,39 +553,12 @@
       }
     },
     {
-      "id": "48040a624baf3de8",
-      "title": "현대차 넥쏘, 일본 수소전기차 시장 점유율 11%…택시 공략",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oVnRnVzZRbi1vaEZPTXRremkzUHdIVDRYdnVnRVpWajZJcHRYRkxrdDlaUUFhVUlBWGdSeExjVnRaVEVyWkxSWEJwYTRkckhQQ0NsMnBB?oc=5",
-      "publishedAt": "2026-10-08T01:08:05.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 넥쏘, 일본 수소전기차 시장 점유율 11%…택시 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2dd96c73a1b3dc0a",
+      "id": "691911332d1bb1d3",
       "title": "현대차 판매 16년 만에 최저…신차로 반등 노려",
       "source": "KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRTJVcVhFajN4azctZXR3VkRkNl9ZN0ZJQTJ5clU3RE1QSlU5M3lxeUtJdVpnanV2d1ZzVzlQN2xQRWRmMU1xLXdCR2l6STJDVHZURE8zNW5ESW9ZNEJReFkxalJEQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcTVpcGxELTdBRmQ5TlV2WEl6dEJrclRtU0tlS3RERW9Dbm50LU9qdFBXeVJTVkhWVFJrN0RvbEp4SENjX2gxSmVPeWNVU3pHcGlFRzFiZXEzWkk?oc=5",
       "publishedAt": "2026-10-07T22:39:00.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
+      "collectedAt": "2026-10-12T01:55:23.111Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -541,33 +578,6 @@
         "positiveTerms": [
           "반등"
         ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bc99f630b8af5567",
-      "title": "[단독] 현대차그룹, 이달 남양서 '미래차 10년' 비전 발표",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdGtvbFRoOGFKWHBHeXhPeUxsQ3FxbGlUTnRRQjdHR0xnYzR5UXAtOTd0Q3lEdjR2R1hCaEJ5bjNEWkNZbXFieTBkQlNabFE0Z0dhejRxOVY3UQ?oc=5",
-      "publishedAt": "2026-10-07T09:43:34.000Z",
-      "collectedAt": "2026-10-11T16:27:52.573Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "[단독] 현대차그룹, 이달 남양서 '미래차 10년' 비전 발표 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
         "negativeTerms": []
       }
     }
