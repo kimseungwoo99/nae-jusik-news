@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:00:50.267Z",
+  "generatedAt": "2026-10-12T20:03:32.912Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "AI가 분석해주는 서밋 테라퓨틱스 (SMMT) 상승확률은?",
+    "힘스앤허즈, 급락 전 주가를 되찾았습니다",
     "네이버지도, AI 안경 연동 길안내 서비스 개시",
-    "네이버지도, 이젠 안경 쓰고 길 찾는다…AI 글래스 연동"
+    "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손"
   ],
   "articles": [
     {
-      "id": "8f7d211bca4ee2fc",
-      "title": "AI가 분석해주는 서밋 테라퓨틱스 (SMMT) 상승확률은?",
+      "id": "fea573611678ef83",
+      "title": "힘스앤허즈, 급락 전 주가를 되찾았습니다",
       "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzNQbUFtZlRFOHZPN2kyNzVDVlFVVUcyb211eTQ2Qk1EeXhhR0NERUI1TWxvMHFrNFBIR0tmcGNOeG13LWtSSHZKeGJKTVp3NkVWWWl2eVUyT1NjY1ltazAxWjU5dEtYN2NOSFF3ZE4zcHZTQllyS0xPRFV1UmdEUC1odklUdw?oc=5",
-      "publishedAt": "2026-10-12T08:10:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXJwZGNSNHVJVTExX2FaNmJ5RWpCbGVERTg0Y1JQblQ4MDhWZml2anl1aDNKVDJSVUxPaWFQa205SllBTHB6bE9hQzZYeVQxUUZoRldaWW8tLWpHN3JPN1BkM3c0V3lTLWZXRXNJZjQ1X0xSdml5Zl9yZ0VIbDQ5Vm5xM0RwdldreHo2Vw?oc=5",
+      "publishedAt": "2026-10-12T06:24:00.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -31,14 +31,16 @@
           "ticker": "035420"
         }
       ],
-      "summary": "AI가 분석해주는 서밋 테라퓨틱스 (SMMT) 상승확률은? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "힘스앤허즈, 급락 전 주가를 되찾았습니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
         "positiveTerms": [],
-        "negativeTerms": []
+        "negativeTerms": [
+          "급락"
+        ]
       }
     },
     {
@@ -47,7 +49,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lME04X05kVkYtWlJwczlfUktwVEk5QjJKUXZYeWJNMlA0NENSMjM5VWl6MHVNOHNrNTNBZ1E3SzRydE9yS3R5RF9KaEl4TE1zRHVIVWdCVDViRXVBNkRjVVBER2wyMjhrb2c?oc=5",
       "publishedAt": "2026-10-12T06:00:35.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -69,12 +71,39 @@
       }
     },
     {
+      "id": "1c6f7f5f06569914",
+      "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxcHpISW8wRDlpRG96NzZPTGNtdllieGJ3V1NweHY4RnRHUV9YaWdTYmc1NkFHVkNvb18wWFZHc2FzN0ttYjFZcFlhallyU0JTeEEyN3pR?oc=5",
+      "publishedAt": "2026-10-12T04:19:43.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b7ce3ebe3cd4b436",
       "title": "네이버지도, 이젠 안경 쓰고 길 찾는다…AI 글래스 연동",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzclBWR2tRSWMxbUQ0SmFMNVVPa3EwbFdRZVdwTkVRSDJadzZmYnlOdW1oTml3ZlNOLWR2Ml9EaFdveW15OWF2OWJHVFBUN0xXelpXSlpGR05vYkg5WVV0cFZjZjR2Z28?oc=5",
       "publishedAt": "2026-10-12T02:03:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -96,12 +125,12 @@
       }
     },
     {
-      "id": "d74b85a95e672e65",
-      "title": "네이버클라우드, 베트남 기업과 맞손…아태지역 AI 공략",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRDJBX1dTdTBNOXJWUU9nLURpanMwc0Z1MVBIUGZXLWV4dTJXY3pLUHNiWTFrZDdIeVVFdjNOcWtYSzVCNEk2VmUwUDYtS292R1dqMUZTTGNuLW5UMWtzMkNJZ25Mek5zUkE?oc=5",
-      "publishedAt": "2026-10-12T01:57:03.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "id": "374ce0819a0b128f",
+      "title": "[뉴욕 주간 프리뷰] 월가 대형 은행 '실적 시즌' 개막…9월 CPI 촉각",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ODNWcHpFaHNOUTg0OFdYdFZCZmJNX1dydTNNR1BkelhfTGo4ZF9fNEJJZnAwQzJFT2FGUEZCdXF4dlVyQWJpNFVMbHpIWU44NGpZeXdqRm1LTk43SXZoOUk3ZUxvaDUwNXpNc1JDNjhPeExkdS1GLVhnbw?oc=5",
+      "publishedAt": "2026-10-12T01:41:00.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -112,8 +141,8 @@
           "ticker": "035420"
         }
       ],
-      "summary": "네이버클라우드, 베트남 기업과 맞손…아태지역 AI 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "[뉴욕 주간 프리뷰] 월가 대형 은행 '실적 시즌' 개막…9월 CPI 촉각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -128,7 +157,7 @@
       "source": "천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mY2FEQlZRbm1VdlhCT0owZk9VZjZCY3k3amozTm1oUXpPYzZMSVBGMUstenltVGFFdjFlNkM4a0tzZ2NtQXhrY2MtNmhaN2RZRmlJeTU3VDBSZER1NHZ2ckpGQzNNcnMxWkE?oc=5",
       "publishedAt": "2026-10-12T01:18:46.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -155,7 +184,7 @@
       "source": "톱스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Mb3V2RWI0TEdiejJlTXozQVk5eTZzaHZDMDlHNGw2ZmRMQWhDTEo2ZFZZOHBvNEJ6cFc3dnlNRGoxajNjUEZRM1doQmlhWEV0QmdlM2VOR25wd09FSWV5amQxeEw4WEhlR00yT3diNVhjUQ?oc=5",
       "publishedAt": "2026-10-12T01:15:23.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -182,7 +211,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nNVhKZDlJTVFkVjNvVmFRMWowNHBjQ1h0Z053UVF6NzA1ZjNTM0dQSDliM3pfSUZnUWoxazVfakoyVWhMcy1NUnpGWnlTaGZ2dmZRTWpOSzBXQk16RXpmZE1WWUhKQm8?oc=5",
       "publishedAt": "2026-10-12T01:10:43.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -209,7 +238,7 @@
       "source": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GWnotMGZsM00zUGRCVXQ5aWxtOWRvRjVYdzFxUWtsamlEaU9VNnBQLXBWTXJpMVFyNjZpenBJVHRoUGUyc2M4ekg1SXhZdUx3TFpheTZ0OU1FTUxtSnBvdmhzM3d4M2JrM2ptV3daYnFLVEk?oc=5",
       "publishedAt": "2026-10-12T01:10:41.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -231,12 +260,12 @@
       }
     },
     {
-      "id": "7abecb186d0447b2",
-      "title": "삼성·메타 AI 글래스에 네이버지도 뜬다",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lV3ptRzFsZGZ0MndrUEFyMHFhLW1CekxHY1hfajlNX01mRjJaWnhLU0o5U0RjZ2JLeFBZTXJmMG9ZYU41amJZQVc4OGRMV0F6bGJfUlN0OVl5aWpo?oc=5",
-      "publishedAt": "2026-10-12T00:28:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "id": "f8b422b73cf39141",
+      "title": "\"폰 안보고 길 찾는다\"…네이버지도, 구글·삼성·메타 AI 글래스 탑재 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUkNCVDBGR0RuTU9CRXkteEtnNWtLaHpSQTk1TjVFSVRJM0stU1ZZZG5VOU5RQWh5OFFVQzV3WndjNjlGSWZ6TlBWTERZSDNodldDdlVhRlBNM2JwQ0JycjlRSmRHbktEaGhjR9IBbEFVX3lxTE1WUkNCVDBGR0RuTU9CRXkteEtnNWtLaHpSQTk1TjVFSVRJM0stU1ZZZG5VOU5RQWh5OFFVQzV3WndjNjlGSWZ6TlBWTERZSDNodldDdlVhRlBNM2JwQ0JycjlRSmRHbktEaGhjRw?oc=5",
+      "publishedAt": "2026-10-12T00:38:35.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -247,7 +276,7 @@
           "ticker": "035420"
         }
       ],
-      "summary": "삼성·메타 AI 글래스에 네이버지도 뜬다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "\"폰 안보고 길 찾는다\"…네이버지도, 구글·삼성·메타 AI 글래스 탑재 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -263,7 +292,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm9EcktLQ1Y5WU40cHNlMU5SUl9wWDNydm1jVEZndmhBcUMycGdlUUd0R1MxUFlOQTVoeTJDTGhoTEVZUm5MWElHSkpWaXprYkdJQTl0eGpEZGpfVFVIXzZmNWZTdmhIQndrQlZyWW9nLUlKOWR5d0Y5WDFMQ2lDZW80T3VNU2VYOGxj?oc=5",
       "publishedAt": "2026-10-11T23:01:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -290,7 +319,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wbTdDTVR4N21rbmc2M0pjM2IxOGh6QlN4ZkdsVFhmQlFSZkttVEhaSGFGSGlJZ25kQkMtYXdoNzB5azkxek1jZGJUQ0JXdw?oc=5",
       "publishedAt": "2026-10-11T21:00:26.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -317,7 +346,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXpGSTY0NExSODU4bUNSMDVSeXZvWS1ON3ozQUFxSXc1b0xCdEtfWXlYaE41eDlFNUw5endvblFYbjdDNDRwUVV4X01sVjlQS3BJZHVEdG00TUV6SXpxUXNlQ1JBSWs5ZEFubkJVQVg3c2hWT1FaclBzUXhrZThjbg?oc=5",
       "publishedAt": "2026-10-11T21:00:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -344,7 +373,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ob1pQdDMxOHhvOGR1UzEwSElGeVU4WWRZcTgtRVFTR2xFNlZtMkotM1pFSHZjODJKQ0w5bVp2dFdBaHJyU2tkRTFoTEV1MHNxZFAxVEhXNzd0WFdtVjE3WGxWS05xVEVTUnFHY05IYVJQbE1sUzhEONIBeEFVX3lxTE9Ob1pQdDMxOHhvOGR1UzEwSElGeVU4WWRZcTgtRVFTR2xFNlZtMkotM1pFSHZjODJKQ0w5bVp2dFdBaHJyU2tkRTFoTEV1MHNxZFAxVEhXNzd0WFdtVjE3WGxWS05xVEVTUnFHY05IYVJQbE1sUzhEOA?oc=5",
       "publishedAt": "2026-10-11T02:41:18.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -366,39 +395,12 @@
       }
     },
     {
-      "id": "23fa2b7093df8099",
-      "title": "[미국바이오] Celcuity(CELC): FDA 허가와 유통 개시, 이제는 처방 데이터로 숫자를 증명할 차례",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLWIzZzc4WlFtTlA1X2lfMVBJeTZpS29aTWF6VllUcWRCSnh4QTdmSVIxZzZ3Z0dzamhVLUpoX3UzQWdtQjFEN1FvUkZKMjE0bVdCLVQtaHljN1lFR2UzS2lIcDN1YkwwVHVhT1hma1ZVeU9PY0VUQS1BMmdISWFiNg?oc=5",
-      "publishedAt": "2026-10-11T01:00:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "[미국바이오] Celcuity(CELC): FDA 허가와 유통 개시, 이제는 처방 데이터로 숫자를 증명할 차례 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ce9a53addeb243f5",
       "title": "네이버, 3분기 영업익 15%↓ 전망…AI·커머스 투자에 수익성 둔화",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZGdtVU5uR0pNcDk4dTU2WHAxemI3UVppX1NFRFdSZFpXNHRMdUxUa3Y1dmtXY1VmNm5OdUI2YXlDSGU3aWFFM18zZ1ZLVlFuckpXZ1NjQUZzNHlsZjRSdk5BRlZteDB4eFE0V1NCamE?oc=5",
       "publishedAt": "2026-10-10T23:00:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -425,7 +427,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wazBwVU9Pd2c1b1dXOXhwR2VBbkk3OXhzdmh6MzN0MmFDQkpfWHJ6bFptZFNyS0diOFY3dWZBMi0xNXMyTEw0RHktTFRWZ2xyVkRHYVFSVkNlMEkyTVdZUHN1SQ?oc=5",
       "publishedAt": "2026-10-10T17:49:35.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -452,7 +454,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1Q2l3RnczSUU2UmxuOTZFWWlENXRtdkY4Z09aYVBjaU9Fc0pLdVZzbVRpNUg5N2tCcFpleFFUM2pCbFllSzNnc0NSUTJhRE04QjhROG5udHZjTmo4SldsalJGY2FzUTY4?oc=5",
       "publishedAt": "2026-10-10T12:36:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -479,7 +481,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0xUY09hSHR2TWJEcTVuQXlHZzhUbGJRX1g5cnEzZFJNUEJndkgyaUZCSmx0VEwyNlBRYjR5dVBqLTZaSldycW9tTXpaMmlSS1JCZlF2SXJmVnNBTGl2b3hTMWplLU14dTZhTmRiOUVkWVdRbGZKeklmZlpiT3lCeGNvSTFkdU5teGVJ?oc=5",
       "publishedAt": "2026-10-10T09:42:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -506,7 +508,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFhkLU9URDUzdE9keW1mQ2V3NWxydFo1REZvbmNQMjEwTHZuRXlxLXRrbXlTLV9HXzZNdzlyUnlfTUVnMUF0UFZRaXh5Qm1FY05HRGVRaHdxWHQ4Z2xsTWIzNFlqYWEtWVkzVzJDbUQ3TDFCVlRDNTM4U0RSTDFlX3JVbUxpTXllMmhnRHJtMA?oc=5",
       "publishedAt": "2026-10-10T04:34:05.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -533,7 +535,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2ozZVZGRWlwQXNOa2FxOGpjaXI2Wjc1TGkzVy11azctakMtS2JVYVpQMko3aVY1RFFSTzBnSHlNWmVYd0c0eEt4Qm0yVjhWZ3k5TzJrR21LWldxZW11dlZEeDd3Wll0SU11WF9qWjNxdmkzNjlkbDFweDYydnU3RDRfSQ?oc=5",
       "publishedAt": "2026-10-10T02:35:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:00:50.267Z",
+  "generatedAt": "2026-10-12T20:03:32.912Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "[단독] SKT, AI 챗봇 1위 ‘제타’ 지분 판다",
-    "SK텔레콤, 해외 5GW AIDC 추가 확보 나선다…아시아 AI 인프라 허브로",
-    "SK텔레콤, 성수서 지역 박물관 잇는 ‘K-보물길’ 만든다"
+    "SK텔레콤, T 팩토리 성수에서 'K-보물길' 선보인다",
+    "SK텔레콤, 해외 5GW AIDC 추가 확보 나선다…아시아 AI 인프라 허브로"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrYk8wUG5mV19TRHpJRVgyYTdMM1pRb3k0WXhHTHVGTUItUEQxTWtUSE5aYkVGVDZBQ25BWW9ySVpCOFZtVEFwUmRaUDlxQkFuLXfSAVNBVV95cUxQWWd2eVdacXpkVlNiRzVuakJuQk1HMUkwRjJEVG53NjRlYU1TOWppX0k1WVVOemkzRjVObkVQcFRjSnhBNmpkT0RVUnI0bWNvaWpQbw?oc=5",
       "publishedAt": "2026-10-12T08:31:37.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "46c46a0856324f33",
+      "title": "SK텔레콤, T 팩토리 성수에서 'K-보물길' 선보인다",
+      "source": "데일리인베스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45T0JxWHZSWDJUem5RVlBxZXdIcjNRYy1LMmRZcUJaOTRNOThpRlVoY2dSOWtwaHlIVE1hNGFwaGJkZUpwbklPY1RDQ1NxenVyaGk1bm1USEtaUkptR2RvdDd5d2RaSEpjUEtXWWQxc9IBb0FVX3lxTE45T0JxWHZSWDJUem5RVlBxZXdIcjNRYy1LMmRZcUJaOTRNOThpRlVoY2dSOWtwaHlIVE1hNGFwaGJkZUpwbklPY1RDQ1NxenVyaGk1bm1USEtaUkptR2RvdDd5d2RaSEpjUEtXWWQxcw?oc=5",
+      "publishedAt": "2026-10-12T07:54:35.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, T 팩토리 성수에서 'K-보물길' 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "4416f7fc85042967",
       "title": "SK텔레콤, 해외 5GW AIDC 추가 확보 나선다…아시아 AI 인프라 허브로",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzREVLaUFvcnVOaUhHcHJQYVk0LXFmY1RoLVpHWkNlOXpBcy15Tkxocl93SWc0TTlIN1NHSWxPR09hcXJiQ3hUMDJwZ2REUQ?oc=5",
       "publishedAt": "2026-10-12T07:30:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -74,7 +101,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwYmdXcU5kNmtBNkN3bEx3TVNyNmRCV0dpVVFOWnpFNEh2S091dF82bGgwV0theGk5eTkxaFo5YXN2cnlibGhVbzU5MFFFaU44ZExFOEc2VGZnc0pqTnY0UUZjUlVXOWdMZlIycmIxVDRuU1lCZzNB0gF3QVVfeXFMUDBiZ1dxTmQ2a0E2Q3dsTHdNU3I2ZEJXR2lVUU5aekU0SHZLT3V0XzZsaDBXS2F4aTl5OTFoWjlhc3ZyeWJsaFVvNTkwUUVpTjhkTEU4RzZUZmdzSmpOdjRRRmNSVVc5Z0xmUjJyYjFUNG5TWUJnM0E?oc=5",
       "publishedAt": "2026-10-12T05:10:39.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -101,7 +128,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TmRTckg2UE9hTGdBWURUSWNfTFFzb0pTX1RuZm9ja1l6SHQtSHNqbmhQeW1pZWY3OHo5eWhFZ2gxLVQ4Ry1FVTYySkZybW43SFhicEZTS0dyWldQVklzNmxwQzA?oc=5",
       "publishedAt": "2026-10-12T04:59:55.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -128,12 +155,12 @@
       }
     },
     {
-      "id": "e73ba62501bd6347",
-      "title": "머스크發 통신 경쟁 우려…SK텔레콤 장 초반 6% 하락[핫종목]",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wSm5FRmR0VXRtZlZXT1hqaXVLUzdYTnJpcXMxYUxaRFFYN0lnSDl1cDJ3THpGZnY4Unk0alNjWjg2eFJISlVVN2p5NFhUdGcwOE1WSnY0RXlfYllqTEhN?oc=5",
-      "publishedAt": "2026-10-12T01:01:25.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "id": "68d3630e1a1c2190",
+      "title": "SK텔레콤, 성수동 ‘K-보물길’ 프로젝트",
+      "source": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqLVhEYWY3ajhzMzBwX09jWjNlQno2STlHZjRraUJaUFQ5MTJhR0d6T09ZeGctak13VGgtWEE4bUc2ckN5NURPdjhKaVhHWjVUN1I3Y0h3?oc=5",
+      "publishedAt": "2026-10-12T02:25:55.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -144,16 +171,14 @@
           "ticker": "017670"
         }
       ],
-      "summary": "머스크發 통신 경쟁 우려…SK텔레콤 장 초반 6% 하락[핫종목] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SK텔레콤, 성수동 ‘K-보물길’ 프로젝트 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "negative",
-        "score": -0.3,
-        "confidence": 0.63,
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": [
-          "우려"
-        ]
+        "negativeTerms": []
       }
     },
     {
@@ -162,7 +187,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kQkNfQkFYemRCazV6emRia0N6NGt2VXZTQXdOZUZoaDVsQUVMSUhWazFlbTFNN2lDNE1oUldERmdSWVllUFN5QkR3VEFkQ0NWUDlzU3pkUUhCek41LTNDbkVMaUlPN28?oc=5",
       "publishedAt": "2026-10-12T00:27:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -189,7 +214,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2YXFwTUxhUjB4M1FyZTRYaHNjOE8wTUN2VlNZUTIxZklkbzY0M25xNVJpd2ZCX3lwUjhFaEhQTFBoSE0tRmV1bm5DT0ZYWUlTYlFpN1d6MktYUQ?oc=5",
       "publishedAt": "2026-10-11T07:29:04.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -216,7 +241,7 @@
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHhjb3ZhaGw5dTNUWDF0cHN0R2dSS1JJU21ZWWZTQ0xONTFUdXJVaDlUcEFIbjVOVm1mVkFYQ0s3cjRyOHdPeHAxSmZTR2w2cTJEMUZkTHpMLUktVUlCa2xsYklqbm1IYkhkX2JDYk40OEhsdVJOLVBWSlE3Y2VaVzJaZDBjTTVGR0tnbjgxUTBuLWw0N1EzZ1ZpRmpMTnNCeDlhcF9JNU9zbVJicmJKWEpJVHV1cVUtTzNtRGx3?oc=5",
       "publishedAt": "2026-10-10T20:51:56.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -238,39 +263,12 @@
       }
     },
     {
-      "id": "625995e5effd9a52",
-      "title": "100년전 한글이 AI 만나 ‘말모이체’로 탄생...SKT, 한글날 100주년 캠페인",
-      "source": "JTBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VQ3hXSk1OcURKcl94Y3F5QUFaeF96UExaYTJ4V3E2UjJtZVlRRkxkNmpnd3NEaUxuX1ZEVGNleFlXMWNEQUxOSm9SalpZYklqc1J4ag?oc=5",
-      "publishedAt": "2026-10-09T08:11:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "100년전 한글이 AI 만나 ‘말모이체’로 탄생...SKT, 한글날 100주년 캠페인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "117e1fad2e0fd9d5",
       "title": "SK텔레콤, 통신·AI 하나로 묶는 '성장 기어 전략' 발표…\"토큰 경제 관문 선점\"",
       "source": "테크수다",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmpxVTJQVEhDWFF6N182SUJyXzhEZEdFZUxibXJ0WWZGVlcxRm95R19xWWJ2bnFIU1lOUkl5aW1Jc0dYY3dvQndESXRRRlp5MVpfLWFpcVVDeEZ4aUxCWG5wZDlxcm4ycUtXaS1WS0JESnNXdVB3VkNQaE1uNWZhQUpIdEg5SGPSAYwBQVVfeXFMTnJaUjgwNG9SSUFtNEMzbEUtOENVZTZxOW1Nd3ZZNXdIWUN0TWhRc1NNRXcwV2RhYWZwSEN3MUtObWFoQjJSdkphcGZzMF82U19qRnFVVl9DM3JQSENLTDN6ZmpMTmpCVlZOV1ZzenI3djkwRmlvcWlHQlBJb1FxSzAtSW9yTmx1eUs2X2Y?oc=5",
       "publishedAt": "2026-10-08T15:23:18.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -297,7 +295,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZMklfeXR2bFBGSFptaDJxN2lmcmliTTVKcEpyQmZZOWxEcGhYNjNCSzYyTjdUXzFFSlBEWDQ2RDRJa2xielNOeWo1eHo4QQ?oc=5",
       "publishedAt": "2026-10-08T08:19:30.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -319,39 +317,12 @@
       }
     },
     {
-      "id": "40b1232e73dc4fcd",
-      "title": "정재헌 SK텔레콤 'AI 토큰경제' 신성장 전략 발표, AI모델·인프라 연결 '토큰 게이트웨이' 신사업 추진",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56R3g1NnotRFI2Y0JETjg0STNBdnlndjFCY2VrSUo5TVlzdXdHaUcyMy1SRTAyQmI4S1puRXpkVEpTSG55Y1BSWGhlNnRMWXFLejNXOVhMV0tTUFhxbjlUUGhhRVVDSFg4T0NPQlhWY2RqQ28?oc=5",
-      "publishedAt": "2026-10-08T08:12:04.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "정재헌 SK텔레콤 'AI 토큰경제' 신성장 전략 발표, AI모델·인프라 연결 '토큰 게이트웨이' 신사업 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5e6bf03444327944",
       "title": "SKT, ‘AI 토큰 관제센터’ 신사업으로 추진… 정재헌 “토큰 경제 선점” - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSENnYlBuM2ZDTlRFNkhYelI0WjVaSDBFbDhnUnFaaGRQQWpaMkhiVU40Vllma0VSSkhWa29jR0pPbzdRZ1FSZ2RKS2I1QjJyenZzOV9FMi16YkU1MExXcWdGVDhWclU2TTMyTHQwTVp2NG5Fa25yNHdrc1NBN0FXQ1lB0gGWAUFVX3lxTE9yVjBKQTg1ZDhXYjBBVHVNSVd5ZWZNT0dPMDJIb1ZhR0I0NnpPbzI1Z3FmLW1HdWJKRHc1LWduSHFyajJfaGdlRjVsOHN6Y2dxWEF1a2RnQ0xmWElLTGhzY0hJZGwxOHlLakx0bllaYzVXSElaNm53VFIwN253NVlLdVNGZHkweXVFYWNEX0sya0RoaHg2dw?oc=5",
       "publishedAt": "2026-10-08T08:02:00.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -378,7 +349,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5na29NdldtTzNQei00RUROel93blNoRU1rOWJpU09vTklFUDU3MmRnV3kxODYxNUhNZWhLa2FNbmJzMmJNVzFRZ21renkyY181QU01T21WeHBTeHNtSjRabHkzVldjdnpyRWc?oc=5",
       "publishedAt": "2026-10-08T06:29:10.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -405,7 +376,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13TU9jUnFYa2VYbFhXelc0LWNMUEx1MzZDemxIUDF5a1JWUG1qWmVoWXdwM2lneUZiUzUyN1VfT3d6V1gxUUFFd2VLR2tBQQ?oc=5",
       "publishedAt": "2026-10-08T01:03:16.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -432,7 +403,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVnV6S21ZbC1ScDVfZ0p3NDhuWkc4anBSNWhERXQwQVBVVjdlX3NTaWJ5WGJqTXJFUnN1X2I0T3FXcDdheGUybmZaeHBWd3M4UHlUdG8zTGotUEtRNUMtVkwzQ3lrcWPSAWxBVV95cUxOemtQWFp3cXBIdTNvaHl0YlFaZWlCM2JxX1pHSUFCbW1TNUhSLXdiOWczZURPWUk5Rkh3bUhXQVM2TzRaeXI1by1lNWt6bzJ2X3lyWHNCbXB3amEwNVlDdjY2bVl6NmlQTVB5ZS0?oc=5",
       "publishedAt": "2026-10-08T00:49:10.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -459,7 +430,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45cmJJaXdKYmNxdjhaZjMxM0pDR25peTJMX2R3cjMzbjNaTWEtWmFHTDlVYzQzZkQ4QnJjS1BfTU51WnhiYUJBaXRweXBaMGFENHM0dGk5eWs4bUczTXJOSE1oaGRVakVoeGFBaGs5V2E?oc=5",
       "publishedAt": "2026-10-08T00:15:50.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -486,7 +457,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZU5YMGhSdWJhdE5vWGdtYk43R2NPcnJUWGE2QzJ1WUg1N3FjSlZuYmdudUhwaWZzUEpLWERjd2N5S1NsNTRVZ1hUNENldFpWWEtGdjAtWGpFOGd1c3F4cWlCbWNTbU0?oc=5",
       "publishedAt": "2026-10-07T23:52:21.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -513,7 +484,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuQlV0Vm1QMjJHZm1nVkcxX0ZUbVVsRGpjXzhzYkFJaXFyUmNNdXBxSnJGZUJ1V05nM1hldUpGYTJVTkVjbEo3MVljSGpvejJScE13QU0wYmZyQlE1U0VmUzU0TlE?oc=5",
       "publishedAt": "2026-10-07T04:36:22.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -540,7 +511,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jMjRDWjJaZXU1OVVoREotTHZ3TWZiT01KQ2V5WTVfVzF0OTA0VnVYTFo1Z3ZjalowOGdxekQ1cl9xLWI4NEtQS2tNdm4tdkdfUXNOM3EtWjlTZXFRcjdLag?oc=5",
       "publishedAt": "2026-10-07T04:07:05.000Z",
-      "collectedAt": "2026-10-12T10:00:50.267Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -552,6 +523,33 @@
         }
       ],
       "summary": "AI가 되살린 우리말…SK텔레콤, '말모이체' 글꼴 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "bc5c82864a6165f9",
+      "title": "[테크스냅] SKT, AI로 꼽은 '순우리말 100선' 공개",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMmZEU0Uxa1RxUFlaTEFtRXd6ZjhYQjg4NkdNRjlIMFFzR3U0WDd4R0lTWkJNdUJkQ0swZllVYmFGaEhZdHpvM3J4ZnFYb1RrVEY1VC04d054dzTSAWBBVV95cUxPSjc1cjk3ODlqdVhuNlNFQlNHcFJyQ2JKVjg0UlBESHNuMEtDMTAzTDRpdEs2emxHbHgyQ3BrdmNKMEQxcjZQWDl4N0JxaHdCX2JtazN2dEw0QlNwbzZ3NXE?oc=5",
+      "publishedAt": "2026-10-07T00:30:17.000Z",
+      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[테크스냅] SKT, AI로 꼽은 '순우리말 100선' 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
