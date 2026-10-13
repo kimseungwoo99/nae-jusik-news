@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T03:17:14.310Z",
+  "generatedAt": "2026-10-13T14:42:02.316Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,191 @@
     "name": "두산에너빌리티",
     "ticker": "034020"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "‘폴란드 원전’ 철수했던 韓… 웨스팅하우스 타고 재진입 노린다",
-    "두산의 'AI 종합기업' 변신…데이터센터로 에너지 공급망 넓힌다",
-    "'가스복합 3.9조 수주' 두산에너빌리티, 네팔·美 원전 숙제 안고 3분기 맞는다"
+    "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론",
+    "[경영의학] 두산에너빌리티, 3조6000억 긴급수혈 위기에서 신용등급 A- 회복… 탈원전…",
+    "국립창원대 \"원전 제조도시 창원에서 'SMR 시대'를 준비하다\""
   ],
   "articles": [
+    {
+      "id": "6028dd836f6c9ffd",
+      "title": "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론",
+      "source": "이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45MWI3MmxnSWFnRmdHZWE1cHQ3a1g0UnNhWEZqOFhBMjBjeE5nczhvUFdMc0pPSnlaQU9GRlNvVVdYNmMteVd4WkplSGpCOU85V0JaM3RGRmQ1OHphb3ptUmxBSWdFSkI2UThSWWoxd0_SAXRBVV95cUxNbWNOOVZFYzNKa3pVOE9VWW40Q0t4TVFQQWt6U3ItUUlDa1FNQ1F2c0h2QzVaaWtDVnJ6eElrNGNnR3BTcG1oclBqZ0Ria1ZwdS0wcVNyR1VDQ3BwN1k5T214NEE2U21sak9ualFnNlNzdnZhWg?oc=5",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        },
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1db51f19da166e97",
+      "title": "[경영의학] 두산에너빌리티, 3조6000억 긴급수혈 위기에서 신용등급 A- 회복… 탈원전 그늘 벗고 SMR 집중이 처방",
+      "source": "CEO경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2aWpYNTVxdmVWenkwaGk3WU9uUHMzQXJ3NHpvbTh5TnNFNXJvUktENmJqRDVKb1pHWlJYRWRzdUh3b044V2syMmtscmlvS1JMX3hOS1dESUo3S2JuamRkMzdNNDdfZm00UmZaZA?oc=5",
+      "publishedAt": "2026-10-13T07:27:44.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "[경영의학] 두산에너빌리티, 3조6000억 긴급수혈 위기에서 신용등급 A- 회복… 탈원전 그늘 벗고 SMR 집중이 처방 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "cbaef2d755d62eca",
+      "title": "국립창원대 \"원전 제조도시 창원에서 'SMR 시대'를 준비하다\"",
+      "source": "베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMlNuSFlOQ3VsSkVxVTNQLWZMRndIOW9xbjY1Q3NJVlpFN3FiY1Q3dEp2MlExdzN4Y3JsWkMyRlRqMlZCZ3BIRmk3d2otaEN5bHd5NV9HX3o5Ul94SDh2ckZDblh4NjBDU042aQ?oc=5",
+      "publishedAt": "2026-10-13T07:06:35.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "국립창원대 \"원전 제조도시 창원에서 'SMR 시대'를 준비하다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "adb196f8a2c39b8b",
+      "title": "(수요광장)내일의 원자력, 오늘부터 규제를 준비해야 한다",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSDBDejZWVDVmNFJhQ1owTjBQMTRkYnhXXzBFUjBKUU5jUGhxbEFfYXRMMGlnRVMyMTVXREJwemgtcnhNMGotMjJjSGxQZWhnUWVUNEVOTGp0c0tWSDlqaFFoZ2kxNlVibDRMbmhIRTHSAXBBVV95cUxPUEgwQ3o2VlQ1ZjRSYUNaME4wUDE0ZGJ4V18wRVIwSlFOY1BocWxBX2F0TDBpZ0VTMjE1V0RCcHpoLXJ4TTBqLTIyY0hsUGVoZ1FlVDRFTkxqdHNLVkg5amhRaGdpMTZVYmw0TG5oSEUx?oc=5",
+      "publishedAt": "2026-10-13T00:29:13.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "(수요광장)내일의 원자력, 오늘부터 규제를 준비해야 한다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "04884eab85596aab",
+      "title": "[오늘의 주목주] 'AI 투심 위축' 두산에너빌리티 주가 8%대 내려, 코스피 '외국인 2조 매도'에 6380선 하락 마감",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PNkdLb0ZGMXh2TnJVZEpIVmRGbkdpR0xybXhYYzl6OE8xMmhHZjdEYnJKZ3JFVldIY3BfREQtOUF6dFFfbFJMTUZ4bWRYb3VjRFNzTVVFYkdIMVlVQWNjaTlpamxJZExnU0t2ZHdqS25Ldzg?oc=5",
+      "publishedAt": "2026-10-12T07:55:07.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "[오늘의 주목주] 'AI 투심 위축' 두산에너빌리티 주가 8%대 내려, 코스피 '외국인 2조 매도'에 6380선 하락 마감 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "약세"
+        ]
+      }
+    },
+    {
+      "id": "395a8734e2a97a63",
+      "title": "현대건설 일감도 늘어날까..美 원전 파트너 페르미, 텍사스 전력 인프라 11GW→17GW로 확대",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkxyeWh5M2FLbDdMVy1MaXFsbHhrNzFTby1CcnowM1pzazRGcnZuelhuWkd4X1VNajROSkNyUjg4ekhac2ZVSFlwbk9tLTR1aVQwMGROV2ZCWU5HUjAxYg?oc=5",
+      "publishedAt": "2026-10-11T23:20:43.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "현대건설 일감도 늘어날까..美 원전 파트너 페르미, 텍사스 전력 인프라 11GW→17GW로 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ed676373f5c0823b",
       "title": "‘폴란드 원전’ 철수했던 韓… 웨스팅하우스 타고 재진입 노린다",
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWlFrZ0RIVVkxeHE4OE1vN2FGdHZrNnRHRlFCdnZiUkR0MmRNMWl0ZEtwUU1ZaEFaNzRBXzN0dEozWEo4aXduMGRMYTAwbU4wOVpUcUh0VmhRSWd5bWs2RDRpdWlDRWdPbjYwUnRB?oc=5",
       "publishedAt": "2026-10-11T08:27:33.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -47,7 +218,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13eVh2dlAtaUZTRnU5endpMHd3Xy1FakwwdnBsQnpiRzBZSzlLWWtNWEhUVHNnanZYSnRla2RySlBTUmRYS0o4TW1KUEphdnAyNkpxRHYxSlY5dw?oc=5",
       "publishedAt": "2026-10-11T07:37:37.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -69,12 +240,41 @@
       }
     },
     {
+      "id": "f8ca303d7121585e",
+      "title": "원전 공기 지연 덫 피하려… 폴란드, 본계약 전 대형 기자재부터 먼저 묶었다",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckN3bkpJN0gxc1RSMVNZdTJsdXoxTUh1aE5vTHRjUWR3UEFwZkxfSy1udDFXdDlLbVNRQzZtRV9teUlOOHhpaTlTZE1iaUI1eHpibWZ1dUV0UHAxUkR1d1k5d3hBUjVCWE1VaDFxeXRrYWduNkhuTzAxcTJTbDhFWFdqdTR5cWdK?oc=5",
+      "publishedAt": "2026-10-10T03:33:32.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "원전 공기 지연 덫 피하려… 폴란드, 본계약 전 대형 기자재부터 먼저 묶었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.35,
+        "confidence": 0.66,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "지연·실패"
+        ]
+      }
+    },
+    {
       "id": "7e205d5143ac24cc",
       "title": "'가스복합 3.9조 수주' 두산에너빌리티, 네팔·美 원전 숙제 안고 3분기 맞는다",
       "source": "스마트투데이",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zbXhheTgzdk4wV0ZSZTlUSUVOb0JVQUdFdjVrLVQwVVVHdVNRUl9vN1E4ZjBmXzNzOVVIOExNSUh5akRqenN0ck5FbUNpU2YyaG9qZG9pVFMzRkxoY0c0?oc=5",
       "publishedAt": "2026-10-08T22:00:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -98,39 +298,12 @@
       }
     },
     {
-      "id": "4140e52077a31ed6",
-      "title": "여러 숫자 중 무엇부터 읽을지 알려주는 홀덤 프로텍션",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSjNHc2JXVHVIQ3QxOFlHMFNzbFowZkprcTdBaGE0YThhNjVPVkNFckJLTnhjZkdaWUo1UEl3QTd3MFA3REl4bG9ZZVR5MGpVNGVVdS1td2Rsc2Q4YUgwcURTeHJ0RlpGYjJ1N2JR?oc=5",
-      "publishedAt": "2026-10-08T10:06:50.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "여러 숫자 중 무엇부터 읽을지 알려주는 홀덤 프로텍션 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6bbfc6e8db9619ff",
       "title": "특수 라운드에만 나오는 리조트 월드 센토사 카지노 에어텔 심벌 정보",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkZXUXpBSVpGSHZ5UjNYbzNPdXVBcVhHRHA5T3dSVnpjNUJMNmZJWmdQbGgzbVRVM1dNLUlQU0NRYlZNT2hrUlJHcjdTV0Fld1A5c2Vzb2JqMUs2cVg5LTZhOUJJMVMwd0hfS25pVnh5RnVoR1psYWlnZGJIbURfaVFzN3NRbE5LVWNjclU2aktsb0ZwemZEcFpRaW16ckc5Y1BwTWVZZTlJc2NkbXNMeHl2bE85TG5EX1lrZC1RRUNrZVJ5b3pHMm1CRlVGQU95NkJZ?oc=5",
       "publishedAt": "2026-10-08T09:28:46.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -152,12 +325,12 @@
       }
     },
     {
-      "id": "e37558e5e73986b8",
-      "title": "두산에너빌리티, 美서 원전·가스터빈 '동시 수주'...기대 넘어 실적 단계로",
-      "source": "이코노미사이언스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQd0RfWHVzT3ZWcmY2anA1bFRaNDhOY0hWa19sZUJhWnhyVVBfRkhtbzF1R195Yk16OHV3WG43OWhuYW8xbl9WQTg4UGl5R0ZicFZqWjlITFpWZnlwNHdKb3FsNnVxLTZxN1V0aUZjQQ?oc=5",
-      "publishedAt": "2026-10-08T07:26:14.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "id": "cbab52343e598949",
+      "title": "두산에너빌리티 면접 후기·실무 면접 질문",
+      "source": "잡플래닛",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYVpFZEtkU256VHBHMExBeXhBS3A0UjR0cG1HTHRYX3A4R252RnBLYVNKVjlWSFBDa29VUmhHaDNXNGZ6Uk43VUNSRVhlZTZxTjNKa250V1hGdnBzTkZ4cHVJSjJEdlY2Q0VjdkVMUi1VUEg4Snltcm5uSzRGVVlXbmxhNDZFNFkwbzhwR2ozcjRRYjIweGplQ1dDX3h5SUZXb1hPVkVOQnNNcGY5TVZnMEVRUXRWN285RWFYWEdJUjR3Zjk2QUhmemdGNHVvMW5jTG8tX0xVbHFnMTY0TkpvUHJiMzh0U2x6Q1p2TG5SNFk5MFFmMnRYTkdONmh3QWdHNUNrNnVNLU1hbUN0bmotWjF1cW13elpnS2pmVnpHNnNWMzNoUldyaW1QVEdyUQ?oc=5",
+      "publishedAt": "2026-10-08T08:10:03.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -168,15 +341,13 @@
           "ticker": "034020"
         }
       ],
-      "summary": "두산에너빌리티, 美서 원전·가스터빈 '동시 수주'...기대 넘어 실적 단계로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "두산에너빌리티 면접 후기·실무 면접 질문 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -186,7 +357,7 @@
       "source": "리드경제",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UMVctX2M1MnFkeWVjSUhpbmVOMF9vVFNydmJWRGtZU0NFSHB1UjZHOFFsY2FtY2UtVzNJb1NDTFc0VkNjcGNKbU5ibVdnTFB4d0lDY2N0SWZ4cG9IM0lOR05QQ3BKS1c4VUxxUmJZQkQ?oc=5",
       "publishedAt": "2026-10-08T02:15:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -213,7 +384,7 @@
       "source": "인사이트N파워",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YQVBWTElrTXRyczBqQXZYQTNKMVEzT0VtbGhXZDFWX1RtaFR5NHJxSGJCVUt2eWFtSWwzYXNjRVU1ZDFOR3REbUJNVVN2VkE4RFM0MDZkRERqamdGX2dzZnRQOVJBZw?oc=5",
       "publishedAt": "2026-10-08T02:14:39.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -240,7 +411,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSHc0UElKa3dRU05sMDlhMXdkbXMwSWdKSy04MlJQNXdPMEJVc01UaWUzNW5NYXR1VG1IOTQ0R3N1V1ZWOE1jdU9BSnBaZzhKYjlTUzF6eFNYX2pielVCWjRDOXFnbXhM?oc=5",
       "publishedAt": "2026-10-08T00:33:41.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -262,12 +433,39 @@
       }
     },
     {
+      "id": "d1dace443b111911",
+      "title": "두산에너빌리티, ‘미국행 첫 가스터빈’ 출하",
+      "source": "발전산업신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Danp1cGVrT2p0LVU0VHgwRUVsUHl1QW1KdGZOWDFvTk9wSmtaM2tkZWVLQjI5Tl9BWHktdG5paExkbTdaeTVMXzlQTUpKUDduTTFwVjZrVmJuWXh1cGFnM25jSF9EdHlG?oc=5",
+      "publishedAt": "2026-10-07T12:32:00.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, ‘미국행 첫 가스터빈’ 출하 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b30a78e612ff6f14",
       "title": "대형원전·SMR·가스터빈 총출동…두산에너빌, 압도적 기술 선보여 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qeW0tRlg0UWFrWS1kSEdwLThEc2p0dkZJQXlFR0VsMU55ckcwaTF0MnRHdVBYLVk5YTZhREJ2M3J6TkRMM0ZpT1NMNVhmOGZiRlBkV2FWR0haNWNKVGhsaFllU2dKaTY3TXZ0VXZtUFdCVFdwdk5aa0Z30gF_QVVfeXFMT3UwT3AtN25XY0tRNTBvN0IzMklnbUhMR1QycnNMXy1VYjFZaHl6Mk9VUmR3dTNKeUFWblBHd2Z2RDBMVVM0al92MzRmVUw5OFZhdDZ0NXlZcExYRHhtTnFQNlpabU8zY25acDVwZ0NzejBSYVhDX3FDUDZaWVNfMA?oc=5",
       "publishedAt": "2026-10-07T07:30:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -289,12 +487,12 @@
       }
     },
     {
-      "id": "8043c5b9577eacba",
-      "title": "하나증권 \"AI 데이터센터 전력 확보 경쟁 재부각, 두산에너빌리티 한전기술 비에이치아이 수혜\"",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVa3MwZ09valpxUGQyanY2OWo3Q1RnbkZNZFhMQWF3Y3cybVBCVHRpZl9MTVp4ZHJaYnJlZE1RYU5JVWswVHJrd0hkVUgzSkQzWWljUzV2STZ3bE1FQW9pUW5YUktzellxWFk5REpMeTFha3c?oc=5",
-      "publishedAt": "2026-10-06T23:50:57.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "id": "ae0adf33572ac084",
+      "title": "두산에너빌리티, 대미투자 1호 '텍사스 가스발전' 확정…가스터빈 수주 문턱 넘을까",
+      "source": "마켓잉크",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JMUpDVUQ4eW9OYWtmRHlsNnlXVVl4ZzdnNUVJemJrajRLb3A2V2d2Wm50Y3AwY2Q5WW5HNThiOWthZVFHU00xSTVyNUhTSjVTZWh0aWo5ejAybUtRS3NqYVUtNFJiaDVuOEVpb29WSQ?oc=5",
+      "publishedAt": "2026-10-07T06:32:45.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -305,35 +503,8 @@
           "ticker": "034020"
         }
       ],
-      "summary": "하나증권 \"AI 데이터센터 전력 확보 경쟁 재부각, 두산에너빌리티 한전기술 비에이치아이 수혜\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f5e79c9efadd85db",
-      "title": "두산에너빌리티 수주 곳간 갈수록 빵빵해져...2028년 매출 23조 '퀀텀점프' 전망",
-      "source": "소비자가 만드는 신문",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXh2OGdlYWZGZHpzT1cteVdfVUpTam5zcEtXd0dUTkxHTjFZVUQwand5N01nc1J0LTAwOU03ZEJCcU1IaGEydk9lNDA2Mng2NVVYVEpXaktSTFhUc0dtWTNSb1p6YmdIWXlFcFdxUm82dzQ?oc=5",
-      "publishedAt": "2026-10-06T21:10:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티 수주 곳간 갈수록 빵빵해져...2028년 매출 23조 '퀀텀점프' 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "두산에너빌리티, 대미투자 1호 '텍사스 가스발전' 확정…가스터빈 수주 문턱 넘을까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "positive",
         "score": 0.38,
@@ -345,12 +516,12 @@
       }
     },
     {
-      "id": "8c22321d3f4c2755",
-      "title": "두산에너빌리티 7일 흐름 촉각…미국 APR1400 2기 추진에 원전 주기기 역할 주목",
-      "source": "CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51a0hqVVZKQXJEcXRaMmhWWkYwT1N1dDhuU1Yxa1BwZ21tdFpLaW1MU0N4Ym9WV21RQjFsMTZTYUdXaWFIUTliUVhIWndIaGItTk95bXY3aF9zOHVESVgxb2dEUzlSVEFr?oc=5",
-      "publishedAt": "2026-10-06T15:15:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "id": "cbefc36136870a12",
+      "title": "두산에너빌리티, 美가스터빈 공급망 진입 본격화…대미 투자 1호 참여 여부 '주목'",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xWGtsbVhkRHp4SzZERzNQdHJnNFQ3S3ZDQ1BTMXc5cWtMSWRpakJScEhuWG1qd1dPdjU4bi1vbDRUbVViMF9zel9aYlgzUWdsdzZTNE03UGZfMHVEVmlYZzRjeU5Ua3c1RUtINTdYTTl2OEJsYzJINdIBeEFVX3lxTE9xWGtsbVhkRHp4SzZERzNQdHJnNFQ3S3ZDQ1BTMXc5cWtMSWRpakJScEhuWG1qd1dPdjU4bi1vbDRUbVViMF9zel9aYlgzUWdsdzZTNE03UGZfMHVEVmlYZzRjeU5Ua3c1RUtINTdYTTl2OEJsYzJINQ?oc=5",
+      "publishedAt": "2026-10-07T06:27:50.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -361,8 +532,8 @@
           "ticker": "034020"
         }
       ],
-      "summary": "두산에너빌리티 7일 흐름 촉각…미국 APR1400 2기 추진에 원전 주기기 역할 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "두산에너빌리티, 美가스터빈 공급망 진입 본격화…대미 투자 1호 참여 여부 '주목' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -372,12 +543,12 @@
       }
     },
     {
-      "id": "2f8b15ba26dac0ba",
-      "title": "딥엑스-두산로보틱스, 원전 제조 현장 AI 용접 솔루션 공동개발 착수",
-      "source": "헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tbU9FMW15eHhkZmxYd012YUpfTklENXV1V1hqOUowQllDZDRpaUk1bjA0aFBxOGtjc1laMlQtWERKcHJiVlh6Q2xzamdmOGNzdS04Zk1iM0pReXhmVVpj?oc=5",
-      "publishedAt": "2026-10-06T08:42:38.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "id": "8043c5b9577eacba",
+      "title": "하나증권 \"AI 데이터센터 전력 확보 경쟁 재부각, 두산에너빌리티 한전기술 비에이치아이 수혜\"",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVa3MwZ09valpxUGQyanY2OWo3Q1RnbkZNZFhMQWF3Y3cybVBCVHRpZl9MTVp4ZHJaYnJlZE1RYU5JVWswVHJrd0hkVUgzSkQzWWljUzV2STZ3bE1FQW9pUW5YUktzellxWFk5REpMeTFha3c?oc=5",
+      "publishedAt": "2026-10-06T23:50:57.000Z",
+      "collectedAt": "2026-10-13T14:42:02.316Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -388,169 +559,7 @@
           "ticker": "034020"
         }
       ],
-      "summary": "딥엑스-두산로보틱스, 원전 제조 현장 AI 용접 솔루션 공동개발 착수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "76c97e0c49157e40",
-      "title": "두산에너빌, 스페이스XAI에 가스터빈 1호 출하",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SeXI5UllYLUZ0eWxXWlFjV1J6WmhQdUhiNXVYTG5NNFJrcjlpNkhHR3h6MGE0MWhXMzYzZGtEcDl1ME5IaE5oV1N0X3ZudXpiZFJ3ekVVZUozVGJpXzhQSG9uaEU5YVU?oc=5",
-      "publishedAt": "2026-10-06T07:32:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌, 스페이스XAI에 가스터빈 1호 출하 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8c48f7c096042901",
-      "title": "두산에너빌리티, 미국행 첫 가스터빈 출하…스페이스XAI에 공급",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVVgxYVFzRTBtRDNpZ25sV1FJaFczb3R2SmhKMVhzc1lXcmFrZTBsWGVqMWpZTHNaY0hBVThsLTluUnVUamFRajFTLUktcWViWU1wZDlVcjFFVmUyQU0zOTJaM2tSbElD?oc=5",
-      "publishedAt": "2026-10-06T07:19:56.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 미국행 첫 가스터빈 출하…스페이스XAI에 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "38f6380322557ec1",
-      "title": "두산에너빌리티, 스페이스XAI에 380MW 가스터빈 공급",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBybExVTmw3UzUyVzBaSXZ0TkxwMmZoWk0xY2RqVjduRF9MQ2Y3ME5VX2xhNUxzamFxUTM3R2UxX2JMbk0xSnM5OWhtRHZMU1BteXRnMW9kaDRzTEczb2pjTEtNTkx0Zw?oc=5",
-      "publishedAt": "2026-10-06T07:19:49.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 스페이스XAI에 380MW 가스터빈 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1748e7a538a493cd",
-      "title": "두산에너빌리티, 美 AI 전력시장 정조준··· 380MW 가스터빈 첫 출하",
-      "source": "일렉트릭파워",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpMER0SmNhTFFUUTlTdVBzMG90aDlXTXA1ZGxGT2pDSnJ2S3JaYmJuVmhOQURBWXdlLWpKS00tWHlnT0QzWl9FbXpnblJFbzRDa2RrUDNsY0owb19mUGdVMHZfSU5Cdw?oc=5",
-      "publishedAt": "2026-10-06T06:36:00.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 美 AI 전력시장 정조준··· 380MW 가스터빈 첫 출하 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a772b820449a861d",
-      "title": "두산에너빌리티, 스페이스XAI 공급망 진입…북미 가스터빈 공략",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TR3FUcUxYWHpfWG9vSGxuX0xLYmNOa0lnVjlfUVliNzYzQWwtZ1FHTTNMUHBJTWpwbWNCcHpCTGl2QnQzRzMtZlpjNmRpc1d6dXZpYWR3?oc=5",
-      "publishedAt": "2026-10-06T05:21:30.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 스페이스XAI 공급망 진입…북미 가스터빈 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bb3b4e9650db99d2",
-      "title": "두산에너빌리티, 스페이스XAI향 가스터빈 출하…북미시장 공략 속도",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZnN5RTlnVnd1WGFGNzIwblBHdlVEb0M2NlBUb0ZnX0N4R1RZNFd4bGFpdE9xbEVRTmwyV3VPSy03YUJNOUt0VnJGNVdKbFhXM3FBYmJ1eDQ0U0dndF94Z1lHR2k?oc=5",
-      "publishedAt": "2026-10-06T05:00:32.000Z",
-      "collectedAt": "2026-10-13T03:17:14.310Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 스페이스XAI향 가스터빈 출하…북미시장 공략 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "하나증권 \"AI 데이터센터 전력 확보 경쟁 재부각, 두산에너빌리티 한전기술 비에이치아이 수혜\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
