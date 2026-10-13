@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:03:32.912Z",
+  "generatedAt": "2026-10-13T03:17:14.310Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,133 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[신(新)인물탐구(66)] LS그룹 구자은 회장③ 경영 철학 - ‘수성’과 ‘탐험’ 사이,…",
-    "LS·효성 등 8개 대기업집단, 사익편취 규제 대상 되나 … \"자사주 제외하면 오히려…",
-    "LS전선, 해저케이블 공장 매각 검토…LS마린솔루션 지분 확대"
+    "LS엠트론, ‘ISO 37301 준법경영시스템’ 인증 획득",
+    "LS엠트론, 준법경영시스템 국제 인증 획득…수주 경쟁력 기대",
+    "LS일렉트릭, 블룸에너지 수주 5억 달러 돌파…AI 전력 수요 공략"
   ],
   "articles": [
+    {
+      "id": "a00a869685edbe49",
+      "title": "LS엠트론, ‘ISO 37301 준법경영시스템’ 인증 획득",
+      "source": "비즈니스리포트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBbElaNDlxeWkyN21OR3BrV2xJeXl1aEwtV0JBT1lnZ0xwR0pVbWxoeUNYTDdxSFlSdTJzcExKZTNNbXhYUmZxcnBwSjRPVThjcWVjVVBlUUFCSVN0TXh1d3NsNWtnU2dISDlYb0x2UQ?oc=5",
+      "publishedAt": "2026-10-13T01:30:00.000Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS엠트론, ‘ISO 37301 준법경영시스템’ 인증 획득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "837f2958f6135980",
+      "title": "LS엠트론, 준법경영시스템 국제 인증 획득…수주 경쟁력 기대",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52YldIaDR5VXN5Qkt1M2M3OVhXZzQwQmpwaGlDbGZVMDVwNmNuVEQtVjRfbnlCUXJWRmxIUlQwM1RIdXl5RUdzQ0dVM1lJVUI2dEE4X0JwbGZ6YVdKSzBZUVM1a1U?oc=5",
+      "publishedAt": "2026-10-13T00:37:08.000Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS엠트론, 준법경영시스템 국제 인증 획득…수주 경쟁력 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0f23dd6e7e311115",
+      "title": "LS일렉트릭, 블룸에너지 수주 5억 달러 돌파…AI 전력 수요 공략",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Ri1PU3dpRnVZZ0Z3NV95M2VWV3JxdTdFRFdmbXZBM25FejRQODl5QVB4MDZmV1g0cnJhV3hDdzJ4VmRzUUVXT3BjWnFmSXVJUS1hMWtR?oc=5",
+      "publishedAt": "2026-10-13T00:06:30.000Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 블룸에너지 수주 5억 달러 돌파…AI 전력 수요 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.73,
+        "confidence": 0.84,
+        "positiveTerms": [
+          "수주",
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6044370a4391482f",
+      "title": "[재평가받는 LS] 1년 새 시총 33조 늘었다…전력 인프라 계열사 약진",
+      "source": "대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNHpDTFBGcGVwQWp5Qkk0VkVFNmU1QThuWm5xYzZMbnRFb05pZFNyZXRXaFctUnhXaVZzRXpPdUhpNDREVk5fVUlmRno1TzE3dWJla3NCclE5QXcxbEVWYkVrZUJxVUlNVTIxRUJtQ0NvMEU?oc=5",
+      "publishedAt": "2026-10-12T20:20:16.000Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[재평가받는 LS] 1년 새 시총 33조 늘었다…전력 인프라 계열사 약진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "aa067cda1a7dcd34",
       "title": "[신(新)인물탐구(66)] LS그룹 구자은 회장③ 경영 철학 - ‘수성’과 ‘탐험’ 사이, 양손잡이 경영의 승부수",
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ckt4NzBYV2xWalFGNUk0N2RwU1ZzLWU5TVVaNmxMMjRnNndtRWZLNUdZNHl1blpONEdtMk4wU3lfSEI4MzBFWnJBRW5Lc25aQzMxRDdnVko3VmdVWHc?oc=5",
       "publishedAt": "2026-10-12T15:31:22.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -47,7 +160,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNkFiV2d4dThSX2diTmx0QXY4VUVLNnRPMHE0WFNndjlyZy1KblBDYXQ3d0lFckdTbzZnQlNhUk5JLXB1a1VtVHFGYTVSSjRqTTJuSlNMWE5ycEx0eEpGaGNFTDNRNzNlV3ZkSEVLS0hXVGItRmQzTTduMDFnQUVoOdIBgAFBVV95cUxQNkFiV2d4dThSX2diTmx0QXY4VUVLNnRPMHE0WFNndjlyZy1KblBDYXQ3d0lFckdTbzZnQlNhUk5JLXB1a1VtVHFGYTVSSjRqTTJuSlNMWE5ycEx0eEpGaGNFTDNRNzNlV3ZkSEVLS0hXVGItRmQzTTduMDFnQUVoOQ?oc=5",
       "publishedAt": "2026-10-12T06:16:38.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -79,7 +192,7 @@
       "source": "뉴스저널리즘",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbGJPem1XSUR6US0xSTNucHUtbWtNWFJhay10WXVWamRzdk9PTjBoN1kwUFBKQ0VQV0I4U2hySzZsMVRuU1lUQmd3aUdycTJ3ZDBpb21sOGtHSlVqSGliT1MydVZ1NTk5T3NN?oc=5",
       "publishedAt": "2026-10-12T05:08:29.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -101,66 +214,12 @@
       }
     },
     {
-      "id": "65a5f8f18ca94ac7",
-      "title": "LS Group’s Koo Ja-eun Bets $36 Billion on AI Power",
-      "source": "이코노미트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54NUwyZTdhM1BTNENBeFJYU2VMSnRkLVdvVm13eF90T2NXODJzU2I4MG50UjlvcFBiR0ZNRWs3SVNzZW1SOE9JQlE3a3RuV0JjVS1GZlVUSVp0M3pmaXlRenBrTEkxT1ltcTJNSl9mSTFrMDBac2xv?oc=5",
-      "publishedAt": "2026-10-11T03:42:34.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS Group’s Koo Ja-eun Bets $36 Billion on AI Power 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9ed6d8048cee00f8",
-      "title": "한화·HD현대 다음은 어디…재계 인사 올해도 빨라지나",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Tc09qWS11M3lYTkVzMUNLcVRXZ3FBQnlxOFdDMVdjSUpnNUthUHRkcHBFZGJfdUt1djRpYlN2NGJEbGRURWUtREprbjZrejRWQVE?oc=5",
-      "publishedAt": "2026-10-10T21:01:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "한화·HD현대 다음은 어디…재계 인사 올해도 빨라지나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "bc0cf628d619175d",
       "title": "모바일 이용 전 알아둘 도박 책상 화면 비율",
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tQnhaS2NBTHZUbEpsZXFtTGVlRGF4ZVBKRG5JNXI4LXVXSjJvS1VCdlZoTTJHYXJxMlNrR2lKSzAzZ2loU0l5dW96dzMxQ0pBb3hlMUJnc3ZUWktHa1h2NzhVUWdOR0swMUQybTZXbDZjZw?oc=5",
       "publishedAt": "2026-10-08T22:29:07.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -187,7 +246,7 @@
       "source": "파이낸셜포스트",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUaEZXRVcybmxIWmlTYkZRejNjYVNFLWVick5LZHprdGVqcUhwRkFiUnk3VGUyV0VDZHJMM1dlVGNyREF4QW5YeFJfdGpyWXJ4TDVIdGVLZktVS2p1bFYzS2hLc0RNbUczMUJjOXlaLTNRZEla?oc=5",
       "publishedAt": "2026-10-08T22:00:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -214,7 +273,7 @@
       "source": "이투뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiUHdOUG5ObDlXa0g5QkdPZUV5TFVfMm9qaDNmalU2Snl0RUlNWV9YalctN2N4RWlJYUtxX0NwMlNQWnhOQ0lDSHZMcVd6THBTSUdIUFNyNjMyNmYzNXQ2MldmWjZxQdIBakFVX3lxTE54VTZjeXNZS3RwOTctTm1iRm9ORXYtOWt6Y2xaQU1Qck1FY3l2bUVtR3VqN2xtel9aUEpnNlVJYUdPYlZpendYQV9YMnVsNDBuUDdlSC1GNFVYSWNLbEl4SkpVQlpLWnNnVlE?oc=5",
       "publishedAt": "2026-10-08T13:54:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -241,7 +300,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qd1hRdUd1WU5KVllpdC1mUVp4cEdOM0o4Y1ZZM3pYdHBDSE9kMFlFWldlVVBxTzlabkpQX0dOV2IxcGVzSmM5ZktOcDROcG90N2gxcGkxVS1zZ1VBTW5mZzAwNXZVTkU0TnRDZtIBcEFVX3lxTFBHNTB3YXBFRUxlQ1pkTm5FdE41cktTVDJqRWtKYjVUcDJhZ29DbkNyS255d0JmeHFmem1HRmJWUUVYaWZQVndaV0V6Z1dCbExlQkw2OWFOSThTV3k3cEpRdDg5SnVVN3JxMHFJVVNnOFQ?oc=5",
       "publishedAt": "2026-10-08T08:37:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -268,7 +327,7 @@
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TeVRMUm5xVFRiZGVBMDVOUzB5V09wVl9sbng2dTd0Ym9KcHNiN1ZlclBRSWROai1hbHQ5WjY5N0p2MDZXS1E?oc=5",
       "publishedAt": "2026-10-08T07:57:14.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -295,7 +354,7 @@
       "source": "뉴스웨이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WY09EOW9lRFlnTWF5QkxYd0E3MEVzdmh4RHMyd0s4WGxxdmJSWl9YSlBwbkxUU3k4NEs2clZ6MkQ1QzJaNkRaSHNkMjluazd3bmtGTnlCZkpEdk9rTldXS2NHVVRWVTVCTmc?oc=5",
       "publishedAt": "2026-10-07T21:55:55.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -322,7 +381,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tUl9qeElmektPTW1iTzlwYzQ4MzlPV2V1aHY5aEVEZGRZa2Y0bGZwYUxEQUk3Q05CUE1pamtDTmI5dFc2TmFiUFFhVEVjMEplUVE5WmxDcnVzM0t0dUZ1Zk9zeF9sZw?oc=5",
       "publishedAt": "2026-10-07T10:15:09.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -349,7 +408,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwRzFJdkVOUjJJVGhXMzF0RDBpWl8tV3NkLXZvaDBhYmZVNzFqOVhOaHFqSjBFc0Z1TXlqX21sNlctQXdHc216anRrWk1zQXBJ?oc=5",
       "publishedAt": "2026-10-07T07:54:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -376,7 +435,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DYV90MWpKV2VCbEUzaWxtcklwc1BIZ3hRZ3FHYno0aWNpdUNBY1pfbGpQTm5IOGViaDNWU1dkMWxSS1FYbFEtQTJqaURSNzBJX1htMU82VjU5amxUSTEyS2ktRlpwTEV3Z285WTdKRVktRkXSAXdBVV95cUxQXy1NWFFFdTYzX2ZZNnRJOVlITEtoVExTS2pvZGlUQUZVUVhDdnVDY0tzaFlHUFY1N3o3YUxFYlRnclJkVHFHYmlyd0ZybGVBcHB3R2tJcWIzQU15b3hIaFVQVU5OOU5HZ3Y4cXQtdXdKUFVzRFc5Zw?oc=5",
       "publishedAt": "2026-10-07T07:45:41.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -405,7 +464,7 @@
       "source": "에너지신문",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VRnJmNDFVWnlmNkhFZmw2UGl1Y1Rtc0xsX3F2MmhvQ25wZlJKRk9DbzhETGdDc1R0Qi0tejE3djYzaVZCTTNnZ2N3N0U5bkQ5ZlpOMUJqZ0dOdkFOVTZEUXdPVHcxS0M0d0NKU1RsdUVUUQ?oc=5",
       "publishedAt": "2026-10-07T07:41:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -429,39 +488,12 @@
       }
     },
     {
-      "id": "a00adbf4f188b112",
-      "title": "LS일렉트릭, 대만 포모사플라스틱그룹과 합작법인 설립",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjdC0zOXpYNDBhQjllVTYxMmp2WUpidnJ0TjdjRFF5cHBEYVRrNElURTg0SGM0N28wMmRFNF9JTENUZzlRZ3NTNVhwb3RTTDJoZm9hei1aQ21DbTE2N1dNSU9KbmRFNjN4RTlwS1BHWEtWS0tfYmfSAWZBVV95cUxPWW9GRXBQVHJsaUp1V0xQZzNENmxycS1JZWloYmRVYU82eklha1JBSmU0dkNzUEM3Mk1SY2RKTXdEVGhqSnVsWnZLY1FfTUZRZzNQMUtUb2lOYVp1SXk1ejU0U1NxWmc?oc=5",
-      "publishedAt": "2026-10-07T07:13:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 포모사플라스틱그룹과 합작법인 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cefaefffde781cab",
       "title": "LS그룹 구자은 회장② 경영 성과 - 숫자는 뛰었고 구조는 넓어졌다.. 전력 호황을 실적으로, 실적을 성장구조로 바꾸다",
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xNlUxOVJkSHZSVG9LWGNNVlc2aERuNURYRExjRVY3R1V4VElWOWQ5NmJlRzNVdUZwQnlFNmMxbkFwRlhEQW9rTjQ5bnRnNE5qVjFERXNWTGhLelNTeVE?oc=5",
       "publishedAt": "2026-10-07T07:00:00.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -488,7 +520,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWdBY0E5U083MzRSUkJaVG1pRXlRYjdoRWpGUU5STDcxQkN5QUtKM1RNVUJOQkFGczYzcWx6OVhabnJWc21FTjlYN0N6anRtSTZmemhueFlwV1ExTkx0ZlNCSktuSTRGSEFuZWNSLTB1R1JYdThwRW9ER1FZVm91aE13VXA?oc=5",
       "publishedAt": "2026-10-07T06:14:43.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -517,7 +549,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaVVPRWtMTkxVb2c1eFI1ZlZ1cGhzMWhmY212T016QVNBTzdMZ2wwdzg5VFlFd2k0bGtlMU0ybmYxQlRjNjFhYU05M3ltTFE3ZG10T2Jwam1sbktfQ29zQw?oc=5",
       "publishedAt": "2026-10-07T03:07:27.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
+      "collectedAt": "2026-10-13T03:17:14.310Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -529,33 +561,6 @@
         }
       ],
       "summary": "LS일렉트릭, 대만 최대 석화그룹과 JV 설립…전력솔루션 사업 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "650a72234a8ba742",
-      "title": "LS일렉트릭, 대만 포모사그룹 난야플라스틱과 전력 합작법인 ‘남아낙성’ 설립",
-      "source": "기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wbnExdGxTN0lvdWs5MWo3QnZUb1BkZDl3R2diWWlQTmw3SXlCNDlHY2twS1ZvYUFIeVpON3dnN2FVWUxoNjJIRHZWY2VaYUFJd0RmWnhHWjVkTU5fU1A0elRtUG4tZGs?oc=5",
-      "publishedAt": "2026-10-07T01:53:37.000Z",
-      "collectedAt": "2026-10-12T20:03:32.912Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 대만 포모사그룹 난야플라스틱과 전력 합작법인 ‘남아낙성’ 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
