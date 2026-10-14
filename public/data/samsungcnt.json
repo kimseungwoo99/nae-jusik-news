@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:29:13.807Z",
+  "generatedAt": "2026-10-14T08:13:43.515Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,49 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다",
     "[CEO열전] 오세철 삼성물산 대표, SMR 시장 공략..미래먹거리 확장",
-    "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론",
     "삼성물산, 도시정비 '양·질' 다 잡았다…강남권 래미안 영향력 확대"
   ],
   "articles": [
+    {
+      "id": "3101de5c6b5d62a2",
+      "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다",
+      "source": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnT9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
+      "publishedAt": "2026-10-14T01:05:27.000Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "0c23c040ada83127",
       "title": "[CEO열전] 오세철 삼성물산 대표, SMR 시장 공략..미래먹거리 확장",
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISGQ0OGUwNjdwUU1hMUlZUUtCUWVGV0FxV3FpYXowNUZCWFFRRGhiRUg2cFBtcFpyWHpBVGxKNldPUnpCcU0zRDlHRG42Szg1WWhJM2w0MGN4dFkxUkFPc3FYc1ByekNwVWx2VtIBb0FVX3lxTE1YTVhNVjYtYWJaVEtJZVA1VFktV1phT1BINWIwYVc2aERJZDlCanJCdmZhRFN2VjVNMkhVTGxaSVdaVmx0SWNYMV9FeXdOczR2SkhOZVVxWTF3X1RXMmZLXy1SNmQ0TkIyLVNWUkwyQQ?oc=5",
       "publishedAt": "2026-10-13T22:56:12.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -42,44 +71,12 @@
       }
     },
     {
-      "id": "6028dd836f6c9ffd",
-      "title": "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론",
-      "source": "이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45MWI3MmxnSWFnRmdHZWE1cHQ3a1g0UnNhWEZqOFhBMjBjeE5nczhvUFdMc0pPSnlaQU9GRlNvVVdYNmMteVd4WkplSGpCOU85V0JaM3RGRmQ1OHphb3ptUmxBSWdFSkI2UThSWWoxd0_SAXRBVV95cUxNbWNOOVZFYzNKa3pVOE9VWW40Q0t4TVFQQWt6U3ItUUlDa1FNQ1F2c0h2QzVaaWtDVnJ6eElrNGNnR3BTcG1oclBqZ0Ria1ZwdS0wcVNyR1VDQ3BwN1k5T214NEE2U21sak9ualFnNlNzdnZhWg?oc=5",
-      "publishedAt": "2026-10-13T09:00:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        },
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "대미 원전 ‘온타임·온버짓’ 이끌 주역은?···삼성·현대·두산·대우 역할론 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9d3dda9c555b9185",
       "title": "삼성물산, 도시정비 '양·질' 다 잡았다…강남권 래미안 영향력 확대",
       "source": "미디어펜",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wUFZXcTQwY2hSZm1HWDAtNE5ZczVObF9QTnBpRWNnMnhncU1JYmpnU0FwMy02cjl5S1EzdmliVndwOTE3bmF0aFFIWldTcnh4RmE4d9IBWEFVX3lxTE15dkswcDh0YkFpdnNOTTQ4QU9BbjFUcUZMa01udU1GWVRIaGxFY00ydmpDTnZVbUthVXI1eE5oZ3d2MHZpaFVTazhYenNmc3pwTFhqWDkxZ20?oc=5",
       "publishedAt": "2026-10-13T01:45:10.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -106,7 +103,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNQ01nVHdYS0tIbGZYVXMxU2FOWU4zRTdEanlDUUQtLUthcFE1QzdwS2syRmJWZG5uWFBKdzVlcHNBTkVvN1BTdjBHTnlWQmZfekFOZjNiOUdnRVBia2J1MTQ4NEU?oc=5",
       "publishedAt": "2026-10-12T16:04:16.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -133,7 +130,7 @@
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kNVV3Y21Wb3J3TDJmR0lfUEk2TlRoeEFvU0lCX3BXME9jOVpsY0JtdmlVeFVXMjNROV9QWTVDU2ZNeEZzUUtTSWVmdE9FX0lGX25MNjlWSEtoR3BwQklxby1fUmNnaDNTa1NV?oc=5",
       "publishedAt": "2026-10-12T08:06:45.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -162,7 +159,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WFRodUxRYkhOWVU0TXp1OThJLTNNeDJLSjktYm5hdTlfcno0UlZsUUVBN0pBTlExVkd4MGdyam1yMERRU0otX0NyeHBiYzZTYVJpMzVZWHlHTnd5WFBNYlpiYU5oeUpGelk2Mw?oc=5",
       "publishedAt": "2026-10-12T05:41:56.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -189,7 +186,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHJoTHFPNXliMURmNkRaeEdaQU0zYUl3aWlVcUVLUUF6S0h0Q1ZyeVZRTHU3MkNBXzBzNGJZdko1eVBxTXMySzhRQTlKaHpPdkp3Mnd5RXNjbWNhZGlmQVE2aWVrZnBYNjJXQ0x3TGR4cDhmWFk0R1FETmVrS0gtTFpmSTJiR2NxelE?oc=5",
       "publishedAt": "2026-10-12T01:58:41.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -218,7 +215,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14ZnhQcGZtRDV1Z05RRWVUVllSdU5xRUtpd3VJVFpNUFBOclVfTm56ZVhJUFFabkRlUzBqVjlyendodHk2OXFmb0V6M0VCR1FpSWNIMXVaX1JzMmthajFhRENPdWtvT2VJbnFWUzNNRW4?oc=5",
       "publishedAt": "2026-10-12T01:41:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -245,7 +242,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjIyeFFUQW1rSlhNc3FaaWw2dnJZNFh1YXItMVZscWd4aHp1anBqbjRfUWlaVFlMcDdXZElUbzdJWThQSExuUWZvWVhNQlU3aWFUNmF1U2M2aGVtYW4yU054MGFVNkoxQ2hnUENIckFiazkxVy1Gd1NjRmRRSDk2ZNIBgAFBVV95cUxNSjIyeFFUQW1rSlhNc3FaaWw2dnJZNFh1YXItMVZscWd4aHp1anBqbjRfUWlaVFlMcDdXZElUbzdJWThQSExuUWZvWVhNQlU3aWFUNmF1U2M2aGVtYW4yU054MGFVNkoxQ2hnUENIckFiazkxVy1Gd1NjRmRRSDk2ZA?oc=5",
       "publishedAt": "2026-10-12T01:10:54.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -272,7 +269,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MjVqanZ6SEpELUhBX1ZJc0ZFakJLNVFack1zV25JXzNwTFA0ZFNQbEMzdWNkNHpfSHlwS0xGM005MFE3S1A2QVZwVWRsSEpzSGVGZUZUeW5qaU1XY2JXNkJWbzdXM3hVZ3UyZlJmMnR1Ymc?oc=5",
       "publishedAt": "2026-10-12T01:08:10.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -299,7 +296,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Id190U1ZtNUREZEpZZEZEenBxVDRjbTZtdHBrbFBld1I5UlljRmQtVzFFSmtRdjVMZFlqQ3k4MWpNSUxWZnJ0UThkUTZKYUtDTHhXU2ZxX3lMTTlzbVBQVGg1OA?oc=5",
       "publishedAt": "2026-10-12T01:03:32.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -326,7 +323,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSHJ5M1Q0dUtMbDRYZWttWmtEZEs5Mmc1czVPY2kzdHFHZE5QWWUxdEFuQXRYNGhyWmJZWUV5d2d1cXhRd293TGZ2SDJxX2haYmlORzdTOVRVa2xkR2o4Z045VHI2V3d1LWVROS1pNjh6ZllsUEFGV9IBeEFVX3lxTE0xSHJ5M1Q0dUtMbDRYZWttWmtEZEs5Mmc1czVPY2kzdHFHZE5QWWUxdEFuQXRYNGhyWmJZWUV5d2d1cXhRd293TGZ2SDJxX2haYmlORzdTOVRVa2xkR2o4Z045VHI2V3d1LWVROS1pNjh6ZllsUEFGVw?oc=5",
       "publishedAt": "2026-10-12T00:22:25.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -355,7 +352,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWldCZXB6T2pzeDdEOGZGbjRoSmZvU0JaZ0k3TWg2c3NoQS1WSS1SZ1M1RmU4djJkT3o4WmRNNnpfNFRwVjFWS2pNVXNlQ1N6NE9qdHVvN1Bqdw?oc=5",
       "publishedAt": "2026-10-12T00:00:25.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -382,7 +379,7 @@
       "source": "패션포스트",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWW1naGtrTXlic0pnaUlHWGV2aDhGZ2ZSeHExT3ZzOTJFbk01TS1JRm1ockFlbUNMRFp1SXpURHhpSThXeE9UNzBObExZWDVhejZxd2FLUGoxMUlCbC16WmxGN3IwUWF5cVRUZVBnaDF6MXVmY3JzWXNSWTFIMXpGLXNNQzJlRnM?oc=5",
       "publishedAt": "2026-10-11T11:40:27.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -409,7 +406,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2ZZQTBEeWJraDMzZUFVeFRscjNLdnVCckdJMFZ6aW9KUEJOQmlOX1h6X0dVTjRmalpHeDl5ZnpNVUxFQmlfZ0pvRWlnNHNpV3hqRkt0dXJXUTNSVWRDVFExV1RDVk1tNTAtZ1ZIY0didzdKMVVJdEI3VktvZ01uRGRrWmtOUGZjOWVTUUxOWkF4cjJWMHc3cdIBrAFBVV95cUxNc05VcWppckxvTjhBMFdGcWxsQjV1a3YxbEczSWlFWDlwVWNSbEZXbHg3cEZHR292UDVwTUpHYjFVMGhmUGR1TS1uYlVBWlhzYzdPUDQ5Qnk1UlptVnJUZWxERGVDS3pKa0RjQjdWSFdVZ0NFVEthUGpjWThMLXJ6RzM0RjB0SXFocEtpZFM0dFFGT0FBcnZKQUdXdjJ4Nm9JeVlZOU9RTmhFN3VJ?oc=5",
       "publishedAt": "2026-10-11T00:54:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -431,39 +428,12 @@
       }
     },
     {
-      "id": "edd9d71f1e39b792",
-      "title": "여러 기능 중 무엇이 기본인지 궁금한 인디 게임 대박 디시",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcWNBbUE0ZXpESWdlclFrYXlsUGFGUzMyUlZEcFRVRF9NYWxZVHpDNEdybkNiaUlXS1BTdmR2ek8yMEV4eTFvTGtrNldzMmxkMk5ySnNCSXFaSG4yRXJWR3FvazZ5S1dEVWxCLVFTY1c2QW5pWkRhaVBKbkNFdDRzV0ZRQ1pGZS0yem4wZlJDTjBKanhfWVliRWROallhaVNMdlVpVnhEVVpLbHVJdk5CeGkzT0I4ei1Bb1B5bERacjVFZHlWQWpFZmFsdnF3OGFWanlKMTdla2luSWE1ZkY3Rm9yYW8zaFhMUDZLSXJWVEc?oc=5",
-      "publishedAt": "2026-10-10T10:32:14.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "여러 기능 중 무엇이 기본인지 궁금한 인디 게임 대박 디시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0a72e3d830e4b3a6",
       "title": "[정비판 다음 격전지는 용산②] 여의도·목동 다음은 용산…현대·삼성·GS·대우 '대어 쟁탈전'",
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KLXJTTDB1c3NyRVBkU28yZ0dvT1JPdjlSaXprb2NZMF9rTUN1SUtQdWlfVjJtYnVHZGMwaEVvZlQwbnRPSWtxS2NfSEZfMW5YRXFnLVpRdUE2RGNVRnJlVURBbUNtQVZWZDdFREVzc9IBc0FVX3lxTE1GU2JmRWJSck9XMGxYWFNmYkRCMllZZmlFMGYteDdYVjNWaXVUV01tR0g0TnBoU3UzczI1ZHlzbDhYQmp0RkVjSTZEZ2JYRUdIVEhlUjNXS05GcXpPVDlld0JrZ0hoNU5IVE5OR3drYnMzbGc?oc=5",
       "publishedAt": "2026-10-10T02:00:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -490,7 +460,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SFBDMHlZcDl4ZGtmY0JhYlZpOHFMY05oNy1iZXd1Ym1KbjU4N211LTJsaDdYRU5FWFlzaXdheVN4VnRyckVMM2hsZ0d1UWNYRUE?oc=5",
       "publishedAt": "2026-10-08T22:07:33.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -519,7 +489,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UzFSclFUNFRfcVpmNGt5WElGOVA0STRMelpJNEpSSk1MNTNfZEd0cXpPeVdqQVB6cHN3YmxWenlDOFVmTWtZUVRDYWQ5Y2hXTXYwRGtTeC1DdEE?oc=5",
       "publishedAt": "2026-10-08T22:05:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -546,7 +516,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VTVItRTI2aDlZaml2ZG5OS2pMZDZ1QTEtNWJqWHl1RFp1OGZlSHY5N1EzV2I4OUpWUHVpZXdORk1kZFE1azdUblg4Sk1Ianh3T3dVSkQxQjFIT1VYRWV4ck5HR3NLMEpkS1REMUNSdm8?oc=5",
       "publishedAt": "2026-10-08T09:11:00.000Z",
-      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -558,6 +528,33 @@
         }
       ],
       "summary": "[1008마감체크] 코스피, 삼성전자 최대 실적에도 외인·기관 팔자에 6620선 마감 By 인포스탁데일리 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f6ef400b47bfba0e",
+      "title": "107조 실적도 지탱 못한 코스피…6600선으로 밀려나 [마감시황]",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jbVhOY1h5bmRjMEk0ZEVwWlczLXVTTDgwOGNwU2xYRFJpVXdNb1ZOU2R2RnlyakZENGVpYzJwTmJLRFRNVl9scjViOC1EUVRTeW9xanMxSnJEc0U?oc=5",
+      "publishedAt": "2026-10-08T07:54:21.000Z",
+      "collectedAt": "2026-10-14T08:13:43.515Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "107조 실적도 지탱 못한 코스피…6600선으로 밀려나 [마감시황] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "neutral",
