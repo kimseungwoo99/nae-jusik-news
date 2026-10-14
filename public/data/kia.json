@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:42:02.316Z",
+  "generatedAt": "2026-10-14T01:29:13.807Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,45 @@
   },
   "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "EVSIS, 기아멤버스 연계 확대…전기차 충전 고객 기반 넓힌다",
     "파리모터쇼서 맞붙은 한·중·유럽…전동화 신차 총출동",
-    "반전 필요한 현대차·기아 하이브리드...전기차 급성장",
-    "유럽서 재증명된 현대차·기아의 '투트랙' 전동화, HEV로 中 공세 넘나"
+    "현대차·기아, 파리모터쇼서 SUV·하이브리드 신차 공개"
   ],
   "articles": [
+    {
+      "id": "8cedc50b3700ce24",
+      "title": "EVSIS, 기아멤버스 연계 확대…전기차 충전 고객 기반 넓힌다",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSTUUzbkZkakJQVTVFWjAzaGt2U0xsTElTUDAwb2VSM0lrajF1RG9rVzNvRXZvcm9CdkRrSFZOWUExYzdzak9FRFdtRjA3UVBXbUQ3aXB5NG9yUHF0SnNqN2FnWkFQanFmdWRUVVU3R3DSAXBBVV95cUxQUk1FM25GZGpCUFU1RVowM2hrdlNMbExJU1AwMG9lUjNJa2oxdURva1czb0V2b3JvQnZEa0hWTllBMWM3c2pPRURXbUYwN1FQV21EN2lweTRvclBxdEpzajdhZ1pBUGpxZnVkVFVVN0dw?oc=5",
+      "publishedAt": "2026-10-13T13:34:58.000Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "EVSIS, 기아멤버스 연계 확대…전기차 충전 고객 기반 넓힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "a162dd0388dd9450",
       "title": "파리모터쇼서 맞붙은 한·중·유럽…전동화 신차 총출동",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oOGduMHJVTHN2My1IT3JYYU9SdzJ3NzBRR0xaZXV3VFdQMEhtTGdLOFNoQ3l3Qzc4Rlh0cFFqbW9hZU1WOHRPTkJrRGlyMVFDZXM5WkdxWHlCakd3c1NnNldodnQ?oc=5",
       "publishedAt": "2026-10-13T07:37:01.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,12 +69,39 @@
       }
     },
     {
+      "id": "4314883e8b9d9861",
+      "title": "현대차·기아, 파리모터쇼서 SUV·하이브리드 신차 공개",
+      "source": "글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45QlZ2SGM0dEkxZXZPNzgzY1dhYTZpbkxKY0pZT00yMEdfOHZXd1BDSFpLd3FuekxiZ093YUFWSE1kcUZ0TThra09TdjRYWXNualFUV1ZVano1SnpVMlJkXzZhYVFyX1NmUlhDVtIBcEFVX3lxTE5mSGxfNEhMVmFKOFNHbmdETGhTRmhDNDd1dXUwWDBiVy1PY1FmbDNiTk9pODYtSDU5d2hfMUp0UHYwWkQ1UV93cGJGR042cmM0dldQYm1mVDVtb2tUZ3p0VG5MckNjMnJWVEc3UnIyVTg?oc=5",
+      "publishedAt": "2026-10-13T07:09:10.000Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, 파리모터쇼서 SUV·하이브리드 신차 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6706fc3bf56b225b",
       "title": "반전 필요한 현대차·기아 하이브리드...전기차 급성장",
       "source": "오피니언뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHcGxsMEQ2Ni1WUzdOdW9pdVczZFFwblV1YTQ4Q3BBZW9jRWxpYTZKYmFyRm1RWWtDNmVaclZPdVc4NkZRM2diVWM3MVMzdzluVGtBSHN5REVXYUJXaDJwMkVjS0tEczBiOXQxSERsWlRBZw?oc=5",
       "publishedAt": "2026-10-13T06:21:10.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -74,7 +128,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwelNyT181cXJqR1BTWlVKTWxyekZRWkR5ZUt4RGNjTC0wMGZ2QmFPbTdJNE5PQ25uS1pneHIyR0lRS1VmSXJTNUZJOEtPQ1RLZlhQdjBGdHFUNFo1LWNYLWt2T0w5cWJS?oc=5",
       "publishedAt": "2026-10-13T05:55:29.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -101,7 +155,7 @@
       "source": "워터저널",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82US03cGwtbG1SY3ZhMUEzckNDQmtxVFg5NmNOTDB5TDRWSy1sSHllSzd5VEMtWUxUbVVDbzZHc3VXWlpOdG5vN3lpZWdOdUFNODlUWXRLblBsbGk4aDVmNjM4R0ZBbnRFeGZFakZoZFB2TWs3YUHSAXZBVV95cUxPNlEtN3BsLWxtUmN2YTFBM3JDQ0JrcVRYOTZjTkwweUw0VkstbEh5ZUs3eVRDLVlMVG1VQ282R3N1V1paTnRubzd5aWVnTnVBTTg5VFl0S25QbGxpOGg1ZjYzOEdGQW50RXhmRWpGaGRQdk1rN2FB?oc=5",
       "publishedAt": "2026-10-13T03:31:53.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -128,7 +182,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcEMwUER6djdzN0dfUUVoUXpkLUpjTFBTV1VybTVSSi1pSl9Jdjd1RDdUWGhaQ0tfaWFKdFJQYkhOeXVraHN0UmpHaVVKYzA3cU5PaTNxQll2bmE2?oc=5",
       "publishedAt": "2026-10-13T03:05:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,7 +209,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRWFI0bWloSnVHMFRtRHFVWllqRXItdGllUmpFak1HTjFjeWxGMEZDY3BNUWhQbk80YkpFWnFNaE5Ya3dfMHZ4M2E3bm5VY0JGVGfSAVNBVV95cUxPRXZhRkwwcmFTRjl6bExpS2hTbFhHa3g0NG44TVJnYmxBZ2stVC1BZFBaVDdSRzJQV1AzQ0xmMjl0RGNiLVc3ZEVZOXUyd2xlSmhSTQ?oc=5",
       "publishedAt": "2026-10-13T01:59:54.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -182,7 +236,7 @@
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZENhNUY2Qy0wYzRwcWJEdkh0RV9GUGsydlpHZjJiMWhRSHBFUW5RWG9SMHJmbGN4aTRKVFhILVlteU9Wei1ESEEwMlhsQmZqR3gtMlhUS0FzYnpvRkQtc0I4c2E?oc=5",
       "publishedAt": "2026-10-13T00:04:18.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -209,7 +263,7 @@
       "source": "SBS Biz",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9od0xaVnB2cWV2d3FWRXNoaDFrNXRZMkp6YXV1Q1kyTHBkWTYwNG1ibF9NNUt1dTdPc2lpUGtiVVFscGRZYUtJUU92R1VILVJHQmNkMVVJMVLSAVhBVV95cUxPaHdMWlZwdnFldndxVkVzaGgxazV0WTJKemF1dUNZMkxwZFk2MDRtYmxfTTVLdXU3T3NpaVBrYlVRbHBkWWFLSVFPdkdVSC1SR0JjZDFVSTFS?oc=5",
       "publishedAt": "2026-10-12T20:40:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -236,7 +290,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qbEtIWVIxR0VqTkNIR29CSlQ4Qm1qOUJEUWVFWVV0Q1M1TnRxdGNFQTYxb0pDNEVFcXhPeElMUks5ejA4RmdiWFpDaDBtZ09tYUUtY29R?oc=5",
       "publishedAt": "2026-10-12T20:00:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -268,7 +322,7 @@
       "source": "www.dt.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUM1RiYm1rVUI2WVdtbjdRcE5WSzRCaEZ4VVpYVW0xX3BseDFQWEo2MEEwZFl1ZTR3UVdSSnF4SVViS1dicWZnTXgzZ1lxZw?oc=5",
       "publishedAt": "2026-10-12T13:20:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -295,16 +349,11 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvRkFWYUxMYk9ub05sOUNvVXhFSDNMT2dlWFoxckktNGRUX3QzLUlpNWxfa0R1ekRJTnVjaUh6dEhhSDBuRzNjTVNCMUlLdFIwUUVRWnE3aXJzT1R2ZWJmVNIBYEFVX3lxTFBvRkFWYUxMYk9ub05sOUNvVXhFSDNMT2dlWFoxckktNGRUX3QzLUlpNWxfa0R1ekRJTnVjaUh6dEhhSDBuRzNjTVNCMUlLdFIwUUVRWnE3aXJzT1R2ZWJmVA?oc=5",
       "publishedAt": "2026-10-12T13:02:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -322,39 +371,12 @@
       }
     },
     {
-      "id": "f658618b3abe8100",
-      "title": "기아, 파리모터쇼서 신형 셀토스 하이브리드 유럽 첫 공개",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQjFsbUhSMjJnSUtEcTE1VWlUeFB2dGg1eV9Za0xQQjJzMWtseWZUT3ZkZXV1ZUtabmc4aXJzSkROZDA2N3dyME04R2FPWjg0czZpWXdtWkpQdlBpeUdOd9IBYEFVX3lxTE9fQjFsbUhSMjJnSUtEcTE1VWlUeFB2dGg1eV9Za0xQQjJzMWtseWZUT3ZkZXV1ZUtabmc4aXJzSkROZDA2N3dyME04R2FPWjg0czZpWXdtWkpQdlBpeUdOdw?oc=5",
-      "publishedAt": "2026-10-12T10:49:34.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, 파리모터쇼서 신형 셀토스 하이브리드 유럽 첫 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b605a8a4a19c2a5f",
       "title": "[학살을 잇는 돈①] 현대·기아차, 이스라엘 군대에 20년째 차량 공급해 왔다",
       "source": "참세상",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIQXd0ZmU5LWgxeHNPRzNQQXgzZEFsc2xVNlJSMTNxZV9qR0J6ZnVKaTBOSW1Ycmh0U2V5TkluM0lSZw?oc=5",
       "publishedAt": "2026-10-12T08:20:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -381,7 +403,7 @@
       "source": "디지털애셋",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uSjlwT0pJTW9Ob25LYlBPU1FOaUVZMlR0V043Q3RDaVVtbEhfX2luVm03UUF0Z1V0UGNha3dtYUlmOXNLUlN0LWozcXNsSXpVcmxYU0VFTFNGNzBpcUxseExKQ0x2SkhuU2xCa2RGN2JNdw?oc=5",
       "publishedAt": "2026-10-12T07:50:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -408,7 +430,7 @@
       "source": "경제투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YUxJMlJ5RlM4dUlkMEVlcW1LOHJReEduLU5fZkRQaUotZHVIRVZ6U3JVa29mYVZGR0o1VDAzWEpZSkN5THRrQnRpY0dadnFYMG1lTzN2ME5kajdKZDd6aXJlUk9EREZfS0hv0gFrQVVfeXFMUDZhTEkyUnlGUzh1SWQwRWVxbUs4clF4R24tTl9mRFBpSi1kdUhFVnpTclVrb2ZhVkZHSjVUMDNYSllKQ3lMdGtCdGljR1p2cVgwbWVPM3YwTmRqN0pkN3ppcmVST0RERl9LSG8?oc=5",
       "publishedAt": "2026-10-12T02:34:25.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -435,7 +457,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43bDZKSTdCZG1NVUlJempmdXdPSmhZeUdPbUhld1o2TzhHZ01tbEI3VmhvSWNBclBDcGw5SjZHNzB1a1l5OTJLNk5OTE1ycEVaeDZ2akRCQTRJWkUzR2c?oc=5",
       "publishedAt": "2026-10-12T01:11:39.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -462,7 +484,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WSmszZ3lqcGJab3AtaHZLTXZoODRvU0l2eVhXTXU2Q2xiQnltTVFiVEJienFRNnFhekdMN1FrYnN6OUt0NlVaOFNqU1E4VDREekJiMGdZLWRfOGw3Ti0waGx4T28zT1Q5QjlqT3RNNG54Z9IBckFVX3lxTE5WSmszZ3lqcGJab3AtaHZLTXZoODRvU0l2eVhXTXU2Q2xiQnltTVFiVEJienFRNnFhekdMN1FrYnN6OUt0NlVaOFNqU1E4VDREekJiMGdZLWRfOGw3Ti0waGx4T28zT1Q5QjlqT3RNNG54Zw?oc=5",
       "publishedAt": "2026-10-11T23:20:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -494,7 +516,7 @@
       "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXRvVXBhN0xTM2FOY2Y2LXJmT2xCT2RPVU8xUGEybG50Uk1EVW1sOVZaRnBxcDBXQmlkVkFFZTBnLUctYmx3T3JxV2RoLWNDWUlkdW1UTW56QnQtVXhjYlJMNmh4R3lqMVh4c3VBanRyT0piMGRLNk12c0lteEZHakU0Q1A?oc=5",
       "publishedAt": "2026-10-11T07:25:43.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -521,7 +543,7 @@
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54dzZWdTNjd2J3OFpsVWlnRDljamwwcnM5Uk84OXF2U3VyVTFXVmFDU0dJU1hoaFlSMWRvR0RydGNBYS1MU0k0UDhqZw?oc=5",
       "publishedAt": "2026-10-10T22:00:01.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
+      "collectedAt": "2026-10-14T01:29:13.807Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -533,33 +555,6 @@
         }
       ],
       "summary": "같은 신차인데 최대 600만원 차이…현대차·기아 '생산월 할인' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5e3724c183d417c8",
-      "title": "미국 관세에 멕시코 자동차 수출 12% 급감…기아는 미국 의존 낮춰 선방",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1neWwyTUZLNW1vOTdMSkwzYjBzTmFiaWJESHhVbHBBRGhMbGxoaFZOc2E4dVJmLUUxTTRRU0c2SXZsLXVRdzE2U09ELWdUcXhScWUtYTYwZ0xBZ9IBX0FVX3lxTFAtYXNPamx6TGtnd0QxVHdsMjhNZDlJMnNXWnZEWVdMM2tzSF8zekRHTGRWOXpkRlN2Zms3VXFTUnNrM3VXRGJvc1kySmFsbWJoQ0NWZU1jeHRZTFlRYVdz?oc=5",
-      "publishedAt": "2026-10-09T02:12:00.000Z",
-      "collectedAt": "2026-10-13T14:42:02.316Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "미국 관세에 멕시코 자동차 수출 12% 급감…기아는 미국 의존 낮춰 선방 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
