@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:07:09.794Z",
+  "generatedAt": "2026-10-15T07:51:13.035Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS그룹 몸값 1년 새 164%↑…'구자은 리더십' 본격 시험대",
-    "LS증권, 첫 공모채 수요예측에 6.6배 수요 확인…전 만기 민평 이하 |",
-    "AI 데이터센터 전력시장 파고드는 LS···계열사 잇단 수주로 북미 공략 가속"
+    "[기업家] LS그룹 ⑫ㅣ AI 데이터센터·해저케이블 수주 확대…글로벌 전력시장 공략 가속",
+    "[종목 포커스] LS일렉트릭, 美 빅테크 데이터센터향 배전반 수주로 주가 반등?",
+    "LS그룹 몸값 1년 새 164%↑…'구자은 리더십' 본격 시험대"
   ],
   "articles": [
+    {
+      "id": "23643f64c0ef0a1f",
+      "title": "[기업家] LS그룹 ⑫ㅣ AI 데이터센터·해저케이블 수주 확대…글로벌 전력시장 공략 가속",
+      "source": "CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkTEYwRGpVOV9CbFliUnNoaWNZTFZ1REJERXJ5SDZnY25PUy11NUNNeUZLSXprdnlUbko4c3VsNU9RdzdCV2IyNXhLUFpCMFQ3Q2FWeTFVMlBzTHJZNy1hVDVyMUZvTTFM?oc=5",
+      "publishedAt": "2026-10-15T02:33:41.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[기업家] LS그룹 ⑫ㅣ AI 데이터센터·해저케이블 수주 확대…글로벌 전력시장 공략 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d45580baebace52d",
+      "title": "[종목 포커스] LS일렉트릭, 美 빅테크 데이터센터향 배전반 수주로 주가 반등?",
+      "source": "데일리인베스트",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUkxBT05EbDFxTkRxWGd0M1FqY1BFbmNRVmsxTWU1dG8xQ2g4aTZ0THhEWWgtM0EwQ0dwV1lGdEU1d0tnMGtldndwRFZlY2Q5SXg0a0JUT1ZUMXREVnVhVkJvZGttTHVzTnhBMtIBb0FVX3lxTE1VSkxsLWNDMTRGQjl5T2FiT0hpcmZ2dzJPclZlWnk5dC1mOXlwa3hrT053TmVlVnd3R2xwMkI4ZkNLTmFQUm9OMndXcVRSSnBNYksxVkRyYVNhbmFYNTRWNlJIRktKMmlDejVVVEFHVQ?oc=5",
+      "publishedAt": "2026-10-14T23:40:00.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[종목 포커스] LS일렉트릭, 美 빅테크 데이터센터향 배전반 수주로 주가 반등? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "confidence": 0.86,
+        "positiveTerms": [
+          "반등",
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "1ccd82ca2e9266f6",
       "title": "LS그룹 몸값 1년 새 164%↑…'구자은 리더십' 본격 시험대",
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakhQcmw3eFRyUjFETHdpUVk1eVp3OHVMYmlZQWJHV21VOUdRTVV2Q1U1RlZRekpXcVZFaHpiODdIemtobjVqQ3FfYnlhS0NWeVI2S19kWUtqNndtdGJERF9hYkp0UER5NHdCWHZqZWpkd1pxM3BUaS1PZWktcWl3bVlkNFJZcHBf?oc=5",
       "publishedAt": "2026-10-14T08:53:31.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -47,7 +106,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZUxQUlBFVXJfakVKRGxMb1lyUnBkTnl5eVJJT21UUENweWJBbTFnSE1WTnpGaEVLbmEzaDBRMGRPa2M2UjY5RER0LUVCTXFta2lLYXVBZ1NubGRyS3JkdEJfQjRwTnhwT2dzM09DLTlqODBK?oc=5",
       "publishedAt": "2026-10-14T07:23:20.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -74,7 +133,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wYWVpNzZzT1BTVnZHVEJ1YVhONmc5alI1aFZGTGhTVzdzSVVyY1JZMDFfcDVzaVFuSU1MMzMzWkJ5UHlTRG9PcUNrUEpTWklTN082UGtWRi1pbGdoWlJoWnNVV2MtaEg1ZVo1Qnpod3dTTGpoMFHSAXZBVV95cUxOMGFlaTc2c09QU1Z2R1RCdWFYTjZnOWpSNWhWRkxoU1c3c0lVcmNSWTAxX3A1c2lRbklNTDMzM1pCeVB5U0RvT3FDa1BKU1pJUzdPNlBrVkYtaWxnaFpSaFpzVVdjLWhINWVaNUJ6aHd3U0xqaDBR?oc=5",
       "publishedAt": "2026-10-14T06:44:32.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -103,7 +162,7 @@
       "source": "그린포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kc3ozdjJiZjc5dmN4VWZrbTBKSHFDR2RIekRBR3daUkx4NTUtNjBNd1k3c01DbHBGelBzRUlvcG9vUnc2MXVYV251cW1kYXV3ZTVuYWNUbDJqRkZfN1pGNVlQV3pLSmxYWC1MR3ZGZi11SDJlZ3fSAXpBVV95cUxNT0lvNVZEdTRWOTZkUkl5akpWRExYQUt2alU0ZlFYYmY1VE1oX21xQUxENmZlVmp5VFBkMFllaDRwcDNkNEM4aVhudGczMEl5Y3NQUVQ3S3Z6T3lHYWdNc1ZhdG12ZjBpaHotZmx3ZWFEUEdwVm5pRl9sZw?oc=5",
       "publishedAt": "2026-10-13T08:57:36.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -130,7 +189,7 @@
       "source": "에너지신문",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91OXlkTFdHQWlucDNPWnJTbXJrMUFvb0lucDE4OTlTMUtJaU9ydURpLW9sVHNwZ283LTJ2U21UMGVPZ0xuaWlnLV9CQU1Md2o5WGpscnlFNzNZc0ppMXZhY1d0TElMLVpEQUV3N08zNktTZw?oc=5",
       "publishedAt": "2026-10-13T06:33:39.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -157,7 +216,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1idWZ1MjNwNjlKNjVMZFJyZzBLRlA0dHNQb2tnR2h5R0ZmUzd6RjdMU3VBZjZmMWU1dFUxVG84eXhlT0tWeGJ0dXN4MDZyWVF5MldHX1RvemFObkU?oc=5",
       "publishedAt": "2026-10-13T05:43:39.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -186,7 +245,7 @@
       "source": "ESG경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtQUFOYl9ESVhCNGFiODY2QlBkRWkwX3puZkZEZzRpdXlrT2syV3Q4ckRIWko2VDVFcnRlOTQtMFpSWVRkLWRHamkwLThyNy1zR3E3aDgxcEh5a3VCdXZiMXVsdl9XQ3MtVDllWg?oc=5",
       "publishedAt": "2026-10-13T05:20:29.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -215,7 +274,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kb0NVYjBqVFpQWnAzbE1RYmdYc1FqNkFYNUZzbk5tZXdlVUE2clFYakZZYWtjZDV1R2FmX1M4QUVTUVp0eFhDNHhEdlBmV0JBYk9wb3BuZ2JickVFbU9OTFdneG40QQ?oc=5",
       "publishedAt": "2026-10-13T05:06:29.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -244,7 +303,7 @@
       "source": "르데스크",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZktPS3N1VWk3ampJVjdtdXA0eGRGZVpmTXF2Nk4tUzNBQmxKYldfMGd0V1FlZnhsUWRmcndFUnJmMi1sX3FWbkJOeENwRlFVNDM3U1N3?oc=5",
       "publishedAt": "2026-10-13T03:51:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -273,7 +332,7 @@
       "source": "워터저널",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HclBPS3ktUWg2SWFQTGdjaGZYbzVyQVJQZlRRVHVEY1hFYWVkSGlIalNNNXlOUmRtMnBhRW1NdWswNUM4b2lPaVdjLVlWVXJQdjljdV9SaDBsR2FCbXdpd0lyaXVRT3RBNGVaaXIyakk1WUFmU1HSAXZBVV95cUxPR3JQT0t5LVFoNklhUExnY2hmWG81ckFSUGZUUVR1RGNYRWFlZEhpSGpTTTV5TlJkbTJwYUVtTXVrMDVDOG9pT2lXYy1ZVlVyUHY5Y3VfUmgwbEdhQm13aXdJcml1UU90QTRlWmlyMmpJNVlBZlNR?oc=5",
       "publishedAt": "2026-10-13T03:31:55.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -300,7 +359,7 @@
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ckt4NzBYV2xWalFGNUk0N2RwU1ZzLWU5TVVaNmxMMjRnNndtRWZLNUdZNHl1blpONEdtMk4wU3lfSEI4MzBFWnJBRW5Lc25aQzMxRDdnVko3VmdVWHc?oc=5",
       "publishedAt": "2026-10-13T02:43:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -327,7 +386,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsWUFNRUZ6TWRkR3VPVS1NRXZYdEVxbGRuNlJmWEVIN2ZOcjZXQ19aLVZSeWtwbk16UzNuZjQxQU5Qb3lIUVBndVh1NVlhcWFWVjlZQWtOTE1KTHJCaTlyaURQQ3hrWFJRcFJnZU9aT0psbDlaRlZwdnltd9IBgAFBVV95cUxOQ0ttRDd2MzZoT1h4NHZyVlhaN1A4QWp1V3BxUTF1WHN4THZaRk44YlVGUngtNURILXVfY0JVbUltWHJEWkpVNWs2eGtQQVk5UWYydzJiUE81My0zVTVGZTFCZkstSjZwUk9JOWFEZno1d3dISVhFTGpJOWJSeWZxMQ?oc=5",
       "publishedAt": "2026-10-13T02:23:37.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -357,7 +416,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcTA1ZngxNEdDZ0dGSTY0SnBzb2wzU3pzNnFHSkpEd19ZbG1SSDJSZFpzeXBZeUlHb01qVEFabzYyQnZwdGRzeDZFVUExYkh4aGoyR0JBY0pqTFZmamNyd3R2UlR3bktQbGFqZ0ljaGFPUy1LRElN0gF3QVVfeXFMTi1xMDVmeDE0R0NnR0ZJNjRKcHNvbDNTenM2cUdKSkR3X1lsbVJIMlJkWnN5cFl5SUdvTWpUQVpvNjJCdnB0ZHN4NkVVQTFiSHhoajJHQkFjSmpMVmZqY3J3dHZSVHduS1BsYWpnSWNoYU9TLUtESU0?oc=5",
       "publishedAt": "2026-10-13T01:39:50.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -387,7 +446,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZFRaUmhiekN0V29FenJVUHNvTHFyRm9JcDItMnBzdWttZHFyNnFyeW1jUk1DYk55aTY4elJyRTJzUktBd1BSSFNkUW1YX1BMMmxseUc5QTd4eWhOX1F1NWI0MVlQZWc?oc=5",
       "publishedAt": "2026-10-13T00:41:42.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -414,7 +473,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52YldIaDR5VXN5Qkt1M2M3OVhXZzQwQmpwaGlDbGZVMDVwNmNuVEQtVjRfbnlCUXJWRmxIUlQwM1RIdXl5RUdzQ0dVM1lJVUI2dEE4X0JwbGZ6YVdKSzBZUVM1a1U?oc=5",
       "publishedAt": "2026-10-13T00:37:08.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -438,39 +497,12 @@
       }
     },
     {
-      "id": "17a4ad1c33cd0ee8",
-      "title": "LS일렉트릭, 빅테크 데이터센터에 1853억 규모 배전솔루션 공급 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JLWV4TUplUWNxbmFYM1B6RUZIaVJtbTFDNG5QdEd4TmRiYVk5RmhNTWNxVkQ2dEtSNnlha2VFdDd0a0hDVG91WmpSMmhvUUJPVHJlZUZBQmgxRjVUZ3I4U2VXc0hHX0h5ZDRObWlLQVh0Z9IBckFVX3lxTE5JLWV4TUplUWNxbmFYM1B6RUZIaVJtbTFDNG5QdEd4TmRiYVk5RmhNTWNxVkQ2dEtSNnlha2VFdDd0a0hDVG91WmpSMmhvUUJPVHJlZUZBQmgxRjVUZ3I4U2VXc0hHX0h5ZDRObWlLQVh0Zw?oc=5",
-      "publishedAt": "2026-10-13T00:25:15.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 빅테크 데이터센터에 1853억 규모 배전솔루션 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0f23dd6e7e311115",
       "title": "LS일렉트릭, 블룸에너지 수주 5억 달러 돌파…AI 전력 수요 공략",
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Ri1PU3dpRnVZZ0Z3NV95M2VWV3JxdTdFRFdmbXZBM25FejRQODl5QVB4MDZmV1g0cnJhV3hDdzJ4VmRzUUVXT3BjWnFmSXVJUS1hMWtR?oc=5",
       "publishedAt": "2026-10-13T00:06:30.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -500,7 +532,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNHpDTFBGcGVwQWp5Qkk0VkVFNmU1QThuWm5xYzZMbnRFb05pZFNyZXRXaFctUnhXaVZzRXpPdUhpNDREVk5fVUlmRno1TzE3dWJla3NCclE5QXcxbEVWYkVrZUJxVUlNVTIxRUJtQ0NvMEU?oc=5",
       "publishedAt": "2026-10-12T20:20:16.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -522,39 +554,12 @@
       }
     },
     {
-      "id": "e9939e5907a3a8c2",
-      "title": "LS·효성 등 8개 대기업집단, 사익편취 규제 대상 되나 … \"자사주 제외하면 오히려 25개사 늘어\"",
-      "source": "뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TUmNCN2Z3eXgxSkhrWFVGVGV1WDZQekRYOXdMOU5yM1FycmxFb3NLX1d1ZldTckVjYVFrYlI2S3JsV285TVpwMzVvUXdPc1BWZUVSSmRuM0FMRGI3NzlYSjJ6dHlSOWlBV2N3Q09GeFFOeVBBRXYtbDZUc9IBgAFBVV95cUxQNkFiV2d4dThSX2diTmx0QXY4VUVLNnRPMHE0WFNndjlyZy1KblBDYXQ3d0lFckdTbzZnQlNhUk5JLXB1a1VtVHFGYTVSSjRqTTJuSlNMWE5ycEx0eEpGaGNFTDNRNzNlV3ZkSEVLS0hXVGItRmQzTTduMDFnQUVoOQ?oc=5",
-      "publishedAt": "2026-10-12T06:16:38.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS·효성 등 8개 대기업집단, 사익편취 규제 대상 되나 … \"자사주 제외하면 오히려 25개사 늘어\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "4c33e70c859c6d1d",
       "title": "LS전선, 해저케이블 공장 매각 검토…LS마린솔루션 지분 확대",
       "source": "뉴스저널리즘",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbGJPem1XSUR6US0xSTNucHUtbWtNWFJhay10WXVWamRzdk9PTjBoN1kwUFBKQ0VQV0I4U2hySzZsMVRuU1lUQmd3aUdycTJ3ZDBpb21sOGtHSlVqSGliT1MydVZ1NTk5T3NN?oc=5",
       "publishedAt": "2026-10-12T05:08:29.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",

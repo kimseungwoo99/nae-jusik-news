@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:07:09.794Z",
+  "generatedAt": "2026-10-15T07:51:13.035Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[AI픽] 네이버 AI 연구 세계 무대서 인정…국제학회 논문 24편 채택",
-    "'네이버 AI 제작' 소상공인 광고, TV서 본다 - 머니투데이",
-    "금리 인상 확률 51%, 미국 주식 급락 중"
+    "네이버 AI 연구, 세계 무대서 인정…국제학회 논문 24편 채택",
+    "코어위브 주가 하락 이유, 15% 급락과 AI 데이터센터 부채 우려 분석",
+    "AI가 긴 영상 분석하고 경험도 활용...네이버 AI 논문 24편, 국제학회 채택"
   ],
   "articles": [
     {
-      "id": "fcb6433c2832b91c",
-      "title": "[AI픽] 네이버 AI 연구 세계 무대서 인정…국제학회 논문 24편 채택",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Yank5ZERxRURHV19FdGVqNF9uZUJIdXZLUGg3S0JxM1VvQWhmNkxBTUNzeDd5bkxlb3dfdnpDT3Ezb1ZHNjhDZ19pMUtpTWlqMXc?oc=5",
-      "publishedAt": "2026-10-15T00:40:19.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "id": "c7f8b2950613e708",
+      "title": "네이버 AI 연구, 세계 무대서 인정…국제학회 논문 24편 채택",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KR0VUb2RVNk1tOEFZSmEzYTk2WGhXQkNqbktldUNZSWdSeVFmU2VoMzZWdWctZjZmaFg4UW9kdGF6QkY3SDh3VVZCQ1lHMTZqMUhLcHlKcUQ1QQ?oc=5",
+      "publishedAt": "2026-10-15T05:37:26.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -31,7 +31,118 @@
           "ticker": "035420"
         }
       ],
-      "summary": "[AI픽] 네이버 AI 연구 세계 무대서 인정…국제학회 논문 24편 채택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "네이버 AI 연구, 세계 무대서 인정…국제학회 논문 24편 채택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "3e3722d3db4a2efe",
+      "title": "코어위브 주가 하락 이유, 15% 급락과 AI 데이터센터 부채 우려 분석",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2VpdmYzMF9rRExRM0NLWU1VbmlSa0lNTWcwOTZMZm4zQXVzaERFMkgwWnlfWVV2dTVmWFYxWE5DTExPLUIzSnZCbkRBVFZGd3o2TWFUVUtVdVRqZzJYNWJlWjVMSVFpWjk0LUNLVGkzYndvcHo2TDBxc2tqWFptLUNTTTdUTEFpUEcyamZMVUM?oc=5",
+      "publishedAt": "2026-10-15T03:30:00.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "코어위브 주가 하락 이유, 15% 급락과 AI 데이터센터 부채 우려 분석 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.85,
+        "confidence": 0.91,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락",
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "5965f34ab226541f",
+      "title": "AI가 긴 영상 분석하고 경험도 활용...네이버 AI 논문 24편, 국제학회 채택",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZEdnMWwwaGJRbEpXZGJHR0dCMkYzSHZTOHZPcVFZTGZqSWxvMjFva0d3SHlFVW1kTV9adUNVWTlnN3dnaDBSdmlzM0FueHg4SEIxbXBQc25PQQ?oc=5",
+      "publishedAt": "2026-10-15T02:18:45.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "AI가 긴 영상 분석하고 경험도 활용...네이버 AI 논문 24편, 국제학회 채택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "244b9765f0ef09b7",
+      "title": "\"몇 시간짜리 영상서 원하는 장면 척척\"…네이버, AI 학회 논문 24편 채택",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oby11Ti1RUFlZaVRZQ19rNVBNNUc5b2FIcEw5eVRrd0czbHF2ckpSZFh3MXF2cThtN1BiaDZWVVRjQ0JSTDh2NUYwOTYtVF9mbU50Z2RULURiT3ByZ0pWc1FHTmZiRjA4djNKUlBicnpleDFYeXlUa9IBeEFVX3lxTE5Oby11Ti1RUFlZaVRZQ19rNVBNNUc5b2FIcEw5eVRrd0czbHF2ckpSZFh3MXF2cThtN1BiaDZWVVRjQ0JSTDh2NUYwOTYtVF9mbU50Z2RULURiT3ByZ0pWc1FHTmZiRjA4djNKUlBicnpleDFYeXlUaw?oc=5",
+      "publishedAt": "2026-10-15T01:30:35.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "\"몇 시간짜리 영상서 원하는 장면 척척\"…네이버, AI 학회 논문 24편 채택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "daa2b2eef27be4ce",
+      "title": "\"네이버 AI 브리핑 출처의 46.5%는 네이버 블로그… 챗GPT·제미나이에서는 0건\"",
+      "source": "브랜드브리프",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTdnlmaHFkT3diWXhaT3V5V000SkhZMmJ4RkFhYktsUTNwN21qdWpkbjh5aXo2S2M1Q19fNnNGbmtrOTdEZjZYLXlVZS1XeU5keXZGOWJMYmhiY0VFLVBHd0NNZzhVVnZfeUFlTmJ5NA?oc=5",
+      "publishedAt": "2026-10-15T00:56:59.000Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "\"네이버 AI 브리핑 출처의 46.5%는 네이버 블로그… 챗GPT·제미나이에서는 0건\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -47,7 +158,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EUWRRQXJNR1h5OU83SVRPLXZvWHc3VkQ1YXVIWDRqTkdkRUU3QTFsX05OMjF0TnRSbUpIMHNnSE1ENUtkcm9CeENvM25rVUxJbE5PQjJoMHNISDNvcDJyc3JNOWprM2_SAWxBVV95cUxOQ3FzZ0ZXa05vSFNuSWdGVGNrdDZmNUFRQWR3WnVtUy1VTDZaR09OVk9HUDlvb0xja19hY0RyTVBwQ2xTQTBPRTBwTGFJRnVuajFab0RjR1ItcjRaMjZxNERlc2JIcTdULU1rRFk?oc=5",
       "publishedAt": "2026-10-14T19:00:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +185,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXV0ZlZoSS1NQWRLMFY3TG0xb3VNbzFNSm80WC1KVkRwWDFFTnhydVg1aGxlWGlCcjY2QnQ3Q2VwaElfUENWeDdsZTJYODVXMmJrQjlWb3M5bnpvQ3hHUlkzTlZRUU8xQjRBWGJsckNnVkV4dW9tX1NFZzBhUGFuckJKQUZjTlV4Vldz?oc=5",
       "publishedAt": "2026-10-14T13:22:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -103,7 +214,7 @@
       "source": "위키리크스한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMdzRKeDZKQ3dsdmVFRlBzdHBOMGhlRlhQdzVJT1QzY3lMeVlWSzNFelZFRkx4Q0ZQb0FNdEladjJfcUtBTVBubGxSUExlWndTR043OU1hbFZydV9nT05PYXB2OWlXTHlWaVhkLW1Kc0c?oc=5",
       "publishedAt": "2026-10-14T08:23:31.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -130,7 +241,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE5aSS11Znc5dWVDbGdOM291SnQ4c3pqeGhRU215M3loSEJHd1kxM1FWN3pqaXlqb2pZT25GZWQ3OTBIc05uTi1CcFd4QmlnUS1aODRha2puNXNZX2VGSjQ2ODIwM0RDaGYxZ3Q5QzRVQUp0eVpwX0l0eGFrNHNweC1HeGhVdw?oc=5",
       "publishedAt": "2026-10-14T07:18:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -157,7 +268,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IR01FNVAzRE0zVXh6SkNfYmFUSVcxMGtHOFBMT3hPX05memwzbjh3bmRHSjdCa056XzhYUXBjU1g4NDdYSlNsS3R6c250N0J6UlVLZzBxWTNBcE9YMzc2alVEdmhwcGtUTHFjcjR6ZUlSMTNUQ0ZtU1ktTmp6UQ?oc=5",
       "publishedAt": "2026-10-14T06:21:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -184,7 +295,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWGR1V1RDXzdpc19DQ1k2N05xQnF6MXN0QWl3OWE5eWFfWUV6UGpJcUF6QU14ZjlCMHpJMThVYVRDRXpINTZ1Y1N5Q3BoNzZRbWg1UFhmc095R3c?oc=5",
       "publishedAt": "2026-10-14T04:36:43.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -193,6 +304,11 @@
           "id": "naver",
           "name": "NAVER",
           "ticker": "035420"
+        },
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
         }
       ],
       "summary": "“그냥 검색만 할게요”…네이버·카카오에 AI 끄는 법 물었더니 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -211,7 +327,7 @@
       "source": "블로그",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XZklseW1BZmc4cnpOUmIxUmlZUDYyWUFpZ0xfdG8tUV82OWlOR0ZwSjhWWEExOUpOcWR2WTUxRlNtYjNHM1BVbGtqelpvblBjZFQwWTdUTnZSQQ?oc=5",
       "publishedAt": "2026-10-14T03:26:44.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -238,7 +354,7 @@
       "source": "블로그",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2MHI3MGdIX1B2N0ZPbnB0bEJ5Skc2M0RHZGlLXzJJYkNQTC12UTFUa01VZllpYTRIVkdkSWdKcDVQRVFLdUw1MnVaX3JGenFlNnRqZGlsaU9tdw?oc=5",
       "publishedAt": "2026-10-14T00:28:48.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -265,7 +381,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcS1MX1BNZERKT3ZKei1kY1ozaWowUVVJWnRLMzk5MHhBZmdTYTRYc1M5NEtiQVEyb3FSZS1TMDFObWNOVnhXVHQ3M2F5UlVJRXN6aGRUVlZhSzNqT1ByM1BsWWVNTEQ5OEd2VmVMcUdpdXRObEotN1EyQmRna1A1aURHWGllUQ?oc=5",
       "publishedAt": "2026-10-13T23:58:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -292,7 +408,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlF1SnNjRGZVNDVmdmtmdk5ybW1WeE1meVN1VTdTRExDQUloS0tmZThtWmstU0Q1ZzZqNzlsVlpBemJjbE1OTXA0Qm1qUVVxSkswdU81dzBLcEUyazNzUUVLNDdEV0lIdFlTSFc3QWg2OW85Q0Q4bFN2QV82d0FnMVNlSQ?oc=5",
       "publishedAt": "2026-10-13T12:00:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -319,7 +435,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPemh4UjZPeVg5bzZ2aHBMcmFzTnRDMUZabDliX0owZlotMzBwVUlNODZOMWw2MW5Cay1ON1Y4ZXVTQVRtdGJxQVFMazQ4aE9rbGpBMjlBZWo4ajVqbzFxcW1QRUlzTVY1WW50WU5TZHc0ZnpCSXVWaEZ3ZVBRcnh0eVYtYw?oc=5",
       "publishedAt": "2026-10-12T08:34:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -346,7 +462,7 @@
       "source": "NAVERCorp.",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwVzA5OTA0Qks4VjUzNDhCRndSZ1BrWVZhZ3o4VEVnZGZHLTdEVzlYRHBOUVpjVkF6NlpVOVB5a0plTnF3b2gwVFVabEREZDVjVTl0dlJRVnk2dzRabjRuaWlHcDVodjlzZXB5aE82WXNZdw?oc=5",
       "publishedAt": "2026-10-12T08:32:51.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -373,7 +489,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXJwZGNSNHVJVTExX2FaNmJ5RWpCbGVERTg0Y1JQblQ4MDhWZml2anl1aDNKVDJSVUxPaWFQa205SllBTHB6bE9hQzZYeVQxUUZoRldaWW8tLWpHN3JPN1BkM3c0V3lTLWZXRXNJZjQ1X0xSdml5Zl9yZ0VIbDQ5Vm5xM0RwdldreHo2Vw?oc=5",
       "publishedAt": "2026-10-12T06:24:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -402,7 +518,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lME04X05kVkYtWlJwczlfUktwVEk5QjJKUXZYeWJNMlA0NENSMjM5VWl6MHVNOHNrNTNBZ1E3SzRydE9yS3R5RF9KaEl4TE1zRHVIVWdCVDViRXVBNkRjVVBER2wyMjhrb2c?oc=5",
       "publishedAt": "2026-10-12T06:00:35.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -424,39 +540,12 @@
       }
     },
     {
-      "id": "1c6f7f5f06569914",
-      "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxcHpISW8wRDlpRG96NzZPTGNtdllieGJ3V1NweHY4RnRHUV9YaWdTYmc1NkFHVkNvb18wWFZHc2FzN0ttYjFZcFlhallyU0JTeEEyN3pR?oc=5",
-      "publishedAt": "2026-10-12T04:19:43.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b7ce3ebe3cd4b436",
       "title": "네이버지도, 이젠 안경 쓰고 길 찾는다…AI 글래스 연동",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzclBWR2tRSWMxbUQ0SmFMNVVPa3EwbFdRZVdwTkVRSDJadzZmYnlOdW1oTml3ZlNOLWR2Ml9EaFdveW15OWF2OWJHVFBUN0xXelpXSlpGR05vYkg5WVV0cFZjZjR2Z28?oc=5",
       "publishedAt": "2026-10-12T02:03:00.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
+      "collectedAt": "2026-10-15T07:51:13.035Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -468,87 +557,6 @@
         }
       ],
       "summary": "네이버지도, 이젠 안경 쓰고 길 찾는다…AI 글래스 연동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6f9202633ff3c508",
-      "title": "네이버, AI 글래스 길안내·팩토리로 일상·글로벌 공략 동시 가동",
-      "source": "천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mY2FEQlZRbm1VdlhCT0owZk9VZjZCY3k3amozTm1oUXpPYzZMSVBGMUstenltVGFFdjFlNkM4a0tzZ2NtQXhrY2MtNmhaN2RZRmlJeTU3VDBSZER1NHZ2ckpGQzNNcnMxWkE?oc=5",
-      "publishedAt": "2026-10-12T01:18:46.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버, AI 글래스 길안내·팩토리로 일상·글로벌 공략 동시 가동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d99848d2d94f76dc",
-      "title": "NAVER 주가, 10월 12일 장중 181,300원 1.36% 하락",
-      "source": "톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Mb3V2RWI0TEdiejJlTXozQVk5eTZzaHZDMDlHNGw2ZmRMQWhDTEo2ZFZZOHBvNEJ6cFc3dnlNRGoxajNjUEZRM1doQmlhWEV0QmdlM2VOR25wd09FSWV5amQxeEw4WEhlR00yT3diNVhjUQ?oc=5",
-      "publishedAt": "2026-10-12T01:15:23.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "NAVER 주가, 10월 12일 장중 181,300원 1.36% 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8c17c9f1b5894b6b",
-      "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nNVhKZDlJTVFkVjNvVmFRMWowNHBjQ1h0Z053UVF6NzA1ZjNTM0dQSDliM3pfSUZnUWoxazVfakoyVWhMcy1NUnpGWnlTaGZ2dmZRTWpOSzBXQk16RXpmZE1WWUhKQm8?oc=5",
-      "publishedAt": "2026-10-12T01:10:43.000Z",
-      "collectedAt": "2026-10-15T01:07:09.794Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
