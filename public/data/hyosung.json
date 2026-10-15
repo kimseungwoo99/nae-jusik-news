@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T07:51:13.035Z",
+  "generatedAt": "2026-10-15T15:24:53.124Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "효성",
     "ticker": "004800"
   },
-  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[거래소 기관] 삼성전자 폭풍매수 왜?…KB금융·삼성바이오로직스도 '러브콜'",
-    "코스피, 7%대 하락 마감…서킷브레이커 발동",
-    "코스피·코스닥, 동반 서킷브레이커 발동…하락 폭 다소 줄어"
+    "AI 도입했는데도 우리 회사는 왜 제자리?…맹성현 “AX 핵심은 업무·조직 재설계” [미리…",
+    "[표] 10월 15일 매매동향...코스피 외국인 3조6350억원 순매도에 7%대 폭락",
+    "[거래소 기관] 삼성전자 폭풍매수 왜?…KB금융·삼성바이오로직스도 '러브콜'"
   ],
   "articles": [
     {
-      "id": "720281e0b65850c9",
+      "id": "9e59c3544b6ff673",
+      "title": "AI 도입했는데도 우리 회사는 왜 제자리?…맹성현 “AX 핵심은 업무·조직 재설계” [미리 보는 테크퀘스트] · 달라지는 점은?",
+      "source": "https://spt.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZzl1YU5mZ2w5SmY5Slp3QnEtdEY5QmpFbVZuTER0QTM2Snc4X1o4UmtzOXVBMmtZejlYZWVqRV9tN1ZiNGFGRDZpd1BUOWtCSjdGTEEyTjFUVHA1?oc=5",
+      "publishedAt": "2026-10-15T07:49:00.000Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "AI 도입했는데도 우리 회사는 왜 제자리?…맹성현 “AX 핵심은 업무·조직 재설계” [미리 보는 테크퀘스트] · 달라지는 점은? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "562938fc7ab84b68",
+      "title": "[표] 10월 15일 매매동향...코스피 외국인 3조6350억원 순매도에 7%대 폭락",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TbDA0cUxmZEJ4bjY0ZUxmU3hyS3BhbkVJUWR0WmFIOEt6N0RmTjhWdkJQWFFKZW9RQ0hNYk41eE9teFpIUE1ZLTBkZUppZU1mb1FyaHFEZWl4RWpBT3lnaTU0TkwzTDBuZXBUeUpmcm9DRzlSX1VB0gF3QVVfeXFMT1NsMDRxTGZkQnhuNjRlTGZTeHJLcGFuRUlRZHRaYUg4S3o3RGZOOFZ2QlBYUUplb1FDSE1iTjV4T214WkhQTVktMGRlSmllTWZvUXJocURlaXhFakFPeWdpNTROTDNMMG5lcFR5SmZyb0NHOVJfVUE?oc=5",
+      "publishedAt": "2026-10-15T07:45:27.000Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "[표] 10월 15일 매매동향...코스피 외국인 3조6350억원 순매도에 7%대 폭락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "7c4e25bc98fcf73c",
       "title": "[거래소 기관] 삼성전자 폭풍매수 왜?…KB금융·삼성바이오로직스도 '러브콜'",
       "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3Q0Flcm9PWmI0a20xRHFUOFcyS2ZXVEQyOHlQRGZGSGJWak9JbWRhM2xhMjczZmh3QkR3QkVaN0VzUllOVEwtbEJPanhnQ1JlUGo2bFl0b1N4bnE4ZzlfNVkxamVfcWtaN2pfWXo1RVVnc0nSAXdBVV95cUxPRGZzWndvdkI0a3pQSTloZEtaSkNSV0tOdkVZTXZJVFFnQmNHQS1iX1VIbnByVlhLRWZwMmJrdjd0ZjNyemFOZGl4UGM5aHNEbWd6Qkw1UVNQS0lhbGg0dnJhZnVoaTMzajJHVHA3TGg5WHBvektFUQ?oc=5",
-      "publishedAt": "2026-10-15T06:59:12.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EZnNad292QjRrelBJOWhkS1pKQ1JXS052RVlNdklUUWdCY0dBLWJfVUhucHJWWEtFZnAyYmt2N3RmM3J6YU5kaXhQYzloc0RtZ3pCTDVRU1BLSWFsaDR2cmFmdWhpMzNqMkdUcDdMaDlYcG96S0VR0gF3QVVfeXFMT0Rmc1p3b3ZCNGt6UEk5aGRLWkpDUldLTnZFWU12SVRRZ0JjR0EtYl9VSG5wclZYS0VmcDJia3Y3dGYzcnphTmRpeFBjOWhzRG1nekJMNVFTUEtJYWxoNHZyYWZ1aGkzM2oyR1RwN0xoOVhwb3pLRVE?oc=5",
+      "publishedAt": "2026-10-15T07:10:36.000Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -47,7 +103,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xOV9DRmNRY2xjMzJDV3hMc24tT1V6UTR1dXdUcWZWejRUaGdqQ3hzZWlBR29lcWQzRG1vWU52NGNLVm9lalBUenlJY0FhaEhnVVV0djdXeExhZzN6cTRjbnJn?oc=5",
       "publishedAt": "2026-10-15T06:45:00.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -76,7 +132,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56QmpnNFA5NFE1WnZkbGhiTkc2bnc4TmQ0M1F5aDBWNzdhcHlmUnNuRXN1OV9xZXl5N1o4N3A3ZEkyNWs0ZFg5dlliaEVsRktpSFM1T3ZPMEpWanZmY3FFN2ln?oc=5",
       "publishedAt": "2026-10-15T04:58:00.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -103,7 +159,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JSUx6LVJ2RVFnaGxEWUNtY3NmcnBjZTNGMjAyd2ItOHNwd3dseEd0WEloMEU2alM0VUlwRVNRVEVUaFBtdVhvaDVVeEdqMThocVFRS21Hb0Z4Ym9tWUtCNDZUQlFCUnNYUVpOcjZ0T0rSAXBBVV95cUxOSUlMei1SdkVRZ2hsRFlDbWNzZnJwY2UzRjIwMndiLThzcHd3bHhHdFhJaDBFNmpTNFVJcEVTUVRFVGhQbXVYb2g1VXhHajE4aHFRUUttR29GeGJvbVlLQjQ2VEJRQlJzWFFaTnI2dE9K?oc=5",
       "publishedAt": "2026-10-14T21:58:29.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -130,7 +186,7 @@
       "source": "광주드림",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeldYamw4MmtVRDRMUmYtY0tmdHdZNzN4QVcxR1Zsd2lvTXNrTTFXRWZzUk5Rb2swdWxSQTNOcHJ1N2lNd0hzWEtOWTY0VE5Zcjl4MXFib2dWT0VNaURBRzFOaFhMUDV0YlE?oc=5",
       "publishedAt": "2026-10-14T07:42:19.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -157,7 +213,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4td1JoSVVYRWdtMHdqNW5xSU94SjZVUExGRWNxd2tjVkxQM1g0azZnNjViYVd4cTVrd00yUWRkazhkdk13bUxPSXJwd3B1aTFxWmt4MXR5Y2czcExWc0puZjFTRHdHNlFRRmc3bS1Ha1NZVlpWY3I40gF3QVVfeXFMTi13UmhJVVhFZ20wd2o1bnFJT3hKNlVQTEZFY3F3a2NWTFAzWDRrNmc2NWJhV3hxNWt3TTJRZGRrOGR2TXdtTE9JcnB3cHVpMXFaa3gxdHljZzNwTFZzSm5mMVNEd0c2UVFGZzdtLUdrU1lWWlZjcjg?oc=5",
       "publishedAt": "2026-10-14T07:13:11.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -184,7 +240,7 @@
       "source": "엠투데이",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UczU2Z1VORDc0bW4tTUNPQndkRXNhSjF5YThPNjFsY1NKcnFndGIzcUFpc1pXcjY1djhMMm1XQ1M4cEMxR3ItQktkc2VOVmFQZ01QREtBYU5rdXZ4YldLUzZtSG5fUDd1ZHktejhzYw?oc=5",
       "publishedAt": "2026-10-14T06:16:50.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -211,7 +267,7 @@
       "source": "재외동포신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ckVKSzZxRUQzdUhRRHpRQ3V3M1REM3VlVmxYb2VDNWZMckRIcXBzU1hRLVdqUi1jWkRCR2RnTkg0QUdDQlJhWVUtQXFwQzY3VFZ2OHBaRElocTNxckdUUHBlcGNBNmpEbkVmWA?oc=5",
       "publishedAt": "2026-10-14T03:27:49.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -238,7 +294,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RbUFWTXhRQW5vT3lOUWo0d0lfY3pMeWpuaWF0amlrckhLcVIwVjlkbkdFXzE3MDdycDZpai1pTno2azZ6djFVMzVEekZDM0JoLXF5ZUNmMU9OXy1mMFZyUGtaZGZ5U096eXhNQk4yZldVblVURVhGR9IBeEFVX3lxTE1RbUFWTXhRQW5vT3lOUWo0d0lfY3pMeWpuaWF0amlrckhLcVIwVjlkbkdFXzE3MDdycDZpai1pTno2azZ6djFVMzVEekZDM0JoLXF5ZUNmMU9OXy1mMFZyUGtaZGZ5U096eXhNQk4yZldVblVURVhGRw?oc=5",
       "publishedAt": "2026-10-13T07:52:12.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -265,7 +321,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pLVpIT05WOWZRRjR5alF1S2hReUhoWWNYWXhMWi01U2VmX0lnQ1hqcWV3RGlsTnJ4dDNFRGsxdFR6cjhmSDRMUEljaDRKZHNPc1daeVpKU1drWVJ3UWlhSzYxVXlTeTdYVmN5M2Q5dFYyQk3SAXdBVV95cUxOUVp3V2c3TWNCSTcxdmFLclhoakhieEpYR1c4YjhCOHBRWnlSa3ZBT1J1ZkNpOGJfTDJkZU5wVHlCTjZ6TDJEeUNTZ1oyNG90MXFySVA3V2RyTExsOF9ocEpBTWJ0WUtiQm5WNUVGUUUtZWZxQ1Nvaw?oc=5",
       "publishedAt": "2026-10-13T07:36:28.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -295,7 +351,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94STRldkpaODFsbzRILTRvQW1lYjdCZ3FMVU9uNEdhMWljbHFxck9SbDRqcmdtbmgwV1B4TC1fMmR3VjJ4NHEwQWJabkdRQQ?oc=5",
       "publishedAt": "2026-10-12T23:52:06.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -322,7 +378,7 @@
       "source": "AP신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EeWJvaU9FaXpKbDV3bi1hc2V2aFVCcEl4LVNidXJkM1paZ2xEaVdPaE9DbzFQU1JHUlc0Yl9tU1F5WHp0LWZEVVhYaEJOQlhqNVNFd053V21uSnBZN3oyR2Y0cWNhc0VOVmVrWdIBbEFVX3lxTE9EeWJvaU9FaXpKbDV3bi1hc2V2aFVCcEl4LVNidXJkM1paZ2xEaVdPaE9DbzFQU1JHUlc0Yl9tU1F5WHp0LWZEVVhYaEJOQlhqNVNFd053V21uSnBZN3oyR2Y0cWNhc0VOVmVrWQ?oc=5",
       "publishedAt": "2026-10-12T19:06:06.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -349,7 +405,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EZXR3TmZsMU5uNHl4bEtxcUQySzdLa1UwS1JhWndpMnFNempGZ3NfLWR5eVpudDh6NWk1NnZEUTA5WU1EMFFZdFRTa242VW1JTU5JUnc4UE9xbVhqYk15YmcyMnVheE9MWGJic0xJRdIBc0FVX3lxTE5zZVBMZ28wWmpuWExVM2JFdHF0RkpORFM0T0p0Y3IwS1BLNHM3UEtlVldrNGczVkVCQVgzbGxveXZwTmVMa2VpYy1EMGZxZlF2UkVYY2lNWVVJNDNJVXVkUXYxUGdvbmYwcWhGSWxScXQ4bnc?oc=5",
       "publishedAt": "2026-10-12T07:10:13.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -376,7 +432,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTzlpRzZUb0FzX1hob3BjcHR1TVVQcWNKTmFOSHBBMnZLTWlNS1NvekxXZnZLeTNXQlM0dkZiaFRnNnJxc0xSU0ltcGxfaGVDTUNPN0N3bGZoSTloLUdoeUx5ZmZTQzBWOU1hdnlkZDluTFHSAXdBVV95cUxQOERJZ1NvUFdXTTlld21OU2xnWjFTZHpZcFhtWTNEWDJKTHFTSEk0MXJid2Z5UzFybElzZjhoVWNsUVBUd0dsOW80OTJmU3Vab1BiVmhXRm5DQjJXU3VncE9RWmd1MUM4UUhudDNfbDNSSG1JYUpaNA?oc=5",
       "publishedAt": "2026-10-12T06:58:43.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -398,12 +454,71 @@
       }
     },
     {
+      "id": "e9939e5907a3a8c2",
+      "title": "LS·효성 등 8개 대기업집단, 사익편취 규제 대상 되나 … \"자사주 제외하면 오히려 25개사 늘어\"",
+      "source": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TUmNCN2Z3eXgxSkhrWFVGVGV1WDZQekRYOXdMOU5yM1FycmxFb3NLX1d1ZldTckVjYVFrYlI2S3JsV285TVpwMzVvUXdPc1BWZUVSSmRuM0FMRGI3NzlYSjJ6dHlSOWlBV2N3Q09GeFFOeVBBRXYtbDZUc9IBgAFBVV95cUxQNkFiV2d4dThSX2diTmx0QXY4VUVLNnRPMHE0WFNndjlyZy1KblBDYXQ3d0lFckdTbzZnQlNhUk5JLXB1a1VtVHFGYTVSSjRqTTJuSlNMWE5ycEx0eEpGaGNFTDNRNzNlV3ZkSEVLS0hXVGItRmQzTTduMDFnQUVoOQ?oc=5",
+      "publishedAt": "2026-10-12T06:16:38.000Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS·효성 등 8개 대기업집단, 사익편취 규제 대상 되나 … \"자사주 제외하면 오히려 25개사 늘어\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a3470382bfd193a8",
+      "title": "각 단계에 적용되는 규칙을 찾는 토토 2폴 디시 구조 설명",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVU9kNXllc3c4djJrYjlDSDgzSURISzJjaXJROFNaaDU0b0NoX3V0amNpTnhFSmhueHBXa1hrYlQ2TExEMkFSbG9mdjhrYkMtSXhVVUlXR3IzNHVmOXJseDRzdUFVVlNibzNtdFdGcVJfYTBzMGF1d1B1eFRfWTFxd0d0MEU1cnc2YWZBNmVnVjRWTmViaVp1cWpTTGc0Z1RtM1dkTXBFVEE5M1JGUHVLaHdnejBXWkxtQXAzTjhISld5SncyWmxUOFVoQTN0WU9UOHl1MmxpeGllNVV2U2dTemlTYzZJUQ?oc=5",
+      "publishedAt": "2026-10-12T05:58:16.000Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "각 단계에 적용되는 규칙을 찾는 토토 2폴 디시 구조 설명 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a70665212c05a867",
       "title": "[진단] 세계 첫 상용화 11년…효성화학 ‘포케톤’, 로봇 시장 정조준",
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIdV9vbUVUY3Rpa1JmX25oWlktQjNRRzVGbXdtOUtCWkplZDNtNm1hZkZfaktmOENtb2F2VHoyTXg5YUJUNXZraHpiSTZjYVNENVpKdjZEZDlYa3VUR3dNNDlsaVJxUGxPTjZqdw?oc=5",
       "publishedAt": "2026-10-12T05:51:06.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -430,7 +545,7 @@
       "source": "한국재난안전뉴스",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nWWRrQ2d0dUNHWnE1Wkk3YnlOelFFa1ZHUGhSMXBVUDNwcXlpN09LOERTVUJVUDhwUEltWDU4bWYzVUZIa2N6MWdPcWFPanNuVmtMTGN6TzJNWEVwVEE?oc=5",
       "publishedAt": "2026-10-12T04:53:56.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
+      "collectedAt": "2026-10-15T15:24:53.124Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -442,114 +557,6 @@
         }
       ],
       "summary": "효성화학, 독일 '파쿠마 2026' 참가…유럽에 전기차·로보틱스 소재 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "626e311a4987e277",
-      "title": "효성화학, 고기능 플라스틱 소재 '포케톤'으로 글로벌 시장 공략",
-      "source": "소비자가 만드는 신문",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaHk0OG50X3gxY2dYYTduQ0R3MmF4ZWhqRnNCb3pVTF9qZkJPQzdrcWxnMlVkWHplcnFmQk5YdHV4cEFQeVd1eE1wMllzdVNENlEwWFhmNzFBaGZiNVFHbkRyb0FGYm1UY2J5MzlJWVhzSTg?oc=5",
-      "publishedAt": "2026-10-12T02:33:32.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성화학, 고기능 플라스틱 소재 '포케톤'으로 글로벌 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "803e1ced4a5d8d3e",
-      "title": "효성화학, 유럽 플라스틱 전시회서 전기차·로보틱스 소재 선봬",
-      "source": "일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ja196czFmLUJuWTFqUmdBTUtHUW9ldzVhTlVNdXRBTkdUZks4M2VsNFoxQTRGRl8yUE5rWndwMkt0ZjJJczIzNGxkZUpHSlJFVnE4TEtreDNJTUNSOFhJZ05yV2N5ZVgzc3BZ?oc=5",
-      "publishedAt": "2026-10-12T01:21:56.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성화학, 유럽 플라스틱 전시회서 전기차·로보틱스 소재 선봬 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "61e407b5afb46c16",
-      "title": "효성화학, 유럽 시장에 전기차·로보틱스 소재 선보인다...소비자 관심도 증가",
-      "source": "빅데이터뉴스",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbzI0a0wxUDVjaDkwZmltSENqbXdSOU1CTHBtbDNXYWctbWM1X1U0UkFhLUhVanFyV1hiaGtxbjkxSlNhZzRJelJaNmxtQlhLcnBBWjZkcU1JOHZWaFh0REY2aUNGNk53TDdiLTZoWkFZaUNvV2pQNU9LYmY?oc=5",
-      "publishedAt": "2026-10-12T01:16:02.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성화학, 유럽 시장에 전기차·로보틱스 소재 선보인다...소비자 관심도 증가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "262252791b60890d",
-      "title": "효성화학, '포케톤' 유럽 공략…전기차·휴머노이드 소재 확대",
-      "source": "신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tdzQ4ZVpGMXlnVmNXeERpRzQxMTlkb2hWVi13SS12elg4WE4wNnN3YW05SzFTQ284SFVSeGNpT1lTd1lRTUE1Ynh4ODZYQnYwWTJmWU5pLTRnZUVqV0ZydmtXQjdvVlB4ekQxY1o0YUo?oc=5",
-      "publishedAt": "2026-10-12T01:15:33.000Z",
-      "collectedAt": "2026-10-15T07:51:13.035Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성화학, '포케톤' 유럽 공략…전기차·휴머노이드 소재 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
