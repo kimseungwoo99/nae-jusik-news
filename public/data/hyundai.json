@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:54:30.383Z",
+  "generatedAt": "2026-10-16T07:42:31.086Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 투자 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "울산 노동계·진보당 \"현대차 공장 재건축, 고용안정 보장해야\"",
-    "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축",
-    "현대자동차, 인도에 새 공장…30여 개국 수출"
+    "농민 희생 딛고 ‘글로벌 3위’ 오른 현대차, 상생기금은 10년 113억 ‘생색’",
+    "현대차 푸네 공장, 로봇 204대가 조립 척척… AI로 미세결함 잡아",
+    "울산 노동계·진보당 \"현대차 공장 재건축, 고용안정 보장해야\""
   ],
   "articles": [
+    {
+      "id": "3a00b3fefca0e4ec",
+      "title": "농민 희생 딛고 ‘글로벌 3위’ 오른 현대차, 상생기금은 10년 113억 ‘생색’",
+      "source": "팜인사이트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUVFgwTTh0aWpGSDVwX0pRN0tqMFdSektzenpyM0RWTzEwX2VSU2RaeEhJTklSdXhPRHNZdE8zZEtnRV9Gc2NMcUVEeFNoamdQRGpyYlRrMXk3OVNMT2Jrc1ozRnRhbTVTRmY0X3Zn?oc=5",
+      "publishedAt": "2026-10-15T17:35:30.000Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "농민 희생 딛고 ‘글로벌 3위’ 오른 현대차, 상생기금은 10년 113억 ‘생색’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "372f9e7ca8304d69",
+      "title": "현대차 푸네 공장, 로봇 204대가 조립 척척… AI로 미세결함 잡아",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rZmJiN1IzQ29SOXl1Vk9vSmZIRHhZVERvMFRzNXF0U1hNZnBzNmk0NjZnYmdZOElNM2p3X3F5V1puU3pkcmxGSkEtOUR6V1NhREFlcXRaTGYxY0Y0aWxLNXVJbXdPVEZlSHhBUFMxV2RoTy1SX1HSAWZBVV95cUxQWkN4VzBMX21xTjlXNFdyR1d1dVNCaTBWSkxWU05HSXgwNHItbDRSQlpUYVozSm0tLXVlQUVxZWxGZHNGZVJ1RXhaVDlHNFQ2QXdGeXJvZzBLNlZWSW1wNW04c3l0QVE?oc=5",
+      "publishedAt": "2026-10-15T15:30:00.000Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 푸네 공장, 로봇 204대가 조립 척척… AI로 미세결함 잡아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "confidence": 0.68,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "리콜·결함"
+        ]
+      }
+    },
     {
       "id": "3e9b54386deee19c",
       "title": "울산 노동계·진보당 \"현대차 공장 재건축, 고용안정 보장해야\"",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dmg4aFZQaG9RNjdqVHVuU3JxblBPeXZmNkNBMGwtOUU4Z21ycEd4V2VkaFVxbFhDZDA5X1pwWWI5MTNhbkZ3NTllLVBqU1A3VnVPUHIxTHZsd3E4aHpiadIBYEFVX3lxTFA5dmg4aFZQaG9RNjdqVHVuU3JxblBPeXZmNkNBMGwtOUU4Z21ycEd4V2VkaFVxbFhDZDA5X1pwWWI5MTNhbkZ3NTllLVBqU1A3VnVPUHIxTHZsd3E4aHpiaQ?oc=5",
       "publishedAt": "2026-10-15T08:44:58.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -42,12 +98,12 @@
       }
     },
     {
-      "id": "f070fdc4edd1e6e9",
-      "title": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축",
-      "source": "한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xM0lXZ1U3NE8tajJNWHo0NDdSdXFJVGs4ci00NkI0YXVQd1h0UWpxUzdxS2x4VXlJcEc1a0JLTTlSN2NnVjVWM3p0VEpmNkNWcHFza2ZFVkVkYTk2Qjc4SzF4WVBTbW05TFE?oc=5",
-      "publishedAt": "2026-10-15T05:43:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "id": "2027c8bdff98aa94",
+      "title": "[AD] 팰리세이드 하이브리드, 세계 최고 수준 기술 경쟁력 입증",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qa3Bid3pWalhtUTBBTGxvelpKSjR4SE1Lb0xwRWFfdVZQenlGcVkyaWtwM0dFa3FkSW9pSGZxYnJOYVdiLVdxV3BieTQ4U3hI?oc=5",
+      "publishedAt": "2026-10-15T06:13:00.000Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -58,8 +114,8 @@
           "ticker": "005380"
         }
       ],
-      "summary": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "[AD] 팰리세이드 하이브리드, 세계 최고 수준 기술 경쟁력 입증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -74,7 +130,7 @@
       "source": "채널A",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9walV0YThFeVNFSkVtTHZNYW9tZXVycDRrVFlrOC1wOFdQVFZHTlVSUDkwQVd3Y1EwV3ZIdFhzTWN0OURsdDNZZWd4UmhRU2E4SklaYzdSdkpMWUhZd1HSAWNBVV95cUxPS1l4QTZ4Zk5tY2JBeHF3ZU5IY3RzSlJ1MkFSUEhleEJJYV9wd0ZNRV9fZGFwSThiQ0NRSHVORFctVmxBUFNDTTRCb0p3Y1M0bGJpVFJSdFA4cF9ydExiRjE1N1E?oc=5",
       "publishedAt": "2026-10-15T04:07:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -101,7 +157,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHBsMmoyWWFJVi1hQ0tBbjY3eUxaclRERGhZRzgycGsxRFV4VnRaZHlrdm1xVmsyU2pTVFc0TUFpdTJJb2R6dFEtMFpNY3MzQVNUUTNPcDcyUklfUHVUZjlYTGIzVl9KdXpoREhvUVkxODJxWWdxNHdBVzRnZl9sTklOaFJUQm9pM0lIcTZuMA?oc=5",
       "publishedAt": "2026-10-15T04:05:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -123,12 +179,39 @@
       }
     },
     {
+      "id": "c290bf0fd3801ce5",
+      "title": "현대차 인도 스타일 새 공장은?... 로봇 많은 만큼 사람도 많다",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDlENkJxSnk0UjhyWDlTYkxqR2M4WVk3bXlhVUw5RE9pd1RIM0hPYWtQYlFacG5QOFdwLS1hN3VxZVhFNHlvWkl4b1NXTG41UThJQkE3VTR6VEtUVlFaRVVJNHlBU0NLNE05ZjVUMWRvSjBZRW5jcWtFYkV0VmRubllHQ2oyN2s5WVhyM2pqdw?oc=5",
+      "publishedAt": "2026-10-15T04:05:00.000Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 인도 스타일 새 공장은?... 로봇 많은 만큼 사람도 많다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3012bf8aba6b6c9d",
       "title": "[르포] 로봇 손 6대에서 204대로…현대차 푸네 공장 가보니",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GLTE0a3lRUmpzODdZcDdJcTR1STVkM1ZYV0wtRlRqdUl2UE81M0U1YmtaSWs3LWpYazRkOHVwY2RDdFI5d0hzUlVfQjNwS2tuOGh1WXRKRmNjSE4tWXU2V9IBYEFVX3lxTE5GLTE0a3lRUmpzODdZcDdJcTR1STVkM1ZYV0wtRlRqdUl2UE81M0U1YmtaSWs3LWpYazRkOHVwY2RDdFI5d0hzUlVfQjNwS2tuOGh1WXRKRmNjSE4tWXU2Vw?oc=5",
       "publishedAt": "2026-10-15T04:00:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -155,7 +238,7 @@
       "source": "이코노미스트",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oU3NmYVA0Zms3TzNxdEJpTE5zQlIycTNwdXIwYWNESk1PZ3FvdmdEVW1aQXBzZnE5aFIwRmdBdmt1YXIxUmRUZ2FMdmlJbEVvZ1hLWE91OXBVSkZxSy1yZHZn?oc=5",
       "publishedAt": "2026-10-15T01:17:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -182,7 +265,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82eC1MSkZ2Rkd1Ykk5dzM1UVF2cDNqbTVnRHVVbmxQYmZnZmcyc1c2R2hYTlNWUTBTZGhsSmxta0tOOFNZMWg4Z0VaY09sWFZXVEFCWndONUZnMXhYekMtVmU0dF9LaVBhYlY5eVhKYzdfV3JpMlHSAXZBVV95cUxPNngtTEpGdkZHdWJJOXczNVFRdnAzam01Z0R1VW5sUGJmZ2ZnMnNXNkdoWE5TVlEwU2RobEpsbWtLTjhTWTFoOGdFWmNPbFhWV1RBQlp3TjVGZzF4WHpDLVZlNHRfS2lQYWJWOXlYSmM3X1dyaTJR?oc=5",
       "publishedAt": "2026-10-15T01:07:18.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -204,39 +287,12 @@
       }
     },
     {
-      "id": "b9a586ef5b9ce7ca",
-      "title": "현대차 팰리세이드 HEV, 워즈오토 '최고 10대 엔진' 선정",
-      "source": "SBS Biz",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PcHk5cVVna19pRF9ZYnUyRUlsUnhyRFlhcTg3eFJmZHJPbkQxblpVTkR2MnFaeDJjX2JoSUdXejhGbkkwWG5WLVlIblIwTzhENExV0gFYQVVfeXFMTldheVVUOUJKVFlBVDhJOFJ4UWZSbFZaWTM1U3o4VzJOdnNhNkdDcnM0R0Iwc2Jfd3U4dHFXZTNXX21mbXJORVBrdTJnTTZJTWtvbWhBRnhqeQ?oc=5",
-      "publishedAt": "2026-10-15T00:38:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 팰리세이드 HEV, 워즈오토 '최고 10대 엔진' 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "54c9f4c1afefdbf6",
       "title": "현대자동차 바다숲 보전 캠페인, 서울디자인어워드 ‘ESG 디자인 임팩트상’ 수상 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmRaRmhzamRyUURXSTFRSmdSUFgwWVZTYmFrVEMzSU0yYUxjR0szb05DQ28yWGNBTXd6Sk9FcjFPWXUwQm9zSF9qOGVaWmIzc3dhT1hjdHpDcnhFekxVSUhWdGFRVE5oaDVRSXp3Zjk1aXV1c0Nra09MbzN2S1NBWXVjclZoVkUta2d4V2JRdVhGQkNUcGxsRkxtMWFVQlo3cWc?oc=5",
       "publishedAt": "2026-10-14T23:30:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -263,7 +319,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpCRDRqYlVzV2gwVFNJZHd6ckh6YzJMUHZhcFFyVVFVTHd6UVdzeUpCWHdFc1BqSGxFMENXSDY1WjB4azFmX3J6d0Z5cnZWUFROUlk1cmRZVHJIOHFHbVhOTDRldDVBQzcwRlZoZ1ZlQS1jYmVVX3R2bEVBaTR0dENOV1daUVBOQVdSLUdzaDRmQ2JaV09BVGZ6X1RoV1RZU0hkYm55elA?oc=5",
       "publishedAt": "2026-10-14T23:30:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -290,7 +346,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Q2hEQlUwNXRVcjIzY2E0Qy10OHF6TEN2ck9iSjZrY1kzZjlIbXlDSjA1MmgwSWZSeUVnUXM5azFnakE4dlRreDZUS2k4bmJtMDFORWpB?oc=5",
       "publishedAt": "2026-10-14T20:00:03.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -319,7 +375,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YaTZzMlZ6cS11eXR0bGcxRWtOOU1fd0d3UDhjdUNiOERTa3ZEb3Z4R3RJelV6Y3NQcTBlNzltNHUyejJGQS1JcTl0TkhaemhwTFJtYjdWbHd6RURMYUd1aUVBcVZQZHp0cGUzU9IBckFVX3lxTE5zQUNvUnpZSTNuSUl1WnhaV0ZWcGJRUkdKQkh1ejNwQ3YtQmdvRWlnZVprYy1RdUJEVndhc0ZTaFk5dkVZTEZIakJZZU1sUTF6RGkxT1FFRVdlTU9HVFUxMHFtU2NRdng1VDh3ZGl6ZVoxQQ?oc=5",
       "publishedAt": "2026-10-14T19:10:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -346,7 +402,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0lxLW9NTE45dnp6Y2M5R1RRb0ttaXNqZ0FjMzJsY2tqWE9mazR5VXN6bTRmMDZONXEzdGlHWEJEMjB4MzRTaVV1alRNb05sNWZabzY5Qlp4VnhXRWM1NzB3dmZtOGJrdWJrRHFIZ1pkZ2dCaklGV3lPenJGYmkyalJkZmlaMmxtRmtGcFpXWQ?oc=5",
       "publishedAt": "2026-10-14T15:37:17.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -373,7 +429,7 @@
       "source": "Haninpost",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40WEVzYkdKcTI2V2tWQW5XYU5YZjlDbEZCZGIwV2xwc0VjN2d5N1dFcmpUMzYzVWJ4Unl6Y2FTa1dLc1E3VEVGYldZbDVaUQ?oc=5",
       "publishedAt": "2026-10-14T13:40:58.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -395,39 +451,12 @@
       }
     },
     {
-      "id": "faa0d7517ff6aeab",
-      "title": "현대차, 인도에 20조 투자 ‘푸네 공장’ 준공",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NRHdyMHBGendCY05oMWV3ZW5JUVlXRl90b1l1am11Vm81RVItbHBKRjFFcHdzT2RaN3VXMVVSYVozZEcwVklhNXU3RnU2bUdrUkpseFY4alVuQdIBX0FVX3lxTE9EMWNyUUp5UEIxWGtjNXdpaWJKS2ZQOTJBMFdNRjhPYnhIc0JVczluOFVyYTdwZFpfT3VWQUg0a1hueDhkUk1CRFlMVk9HVnpiTXlfc2ljV0lseDRkVF9F?oc=5",
-      "publishedAt": "2026-10-14T11:41:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 인도에 20조 투자 ‘푸네 공장’ 준공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "745621c9abf59c4f",
       "title": "현대자동차, 인도 푸네에 새로운 공장‥연간 100만대 생산체제",
       "source": "MBC 뉴스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XT3JjdEJVc3RqWlZab2hySU5NdkZzRS1TcWE3V1ZiUlFSRkJUQnVDcVVhRkRRN1k5elRLWjgzNXdGRV9uNnB1XzNZX1NvWWdvX3gxWlYyU3VSdFFFcDFGdVFQUXc2RF82NUtKSGRsc0ZaWTl40gF0QVVfeXFMTVdPcmN0QlVzdGpaVlpvaHJJTk12RnNFLVNxYTdXVmJSUVJGQlRCdUNxVWFGRFE3WTl6VEtaODM1d0ZFX242cHVfM1lfU29ZZ29feDFaVjJTdVJ0UUVwMUZ1UVBRdzZEXzY1S0pIZGxzRlpZOXg?oc=5",
       "publishedAt": "2026-10-14T08:22:08.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -454,7 +483,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGpYeGxPRV9JR0hzWEFxbzYxWm9UdzNPYVdrbEMwb2RzNDJORnBKRkhSaERMVzcyS3NQYUJ5WGN2bTA5Z0V3Y3lBTUJXNS10SWVTeUV5cEM0UnNUVENwZ0FEdi1kTFQybXlkY2ZMMkxibTVQN096cjJNSEp0enlzcy1YeXJwVEJ3U3RGUlZIOA?oc=5",
       "publishedAt": "2026-10-14T08:13:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -481,7 +510,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWFxazcwRWR4bnpFQWY1YlU1UmVIMUxxWVdmamZocm5fQVREWEp3TjV5ZnBkNkk0YWs2VVJ0RUlVeTl6VjNiNWl2NUNaTEpJOHFhSjlrd3dZYnpYR3Z0TWFvR1ZUc1ZGVHFMYmJ2Y2hEVmhfZmZ1NEx2MDhOTzBHaURkX2FPVkxSSkRacUd6MVlTbUw5OHJncg?oc=5",
       "publishedAt": "2026-10-14T01:40:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -508,12 +537,12 @@
       }
     },
     {
-      "id": "b65d0320cebe1f70",
-      "title": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkc4UmdzRWJkQUhUcHBzdzNSamJ6SmExU3JfanZBMndwR3pzeGhZcmxCS2VVSGk3NWRYTUMtYXo3M0diN1ZCb1Z1MkVEUi1ub0J2QjRVZkF5UzZjODNad0MzOVIyaTZSQmRpeEFqN0t2dWhjemRIVl84MnA3cG00b1kySDZUYXpkV0w3Nw?oc=5",
-      "publishedAt": "2026-10-13T23:30:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "id": "c50edffcf661bcbe",
+      "title": "현대자동차그룹 인도 총리와 모빌리티 협력 논의",
+      "source": "뉴스클레임",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rd0FDc2NBdXJPNVduSU9qZEtRTnNQVU9Vc1NPQzR1S0Fmejh6ZjBKNUo3bk90SHFuX3BJd1c3cDB2amJkSU1PaFpnbk1zeVJodU9QaHBrX1RjU0ZZRGR3WUVIaUNBVlV0OXdCcm4ySHnSAXRBVV95cUxOQXN0Wk9Wa2NxUDFQYmF4VnBXUVM5bkFRclM5VDRWZHdMc3A0V212Z1VRSUtGV2dtRkxTS1V0Sk5MT0RfRFc2MmJHbjNJV25LeTl0Q1BTQ3dTaVM3SUpoMU9ZNFpoMTNMZ1otSC1DZHdfYkRsMQ?oc=5",
+      "publishedAt": "2026-10-14T00:04:59.000Z",
+      "collectedAt": "2026-10-16T07:42:31.086Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -524,34 +553,7 @@
           "ticker": "005380"
         }
       ],
-      "summary": "현대차그룹 제로원, ‘2026 제로원 데모데이’ 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "228413e24327beca",
-      "title": "현대차그룹 정의선 회장, 인도 나렌드라 모디 총리와 면담 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVE9jaEJPeGcwc3p5NDFWSTZPX1p0S293NE5OcENDSkRTTTlfbVdJUWRLT2FQQzhieHFZbEdfSG1kaVhaNmdwbUJKLTBWRm9yWWI5QUVyUUhaSm5OZ3VZVE5vLWdLdks0QVRhWXR1NnV4WGFrak1nY2l2eFBnZlZvZ0pXSExxZ2hOWl8yZ2taWHE?oc=5",
-      "publishedAt": "2026-10-13T22:00:00.000Z",
-      "collectedAt": "2026-10-16T00:54:30.383Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차그룹 정의선 회장, 인도 나렌드라 모디 총리와 면담 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대자동차그룹 인도 총리와 모빌리티 협력 논의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
