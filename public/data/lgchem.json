@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:24:53.124Z",
+  "generatedAt": "2026-10-16T00:54:30.383Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,84 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG화학 3분기 영업익 6136억원 전망…자회사 호조",
-    "삼원계마저 '중국판'… 셀부터 소재까지 K 배터리 입지 사라진다",
-    "LG화학, 자회사 호실적에도 체질 개선 과제…자회사 효과에 추정치 '상향'"
+    "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려",
+    "전고체 전지 성능·안정성 높인 맞춤 양극재…'꿈의 기술' 선보인다 - 머니투데이",
+    "LG화학 3분기 영업익 6136억원 전망…자회사 호조"
   ],
   "articles": [
+    {
+      "id": "fa71ec9296bca2d5",
+      "title": "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02ZDUxaUVWYkVNbW9BLWRBUmJqNm03N3d5YlV2UklyLTZmcXZqd0NObEt0ZDc2VUM1QU1UVHM3NFpCRUk0TF9QWTBBVHYyQ3hEZF93RXl5T05xSFkxNFpBYkVlYw?oc=5",
+      "publishedAt": "2026-10-16T00:35:07.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "bdb16994652a4d7d",
+      "title": "전고체 전지 성능·안정성 높인 맞춤 양극재…'꿈의 기술' 선보인다 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQXhaanZzLUVIcjJmWTY2MmpjamRCbVZjTXM3TG53V2VnT09uQXM4bmlldlljMWk2b09WdFctU1ZESC1XREhGUW1DeXpzbnd0OE90Tlowa1R1NXliZnJ3R0I2OGRoXzBWVmhnb19SZ9IBb0FVX3lxTE1nQXhaanZzLUVIcjJmWTY2MmpjamRCbVZjTXM3TG53V2VnT09uQXM4bmlldlljMWk2b09WdFctU1ZESC1XREhGUW1DeXpzbnd0OE90Tlowa1R1NXliZnJ3R0I2OGRoXzBWVmhnb19SZw?oc=5",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "전고체 전지 성능·안정성 높인 맞춤 양극재…'꿈의 기술' 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "77045e4fff31a6aa",
       "title": "LG화학 3분기 영업익 6136억원 전망…자회사 호조",
       "source": "경제투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uOU5wRzZaaDJqaVVQVEQ0ZFhvSWRURmdRaEtyQ1dqdXhHYkJyYVBHTUM2Y29MRUZDVDU2YThxUUQyajZRR2h6S1NWQUZna2lhaFVpNzRfX2MtczNuTjNSeG5vTHNxbGRKamJJ0gFrQVVfeXFMTm45TnBHNlpoMmppVVBURDRkWG9JZFRGZ1FoS3JDV2p1eEdiQnJhUEdNQzZjb0xFRkNUNTZhOHFRRDJqNlFHaHpLU1ZBRmdraWFoVWk3NF9fYy1zM25OM1J4bm9Mc3FsZEpqYkk?oc=5",
       "publishedAt": "2026-10-15T02:52:50.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -47,7 +111,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVp1ZDkzZllPWFdmdWJlWWFjY2Q4ZTJTVm1SeHBGbWtpOHE1amtHSGp2MU00aTNnaERCWmNWMTYyZ2hsODlwdTRKdkliaWZCV0FCOWZGTTBBYmMybllEYm9PeFNTSnctTkJldkRZV3R5dmtSWnFGZ1hZWmxfanRCVtIBgAFBVV95cUxPVVp1ZDkzZllPWFdmdWJlWWFjY2Q4ZTJTVm1SeHBGbWtpOHE1amtHSGp2MU00aTNnaERCWmNWMTYyZ2hsODlwdTRKdkliaWZCV0FCOWZGTTBBYmMybllEYm9PeFNTSnctTkJldkRZV3R5dmtSWnFGZ1hZWmxfanRCVg?oc=5",
       "publishedAt": "2026-10-15T02:09:59.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,7 +138,7 @@
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQmdzMW9pV2FhR1V6QkpZVVIzWGIzeVJoVXFpdkpzR0h2RDdTRFkzUzhIT0FtUTlTTk8xSktJbEZHenZTRUxlOTY5Y3RnSnJiZlo5YnZscElMb2NmemtSb3d1dVF3Zk5TNW03aw?oc=5",
       "publishedAt": "2026-10-14T23:55:56.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -103,7 +167,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBMF9KWUxmSjZrbFlMRFFlSWxEMVcteEZmOWprX25TZ0dyR0hkZEdlcTl2ZkVySXp1TFUycGdxTm01T1BTQUhOVzE2NTI5bmZSMmh2YndiTUbSAVhBVV95cUxQQTBfSllMZko2a2xZTERRZUlsRDFXLXhGZjlqa19uU2dHckdIZGRHZXE5dmZFckl6dUxVMnBncU5tNU9QU0FITlcxNjUyOW5mUjJodmJ3Yk1G?oc=5",
       "publishedAt": "2026-10-14T23:51:08.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -125,68 +189,12 @@
       }
     },
     {
-      "id": "13b3bba7e0b20b68",
-      "title": "코스피 6거래일 하락에도 이차전지주 강세…삼성SDI 5.54% 상승",
-      "source": "스페셜타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16RzRJUklFZ0xrQ0xIWFgxZXZIazNHUlNVcGRBdUQtZEpFM29qOUMxN291TGdrZkZBVFkwZ014RkVFRU9vbnBDeU9zdWQwQWRyM3VyNnd3NW5GcTF6d0hLZGtXU0paWWkxY1VxQzdadEo1Zw?oc=5",
-      "publishedAt": "2026-10-14T06:58:24.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "코스피 6거래일 하락에도 이차전지주 강세…삼성SDI 5.54% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "강세"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3be5101dccf579c1",
-      "title": "[특징주] 코스피 '출렁'에도 이차전지주는 견고…삼성SDI 5%대↑(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcmZxTDZfUGhSVmN0MUpRMG44V1hQWG5qc05ZS2Rvc3Q1SnZZLW9vMTQ3aTdXM0RJNnJMbUxLQWRLUDlwd3FYSG5YazRkNUMtS1VHQlJ6bkxJdzjSAWBBVV95cUxPNzhiY3BSRHIwZF9pUnNWRndob2loeWs5NXRpN3FpNFpRUEdVOWdDVXVteFdsUDdHdU9BSzl3Sll0ZmxZblZmODU5Z0RwNno2b1NmZmN2R3RhSy05VE50cEw?oc=5",
-      "publishedAt": "2026-10-14T06:51:57.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[특징주] 코스피 '출렁'에도 이차전지주는 견고…삼성SDI 5%대↑(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "40e123fc16335ee7",
       "title": "[짚고 가자] 소듐이온 배터리 뭐길래…LFP 다음 저가 경쟁 시작",
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdDg0MmRjaFhTTkY1b0V1Z3NPc3QwZFhHMi1vTmpXLW52NEc4Qmg0LXhxUlM5TVVUN2tSU01DeURHZmRTZTNBS3JvaVBiaXA2Y1hMandJWWtUMHVfY1ZBaWU0YUdMeFhoV3FKem5sVdIBc0FVX3lxTE1vdVYzTV9VQ3lOYTZYZ0JKajFiV3V5RWZsMVlEZWkwSW5qTlpvV0l0eC03c05neEIyejh5SFMxVExvZUxKZXlPT1VKSWtyN3B1Nlp3YWdVdWJIekt6ZENJNHZjUXROUUc4ZjdvZTdWd24tTnc?oc=5",
       "publishedAt": "2026-10-14T06:28:26.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -213,7 +221,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wVHNpdFN3eDVVZFdWN19ZaHVPLUtoejl6YjE1TkJDYi0yRWsyYk5XNUxRUkFKMHUtMl9rbUlmYnVxR3Z1dEhET2huRzhwU25qR2pLamU3MUthaEk3elJIRFJHdFJQcWxEaGtvM0lTZ19ZWnY3aFc40gF3QVVfeXFMTnBUc2l0U3d4NVVkV1Y3X1lodU8tS2h6OXpiMTVOQkNiLTJFazJiTlc1TFFSQUowdS0yX2ttSWZidXFHdnV0SERPaG5HOHBTbmpHaktqZTcxS2FoSTd6UkhEUkd0UlBxbERoa28zSVNnX1ladjdoVzg?oc=5",
       "publishedAt": "2026-10-14T01:28:57.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -235,12 +243,132 @@
       }
     },
     {
+      "id": "1a0a1e088d08a0ee",
+      "title": "[특징주] 이차전지주, ESS 성장 기대에 강세…삼성SDI 3%대↑",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02dktWcnBLNXhNcmRJX3UxOWZjWU9zZ1RpVkQtN2pVN2UyN2ZRc0lOUmlSb25PNzV0dWtWalJJSTFtUUJucGJ3Zm9CejFudjFWN2Q3VGtWYWk2YWvSAWBBVV95cUxQQlFzS0w5Y1Bja1JDbUxZejBqa1FuOFJHMmhhLUJIWkNkMmQ3R2I0R09fTmFHWFA0eGNVa1N2QkpWYTZFcjczZXc5SzFNTjA4Q2Y3d1pBVEpfQVk5QjVqZ20?oc=5",
+      "publishedAt": "2026-10-14T00:30:41.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "[특징주] 이차전지주, ESS 성장 기대에 강세…삼성SDI 3%대↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6886a7817539c98b",
+      "title": "\"인도의 차세대 석유\"… 에코프로머티·포스코퓨처엠 등 韓 배터리 소재 주목",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVFOdEc2YS1TYVdwdHdRZ01oYlg3YUlWSUZOSkhuSkRwcXJodDZCQ19hRXBSR3NBUGh2anR1TUhGTTRMNmtBX01NanFhRjVFallpejRRM3E5TmExVG1qa3NVeWp2WkFrTjlOMW9TaXZDMDlBaHVOSFNPVVplTjB0ZU1nZHlpdUVj?oc=5",
+      "publishedAt": "2026-10-13T23:13:53.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        },
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "\"인도의 차세대 석유\"… 에코프로머티·포스코퓨처엠 등 韓 배터리 소재 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "cc8d11e2fe328cd1",
+      "title": "LG화학, 도쿄서 차세대 패키징 소재 기술력 선보인다",
+      "source": "FETV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40X2JNVXZPTnRPMEszbWc2SURhanNzcUlfQ1ZieFA2RkpuSW9UX3g3SUhKMno1bFNDQjFrNGllclAySW9ocE10NzlIQm5oMWJUU3BzZnVDbUIxaVhoZWY4X29EYWhwcGRy?oc=5",
+      "publishedAt": "2026-10-13T09:01:37.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 도쿄서 차세대 패키징 소재 기술력 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "077416fa2be8fdd0",
+      "title": "LG화학, 日서 차세대 단일소재 기술력 선보인다",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR2dKUHJwQTl2b1ZRanVtTS0yemR5amhMRUtwY2x1WDI4YUhITHNwdHRNQVVNMWpYVVh2WlBFeHJEaE5GYzY4Mm8yUV9pYU9QZkx4bXdEN21oNUd4OFZmX0FnYw?oc=5",
+      "publishedAt": "2026-10-13T05:22:33.000Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 日서 차세대 단일소재 기술력 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a23b5da42e0424ee",
       "title": "LG화학, 초박막 포장재 '유니커블' 공개",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ajlwbTlhQjJrNWw5UE5PajBaYnR2RDlic1czd3RTWVFTWGVJSlBoUWpBUzNpeElCZWo0M2NRcy1PRkJWWjJNbDlfQXBIcGlHSHdtOUxxMmVMSFFyd0VZVDhhSEgwZw?oc=5",
       "publishedAt": "2026-10-13T04:50:12.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -267,7 +395,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WWjMxV09mRlVmZ2ExV0JOVmowMGNIRWNWakhBUmNXLXI3dGpXY2FHdmgtaDhhZVRjM05YWXJ2T0dNVGlUalk2RkcxejZ2UVUydm5hellBOHBXN2NkX1ZqSg?oc=5",
       "publishedAt": "2026-10-13T03:46:36.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -294,7 +422,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RUDhNNmxFYU1TVlN5eG9uR243YVIzS2pDdWVlUnl5M3ZnOHBUVFBQSzkxTERrMGZnaXVHSE1VQmdFSURPZV9CaDU1Vll2emV1UWw2VmtTb0xSMFhRYjhpTk1PWHNvbWJvcW9pSVowNzJicXlk0gF0QVVfeXFMTlFQOE02bEVhTVNWU3l4b25HbjdhUjNLakN1ZWVSeXkzdmc4cFRUUFBLOTFMRGswZmdpdUdITVVCZ0VJRE9lX0JoNTVWWXZ6ZXVRbDZWa1NvTFIwWFFiOGlOTU9Yc29tYm9xb2lJWjA3MmJxeWQ?oc=5",
       "publishedAt": "2026-10-13T02:16:47.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -321,7 +449,7 @@
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NXVGRFhobFA3c21jWjZrOFh4cDBrYVZibEh6bHBVd0FIWmxNWlBibVV2TTFmVjVqM1JmYzZjQ1hha25pMHRveE8zQmNJanNmbjNIU0NnZGdWZTZhM2hKbDhQOTdJQQ?oc=5",
       "publishedAt": "2026-10-13T01:57:06.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -348,7 +476,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GckVIN1dWR2FKUmFyVl9XeEUtRnVJcW0zV1lIVjZEbUVRd0hEVWdnQ3lIZ28wYXhkN05IOXowZERKQXdjVTBRYlNvTmxrTVVtRnfSAVNBVV95cUxPbzRQM3l4bXZyMjVKVU0zbkh2ekRybkxyemdQUHJlbWRuQVp3VFFZcktpcm1YbWdGaTh5N012RWV5ZzBzaFp1d0FUWTJwREZQYTVxSQ?oc=5",
       "publishedAt": "2026-10-13T01:48:00.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -370,39 +498,12 @@
       }
     },
     {
-      "id": "d0766d7c40654293",
-      "title": "LG화학, 포장 전문 박람회 ‘도쿄팩 2026’ 참가",
-      "source": "주간한국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82NHBqNkJzR2poV3EzSTVxSVVsREltUjBrSVBLRkxYaHpzcnVhUXZWVmdsYjNVbFBUOG1mMVkzMGZFT05hWm9IZDR1NzVxdlNVOExITXJ0aEJSRnp3Nzk2ZU1ZdlBiU2ZVcW1YSlhwUGFxZTc10gF0QVVfeXFMTzY0cGo2QnNHamhXcTNJNXFJVWxESW1SMGtJUEtGTFhoenNydWFRdlZWZ2xiM1VsUFQ4bWYxWTMwZkVPTmFab0hkNHU3NXF2U1U4TEhNcnRoQlJGenc3OTZlTVl2UGJTZlVxbVhKWHBQYXFlNzU?oc=5",
-      "publishedAt": "2026-10-13T00:36:28.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 포장 전문 박람회 ‘도쿄팩 2026’ 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c417dab2efce2656",
       "title": "LG화학, 도쿄팩서 초박막 포장필름 유니커블 전시…\"아시아 사업 확대\"",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KUENZLUQ2Ull5b0FRTE96cGlPb1hIbDJhTVJqX3RoeVMxOE5IRFhkSVRkVS1fOXNfTXJYQzNPQ2dhMmo0VFdhYzUyaUlxS0d6b1pzS1RGSEhYUUxGU1NVNi05ZUdNcFFBeTZPdnFiNU53eWplblU4OdIBeEFVX3lxTE9KUENZLUQ2Ull5b0FRTE96cGlPb1hIbDJhTVJqX3RoeVMxOE5IRFhkSVRkVS1fOXNfTXJYQzNPQ2dhMmo0VFdhYzUyaUlxS0d6b1pzS1RGSEhYUUxGU1NVNi05ZUdNcFFBeTZPdnFiNU53eWplblU4OQ?oc=5",
       "publishedAt": "2026-10-13T00:09:11.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -429,7 +530,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRHptdEswRDNTNGRRbFB3OEx3NjA0VTRUZlNfeTNkdGlYYjJidFFoM1RIUUtsdVVfaWpTcDhpSnJDNk13bzFueFltU2ZfbXFWTUU5OHVn?oc=5",
       "publishedAt": "2026-10-13T00:08:18.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -456,7 +557,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54aVc1N01qOW5aeHZ3Tl95YnU3Qi1YUThoOTN6WE9xbWJhMEh3elo2ZWxQLXNMM3dKYVcwa3JDVHZwekdYXzR4RkY4LVl1NWF1RnRxNzdzRHVwWFA5WW5pcDFsLWE?oc=5",
       "publishedAt": "2026-10-13T00:02:45.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
+      "collectedAt": "2026-10-16T00:54:30.383Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -468,89 +569,6 @@
         }
       ],
       "summary": "LG화학, 아시아 최대 포장 전문 박람회서 차세대 패키징 기술력 선봬 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "134857afb6c71800",
-      "title": "웰크론한텍, 전구체·폐배터리 결정화 설비 실적으로 수주 확대 기대 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55TURqaXRBbng2X3VOQ0EyNURuWG1zRXZ2QjZLQjVfLVZjZW1FYUp2amZzeW56X182RlNxRmF2SDdVRGctd1diUkxreGM5X1FQMTQzM3pZWDJ6dThTQk1LSDNQbkFsLVlsRUlIMm13djNqbThBVFHSAXtBVV95cUxPTEdrRlhlVXFsNVMtUXhxNDFKZWROZTRNSUMxRVNESHdOQWJLcTBWakJTQlNJQmYyTEpXSFZqaHR1WmtUY0pBUnkzQ0MwME9SeEJJQkMxZUE3QndHTHZ3Z3d0aEx4ZVlWRGM3eXR2b09ZRjlGYlVPcGhTc1E?oc=5",
-      "publishedAt": "2026-10-13T00:00:17.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "웰크론한텍, 전구체·폐배터리 결정화 설비 실적으로 수주 확대 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bc2c3d96c62fbc9d",
-      "title": "\"소재의 혁신·일상의 가치\"…LG화학, '도쿄 팩 2026' 참가 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRm9hODVXZ0FrR2ZMWHpHX2FQNzdHTUV0ZUVfQllxYXZmRm1RY0JMN0w3RjJ6WEhyeGtyS0RMMHRwV1pkRDlROG1jVWpvdkFETXBYMElwT3RzUHh2UHg4SktrM2VGdDdxVDBaddIBckFVX3lxTE1ocE5Ed2RoXzZwQnFGWlZzeHhYVkpfMmgwbk1GbWJ0ZjhLMWtFMFZ2a1V1cGIxeWZnQjVEUTZ3SDgwRE9fMmY1dzlyUjFTb0ozZVBOcnZoR3hXaU9Ddklpb2REbTNqSkdTaU5ER1VyQWdfZw?oc=5",
-      "publishedAt": "2026-10-12T23:55:44.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "\"소재의 혁신·일상의 가치\"…LG화학, '도쿄 팩 2026' 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e2a45c4378a110e2",
-      "title": "LG화학, 도쿄팩서 초박막 포장소재 ‘유니커블’ 기술력 공개",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aMFhuSHNGcG9HSnl2YTNsOVZWM2R2Wnl1dmU1WWJOOGEzOXU5cThQMDVsZUN1ekI2T2lidFBSWWZPaktNeG8wWVQwVGluQVZhNjlqTw?oc=5",
-      "publishedAt": "2026-10-12T23:44:00.000Z",
-      "collectedAt": "2026-10-15T15:24:53.124Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 도쿄팩서 초박막 포장소재 ‘유니커블’ 기술력 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
