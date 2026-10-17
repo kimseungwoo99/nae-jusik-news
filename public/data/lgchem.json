@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:54:50.899Z",
+  "generatedAt": "2026-10-17T07:20:37.886Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "LG화학, NCC 재가동에도 석유화학 적자…첨단소재는 회복세",
-    "현대차가 키우는 인도 … 롯데케미칼·LG화학 '낙수효과' 기대",
-    "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려"
+    "매출 늘어도 이익은 줄어…K-양극재 3Q 수익성 `주춤` [배터리레이다]",
+    "현대차가 키우는 인도 … 롯데케미칼·LG화학 '낙수효과' 기대"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IQVVwWDFOOUNPNDRfc01MMUN6QWlCR0d5eHppVXdPaHVLTGZncVlzbUJKVFkyZHluWFVWOXhOY0R1VFJ6ZUdIYWNrSzRTdm9rbnBIWGdwM1hhTWk3ekxSbzdDbm5Cd3FicGFsX2F5c1Z2NzNaSmR5VkRVS0w?oc=5",
       "publishedAt": "2026-10-16T07:23:46.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "e7fdedfbfe46e0a5",
+      "title": "매출 늘어도 이익은 줄어…K-양극재 3Q 수익성 `주춤` [배터리레이다]",
+      "source": "디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NY0dJSnpwaWxwQnF4NHR0T29XX3RJcUc2YURFaXlEeHhualNiNE5mT2owLThpS1MxMk5Odm1OMDN5dVZ0bm5vWWRmLVN1YWNlZ2dtY2JHWkhkOUoyVUR2SjJPSFY?oc=5",
+      "publishedAt": "2026-10-16T07:09:53.000Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "매출 늘어도 이익은 줄어…K-양극재 3Q 수익성 `주춤` [배터리레이다] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "510afe8c5cb9418a",
       "title": "현대차가 키우는 인도 … 롯데케미칼·LG화학 '낙수효과' 기대",
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zd0ZNNDM5YnljZkFvOXFNeVdtODZfdHFDd0pzR1M3Ykh0QjFhdmtGOExQNHJRaFF2cWdUWVpTNUE0RkVBLVFSVmpaa2ppNzREaUhadVFKTTY5SjhzaEpSOFlvdU5TbnB5YXNGUF9KYnRSb1RDUWk4Vldka9IBgAFBVV95cUxNaE1Wb2lXbkFKeXczWmV6Qkt1LThpbllDd056RDJLcmZyeW5aVmZoaU11ZzR1WnFITjNJYWRaX0RIT0N0TWl2VzNORjd2a1YwVW1qaHBKNTZGZXBjVTBOdUptN2NpWHNLTC0xY0xnNENrV3NHTmNtMDh0WThJWnNxSg?oc=5",
       "publishedAt": "2026-10-16T02:02:45.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,7 +101,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02ZDUxaUVWYkVNbW9BLWRBUmJqNm03N3d5YlV2UklyLTZmcXZqd0NObEt0ZDc2VUM1QU1UVHM3NFpCRUk0TF9QWTBBVHYyQ3hEZF93RXl5T05xSFkxNFpBYkVlYw?oc=5",
       "publishedAt": "2026-10-16T00:35:07.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -111,7 +138,7 @@
       "source": "뉴스웨이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KaFFfdkl5R2hyTjN3eW9MYXNlMzFJQkQ2T0ZTMTJjNmZyVzk1M1ZWRzY2ZUZ5UU10YmIyQldhTVJNVnpIVUdwdmkyVDRuQl9vdW05eFBRNnFNYzJlai1zT3NMd0VCU0dBX2c?oc=5",
       "publishedAt": "2026-10-15T23:18:44.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -138,7 +165,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4UXE0eGdWc3RrT0xxYzNEaGxLdHZXU2E0Ql9ySVM0X1gwdldOOEhjMGM3a3k2X2RjTUNoWE5QYjR3SDZsOS1aRlNrdWNtR3FodWM4SFhiRQ?oc=5",
       "publishedAt": "2026-10-15T23:00:27.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -168,7 +195,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQXhaanZzLUVIcjJmWTY2MmpjamRCbVZjTXM3TG53V2VnT09uQXM4bmlldlljMWk2b09WdFctU1ZESC1XREhGUW1DeXpzbnd0OE90Tlowa1R1NXliZnJ3R0I2OGRoXzBWVmhnb19SZ9IBb0FVX3lxTE1nQXhaanZzLUVIcjJmWTY2MmpjamRCbVZjTXM3TG53V2VnT09uQXM4bmlldlljMWk2b09WdFctU1ZESC1XREhGUW1DeXpzbnd0OE90Tlowa1R1NXliZnJ3R0I2OGRoXzBWVmhnb19SZw?oc=5",
       "publishedAt": "2026-10-15T20:00:00.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -195,7 +222,7 @@
       "source": "경제투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uOU5wRzZaaDJqaVVQVEQ0ZFhvSWRURmdRaEtyQ1dqdXhHYkJyYVBHTUM2Y29MRUZDVDU2YThxUUQyajZRR2h6S1NWQUZna2lhaFVpNzRfX2MtczNuTjNSeG5vTHNxbGRKamJJ0gFrQVVfeXFMTm45TnBHNlpoMmppVVBURDRkWG9JZFRGZ1FoS3JDV2p1eEdiQnJhUEdNQzZjb0xFRkNUNTZhOHFRRDJqNlFHaHpLU1ZBRmdraWFoVWk3NF9fYy1zM25OM1J4bm9Mc3FsZEpqYkk?oc=5",
       "publishedAt": "2026-10-15T02:52:50.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -222,7 +249,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVp1ZDkzZllPWFdmdWJlWWFjY2Q4ZTJTVm1SeHBGbWtpOHE1amtHSGp2MU00aTNnaERCWmNWMTYyZ2hsODlwdTRKdkliaWZCV0FCOWZGTTBBYmMybllEYm9PeFNTSnctTkJldkRZV3R5dmtSWnFGZ1hZWmxfanRCVtIBgAFBVV95cUxPVVp1ZDkzZllPWFdmdWJlWWFjY2Q4ZTJTVm1SeHBGbWtpOHE1amtHSGp2MU00aTNnaERCWmNWMTYyZ2hsODlwdTRKdkliaWZCV0FCOWZGTTBBYmMybllEYm9PeFNTSnctTkJldkRZV3R5dmtSWnFGZ1hZWmxfanRCVg?oc=5",
       "publishedAt": "2026-10-15T02:09:59.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -249,7 +276,7 @@
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQmdzMW9pV2FhR1V6QkpZVVIzWGIzeVJoVXFpdkpzR0h2RDdTRFkzUzhIT0FtUTlTTk8xSktJbEZHenZTRUxlOTY5Y3RnSnJiZlo5YnZscElMb2NmemtSb3d1dVF3Zk5TNW03aw?oc=5",
       "publishedAt": "2026-10-14T23:55:56.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -278,7 +305,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBMF9KWUxmSjZrbFlMRFFlSWxEMVcteEZmOWprX25TZ0dyR0hkZEdlcTl2ZkVySXp1TFUycGdxTm01T1BTQUhOVzE2NTI5bmZSMmh2YndiTUbSAVhBVV95cUxQQTBfSllMZko2a2xZTERRZUlsRDFXLXhGZjlqa19uU2dHckdIZGRHZXE5dmZFckl6dUxVMnBncU5tNU9QU0FITlcxNjUyOW5mUjJodmJ3Yk1G?oc=5",
       "publishedAt": "2026-10-14T23:51:08.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -300,12 +327,39 @@
       }
     },
     {
+      "id": "3be5101dccf579c1",
+      "title": "[특징주] 코스피 '출렁'에도 이차전지주는 견고…삼성SDI 5%대↑(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcmZxTDZfUGhSVmN0MUpRMG44V1hQWG5qc05ZS2Rvc3Q1SnZZLW9vMTQ3aTdXM0RJNnJMbUxLQWRLUDlwd3FYSG5YazRkNUMtS1VHQlJ6bkxJdzjSAWBBVV95cUxPNzhiY3BSRHIwZF9pUnNWRndob2loeWs5NXRpN3FpNFpRUEdVOWdDVXVteFdsUDdHdU9BSzl3Sll0ZmxZblZmODU5Z0RwNno2b1NmZmN2R3RhSy05VE50cEw?oc=5",
+      "publishedAt": "2026-10-14T06:51:57.000Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[특징주] 코스피 '출렁'에도 이차전지주는 견고…삼성SDI 5%대↑(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "40e123fc16335ee7",
       "title": "[짚고 가자] 소듐이온 배터리 뭐길래…LFP 다음 저가 경쟁 시작",
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdDg0MmRjaFhTTkY1b0V1Z3NPc3QwZFhHMi1vTmpXLW52NEc4Qmg0LXhxUlM5TVVUN2tSU01DeURHZmRTZTNBS3JvaVBiaXA2Y1hMandJWWtUMHVfY1ZBaWU0YUdMeFhoV3FKem5sVdIBc0FVX3lxTE1vdVYzTV9VQ3lOYTZYZ0JKajFiV3V5RWZsMVlEZWkwSW5qTlpvV0l0eC03c05neEIyejh5SFMxVExvZUxKZXlPT1VKSWtyN3B1Nlp3YWdVdWJIekt6ZENJNHZjUXROUUc4ZjdvZTdWd24tTnc?oc=5",
       "publishedAt": "2026-10-14T06:28:26.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -327,100 +381,12 @@
       }
     },
     {
-      "id": "d0e004cecdbaf3a5",
-      "title": "제이에이치화학공업, 폐배터리 전처리 연 1.5만톤 체계 구축",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FR2NwMlE4UGFWdlpseF9VTnd0Zy1FUk9xLVlaYWdLN0ZkT0FFQ2NaZmZTT1o0QTBNdUVtZmNqNEJJcFhPWE1tN1VfQ3ozSUVZanQtbnpOa2NXTGZ0dHZram4yNUNYZw?oc=5",
-      "publishedAt": "2026-10-14T06:08:45.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "제이에이치화학공업, 폐배터리 전처리 연 1.5만톤 체계 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1a0a1e088d08a0ee",
-      "title": "[특징주] 이차전지주, ESS 성장 기대에 강세…삼성SDI 3%대↑",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02dktWcnBLNXhNcmRJX3UxOWZjWU9zZ1RpVkQtN2pVN2UyN2ZRc0lOUmlSb25PNzV0dWtWalJJSTFtUUJucGJ3Zm9CejFudjFWN2Q3VGtWYWk2YWvSAWBBVV95cUxQQlFzS0w5Y1Bja1JDbUxZejBqa1FuOFJHMmhhLUJIWkNkMmQ3R2I0R09fTmFHWFA0eGNVa1N2QkpWYTZFcjczZXc5SzFNTjA4Q2Y3d1pBVEpfQVk5QjVqZ20?oc=5",
-      "publishedAt": "2026-10-14T00:30:41.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[특징주] 이차전지주, ESS 성장 기대에 강세…삼성SDI 3%대↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "강세"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "79b128b6f8534243",
-      "title": "LG화학, '도쿄팩 2026'서 고기능 포장필름 소재 전시",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUmt0aWFQT3BxWDZweUctNk9fWlNFRTlaM283X3dETDkzT2F4OF9DVFFHSmIxcE51OUtpSG51Zi1zTi1uRkdQaU9udWxHbS1TdlJOYVpHMnpLRlpxeUYzNkJYbzA?oc=5",
-      "publishedAt": "2026-10-13T06:27:34.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, '도쿄팩 2026'서 고기능 포장필름 소재 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a23b5da42e0424ee",
       "title": "LG화학, 초박막 포장재 '유니커블' 공개",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ajlwbTlhQjJrNWw5UE5PajBaYnR2RDlic1czd3RTWVFTWGVJSlBoUWpBUzNpeElCZWo0M2NRcy1PRkJWWjJNbDlfQXBIcGlHSHdtOUxxMmVMSFFyd0VZVDhhSEgwZw?oc=5",
       "publishedAt": "2026-10-13T04:50:12.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -447,7 +413,7 @@
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NXVGRFhobFA3c21jWjZrOFh4cDBrYVZibEh6bHBVd0FIWmxNWlBibVV2TTFmVjVqM1JmYzZjQ1hha25pMHRveE8zQmNJanNmbjNIU0NnZGdWZTZhM2hKbDhQOTdJQQ?oc=5",
       "publishedAt": "2026-10-13T01:57:06.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -474,7 +440,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GckVIN1dWR2FKUmFyVl9XeEUtRnVJcW0zV1lIVjZEbUVRd0hEVWdnQ3lIZ28wYXhkN05IOXowZERKQXdjVTBRYlNvTmxrTVVtRnfSAVNBVV95cUxPbzRQM3l4bXZyMjVKVU0zbkh2ekRybkxyemdQUHJlbWRuQVp3VFFZcktpcm1YbWdGaTh5N012RWV5ZzBzaFp1d0FUWTJwREZQYTVxSQ?oc=5",
       "publishedAt": "2026-10-13T01:48:00.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -501,7 +467,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRHptdEswRDNTNGRRbFB3OEx3NjA0VTRUZlNfeTNkdGlYYjJidFFoM1RIUUtsdVVfaWpTcDhpSnJDNk13bzFueFltU2ZfbXFWTUU5OHVn?oc=5",
       "publishedAt": "2026-10-13T00:08:18.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -528,7 +494,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54aVc1N01qOW5aeHZ3Tl95YnU3Qi1YUThoOTN6WE9xbWJhMEh3elo2ZWxQLXNMM3dKYVcwa3JDVHZwekdYXzR4RkY4LVl1NWF1RnRxNzdzRHVwWFA5WW5pcDFsLWE?oc=5",
       "publishedAt": "2026-10-13T00:02:45.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -555,7 +521,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRm9hODVXZ0FrR2ZMWHpHX2FQNzdHTUV0ZUVfQllxYXZmRm1RY0JMN0w3RjJ6WEhyeGtyS0RMMHRwV1pkRDlROG1jVWpvdkFETXBYMElwT3RzUHh2UHg4SktrM2VGdDdxVDBaddIBckFVX3lxTE1ocE5Ed2RoXzZwQnFGWlZzeHhYVkpfMmgwbk1GbWJ0ZjhLMWtFMFZ2a1V1cGIxeWZnQjVEUTZ3SDgwRE9fMmY1dzlyUjFTb0ozZVBOcnZoR3hXaU9Ddklpb2REbTNqSkdTaU5ER1VyQWdfZw?oc=5",
       "publishedAt": "2026-10-12T23:55:44.000Z",
-      "collectedAt": "2026-10-17T00:54:50.899Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -568,6 +534,33 @@
       ],
       "summary": "\"소재의 혁신·일상의 가치\"…LG화학, '도쿄 팩 2026' 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e2a45c4378a110e2",
+      "title": "LG화학, 도쿄팩서 초박막 포장소재 ‘유니커블’ 기술력 공개",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aMFhuSHNGcG9HSnl2YTNsOVZWM2R2Wnl1dmU1WWJOOGEzOXU5cThQMDVsZUN1ekI2T2lidFBSWWZPaktNeG8wWVQwVGluQVZhNjlqTw?oc=5",
+      "publishedAt": "2026-10-12T23:44:00.000Z",
+      "collectedAt": "2026-10-17T07:20:37.886Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 도쿄팩서 초박막 포장소재 ‘유니커블’ 기술력 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
