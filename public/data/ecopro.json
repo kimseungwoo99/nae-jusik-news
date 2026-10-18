@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T00:30:42.079Z",
+  "generatedAt": "2026-10-18T07:34:52.636Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,74 @@
   },
   "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[속보] 코스닥 장초반 5%대 급락…알테오젠·에코프로·심텍 등 시총 상위 종목 일제히 하락",
-    "유럽 기대·북미 부진 사이…에코프로비엠 유증, 초과청약이 흥행 가늠자",
-    "[코스닥 기관] 실리콘투 알테오젠 에코프로 원익IPS 이오테크닉스에 '베팅'"
+    "[2차전지] 장중 변동성 보인 에코프로…8만4000원 돌파 여부 관건",
+    "특수 심벌 수집형인지 확인하는 블랙잭 인슈어런스 게임 구조",
+    "[속보] 코스닥 장초반 5%대 급락…알테오젠·에코프로·심텍 등 시총 상위 종목 일제히 하락"
   ],
   "articles": [
+    {
+      "id": "c7ace0e992cfee7a",
+      "title": "[2차전지] 장중 변동성 보인 에코프로…8만4000원 돌파 여부 관건",
+      "source": "CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Lby04azNFUXg4SUo3alJvREFPcFlZNUxqZkYtS3ZOYU5tNG1RM05vUmwzOGtTMVFTRkRidXhvOFpQSjAtQTdtZlladjJjb0hHbGgtbmRkbVYybGJ0d25RZFlzWjRobVdi?oc=5",
+      "publishedAt": "2026-10-18T03:40:00.000Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[2차전지] 장중 변동성 보인 에코프로…8만4000원 돌파 여부 관건 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "741ca2d1cf4b8134",
+      "title": "특수 심벌 수집형인지 확인하는 블랙잭 인슈어런스 게임 구조",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNElWeTI0aW1UUnEwcXgzeDRCaGlBOG5KVkloZnpnXzlrTW1aUmJDWFZOU0p6NTZfWUZmaGhzdGJIbFJXSWtxaUZZdTNvUlFBQk9SdGtTRTNQQ1NjenBkYW1YVC1KeXVMTU1DYV9rRXdYWTBQdDZVQmxCRkRxbmJUM2lDVTdGNW1aTGM0MjBfX0VvbWh4MUViM1ZxcnBkX0djckdiMQ?oc=5",
+      "publishedAt": "2026-10-17T18:14:16.000Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "특수 심벌 수집형인지 확인하는 블랙잭 인슈어런스 게임 구조 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "dacc458d7587d5f4",
       "title": "[속보] 코스닥 장초반 5%대 급락…알테오젠·에코프로·심텍 등 시총 상위 종목 일제히 하락",
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yRU4tdXhoNTg5eDF6bHE0YTdIYlhmZ2pFem9hNTk1cWZqY1hGTG02NWJURzYxeU1tTkFkSWdpaTlfT0R6aXVrNndIUmpaYzFHRkFra0sxQmlBNklvc0VDcEdQNHpxVW5y?oc=5",
       "publishedAt": "2026-10-16T07:30:13.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -44,12 +100,39 @@
       }
     },
     {
+      "id": "68faaaa422897867",
+      "title": "[코스닥 외국인] 알테오젠·지엔씨에너지 순매수 상위…주성엔지니어링은 순매도 1위",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96clA5d2NtZzNHUlpmRWNTRzh1eFY4RmdwQmVXTlFCbmRYR0NQMUZkcHdIUThfM2l5b1RubURrSlpoYXB2cmRTUTJaZWxvc3BmZjdRcDZKVm5aRXVWaG9YTmZwWENPeWlYWm1UcDNUc2NJUDkxV3ow0gF3QVVfeXFMT3pyUDl3Y21nM0dSWmZFY1NHOHV4VjhGZ3BCZVdOUUJuZFhHQ1AxRmRwd0hROF8zaXlvVG5tRGtKWmhhcHZyZFNRMlplbG9zcGZmN1FwNkpWblpFdVZob1hOZnBYQ095aVhabVRwM1RzY0lQOTFXejA?oc=5",
+      "publishedAt": "2026-10-16T07:03:08.000Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[코스닥 외국인] 알테오젠·지엔씨에너지 순매수 상위…주성엔지니어링은 순매도 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0eacc13342f7a052",
       "title": "유럽 기대·북미 부진 사이…에코프로비엠 유증, 초과청약이 흥행 가늠자",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFVWNHBWNHh1UE1IUlE4U0ZZbDBBTXNjRC13STBlMEh4WVFxVlBKLTY3VzZHRlc3R19MMlFmYmpsVmR5TEROZmRZd2dmY0kyQUQ0N2M0THlFdGRSWVFPcVhUVDc3UDVjRS1kV0tabnJhUWFkS3V6X191UHE3YjY3X2lSaw?oc=5",
       "publishedAt": "2026-10-16T01:48:00.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -76,7 +159,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sX3dKbU5tSXBqZ0FUemFka2xPTnhscGZ1aTNNQlVtRXZ6RDliLUVpNV96RWc2cE5wcEJuWWhNeVNnSFQ0V2U2WUtWSnRodC1nNmNnVXFkdHNWVzBsVF9qMXI4RVZPaUt0aXE1STVXSGw3VmExQzZF0gF3QVVfeXFMT2xfd0ptTm1JcGpnQVR6YWRrbE9OeGxwZnVpM01CVW1FdnpEOWItRWk1X3pFZzZwTnBwQm5ZaE15U2dIVDRXZTZZS1ZKdGh0LWc2Y2dVcWR0c1ZXMGxUX2oxcjhFVk9pS3RpcTVJNVdIbDdWYTFDNkU?oc=5",
       "publishedAt": "2026-10-15T07:10:36.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -103,7 +186,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ubUs2M19TMXM1TG4zSmtEYVdVeHU3TGVzNS1qS2VIUFJYYTZCbUc1V2Nvc1pzVTZ4MVNqR0pvSHdiUWxadjI4SEQtZFl6OWZuemtPT1N2bjVpcGZkbDVuaDY5MV9vNUVUSVdyNG9hS0lvSUQ5M0F30gF3QVVfeXFMT25tSzYzX1MxczVMbjNKa0RhV1V4dTdMZXM1LWpLZUhQUlhhNkJtRzVXY29zWnNVNngxU2pHSm9Id2JRbFp2MjhIRC1kWXo5Zm56a09PU3ZuNWlwZmRsNW5oNjkxX281RVRJV3I0b2FLSW9JRDkzQXc?oc=5",
       "publishedAt": "2026-10-15T07:00:33.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -130,7 +213,7 @@
       "source": "톱스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zeU9xaHhBX1VZTGJTTjhTdnZDeGFDbks1bFNNX0JOSDhoTGZaSDZlM1c3dXZJLUJOdGZJSGlQYjZQMDZOZEZlZHpOYmlLemVGM1VaeU1xeVA4Y0ltdnFfZnVBRmZaZGcyNGpuSWhrWGU4QQ?oc=5",
       "publishedAt": "2026-10-15T02:07:52.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -157,7 +240,7 @@
       "source": "뉴스프리존",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GSFV5b0ZlRnFlanUwTGdLSk13dWNidFk2SFZSdWVaelQ1UWFpbkVPQTA4Y2FpZkJMdUlDbmludm1WZTJIMWVNOVlIQ0xMN2RoQkNVSmxaSnFtZ2pBM1lTSHJsTVFYaWtZdWtwUWlLUlIwUk3SAXdBVV95cUxOSGNhLVlyeXhaanhMSzZkTVBCU3ZLeGpzRVFYVm80cTVkd191a090M1B5dHlLMGU5T0hYVHNYWlF3MVhnMENKeWpDNzNHaTJILWIwQ25kOFVyaWlLT0N3YVJINnRvYmoxbldqT3NsLTJfcXF3S0ZVaw?oc=5",
       "publishedAt": "2026-10-15T01:18:29.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -184,7 +267,7 @@
       "source": "FETV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02S3p5TVQ2c1hvYUpDNDJwLWZHc3F5TjNUQzVRbUJUb2N6ZTVPUE10T2g4cWhiYU1STnlTRWRaRTZvLVAwajBiVnExMWV0bHcyQnZrcU9RM0NySmJnRHJmY29Ra19kWVAx?oc=5",
       "publishedAt": "2026-10-15T01:05:00.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -211,7 +294,7 @@
       "source": "초이스경제",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQnBsNlgxaDFwZVJWbE9NN1Q2a2VTNHVuemZoVDRBVHhmNXM3UVNFbjh3OWU2X01rQ1JpWDVRZFpGLUdrSHk0c0lseURNQzd2WDEwNkIzMnZ4Q1lDbFRPTVhxZGRmcWxXNDJiT1hMd9IBc0FVX3lxTE5PemtlRU5VUjZ1Nmk1aUZ0SmI1LXBIZnN4Zllvb083U1VaYmVMcUFCZlhWMVd6VzI5Z3lBdF9icXBfUk44cUlwNHhVMWdxd3NkOGlLLTVLT2NrQVRiU1RTZ28xSHU4OWVZSm9pNTk1NV94d1E?oc=5",
       "publishedAt": "2026-10-14T07:34:15.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -238,7 +321,7 @@
       "source": "버핏연구소",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KNkt2ejYwLVU1dk82dHdSMTJBdDVPWkJvYjhZV19Tc0ZuUTdYbk1oSW13WXpyakNzRV8xbzdnRUdPRnZRTXRqaW1WcG5qSF9LaXVORm9Mbm9pVDRMTmdDelpB?oc=5",
       "publishedAt": "2026-10-14T06:45:37.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -265,7 +348,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMWdZQU1vdWw2NEZUUXF5UjNrUEQ3ZEhRRldabXJnZFIwbDc1UnpBNHJuRzZUNGxkanY3aXlDR0FIZzJVZWdKRm1EY1dld09OYXpPQjV3bjdvN2twWnRr?oc=5",
       "publishedAt": "2026-10-14T05:38:58.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -299,7 +382,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVFOdEc2YS1TYVdwdHdRZ01oYlg3YUlWSUZOSkhuSkRwcXJodDZCQ19hRXBSR3NBUGh2anR1TUhGTTRMNmtBX01NanFhRjVFallpejRRM3E5TmExVG1qa3NVeWp2WkFrTjlOMW9TaXZDMDlBaHVOSFNPVVplTjB0ZU1nZHlpdUVj?oc=5",
       "publishedAt": "2026-10-13T23:13:53.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -326,7 +409,7 @@
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMERKaGxoSm1sMFpQc0xnNTB0ckp3QnBfUGtEdjRmWDFwbnBFbF9RRkVwVUlnUDlJa0Z4bkRkc2NUNE1RS1FlZWFMSm45cUVYQk1jNlBXcnBDRFNrQmNMTWJtc0tkU3pR?oc=5",
       "publishedAt": "2026-10-13T08:06:09.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -353,7 +436,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUTJHSVZBbU0xeUF1dFg3YzNUQi1rR2ExT3BCcmp2MTJXOWNxMlpqR0pyTXhKc2FxTGhPeEZaZXp2bUpSVHFoTElLWWw0YkNHUVF6Y2x6YkhpQQ?oc=5",
       "publishedAt": "2026-10-13T06:49:17.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -380,7 +463,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QZG8tTS1vZ0dIbGJoNDVHWGFDNDhFWFlIejl2ZVdIbjY1cEx4UnNKQzhILWtDUVBEVTFyQVZXeVc3SEhXNUpaY21jT3ZSVUlBU0Q1OUliN1AyWlFjNkRPMkpwNDVscUlLbTllbmEtX0I0OFk?oc=5",
       "publishedAt": "2026-10-13T06:30:30.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -407,7 +490,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56Q1BtX2hlXzl3X2taY1lLVlBmVmI0Z1ZRdWdfc2ppcmE2WUc4TnNRWDNVNmxNUXpuWXpHV0s1QmFuQWJqYk1ibW9kV3FMQlN1ZEJPZFFxUW1GOHhYZVhhNzdB?oc=5",
       "publishedAt": "2026-10-13T06:09:21.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -434,7 +517,7 @@
       "source": "중부매일",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yLVlqdXdfejZnVkJWVlpIN1NoSzlyaUlpVEp5UVltenlEcGZTbm8wdjBlQzlNYmppS0dSbll4ZkFJa3FYMG1DYzNuN2kyNnNzdXg3MGtKR001VGlBTkdxTWxzTFpoR2d4dUHSAW5BVV95cUxNTGRpcEtrcVVLWFdNN2l5SlJCMVZwQkNoejg4ZGNLTU1kSDZBQ0V4WjVNYzNqVVhPU09JclUxWFNFalNuTVlReklJVW8zcU8ybWc4T3ViVFhXaEpqbHF0WFhjNzlTOUZfTDNvbFRlZw?oc=5",
       "publishedAt": "2026-10-13T05:49:47.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -461,7 +544,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aYmVmdDJmcTBWTzR4cWR4bC1kYkhzWXJZc24zM0VDM1RzRzBGcnpaelVOWERsU0o0a29kSnZTVHAzcVlyYWxISGwtZmdfd3FsNW03TTdKR0x0cnJydjljc0NkVE5sTERj0gFsQVVfeXFMTkRkYmtBU0xTeVE1U0MxcmNadGdJLXQ2NHVyVGxFSlZBVFd2dndKVWFqVWRpMjdEQW5BNFJrQXBaSVctM252bW45SWVQYXU0dGxjUFpyZWZCSUVvb0tnaWVyUWEwNnUxWEJINGR3?oc=5",
       "publishedAt": "2026-10-13T04:53:52.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
+      "collectedAt": "2026-10-18T07:34:52.636Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -474,91 +557,6 @@
       ],
       "summary": "에코프로비엠, 유상증자 발행가액 확정…인니·헝가리에 8861억 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "88a3fedde95f35d4",
-      "title": "에코프로 8만1900원 약세…양극재 업황과 자회사 가치 점검",
-      "source": "잡포스트",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwZmJCazZDUXZETE04OVNieFZHRVk3b210LW42VFZJbUlwcGplV2Y3QVRhcTA1dkljaG91VWtvUmpIS3N4RGZWZ0xhT2J6X3pUT044ZFZYeXJZcWsyWGNwbUVqNlZDVnpFNTMxYmt30gFyQVVfeXFMUGl3bE1iRHdXY1ZPWnFZejVid2xrMklPUXlWS25sbmtRdEtDeG5ZTzF2VkQ1RXVHbEJKUEgtbjUyYmVXVFZFOHlEZ1hIc0Npc0FUUnZzSmhDajRqb3BMZmJ0aURWcFpqdktZSzBDUFJSOWV3?oc=5",
-      "publishedAt": "2026-10-13T04:45:30.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로 8만1900원 약세…양극재 업황과 자회사 가치 점검 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "약세"
-        ]
-      }
-    },
-    {
-      "id": "3e430aa9c4668df0",
-      "title": "에코프로비엠·에코프로 등 그룹주 일제히 급락…코스피·코스닥 양대지수도 '휘청'",
-      "source": "CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPTkdsdVlSdWYxc1hXekR3bDFZUEJyTUZzS2k4WnJQQUllbzkxTjVXYWh5cUlQdkpOTGxnN2FMMVZQdHlJZHl1WDk5X3ZSNDlWaDMya1ZhU0xselZfOUowdE1oUXBTbFJa?oc=5",
-      "publishedAt": "2026-10-13T02:45:16.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로비엠·에코프로 등 그룹주 일제히 급락…코스피·코스닥 양대지수도 '휘청' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
-      "id": "81d5c370b9bb1de3",
-      "title": "[에코프로 인사&조직] ①'전략통' 송호준 대표, '비엠·이엠' 겸직 이유는",
-      "source": "FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wYURza3BXMC1FNGs5T3E5VzFrUHA4WlRwcVJXb1ZiN0VqSGU3N3F4d0JnRnBaUkVYakowdkd6VDRXa1NRTlY0Z2dNYWdQTWdmMGFHd2hlUG1VVlFxWDNUYUZIWHdURWNP?oc=5",
-      "publishedAt": "2026-10-12T22:00:00.000Z",
-      "collectedAt": "2026-10-18T00:30:42.079Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[에코프로 인사&조직] ①'전략통' 송호준 대표, '비엠·이엠' 겸직 이유는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
