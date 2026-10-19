@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:12:45.022Z",
+  "generatedAt": "2026-10-19T00:37:54.008Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 투자 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차·기아 “로봇 이동 경로도 AI가 짠다”…미래공장 기술 200여 건 공개",
-    "자동차 공장에 AI 두뇌…현대차·기아의 ‘스마트 팩토리’",
-    "[정구민의 톺아보기] 현대차·기아, 파리서 신차·피지컬 AI 전략 공개"
+    "현대차·기아, 유럽 소형 전기차 판매 14%↑…中 공세에 신차로 맞불",
+    "기아 GT, 641마력 전기 라인업 확장…일방적 고성능 탈피",
+    "현대차·기아 “로봇 이동 경로도 AI가 짠다”…미래공장 기술 200여 건 공개"
   ],
   "articles": [
+    {
+      "id": "ee976f5c4f2a73c9",
+      "title": "현대차·기아, 유럽 소형 전기차 판매 14%↑…中 공세에 신차로 맞불",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaTVnUDl4TWxOaUM3aEFfX2ItSjYzSy0zSzJuLS1XajFFVG9lN3I2ZEp1WDhid0F1SWZiOTBQYjZuUHVHUEdwTUYyd3V0TzRvcEt2TWNtX1JZQQ?oc=5",
+      "publishedAt": "2026-10-18T22:23:08.000Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아, 유럽 소형 전기차 판매 14%↑…中 공세에 신차로 맞불 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "24fa9f8bfa190b40",
+      "title": "기아 GT, 641마력 전기 라인업 확장…일방적 고성능 탈피",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc25YNHZvZWJmTTc4SlQybWVlTVRfQzlrTG83S0JYWVg1RU1zMmhJeVpWSzJ6X0FYd01WeFFKSktUMVFlWkNwMHlVaDNQRHpHbTVKZ2F5Wklfdjd1TTFxVEFCUjR0ZFk1bDFCbDlJanhhT1gwckk5WUNxd1JGNHpYb1RObXlUd0Jh?oc=5",
+      "publishedAt": "2026-10-18T20:13:11.000Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아 GT, 641마력 전기 라인업 확장…일방적 고성능 탈피 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "002ad4dc330a9e23",
       "title": "현대차·기아 “로봇 이동 경로도 AI가 짠다”…미래공장 기술 200여 건 공개",
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MaXJINXVQdmI2bWxOWEZBUExxaHlPMlpraS1JVmF1V3JRX0JFckRTTFZGdl9Ld1N2cUhja2VpZ0lrTGEtMGhGNmNCT2h6c0xGenlteTR2dnlqd9IBX0FVX3lxTE01a1p1dGtFZmNVVEU2dDR1UzFfWExxQjVpaHJHbmJXRjk0MmNZN1FQMzZLV0RJNURUdzdIWUtiVm12UGhYRWtMUk9ZWmhmejdfMW9tOG8xcC1POFJlT0lJ?oc=5",
       "publishedAt": "2026-10-18T02:19:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -52,16 +106,11 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xZ25mcjNKMEItMXpRdHNqVE5qRmFEVS1JOTA1aDdMVGY5YlJkQjhTWHdKeWRrWC1uemJ3Wlk5RThsUURST2pVNjI5d0RCTW13UFJyekR0M28zWHR5YzdMeg?oc=5",
       "publishedAt": "2026-10-18T00:01:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -84,7 +133,7 @@
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcUJYM2g4WW1sM3JyMTI5LWVrcmd4Nkg0WXFfeFhtLV9YU2M1NmhOY0puRjg3SzBtdnhwbV9Qd05ySzUtTWU0WU1lcw?oc=5",
       "publishedAt": "2026-10-17T07:00:02.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -111,7 +160,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pWnd5RG5TamQwRTFKVVNDMWl0TFJPZmJSUUozUWZkTUJJMXUzLVNvZHo4UTFHM0owN3MxOXVHSTlvN3BsQnZTcTZDVy15VnVMQnpTdWZMSmtnTG9veGpfVzM0VQ?oc=5",
       "publishedAt": "2026-10-16T22:55:39.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -138,7 +187,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TLWtRTjdPWVlBMWpKWWZUeE45dVJPXzZxSmtiUkdxUjkya0FjS1h1VkN0SnNHZ2hyTWREY08yNDFTbDl2Nm4taU9PU095MmVGRUEzMC1OYnE5aUNiWTg2VWl0YnAzSkRzeVpVb1ZrcTQ?oc=5",
       "publishedAt": "2026-10-16T21:54:25.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -160,39 +209,12 @@
       }
     },
     {
-      "id": "c13df8c64119e09d",
-      "title": "[단독] 현대차·기아, NFT 차량 결제 인증·사고 대응 기술 공개",
-      "source": "디지털애셋",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uSjlwT0pJTW9Ob25LYlBPU1FOaUVZMlR0V043Q3RDaVVtbEhfX2luVm03UUF0Z1V0UGNha3dtYUlmOXNLUlN0LWozcXNsSXpVcmxYU0VFTFNGNzBpcUxseExKQ0x2SkhuU2xCa2RGN2JNdw?oc=5",
-      "publishedAt": "2026-10-16T14:24:05.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[단독] 현대차·기아, NFT 차량 결제 인증·사고 대응 기술 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6f0717705530669e",
       "title": "\"올해 안에 받을 수 있을까\".. 기아, 지금 계약해도 내년 출고 확정 신차는?",
       "source": "오토트리뷴",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5McFVZcDRQdkpzbVRBQUNJX0hCR2dyRjNIOVltektreXJwTGJCeEkwbTV3RDFKeFFpeS1fdzl4N0V1eUI0UFBTTEYybFVRcnpZVHB6OG83TS04T0JLd0hRWXYzcDkxcms1N1A2OXJ4Tjk?oc=5",
       "publishedAt": "2026-10-16T04:25:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -219,7 +241,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uNXpEMzNKU0VDOTVGdEQzQlA0ajR4NXJKX1piYUVqTlJidDhiLVphMkhxRWJfUnk3YmowNVZBXzh2ZGt1SlNIVG1TQ1B2czlhaC1xejVvb1hhMXhmeTk5bXJoaC1zNkE?oc=5",
       "publishedAt": "2026-10-16T01:02:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -246,7 +268,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0tIUW93TTh4dHF6WGdwWFhUMC1vQlJSWEJ1V2l1V0NPckZCQ3kwaWNvclJ5ZmZyTU1WbF9ENHVfZGoyYjRmWGt2bXZScTJ3aExyNFBkTWFaOUdXQkpSN2tBZjlSTlVzWkQ3R0hGbEJENmdBSlFOSWktMV9SZDVWNEdPVzNKVERwZTUxYWJseDVBVHlCQzdSVnd2cw?oc=5",
       "publishedAt": "2026-10-15T23:30:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -273,7 +295,7 @@
       "source": "파주타임스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbG13WEdDYjJnUTdzR2FiTDB1eENNSkxfMWNOc0tHM1JZWVkwNmticncxY2dIYlVKVUVQUk5CMXRVdU5MS3lmaU5NNFVoMExjenlwbWY4d0U2Yld4WlJ1eGlLN1F5M2pHaGpV?oc=5",
       "publishedAt": "2026-10-15T08:40:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -300,7 +322,7 @@
       "source": "한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByTDlZRVRhbkpaWjBwTUVwVVZZUWNXa1hYTzkwd0xpNG15TTNBTkhyd3dTTm9qUWVjbnAwMUV0Snd6OFBxclc5UnVFdDYyWFBONmtTX2swRUtjZkFqWm1jMFVRZ21oZw?oc=5",
       "publishedAt": "2026-10-15T08:05:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -322,39 +344,12 @@
       }
     },
     {
-      "id": "4b7cab1aabae0305",
-      "title": "(사)남동산단경영자협의회, 기아자동차 오토 랜드 등 산업체 현장견학 실시",
-      "source": "기호일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCeEwwQVBYU0JobWdKS1ZRbnRPZHFlczJWQzJPWHp4MHFlcWh0OFI1NUFqcF9qNkpKcjJJUGxSd3RaTDJ1QWg1ZDk0SHZnSXdDTVdPX2FpamVtMklPQk5paC14WTV4cEZtRDhKMnZoWQ?oc=5",
-      "publishedAt": "2026-10-15T06:50:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "(사)남동산단경영자협의회, 기아자동차 오토 랜드 등 산업체 현장견학 실시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c3bc50de63ed8066",
       "title": "\"신차로 못 사니 여기로 몰리네\"... 패밀리카 찾던 아빠들 열광하게 만든 ‘2천만 원대’ SUV",
       "source": "토픽트리",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcURfSG9EenlsdzJEaWljVTViTm9FSTBsSC1LcWVaMGFRNmtoTWVVUzBqX0NsdjJhWERxeV9TMklsNTluNUJ6c0pDZ2V0UEl4OFoyTG9yVVJsaFdXcktxS2hldno3b1Q5aUxEdDVXWDhiQm9TVWhna05ZOWlGVV93Vmk3eU9LWnow0gGQAUFVX3lxTE5ZOFJTYnlwOUx3NGpRNVZmVENNVzd2VWVIZGkwbXBxZU1XNEtwakxnTmQ2ZkFaMWpsUlpUM2FsamFHQ2p1U0ZESkJkeXRsMzlWRk5XWkZySWFhbW9mWmt2cllwbnpaS29QMlVvWnM0X2lDcmY3Zk4yT1cxbVdpRWlaaUlveU1MRWVtMll5SVRGag?oc=5",
       "publishedAt": "2026-10-15T03:41:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -381,7 +376,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWQjl1VXVoZzRkQXhwbktYUGhRZjYxa09NVnJvaWxJSGJlRUFOUTZUZklSZ29RNUl4UTc5QTdpOERUOXBQMnJFWmxWQmEwYVhQSFA0UlZBNEp2Wkg0Um5vRmxlTmYwcVR6V1BRWnFCbV9HQdIBdkFVX3lxTE80S1pfWllpc2V2SVhrRVhlaDZ4MzNnei1sOU5ubE0ySHVfNy0wdE1tamRXbk5BRWFHYXU3UGlrY3hlSTNDSW1IbTdLTmoxNk0zT3ZQUlhmRU41eXpidngtcUZjT3ZjeXVXY0wxNUlKRzdMb05VT3c?oc=5",
       "publishedAt": "2026-10-15T01:55:47.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -403,39 +398,12 @@
       }
     },
     {
-      "id": "c5ee4e81c479f062",
-      "title": "[경제인사이드] ‘동생’서 ‘라이벌’로… 현대차 턱밑까지 쫓아온 기아",
-      "source": "천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNlI1VXdNNzVXa2p3TXRVNmpGZlVPbGxCbUNvWmhoX3o4bWhDTk5qNXpVSERMTk9yVk9aVjlaVXhKb1hHaGQ3UldTWXBfY1ZfOTUxRFUtNW5lQkRITnlxQlkyWVNpMWFER1E?oc=5",
-      "publishedAt": "2026-10-14T22:00:00.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[경제인사이드] ‘동생’서 ‘라이벌’로… 현대차 턱밑까지 쫓아온 기아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7f905b62a86a3965",
       "title": "기아자동차 일반직 노동자회, 차상위계층 다자녀 가구 청소년에 장학금 전달",
       "source": "광명일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lT0dzYVl0S2I5NUJSZFZuRzFqM3JEN0RXU2lILVp3Nk5ZRk9rTWRrVklEVEVoSjk4WkJJUXJGbHhRTDRMYlhOWF8xeUVNeUptenMza2V4ZndhUVdPRDRndWNRWWZQVURR0gFsQVVfeXFMT2Rua0hqbDJhQXRDbWtONVJwdjl5emk1SzJVNjBKMEhoSXFVakFoUW9SdWZUTHVmaE5pTVA3S0FLMlJYdl9PUllONmw0akIzRDRTbjRLYjNlOGd0eUNvbDFVNHNhdmRzNE1OdnZM?oc=5",
       "publishedAt": "2026-10-14T09:03:05.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -462,7 +430,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qNmp0MzQwWEVsLU9IYkg1dWlmWDNoSnQ5R0dlMnVDakZuMEZ5U19QOWp5TUY2WkJpTUtBNzc5Q2M5NThlQWFWRDN5bkczeExaWDllOTVkN2xXN2vSAWBBVV95cUxNMFBRc29SVVE2cFZvb2pCbjZtQnhFS0JuUHAwbjZ1dThhMWNMNG9kZEhaenRaYXpKZGRIRk1NZFk1bC05RjNnT0h3YXN4SmhHLTRFR053WjYxSUstb211a0I?oc=5",
       "publishedAt": "2026-10-14T08:00:03.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -489,7 +457,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DM2g0eXRfUzBmRTdYNmExSFVSVXh1RFY4SEMtU0U3Y0lBWU5acV9kNmFzQWFDUDBzZGtEVUNLb3dwSmt4Q2d2aWVESjNUNldjT0g2QUZESU1zTVhOWTZYVHZUNA?oc=5",
       "publishedAt": "2026-10-14T06:56:53.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -516,7 +484,7 @@
       "source": "OBS경인TV",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lWW5IOG54VDlfc3Z0NmR3enl0eDk3dXpURnMzd2x3anByYS0wQVEwcE5MYzV0ZGtod3dKVW5MSzBMa3RQeGE1MjV4VmRrSnItUzFkczdyZUs2ZF9hT2hOYjB5TERtR1N1cE9NVW53?oc=5",
       "publishedAt": "2026-10-14T06:05:13.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -538,12 +506,39 @@
       }
     },
     {
+      "id": "82d4064f84ce2e0a",
+      "title": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWFxazcwRWR4bnpFQWY1YlU1UmVIMUxxWVdmamZocm5fQVREWEp3TjV5ZnBkNkk0YWs2VVJ0RUlVeTl6VjNiNWl2NUNaTEpJOHFhSjlrd3dZYnpYR3Z0TWFvR1ZUc1ZGVHFMYmJ2Y2hEVmhfZmZ1NEx2MDhOTzBHaURkX2FPVkxSSkRacUd6MVlTbUw5OHJncg?oc=5",
+      "publishedAt": "2026-10-14T01:40:00.000Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아 ‘2026 RD 협력사 테크 데이’ | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "82599dfbe3924e13",
       "title": "[이슈플러스] 스텔란티스·타타, 印 협력 강화…현대차·기아 흔드나",
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Lb3lDYzZuQW5vMk5EREdldW5ZYUlLRjZNYTFCZTNmOXpXT2NIaHlPdTNjQU83a2thbU4ydFhzSUt6bU1Kc0FoQXU4bVRiQXp4WW9mX0todnRtMXVnaVk1bXU0Y0U?oc=5",
       "publishedAt": "2026-10-13T09:39:58.000Z",
-      "collectedAt": "2026-10-18T14:12:45.022Z",
+      "collectedAt": "2026-10-19T00:37:54.008Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
