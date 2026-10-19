@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:37:54.008Z",
+  "generatedAt": "2026-10-19T08:17:58.133Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "현대모비스",
     "ticker": "012330"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[리포트 브리핑]현대모비스, '성장주는 처음입니다' 목표가 580,000원 - 삼성증권",
-    "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나",
-    "운전자 없는 택시, 정말 돈 될까…'자율주행 이코노미'가 던진 질문 - 머니투데이"
+    "[2026 강릉 ITS] 현대차그룹, 주차로봇·원격운전으로 이동 편의 'UP'",
+    "현대모비스·HL만도 '쑥쑥'… ADAS·차량용 부품주에 매수 온기 확산",
+    "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나 |"
   ],
   "articles": [
+    {
+      "id": "dae68c010a514e48",
+      "title": "[2026 강릉 ITS] 현대차그룹, 주차로봇·원격운전으로 이동 편의 'UP'",
+      "source": "ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10YTJrdGxORnpUTWc0cWxuOEdfNmd0S2FHRHpNMG9wREZVVzlPRzAtblBVOHdCdkZhTEt5XzlDSy01ME1IQmZMVk80QklsdnQ0T3B0VW9fZ2R0aXgxUzVPTWw1ZUZtcGl5OHdKQg?oc=5",
+      "publishedAt": "2026-10-19T07:35:22.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "[2026 강릉 ITS] 현대차그룹, 주차로봇·원격운전으로 이동 편의 'UP' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "45f2d96f1b87850c",
+      "title": "현대모비스·HL만도 '쑥쑥'… ADAS·차량용 부품주에 매수 온기 확산",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GWWVBcHJvS19PaXZ6M2VHdkdCXy1WVko2OEdGZnFVdUhaV2hURVk1Ql8xZzVBa2hjMUp6VHhfVDNTcWxHenVZckZJeERXNkszSmZydENxektmd0Z5ZE5LZVRPMUJkWU1XcG1SWjBSM2VZZEFvc3ZB0gF3QVVfeXFMTkZZZUFwcm9LX09pdnozZUd2R0JfLVZWSjY4R0ZmcVV1SFpXaFRFWTVCXzFnNUFraGMxSnpUeF9UM1NxbEd6dVlyRkl4RFc2SzNKZnJ0Q3F6S2Z3RnlkTktlVE8xQmRZTVdwbVJaMFIzZVlkQW9zdkE?oc=5",
+      "publishedAt": "2026-10-19T04:48:49.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대모비스·HL만도 '쑥쑥'… ADAS·차량용 부품주에 매수 온기 확산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "01bd78fca43f0f1c",
+      "title": "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나 |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjRFNYT3ZSUlR3b05qdi1lT20wdldIRU5EV0J1emliZFJmSC1TaW1oMDFoaUlscm41S0dXTVdyeFdQc3hfQ2lFTEI4RW1sZ3hlRUF6SFY0UkRna1hrVnp4N1FhTmhDbm5HVldlT2tmZUZwNVZr?oc=5",
+      "publishedAt": "2026-10-18T23:39:09.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "7c884727e0adbbe5",
       "title": "[리포트 브리핑]현대모비스, '성장주는 처음입니다' 목표가 580,000원 - 삼성증권",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VWjNJWVpqMk5ERG9lVUlZSWlnVkxIV2dZVDBqY09vQWlWVF9XN0FQTGtqM0xXSkFUQW13b3dNTzF5N3pQdmdzX0E3dkU1TTNsX2NkWUgxal9aWi1L?oc=5",
       "publishedAt": "2026-10-18T23:36:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -42,39 +123,12 @@
       }
     },
     {
-      "id": "b9e540998676c51b",
-      "title": "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sWHlDSVVsX0FNSHBZUDhsUzBqaEJYMUhZalVmQ01aWVZlcjlRRVNFTUdNWGhUc1pZR3lVTTZpS1BFelcySVhDWHFaeWp1RnJvcWtqNF9ITGxBSlVJVXNabk42OVRxX280YXo5bUhTdFc?oc=5",
-      "publishedAt": "2026-10-18T23:35:58.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "[기업 이모저모] 현대모비스 주주는 사업 매각가 보려면 프랑스 가야 하나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ca0ee21db5b29104",
       "title": "운전자 없는 택시, 정말 돈 될까…'자율주행 이코노미'가 던진 질문 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wR0l3Q0duOTBhYjV6V2lGOXFSMlVsZVp1UEo2YVdfZXVPbE1ya2pnQmxUSGFvQjNmWnMwSjlITmRZZlFJUXZXelB6blYyMGkzaFZBdGxUeDZBZlU3Z3BmYzg4d3lkQUVlb1JrSEI2LVXSAXBBVV95cUxOMEdJd0NHbjkwYWI1eldpRjlxUjJVbGVadVBKNmFXX2V1T2xNcmtqZ0JsVEhhb0IzZlpzMEo5SE5kWWZRSVF2V3pQem5WMjBpM2hWQXRsVHg2QWZVN2dwZmM4OHd5ZEFFZW9Sa0hCNi1V?oc=5",
       "publishedAt": "2026-10-18T05:31:14.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -101,7 +155,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NODBUeXo0Mm83akhJYVlvRlQ3ZHctYkVyNU54dVdlcHRjanNwdzM3Tm1xYW55cmVSZ3RSZ1gzNnhFWHpYUEJpU19KWEg0RDVyWkxjZVRZT3JVYV9JaEtuNENLZw?oc=5",
       "publishedAt": "2026-10-17T22:00:36.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -128,7 +182,7 @@
       "source": "여성소비자신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bjN6SzNlR0J3N0xKTVlNcXJSam5TenFwZFNLa3FwM3dRUGgzcXRoMW1ScjlWaXNramhud0JtUjFGaGgtTTZHTnRXVVFpdVRTc2EtVUZGd2dqb1pfSERkTU95TEMxQQ?oc=5",
       "publishedAt": "2026-10-16T05:47:23.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -155,7 +209,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RR0swNmlESWRUM2tQaERMamxudmhJbUkzVE5CMmZScnhTRFpaWVhiYTFmc2xuZWRWVjdjN2VjUHRYa2hUOUotZWJhWUxfQWVrODFsZkxR?oc=5",
       "publishedAt": "2026-10-16T03:14:17.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -182,7 +236,7 @@
       "source": "더에이아이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QmJHZmV3OFlCbmwxV1g2M2hSM2gyZGxWLXBLaU0telV5RllCWS1rRjlueGF2U3YxNnhHbHQwNjV4d3AzNUg5TldiS2E1cVN4UFVvUWVMZnc3QTJUT2xteXY1TFMycU4yNFhN?oc=5",
       "publishedAt": "2026-10-16T01:35:12.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -209,7 +263,7 @@
       "source": "알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLWoyVlFPaEVjazZCbEQ0VFlXRndhaFlpUlNLcjVHeWdGYzNGZ21ySlpBT3RZelFSMEVmeGZmTHBPak5YRklqWXAzRHVRN1lpeFR6Zi1mUUNTa1o5SW5Ka0plSkU1dzRlT29XVnR3?oc=5",
       "publishedAt": "2026-10-15T21:00:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -238,7 +292,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSGRDRnk3VTlOZzR4REwzQ2Ffc3lXRkdXODM4eFFFVEQ5U1BJanBaV0lLaGk4ZlM1TzkwMGtFVVNNR1Q5X2RRd2tJTlFKUExaQURyNkQwdDI5Z1lDV3dlaHhjM3p4VWlXTTlYMnN4NjRpdmlrdEtUWjEtTkoxX1E?oc=5",
       "publishedAt": "2026-10-15T15:33:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -265,7 +319,7 @@
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3LUlZMlMyVUVJa01wTEZyVXhhTlNEcjdRak5GRFFTSkx1dUUtd1ZaaEJta1VNQ1VYd21Ua1VXRUZETUxZTE4tZWRuTGFYZGdTekE0cFVKMmd5d2F4cUE?oc=5",
       "publishedAt": "2026-10-15T09:04:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -292,7 +346,7 @@
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aLU8zLWRYSFliOW13M29YaG5TcHBEYnhpVDc5eHo1WTgzNVNLeW5CSGpLblRYemVscEw2VVlPOS1VZkhIMkkzVGhvMy1QTTkzSnZFREpoblRCaXdTOThHY3EyR1M4Mzk2bHc?oc=5",
       "publishedAt": "2026-10-15T07:46:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -319,7 +373,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZDFEc3Y4eFJTR0NQcWtFSFNKMHBTa3hXSkJIakNBbXlDU2FuWVNXc0IxbjRBNnJ4REdyZWRCOXJRT1ozajROMTBpTzE3RDFaUXR2TWNyUk0xU1ltQmJDWjNwLVhRRzZBTnFyazJrQdIBc0FVX3lxTE4tcVRJMFpLcEp1OVU0Q3FJdmhVc3lsQWhtR2haV202aFRNcDQ0c2k4UjZMbjVmOGkyVlUxZDEtV05MMFhYWUxsUFJHWjFpUmk0emt3M3dVSDhpTnRCeXhuREhsdkJ0Ukd3VmxXdGRVa3RBak0?oc=5",
       "publishedAt": "2026-10-15T02:35:13.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -341,39 +395,12 @@
       }
     },
     {
-      "id": "33c8ff147e55fde4",
-      "title": "미래차 인재 한자리에…KEA, '제8회 미래형자동차 인재페스티벌' 개최",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Tb3BLWldYdGtvOExlcmJmTDBhN1c5cnFCV0tFUmVhclRoMHhzZnkzMVBpa2R0VmVMNW12aTVsSVBoSExtdzJrbVR4Y0U5dw?oc=5",
-      "publishedAt": "2026-10-15T02:13:18.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "미래차 인재 한자리에…KEA, '제8회 미래형자동차 인재페스티벌' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a646c04647793066",
       "title": "현대모비스, 중국서 로보틱스·피지컬 AI 협력사 발굴",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84U3dVcVZGUDJBdFVuU0pfbDRGVDRfUGRwMkdfUU5LR2Npd3doRVIwa1IxRlRGOExCU1ZNdXc4SjJKU1RoVTJCd2JGM3g5RmJVVnJDV2J5cnkzRGtncmgySNIBYEFVX3lxTE84U3dVcVZGUDJBdFVuU0pfbDRGVDRfUGRwMkdfUU5LR2Npd3doRVIwa1IxRlRGOExCU1ZNdXc4SjJKU1RoVTJCd2JGM3g5RmJVVnJDV2J5cnkzRGtncmgySA?oc=5",
       "publishedAt": "2026-10-15T02:12:03.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -400,7 +427,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaG8wNTV5RkRfZy1ROEpHek9LdlVSdG5WSGI2bTA4ODlTQ2Z0Q3NpX21sYkJnWl9SZGxfalRFcWQzU0lPRWxLVmFZZWRMQmhtVUlybmFR?oc=5",
       "publishedAt": "2026-10-15T02:06:09.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -427,7 +454,7 @@
       "source": "생생비즈플러스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzRE05bkJNWEUyM0hZOGE2XzJMejUzUFY4ZjNGZ1p3ajh6bVlUT2k4cXgtZ0hvOUFkb2VDOVE2UVUzWDctTUZWb1BvbE9mcVd6S3BwSUt2YnhsMGs1Mm1QUThqMldaR1BQcDBKYg?oc=5",
       "publishedAt": "2026-10-15T02:05:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -454,7 +481,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE53WXZDTTlNcERqMUYyZGd1UlZJQzlmSTc0Z19KcjgtcHdSamdXeW5BWXFNdHFvSVF0bi0tc3dYOWtxUWNZR3ZVYmg1SjNMVmxONmdrWWFRTEU0amN3dVdmWGJQNXd0NEIwR3BNRXB4d2t4dlZERGRpR2piSTJucG10emhlSzZKcWlHMWRuSkw?oc=5",
       "publishedAt": "2026-10-15T02:02:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -481,7 +508,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWWVuc3QzX2hlRmZMdmN3dzNVREdfaFV1V0JoZGNRZHpHM3o5V1AwN25ONUxIV2R6Z3FvMnpIQkRESDlpNXowTkFxbmxSbTk0cWNPN0hDOUNoZw?oc=5",
       "publishedAt": "2026-10-15T02:01:01.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -503,39 +530,12 @@
       }
     },
     {
-      "id": "56de142a2625555b",
-      "title": "현대모비스, 中 상하이서 로봇·반도체 파트너 찾는다",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54TTdadFR5UVV3UkJweFZpQ0lhN3ZMMktsaUkxMVM0WVBURWdYVWJabGp4WXJZaG9DUmlJYVBaY3hmNE9LQ3FGNmU3SzE3UFVGV1FzM0R1elFuSlZHSGs0RHgzeEx4VENCVEtpX2tPcV8?oc=5",
-      "publishedAt": "2026-10-15T02:00:14.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "현대모비스, 中 상하이서 로봇·반도체 파트너 찾는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d772c51aa5203a23",
       "title": "현대모비스, 중국에서도 오픈 이노베이션…아시아 시장 선점",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVT0FkYzhaM216cUhWZTFOeUM5ZmFQTm1yNUo4TmM4UlpKOElQdF9jaE9zaGdPQVRTSUFYZ0xFSzk5V3lZZEFSNGxzTjBJSGVaM0ZGOVppM3haQTBxUHZRZTRKYU1KaEk?oc=5",
       "publishedAt": "2026-10-15T02:00:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:37:54.008Z",
+  "generatedAt": "2026-10-19T08:17:58.133Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "SK하이닉스",
     "ticker": "000660"
   },
-  "dailyBrief": "오늘은 반도체 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 반도체 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
-    "삼전 이어 SK하이닉스도 '실적 잔치'... 3분기 영업익 77조 '역대 최대' 전망",
-    "캐시 우드 \"메모리 악순환\" 경고…SK하이닉스, HBM 초격차로 돌파"
+    "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+    "솔리다임 상장, SK하이닉스 ’HBM 실탄’ 될까…최대 20조 조달 주목 By EBN",
+    "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”"
   ],
   "articles": [
     {
-      "id": "62356fab9574a23e",
+      "id": "ce66bee3a047b600",
+      "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JRUpwRkRyV19Zd21EMjMySFBKUGIxdnlvNmJhUWdTaUFHLVJsZzR5WkZmSU43ZU1Qd21OQjJkNUQ1d3d1akYyZGdENmduc3BzUjBmRk5SdTdlUTk4RVFMVNIBYEFVX3lxTE5JRUpwRkRyV19Zd21EMjMySFBKUGIxdnlvNmJhUWdTaUFHLVJsZzR5WkZmSU43ZU1Qd21OQjJkNUQ1d3d1akYyZGdENmduc3BzUjBmRk5SdTdlUTk4RVFMVA?oc=5",
+      "publishedAt": "2026-10-19T06:00:02.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5f783eab53115da8",
+      "title": "솔리다임 상장, SK하이닉스 ’HBM 실탄’ 될까…최대 20조 조달 주목 By EBN",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyaUVDQ1lWalZ5dzBBU01LQ25pekVPQ2RvMzAtbVJ1OXpBcFREQkJxWGNxTEJPRHNSTTNlckstekVkU1BTbGh0U1dyNTJYZGstcEo2VDlvbGJvM2VGUlRNd2V1Q1BnZW5KWUNrNDBCRzI?oc=5",
+      "publishedAt": "2026-10-19T03:15:23.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "솔리다임 상장, SK하이닉스 ’HBM 실탄’ 될까…최대 20조 조달 주목 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "472d250f1c397a6c",
+      "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQdIBX0FVX3lxTFBsaTl3d1VKT2ZUWjhYS0Y5N18ybG5hakFZQW0tRTU3OVM4TUktYWxUWVJaZl9TVTVHMzlQR0Y2Vk04cFQ2SThUblhQLU9WVU5WUjM5S3d6NF9aT1MyX2g0?oc=5",
+      "publishedAt": "2026-10-19T02:01:00.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "0ada601b707b02b5",
       "title": "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
       "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SHBESE44Zy1pdVFiR3dQNHVfdzhJQU51cllqenNSSFcyQzhqT0NpMG9hRnljX1lNVDJ3cnJGT2lpT09iN2c2RzFuUjlyRExaeUpWSG9hMDFCaFNhLW5vaEtIVFVvQ2Qt?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KeU00S0VibUpZc0J1U1RvZUdUZkdGTjBiMWhkbGtXY2hxVU9ENnRxRk0yTzdNQ0FweWxFOVM2bVVCOWtqOWFwVmdsdGM3UEhZd25TUWtuN1JtZFFJSHpMVFZxZk1QV2M?oc=5",
       "publishedAt": "2026-10-18T23:27:27.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -42,12 +123,48 @@
       }
     },
     {
-      "id": "2c11b0d9ba70b388",
-      "title": "삼전 이어 SK하이닉스도 '실적 잔치'... 3분기 영업익 77조 '역대 최대' 전망",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fU0kxTTFBalJ6TFAyenJwdDJBXzF1WElIb2hxakVFVzhyQjBuSUVzbWRTcFRVS2djTXFsdXFPVlhzMzlBbFM2aUxES09SdEtOU1ctck41SU5Odw?oc=5",
-      "publishedAt": "2026-10-18T09:34:19.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "id": "945ef2778e9b4d7e",
+      "title": "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
+      "source": "조세일보",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RcEZqUTBwa3E1cV9NTkZkY2I5czZwU0dwNTVKLTdQN0NNQ2xtUDNlbXlzNzZaQ0hJbjZWUzBQYUU3V2V1MU9lYnI4UUtZMWUwZGtOeEJITmowNEZUQVhv?oc=5",
+      "publishedAt": "2026-10-18T22:55:56.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.18,
+        "confidence": 0.94,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "05fa629acaf7c462",
+      "title": "주가 폭락에 '쪼개기 상장' 논란까지...시험대 오른 SK하이닉스",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZMGlSRXBaUFlQaEJfQW1KVkJqWnVrQVRUTDFoQkQwT242SWdwZ2pOOGpvaUY1UmExaE80TTFXb1hIQVI3Yy1uRGxMVmJFWFNIU1d2eGFmQUU3RG5EbHhnWjA2U2V6aElFYldzR24wYw?oc=5",
+      "publishedAt": "2026-10-18T14:23:00.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -58,16 +175,46 @@
           "ticker": "000660"
         }
       ],
-      "summary": "삼전 이어 SK하이닉스도 '실적 잔치'... 3분기 영업익 77조 '역대 최대' 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "주가 폭락에 '쪼개기 상장' 논란까지...시험대 오른 SK하이닉스 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
+        "label": "negative",
+        "score": -0.87,
+        "confidence": 0.92,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락",
+          "논란"
+        ]
+      }
+    },
+    {
+      "id": "71609832d6b39ed0",
+      "title": "SK하이닉스, 美 솔리다임 상장 추진에 ‘중복상장’ 논란",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3pEWjBYZ0NKd3JOZ3pzMkJNd1ZhZmRnbGU2VEw5UXNwcGp4czhvQnoxdXVpQno2dnRfWG9KbDFDamNtNUFVclNrbDVrMmh6WExOR1J0NkpKcFJMM3NBNFpNdVlUczlkNmtnZjVDZS1KeXlwSDZyWVpEeDY3eTN5LVpLdUhJdC1HeEk4?oc=5",
+      "publishedAt": "2026-10-18T05:19:48.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스, 美 솔리다임 상장 추진에 ‘중복상장’ 논란 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.32,
+        "confidence": 0.64,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "논란"
+        ]
       }
     },
     {
@@ -76,7 +223,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTF4cFFkcEU2ZWxsWnNKcXFEYnBRVnJQN3FZdDl5elpOWEVMbHB3SHFkUFlUMEk3OFBVN1BBbUZSazBLdnVGWEt4LTYxSnlOYlZscERrZlNXZDdrQ2NBaE5XZVBaelpYc2JlZXJjeTVObjhkU3kzZ3lGM21fMU5WLUg3eVBuU3pH?oc=5",
       "publishedAt": "2026-10-18T04:23:17.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -107,7 +254,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OellTQmxZUmxFNVkwT3llR29KM1U0ZEhtelZ0OXBKSzhsNG5tM3hHQXVDbHBELVFzUnpWazdQY1hhTUwwbUNZejRVT3RFZWc5NFJ5NnFOdWU4M1BfV2NxUEsxd3lVNFNNS05rdXo5dmY?oc=5",
       "publishedAt": "2026-10-17T23:08:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -129,39 +276,12 @@
       }
     },
     {
-      "id": "6c9f45d817353372",
-      "title": "SK하이닉스 P&T7 공사현장서 끊어진 밧줄에 작업자 2명 부상",
-      "source": "KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EWENsczZYREhma3RVM29TMERqbjE4bUU1M0JjUmlUTkduYVJ0YmRxR2FqNk5TVkdVYmZ0NEhrLThWOTVXdlpMSzZoUXQ3bjllVloweERXQTBib0E?oc=5",
-      "publishedAt": "2026-10-17T05:48:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스 P&T7 공사현장서 끊어진 밧줄에 작업자 2명 부상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e7c71fbd1a498be4",
       "title": "\"유독 하이닉스 주가만 더 빠진다\"…개미들 분통 터진 까닭 [분석+]",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XelB3ZWtXR3ZpZHBDeW5jV3pZVUJ1and4UjFNNDNaQjV1ZENxemI3MTRwRzV6RFpNQ1d5Qy1yNzM4VWVTcmc2a3BzTnktWk4tTHRLT0poRDJWUQ?oc=5",
       "publishedAt": "2026-10-16T23:06:22.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -183,12 +303,12 @@
       }
     },
     {
-      "id": "9c0bfd5cc5013bc5",
+      "id": "6eae01fdf9c33af8",
       "title": "[퇴근길머니] 20대 개미, 가장 많이 떠났다…\"SK하이닉스 가고 싶어요\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5LTFPQ01VNjdnNHBKM1hWcGVfbmo3dVlwQWdjU0JKQlJXWjdVNkpleXR4eFpKenVvdFhxMUhNWkdhaGVsUVVLcnFXZmE4Z1lfbkxlSEV4Rnc4aVVfTnlERdIBYEFVX3lxTFA5LTFPQ01VNjdnNHBKM1hWcGVfbmo3dVlwQWdjU0JKQlJXWjdVNkpleXR4eFpKenVvdFhxMUhNWkdhaGVsUVVLcnFXZmE4Z1lfbkxlSEV4Rnc4aVVfTnlERQ?oc=5",
-      "publishedAt": "2026-10-16T08:20:01.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INjVZX0g2RDk1cXdZS1VvRWp3dnFiZXNid2hFc1dMNlNhQVpQMl8zLWlCTEFWeHl0MDVUM19aMGdGNXJkWmV3eWVtdEhqeXBwNUJMSl9acGFNWE9zbm1oV1lBVExKRlU?oc=5",
+      "publishedAt": "2026-10-16T08:19:00.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -210,120 +330,12 @@
       }
     },
     {
-      "id": "12941af83b97039f",
-      "title": "\"효율성 높여” SK하이닉스, 차세대 AI 메모리 기술 제시",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82bjN5SXg5OVE4c3pTbDlHUnNVc3VDUHVXZjItamZFR3VMSVh2NnV5aDRsUEsyTjV5TzdleGI0ZUdvVVNad1JYM0NKazQtNUxDX3dOVi1tRlpiSUs3SUtpdklTUXVyV2c?oc=5",
-      "publishedAt": "2026-10-16T05:36:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "\"효율성 높여” SK하이닉스, 차세대 AI 메모리 기술 제시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c15c331c7edbd3fa",
-      "title": "SK하이닉스, 협력사 임직원·가족 서울랜드 초청 '땡스풀 데이'",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91V2ZJUkcxWjhiYUF1dE5tWERYQW1zTU5BcVZBYlZFRzRtTzV1d2xVdzh6RGdIMW8xSUQtQ085QXlJeUozdmR2eHhxUXhpVEtqRE16VFh0LXQ4S1o5N0VXNtIBYEFVX3lxTE91V2ZJUkcxWjhiYUF1dE5tWERYQW1zTU5BcVZBYlZFRzRtTzV1d2xVdzh6RGdIMW8xSUQtQ085QXlJeUozdmR2eHhxUXhpVEtqRE16VFh0LXQ4S1o5N0VXNg?oc=5",
-      "publishedAt": "2026-10-16T05:23:57.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, 협력사 임직원·가족 서울랜드 초청 '땡스풀 데이' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "23cb91a5961fd457",
-      "title": "[기업 이모저모] 다시 초심으로!…SK하이닉스, 43년 역사 오려 붙인 이유 |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EYXF0dWtObnhsdC0zdmJnQmlYZ015LXJmRFphTlkwOXA2TTZsR05SWUh1TC1iSWNzazJPSzhXcmxpZF9SclhQR3FVNWY5Q0JVRHRmZFluWlBlLUt5LUxkOU5pMkNiUDJ1LUhKOWJNUU9qUUFo?oc=5",
-      "publishedAt": "2026-10-16T00:16:59.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "[기업 이모저모] 다시 초심으로!…SK하이닉스, 43년 역사 오려 붙인 이유 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "77e9e1886d3d086b",
-      "title": "SK하이닉스, HBM 16단처럼 쌓은 43년…’초심 3부작’ 공개 By EBN",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQN0JZbG1IdXF4Y3V3aS1ScGpiYURILUg5N0UzVTEwV3NSQ0NLTkYwU1dUM3ZUY0pvN01xQkJGNWRCN2Q0WXpBbnYxMzBhcWRIaVhFQmtoam5BNGNsUS1pYWpFQVMtSURWZFRFVDY2WXE?oc=5",
-      "publishedAt": "2026-10-15T22:40:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, HBM 16단처럼 쌓은 43년…’초심 3부작’ 공개 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "902c210c17131b40",
       "title": "\"미국에 공장 짓는 대신…\" 중국 장비로 딜 요청한 SK하이닉스 [지금이뉴스]",
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nNGFYd2g3aUlwZFhIYXJtU2I0SVF0VW5ORllsYjNkbkNDNGZSSndZMlRaTmZWeTIzVHZVdy1LS3h1bWd4SUhUZllwN0txMnFDVDlxNUswbG9DWjliTHhhcU1nbU83d3l5cGJ2MmYtZVNhNXlXUkE?oc=5",
       "publishedAt": "2026-10-15T07:50:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -345,39 +357,12 @@
       }
     },
     {
-      "id": "8da30b908823fecc",
-      "title": "SK, 솔리다임 중복상장 따져보니…총수는 이득, 주주는 손해",
-      "source": "한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LY3RNVTNpRDhoRnp4Tzh0d1dzaTNmYnVzRGtBMWlqeGFiQlV3ckJQSmdlTzdEdmhFd2lUeXowS2Y1Mm5BdW51REZ6NnFmRldkZHZZUEFJUEt3SWsxdVJrbjVOaDEwaDg?oc=5",
-      "publishedAt": "2026-10-15T03:08:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK, 솔리다임 중복상장 따져보니…총수는 이득, 주주는 손해 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1d59dbd4067f8119",
       "title": "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”",
       "source": "주간동아",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZ1h2OC1zSUhJX1lTM3hfX2JXSTFSNG55emV5ZkE2UUlxVnY3UEpIV2VHNWxoYThLeTRhRWpHc3hfQUxIT2h1WlRDSzRsRm45NHZzYnBYVGVycGpwdVBPRXMxaUZmS2JU?oc=5",
       "publishedAt": "2026-10-14T22:00:02.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -409,7 +394,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aelJZeTVaYWdjUjVRS01HVThQbGM1S0VReHBPVUZvcmRjVDJNS3Nva0FLYnV4dGdaand3QmsyU0c1bFJFd1h0elZmUExLQU5Xd0gydER4UVFvLXNLQTBlWTB2eDU4NFFXUG0xaQ?oc=5",
       "publishedAt": "2026-10-14T22:00:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -436,7 +421,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQkR4cWxqcFZWM2VuZUNScF9qYnFVckp4WTBTc3VnalpiNkw5ZzRmZGlxdnExWVM2bHZRdFpoN21PN2s5U0VwVGVpOVNRbnpzcGYySS1SQXJOem5Db1RSZGJZNTJuam83azh5YzFSdzl4UlF6Z3fSAWZBVV95cUxQS0RVZ0VaZzBkRnJBSGVSZ1hoV1JXcnVORmQ4aHVtc2oxLU9Pekk5MFpidmNVTDJnRm9zRlN6WFN1Sm1VM3BydjhkRDBHbng1QWo3RlhNcm8xeFRXR2d2SVRFbG8xM1E?oc=5",
       "publishedAt": "2026-10-14T15:30:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -463,7 +448,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1cmJ1STVqbEZTWlFqdWdKVVlQeHoxQTk2M1VGcW5kbE1qYU9LMjJ5eTdhb2pLSGV0YnhjRUYtaTlHc1pjekV0S2pxLVhjVC1TbWV3dkdaQ00wTjRJNTlqbk9teDRwQQ?oc=5",
       "publishedAt": "2026-10-14T10:02:21.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -490,7 +475,7 @@
       "source": "더글로벌기빙뉴스",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XS2ppczJIdWh6c2V5UjZDYS04TVdPNFdmQjB4OWkxSmtmQWt3bmxLVEF1NzVOMEdPZjRmT1plT2dtVFlFNmUwZVA3b19NeEExNkllbQ?oc=5",
       "publishedAt": "2026-10-14T09:19:00.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -512,12 +497,66 @@
       }
     },
     {
+      "id": "dca1a97b42ede740",
+      "title": "“SK하이닉스, 손절할까 버틸까”...월가 고수는 ‘찜’했다 [머니+]",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERUYwcC1Rem0zUFJCdEhpaUw1cG1DTFE1QjFxWGtoSXVmdnUxZVMzNHg2SFkwRFQ5MUpxeFpEd3pHTk5VYVJpS0ZHR2xhZkxvbnlOSGNUblZnX3M?oc=5",
+      "publishedAt": "2026-10-14T09:15:24.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“SK하이닉스, 손절할까 버틸까”...월가 고수는 ‘찜’했다 [머니+] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4dd1238053856c49",
+      "title": "[SEDEX 2026]SK하이닉스, HBM만으로는 부족…'신개념 AI 메모리' 꺼냈다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LUTZuMWhWMU14Yk1OZERnZlZnX3ZrTzNWSVpxUWVXNlowMTNUSnBYc2hSZEpVOFFCQXhYdFZ3Z2hEQ2ItazZ2WlJucTktQQ?oc=5",
+      "publishedAt": "2026-10-14T08:12:13.000Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[SEDEX 2026]SK하이닉스, HBM만으로는 부족…'신개념 AI 메모리' 꺼냈다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "683baf09b5e6d931",
       "title": "SK하이닉스, HBM 넘어 HBF로…AI 메모리 계층 최적화 추진",
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ma1RTZnU1YWhiTkRYYUg0emt3alo0eGp5OXNSamhOYzRDbTFXc0ZjSjNSTmdyVVg5VHVzX3p5OXozNXFQLUluSmtaNWhOZ28xU0pncTkyV19jelVMYm9sbzFsWjdQdw?oc=5",
       "publishedAt": "2026-10-14T07:45:03.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
+      "collectedAt": "2026-10-19T08:17:58.133Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -529,33 +568,6 @@
         }
       ],
       "summary": "SK하이닉스, HBM 넘어 HBF로…AI 메모리 계층 최적화 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "594c1a3762a1984e",
-      "title": "SK하이닉스, HBM 넘어 메모리 계층 최적화…AI 추론 병목 해소 승부수",
-      "source": "청년일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRWpMSHZBSmlMVVVreTJrOFo3M0tHSDEtN2JtX3VMcmVkMFdRVFFlUS1EMnJCX0VaZHBmWEJUYTFTMXYxRV85dXBxcTQzckQ0QVU3M3p0WS15Mmp2ZlZ0VjM0VTI1M1k?oc=5",
-      "publishedAt": "2026-10-14T07:39:36.000Z",
-      "collectedAt": "2026-10-19T00:37:54.008Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, HBM 넘어 메모리 계층 최적화…AI 추론 병목 해소 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
