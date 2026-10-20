@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:02:57.163Z",
+  "generatedAt": "2026-10-20T15:29:32.530Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,105 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[핀포인트] [LG화학] 투자 줄여도 돈줄 막혀…양극재 회수도 지연",
-    "LFP 폐배터리 빠르게 느는데...\"뜯을 수록 손해?\" 재활용 딜레마 - 머니투데이",
-    "반짝 이익 끝⋯ 롯데케미칼·LG화학 3분기 수천억대 적자 예고"
+    "LG화학, NPG 사업 철수 검토…고부가 전환 속도",
+    "LG화학 김동춘 먼 미래 보는 사이 눈앞의 기회는 경쟁사로 : 북미 ESS 시장 확대…",
+    "석화 반짝 흑자 끝···롯데케미칼·LG화학, 실적 악화 속 재무관리 부담 커지나"
   ],
   "articles": [
     {
-      "id": "57ee6fa88e964230",
+      "id": "d8f3b4644da5e5fc",
+      "title": "LG화학, NPG 사업 철수 검토…고부가 전환 속도",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pcklyN21TOXZqN2NRcHV2LU5SRWpOZXV3emZQdDNXYUkxQlVuck9EYzFNcTNNVURXRlhLZDZwaWZOdVNKbUdDOVZrSFVJcmJZVmJPc0NkM2JxMVUydHZmb3FMQ28?oc=5",
+      "publishedAt": "2026-10-20T09:11:34.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, NPG 사업 철수 검토…고부가 전환 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "db60ec159ccd0989",
+      "title": "LG화학 김동춘 먼 미래 보는 사이 눈앞의 기회는 경쟁사로 : 북미 ESS 시장 확대 전망에도 LFP 양극재 양산은 2028년 이후로 지연",
+      "source": "허프포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94bC1QVE85N2JxamtMeWg1ZlhqNkVDODhfVkRWVl9VNk1VX2lJNmg4M1REV0E4MEFETjNTWlJBdlVIbnNqTk10aWNleEJ1dFZLZDNnSzd1dw?oc=5",
+      "publishedAt": "2026-10-20T08:35:18.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 김동춘 먼 미래 보는 사이 눈앞의 기회는 경쟁사로 : 북미 ESS 시장 확대 전망에도 LFP 양극재 양산은 2028년 이후로 지연 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.35,
+        "confidence": 0.66,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "지연·실패"
+        ]
+      }
+    },
+    {
+      "id": "d119cf3c14ce66e6",
+      "title": "석화 반짝 흑자 끝···롯데케미칼·LG화학, 실적 악화 속 재무관리 부담 커지나",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XSDhlUkVGZHFvREFlRklDaGU0ZnBDdmxmTmp6b1VVSkxCR2llZHpuTUJEbXhLMEQ2N256MTJKSmE2bjNidFB5V1hwRW8yV0U0d25xYTNRVV8wVmdGcWk2NTV3SEs5RlRZcEVhM002QTRMQdIBdkFVX3lxTE54akUtT3hWV1VSOE9JWk11MjlDTXNfeFdMaUdwX09JSS0yWU9iMXBUU0N3Q0w4NHViM1k5Q0xWb0dxZUNseFdjRmpDaTNiMmtVdS0zWG9OLXIwaGF0STdmMlV3NkVRTHJYVE0zeXBheEV4a2VFOGc?oc=5",
+      "publishedAt": "2026-10-20T07:07:31.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "석화 반짝 흑자 끝···롯데케미칼·LG화학, 실적 악화 속 재무관리 부담 커지나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "실적 부진"
+        ]
+      }
+    },
+    {
+      "id": "e6cddc08ff52230e",
       "title": "[핀포인트] [LG화학] 투자 줄여도 돈줄 막혀…양극재 회수도 지연",
       "source": "DealSite경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TVEhrNVVaTnhPMUVfcFBNalQyd1c5UVFyMFVBZnVCcmVyNjR1Zm5HeVVDeGg3Z293djhCR0pzTEZpQUdSd29zTF9IeWVqMjEzeU15SzhVcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44dlVKdThhcy1oZzFlcFRxTzlsbXlPZV9yX05uS1hYb2JWNmVCRElwSUxyWUpYaG9NdHBRR0lxdG9ROElrclQ2S1VqbW1qT3p0R1kzSFR3?oc=5",
       "publishedAt": "2026-10-19T23:00:29.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -49,7 +134,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9abFJySEVYRVpOcUdfdkg0a0xiOUdKVGpqOVFNOHZfUElLdUVUbzB6ZmtHVnNIa0d0ZDR5V2dNSnE5RW1lSmx1eGk5VUFfQ096R3BWSnUySHEzS2NzbVA4LTUwTFNjNkRzVnZoQURCUTJkUdIBckFVX3lxTE9abFJySEVYRVpOcUdfdkg0a0xiOUdKVGpqOVFNOHZfUElLdUVUbzB6ZmtHVnNIa0d0ZDR5V2dNSnE5RW1lSmx1eGk5VUFfQ096R3BWSnUySHEzS2NzbVA4LTUwTFNjNkRzVnZoQURCUTJkUQ?oc=5",
       "publishedAt": "2026-10-19T21:00:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -71,68 +156,12 @@
       }
     },
     {
-      "id": "fb8ef67fef3e3263",
-      "title": "반짝 이익 끝⋯ 롯데케미칼·LG화학 3분기 수천억대 적자 예고",
-      "source": "브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MbnhFY3NCOWs5VG5KMWdOLXpKSDFBd19kOHZNSC1WelFub3M5WGd0OTBnaFpBcVlVZ1haa1dQMVhNMXZyNk9hcG41d3RtdmowVF8wTDRxblQwQQ?oc=5",
-      "publishedAt": "2026-10-19T07:17:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "반짝 이익 끝⋯ 롯데케미칼·LG화학 3분기 수천억대 적자 예고 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ed490819b24d38b3",
-      "title": "[특징주] 이차전지 일제히 급등마감…미국향 ESS 실적확대 기대(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRE5lRzJQa0lMYXA3cVczQXREU3Vxd2xxWGhNQzg3bmgtVGZfNkZIRTdfZ2szdzBqSWd4UHRBUEhIM1plUjM4UU1wWVFCVHFXZ1k4R2dJUFNENzViTFdaYdIBYEFVX3lxTFBtRE5lRzJQa0lMYXA3cVczQXREU3Vxd2xxWGhNQzg3bmgtVGZfNkZIRTdfZ2szdzBqSWd4UHRBUEhIM1plUjM4UU1wWVFCVHFXZ1k4R2dJUFNENzViTFdaYQ?oc=5",
-      "publishedAt": "2026-10-19T06:55:36.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[특징주] 이차전지 일제히 급등마감…미국향 ESS 실적확대 기대(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "급등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0130e32a8889b158",
       "title": "LG 구광모 회장, ‘전자 호조·화학 부진’ 끝장 점검",
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DNlpQLW9wOWdLamR1T3RaLWgtakFkdGFrUnl1RjZpRkQtLTZoUDJTNGFaa2lDNHRwdUZ6SlJObjAwTTJ2aE5kZ0ZHMmhHSkJV?oc=5",
       "publishedAt": "2026-10-19T06:17:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -159,7 +188,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibGRmZmNqNUF1LUFaZ1FUR0ZxcVV2amc4M3R6b2hyNE5VLU5wT2xydlN0aG9NYlIyWEJiUy1PZldZdEkwWlZKb05nbElnYlhlNlYyZVJXUHpXcExiVFo0SWxOTjR4eUtWNDFaWU40QnRqUdIBckFVX3lxTE9ibGRmZmNqNUF1LUFaZ1FUR0ZxcVV2amc4M3R6b2hyNE5VLU5wT2xydlN0aG9NYlIyWEJiUy1PZldZdEkwWlZKb05nbElnYlhlNlYyZVJXUHpXcExiVFo0SWxOTjR4eUtWNDFaWU40QnRqUQ?oc=5",
       "publishedAt": "2026-10-19T05:40:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -186,7 +215,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2E4bmhlakh4NEgweE92UzZ3dGZzNWw3QU9nTUVzRHoxWXFqRFo4VWN6Wng2UzhOektIWWlaVTZyUHBzWkNEU1p1WUU3S3B3MkthYmh1U1ZNdUZyMjYtTS0weld4a2tDWnJ1ZW1UUDVGYWpOOXhPc1dKVnlvY2FKVWtCU2FFZjFm?oc=5",
       "publishedAt": "2026-10-19T05:31:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -213,7 +242,7 @@
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bWZrdDVFaE1RRExrZW5ySld1WFlwODVCYUVLWjRiUGdBQkREa2c3LXNMa0hyZ2JoQldBZnFELXQxdGpYamtobFVoQ04yU2xPZGZfSkR6Xzg5UkdqZmhlNTdjSUUtbzJxM0E?oc=5",
       "publishedAt": "2026-10-19T02:11:28.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -249,7 +278,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfSjJiOFRSc2wxOGZRZ3AwUm9USXp4ZktPMC1VWm5WRE1sTTc4SFB2S3pZS1pEUTFLMldtaUVUX2JaWm1DX0tVc2xWREVfQ3FGblUzNWloVkx6ZlXSAWBBVV95cUxPUnhkYWU1aWNFSnRRMzZ0V0s3MHBHYXl6cEE0QTZ4WXEteXB0cnFZSlZ4V2t2NE4xV0hVOElkWTRNY2pLOWNjYzRyVWY0dlhUdVBsTVJOcnAwQkZpdTA4QUY?oc=5",
       "publishedAt": "2026-10-19T01:02:41.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -274,41 +303,12 @@
       }
     },
     {
-      "id": "7f0d704098f3fad2",
-      "title": "\"LG엔솔 납품 ESS 화재→지하수 오염\"… 美 넥스트에라, 뉴욕 2개 저장소 '가동 중단'",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFM4N0RhUmdKb2hDLVJRYl9GQU5vS2l1SEFkei1tNjVqRlVOcXlwLTNOSkVfdEw3R0JfYVVwazRnQ2h4a2pndFlhcGRNa05LeEwxTHBPVlpMMmZXZnZjVVVwZ3NSTzlVTENaUkU5Wmh1Qi1YNFJCcVZYRER1UVdhQzctVWJaTWJx?oc=5",
-      "publishedAt": "2026-10-17T23:36:14.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "\"LG엔솔 납품 ESS 화재→지하수 오염\"… 美 넥스트에라, 뉴욕 2개 저장소 '가동 중단' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.45,
-        "confidence": 0.71,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "생산 차질"
-        ]
-      }
-    },
-    {
       "id": "2eaf3454b1d14e24",
       "title": "[K바이오 신약대전] 영업익 540억→1280억…LG화학, 희귀비만·美항암제로 '퀀텀점프'",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zOTNpdDNEX2ctNjRKUkdXTWI0MFB1UjZWaVhmc0hwTll3RDFpNHhwU1R4dm9nMTR4ZUR0c2JxZmI0NHJEUTJPMTRwY0VSYmpkWXhqYlo3S0xZaHNLb1E?oc=5",
       "publishedAt": "2026-10-17T21:00:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -335,7 +335,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tbDJJMDhwNjYtUTFjRzUzYTdJOTJkS3BSMndnYjhYTF9DcmVJUUJiRk1TaVJxZ1ZsZFRocDVJeEhsYi1uVmNPSWhhZGkyekh4R3dpajJVMldRRElzaEp0SDBaa0FNaHQySE5jU0Z1NnoxeGZKVXdj0gF3QVVfeXFMTi1sMkkwOHA2Ni1RMWNHNTNhN0k5MmRLcFIyd2diOFhMX0NyZUlRQmJGTVNpUnFnVmxkVGhwNUl4SGxiLW5WY09JaGFkaTJ6SHhHd2lqMlUyV1FESXNoSnRIMFprQU1odDJITmNTRnU2ejF4ZkpVd2M?oc=5",
       "publishedAt": "2026-10-17T08:05:40.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -362,7 +362,7 @@
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IQVVwWDFOOUNPNDRfc01MMUN6QWlCR0d5eHppVXdPaHVLTGZncVlzbUJKVFkyZHluWFVWOXhOY0R1VFJ6ZUdIYWNrSzRTdm9rbnBIWGdwM1hhTWk3ekxSbzdDbm5Cd3FicGFsX2F5c1Z2NzNaSmR5VkRVS0w?oc=5",
       "publishedAt": "2026-10-16T07:23:46.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -389,7 +389,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zd0ZNNDM5YnljZkFvOXFNeVdtODZfdHFDd0pzR1M3Ykh0QjFhdmtGOExQNHJRaFF2cWdUWVpTNUE0RkVBLVFSVmpaa2ppNzREaUhadVFKTTY5SjhzaEpSOFlvdU5TbnB5YXNGUF9KYnRSb1RDUWk4Vldka9IBgAFBVV95cUxNaE1Wb2lXbkFKeXczWmV6Qkt1LThpbllDd056RDJLcmZyeW5aVmZoaU11ZzR1WnFITjNJYWRaX0RIT0N0TWl2VzNORjd2a1YwVW1qaHBKNTZGZXBjVTBOdUptN2NpWHNLTC0xY0xnNENrV3NHTmNtMDh0WThJWnNxSg?oc=5",
       "publishedAt": "2026-10-16T02:02:45.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -416,7 +416,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZm9rcjlKUFdMTFBoeHNuOGx2NUNvSi13eUpDMmYxX1FQeXRWYzZDeTR4RDdPNnpXTjNESklaZzZRN2xra0tWaXlnMk52YlQxVk9yYjBYbEkxalpma1E?oc=5",
       "publishedAt": "2026-10-16T00:35:07.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -453,7 +453,7 @@
       "source": "뉴스웨이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KaFFfdkl5R2hyTjN3eW9MYXNlMzFJQkQ2T0ZTMTJjNmZyVzk1M1ZWRzY2ZUZ5UU10YmIyQldhTVJNVnpIVUdwdmkyVDRuQl9vdW05eFBRNnFNYzJlai1zT3NMd0VCU0dBX2c?oc=5",
       "publishedAt": "2026-10-15T23:18:44.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -480,7 +480,7 @@
       "source": "인포스탁데일리",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXR4NHpNY0tpYjNiY0RRUklfUG1VVXVrbWwwYVNVLW5oVDZnY0JHY29URlR1WXdfME5VT3B3T2k1MDFnd1hETHlKeUFKMk16eGdlb2xJVWFSdUhsb3NnVFpOSmFGY214REJ2c1VTdTFPRHVCaXc?oc=5",
       "publishedAt": "2026-10-15T02:17:52.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -511,7 +511,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54UkE2RjA4VUtCSmw3QlJ1Q0tfTjl0RkxVM0xJdHh1R3I4SVBncjhIWDNzWEd3dGZHbjNuWGRtRk1aU0c3c25TdUpZZkxyMjlITC12TEFCUnBrMXE0?oc=5",
       "publishedAt": "2026-10-15T00:32:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -538,7 +538,7 @@
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQmdzMW9pV2FhR1V6QkpZVVIzWGIzeVJoVXFpdkpzR0h2RDdTRFkzUzhIT0FtUTlTTk8xSktJbEZHenZTRUxlOTY5Y3RnSnJiZlo5YnZscElMb2NmemtSb3d1dVF3Zk5TNW03aw?oc=5",
       "publishedAt": "2026-10-14T23:55:56.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -567,7 +567,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVXNNZHIxNkQydVR3XzlHRGFWcndVcExPdFdZLVdVNmhBZTdUMTdRbGRBeXRmSmdPZ0VXd0hiMlZ3UXdEelF1STBtMUN3VDJiNUQzSXExbWdFUdIBWEFVX3lxTFBBMF9KWUxmSjZrbFlMRFFlSWxEMVcteEZmOWprX25TZ0dyR0hkZEdlcTl2ZkVySXp1TFUycGdxTm01T1BTQUhOVzE2NTI5bmZSMmh2YndiTUY?oc=5",
       "publishedAt": "2026-10-14T23:51:08.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",

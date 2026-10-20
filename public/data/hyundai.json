@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:02:57.163Z",
+  "generatedAt": "2026-10-20T15:29:32.530Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[단독]'AI 비서'가 현대차·기아·제네시스 '얼굴'로..브랜드별 '페르소나' 구축 -…",
-    "현대차그룹 의왕연구소 배터리 연구동 화재…인명피해 없어(종합)",
-    "현대차·기아, 대형 트럭 ‘레벨4’ 자율주행 검증 나선다"
+    "현대차증권, 정몽구재단에 90억6540만원 배상…항소심도 유지",
+    "현대家 151억 소송… 현대차증권, 2심도 정몽구재단에 90억 배상",
+    "현대자동차 의왕연구소 화재…인명피해 없어"
   ],
   "articles": [
+    {
+      "id": "251e5b97ae00d083",
+      "title": "현대차증권, 정몽구재단에 90억6540만원 배상…항소심도 유지",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjdnMUhhdE5MdC1zMm9qdWFmc0Q1LVVoU296YldONm42MVlZdGJLUHRISUV4cjhLQ0pnVE1rQ3U0Mi1LbHpXOTVGMFVsSzcxaHZDeWRGN2xfTk9NNkF4NkdOV1JMR21INm1mSEFVVFUwY05NdUZKSWhFR3lhNEMwR3htenY1VlJ6?oc=5",
+      "publishedAt": "2026-10-20T10:37:17.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차증권, 정몽구재단에 90억6540만원 배상…항소심도 유지 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c1d43140c77fda63",
+      "title": "현대家 151억 소송… 현대차증권, 2심도 정몽구재단에 90억 배상",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdXJVckVyWXlySmZuLUZiVTBYTmlsejA1VmFiUm1xRHhvSFpaSWVmMWl2M1IwclBhalNXY25sZUoxZlF3TTVZYlRLdk1uQlBZSWVhbFpoQnllQQ?oc=5",
+      "publishedAt": "2026-10-20T10:05:02.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대家 151억 소송… 현대차증권, 2심도 정몽구재단에 90억 배상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.47,
+        "confidence": 0.72,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "수사·소송"
+        ]
+      }
+    },
+    {
+      "id": "fb89b8280352ae29",
+      "title": "현대자동차 의왕연구소 화재…인명피해 없어",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsV3h6Y1h6bHdhNXB4VHFFb0pUVmFGcXJRWFVxcV9fcWxvSHNHeGRoSlVNaF96Um9VZWJmOWo1MlFObGZFWUNXdXd4aFVWS2FHUFpGZ0ZaTEgtaGpwN2NRTW5tX2dOY3M?oc=5",
+      "publishedAt": "2026-10-20T08:48:00.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차 의왕연구소 화재…인명피해 없어 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "e1f657ace0e40748",
       "title": "[단독]'AI 비서'가 현대차·기아·제네시스 '얼굴'로..브랜드별 '페르소나' 구축 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNnRuaHQ3T1RiTWNrM29oQ1JqRUhtZDh3ejZla1U0T1FTY2lpUzgtXzBBcTVGTlh6c3V4QUJVa2VDTjFCcEFaNWd1UnlzQms3NmpabXNFMlFNY19vbFRFUTdOMVdsZG5tWGhtc9IBckFVX3lxTFBqRHNJOGdlNkxGd2dZSWp4ODJPelZ3VzFfYTdEWUYwRWJkekc3VEpfSVNNY0RlRGd6bEY3bEE3RzhqTTdnOXN2ak1mYkpIN0NheXVsbTJaOEg1aEhlWFpsOEIxbnN2U004cW1NTHBjdGlfUQ?oc=5",
       "publishedAt": "2026-10-20T07:50:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -42,12 +125,12 @@
       }
     },
     {
-      "id": "a736ee9ddd17ccac",
-      "title": "현대차그룹 의왕연구소 배터리 연구동 화재…인명피해 없어(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tQ043aUhDaGdRRjd2aVZKelRFRncyNDJYN2Ywcm5HenNaU0tFUGNEZHIzYVBnXy1vZHlJcXp6cV9LMVI5SzJtMi1rOURVWHFnZUw2M3AzekdYbVNWdzkxZNIBYEFVX3lxTE9tQ043aUhDaGdRRjd2aVZKelRFRncyNDJYN2Ywcm5HenNaU0tFUGNEZHIzYVBnXy1vZHlJcXp6cV9LMVI5SzJtMi1rOURVWHFnZUw2M3AzekdYbVNWdzkxZA?oc=5",
-      "publishedAt": "2026-10-20T05:05:48.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "id": "171221ecc0d2fce5",
+      "title": "현대차·기아 3분기 실적 '디커플링' 전망…생산 리스크·RV 믹스가 희비 갈라",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xQU05eEhHN1dua19fRnI5a3JKOVRndmduRDg4QVlIWGdBeWE0SHI2N04zNVl1MFg5ZG1QblJtUVQyN3ZRa0UyeTJVLVpEUQ?oc=5",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -58,7 +141,34 @@
           "ticker": "005380"
         }
       ],
-      "summary": "현대차그룹 의왕연구소 배터리 연구동 화재…인명피해 없어(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차·기아 3분기 실적 '디커플링' 전망…생산 리스크·RV 믹스가 희비 갈라 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7b6ceb673334c2f6",
+      "title": "현대차 의왕연구소 화재 1시간 반 만에 완진...인명피해 없어",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOVkFGU0NzLXFCeVNQZjN3Um1PWUxqc2RfTlQyT1d6WGh2a2RfQm94WFhlbmNjZVZQR2pWLXAzdGRTeEEyZGRDZFAxczZVZw?oc=5",
+      "publishedAt": "2026-10-20T04:54:04.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차 의왕연구소 화재 1시간 반 만에 완진...인명피해 없어 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -69,98 +179,12 @@
       }
     },
     {
-      "id": "535f94c52aa608b3",
-      "title": "현대차·기아, 대형 트럭 ‘레벨4’ 자율주행 검증 나선다",
-      "source": "한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zV181ZDBsR3ZFM0NYQVZ3QXNmSml2ZE1nX1gzaVZCWXJVZ0NMaGZZY0huaFdXbzhVbTRkTXVsNUowVzNtYmNSWkZDU2hod09rdnZHOTVYV3c2NjVvbmxkMG5B?oc=5",
-      "publishedAt": "2026-10-20T04:58:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "현대차·기아, 대형 트럭 ‘레벨4’ 자율주행 검증 나선다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b3c038339de6c25a",
-      "title": "[속보]현대차 의왕연구소서 화재 발생…“진화 중”",
-      "source": "문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50LTQ2ZUZDU0hIcGpSWXNac1kzYk5kdjBmRURIZUwzNE9NT2lVUjBfbEU2bmdMbDlsbm1HVXFEZnhuaV9xSlZJY0JsV1JKVTdT?oc=5",
-      "publishedAt": "2026-10-20T03:56:59.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "[속보]현대차 의왕연구소서 화재 발생…“진화 중” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2f357bd9ff623c34",
-      "title": "[속보]현대자동차 의왕연구소에 화재…진화 중",
-      "source": "KBC광주방송",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uaVAyaHdscVB6ZmduV3JQMnY2VHJwWlMtdWJSSWotczBvYnJrYWc4aGo5aEt3eWNrSkN6dV9nekloM1VPNVZ4QzBUUXBXcHk0RGJWYUFWbkQ4Mng4TGNyZFpR?oc=5",
-      "publishedAt": "2026-10-20T03:34:24.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "[속보]현대자동차 의왕연구소에 화재…진화 중 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5fe64908b684229f",
-      "title": "[속보] 현대차 의왕연구소 화재 발생… “먼 곳으로 이동하세요”",
+      "id": "ab5031fbe8ff7de5",
+      "title": "현대차 의왕연구소 화재 발생… “먼 곳으로 이동하세요”",
       "source": "서울신문",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YNFZheHk3RWFrNXlxWkhVT094T1kzUFdzLU1uZmJWQTd2ZDJXbFI3dy1ycE1iVDh6MlJnQkhPVkt2bFNtdWNnMnhMOUFMWktsYWVMNHlTVmVJZVpYeU9vUXVXcnloV3NFVDlTbVM4aw?oc=5",
       "publishedAt": "2026-10-20T03:29:30.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -171,7 +195,7 @@
           "ticker": "005380"
         }
       ],
-      "summary": "[속보] 현대차 의왕연구소 화재 발생… “먼 곳으로 이동하세요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차 의왕연구소 화재 발생… “먼 곳으로 이동하세요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -187,7 +211,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QzczaUs0clVNR3RBWFdNMFhOR1NBeDR5bThVRGxvYUs3Wm55cDVuc3ZYd09kTGpfemRDODlKMlktVGNzOGJtZzJWajBPZVdXTnhrb244ZjZ5NDgwVFJENNIBeEFVX3lxTE8wU3JnSy1aUVJUa0dxczBZN3NRUDN5SUpPZGZsQlZ1MzJaLWtiVUZVS0pDcjRsV0ljQnowTFFSUkNGTFgtUHdqOGtVdGhRdF9BV0htRzR5Njk2eGI3Y1hSVklma05GLVZpMEhLdi1CWnBGQWVUc295Ug?oc=5",
       "publishedAt": "2026-10-20T03:27:43.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -214,7 +238,7 @@
       "source": "경기신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwd2V6ek5pdVRzTmpITlpVQ1BpSXl3UkFUMDh4UkdPQkF3Y3V5UFBFNHhBdzFFc1lVdVNCQjBIS200OG5kM0JJUUhfZ1Y3T3dWeGIwLThRY1ZxclNWU21WTll3?oc=5",
       "publishedAt": "2026-10-20T03:22:50.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -236,12 +260,39 @@
       }
     },
     {
+      "id": "528f9bd7725c201a",
+      "title": "[속보] 현대자동차그룹 의왕연구소 화재 발생...진화 중",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWDZ5ZGxTVHEwMHNtRnlDNHU0MFZwRjd1S0kyYXBPemd4aUllNU5aLVdwdWlFTlpNSEJkcmctMk5SaEFaS0JHeGZXWmhQUlZlMlJmSjEwbU9nRjc2THVFVXJBeklkQjJYSXhIUzFSSFM5Yy1IcGhXQnBQRmhDV2VQN0YzSkFSUQ?oc=5",
+      "publishedAt": "2026-10-20T03:22:49.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[속보] 현대자동차그룹 의왕연구소 화재 발생...진화 중 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9ef82134f5c7d897",
       "title": "현대차그룹 의왕연구소 건물서 화재…\"검은 연기 다량 발생\"(상보)",
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUUs1aHdrSlJrZm1XektGNHpHZzc2VGxmek5jdFdOWTZFb1I0WEZOLUV0QnJtVENPaUkwTUlLa3pqRlBiaEVBS2gtQ0VaV0g0RjE1cEdR?oc=5",
       "publishedAt": "2026-10-20T03:20:54.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -268,7 +319,7 @@
       "source": "JTBC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JZ3FBZ29RaHo4Q3BiNUYyWnRCanFSSzdwSTVGVGNwSnV5Mk81a3RRbWRGQ2xRTkhNRUJTZVlBNS1VeVFfUXZBdzQ4am1WTkliMjFlaA?oc=5",
       "publishedAt": "2026-10-20T03:13:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -290,12 +341,12 @@
       }
     },
     {
-      "id": "434d1cb6c4c637aa",
-      "title": "\"운전자 개입 없이 스스로\"…현대차그룹, '자율주행 레벨4' 트럭 실증 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tQ05QdUlMaF9XNlJjX1U5VzU5QVFIRDFFYkV0WU5QZEFvcTE4MnFyNGRkMnliMGZjSk5FX3dOSXdwYnF6SGp6bWRQRHJYQm4wNWxJd0hRdW1tZVBJd1dQbHlpX1ZSUjNPSFhQUE5BdkxYUdIBckFVX3lxTE8tQ05QdUlMaF9XNlJjX1U5VzU5QVFIRDFFYkV0WU5QZEFvcTE4MnFyNGRkMnliMGZjSk5FX3dOSXdwYnF6SGp6bWRQRHJYQm4wNWxJd0hRdW1tZVBJd1dQbHlpX1ZSUjNPSFhQUE5BdkxYUQ?oc=5",
-      "publishedAt": "2026-10-20T00:40:22.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "id": "412afbd6653e214e",
+      "title": "현대자동차그룹 의왕연구소서 불…작업 중 화재 추정",
+      "source": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5feThZeHAtRlJSZ3Rjai1NWnJqTkY1Q2ZMbmFiX2dQWFFtQmdyYkluODZvQ3B2VHRaem1NSkRsOXRibVVLQkRvMHUzNGE3REIxTm4tdnRpamxURDA?oc=5",
+      "publishedAt": "2026-10-20T03:00:13.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -304,14 +355,36 @@
           "id": "hyundai",
           "name": "현대차",
           "ticker": "005380"
-        },
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
         }
       ],
-      "summary": "\"운전자 개입 없이 스스로\"…현대차그룹, '자율주행 레벨4' 트럭 실증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대자동차그룹 의왕연구소서 불…작업 중 화재 추정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d3c3554d47a7c0c9",
+      "title": "현대차·기아, 레벨4 자율주행 대형트럭 실증…내년 실제 물류 투입",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhdy1IVUgyRTRsLUZyUWU1eG5kY3JXNVJMVU9BRTZmWTNPOGh4dFBkajI1Y01oeFNzZEktaVd2aFhaMUdNY04xNVd2N3RWNzdtcVQ4QUNyV2paU2hXQUY2elM2Yng4NUMxN0NDbGxkRVQ?oc=5",
+      "publishedAt": "2026-10-20T01:09:44.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차·기아, 레벨4 자율주행 대형트럭 실증…내년 실제 물류 투입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -326,8 +399,8 @@
       "title": "현대차그룹 방산 사업, 로템에 집중시킨다",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTdRY25hUHg1Z2REUG0xT1E4RDFBb1RHQW1rZ0JUMFh1X2ZHSjM0TDREa0J2MHJQVG1NR3JhSmpVd2JVQUdLOWstRDI4NzdSdktXdDctUXZpZVhnbVVSQ1JkRFpjSlJpRnhDcXJnbFNVWE5zSUliRHItTDR3MTZRSHcxV0hRRlI2TDBWT29UVQ?oc=5",
-      "publishedAt": "2026-10-19T15:33:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "publishedAt": "2026-10-19T15:37:59.000Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -354,7 +427,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YOHdfMkxDUjJnbDRNbFprRUVQYVdDSG9BZUItSFpYS1FJMUFPNHZIel9sME5XN2N1dWhBNC1SY1VrUm85djhwcUFSVEVKRGJDQkI0MHVka2R1dw?oc=5",
       "publishedAt": "2026-10-19T07:05:59.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -376,71 +449,12 @@
       }
     },
     {
-      "id": "8950d8b20b039567",
-      "title": "\"중국차 보니 절망...곧 유럽차 다 망할 듯...\" 현대차·기아 개발 임원의 토로",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WajRfdno5UFk5bjhmV0N3bEstbHRrZzN2OTllMGxPWm1VT1ljMFRjd0xTYi1QeGdEOElwMEhhMmlDdXdBWUZwN3huRGZ0WGZETm1zVnhMMHRXTUF4QjBsYlVoYTk3T3FlTVJPVFdyTkpoMURJUDJMSzhha0p1bGs?oc=5",
-      "publishedAt": "2026-10-19T04:31:33.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "\"중국차 보니 절망...곧 유럽차 다 망할 듯...\" 현대차·기아 개발 임원의 토로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6113582932183dbe",
-      "title": "현대차 미래 먹거리 총출동…’2026 아이디어 페스티벌’",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMUJncHpjZG9UalBabVE0U0QxdS1Jd3M2Y2NlNDhiOVBnak5fVlVWYnc5d2xnOVdyWkl4d2RiaXhnU2hTc202QkZ1WG52Vi1pWlVnUDFnbGVjYTk5cGNMTFV0VVhuaGs?oc=5",
-      "publishedAt": "2026-10-19T02:16:43.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 미래 먹거리 총출동…’2026 아이디어 페스티벌’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e02d820f9c1808fa",
       "title": "현대차, ‘아반떼 N 모노크롬’ 공개 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0RMa3F1M1lCUXhiWUVIM1NoNDhJVnM2ZlNlVWRXRENfS1B5dU5yZjNadWhfczBpQ1NfRGJRdXFLa1ZmeU1SWnowVF9LQXRLXzVjc2lIX3JwV2haTERJZFhsYzdTa2JBZWNrRzVnRHFFOHU4MHQ1MUl1NnNpMUJTMmp5WWlRZlR1dUJMdHNRRVpCbkJh?oc=5",
       "publishedAt": "2026-10-19T01:00:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -467,7 +481,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFlDbWc3ekNNeElWNHAzTk5JTkZJMVRFSEhEYXRGN2ZuRG01Sl9XQ1Vqd05DM2hITkpnMXQ4dnlsUVllckd1REloQ05mYTFST2VITE1LdExKWXpKSGFOT0w4WXpqZDIxdEl6czV2eG01SW9wWk5LQWd3QTNFRVZaUWlPd1VHR05kMGNrSTV1Zw?oc=5",
       "publishedAt": "2026-10-18T23:30:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -499,7 +513,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZmSjByeEhLSWJGLUdUSng1a2ZqZWxJel8zN3RveUxSYWl3d09FRDVBZHJ1bU91N0dtMkR3emg4b3RMMFpwOHEwSE9UZGZEZWZHZGZTLUNYX1ZuajlObEVrUzFpTzFnVGhiM25mU01nMEI3b2V4RV9pUUhrR0ZlajF0N1E1SzhrWllOOV95MHdPUXlYc2c0TVM2cm1GQQ?oc=5",
       "publishedAt": "2026-10-18T23:30:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -521,12 +535,12 @@
       }
     },
     {
-      "id": "be1d91e21cb88dc4",
+      "id": "01284243ac4f9ff1",
       "title": "글로벌 각축장 인도...현대차 \"맞춤형 모델로 공략\"",
       "source": "YTN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iTHBsMzZnUll0cnRZSkQ5ZGxyX3dEcWdXYjBWSWIyVC1CaWpyQXA4eHVla0Q5MUpicWQ3cEhrMWw0NWxxX2FHZl94ZGtPSVNSXzVzckRGLXE2ZVJ1UzlRSy1Dd0xiSzBHXzBIX093RQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSFV1Z21Ca0hUVFh3WnpjT2RTUnZqYXJXNUdKcFZBdF9FU1BjLXpYY2VhZFBOY29nMEZqVER0TnVQS0pvazF6XzZCb3M4OUtyZjhYMHN6VGxnOE1UM0E?oc=5",
       "publishedAt": "2026-10-18T00:06:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
+      "collectedAt": "2026-10-20T15:29:32.530Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -539,38 +553,6 @@
       ],
       "summary": "글로벌 각축장 인도...현대차 \"맞춤형 모델로 공략\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "edd3c87ac29b6a08",
-      "title": "현대차·기아, ‘이포레스트 테크데이 2026’ 개최 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1RDbThhV1NBenBwQlpmNXRhZGlOWmVZVnhYX0xsc1lEZE95OV9LUzJDTkhONHJQSjFSM3VWMzJRWHQyZFZZdkpaNXgzUTNFc0xFZXhxRllRSzNXOEsxcE5FdGF3RUpVR1FNLV9qSjF0STFFckVuTFR2dWhhMkVnbXBjTFhXeUhJZDRuUE5oUWxLd0E?oc=5",
-      "publishedAt": "2026-10-18T00:00:00.000Z",
-      "collectedAt": "2026-10-20T08:02:57.163Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, ‘이포레스트 테크데이 2026’ 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
