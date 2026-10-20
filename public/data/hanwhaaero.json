@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:16:26.755Z",
+  "generatedAt": "2026-10-20T01:22:24.202Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,77 @@
     "name": "한화에어로스페이스",
     "ticker": "012450"
   },
-  "dailyBrief": "오늘은 투자 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "한화에어로스페이스 등, 한화오션 지분 54.34%로 축소",
-    "지상방산 수출 '날개'...한화에어로, 2개 분기 연속 영업익 1조 전망",
-    "한화에어로스페이스 '사랑의 구르미카' 100대 기부"
+    "한화에어로스페이스, 3분기 실적 추정치 '줄하향'에 7%대 약세",
+    "한화에어로스페이스, 폴란드에 전술 탄도미사일 'CTM-290' 공급",
+    "한화에어로스페이스 등, 한화오션 지분 54.34%로 축소"
   ],
   "articles": [
+    {
+      "id": "5019c6db509362ce",
+      "title": "한화에어로스페이스, 3분기 실적 추정치 '줄하향'에 7%대 약세",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CdDI2Z0Z5VEVZOGdUbldxSElVMVRiMlJoYmdadWJZem5ndTViOHZjU1l1aWd6X2p4c0NlU2MyempLNnFWZzBUSG8wMmFhSE5mY19YalVkWm80UQ?oc=5",
+      "publishedAt": "2026-10-20T00:34:14.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 3분기 실적 추정치 '줄하향'에 7%대 약세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.85,
+        "confidence": 0.91,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "약세",
+          "실적 부진"
+        ]
+      }
+    },
+    {
+      "id": "95603b93d2551b78",
+      "title": "한화에어로스페이스, 폴란드에 전술 탄도미사일 'CTM-290' 공급",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbHBSVndTZzRlb1VuNkZZNjMyN0p2NTlNQm52WmtJczZ3U0VWc2pzTXY3UFFBRzVBeElpMXpjNWVtUExXNkp3Zm5MNU1Yd1lYdDJJblZTeUtHX2RjRkRUdjRzbw?oc=5",
+      "publishedAt": "2026-10-20T00:29:59.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 폴란드에 전술 탄도미사일 'CTM-290' 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ec930515c97082b2",
       "title": "한화에어로스페이스 등, 한화오션 지분 54.34%로 축소",
       "source": "데이터투자",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OU0dQeG1jZTl0RjBZbENYck5NcGh4VktZdURHTUNBT05xN3hVcXNZc1ltX2NHYzUxVkplZEtVRktwUlFRSEtiRDA1eGNYT1luSDN3dEQzQmZzYmV3S2VOekN3OEY2LTJGem94aVZvY1gzd28?oc=5",
       "publishedAt": "2026-10-19T08:45:48.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -47,7 +104,7 @@
       "source": "월요신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pYnNLSUc0UGg0cXdrZ3dUd3hQNy1uY2tqbUVaY2VleXFqY0FZSnNsYkwtWnEyWVlOVHdHS1dKb2VFTm0tcndDdExhTlpSZ2xVbEpZYm9oYTA1dEE5RV9URWYwVThiWUVTeVE?oc=5",
       "publishedAt": "2026-10-19T08:27:17.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -74,7 +131,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxdFJyeGNqVDc3TXpVLS1OVzVrRV9WUDl2aFc2c2QwSi16MEx5Z3FQR1ZTRWR1VTJzbzNBQlpKU3ptanduc3JaVVJJQVYwSlFodVNoUmdjSGtOaGZmS0lvNUlUdmNXZDRpVnJpcHpXQkxuendpcE1ZadIBeEFVX3lxTFAxdFJyeGNqVDc3TXpVLS1OVzVrRV9WUDl2aFc2c2QwSi16MEx5Z3FQR1ZTRWR1VTJzbzNBQlpKU3ptanduc3JaVVJJQVYwSlFodVNoUmdjSGtOaGZmS0lvNUlUdmNXZDRpVnJpcHpXQkxuendpcE1ZaQ?oc=5",
       "publishedAt": "2026-10-19T06:46:31.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -101,7 +158,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWtNQmNneTBQZmRQWEw4ZlJPMmpXemZwMENwTGFnSGUxdlZxa0h6eHpEdGh1SzNLdXBnRmFaSG9oV3FwOW5tSUpNQ2hSMVg1d3hMRllKZEIyVVVoNE1LVDByZDJfOWwzVVIyLXptQXZIdTREUVM5YUEwc3dvQldUQm41aC1NWDA?oc=5",
       "publishedAt": "2026-10-19T06:42:27.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -128,7 +185,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1INkFmNFF2OFhwVVY3VlNHLU91QTJVS1hrZmFQckNBMmUzOTdzN2dfT01rQktEeEhmZnI5a2NQQ3k5ektnaEM2UEplT2RUSW93b1JlOW84alBRdno5?oc=5",
       "publishedAt": "2026-10-19T03:13:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -155,7 +212,7 @@
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DcE9XSTFBeWg4ZUVKYnZiYlROLUVJa0xsY2tOY3UwclRzdVh4UUpybUY3MDhWR3dkMWlRYkYtZE5ubHJnX0U1ZEs2VDNDZjJNeXpRTkVDWnlWR1Z2ZVRFRXZocWY1Yi1Md2xLRw?oc=5",
       "publishedAt": "2026-10-18T23:32:08.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -184,7 +241,7 @@
       "source": "ER 이코노믹리뷰",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX3o2QzNzU2RZTFVpOHJXSExoZHJQaHNGN0FTcDBPTzMxVVk2MzM5SEwybU5KYkttY2JXYmgwaFd4el81eU54ak13a0g2UzNJV0VZLVFRazJDYlZKYzRoejlOak4yY05qeGotUw?oc=5",
       "publishedAt": "2026-10-16T07:47:51.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -211,7 +268,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sLVItT3UxZlIxdkM1ZmZscTg0dW8tSHVfMi15c3lCOEtxRWw3LXY0ckxnRjV6djN0TFlkN1lOZVYzV2xlc0N1b2Zqbm50Nk1uZnQzZkdfUzY1ZUpVVTA1c9IBeEFVX3lxTFBsd3hxMkpkTkJTb0d6RVZqVmVqeFFwemZEaFlXa3ZldElIV1RCVll6VV82YTdkMzV3cTFyYU1HdUpTUHNjaHdNTm8tYTJVbzZwQTNuNHRRRTl4Ukp3czNhY1l0M0FwNFFQY3cxTHNZQ05FWWNYQlA2RA?oc=5",
       "publishedAt": "2026-10-16T07:28:56.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -240,7 +297,7 @@
       "source": "진주인터넷뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4weklRQ1lqaUVPUWVOT2JyMWlHMlZFcFVtWWVPRlhtTjNHb3h3aHBkMDVjZ21SUk91SzFfQ1BlV0ZfOURORU5zXzA0NGF0eUNXU3pwbmFDUUpwZ2hxd2U3YktYMm5ScnUta2tCVzBFYkFvOEtMR1o4?oc=5",
       "publishedAt": "2026-10-16T07:00:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -267,7 +324,7 @@
       "source": "스페셜경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fckhIWjBYY0JlVHBWU3FOUExFYjFuNEVrclVobU9MMEdmZVE2M3hXeUFTMmViV1N2V0p2MWRvU2JxT2RXUzRvTVFvX0x1VjFicWZoOEZOYktZTTdiV1g5UEJVUTV1MWZRdWtMVA?oc=5",
       "publishedAt": "2026-10-16T05:09:34.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -294,7 +351,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kY21aQlZxb3U5WUZfRXl3T3IyR2t0RWxfXzNjSXNvQW1mcndBRFVjVkxHUm1uTl8wSUNHazNIaVF0eUJ0dDJJclotbXVfREpTUXJESG1uTUhlbXoyTE9XR0xHTXZ6NUxkclF2UtIBbEFVX3lxTE9kY21aQlZxb3U5WUZfRXl3T3IyR2t0RWxfXzNjSXNvQW1mcndBRFVjVkxHUm1uTl8wSUNHazNIaVF0eUJ0dDJJclotbXVfREpTUXJESG1uTUhlbXoyTE9XR0xHTXZ6NUxkclF2Ug?oc=5",
       "publishedAt": "2026-10-16T03:43:55.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -321,7 +378,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GMmdsRmtfVzBsNGptaEczN29lc1JhekUyWHNBa0NqWDc3YVRkdXhFaXBkTEN2TG9TenJSdkxwNmw0Q3Y4MUxoUGlyVjBsSGpWbzlrekRnMnZBUdIBWEFVX3lxTFBvcXJ2UUVMZkgyc3l5dnI5SU4tQmQwQkNfb21VbjJWdmR0UnFKLWUwSkxCVVNodmhqVmZxd0NDMFdFbnhFM0NKUjhfVHh4Zy1ySGVzZDFQaU8?oc=5",
       "publishedAt": "2026-10-16T02:14:12.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -348,7 +405,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIeG9ra3FJd0N1bjVZdm9JTUpubVNXbG5xRGlzcVhCQzF3X3FUeFlNd2tKeTNsUGo5c1Q1RHJNd3hSRUdCRENQLTVMUHppV2hId3l3RE9USE9GSTFRMjBXRHl1bUZNVElvOHlEZk1SOGVVWnM?oc=5",
       "publishedAt": "2026-10-16T01:52:32.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -372,41 +429,12 @@
       }
     },
     {
-      "id": "6d16063ce3f23cf6",
-      "title": "중동서 또 미사일 공격…한화에어로 8%·한화시스템 10% 급등",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DY3VMdVBhUjVBbFpqOWlTdEloRE1mRUxTWFNFaHBqbEhCZjhFZmE3OTVDWnM4R1dYMG55MklkdUFmMUZtMzRNdzJ4bmg5UFRZdzZtZzlwVDZ5TlI4V0JPVmtzV0p4OG5fM1NpN1R6a21KeDgwb3fSAWZBVV95cUxPeXdDcXAwWnhaekJ4WTZxLTRCaUlnSnB3TjMyZWxEMXJSRjdJOWEtN1lDVHBwZzA1YldIMnlYd19DQkYwWHViVF91aVJ2eWxKT1B3VVl3Q2RvVDBtZ2JjU29yRDhETkE?oc=5",
-      "publishedAt": "2026-10-16T01:14:56.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "중동서 또 미사일 공격…한화에어로 8%·한화시스템 10% 급등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "급등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e2364b15e7692a3e",
       "title": "한화에어로스페이스, 목표주가 165만 원으로 하향 조정되나 매수 의견 유지",
       "source": "https://www.2news.co.kr/",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCNGpRdGt2a3dQNWdJTllIWm15RmFWRDhJbnBSYUZTQy1veDBTZUtVeEowc3FCNnZaTkhxY01ZN1hIRFNlNEx3NWZMQ19lMWJqNlZLLW5RVmpHaldxWF9peHhQMzZUWWFv?oc=5",
       "publishedAt": "2026-10-15T23:35:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -428,41 +456,12 @@
       }
     },
     {
-      "id": "45a9cd3491421ad7",
-      "title": "한투證 \"한화에어로 목표가 18% 하향…수주 경쟁력 대비 하락 과도\"",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jSC05ODVzeG1Wd0N2VVV4WHQ0WXFOaFZ1ZTdKLWxfRXBMOVRRNnZwQ1R1NU50Z0h2dXF4UFJId2FvVk1HaEt4QVBWWGJXLXpxWTVtQkEyRlZibTQ?oc=5",
-      "publishedAt": "2026-10-15T23:29:04.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한투證 \"한화에어로 목표가 18% 하향…수주 경쟁력 대비 하락 과도\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c92ea7f82124da52",
       "title": "美육군 대장, 한화에어로 'AUSA 2026' 부스 방문…K9자주포·미사일 집중 점검",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FNjRKYkZqc3NoLW1WS0xMUE5RRjEyd0dzaWh6dkVBcW96cVgxdXJCWDZGdG1BX0VkWVFORjVtODNEY1QwblFOdS16bzJCWWtrMUVLbXJuY29pQjY1b0RwY3Fjbw?oc=5",
       "publishedAt": "2026-10-15T03:54:56.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -489,7 +488,7 @@
       "source": "이코노미스트",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Wblc5bF9VME04YmlFc1dTWWthN0Z5eHZlS0hPYWJyOHAtMzUya2Q2LXo5Qk5IUTRfdS1XZE8zVTItUFBqRVA3LVJ0d0hjVFVmV0ZkYl9lN2hqRVdibGJBOUZB?oc=5",
       "publishedAt": "2026-10-15T01:36:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -518,7 +517,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQW9oODhpNERBUEg1U3Zpdy03Q3k1R1hIelBFS1Z0bnlhNzQyeDJRc25acGxRQm5wbUZrLXdkNHZEVlBHVTNXX2o2ZjVzcmF4dmZIR0VSOFBwMjFsN3c2SzV1QU41djE0NlVZcVlWaExGVXdhbG1TSHI4UDdKSUY3WHlaNlLSAZgBQVVfeXFMTThvRFVmMjFrSXlhSlQyUHBHN2VSRGhRMHAxU0t5aEdqR3lyU0lveThNSmFOTldMWDVDS0p6TmVyNW5oVHR3THgycS00cmlQcVAweVYzRVdicmNQWURMVFpXaWNjM3NhMHJlSDhrMExnRGNmZmEtYmo2NU5sQkgtR1RUM29qc2hiX1hJRHVkOGt4cTBRY3Z6T0U?oc=5",
       "publishedAt": "2026-10-14T06:54:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -540,12 +539,12 @@
       }
     },
     {
-      "id": "947174141f9690c5",
-      "title": "누리호 6차부터 순천서 조립…한화에어로 '홀로서기' 시험대",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vU2lqRzJlVXNfLURZdmJ3ZFFSbDQ4MUhPXzhOdDNaRWFoRENwcnhoUm5UTXZVRHFfd0pEU0hackE2cnFoaFg1NEkzSUxWVk0?oc=5",
-      "publishedAt": "2026-10-14T03:43:15.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "id": "26acfdc539d99005",
+      "title": "한화 방산 3사, 한미동맹재단·주한미군전우회와 3차 후원 협약",
+      "source": "경남신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjMkpiQk50V0N2UF9YcFJRcm53TlM4NExuMnRuZmwzZFlTN1JlYjhRSks3VHF1Q1Bkc0J3QnVHeDlPMzdLazVRc3F6UW41LVFtY1FpcEN6V1J1X0xPY3BGckRXTGUtek5CYVlV?oc=5",
+      "publishedAt": "2026-10-14T06:15:28.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -556,7 +555,7 @@
           "ticker": "012450"
         }
       ],
-      "summary": "누리호 6차부터 순천서 조립…한화에어로 '홀로서기' 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한화 방산 3사, 한미동맹재단·주한미군전우회와 3차 후원 협약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

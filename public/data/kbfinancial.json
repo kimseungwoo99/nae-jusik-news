@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:16:26.755Z",
+  "generatedAt": "2026-10-20T01:22:24.202Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "KB금융",
     "ticker": "105560"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "하나금융 '셀프 연임' 질타·KB금융은 칭찬…국감서 지배구조 논란 재부상",
-    "금융지주, 3분기 성적표 잇따라 나온다…23일부터 실적 발표",
-    "대출·이자 확대에 금융권 3분기에도 호실적 전망"
+    "4대금융 3Q 실적 발표 돌입…KB·신한·하나 '맑음'-우리 '흐림'",
+    "4대 금융지주 계열 증권사 CEO 연임 기로...실적 넘어 '외부 변수' 주목",
+    "하나금융 '셀프 연임' 질타·KB금융은 칭찬…국감서 지배구조 논란 재부상"
   ],
   "articles": [
+    {
+      "id": "738a611a205cd26d",
+      "title": "4대금융 3Q 실적 발표 돌입…KB·신한·하나 '맑음'-우리 '흐림'",
+      "source": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM2Y5N0EtMDZad3FzcWZZazR3U2w3TUZWRFhoaE5qblFGNVJoV2JXTm5ySHJpM0NITmg4WWcyUGZwZndHX0VWckxmb0dJUEw3cHU0VWlob0pBOTVkc0FDMDZnWEZoRGlqTDUxRtIBb0FVX3lxTE44R09RRC14YVBTRFVjTjBWT2ZSUUViU2sxbm9JOHdyaDczNVpIcW5RaWpJYUZsVDhKYjZ1a2wtekRwSEpic2xUNFlqcXdTdDZNVHlkVHcyV25GMV9XdTA1NS1KMFZWc0ZhVjVfWEtjNA?oc=5",
+      "publishedAt": "2026-10-19T22:30:00.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "4대금융 3Q 실적 발표 돌입…KB·신한·하나 '맑음'-우리 '흐림' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ed1c6d5d4eeaee63",
+      "title": "4대 금융지주 계열 증권사 CEO 연임 기로...실적 넘어 '외부 변수' 주목",
+      "source": "위키리크스한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nbTZ6YUhhZWlwNHhsNWJqeG01cUVycEVSREtDNXdwSjZQV3U3OWdONjlZUHI5ZElqU1M1dGduX1ByYVVsc1dEbDZfU3NscWVnSkFpeE5SSUhiZzV5QldlNjg2N1ZfNEMtUEh4N2VlQzM?oc=5",
+      "publishedAt": "2026-10-19T08:59:00.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "4대 금융지주 계열 증권사 CEO 연임 기로...실적 넘어 '외부 변수' 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "9a54f0be2a1966c2",
       "title": "하나금융 '셀프 연임' 질타·KB금융은 칭찬…국감서 지배구조 논란 재부상",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yT0NfYVNONEpxeWxtc2hmVENIRGlhVkpTeDBGT0VXYnZOSkhfbUxWb1ZGbDFGRHBYbWRlS2c5UXgzSkd6R09WQ19RYWttc2VFaXU4NjNGd2tIYjZhcDhSOGY4NDZtaUo1UkFoTmdMTnY?oc=5",
       "publishedAt": "2026-10-19T08:49:35.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -49,7 +108,7 @@
       "source": "스마트투데이",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wbXNicVdpMTMyZ2N0aVNpc1hCZnVvanFOVndQbVdtaUdCMlk0V254Y2ktUmUwRFJaUHlhMk43Z21HTVphSWxfTF94UGdkU2dteGF4eVZPWWY4cVYxWGVN?oc=5",
       "publishedAt": "2026-10-19T08:19:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -76,39 +135,12 @@
       }
     },
     {
-      "id": "220691b40eb8693b",
-      "title": "대출·이자 확대에 금융권 3분기에도 호실적 전망",
-      "source": "매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XSEhsYXVwMzZiaktJTTUzN0t1aGJPcFljOXFUYnhvZ3ZyeEFzV2pIUTZwVDlrdUxQNHBCN2E1UTBlU1lVRFpQYUFKQWp2ai1mR29VTkVHVWJQN2w1eFpiUnpn?oc=5",
-      "publishedAt": "2026-10-19T06:37:02.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "대출·이자 확대에 금융권 3분기에도 호실적 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5b674434e539fe69",
+      "id": "ff0b245e60da6c37",
       "title": "[리딩뱅크 경쟁 점입가경-上] 순익 규모보다 성장 내용···“금융지주 경쟁 기준 달라졌다”",
       "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OZVk3Z2o0Tm9LZ3RCdFZwdlM5M001d25kSjYwSHV2elYxb2hnWU1ZRzAzWG1uVTZQeHdKYmNXUlh3VEtqd25SRWRndXVFWU4yakpIRGYyQjhBQS1ZaFVKMXJLV3lJcHN5cjhqMncxZmoyUdIBdkFVX3lxTE41ekZFTk5IWmNRcUZFcGdDdGE3X0lBWVB3WmdKRkJ1Z0IzSVdwN25iSnlBblQ3T2FaQnpiTkE4aVdqczlVSkFCQW1EYkdaLWZ5UU90dWR5Um90WU5kVkdCUm9rV01MRC13Vzgwc2dfRE1ZcDNtSlE?oc=5",
-      "publishedAt": "2026-10-19T06:15:01.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41ekZFTk5IWmNRcUZFcGdDdGE3X0lBWVB3WmdKRkJ1Z0IzSVdwN25iSnlBblQ3T2FaQnpiTkE4aVdqczlVSkFCQW1EYkdaLWZ5UU90dWR5Um90WU5kVkdCUm9rV01MRC13Vzgwc2dfRE1ZcDNtSlHSAXZBVV95cUxONXpGRU5OSFpjUXFGRXBnQ3RhN19JQVlQd1pnSkZCdWdCM0lXcDduYkp5QW5UN09hWkJ6Yk5BOGlXanM5VUpBQkFtRGJHWi1meVFPdHVkeVJvdFlOZFZHQlJva1dNTEQtd1c4MHNnX0RNWXAzbUpR?oc=5",
+      "publishedAt": "2026-10-19T07:33:06.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -135,12 +167,39 @@
       }
     },
     {
+      "id": "220691b40eb8693b",
+      "title": "대출·이자 확대에 금융권 3분기에도 호실적 전망",
+      "source": "매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XSEhsYXVwMzZiaktJTTUzN0t1aGJPcFljOXFUYnhvZ3ZyeEFzV2pIUTZwVDlrdUxQNHBCN2E1UTBlU1lVRFpQYUFKQWp2ai1mR29VTkVHVWJQN2w1eFpiUnpn?oc=5",
+      "publishedAt": "2026-10-19T06:37:02.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "대출·이자 확대에 금융권 3분기에도 호실적 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "1519ad91b7243f3b",
       "title": "[더밸류 브리핑] 오늘의 KB금융 소식...KB증권·KB 자산운용",
       "source": "더밸류뉴스",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iZ205S2pJR2dlVWdSam82WnFsZlBjWDlTRTh1UGYzaG5yaHVfWm56cGduWjlDLUF4bzdOTEY2a0oyLUtKVjhBTkFrMDdxN1kzM1NTRQ?oc=5",
       "publishedAt": "2026-10-19T02:14:59.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -167,7 +226,7 @@
       "source": "데이터솜",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eTludE9ZU194RzRxVnkycnZaRUtMX0NTU015bmdZS0ItNWVjZnJGQUhqZTBpS3NGMEJmMURJRDJpRHBIR1g5c3VQbjZvR0dKOUYzSFZzQ0k0S2VuV0JFemRqZE0yYzNxMkx1cDVGd3PSAXBBVV95cUxQN3k5bnRPWVNfeEc0cVZ5MnJ2WkVLTF9DU1NNeW5nWUtCLTVlY2ZyRkFIamUwaUtzRjBCZjFESUQyaURwSEdYOXN1UG42b0dHSjlGM0hWc0NJNEtlbldCRXpkamRNMmMzcTJMdXA1Rndz?oc=5",
       "publishedAt": "2026-10-19T01:40:26.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -194,7 +253,7 @@
       "source": "유교신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN19KSkR0QlJkUUZpdTZMc3E0UVpQZHA2aDdwVmxDMjFNMHNZVVVCOTMtQmI0VHlBdGFpak5oa2pJS1h4R25EeURhZDNMendzSzZDaGQ0dHQ2TkJIbVZOSQ?oc=5",
       "publishedAt": "2026-10-18T02:35:31.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -221,7 +280,7 @@
       "source": "비즈월드",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZzZKcmQ5QnZJR2hfOGdFVnVOTzBNck1sLW5yTXljT0VmbmlDT01iSFJTWjlzTnFQMjk5dmlMaENFU3FSYTRVcTh1djljU0d0QWF5OHJUYXVYQW5zVlFoYTczWW5ZWUZ6ZWc?oc=5",
       "publishedAt": "2026-10-17T04:34:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -250,7 +309,7 @@
       "source": "조세금융신문",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pS243Mk1FTWIxUG5rV3B5dE5acnNOSDBORmNfUWJ6b1NGRUlPaUZOdFIwdXVIcWM4NFl2dG9fV0JDczliU0JYQllhUXRscGw3Vi1yNjd1cmp4OENOdF9yM0ZmMA?oc=5",
       "publishedAt": "2026-10-16T23:00:23.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -272,44 +331,12 @@
       }
     },
     {
-      "id": "fcce9f01be41f1e8",
-      "title": "4대 금융, 다음 주부터 3분기 실적시즌…순익 5.6조 전망",
-      "source": "글로벌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96aDlEdU9Cd25MQWNRR29IRzVPNlFpalppc2xLMkVJQ0dIbU5HNFBzaDg3TlpCd09SSTc0Mk0talJPQ09PQ1Ayemp1NWZ5Z1NMZ2FqbDAyaEwyYmFzT3ViRkJReno3aUdiX05kOdIBcEFVX3lxTE9yZGh0bkpNRTJFanpWWHhzMG1XMXFIYWhBVHpvTkYzSDFRYkhCWTFmNlp4WHRUR2kzV0w4QlVMOHZ0bjJzcy1EX1F2cFB4aHZyUng2Wjl6cHp3T0E2bzJxOEFJa1BuU25uOVpjSHZVeEo?oc=5",
-      "publishedAt": "2026-10-16T20:00:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "4대 금융, 다음 주부터 3분기 실적시즌…순익 5.6조 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3056cef44abd4d5b",
       "title": "KB금융 든든한 스포츠 지원, 아시안게임 소중한 메달 결실",
       "source": "Daily NTN",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55cDV3elNoWVVSVHMyeGZXZmRscUI1blF6emYzcXpZbUdSZC1zNDJsOTVfeEVjeWFHYUV3dmQ4UGpPN2poRWJzcXU2M3ZPZVdWVTVwMWRKRjI4U3dzQ1hJanN4NGN1cndRNGc?oc=5",
       "publishedAt": "2026-10-15T09:17:19.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -336,7 +363,7 @@
       "source": "뉴스필드",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPTl9JMFRlc2lwLXB1Qm5nNDJkYkliaGVHaHZ3bkprcmVTUmtnYzBjZ2hKcmpkdlpacnJnMVZ4b3dwNWtobVNJOGlBYnh1OXNyRFFQd20xYVRKamtrdFl6RUFkUEI0eDc1cjFQUDkyakQzblUtOVYzMFVtZzVpSjRzSVBZdkRHeG1zSXBPdjdmZ3RtUWRFbVo0cEhSRHFUSGRiaUZKNU10WGcwX2x0bnNzcEdld1pURk5KQTFpSlJPWjB2Q1JEbHN1UmtDelN2N2RJdlQ2RTlSRV9wN2xzOXhpQzNCRFdUZktoYzNJdTVxd1g5LXZOSWQ0el84WjZJRTd3akcyWC1tMnd1MHEyeERFSFh4SF9TOHVUYkRxRk11QzFaSm1vQk5uUnlkZ2pJSFY3dU1sOWJSMA?oc=5",
       "publishedAt": "2026-10-15T03:13:24.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -363,7 +390,7 @@
       "source": "FETV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KakdvbGxzbDRuYTNRM2h6R2xRbVdmVUsyYnJLcTdsYTdlRkgxYy1fd1pYYWtRUkpJWlV2ZGU5SFdSeWtlYUJvZ1B4NXpQdHJnUHBFLVpLM0tqbWFIdXhaN1pfbWhMaDd5?oc=5",
       "publishedAt": "2026-10-15T02:32:35.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -390,7 +417,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LWXZaNG9iMXUxVjFaQ2NsZ2NMVVg1elk0N3dCNlJ4RW5kUnRJd1pMNUhjaHFGaXdKbWYyNTRJV3NXRlgzWFllTEdGOVN0cGZH?oc=5",
       "publishedAt": "2026-10-14T23:30:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -422,7 +449,7 @@
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IR2JGajFDS013Q2NaZnppME5oNGpjNVlBbXNCWUlDczhWeHZoaUNaUTF0ek1vQjVpa1JlZFZ3QjVvcWJUQ3JIaXR5VkJ2MGlNclBacG9oVU9XOE0yQ2s0a21ZRFo?oc=5",
       "publishedAt": "2026-10-14T22:00:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -449,7 +476,7 @@
       "source": "화이트페이퍼",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2SEdnVmctQWkteUUwTEdkd20wY3h0WndacndxeEVDS0tXUXpkVzBOZ1MxWm5KbWZQd3BBRjlLWGZWVDVveHl3NjEwWDF6T2FOa2ZCempKMGt4OW1IVjhsZXVjdUdxWkZzX0dkSWJXSdIBc0FVX3lxTE9DMmFlbkw4Vzd0MW42VXVqYkh2V1dMM1ZWRGwwOEYxSzdtNXdMa3kzaFhEM0xoRVdVSmhncm1wc3ZQeTBuZFhjUU1LQUNjWHFtczY3SDJITWx3T0lTdVR0YS15V1ZYM2E5bTZ3a0dsSVVZM28?oc=5",
       "publishedAt": "2026-10-14T08:55:23.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -476,7 +503,7 @@
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUFpySUxzUVpqU01uZ1UyVWhOcXRIM2ZvdFN1U3NWak1CUE9SNHVPT3JRaU1ib2dvRmhXNzl1Z0J2TGUyelh4WHlmdE5uajYtNmhrbGlPWm1uQ0ExRDJSMUpEOVFsb2Ji?oc=5",
       "publishedAt": "2026-10-14T08:54:01.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -503,7 +530,7 @@
       "source": "뉴스워치",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUXFFMEJkT3FMdU9ZYmtYeHJtNkJONEhiU1E2TkRCRTFWaDRMb2pDUlpxeC1IQVdnc3VaalRMVnc5U0RBTFVZQzdQQXYwanNweTJfQnV4YWdtWHU0RDNtSEVxeFFyYXZ2cHc?oc=5",
       "publishedAt": "2026-10-14T08:15:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -535,7 +562,7 @@
       "source": "오늘경제",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00aHpuUVhTNktXc0tnc0tOa2E5Q1ZjLWtEMjlJNHI1RnQ1QlpZUTFvbkpGT1FiUGRONVV2Z2NYNFk1MU40Z1MtN0MxUFpJLS1LNlFVaHFCVnZXWmxJd0ZKUG15c2lqZ2dqYk5KX2szcWNhc0E?oc=5",
       "publishedAt": "2026-10-13T19:30:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -553,35 +580,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3ef4cad6e1898f99",
-      "title": "KB금융, ESG 평가 1위 탈환…금융권 지속가능경영 선도",
-      "source": "데일리e뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvTi1NYW94dE1vN3c3amxWS1FHT0xhUENWd3duYnhHc25HWWJMNUR4Sm12SHg2b1VtREF0dFozdVBfR1JBX21IMFhfLUNKUi1uM1lwNV91dWhCMjduQXhIV0dzRUNmQ3IzWkFzb0xfMA?oc=5",
-      "publishedAt": "2026-10-13T08:16:14.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, ESG 평가 1위 탈환…금융권 지속가능경영 선도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.4,
-        "confidence": 0.68,
-        "positiveTerms": [
-          "점유율 상승"
-        ],
         "negativeTerms": []
       }
     }

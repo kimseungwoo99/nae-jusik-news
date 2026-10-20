@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:16:26.755Z",
+  "generatedAt": "2026-10-20T01:22:24.202Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "'석진욱호' 한국전력 첫 승, 쇼 23득점 원맨쇼...KB손해보험 라미레스 감독 첫 패",
-    "한국전력 충북본부, 위기아동·청소년 마음건강 지원",
-    "'이민규 올리고 쇼 마무리' 석진욱호 한국전력, KB손해보험 3-1로 격파 [여수 현장리뷰]"
+    "대신證 \"한국전력, 저평가 국면 진입…주가 반등엔 유가 안정 필요\"",
+    "\"한국전력, 유가 상승으로 실적 부진 전망…목표가↓\"-대신",
+    "“저평가 국면 진입했지만”…대신증권, 한국전력 목표가 ↓, 반등 조건은"
   ],
   "articles": [
     {
-      "id": "fedf32848b626866",
-      "title": "'석진욱호' 한국전력 첫 승, 쇼 23득점 원맨쇼...KB손해보험 라미레스 감독 첫 패",
-      "source": "OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54Wk1Tb0xLODVHSVlRWXpSSHRvclh0ZkhoM2h4UEZRRGdLWGVKU2xjTG5BYnlaR1RoTURDT05ReS0xRHRZT2VndGs3ZG9ITzkwSE1iRQ?oc=5",
-      "publishedAt": "2026-10-19T10:15:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "id": "389d90353303eb0b",
+      "title": "대신證 \"한국전력, 저평가 국면 진입…주가 반등엔 유가 안정 필요\"",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WU05lZ09SYnNPc3dOcGpHZXdzUVYtaFpPNFI4YnlHMzVqV1ZKdVJMR0dSRERvRUhrbmRxUms4d1FmbEExUWR3bGMwVmhSdDVkVzUyZU8xUlJVb2pyV2ZZ?oc=5",
+      "publishedAt": "2026-10-20T00:16:23.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -31,13 +31,73 @@
           "ticker": "015760"
         }
       ],
-      "summary": "'석진욱호' 한국전력 첫 승, 쇼 23득점 원맨쇼...KB손해보험 라미레스 감독 첫 패 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "대신證 \"한국전력, 저평가 국면 진입…주가 반등엔 유가 안정 필요\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "297ff96fc0faa2c8",
+      "title": "\"한국전력, 유가 상승으로 실적 부진 전망…목표가↓\"-대신",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQODJMUlhSY0N6bzdlSHgtNWpNTXpBVnVpWWxPWkQycUd6REU2UTlUQWdyZ2JPWFFZMzJZSkRWb2huVWdrSHJLMzZtc081Qk9idTVzeUtDX0J5Zw?oc=5",
+      "publishedAt": "2026-10-19T22:47:01.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "\"한국전력, 유가 상승으로 실적 부진 전망…목표가↓\"-대신 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "실적 부진"
+        ]
+      }
+    },
+    {
+      "id": "fab515ab717384c1",
+      "title": "“저평가 국면 진입했지만”…대신증권, 한국전력 목표가 ↓, 반등 조건은",
+      "source": "매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Q3ozTkRoUWdMaWIxZmFzZ0RxMjR3RC14TlNIcjFFU2h1Z0VZZmMxMHZjTHptcGpDS0YzQXdmQzR0R0ZXa1VhZUNKQll6TWNUV1E?oc=5",
+      "publishedAt": "2026-10-19T22:44:46.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "“저평가 국면 진입했지만”…대신증권, 한국전력 목표가 ↓, 반등 조건은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
         "negativeTerms": []
       }
     },
@@ -47,7 +107,7 @@
       "source": "충청타임즈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FWWI3d181RlZxcHhfUDRjOFpSZ0dfQ1d1cFVGVXFGeTgyQmNWdnJ0aENNNFVCTVJvejZSOTZWXzBuNWtsR0NxZ19keElsTDhwY2pYaDJMNHl0ZTNaS2NLLURlckcwNl9W?oc=5",
       "publishedAt": "2026-10-19T09:43:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -76,7 +136,7 @@
       "source": "스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQnFpQTcwMThhR1FiX0JtZEpGYzU4Qmt3aEVWM3lVSmdMSFN1VExXZmpLeW5FODNGNGJENTJxbzBxZG5NZ2tSSmhRU1ZabTQyd2NubVF2WURrT1BjQV92dlZSVHp2VGNkS3Y5RUFGMUthRml5Q3c?oc=5",
       "publishedAt": "2026-10-19T09:14:42.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -103,7 +163,7 @@
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIU25Id3ZiR0hDU01hN0pnT3dRWjh5Y0o4S0pJeDJmVGlXajFDckNNVEJidXdTdm1jLUREZmhBaGVxNUE5WElyTF9aYnI3bTNYUHpYTVBnNmNURmJMRUdpZ3JqZTlvZw?oc=5",
       "publishedAt": "2026-10-19T08:23:54.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -130,7 +190,7 @@
       "source": "M이코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZYXZqOFhTSm9xZU1Pak01NUxjR3FuNVUxSHBabndOS0UySEU5M244SHpJbTN6THRIYkJmU2xJWGVadWZDdk1GbHg5WnVkSEZ2WlhTdEhpbF9YZGY0RHhOaUVLLWJRS0U?oc=5",
       "publishedAt": "2026-10-19T07:13:52.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -152,12 +212,12 @@
       }
     },
     {
-      "id": "4573ef726774d7f9",
-      "title": "[국감] 의원 질의 답변하는 김동철 한국전력공사 사장",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ySjBHYlYtV3ZfemhrUDFNbHNRcWhZYjd3WmRzTlNyUDduNXVhVjUtTVQySTlWYXJCYkVLVGY3S1pTQm1pbTRxQS1jcw?oc=5",
-      "publishedAt": "2026-10-19T05:48:37.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "id": "6824f91ffaeaf3b7",
+      "title": "전력 공공기관 산재사고 1위 ‘위험의 외주화’... ‘다치는 곳’은 한전 MCS, ‘사망’은 한국전력 하청업체",
+      "source": "영남경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XSmdIRDVhNVBJSkxlcWpjTE9tcHd6UG1KSzFUSXNKT3JxOERnc1ZhdndJM0JYRG1NeDN6RVFyM1VrbUU0M0RFU29wMGlMQ0d1MURldkRHMnNTekswX19vZzVqWDZDNlU?oc=5",
+      "publishedAt": "2026-10-19T07:00:16.000Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -168,14 +228,16 @@
           "ticker": "015760"
         }
       ],
-      "summary": "[국감] 의원 질의 답변하는 김동철 한국전력공사 사장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "전력 공공기관 산재사고 1위 ‘위험의 외주화’... ‘다치는 곳’은 한전 MCS, ‘사망’은 한국전력 하청업체 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
+        "label": "negative",
+        "score": -0.4,
+        "confidence": 0.68,
         "positiveTerms": [],
-        "negativeTerms": []
+        "negativeTerms": [
+          "고용 문제"
+        ]
       }
     },
     {
@@ -184,7 +246,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xUVlYVzAwMTZKbnRZT21wQjQwNGdBT1RYZ0c1eW5Kb1JZWjRoZnAweTc4bGMxUi13VkZIcUhuVExMUGZDVjNhMzRJNzcyVVZKQWlYS0o4Q1JfSHd3eENUd0k0UTFKRWg0?oc=5",
       "publishedAt": "2026-10-19T05:33:51.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -211,7 +273,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VzMyLWxCSVhtR0ZpYUhHVnFiNDNZZDJaU1l4QW5QVjhveVdsQXBfZzZXMW0zSEtOdmZ6aUgydExjamVmNnpZbDlRUnNFbi1Udk4wbkZ3d2VyUDhOcUN3c9IBYEFVX3lxTE55VzMyLWxCSVhtR0ZpYUhHVnFiNDNZZDJaU1l4QW5QVjhveVdsQXBfZzZXMW0zSEtOdmZ6aUgydExjamVmNnpZbDlRUnNFbi1Udk4wbkZ3d2VyUDhOcUN3cw?oc=5",
       "publishedAt": "2026-10-19T04:26:57.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -238,7 +300,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UG1LZjJVd2kxMFl3SUoydUl6RG1xTkhyaDhWajU5czBrZmZLRFhOclBsZFYyNm1XdllPTHlzQklVcVVCbkdncDh0Z2NPQXIwWnRSVjZYRVBRVDZZSFdxMkRSWDBVRUVMU1HSAW9BVV95cUxOaFZ4MjFUemRadFlyN2RJOTJ3LWxxN05qYUpGRDZYcTVibHJacXBQSE0tVnB0YmdqeHNTNktrNTQ5YjNYYXFlbzhfbnJkQzQtNHV1QWRzS0JUelN3NV9ZdWFibHZQeGp4VFdXSWd4SWM?oc=5",
       "publishedAt": "2026-10-19T04:23:06.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -260,12 +322,12 @@
       }
     },
     {
-      "id": "576eec6267822104",
+      "id": "40de86ab7b4f1223",
       "title": "이야기 나누는 김동철 한전 사자과 김성진 한국전력거래소 이사장",
       "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZVFfWWQwQ01LRFFmZ0F3QXplN1JWUkY1U19sdTlRdDhOUkNvWlNKUjZvV3ZiMVctRnd3MjRSVFJ0TV9OOGtNVnNGTGkxOGJ6Nm9JRzFVbEFGc3lVcm1jZQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaTduZEhla052ZHJfalVrckQwaEJZZGQ1eTNuNWhZN3RTVTJVM0NHUzZObjlSdDFmWGxUNWNuaktvdFRMYnk4OURDMTRDUndBN0xtNGhVUXhlR0s3Y3hZRHRFLWltQQ?oc=5",
       "publishedAt": "2026-10-19T04:09:48.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -292,7 +354,7 @@
       "source": "영남경제",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBheUVwbXlvYlRIV3RUSmdkcXc5dmpjNjYwcUFnQlhibXB1cjRPall0OWJYZXM1dngyYS1ENHdkN0V4b3dlbmFfWnM1WWR2THg5SDNaMXJOQzNENWRsSHlYMXlYWnFqSXc?oc=5",
       "publishedAt": "2026-10-19T00:51:22.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -319,7 +381,7 @@
       "source": "한국일보",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VUEpfaE92SFA3M25aNFFvdTdvcjFHWnRRcWthZU05TmNnTmdhWWRLNThQSTdhU3NsRUhBNnJTNGVmb2QtVFl1U0pCdk93aFdPRWVkdjhtdG5vWnc4QXczSmJvVWNWSG1nT2VTNmtR0gFzQVVfeXFMT1gwblFfOTFkeWRGTkI4ZHBzRmd4VDcwTlNGY19KcHdvVWpMLWtmRVZqV2JFc3RRVG9ZTHFXaGkyRXYxeUpVNGpvMEwyNnoyeS1zald0TTkzSXdhQU5FT0lMbTkxcmlZLXI5OUR5dlRPdUt2aw?oc=5",
       "publishedAt": "2026-10-18T19:30:00.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -348,7 +410,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tNi1WSkQ3REstVVFFWEFGQU9fR0t1b3hIOTNJa2VDMjRudjRTeGl4Q2FaT09CVThBYXNORmtzM0F0WmJLUzdzeXBFeWJtTS05REdDNXI3MzJrQXFxbFM1czhzNTdhRF9qNWVOWGtfdVhadnE0NUdDRtIBeEFVX3lxTE8tNi1WSkQ3REstVVFFWEFGQU9fR0t1b3hIOTNJa2VDMjRudjRTeGl4Q2FaT09CVThBYXNORmtzM0F0WmJLUzdzeXBFeWJtTS05REdDNXI3MzJrQXFxbFM1czhzNTdhRF9qNWVOWGtfdVhadnE0NUdDRg?oc=5",
       "publishedAt": "2026-10-18T02:32:25.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -377,7 +439,7 @@
       "source": "비건뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VNzIzVTV6bzZpazIwUzJIaV9lVWI1emhXMVNTRlFENURmVFZpUnpJUWpQNENxYXc1R1BPc2k3YVBjV0szQW4tX0dmNGEtTE9qRTNnQVZtZDA3dS05ak5HN1AyMzUwQQ?oc=5",
       "publishedAt": "2026-10-17T21:13:44.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -399,39 +461,12 @@
       }
     },
     {
-      "id": "36ee679310062e8c",
-      "title": "[헬로스톡] 10월 16일 주목할 종목 : 대한항공·한국전력·LG유플러스·효성",
-      "source": "헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dnVvNURGY2QwSXUybFVWM09ZaTNVVlJkd3JfLWlSN2hhdE50LXBoZERrVXllVUF5VnBKYlUxWi1odGZQaUZ6NjA1dTlXWmE3Tk4xZktxU0Y2T0JqTXRZ?oc=5",
-      "publishedAt": "2026-10-16T10:34:58.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "[헬로스톡] 10월 16일 주목할 종목 : 대한항공·한국전력·LG유플러스·효성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "32416a718e90c32b",
       "title": "전남광주소방본부, 한국전력과 재난 대응 협력 강화",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYVTZ6OWhKdC1JMVVSa2piVDJtTVpidmtOTlVjQThyZWtJUUlEUHRQcVc4UHBNNFM2TGU5R0YwYUgwQ0o0ZUMzY2RncWlDVmxhX2gtZ2RCWm1jZzRFWG5FZNIBYEFVX3lxTFBYVTZ6OWhKdC1JMVVSa2piVDJtTVpidmtOTlVjQThyZWtJUUlEUHRQcVc4UHBNNFM2TGU5R0YwYUgwQ0o0ZUMzY2RncWlDVmxhX2gtZ2RCWm1jZzRFWG5FZA?oc=5",
       "publishedAt": "2026-10-16T06:10:35.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -458,7 +493,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBySzltRzBKallYdk1aaV85RGpMbEZhMmp1ZjUwQjQxdDJ1aFRMa25GZnRjcjRDdGRJaTVrd0xlQjVVZlM3Rkdra0R1RHZNbXFZSXBYR2NYM1pfa0JERkJpNkZtY2ZrUGpLLXY4TXphLWrSAXBBVV95cUxQcks5bUcwSmpZWHZNWmlfOURqTGxGYTJqdWY1MEI0MXQydWhUTGtuRmZ0Y3I0Q3RkSWk1a3dMZUI1VWZTN0ZHa2tEdUR2TW1xWUlwWEdjWDNaX2tCREZCaTZGbWNma1BqSy12OE16YS1q?oc=5",
       "publishedAt": "2026-10-16T06:02:13.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -480,39 +515,12 @@
       }
     },
     {
-      "id": "d9ae88d9e9c94214",
-      "title": "한국전력, 기상청과 손잡고 재생에너지 발전량 예측 기술 고도화",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSF8zZjJoV0pxVTU2aFZraXR4OGZaVEdTRThsSF9JbGE0WDlVOU1TYkFZaVhoTEg3dGY2c2FfQ0NCTmZMRHFNMDM5SnlJZENYYkdvX1NVdGlJdGo5S1NJek44cGNGUWhxeDhfdkdTcUxOU3NpVEZPRG1GOTVSbTNPMlJCMW9Kb1VhVUE?oc=5",
-      "publishedAt": "2026-10-15T23:03:49.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력, 기상청과 손잡고 재생에너지 발전량 예측 기술 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "eea3787ca3010c8e",
       "title": "한전, 전력설비 '전자파 오해' 바로잡는다…소통 전문기관과 협력",
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzQS1ITnhIQjNYVllPSXlIckh0am9NaVRKUE9DWVp0dUE4bFV4MzNiQjBoNXFBSHRMbmR3MTdlNmROQlk0VzdxSEVJVzlsemU2Q3Q2d2R6d3RGV2RmaXlIdnp1NDFnZ0dv?oc=5",
       "publishedAt": "2026-10-15T13:14:39.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -539,7 +547,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xNXVjekFZRjV6QTN2YnNnU0lJSDZBSFJiRjhMYVllRmhYMFVMWl9TVS1SRTBPQlhFNlY4SFdmYnZmOERhWDVtUm1CcG00NUFvakhta0hmYVhyMGM?oc=5",
       "publishedAt": "2026-10-15T09:48:42.000Z",
-      "collectedAt": "2026-10-19T17:16:26.755Z",
+      "collectedAt": "2026-10-20T01:22:24.202Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
