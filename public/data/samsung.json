@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:29:32.530Z",
+  "generatedAt": "2026-10-21T01:09:15.332Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "삼성전자, 모뎀도 2나노 간다...올해 4나노 M2700은 MX 테스트 통과",
     "삼성전자 사고, 닉스는 팔고 [주식 초고수는 지금]",
-    "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB",
     "삼성전자 반도체 전문가에게 듣는 취업 꿀팁… 한국폴리텍대 대구캠퍼스 특강 개최"
   ],
   "articles": [
+    {
+      "id": "042a228043956a3f",
+      "title": "삼성전자, 모뎀도 2나노 간다...올해 4나노 M2700은 MX 테스트 통과",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iYVpmS2RLVVpjRW5JclF6bmMyc2VPYkFEMlUxVW9BSGwybVhSVklYX084NTVBbDVxYVEwT05qV2NKZnBXcVFUNVE4LTljR1V4cWdwV2ZVYkI5clR1Sno5NENYYTE0dw?oc=5",
+      "publishedAt": "2026-10-20T08:46:59.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 모뎀도 2나노 간다...올해 4나노 M2700은 MX 테스트 통과 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "53ec4c886a294439",
       "title": "삼성전자 사고, 닉스는 팔고 [주식 초고수는 지금]",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxeWtvc2dCbnpCaFFrdVpYU0JuOC1oQjRzVmFhNHRPX19hU2VtSWtrSFRwdHFtSzJxTVBlQnVEeHVEVlFpYTJIOXczbEM3Rnl0OEE?oc=5",
       "publishedAt": "2026-10-20T06:21:55.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -42,39 +69,12 @@
       }
     },
     {
-      "id": "a7d7edffbea04c5a",
-      "title": "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QT09ZSExKRnJ0TzlBMVdaS0Qwc3FXNDhWYXgyU19tYWEwV3E3dXFxYTFCenR6ZEIzb01EWW5FeDJSQm9ERkpBZFhXcEtucXd0SllNLXliVFNaUQ?oc=5",
-      "publishedAt": "2026-10-19T22:58:38.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3263aeb356231785",
       "title": "삼성전자 반도체 전문가에게 듣는 취업 꿀팁… 한국폴리텍대 대구캠퍼스 특강 개최",
       "source": "매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nQ0lodU41aFBhbVR5SWxYN1RTMXFzaUlOSGRJVmpCam9PSXRDdE5Ub3o5cGZsNjNrU3dRd3Z4NDdySXp6akkxak5JeVZPN0ZfeTY4TmdUTmNtY2RpNjdJOUh3?oc=5",
       "publishedAt": "2026-10-19T21:30:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +101,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tZkZTdXAtaldmQk5mdExHSER0Qy1MbGtUSXQ3ODdKbGFZYWlEbDU3LTFQMGxqNnFxVUl4cGZoTktBV3ZCYS1Ba2JqNzVjVUY4d2Y2OUZn?oc=5",
       "publishedAt": "2026-10-19T20:00:01.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -128,7 +128,7 @@
       "source": "신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kR0Qxc19yOUNaa2pXcUxsdktwakZKLUdrU3l2ZXVSZDdDZWZJcjFmM2Q4dVBPUW8yRVAwUnlpQ3BSZWdjWTh5d3NDbXQteFAtdF8ta1FZS2Zjc0tTZkZ6d19fcC1PTm1kSGdvTGtFOVE?oc=5",
       "publishedAt": "2026-10-19T07:26:28.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,7 +155,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsQ2FybU42Mjd2RkZLTkNXQUt1T2x4Q0lQZWtLVUhlZjFwVU13V1hvbXpLZ3hoRlZmWjA3WGc4b3ZBZGNoOHN6Z1VkY1dMN0VxYjZnZkFnY2pJbUhuMU03Qg?oc=5",
       "publishedAt": "2026-10-19T07:08:36.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -182,7 +182,7 @@
       "source": "프레시안",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6X0RJZ3hEdDhDV3ZRb2FralFwZTRyb0tQZHlfQ3dDMlJaREdsemw4TDBlU0hEVFVfR24zSVhEMWo4Vy1rMERWOEpwbEFxRFVZSnlWMm9EWTZHQnFaTjZSR3hLc3VsZXNLVW9V?oc=5",
       "publishedAt": "2026-10-19T07:01:15.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -209,7 +209,7 @@
       "source": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBldWJpbFIyRnQ0dExBOV9JRzMzdEFHcjJLWEFnQWY3VlZIUTdFWWhfNmxVcUNBYzIxT2FMTTMyckVOWGdDX3V1WWNpSDRBOHQxZWw3Ulh4Y050eEdkaDRGN1NJalp5aWF6aUllUXFqVmFaekVYeWc?oc=5",
       "publishedAt": "2026-10-19T06:04:20.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -236,7 +236,7 @@
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSEVCalJSOExzUEVvQ1YyWDhOU21xc3YyZ1NlcVpRQ1RhRURYNzM3RkZ5Vm9xQ0JWWXdlME1PVlN1TFhRUk9fZ0ctY2dZYkVVRjIzOWdxY2I?oc=5",
       "publishedAt": "2026-10-18T22:22:04.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -263,7 +263,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IanhhNExETklZb2VzWG4teElZelduRjZ1cHlRWVF0NFgtR3JaQzRsdXp6WmFCSU0ydEUyRHFNZjJOSVRpcXlWZmEtWFN3QTFQWXNyUVVHRnRseXNTMzFpSGlRbXhkcVhu0gFsQVVfeXFMT3MwS1NfWFRKUGRXRXhJWlhqZkJObUhhZWpjME5NWk14SzctUmpjQnVJMDJnQ1dyeXFraXZZeWRpLTNTWDVwS2VKejY1bkNuY1U4SktjelNCcFVXandCWXVHQ054WlVoQ042X0FI?oc=5",
       "publishedAt": "2026-10-18T21:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -285,39 +285,12 @@
       }
     },
     {
-      "id": "e0883e6c2b10575b",
-      "title": "삼성전자 반도체 호실적에 미소 짓는 수원 용인 평택 화성",
-      "source": "시사통신",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JbV9zdUlHWjVVWWF6S3VDZ0RZQzl0dW83UFRBX2wxYUpWZC1oNGxwQjFkTnViX2UwY3AzclN3UDk4MnZqV1lqeWE1Z2NFY1dXS196cmdWdDF0NXl3SWk5WVNrVmdQNHPSAWtBVV95cUxNbEsxOXdmTUtzSlU0Q1BpblFESjFqcTQ5QXMzYWcyaG96NjZ5d09RbUlFSk5LRGJaRUpfb3VERFdFSk56S1ZwX3hNQkdRZ1NFVGtqckVLTktydUtLTXFrd29MN3cxeHpDeVlVVQ?oc=5",
-      "publishedAt": "2026-10-18T05:20:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 반도체 호실적에 미소 짓는 수원 용인 평택 화성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "89edcc0b0e4827ca",
       "title": "삼성 반도체 ‘AX/PI센터’, 수원 SAIT 떠나 동탄행",
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rMV9TV1oyaGJKZF96aDBEN3JaMVQxUmxqY2xkTzVySnVMUzJ6SDF6OTh1ZU1YSWJyc01PV1UwX2l5WlVsMFV1c0JEQmJobTcyekJfUzFDalRuMTd6WlltSWpvdk8wUnlteDNra1IwbzXSAXRBVV95cUxONFhnbFRZUlhiWmY3X0ZNNDBHVzRRSmNidy1yVGIyd1NES2JwQmhiRzVvcWtyWjIxb3JxeXRhMWJqNXJXVURDVzBwQjRYRUxzQ3E3MHIteWZyeVV4d21CdGw5N252TEZyN2dvUXpYR2VGRjBGWg?oc=5",
       "publishedAt": "2026-10-18T00:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -339,39 +312,12 @@
       }
     },
     {
-      "id": "be66fadc1970fd5e",
-      "title": "\"광(光) 반도체 기업 인수 검토\"…삼성, 첨단 패키징 배수진 [AI칩 인사이드]",
-      "source": "MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLMXNicFVjcHRQSFhSbnA0RjJqQkhlWWtneHc4bXFNd2c5OGUzNldBcVdacUc4SjdncGZWb3N2RHZpSDFGdExjUm1oanYtVkdETTZlYjhqRHBVMVRlZG9n?oc=5",
-      "publishedAt": "2026-10-16T06:08:04.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "\"광(光) 반도체 기업 인수 검토\"…삼성, 첨단 패키징 배수진 [AI칩 인사이드] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "4c38311e321c8293",
       "title": "이재용 막아선 삼성전자 동행노조 \"돌아온 것은 침묵과 부상\"",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZWFWVGNRNm5PU051dTgwaGVLd2FVZWpnd3lOU1Q1bFA1RTg4NkNNbnJvODU0T0Z5RGFZVlhJd3QxeEdVNmR4WXEzXzk5LWNYcnVoRmZKN2ZYMkdhNXNhLTd6UXRPa0FhTDltbDhZV3Q?oc=5",
       "publishedAt": "2026-10-16T05:58:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -398,7 +344,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lWjhKSjFNZnNYTnlxQjVrQkhvOEI5b1lNUzU4a0NHcVJQRDQ4Q045ZFNjMGhJSTlzVVhhWU1IelRMTWE1RS1BaWRSWW9FbkczSXY1VHpB?oc=5",
       "publishedAt": "2026-10-16T01:18:51.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -420,39 +366,12 @@
       }
     },
     {
-      "id": "c609b372b66f2972",
-      "title": "삼성전자, 美 테일러 제2공장 내달 전격 착공…AI 반도체 생산기지 확대 속도",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55ZlpyTDZndDBxY0dLWlJoWUMtQV9RUFBHSUhHZFhKQUhjc0w5aEZzZ0NtOEgtOTFTRlowNV96c2FZOU45MjJ1YUZyUWJNMnF1cTc3Y2daVUdzNmJ6clE?oc=5",
-      "publishedAt": "2026-10-15T23:58:42.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 美 테일러 제2공장 내달 전격 착공…AI 반도체 생산기지 확대 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "02ae127d00ca9ad9",
       "title": "“삼성전자 10만원까지 떨어져라”…주가 폭락에 웃는 직원들, 왜?",
       "source": "주간조선",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keGEzX0s5YnQydXQwVVpRbXJvQnZwZVI2cTNudUFPZEh4VlpzNVV5cllBdUExZXJwdDlyM0xnOE14emZQazlMbEdKMENFalJKTzZIZmZrU0Job1RGcGVuazdhekVzSlAyV0HSAW5BVV95cUxOS2pjSTFPdU5uY3pIWXNiRVlwekRYaGxWcW1qMjU4LUYwOHZuOUx6YzhvbUF4LThMcU5qTjNFeFdKRllnZnhjM2x2S19BSmNQTXMtdzNsQVQ5V1dPQkIyTlNpQ2NTVTRET2xMekRMZw?oc=5",
       "publishedAt": "2026-10-15T16:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -486,7 +405,7 @@
       "source": "주간경향",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dGVGeUg4eUdObVMzSG5iLXlEWnIxaEVlSFQyR0RobHpzaXp1RUk1bjJyM1ozd2dicXJRQmRFVkZXNHlUQ3hWUEYyT0NXM09HUzB2WWNWaGlrMHczZUE?oc=5",
       "publishedAt": "2026-10-15T08:49:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -513,7 +432,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
       "publishedAt": "2026-10-15T05:20:02.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -540,7 +459,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVd4UlcyOERaZC1leldsOGJPU1hRTmR5UU5RS2YtRXlfVkRYOGhMYTBCckVEU0tmZlZVRzZWdXNHSUlhZnQ1cnlTN2p5U1NWQzIwNXVqSFlBLVA0VnVNek9tV3RYYWNiQm1wUGtnRnJzOERQTnppUDJweXd0Z3hkdWtCNA?oc=5",
       "publishedAt": "2026-10-15T02:59:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -561,6 +480,92 @@
         "negativeTerms": [
           "급락"
         ]
+      }
+    },
+    {
+      "id": "1d59dbd4067f8119",
+      "title": "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”",
+      "source": "주간동아",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZ1h2OC1zSUhJX1lTM3hfX2JXSTFSNG55emV5ZkE2UUlxVnY3UEpIV2VHNWxoYThLeTRhRWpHc3hfQUxIT2h1WlRDSzRsRm45NHZzYnBYVGVycGpwdVBPRXMxaUZmS2JU?oc=5",
+      "publishedAt": "2026-10-14T22:00:02.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "05a92fa6fba56303",
+      "title": "삼성전자, 갤럭시 AI·빅스비 지원 언어 확대",
+      "source": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZEhtalVoSnFxMnp3TkVGZ3pPTEFGVmVHcHV0NExURVA5c0xualphdDdNLXEtSmxsbDVKbFp1QTlvSVJkTWFjQTlwNl9SWnhJYmxiQmx3NWMyU3d1QVpnMWs5bE1Kd1JBMTlKOHBxOVBKNENJTFVQc2tiTEVVNzFqclFpM3RFa3haOGFZRjZIMlpyekZkUHZ6akY2RzREYUZXSDlUUGNBa0FnZllVMldOTVdkYUdRLVJTRUtROElVTW1fV09pZVFrcmRXX3VrcHB6alFrVlV2YlFnVkFoTFJoOGxxTmQ4Skxib002VHJQYnM4MmpRMGVUaEFsVDBSZ21lQklvaGRMWi1ZM3pBZHBjd3pORQ?oc=5",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 갤럭시 AI·빅스비 지원 언어 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2986113b3602033a",
+      "title": "삼성전자, 차세대 '4F² VCT D램' 개발 재확인…CXMT 메모리 추격 대응",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTnUzTzRROFhWMEo1ZEdsVHB4Y0JCUHVKS0RJa0RRckxFeXFQSHNuUTF1eDdBTE1JdnlzTTE1RXMtbjFOcGc0MERUdV9GQWRYNTAzaU9n?oc=5",
+      "publishedAt": "2026-10-14T07:36:17.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 차세대 '4F² VCT D램' 개발 재확인…CXMT 메모리 추격 대응 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
       }
     }
   ]

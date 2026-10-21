@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:29:32.530Z",
+  "generatedAt": "2026-10-21T01:09:15.332Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,213 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "\"분할 전 팔아야 하나\"…카카오 주주들, 인적분할에 '물음표'",
-    "소액주주 만난 카카오 \"문어발 확장·고점 매도 반성…재발 막겠다\"",
-    "\"카톡으로 호텔·항공권 예약까지?\"…카카오, AI로 `거래 수수료` 노린다"
+    "[카카오 밸류업②] AI 청사진에도 증권가 목표가 줄하향…소액주주도 우려 |",
+    "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 - 머니투데이",
+    "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야” - 조선비즈"
   ],
   "articles": [
+    {
+      "id": "7a3f0070b3dba6d2",
+      "title": "[카카오 밸류업②] AI 청사진에도 증권가 목표가 줄하향…소액주주도 우려 |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMWDJ6MWotNXB0VmpjMldpcDQxUlJaRFJMbFlfVjBaYUZqU080SlJmc2JLT3lzeXVYdUZCNktHWDNRbmV4NldkemVhUzVIUl9XMmlNVDR6YkJ1NGtVLXVoVGtMcXRMS3p5X3QyT1U2eEtLdHNr?oc=5",
+      "publishedAt": "2026-10-20T23:45:29.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[카카오 밸류업②] AI 청사진에도 증권가 목표가 줄하향…소액주주도 우려 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "53a94ed762ed44e6",
+      "title": "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05bVVJTVNWVTFmSmVSenEyRzJLQzk4UzlvWElDSnRqTlJ2bnhEcTBCR3NYX0wzTl90bzE3S1BfNm1XX0sxSzhtYXJ2UzljVlRBUlNWdGUzOExLZlI4U2JKTV9xNEEwajEzM19Wa2F30gFuQVVfeXFMTTltVUlNU1ZVMWZKZVJ6cTJHMktDOThTOW9YSUNKdGpOUnZueERxMEJHc1hfTDNOX3RvMTdLUF82bVdfSzFLOG1hcnZTOWNWVEFSU1Z0ZTM4TEtmUjhTYkpNX3E0QTBqMTMzX1ZrYXc?oc=5",
+      "publishedAt": "2026-10-20T23:43:26.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9dfcebfb6e7b882a",
+      "title": "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야” - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWC03NHBSRlk5NnBZNzl2b0p5QXlyc25mNzloYkhhcjgwUWM2cTVOYTM1cGhBdENUQXk4UTNqZ2ZpZFBlOFlwYklHcjM0WTV3RG1RN2wycXF5VlZxX3E2M01kNG5OeC1adWZyV3R0N0x5NjhfUWotYXVsd091NEJGNXJfRFZLS0820gGcAUFVX3lxTFBKcnFqOHNlRDYyMmh5UUlnU2ZzLTdQQ3hmY29KSmVPODQyVmQ4OS1IRGoyWFBqa0lnOVZmbzI4N3ZzaVdkVVlCbFRZSEhiVzRrLTZ3RTV0UXlxRkRRakdIZHN6RGZXSkhtWUVfaVhCMzdzMlJFSlctTHpMS0k2N3lJVUtYU0pEMXBHUE5Pc0tfVkRLeEFOUlZwRUtETA?oc=5",
+      "publishedAt": "2026-10-20T23:41:00.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "실적 부진"
+        ]
+      }
+    },
+    {
+      "id": "b6292294ad902825",
+      "title": "금융 혜택 ‘눈길’, 적립은 ‘글쎄’…카카오 멤버십, 20일간 써보니",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13bXowNVUwbnNOV0pWVWNuS0ZtdUd4NWRLYXFTR0dMbHdDNTRJRDJVSnF1NGh3cjRRamUzT29UY2Zua2NkZ1hteF80MmdWZ29kYTNRV3ZR?oc=5",
+      "publishedAt": "2026-10-20T23:30:03.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "금융 혜택 ‘눈길’, 적립은 ‘글쎄’…카카오 멤버십, 20일간 써보니 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8f44c68886e41b43",
+      "title": "한투증권, 카카오 목표가↓…\"3분기 영업익, 전망치 밑돌 듯\"",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQcXBFeU5NSHFIVFpILXg1UlFvUW5FM21SQ0pFeW1acjhXZjU2TGxwWWZPWXY5SGVZVndzenlHbkFXTnZBSVpIeFdDWHR0dWxlMlljM1pZZXVZYUHSAWBBVV95cUxNQkJKZWFyaTlxenFScG84OTJFZW9jeWIyWm5ZWUtWUkZhQ0NfQk40TnNFVU9Hc09kc1lxZXF5Q0VHTW5YNTZ4UkU4R1dEbGNjajdZNHhYSERRckxpV2RWRzI?oc=5",
+      "publishedAt": "2026-10-20T23:06:21.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "한투증권, 카카오 목표가↓…\"3분기 영업익, 전망치 밑돌 듯\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7579e353d136c4e8",
+      "title": "[이주의 관.종] AI에 죽거나 살거나…카카오 'AI 비서'에 쏠린 눈",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5adzRhOTlGZk43dnFWZzlzZ2FSMktNWE9WWkFjSmJJZ29NZW43XzV5STd4bU0wLXVhQVpBek12Rl9TcUFKeVd6RlN4M0JxaEZlV2NLZEdIZ2FZV24yUXdJaQ?oc=5",
+      "publishedAt": "2026-10-20T22:07:00.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[이주의 관.종] AI에 죽거나 살거나…카카오 'AI 비서'에 쏠린 눈 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b7e6ee5511b32223",
+      "title": "[클릭 e종목]\"신중해야할 때…카카오 목표주가 11% 하향\"",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KTjZaV3BvYzI3R3dfeXp5cTRHVmlqbEZkMS1kLUJQOFM3d2JUZzJhSDVLZmdHZGVEQ2RvLUZMV1VKdVQwTjhuMFF3ZnVaQkM2YkY5LXNabkZ6Q1dMdUdMcWN3?oc=5",
+      "publishedAt": "2026-10-20T22:00:00.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[클릭 e종목]\"신중해야할 때…카카오 목표주가 11% 하향\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "f63ed653c8045c43",
       "title": "\"분할 전 팔아야 하나\"…카카오 주주들, 인적분할에 '물음표'",
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwc1dIdnNNbkZDUXhST1pURUZDZVM3TWNCZ21kRkpWbVhfMERQY3pQdUMwQVFyc01yMVVMd3ppYXpVYmJtZ3BNcjY3a29tTjdobE9mOVZxV3J0UkdVajJRWWg2eGFVS2FO?oc=5",
       "publishedAt": "2026-10-20T08:20:06.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -42,12 +235,39 @@
       }
     },
     {
+      "id": "8e82f461afc14426",
+      "title": "일반 심벌과 특수 심벌의 차이, 토트넘 아약스 토토 비교 포인트",
+      "source": "Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGRYcC1KNzNRRmNEdU1zOFlTcDRvZDg0dVZVY1JfVmphVmM0SUpLR1RvdmlpbkpMN1E3S3dWMWVONEttV0IyRUN5RmI5Ui1xY0hYUE5DYkRQb1ptSGZiVFZkODVwYTdKMjgzeDVJamY3WGROMEtnYVNJNVE0OUdodTZoeE13a0lUcFZtQk5RZG9ub05HcEhpTWhBaXVwbkl0Ql9WOVRCeHlSZWVCQURMc3l3dFktZEpUTUQ5VUtBZw?oc=5",
+      "publishedAt": "2026-10-20T07:47:40.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "일반 심벌과 특수 심벌의 차이, 토트넘 아약스 토토 비교 포인트 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b637e9d2605cf417",
       "title": "소액주주 만난 카카오 \"문어발 확장·고점 매도 반성…재발 막겠다\"",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SSHE4U05LQVBuZjExNmhORFlHYmR2d3FXQ0MtRXB3ZHBfcU5qZ3hDbGhYMjdKaTQteUU4SjZjaXJxQkhmLUVFUTZ5eHFucXZWOWFCelE0TmptVmtYd3U1azZEUkUyVGJuemhtUUZMWXdsVldxRFBnaNIBeEFVX3lxTE1SSHE4U05LQVBuZjExNmhORFlHYmR2d3FXQ0MtRXB3ZHBfcU5qZ3hDbGhYMjdKaTQteUU4SjZjaXJxQkhmLUVFUTZ5eHFucXZWOWFCelE0TmptVmtYd3U1azZEUkUyVGJuemhtUUZMWXdsVldxRFBnaA?oc=5",
       "publishedAt": "2026-10-20T06:47:54.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -74,7 +294,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBINDQxa19WblhUdGttcDQtbU1feERvOWhsbW9qNzJHWFlLOWcwQ2Nra2g2LXFqbnVPZENHU0M3clpYanFGVU12bWhiNG1fYjBXck9KMm0tN0NTN3NXZk9hemc4YlA?oc=5",
       "publishedAt": "2026-10-20T06:32:10.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +321,7 @@
       "source": "블루밍비트",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tTHNHWkZMX2t3eE00UktIV19NUFFMQ01EOE5Fcm92a0NUdlVnVkRGTE15Zjc1RU9wcnZGMFZCdEZQQ0pIMXdTNVl6ODRRX1p3?oc=5",
       "publishedAt": "2026-10-20T06:21:01.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -128,7 +348,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPNXZlU0V5UU44bG44YnNubW1mdk9yUUpxT2JPM1QwUUhFNEZxQzJaR25CQmNuNHMxVHBkdEZERFA0ZXZwQkUxZXZyNE43UQ?oc=5",
       "publishedAt": "2026-10-20T04:27:27.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -155,7 +375,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSkQ4Smp4MGhpbGVmaVpHV1FvbVFkejgzdHJsX3BDU0hQeWgxZmJXTU50RnJHUlZDU1BnX2w5ck5TTmpQYXFQaGNwNDNMUEk1OVhGTWY3QjBTNkVsamJRSW05S04?oc=5",
       "publishedAt": "2026-10-20T01:53:55.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -177,12 +397,39 @@
       }
     },
     {
+      "id": "e5a449df99d92b99",
+      "title": "AI로 생활 속 문제 해결할 청소년 키운다… 카카오, 비수도권 청소년 대상 ‘AI 루키 캠프’ 3기 모집",
+      "source": "카카오",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNQjNPVWFjbDh2ZU52a0lfaDY0dmp1cE80NEdBWENXVDNQaGFwV2JWZGJsWnc4M09RTmJEYUhzeFFVQThmdlI2Rzd4dk1XVmRSUWhEQ0J3?oc=5",
+      "publishedAt": "2026-10-20T01:27:37.000Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "AI로 생활 속 문제 해결할 청소년 키운다… 카카오, 비수도권 청소년 대상 ‘AI 루키 캠프’ 3기 모집 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ebc1e8718170ecb1",
       "title": "[송호길의 금융人] 카카오페이 신원근, 흑자전환에도…주가 74% 내리막 '골머리'",
       "source": "뉴스워치",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xdS1kRWhmeldGN0FwMGhwTmpTR3hZd0FQOFpXSkpnUU5ZSi1TS0M2WEFWem9hVU1BX1JpeldKMENSaFRIczdQRUtPWW15MG9mZnlWaUNUV2p2c2d1U1NicFFmcmhWY0lKN0E?oc=5",
       "publishedAt": "2026-10-19T21:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -211,7 +458,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fV1ZvaUFGV2Qwbmh4ZUFBSU9rVXZLNm5mQjNrT0J4aDN3ZGhidjJBand1Q0t2SU9oakwyT0hiU28yakprME1pVjVQNjZ4WkFlQ2lQYnVNN2VoekNY?oc=5",
       "publishedAt": "2026-10-19T00:31:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -238,7 +485,7 @@
       "source": "인포스탁데일리",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kRGdxbjVYREFJSDZHc2YwYzdvcDI4U3gzbVljaWJUYmdVcVI2aXQ3R2x0QXc4aGVhU1l3cnRXVUw1alNmc2tYVEo4UmRjN2t1VUFjcG1qYmxmaUVBc1h6LU9Ea0ZIRmJZc2U2alpwMXI4UDYwYnc?oc=5",
       "publishedAt": "2026-10-19T00:08:14.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -265,7 +512,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtYTVFSnFQNXgzeU4xeEZIY2VSVVpCV1hDcWFtaEpOUW1XcmFaS1ZQeEIyUEVaQVNVUl9NaEx3bFNxTlJjdlJVTUs1Tk9PaGl6Y2w4NlBXakhfeHE5WDQ0aV9WVGIxQWF1VzR3QS1CVE5Td21N0gF0QVVfeXFMUG1hNUVKcVA1eDN5TjF4RkhjZVJVWkJXWENxYW1oSk5RbVdyYVpLVlB4QjJQRVpBU1VSX01oTHdsU3FOUmN2UlVNSzVOT09oaXpjbDg2UFdqSF94cTlYNDRpX1ZUYjFBYXVXNHdBLUJUTlN3bU0?oc=5",
       "publishedAt": "2026-10-18T00:40:25.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -287,39 +534,12 @@
       }
     },
     {
-      "id": "d3f9d9e09d75e44c",
-      "title": "SK하이닉스 이어 카카오모빌리티도 ‘ADR 발행’?…K기업 ‘미국행’의 속사정 [알기쉬운 경제]",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ET1Z5NHczYzhqNldvaDZJdzdFVXA3ZmVRLUFhUHB3Yk1GbzVkYXRJNmhVbnJFblFkbHVySGtwV0tuLWFzTEFQaGJaYXlCbmtNcG1sdUx1enl4TUlSeGxuS2YyYw?oc=5",
-      "publishedAt": "2026-10-17T23:59:23.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "SK하이닉스 이어 카카오모빌리티도 ‘ADR 발행’?…K기업 ‘미국행’의 속사정 [알기쉬운 경제] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6d90f17755c197fb",
       "title": "[무엇이든리뷰] '카카오멤버십' 써보니…록인 효과 '확실', 외부 확장·안정성은 '과제'",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05ZXNNQ1NMbmlveXZPYm8yT3UwMUVNUWFocWcwY2ZEM05FR2tnMVZDVm1jV2Nxb3hvWW01cDBrQjE0MDZKNnAxLTFCMG9sdw?oc=5",
       "publishedAt": "2026-10-16T21:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
+      "collectedAt": "2026-10-21T01:09:15.332Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -332,222 +552,6 @@
       ],
       "summary": "[무엇이든리뷰] '카카오멤버십' 써보니…록인 효과 '확실', 외부 확장·안정성은 '과제' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e3bae38496df3f9b",
-      "title": "윤성환 토토 정보 창을 열고 닫는 기본 조작",
-      "source": "Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0o2ZFRZOXNpRGpBZEN6R09LZmpYMTJfS2lUR0YweU10dUJlSlN6MnpTUnlmZ0pLLUFXdWMtTTRkN2VsWFljb1pvMWpCdUhzdHVlMWNDN2c2clNyaVQyU2xuZUFaaS1zR3daR2lGcEltbVNRQzZsN05GWXpiRk9tdnVKVjFnQld0YVNjQXRlRnlpU1RjalRqMVNIOFFJQWhGQjJPZ2N0YnJ4Nkl5bFRDeXQ4QU5ROS10NEloS1VpUQ?oc=5",
-      "publishedAt": "2026-10-16T14:23:58.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "윤성환 토토 정보 창을 열고 닫는 기본 조작 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e29dea8e24e9bc41",
-      "title": "카나나 스페이스로 모두의 AI도 불러 쓴다?···카카오 AI '큰그림'",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMmhjZTh6M21teWRWcEJHQ2FNbE10WHNNMnVvV3RHcUhFbFlTczRQSEJPbDNqbzMxenpOdVdVRFZPTTA5am9FOVhUVFhNY1ZMWVp2OFJZYlpMTGdoX1IzaVdUSnlLZXRyMnc3NXZnTnJUd9IBdkFVX3lxTE1uZ1ZZT254emdFamptY0dUUlJCU2E2UkJOQ0QzS0dmNEhhN3VXcTYtOExxdThzN1g4cVFWbXNJZ1hTUWhKQmd2QWMzaGhPblVvTjdoeE1HbHp4VW8yY2Z5TWRYak5EbDkxN194QlMwREU1cmtsaHc?oc=5",
-      "publishedAt": "2026-10-16T05:16:35.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카나나 스페이스로 모두의 AI도 불러 쓴다?···카카오 AI '큰그림' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5b6aa35df6a49e12",
-      "title": "카카오 “분할해도 고용·복지 승계”…주주 설득 과제",
-      "source": "대한데일리",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNDJ6YXdPSWhDaTJBTUdLZmdxbWFIaDVfOHZfMVFHTHdPNEZwNENUMU5jaDJBTXBKZXJrWnV6MEhOd3pUTHZRNnNlbE1obHFETzFDOEN0bFJOc2hCUGQzZ3NWR0hQMzdKS3c?oc=5",
-      "publishedAt": "2026-10-16T02:41:28.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오 “분할해도 고용·복지 승계”…주주 설득 과제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "78e414277fe8a072",
-      "title": "AI 신무기 공개했는데…카카오 주가는 왜 계속 떨어질까 [정지은의 테크킥]",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRmdZRlBJdTNTSUtLNFFRc3VFYVlHcGhhdDZQamRJdmRPWnZRRVgwMkpvSE9mSFBuUWM1b2ZlM1dSQm1LY1FKM3o2UDdoSzBjbkxsYlRpTHBtQQ?oc=5",
-      "publishedAt": "2026-10-16T00:00:05.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "AI 신무기 공개했는데…카카오 주가는 왜 계속 떨어질까 [정지은의 테크킥] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1e53a2ffa7cd5c13",
-      "title": "카카오, 소액주주 대면 설득 나선다…‘인적분할·AI 비전’ 입증 시험대",
-      "source": "파이낸셜투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BN2I3cDU2LXV2YlRwc0xFSzY4N1oya0RrelJpcGdtM05YcEhWTHNkTWVsNDRvNW5lOVNtdlNMLWY2ckdOTENEX0pYa2ltVTg0dTlrU0hrejlYVGpZV2tSNHY0UV8tdkNpLWkw0gFuQVVfeXFMTUtjb213bG9qSTZOb2RFNVptS0NFZFhNMHh4NF9vZWs2QkstcUJ2UTlQUU50eWVYVW1uX2h6ZVU5ZnRNOE9sQnV0c2xmQ3BGN1oxcnoxWFQ1R1hHUjZTVzNQTnlSSlh5UVp3MkcwcUE?oc=5",
-      "publishedAt": "2026-10-15T12:48:14.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 소액주주 대면 설득 나선다…‘인적분할·AI 비전’ 입증 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ae227f5a1e5cfc3e",
-      "title": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1La1dTbml5eW13Z3ZsdlhQQUJGWFlyZGNIRV9ZeVlxSXpKWjdYWlhnT2gtUGgtMEFlQ1lLRE5IelRKLWt6Z2xFY1k2ZTFnRzNLTnJxOUs4Y1RVbC04dUl0V3dfd05sVWM?oc=5",
-      "publishedAt": "2026-10-15T11:55:51.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "37e1432544f200c9",
-      "title": "카카오페이증권, 금감원과 신혼부부 금융문화 토크쇼 공동 후원",
-      "source": "라이센스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03QWlraDdmM29lZmtSNnJkQVhoTWZZbk1rLWNER1Zlbi1IUEppaVNUbHpBMXBkRUgyN19IRTBVOW9wbFYwUTdJaHZWazhhUWp1YlgyZkhTdHpnVkx3aVo3UlBaVERWVDB5cnl3?oc=5",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오페이증권, 금감원과 신혼부부 금융문화 토크쇼 공동 후원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "badbf94cb83f65ae",
-      "title": "카카오, ‘AI 윤리 6대 원칙’ 공개…연내 체크리스트 적용",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPaHJzWGFxNG1ZRTNRX1FWc1BEbEdVOGdwRjdyVjFrVW1LM21qdDdQVVFwVTBMM0FnVWVOQkl3N3BpVzlBSkxJUEFnaV82QkVFRnBNYVJTLUJSUmNGVmtaZGRSUFM?oc=5",
-      "publishedAt": "2026-10-15T05:49:40.000Z",
-      "collectedAt": "2026-10-20T15:29:32.530Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, ‘AI 윤리 6대 원칙’ 공개…연내 체크리스트 적용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
