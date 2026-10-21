@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:07:57.799Z",
+  "generatedAt": "2026-10-21T15:45:13.983Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "[기업 생생소식] SK텔레콤·금감원, 금융의 날 앞두고 보이스피싱 피해 예방 나서 外",
-    "대사협·SK텔레콤, 전국 5개 대학과 ‘시니어 AI·스마트폰 교육’ 맞손",
-    "내 달리기 자세, AI가 봐준다...SKT '런메이트 캠프' 눈길"
+    "SKT·금감원, 보이스피싱 예방 협력…AI 탐지 기술 고도화",
+    "대사협·SK텔레콤, 전국 5개 대학과 ‘시니어 AI·스마트폰 교육’ 맞손"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBha1gzRDFyWVI2SjBuQi1wR1AwU3JxMjZwajJzajBVZ2JZT2tiUXNyR0tiaDJ1eWdzZUtzOXFZVy1OclVENjFHblM4dEtpNy1ZbDVkaGg2bjlHYkVrNnBtMTBKZkhKcUpOZDNQbk1sZ9IBb0FVX3lxTFBha1gzRDFyWVI2SjBuQi1wR1AwU3JxMjZwajJzajBVZ2JZT2tiUXNyR0tiaDJ1eWdzZUtzOXFZVy1OclVENjFHblM4dEtpNy1ZbDVkaGg2bjlHYkVrNnBtMTBKZkhKcUpOZDNQbk1sZw?oc=5",
       "publishedAt": "2026-10-21T05:34:24.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "7a5892c77280c123",
+      "title": "SKT·금감원, 보이스피싱 예방 협력…AI 탐지 기술 고도화",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2OUJKV1VPeVBnQmdtNk9ZQlE3M1BKQlBYRzkwZm1XcjVYbWQycE9KV1o1ajFzZXBTY0pMa0thY19BUVpKMFNEaFhKZHRsdw?oc=5",
+      "publishedAt": "2026-10-21T02:48:29.000Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT·금감원, 보이스피싱 예방 협력…AI 탐지 기술 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "dddc5b38cf103b22",
       "title": "대사협·SK텔레콤, 전국 5개 대학과 ‘시니어 AI·스마트폰 교육’ 맞손",
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtVXlOdFRQLXBmRWJSMzBxQmRxNHI5U2lEWVJ1RVFMTElESUMyX0xsazZGckh1OGVERlpET0VqVUw1TFJDTEg5T05HRzhtZXhGTE5pTWN0Y1FIbHV3YXFJOXAwNEY?oc=5",
       "publishedAt": "2026-10-21T02:24:18.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -69,12 +96,12 @@
       }
     },
     {
-      "id": "a0656dca5ac2ede2",
-      "title": "내 달리기 자세, AI가 봐준다...SKT '런메이트 캠프' 눈길",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oc2RVRDV2N21CaXFqZDJYeTRHNjh2WnppN3hlSkZVcTBlSDFLemtJVGkxWVJoNGhZbHVtcjBLaGN4Q18tRHYtSS01OGhDUFNGcDZVWTZ3?oc=5",
-      "publishedAt": "2026-10-21T00:53:51.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "id": "a2527bec8d52d4f6",
+      "title": "SKT, AI 러닝 분석·전문 코칭 제공…‘런메이트 캠프’ 운영",
+      "source": "이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ORTBmdkF2TWM0cHdWckJWZWhUVWg5YlVLS0RPdnJiM2ppVFZnZVV1a1REdTJ3TjctamlRajJjR1RjT1RCM2Nxbk94UENMU0VWd1M1eDdXTlAtTzZPTU9UYVF2MHZDdw?oc=5",
+      "publishedAt": "2026-10-21T01:09:51.000Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -85,7 +112,7 @@
           "ticker": "017670"
         }
       ],
-      "summary": "내 달리기 자세, AI가 봐준다...SKT '런메이트 캠프' 눈길 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, AI 러닝 분석·전문 코칭 제공…‘런메이트 캠프’ 운영 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -101,7 +128,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRWFNwTnNQSS10Tm5weDBuTWxCVldySEd1VTBZa0o4Z3BjekZaejBrVFNOYUNsdU8tQTZPaUdEcXFwdlptcmN4ZjJXd0dSVzRFcTk5d1RNU1hHTDjSAWBBVV95cUxPVEx6aE9wQjcwZ0VCMUEtVzFVb0VuaXd5aktFZHdkSlpBTGFkUm1PaUZubGMzVDRSVEtoVDMyQnRNMFdESmxVT0hRX0p5RGdfWFhjNVhvZ2tjTDVfc1BaMFQ?oc=5",
       "publishedAt": "2026-10-21T00:38:19.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -128,7 +155,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DaVFrbGxsVnladUwzVUo2dm01cWRhSVZtaVhId19vaG55b3JPdXVjMm1VRS15dEZ1bXVYOUVtaldPaWt3QlpOZ1FJVlc5ZThYZVlidjZFTHYxa2R0YzhPUWlGOGdnTWc?oc=5",
       "publishedAt": "2026-10-21T00:03:03.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -155,7 +182,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2NTVNRzFmUkhoM054bEV3YWMxbFZDM21SZHJYMWFJazhQNHJETU5pbEpfMEt1dkZmSGpRQm5tSkZab3NYU1JDNUtQb2RrQVhoUGV6MU56R1JyMzV4YktjTExIb2M5STFfa1diZU1VdEJQTElx?oc=5",
       "publishedAt": "2026-10-20T04:50:07.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -182,7 +209,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbHM2RUNINXdOS2o1ZDZvYm1YRmw5VjJZdG9jeFVIZXJwbVlJbXd6emxXX01zWndsekotRHFsYU1aTU14T2FhUlNLNWFHNF9vd0dQQmtPVndWMTZQZ04zRnBuWG0yNWRvcWFJTDNjZG5iYjQ?oc=5",
       "publishedAt": "2026-10-20T02:07:32.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -209,7 +236,7 @@
       "source": "웰페어뉴스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81Wk40ZzVzaW9HZ3pnVnJ5SVBWRGtsai1jNmg2eFUxeHh3UGlBS3pTUlRRUkxZMUxIUjFGWnpwVW1MbFhqbTNlaWt6REcyeU9GQTlEb1g0ZGhrT3BXcDBITnhiZzVHVGVXWFhmdUZkNA?oc=5",
       "publishedAt": "2026-10-19T23:34:21.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -236,7 +263,7 @@
       "source": "소셜포커스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVjZ2QUFKUkR1WmtiNk9JNVhlbXo5Zk9aaEVJZU1YYzFxNWtrN2xRM2FsMk40U0FNdWZab2hWdEVubVUxbGJoZVFWSmZLUXVBLVNNaTEtejdsRTItSDdOY3QtUzJQWWVUR0lLWjE4YXU?oc=5",
       "publishedAt": "2026-10-19T08:59:49.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -263,7 +290,7 @@
       "source": "한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TNWdMQlFkVE5yZUQ4OFVpN3U0cFhUREVDTDhybzJYMFQ3RFJOd05QX0hmQXE5RHUxN0dReHRTMzdxUS1NbEE5SC1VMlFKbjhZUzZyTi1MaXNoYlhlSFlrWlpHVGtKQQ?oc=5",
       "publishedAt": "2026-10-16T01:47:18.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -290,7 +317,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55ZUZIUTdOV2lrWE9FMUhkWmJRdk1YYVRuekQ5U01RVWFWcUx5TVpKRWpRMWMtaHBNVkxhRjgxNUltZTUyM25mZg?oc=5",
       "publishedAt": "2026-10-15T23:38:51.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -317,7 +344,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBic2NDNFpydm0wYXRWbFJ0cGFkOUppMWJTSGwybjRUb05kNzlNY1IyVHdVR05yc3BYVmZ5VVVYQ0NLZ0ttR1R5Z2twRl9KS2hJMTFYX3hFckpucjlzcTNXSFNTbDE?oc=5",
       "publishedAt": "2026-10-15T07:37:39.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -344,7 +371,7 @@
       "source": "인더스트리뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbHNkQnM2cXF6TXc0YkJIY3F4VTNZeFdJUXdiVlE2SnlDRDVTdl9YSHMxVHFUbnFvbXRKSEtXaV81Y0ZZZHFsQ0NYd1J6TEhvam5ta3dvalNBNG42Zi16VDRTUzdIZEFTRjB6QjdsWXZ6UQ?oc=5",
       "publishedAt": "2026-10-15T06:33:29.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -371,7 +398,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZVQtNUVVNlVvTmx0N0hFT2dHRVp1TWM2WjlGWWlkSm5JRlVkS1VsdVU4U2FjUTBhMldIcDNhSWJEUms0TVJqcEtnc3NIbUZhX3JsY2UyVEJRUQ?oc=5",
       "publishedAt": "2026-10-15T05:20:30.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -398,7 +425,7 @@
       "source": "아이티데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWnEzd3lyTllOM3hPUlRuUGVaRkRKMUFWS3JfZzAyNXZRencyYjQtbFdqa0QxVG5WZFBlcVhBMHV0NS1lN0pXZ18yWlN6QjhvNXBBRm5aaVpQazdrYjA5UndrRHZ4Z3FI?oc=5",
       "publishedAt": "2026-10-15T04:39:50.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -425,7 +452,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ST2g0N2pLYWtFcDNBeWhLdDIybl94NlFWRmlKUlB3Q0ItWWtXV0xtdWkwbEJ0MW10R0ptbjZFeTB3NkR6Vkt6V005NUI0aENrMVFXb3JMSHZpZTQ?oc=5",
       "publishedAt": "2026-10-15T01:18:32.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -452,7 +479,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FQUJaUTFFaUxTNk9DYjB5N1JBZ1hlZUZMQk9yUGJnbW5jZE16UVBzODBXMDV6RjhVZl80cjhwNk0zeEFDRjZKRw?oc=5",
       "publishedAt": "2026-10-15T01:15:49.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -479,7 +506,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxN09mV1cyZWttelNIUnRXRFdXOWplZ2kxTjVfY0NFcl9iZDlYaEJ3ZXVxYzJzX3dpTWFQOXZDM0FTNXhSbUN5ZlhxNlpiZTdSdElMLS1JOG9fVHfSAWBBVV95cUxNWjh6MHBfb0k5S0RmLUw2ZXdRcFRLdGxWMWtEOHd1QjdjLUZIdXk0SGtvQWRvWDcwbTlvcmd1YWZ5ZmxUTlo4OXVqb2dkd1VQQzhHamxWNWJLMVd2V2ZIV18?oc=5",
       "publishedAt": "2026-10-15T01:00:00.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -506,7 +533,7 @@
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTS12ZGJlTEQxNDV5OWdDa2s0dWNTQkl1cE5hRG1jMVNqU0tFZXFHbEJJYmxLak9nWTJVSl9kQUd3UEhXdG9vQzl2T0RmRTNzYUFNVmhRZ3lQeDdQSWdKVGxPaWMyZw?oc=5",
       "publishedAt": "2026-10-15T00:40:36.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "collectedAt": "2026-10-21T15:45:13.983Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -518,33 +545,6 @@
         }
       ],
       "summary": "SKT, AI 기반 네트워크 기술 수상...AI 기반 기술력 인정받아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "03da392cea676cf9",
-      "title": "SKT, AI-RAN 자율이송 기술로 ‘Network X’ 수상…내년 현장 실증",
-      "source": "FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QV2dVVE1jNW5yZXRxdEhGX1FDN1NSRTlrV2VqS0VqaUNBUjRodm9rS2VWSUhVZndLUTRtdzhfR2dyMkF1Vkx3YmxvWlJJUWJLaVJzYWZncFlyUnQ5aGZzMzdPaTEzdnN6?oc=5",
-      "publishedAt": "2026-10-15T00:31:20.000Z",
-      "collectedAt": "2026-10-21T08:07:57.799Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, AI-RAN 자율이송 기술로 ‘Network X’ 수상…내년 현장 실증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
