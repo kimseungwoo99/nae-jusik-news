@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:09:15.332Z",
+  "generatedAt": "2026-10-21T08:07:57.799Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,323 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS마린솔루션, 3분기 영업이익 69억원…전년比 235% 증가",
-    "‘전선 르네상스’ 탄 LS, 전선 상장 계열사 날았다",
-    "AI 데이터센터 열풍은 거들 뿐...LS그룹 구자은 회장이 오른손에 든 전력 인프라 사업,…"
+    "'AI 전력 특수' 탄 LS일렉, 3Q 만에 작년 1년치 벌었다",
+    "LS그룹 전력 사업 성장세…분기 최대 실적에 연간 실적 조기 돌파(종합)",
+    "LS일렉트릭, 3분기 영업익 2335억원…분기 최대 기록"
   ],
   "articles": [
+    {
+      "id": "ac7f267e7243a863",
+      "title": "'AI 전력 특수' 탄 LS일렉, 3Q 만에 작년 1년치 벌었다",
+      "source": "비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZUFU5ZzBSZkkwRnBSam5aV0VHRWFwSEluOWlob3NDcEhBcGtWVG5pajAtUUFwLW45Y1FPMjRMeHBqLU5yN1dlSmhvR1diQjdGVXo4Q08zNFI5ZG5SSWlZQmxwVnZKNktTd0l3NA?oc=5",
+      "publishedAt": "2026-10-21T07:56:02.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "'AI 전력 특수' 탄 LS일렉, 3Q 만에 작년 1년치 벌었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1a910cfc87c9085f",
+      "title": "LS그룹 전력 사업 성장세…분기 최대 실적에 연간 실적 조기 돌파(종합)",
+      "source": "메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LaHh0cUdqQWFZem5DVmkzcExUeDNpVnpOZGV6TGJzYWlWdWQ2T25aaDEtSFZ4dDVmU3UzMFBpbjJkQlZrTjZua2lGMGJwUmhYeHlWX3FYZVM3bDBvM09Fcw?oc=5",
+      "publishedAt": "2026-10-21T06:46:09.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹 전력 사업 성장세…분기 최대 실적에 연간 실적 조기 돌파(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "16d3b2598b94c23b",
+      "title": "LS일렉트릭, 3분기 영업익 2335억원…분기 최대 기록",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kLWkwTnRlejljOU83UUhCYTBUTlJualczSjUtY3lKX1Zyb1dSYXpCdkREUVRtcFBWVmtodldOc3FndXp1Q0pLWVZhbXhsRm5pVVlublNtMFhnTENk?oc=5",
+      "publishedAt": "2026-10-21T06:21:00.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 3분기 영업익 2335억원…분기 최대 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "218df1ab2aec24f5",
+      "title": "LS일렉트릭, 영업익 131.7% 급증…AI 전력 수요에 분기 최대",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JdVNPSEtSeDJUanpGR1E0RVVmR2dDTTd3U1ctR2JBamptM003UFBVM2xzUkg3Q0tBVXFVQ1N6ZTJ0UGhaNi1MZm93NzFYNF9CTFRjVG1GRXpsMlVQMk5MTGlDRjVzdlU?oc=5",
+      "publishedAt": "2026-10-21T05:23:00.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 영업익 131.7% 급증…AI 전력 수요에 분기 최대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b9dea845bc6af333",
+      "title": "LS일렉트릭, AI 수요에 성장동력 다각화…글로벌 데이터센터 공략 가속도",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Hb19oUV9QaEJoNm1NM3dKRFdnTXFzcWxCZHZnZEJpeVd5dThTZ1QxSlRScVhGYWh4TXQ0ZmpoRTBSZ3pSQmRkc09uU1FGSUpOa2I0WDd2ZGpkbm9PNDVGdTdn?oc=5",
+      "publishedAt": "2026-10-21T05:12:15.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, AI 수요에 성장동력 다각화…글로벌 데이터센터 공략 가속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5b7f136e573f1233",
+      "title": "LS일렉트릭, 호실적 발표 속 '장중 껑충'...다른 전력기기주는?",
+      "source": "초이스경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nSXczYjF3Ti1ySGNiWGdDVGR1OW8xU2JIY2FDYm5IUnRGaERzaWdBTC1sdlZKa2ZLMnpxMndiTTBfc0NRZTZhdjhnRG5mckp6NXQ3X3N5LWx0NkpxQS1hWTZhaGpVRkJjZUgzeW15Y2nSAXNBVV95cUxQSEJYcGZsUHBIV1l6UkVQNnVzM2lEWGNfZExDNF9GandKdUhvOWJ6QjhoUnh1QzdEdUZiYlEzWlNjdDM1bTE5NWFIN196VzY1TjVFMTZ3TnB2SHdnMW5BcEpQN184N2NCbTBSdzV2Slk3bnI4?oc=5",
+      "publishedAt": "2026-10-21T05:02:39.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 호실적 발표 속 '장중 껑충'...다른 전력기기주는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8dac023425277914",
+      "title": "AI 전력 슈퍼사이클 탄 LS일렉트릭, 업계 최초 ‘100분기 연속 흑자’ 달성",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbW1sNXlSWjBLcE9pYlFPMmtoTUY0YkM2SHgwUkpTNW5xbVZDeFE3b1dFdk5vQ09ZUmhMR3FVS2NNSmRQbDdBZmxPSFdRdGhlTGNhaXlkalprX1B0UkU3bVRpZjlST3JFSHFJNUJtZzTSAXBBVV95cUxOb21tbDV5UlowS3BPaWJRTzJraE1GNGJDNkh4MFJKUzVucW1WQ3hRN29XRXZOb0NPWVJoTEdxVUtjTUpkUGw3QWZsT0hXUXRoZUxjYWl5ZGpaa19QdFJFN21UaWY5Uk9yRUhxSTVCbWc0?oc=5",
+      "publishedAt": "2026-10-21T04:41:27.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "AI 전력 슈퍼사이클 탄 LS일렉트릭, 업계 최초 ‘100분기 연속 흑자’ 달성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "73e6c351c2c36dbe",
+      "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자",
+      "source": "블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wZFg4QUtOMWFiMXhKSWJpTWROdkl0azRlaXZJOHdCUlR4TjRQVnNZS0Ruei1lcUJEN2EzQlNCSzlQTXE4Zkt5X1lrVWxlRFpSWER2VTlqTHhTc3dZYS1wc3liYlVHZlMz0gFsQVVfeXFMT01fRWE1OTBYSnBBVDhxbTdOanVVNGdMbFkwWDdlSkhaNjRTQncxUzllb1VtYkc4dTl4cG1CZVRCV2JZbmtnTTlQVXBWdVBOdUVPX1FHVzZLSHJPaUxNSzJhdVp6UWdIcUhXSmFV?oc=5",
+      "publishedAt": "2026-10-21T02:55:29.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "73ddefbd0c6544e4",
+      "title": "LS일렉트릭 3분기 최대실적 경신…100분기 연속 흑자(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FRElVYmNELTdIbzBxeVgxbHVvQlV3VXRFTXN4QmlZbE9uRkJNdE1vcUxWUGMwVlV5NHR5ZUJNY3dkZ2JlRGFoQjk3OUx3bktEM0Fvc2RxRmxGdUJrUmRiRtIBYEFVX3lxTE5FRElVYmNELTdIbzBxeVgxbHVvQlV3VXRFTXN4QmlZbE9uRkJNdE1vcUxWUGMwVlV5NHR5ZUJNY3dkZ2JlRGFoQjk3OUx3bktEM0Fvc2RxRmxGdUJrUmRiRg?oc=5",
+      "publishedAt": "2026-10-21T02:54:59.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭 3분기 최대실적 경신…100분기 연속 흑자(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "58506a212de661c9",
+      "title": "LS 전력 계열사, 3분기 ‘역대급’ 실적 쌍끌이",
+      "source": "소셜밸류",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XOWo4VjJaLVk5VF9OOXd0X25FZEs4ZWhXNU05bGV4NTNYZ3hwbUU3ZjBERlZPODRjMkFwd1ZXTDNMRTBKOFhJTl9iMWdSZG01ajh0cS1vaWp2TnR3VEZQMERPa9IBbEFVX3lxTE1ZLWpPRWRoZFpqLWtEUFE0REJLM0xYQmdlQ2J6QXJhMkVzT1JIQ3hQNXp3ZjNIX3JBTTlKT3dMZVZ1MFNQc1psMWNrWTBNblJ6ZjdZXzVYNWdkRVVvbnRTeXI5a3FqWnVOOU81Qg?oc=5",
+      "publishedAt": "2026-10-21T02:12:05.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS 전력 계열사, 3분기 ‘역대급’ 실적 쌍끌이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "91645c3bc049aae0",
+      "title": "LS마린솔루션, 3Q 연결 영업익 3배 증가…전망치 상회 |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkeGRrUE9rWHUxYl9qWGs1MnNyWmVqaE96b2lqTGlsRlFyNmhKRDM2UzNvYXBQVndUQ3FTZ2FMN2lDLUZRN0xOSVpTX0lGRHFYT3F2YWFEekcxbW12OF90TDV2dTRKVGJ6QlM1Vk1XTmQ1bHVZ?oc=5",
+      "publishedAt": "2026-10-21T01:31:03.000Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS마린솔루션, 3Q 연결 영업익 3배 증가…전망치 상회 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.48,
+        "confidence": 0.72,
+        "positiveTerms": [
+          "이익 증가"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "3e8b8c75120907c8",
       "title": "LS마린솔루션, 3분기 영업이익 69억원…전년比 235% 증가",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucjh4eFlPM3NSU1FJT2VZUzZPQnp6aVJRd2pzWk54UmhwZTJ2UkdsTldvQUl2OVFzQXJTOHlXV0ctLWkyejM1aVBtV0NzeE1US3d1dDFMV29RLURS?oc=5",
       "publishedAt": "2026-10-21T00:54:00.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -47,7 +350,7 @@
       "source": "주주경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44QmZTMXZiMER5VmdlQ2JzanFwZU1ibTU4VC12enF4bVZHaEI5OVU0YTE3S3lZZmlZNlU1eUlQdHd1ZEJIeTBvNVIwRl9uMzR4NlFUUnZWUW1abm1KSG9LZklra0N6dTYw?oc=5",
       "publishedAt": "2026-10-20T09:11:26.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -74,7 +377,7 @@
       "source": "글로벌경제신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mS2c0RVpRQXRrajlpOXF0VHZHV1pZbTNxNDJIR252SUJMWUtRZjJUQWd4RnJtU0JYQm1rTTdETUVSY1hlekI3THFDWUFoUzdPcXk0WVhQTTgyZVVjQ05Qa1ZFcko1SDM3VUxxN9IBcEFVX3lxTE5ScHNXa3VVSDJoUy11VGFRNUFqVnVLVDA1RUVrU29ZQ2lWNk5UNmVuel9CeG1KbFN4VXdPaDIxNnBIZGcwVDR6UXVEZWZwZzhCR29RQm1jUXdmSjgyb3hUYkNfNXluR0c2SWdLbm1pY0s?oc=5",
       "publishedAt": "2026-10-20T07:36:57.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -103,7 +406,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oY1M5cDVPTlB6YnVtdFlEZ3ZpRVlhdTR5ZFZHaGtselZmaGlMcGZLVU9oYW9BVHZyWjdCVHM1UDRULUV3NV9QdW0xdmE3U1I3c2NPeUsyeXRXZlNsMlllcUt2MWU4Tl9Jdzc5ZDRVOEZhX2Fw?oc=5",
       "publishedAt": "2026-10-20T01:38:44.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -125,41 +428,12 @@
       }
     },
     {
-      "id": "e11ac69d170fc214",
-      "title": "LS일렉트릭, 美 데이터센터 수주 잇달아…올해 영업익 7000억 넘본다",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zOE1ndnBOTVU2andKaUVXTkhnQ2x4UWJpaTltZTdpdWV5Tng4bThrMEhVZkdzMW9uNndpU2RvT29KMUpselBVNFBGT3RjajJTQTgtY3A2UE5jcEVUSVdrMTBhYWQ0NG9G?oc=5",
-      "publishedAt": "2026-10-19T10:55:14.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 데이터센터 수주 잇달아…올해 영업익 7000억 넘본다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "47664112eb81cbea",
       "title": "데이터센터 고객 잡아라···HD현대·LS, 전력 동맹 확대",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRnFDT2xoSk9Va2NDMTFWcVVmbDhSMmIwUGFRNm5Kc1BlTWcxaGVzVXRxNDNPQTFod1JHTjI5T0doVUlhODJVY1dQR1kzT29DYldIVEUxZmRZQjhZdGZXQ2hUeVl5cUs3SWc5WXJCWDRoRGlia0HSAXZBVV95cUxPM0ZxQ09saEpPVWtjQzExVnFVZmw4UjJiMFBhUTZuSnNQZU1nMWhlc1V0cTQzT0ExaHdSR04yOU9HaFVJYTgyVWNXUEdZM09vQ2JXSFRFMWZkWUI4WXRmV0NoVHlZeXFLN0lnOVlyQlg0aERpYmtB?oc=5",
       "publishedAt": "2026-10-19T08:15:52.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -186,7 +460,7 @@
       "source": "그린포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1E1QVIyeHhvUERMQU9SWmRQLWpRcHZEY2p1aE5QX2N5NFI1dUgwLVlGcXhHREk1VVRheU56WFBxZnBqd0FEV0xDMGplOElwSW9faGFtVG5tbUI0YWtIRGI0dHdtaTFkVWVsaG14cjNmZXo2YmpnMzVB0gF6QVVfeXFMTjU3UTVBUjJ4eG9QRExBT1JaZFAtalFwdkRjanVoTlBfY3k0UjV1SDAtWUZxeEdESTVVVGF5TnpYUHFmcGp3QURXTEMwamU4SXBJb19oYW1Ubm1tQjRha0hEYjR0d21pMWRVZWxobXhyM2ZlejZiamczNUE?oc=5",
       "publishedAt": "2026-10-19T08:11:20.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -210,41 +484,12 @@
       }
     },
     {
-      "id": "bfcfba4928011b16",
-      "title": "LS ELECTRIC, 북미 데이터센터 전력 인프라 장기공급계약 체결",
-      "source": "비즈니스리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3TVBJMWVVNE1XaXpjazNZSURPbmZ2RTRtRWNhWF85XzdzaC0ySGJmTnZsbnFZSzJUS19mOGUtaS1COXU5Y20tMXJSN1Y1QlJZV2ZTN1Q3bFJUYlFwdU9lczFySFBLelVwRXFDRVRiX2o?oc=5",
-      "publishedAt": "2026-10-19T05:58:32.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS ELECTRIC, 북미 데이터센터 전력 인프라 장기공급계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f7ed9c244ac82ffd",
       "title": "K-전력기기 북미 뚫었다… LS일렉트릭 1700억 빅딜",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjYnM5RWtOdEhMUDBaMm9JaUh6VUp6WEUtSXpFczJyanN6UzFRWWJNOTVYYmZRZFlma3hfQnBPM3hBWl8zVTV4WnhTdkpJdVUybzZkZXp3?oc=5",
       "publishedAt": "2026-10-19T05:27:55.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -271,7 +516,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IX3dXbEpTZU91cFpXR1hmOVd0aGRQZV8xajhkTng0Z0NTWnJTY2dSSnFQRjV1MWZZdkhHY1VSQWMtMFpIVlp4ZkhXNjZqSGhNLVk5YUZUb2NNNm56MmUtcWQtOHdDQQ?oc=5",
       "publishedAt": "2026-10-19T03:51:05.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -298,7 +543,7 @@
       "source": "산경e뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5LUhZaEQ4UVlQXzA0aUdtNDFlc2hQY0ZxZDhFck1pdkN1MEYzQmthY1lhZ2IyTkdHY3g2WnVqWWU5OVEwS0JEQlNCNVhHQmRLNVRqVXZnN1g3M0Y4ZEJYelBjSHFsTlE?oc=5",
       "publishedAt": "2026-10-19T02:44:12.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
+      "collectedAt": "2026-10-21T08:07:57.799Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -310,257 +555,6 @@
         }
       ],
       "summary": "LS일렉트릭, 미국 빅테크에 1700억 규모 데이터센터 전력기기 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "96686a5954b1e3c6",
-      "title": "'어닝서프라이즈' 가온전선, 3Q 연영업익 520억…전년比 99%↑ |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Gc3VTMnh5OWxZQVUzSExYZDBRUzlzbnAzS2M0VkhzaDNoQmNJcTVwN3MyYjl1S1A0WEEzanBDMGMzYjBLaVMwYWFmSlprUVVSSEI2Xy0weHBWSkpLQ3psNHI3VmY1NXZidTJrZVpKUGtXa3df?oc=5",
-      "publishedAt": "2026-10-19T02:18:37.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "'어닝서프라이즈' 가온전선, 3Q 연영업익 520억…전년比 99%↑ | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9d85af81955e87b8",
-      "title": "LS일렉트릭, 북미 빅테크와 배전솔루션 ‘장기공급계약’ 체결",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5cWJsQ3JkLUtoMzI2Z3dlb3JMRWo1X1U5ZS1NOXFNR3FWdVRwemxkbTQwWDU3Tk1FaXotNFJjaWNQZkljbkR2RmNRcjFSNWx2OWwxZjZJRTlCdzJab2dsbmpRV0xheG9aSFNqRTlNQTHSAXBBVV95cUxQOXFibENyZC1LaDMyNmd3ZW9yTEVqNV9VOWUtTTlxTUdxVnVUcHpsZG00MFg1N05NRWl6LTRSY2ljUGZJY25EdkZjUXIxUjVsdjlsMWY2SUU5QncyWm9nbG5qUVdMYXhvWkhTakU5TUEx?oc=5",
-      "publishedAt": "2026-10-19T02:00:52.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 북미 빅테크와 배전솔루션 ‘장기공급계약’ 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9328063136115236",
-      "title": "LS일렉트릭, 美 빅테크와 1700억 규모 DC 배전 솔루션 공급계약",
-      "source": "투데이에너지",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zRVJpVW16R2hZTVdGV2xLamM5TVI1VHk1d1J5dm5KZm12dDNYNzd5MFhPd0dxMmlJcVdXWjZRbTVNNlVHOE5hYXJNU3k0MEJJd2dTUUlpOXZQZ1NZZHR1WGlzV3dic3RheGFjUA?oc=5",
-      "publishedAt": "2026-10-19T01:53:08.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 빅테크와 1700억 규모 DC 배전 솔루션 공급계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e9495fb879406cca",
-      "title": "LS일렉트릭, 美빅테크와 1700억 배전솔루션 계약…품목 확대 논의 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zbUYzeUM5VVFSODZMS2NtVUpBOVA5N0hTbl9od0RpbmNPXzBvdVVCOFNvcGZsS1VPeFhodi1TRURxb1RKcnVuMExTY2hmNThOX1JuYkFBNWdZa2dDX29iaGxTektOWWxqeWw2RWxqT1hGUdIBckFVX3lxTE9zbUYzeUM5VVFSODZMS2NtVUpBOVA5N0hTbl9od0RpbmNPXzBvdVVCOFNvcGZsS1VPeFhodi1TRURxb1RKcnVuMExTY2hmNThOX1JuYkFBNWdZa2dDX29iaGxTektOWWxqeWw2RWxqT1hGUQ?oc=5",
-      "publishedAt": "2026-10-19T01:42:37.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美빅테크와 1700억 배전솔루션 계약…품목 확대 논의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8d620b1297dcb855",
-      "title": "LS일렉트릭, 美 데이터센터 1690억 규모 전력설비 수주 - 조선비즈",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejRwb1dWM0xoZkRrWjlHYVk2aEFkRlJNd1daaHBTQTkzdWlrc1Bxb01KQ3hmMkFldDU5OGhOUXpHZEhhT2ZYY0FWclV5TE1GOXUySTdIQ1NVN2w1UnNpVmZFQWVlcUdqWExtaWt3akd5UVU5ajdYNC1mQWxQYnVVR0UwdVbSAZgBQVVfeXFMTldSNVBYOWRzV2FpS05BYUlLSXhmNXJfTTNqc3gyX0dtbXpPUWxFQWxYcUwzX2Zlbk5IbzFVb19Vd2dvbDF3TEoySkw0VnhhZVNXbF9iNEU0MWxyTEhPR3ZvVFpZRHI0Ny0tV1l6TU5xQnZIN1Vkb1pIYzlVWXM1ODRJVzhpNmphWjBudjJiQXVHLUlsaE1UWm0?oc=5",
-      "publishedAt": "2026-10-19T01:39:00.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 데이터센터 1690억 규모 전력설비 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "82c33caedd5cfcef",
-      "title": "LS일렉트릭, 美 빅테크와 1700억원 규모 데이터센터 전력설비 공급계약",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XanBfRVNIRkJXQVVYdTZQaXZnSjlhSXQ1X21VU1J2U2tyTTlyXzNXc2NsZkdGdzZZUFp3SEdjUWVwczI2QWVTRTNRbURzTUZCM0Ffcl90Vk1tcnRYVUFOc1J3TjE3dDQ?oc=5",
-      "publishedAt": "2026-10-19T01:30:06.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 빅테크와 1700억원 규모 데이터센터 전력설비 공급계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c1ff8f15ac06cd94",
-      "title": "LS일렉트릭, 美 빅테크에 1689억원 데이터센터 배전반 공급",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tRU1qaUxwd0tlRzczUUFRQXBqSklNMjFsQklPZlhlLU1Ec3NGUW9sLVZqOFo2eVRTaF85TUtHUHJmYnoyc2ZmY1NXTmRFa2R2SnB3UlB3?oc=5",
-      "publishedAt": "2026-10-19T01:25:54.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 빅테크에 1689억원 데이터센터 배전반 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "edcaedb8b466526a",
-      "title": "LS일렉트릭, 북미 데이터센터에 1천700억 규모 배전솔루션 공급",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90LVBxeDByU3VJRFVEcmZpdmNfMGdQSVJLSXhSNzJHU1Y2eWNWcTEtU2FuLVhVNlIxY3lTU3RKMFM2aWFmZGp5WFpPLS1rYmFTcXliOFV1Z2ZVNUU1TXhxZtIBYEFVX3lxTE90LVBxeDByU3VJRFVEcmZpdmNfMGdQSVJLSXhSNzJHU1Y2eWNWcTEtU2FuLVhVNlIxY3lTU3RKMFM2aWFmZGp5WFpPLS1rYmFTcXliOFV1Z2ZVNUU1TXhxZg?oc=5",
-      "publishedAt": "2026-10-19T00:47:03.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 북미 데이터센터에 1천700억 규모 배전솔루션 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "402ae699abe5808c",
-      "title": "구자은 LS 회장, ‘오른손 호황’ 넘어 ‘왼손 결단’의 시간",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KemVibTRmOFliVG5tbWRKcWlJLW51bzZpVFg4VkdPVDdmZmxIa0dLMVF0cVJ5WkpuQnBidEp4RXpBcU9wUFV4Sk1MUFM5eHVGXzR1WlB6TkU5Rk1vM0NjRlJOUnEwRTU1d1BBMnln?oc=5",
-      "publishedAt": "2026-10-18T09:29:59.000Z",
-      "collectedAt": "2026-10-21T01:09:15.332Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자은 LS 회장, ‘오른손 호황’ 넘어 ‘왼손 결단’의 시간 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
