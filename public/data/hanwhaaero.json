@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:08:27.227Z",
+  "generatedAt": "2026-10-22T15:44:47.597Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,72 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[단독]한국 최초 '달 궤도수송선', 한화에어로스페이스가 만든다 - 머니투데이",
-    "한화에어로, 방산 판도 변화 속 영향력 확대 시험대",
-    "한화에어로스페이스, 사천에어쇼서 독자 항공엔진·첨단 무인기 기술 공개"
+    "‘로켓 넘어 달까지’…한화에어로, 우주 수송선 개발 나선다",
+    "한화에어로, 2026 사천에어쇼 참가",
+    "[단독]한국 최초 '달 궤도수송선', 한화에어로스페이스가 만든다 - 머니투데이"
   ],
   "articles": [
     {
-      "id": "10a06903561e232a",
+      "id": "b4d70f5cb141e032",
+      "title": "‘로켓 넘어 달까지’…한화에어로, 우주 수송선 개발 나선다",
+      "source": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ScDZ6bnhvZW5Kb001WDZsWEd0akx3MHpNajlxY1NjU1hMNXY0azhxRzFKNWZKOXl0OXppdUZoU0lod1VEbWJBR1FNSVdjRmxy?oc=5",
+      "publishedAt": "2026-10-22T09:39:03.000Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "‘로켓 넘어 달까지’…한화에어로, 우주 수송선 개발 나선다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1dee8d71f980d79e",
+      "title": "한화에어로, 2026 사천에어쇼 참가",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hV0VOaTZuV3Vfc1U5bVg2cW9GWFhUSDg0dGk4S25DYTk2RHJuemhSUF9YMnpVSHRsakpQeUFyclpFbUZJLUVFRXNfblhFUlVDOGVEbGtPMFJVcDEycUZYekRkSkk0dw?oc=5",
+      "publishedAt": "2026-10-22T08:05:53.000Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 2026 사천에어쇼 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a3d1f82d3038567b",
       "title": "[단독]한국 최초 '달 궤도수송선', 한화에어로스페이스가 만든다 - 머니투데이",
       "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZVG4zX1d0NFA4am9JbmpsMXQ2SGhfeGNrbVM3WS13VVpGRnhNRW9rRWdQWUpDMGI3V0lyMDlLa04wd3dhbTFJNlhOX2NUcFhpbnliOUdDaWpiajc1aVZGNjhmQV8yckJrMEdSVzE5NzhWNGNq0gF6QVVfeXFMUE95c21oSDZKOHpUUFQ5WHY1dTFRTVZncVJYUDlzbnhublJxV0hnMGQ3T18yelBoMGRCNWRtNjBqZW5aYndRZUlwdVlqaTlrdEV3azNZdG8yekRHTmlsOUhvMXIwSVVVSTRBOHVNNldLZmlZMTViU3VXMVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52TUhvNjA2R1U0UXpqZ015U0FWSDNoVFJNRVVpN2FfV05HR3B0dm1zenV6U0tnU0hkZ0ZBaHlJdVdiT3YzbFcwMU9ESk5CaVNvcXhGc2NqX2t2MUF5b2RlVkM5UXJuaHfSAWxBVV95cUxPVlotSnNwRklDdmd1WjJ4Wko1elA1ZWcyMlBJMHZiYWk3WDRVd21lM0gzRE84Rld2N0lPUmliaEZmMS0zeEhzNlhNSVVJb1JaeGdndG4xdlpvbTRnRnBlQjlTUHJSYV9EellscEo?oc=5",
       "publishedAt": "2026-10-22T07:30:00.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -47,7 +101,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQXd3bnAtWWNOY1AtbEVVTjI0Q29kdXIwRWprRFpQV1lwNTNsdTQ0b2xzQ3NGWnBUNHNybE5HUC13RzNlV0k0NG1oLU11dkNXRDNHMVhaQWRrWXNOeXQ3cQ?oc=5",
       "publishedAt": "2026-10-22T06:53:26.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -69,12 +123,12 @@
       }
     },
     {
-      "id": "1e3d68677efc53da",
-      "title": "한화에어로스페이스, 사천에어쇼서 독자 항공엔진·첨단 무인기 기술 공개",
-      "source": "BBS불교방송",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Sks4NFRIX0stMWNHZVIzNFJ1X0hJeDlNTlpLS1pxX2NLbjZMNHg5MDU0VmduT0s4V3dFWGhLTVBKRm9pbzFEdVlBMVpnanJ4clZVNGVYRHFsdElpT2VDSTF0X0JiQ044V1p3?oc=5",
-      "publishedAt": "2026-10-22T02:09:33.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "id": "3872a95bd46ed7b9",
+      "title": "한화에어로스페이스, 사천에어쇼 참가…첨단 기술 역량 선보인다",
+      "source": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RX1dodmJGVS1Jcm1pMFBQQjFRNjJKOUplR0tIR0xDVEdCMkMyUUhRZFQ3ZTJiSEI4Ym1MbXpZUXd6LVJ6cU9LaF9MY2lJZnZodWpqNk4yQmpwUk5nU2wxV0w5UTBUaGRTMWlOZXFn?oc=5",
+      "publishedAt": "2026-10-22T05:55:16.000Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -85,7 +139,7 @@
           "ticker": "012450"
         }
       ],
-      "summary": "한화에어로스페이스, 사천에어쇼서 독자 항공엔진·첨단 무인기 기술 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한화에어로스페이스, 사천에어쇼 참가…첨단 기술 역량 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -101,7 +155,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmc3RUtFTk9RclZNNEp4ZWtucGtOZVdhemlMeTF2eWVib1VJZGJFcXNQM3dUd2RpbVV1dHJCbUREcDQ2X1EtbENGU19QTXRFNmxSNE5wd0JzNFJ1NlRWeDZpV3A3VWhvT1lDbHJMVlJCYXJCdm5UaEd2SHF1alBrQ3FFVXBxUQ?oc=5",
       "publishedAt": "2026-10-22T01:35:11.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -128,7 +182,7 @@
       "source": "뉴시안",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tVlFVeTdiaUpHTVpybDYzWG9hMy0yVjNFcS1pdk1lU0RlaXcyQ0RPeTR6REVzRV8xUmpKaFpMaktaQUVZY2R3ajRnWVRQSGY3NUppQnAwbWR0OE5QN1lwNjl0QlVNZzBwRHfSAW5BVV95cUxNRDRLTlJvQU9FUFZ1aktLV1Z1dDBsNGZNY0N3dHVMZTVFbkhGNmpOUEZNVWV3dTBjQW1oNkxOdTZ1OGIzNU1ZQlVWWUJXcGdfbUotZjVrNzIxQ3hwdVE5MnJnNXFta0RzOGJlYVJuUQ?oc=5",
       "publishedAt": "2026-10-22T01:28:24.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -155,7 +209,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1JWc05VOTBVWGRpRDVrSVB2U2xJY3RvVWhISHJPb0xVcHE1SlBfQWFXekxpYzlvUlR2SXBzLVIzblNDZUpaaXpWVG85Y1EtSHMwUElDQ1ZxVkd6SlVRS09renFpZFJTVmp6elcxRFFiemVnYTVJekdvZ1BvU0FMZHlSay3SAZgBQVVfeXFMTVlFQWpLMy1id0ExUVdKaEZQNExWMWpyNjBRRVJfV29TOEgwb2lLdWgtYTNuN0pYVHhQZGRLV3Q4YTNTa3FFemJEZzNod0FFRVV3ZVkxdk5hX21UWUdhZVg5T1VnSU5kQkY2V1NCMmg1RnFmaEVKVVlkSGQyRjFoS21wVXFoN1dJOTh2WDA0blB0X3d1WHhIVmg?oc=5",
       "publishedAt": "2026-10-22T01:14:00.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -177,39 +231,12 @@
       }
     },
     {
-      "id": "eea8493630e05540",
-      "title": "한화에어로스페이스, '2026 사천에어쇼' 참가 … 첨단 항공 엔진·누리호 전시",
-      "source": "뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWl6M1YtLThaTkNjdFkzOWZ0ekdySjI5TDR6VjY3UC0zZFpySnp1SHE4R3MweTAtSnlrMXdPczlHNWpIM1ZlYVlQazZnZkhCUnFxN2tuaWY2MEtJMVJIdFZJN19qYURxM3R0WGk3Q3hOckM4TkJaODRmQzBoSGJKYdIBgAFBVV95cUxNOWl6M1YtLThaTkNjdFkzOWZ0ekdySjI5TDR6VjY3UC0zZFpySnp1SHE4R3MweTAtSnlrMXdPczlHNWpIM1ZlYVlQazZnZkhCUnFxN2tuaWY2MEtJMVJIdFZJN19qYURxM3R0WGk3Q3hOckM4TkJaODRmQzBoSGJKYQ?oc=5",
-      "publishedAt": "2026-10-22T01:12:05.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로스페이스, '2026 사천에어쇼' 참가 … 첨단 항공 엔진·누리호 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7bec3d2acb77834a",
       "title": "한화에어로, 사천에어쇼 참가…항공엔진·무인기 역량 소개",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nc2tuWFNqN3JRMGEwTGdkWFh1dldVd0RCMElVcmlTOG96OFNRajZHTHd3b2Z3NGYtXzBLeXFSZjl6ZVdCNG5GdFJVUTdLcWJfdk1MbzFubVVacTNEWEszRtIBYEFVX3lxTE1nc2tuWFNqN3JRMGEwTGdkWFh1dldVd0RCMElVcmlTOG96OFNRajZHTHd3b2Z3NGYtXzBLeXFSZjl6ZVdCNG5GdFJVUTdLcWJfdk1MbzFubVVacTNEWEszRg?oc=5",
       "publishedAt": "2026-10-22T01:11:48.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -231,39 +258,12 @@
       }
     },
     {
-      "id": "457106bd8b190f98",
-      "title": "한화에어로스페이스, 사천에어쇼 참가…항공엔진·요격 드론 전시",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LYUFNd2pnWlh0bnA4UnZGdGRrRzJfemVOOFJNclgwWTZvNGg0X25TaW8xU3ZXREQ1SFZFaGZJNGdWSmpPQXByR2ktNjdVWlhBLTVPRmxBQTNyZU1JSTI1MnplYkdPd3VJVVd6ZTRNTXY2Y01JSFl0b9IBeEFVX3lxTE9LYUFNd2pnWlh0bnA4UnZGdGRrRzJfemVOOFJNclgwWTZvNGg0X25TaW8xU3ZXREQ1SFZFaGZJNGdWSmpPQXByR2ktNjdVWlhBLTVPRmxBQTNyZU1JSTI1MnplYkdPd3VJVVd6ZTRNTXY2Y01JSFl0bw?oc=5",
-      "publishedAt": "2026-10-22T01:01:04.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로스페이스, 사천에어쇼 참가…항공엔진·요격 드론 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2db1fcfca6b9e9ce",
       "title": "실적 주춤·신뢰도 하락… 위기의 K방산",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcFpyQ1E2dV9OLTFJdVJmXzdiOXpVM3VzcW56NnM0VlBCSkFmYk51MURzcU8zdWNvbUh2Y1EtRmdlYTduV1pyQlBJR0FiOVRBcTBDVTRMOXdTYXZwenhyXzFpRUJZQkxMZTBXUDNJYjY3b1ZQcHg1eW5FV1FxN1FxbzRtSWFWVDU3Mms5dUhLZw?oc=5",
       "publishedAt": "2026-10-22T00:46:00.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -292,7 +292,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0pBZGZBREpDQlVvV0w1aVMzT0xEeDkyQm1NVmpqU3B5dmNsSmlvYnBEZGZjMmp3cHdmSkxuS2pDUXRLMTZGaVlzZy1GdkZkdFlETE1vUWR6ajZrN0RxS1pLSnpiYWViRjZfNDN1WnFiS19GbHRwaXdISG5GXzlRRF93aw?oc=5",
       "publishedAt": "2026-10-21T04:52:00.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -319,7 +319,7 @@
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdnhEaUhFeDRJSmJnSVY1cTU4NFgyOHpsVWRISllma2lXZDhPZkpBUlVKeV9XdDR2blNiV1Fra1loV0doSHdvWDNYZThyQWFsSXdBUNIBVEFVX3lxTFBIdnhEaUhFeDRJSmJnSVY1cTU4NFgyOHpsVWRISllma2lXZDhPZkpBUlVKeV9XdDR2blNiV1Fra1loV0doSHdvWDNYZThyQWFsSXdBUA?oc=5",
       "publishedAt": "2026-10-20T07:13:00.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -346,7 +346,7 @@
       "source": "CNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Xb1dYYlFpV0NOTDJZZnhDQzY4aUZpS1VyQ0Nla3d1WWFXby15RUhnc0JfNklicUtrZC1lRHl1NXlZY1IzQTBRSXZtSW9CU0R2dkFuVDZCQ3VmbVQ5TWplM21aZjI1TFY1eXliU2s3OHpoZGV0WmdJ?oc=5",
       "publishedAt": "2026-10-20T06:33:13.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -375,7 +375,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEhDTkVDU2pEU2hLSHRsQ0FDT0liUnFENG9SRWdULTVMR3FoclFfWDhhYWNLOFp4Uy1LSkZwdi0wd2NMODI5OVRNVXpNa3dYTVRGSEEzRmF5NzZoaU9yQWZlZGJOODk5alpCa0tPWW1nSk9LY0xuZ0FManN5RU9mRlFNejkwQmln?oc=5",
       "publishedAt": "2026-10-20T06:15:12.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -405,7 +405,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15bmZIMmFRMC16Ml91bkdSODk5ckxlaVZWV2hBMUl2V3VDQlZKQVFoVWdva2s3TVJFeVBEazZvUnRKZjg3dk9MQ1hrdVdMbDc0cHdDZUlMcmZweEkyVFE?oc=5",
       "publishedAt": "2026-10-20T06:10:09.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -432,7 +432,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CdDI2Z0Z5VEVZOGdUbldxSElVMVRiMlJoYmdadWJZem5ndTViOHZjU1l1aWd6X2p4c0NlU2MyempLNnFWZzBUSG8wMmFhSE5mY19YalVkWm80UQ?oc=5",
       "publishedAt": "2026-10-20T00:34:14.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -457,12 +457,12 @@
       }
     },
     {
-      "id": "95603b93d2551b78",
+      "id": "5b9b297c15148e52",
       "title": "한화에어로스페이스, 폴란드에 전술 탄도미사일 'CTM-290' 공급",
       "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbHBSVndTZzRlb1VuNkZZNjMyN0p2NTlNQm52WmtJczZ3U0VWc2pzTXY3UFFBRzVBeElpMXpjNWVtUExXNkp3Zm5MNU1Yd1lYdDJJblZTeUtHX2RjRkRUdjRzbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZWmdYWnl0a1puVVlrYmQ4NzIzSUlyOFl6OTIzbFluWnM3NTBwRElJTjFzLUtYR1I2NFgwUTh2UTk5ZlhUU0VSZFRXQVByamxEUlJLcmFyek81dHpZVkE?oc=5",
       "publishedAt": "2026-10-20T00:29:59.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -489,7 +489,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGtKY0pwR2tYOEgwdDJaQ0VUX2NIbW5tSElMcFlTRHU2ZmQzX1Q4N0hoeThIZzNNUGlnbFlTV3NyY3pWVzV4VkRxS29va3c0aVVJR01BSUVuQk0?oc=5",
       "publishedAt": "2026-10-20T00:27:28.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -515,42 +515,12 @@
       }
     },
     {
-      "id": "83336682c4004b0a",
-      "title": "한화에어로 LIGD&A 주가 '1년 전 수준으로', 중동 갈등 고조·유럽 방산주 반등에 기대감 인다",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQkFoQkVkanEydlVLbVRhbklqNmNmQmJhZWtJcEVnQkdPSURTRVdZTUpIN3g1U0p1elloSnMzNmkycUNEMFFFOWNkRDU5Yk01UDE3TUVCeHhBSUxmaFBJd3VsRkl4enQ5WnZPdDdkNVZFUnM?oc=5",
-      "publishedAt": "2026-10-19T08:29:51.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로 LIGD&A 주가 '1년 전 수준으로', 중동 갈등 고조·유럽 방산주 반등에 기대감 인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.65,
-        "confidence": 0.81,
-        "positiveTerms": [
-          "반등",
-          "기대감"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6962185d2d9106c9",
       "title": "지상방산 수출 '날개'...한화에어로, 2개 분기 연속 영업익 1조 전망",
       "source": "월요신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pYnNLSUc0UGg0cXdrZ3dUd3hQNy1uY2tqbUVaY2VleXFqY0FZSnNsYkwtWnEyWVlOVHdHS1dKb2VFTm0tcndDdExhTlpSZ2xVbEpZYm9oYTA1dEE5RV9URWYwVThiWUVTeVE?oc=5",
       "publishedAt": "2026-10-19T08:27:17.000Z",
-      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -563,6 +533,33 @@
       ],
       "summary": "지상방산 수출 '날개'...한화에어로, 2개 분기 연속 영업익 1조 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "04e9b9ed5aa564b7",
+      "title": "美 육군 뚫은 K9 'XM1776'…10조 양산 기대에 방산株 '들썩'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWtNQmNneTBQZmRQWEw4ZlJPMmpXemZwMENwTGFnSGUxdlZxa0h6eHpEdGh1SzNLdXBnRmFaSG9oV3FwOW5tSUpNQ2hSMVg1d3hMRllKZEIyVVVoNE1LVDByZDJfOWwzVVIyLXptQXZIdTREUVM5YUEwc3dvQldUQm41aC1NWDA?oc=5",
+      "publishedAt": "2026-10-19T06:42:27.000Z",
+      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "美 육군 뚫은 K9 'XM1776'…10조 양산 기대에 방산株 '들썩' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
