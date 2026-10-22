@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:45:13.983Z",
+  "generatedAt": "2026-10-22T01:06:24.830Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,134 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "GM 배터리 임원 LG엔솔과 LMR 배터리 협력 성과 자신감, 중국 LFP와 경쟁할 기술로…",
-    "S&P \"韓 배터리 제조사, 보조금 없는 미래 직면…LG엔솔에 타격\"",
-    "LG에너지솔루션, ESS 성장 타고 주가 상승...수익성 지속 여부가 관건"
+    "LG엔솔 폴란드 공장, EV·ESS로 활로 찾지만…높은 생산비용은 숙제",
+    "LG엔솔 넥스트스타 에너지, 배터리 누적 생산량 1000만개 돌파",
+    "[단독]LG엔솔 加공장 '넥스타스타', 배터리셀 누적 생산 1000만개 돌파"
   ],
   "articles": [
+    {
+      "id": "d18a789a70090fef",
+      "title": "LG엔솔 폴란드 공장, EV·ESS로 활로 찾지만…높은 생산비용은 숙제",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT3pOMU1wLXlMNVpDOG9oRFl6d19fYTloTDBKZHcya04zRFFfa2hHRXMwWktLQzR3dVdCcnppck95X1hZaGhrYzVFTWZpTlFqNDdkVWFOTmZZMHJ6VHlhUlRDSU1yZDQ0SER4Rg?oc=5",
+      "publishedAt": "2026-10-22T00:06:55.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔 폴란드 공장, EV·ESS로 활로 찾지만…높은 생산비용은 숙제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "3198453a1a98cda6",
+      "title": "LG엔솔 넥스트스타 에너지, 배터리 누적 생산량 1000만개 돌파",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MWWpOYnphejN6cU9KM2V3b3dpV3QyUlZsdXVtQ0hmS2ZiVl96ZEdWWkNwVjNpUVJhenlKTlRpV3NqcE1pd2pZY3VUYmc2UVRuRzk3dlFuUWlFYm5oMW10Mw?oc=5",
+      "publishedAt": "2026-10-21T23:44:05.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔 넥스트스타 에너지, 배터리 누적 생산량 1000만개 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "363f74067e3645e6",
+      "title": "[단독]LG엔솔 加공장 '넥스타스타', 배터리셀 누적 생산 1000만개 돌파",
+      "source": "더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYVlvdW1WYmZuUU9JOFlYbEZlNFkyNzVaUFZjbDk5dktKV3pLeUpTSzFDNVJ4d3EwODBzakl6M1JXT0JYNV9URzhYdmJBaGZlRldYV1U2QTM?oc=5",
+      "publishedAt": "2026-10-21T21:54:20.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "[단독]LG엔솔 加공장 '넥스타스타', 배터리셀 누적 생산 1000만개 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "739d3b3be3857f80",
+      "title": "LG엔솔 캐나다 법인, 배터리 셀 1,000만개 생산 돌파",
+      "source": "한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kN0F6OUxLUjRhcUtkdlMxaW85ZzRweUxxQzVNQTlKeld5UWU1SXN2aGN4LTJOSUpteVdsS3I5NXZnb0ZIdjdjcnVwemR3dXdjUzVwOGM0dUdyRnVwSGRaYmFhbXdMMmVBU2J3?oc=5",
+      "publishedAt": "2026-10-21T18:03:00.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔 캐나다 법인, 배터리 셀 1,000만개 생산 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ba74999da145d24a",
       "title": "GM 배터리 임원 LG엔솔과 LMR 배터리 협력 성과 자신감, 중국 LFP와 경쟁할 기술로 강조",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00SnlYUkE3TzR5RGU2VmZOTWhhSGlYVHUzUnQwQ0hMUnVta205ZDJqVUItRC1VSmxnQU5kbDJRTzhkQ1lDekY1VjVDMGNEbm1aNzU0QjFUczZ4aTlISDdNQXJOaHQxSkltZ253TXZFNHdDMGc?oc=5",
       "publishedAt": "2026-10-21T01:14:47.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -42,12 +156,39 @@
       }
     },
     {
+      "id": "61f955cdccf78ead",
+      "title": "[단독] LG엔솔의 아픈 손가락 폴란드 공장 4분기 흑자 눈앞",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVS1jUHZUWWNLTjBLTEtXcUNCQ1hWam9jUFFjMm9INkZIbjYtUlpXeHhRRG1xWjVuUDlsWE1nLVk5MThDMU9Hb3RFcFJZU0g2ZWRmclRvZWpsUQ?oc=5",
+      "publishedAt": "2026-10-20T06:29:12.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "[단독] LG엔솔의 아픈 손가락 폴란드 공장 4분기 흑자 눈앞 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0f09c3b2213665fb",
       "title": "S&P \"韓 배터리 제조사, 보조금 없는 미래 직면…LG엔솔에 타격\"",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jMzFGSUpERXZOODAxSjRVY0hRckhVZGdCME1qakFDNmpBVHJjQnhyQy1uNkRaM01URnlqcE9BVzlvYks4Vng1a1FLLWxRX1psU2hOM3NOV3hQbS1GdnNYcnZfSjk3cDcyZEI0V0hBNW90SGcw0gF0QVVfeXFMTmMzMUZJSkRFdk44MDFKNFVjSFFySFVkZ0IwTWpqQUM2akFUcmNCeHJDLW42RFozTVRGeWpwT0FXOW9iSzhWeDVrUUstbFFfWmxTaE4zc05XeFBtLUZ2c1hydl9KOTdwNzJkQjRXSEE1b3RIZzA?oc=5",
       "publishedAt": "2026-10-20T02:37:35.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -74,7 +215,7 @@
       "source": "증권일보",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Rc0tGZDNmbGFQaFpXQmloamdGM0VhaEowYTlBdlF6am5iTjV6WEVGSEFQZXdvMmRBQ2M3YjZfWXVDVXJNZGlTVkpQMGJWQ2ViT0g4cUJlUmRWMnpEWWJXdQ?oc=5",
       "publishedAt": "2026-10-20T00:32:44.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -101,7 +242,7 @@
       "source": "www.dt.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sSzItQ2JqaEduaXZ5aFQ5bnNkREpidjRFWWF0NFkxU0ZtYWlsUzcyd1paazRCWlFMNjFqcWFRZXhiU2d5aTMyeDhPdjZMUQ?oc=5",
       "publishedAt": "2026-10-19T10:10:31.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -128,7 +269,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVGJUb0V2dy1VRjZ4MnZDYnZ6YlhMNmNDdk9lMVBCRDNFVXlDWlBFRlBTZ3VGTTRHcDB1d2QtWlRRSEF3dG1iU3lmdklpTjNmSUt5Vi1FNjFjUQ?oc=5",
       "publishedAt": "2026-10-19T08:08:38.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -157,12 +298,41 @@
       }
     },
     {
+      "id": "53d3cd3df39bea62",
+      "title": "[특징주]LG에너지솔루션, 기관 순매수 1위에 7.19% 오르며 장 마감…ESS 기대에 2차전지 강세",
+      "source": "남도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11WkQ3Y0hjaTJaNGptU2ZjNnc2MFpaSEJVaDZmQTVUVk1YOGxDV2J6ZVY4WnRXSGJSaTdKYl9IZkh2ckNYRTZEMzdmYm1VNzNIb0pKX1g4bGJia2dUblYxem5TZm95XzctbVdOWUI3dlrSAXBBVV95cUxNdVpEN2NIY2kyWjRqbVNmYzZ3NjBaWkhCVWg2ZkE1VFZNWDhsQ1diemVWOFp0V0hiUmk3SmJfSGZIdnJDWEU2RDM3ZmJtVTczSG9KSl9YOGxiYmtnVG5WMXpuU2ZveV83LW1XTllCN3Za?oc=5",
+      "publishedAt": "2026-10-19T06:45:07.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "[특징주]LG에너지솔루션, 기관 순매수 1위에 7.19% 오르며 장 마감…ESS 기대에 2차전지 강세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ae671d71b3b13e34",
       "title": "K배터리 3분기 전망 명암… LG엔솔·삼성SDI 개선, SK온 적자",
       "source": "천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MQzdFdHRMa0xibmhCdVUyNXprMFpwSHhrSUhweVA3WGpsaDlLTHJUREFWQnY5Z0hxS2p5aGVRMWJBYVhjb2pfcmJVUFJVRVdadVVzSURyQjUzUGd2Tno3WVg5c0FnNlAzSkE?oc=5",
       "publishedAt": "2026-10-19T06:04:44.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -194,7 +364,7 @@
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQlBqUHM2N1U2eHpkNnNTTWl1dnY1NktkWS1PX0o2Qk9CdEJNdkYwMnFiNFZfUEJKczgyR1FOQ24wSTVtRURSdTJfSHJ4RmNjcU9NeHVCUGlmUFZzd2c?oc=5",
       "publishedAt": "2026-10-19T05:31:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -216,42 +386,12 @@
       }
     },
     {
-      "id": "934d11d1ec20e07b",
-      "title": "[특징주]美, 배터리 탈중국 정책 기대감…삼성SDI 10%·LG엔솔 6.2% 급등",
-      "source": "아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVmFlNnpXMjlXbExjWTM2N09RTVdIQUcxT2dPWXpScjRDcV9XVUFLWXdPdVc4ZVZMYzFZX2pBTlBfQ19zMC05c21MeFkzUlRXUWVuaHh5WGV3Z9IBWEFVX3lxTE5iSFN6S1o3YlVKU0dHZlh6WHVLeEJhT3NnZmlCcDZDWG1nbElTWDQ4RVYxa3o3U2Q3YmRXZ3FlaXVuQlBrdEV0MDVOdC0wcVEwSEJScTlSMDc?oc=5",
-      "publishedAt": "2026-10-19T04:50:29.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "[특징주]美, 배터리 탈중국 정책 기대감…삼성SDI 10%·LG엔솔 6.2% 급등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.83,
-        "confidence": 0.89,
-        "positiveTerms": [
-          "급등",
-          "기대감"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a602cf96d17d6e89",
       "title": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림'",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5May1ZSUxYaGRFdWFCVXZtWkpjQmJfdi1HXzVpUmtLTEM4cC1ab1BQM2ZNTkhXUXpVYUxQWmZReXlXWjh6VHJkU2lrdTNxRXUzUnhpaTBqaHZGcHfSAWBBVV95cUxOOUR3RFNLTkpjMGVGQkhzLWxIRW9BY1pMOE0yaWRWTDZJOGVKSGRYSjNZYTlZVFpYaUxuSnh6ZkU4LVR4MlRmQTBNOWcyd3dwTnVZc1U4WlNYOHdjWE1PcEE?oc=5",
       "publishedAt": "2026-10-18T22:31:01.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -278,44 +418,12 @@
       }
     },
     {
-      "id": "370a1d8e798b68dd",
-      "title": "AI 데이터센터가 바꾼 배터리 시장…삼성SDI·LG엔솔, BBU로 영토 확장",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oc3BhTWk2SzdrWmZYVXBQMUprTk1CYnBEVnVQLXUzMnQ3WmdjZkZVb1ZYNGI2ZXJSelVGa2piY2hrUmxmd1R0bUVfMkp5YkhrQW9lUlRWS3Jxd2hJNFdOcENYM0tYSnVfejJGMExB?oc=5",
-      "publishedAt": "2026-10-18T06:23:06.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "AI 데이터센터가 바꾼 배터리 시장…삼성SDI·LG엔솔, BBU로 영토 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c66e8038c723a4ee",
       "title": "LG엔솔, 벤틀리 첫 전기차 배터리 단독 공급…고수익 방어",
       "source": "리드경제",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSm5jdGltUDlNQm1NZWRSdVJiYWF6aXVLcEJ5NmlsM1padU42empOQzVBQjJudUlOZlZ2eDZwN2VURUM1SGREVVZmam5uS2ZldzNpZzFtR3FxN2VoLXFqVmIzcHhfTTVCRElEV3cxaTY?oc=5",
       "publishedAt": "2026-10-16T01:44:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -337,71 +445,12 @@
       }
     },
     {
-      "id": "fa71ec9296bca2d5",
-      "title": "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02ZDUxaUVWYkVNbW9BLWRBUmJqNm03N3d5YlV2UklyLTZmcXZqd0NObEt0ZDc2VUM1QU1UVHM3NFpCRUk0TF9QWTBBVHYyQ3hEZF93RXl5T05xSFkxNFpBYkVlYw?oc=5",
-      "publishedAt": "2026-10-16T00:35:07.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "골드만삭스 '배터리 과잉 공급 장기화'에 삼성SDI·LG엔솔 등 주가 전망 내려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "432ae2670de135d2",
-      "title": "K배터리 3사, 실적 방어전…보상금·ESS가 갈랐다",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWU93Nmd4UEtMZl8wYkltOTh2bFFJMTNJdkVCV2JudEY5UWtOdEJPQVZUMXB4Wi01WmtQUDdUdjYzc2pRN2ZzX2VkZ0lDMk1qb0dYLU1WU1hIZElZTmpxMjV6MjFmY2FvYUFTeQ?oc=5",
-      "publishedAt": "2026-10-15T22:10:03.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "K배터리 3사, 실적 방어전…보상금·ESS가 갈랐다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ce94938bd8de0d60",
       "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
       "source": "법률신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56aFp0eENjRXBGTElPbWhPSnJmRHFYcUc5clVHZXQ0U195dDY0VzROMmcySEJIMXBJOHVDeWcwQzlxWG5PZWJyeE45Z3FmNWJNSm1lRU1FWUNrUzAtVVBpcEhVRmJWcHdTb3lFVURB0gFyQVVfeXFMUHpYdkx5Z2xHQnV3YWpqX3VfMDhjcjhMRVRaekJjVmpQVDJ1RTVTRW1jVkplR3RCdFNvYkZVTVJnajNwOUhUVGdpdU0wWF82WGczREJVRTJFdXhBMk1HanIyWFBxZzY2RnBhQ3RvTGRZRk5n?oc=5",
       "publishedAt": "2026-10-15T20:00:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -430,7 +479,7 @@
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jVnE2UnZqSGgxVnJLV2ZaUlp3ZGpfYjBQWF8ydGxPazlzcTFncEZ1SEhsVW9jX0NsWC0tT1E3S1JzYzVZNm5YN280TlluRHVxUng0OHFoMDgzU0U?oc=5",
       "publishedAt": "2026-10-15T11:02:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -457,7 +506,7 @@
       "source": "이데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYld6ek1Oa3gxdVlCZGRnQnl2UHltRG1DR0J1Vy1Wb3cyUHVxdnluWGFVaWl5bWdvc0UtR1lOVWtaN3ZkWXVRMG9fbVpQYXRHMU5zUVhDSHYxYm5QUGZsdjA3X2ZJWnZSQ2h4d1B1Z1BCRUJrSTIxdWhyV1lQbkhiNg?oc=5",
       "publishedAt": "2026-10-15T11:00:33.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -484,7 +533,7 @@
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWHB4eUFuWWlQd3UtOUx2VllfV1NXYnl0VWh4ZmtFMzZyYzYzWWQzWHFIRlcyS0ZJSG11Y0htcHYyZE9XNnhkaURjQQ?oc=5",
       "publishedAt": "2026-10-15T10:12:22.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -506,12 +555,12 @@
       }
     },
     {
-      "id": "043ff21f481015ac",
-      "title": "LG엔솔, 청주 취약계층 아동 대상 '서울미션투어' 진행",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00RnVPMGxlakRrMkdUb2N2TFJXWmtwRm9jNTZHd0JqYTZqMUJzR0FOSnRSYnlud2pLMzU5c0NKZVY3WG1YSXdmY0V4aHc4VzN3MTVyLVBCZXJpbm1mLXZzSXRJb1gwZ3pKWG4xMFFabFMtekp5dXVqZNIBeEFVX3lxTE00RnVPMGxlakRrMkdUb2N2TFJXWmtwRm9jNTZHd0JqYTZqMUJzR0FOSnRSYnlud2pLMzU5c0NKZVY3WG1YSXdmY0V4aHc4VzN3MTVyLVBCZXJpbm1mLXZzSXRJb1gwZ3pKWG4xMFFabFMtekp5dXVqZA?oc=5",
-      "publishedAt": "2026-10-15T05:41:04.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "id": "13a146565df281d6",
+      "title": "LG에너지솔루션 함솔이 봉사단, 청주 취약계층 아동 대상 ‘서울미션투어‘ 진행",
+      "source": "충청타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QR3JHZjVKX3FLaDNDeVJ6QUFEWjAzQUxka19GVWtxaWFhZ2pucUNEYVVQM0xkUWhsY2luUHVRUmpOSXY0eXk0ZDU5eVQ1RC0zbHJZbUNwM1lTWmlFSy1KcXJLZHpmZi1i?oc=5",
+      "publishedAt": "2026-10-15T07:56:00.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -522,63 +571,7 @@
           "ticker": "373220"
         }
       ],
-      "summary": "LG엔솔, 청주 취약계층 아동 대상 '서울미션투어' 진행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7affc5a90252f646",
-      "title": "LG디스플레이·LG에너지솔루션, 전직 사장 배임 혐의 고소…경찰 수사",
-      "source": "유교신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4cC1IVFoyTU9nVkJYbzM0MW1oOGdKXzhZZ3V2STZrODQxM3hIOG5jNzliYjhlZUVocXRrcmctRXpFYjBqRVpqOVZFVGVlNUlYYjhJU18tMkE1U0Rnc09yag?oc=5",
-      "publishedAt": "2026-10-15T05:30:45.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG디스플레이·LG에너지솔루션, 전직 사장 배임 혐의 고소…경찰 수사 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.47,
-        "confidence": 0.72,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "수사·소송"
-        ]
-      }
-    },
-    {
-      "id": "a1d7792f62fd6790",
-      "title": "LG에너지솔루션, 청주 취약계층 아동 60명 '서울미션투어' 3회…자립심 키운다",
-      "source": "BBS불교방송",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ReW5OeTlYSW1aRzU4N182cDVxcVhtenNxSTNiY1FDdzhYbmliTExPNjRwdF9BcUJFSkNERW05cEt0UUZXcnMzMDZYa0d2TkhyM2lEN2RMdnhmZ2VvenQtNTgtcEk1bVlmNldj?oc=5",
-      "publishedAt": "2026-10-15T05:05:45.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 청주 취약계층 아동 60명 '서울미션투어' 3회…자립심 키운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LG에너지솔루션 함솔이 봉사단, 청주 취약계층 아동 대상 ‘서울미션투어‘ 진행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

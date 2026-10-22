@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:45:13.983Z",
+  "generatedAt": "2026-10-22T01:06:24.830Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,140 @@
     "name": "신한금융",
     "ticker": "055550"
   },
-  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "4대 금융 3분기도 단단한 실적 확실, 주주환원 확대로 저평가 탈출 기대치 충족할까",
-    "'리딩뱅크' 두고 격돌 KB vs 신한...3분기 순익 격차 벌릴 변수는",
-    "힘 빠진 4대 금융지주株···'금통위·3Q 실적'에 반등 달렸다"
+    "[리딩뱅크 경쟁 점입가경-下] KB는 균형, 신한은 확장, 하나는 특화···성장전략 3色",
+    "[증권사 CEO 전광판②]이선훈 신한투자증권 대표, 실적 회복은 '합격점'…내부통제는 시험대",
+    "신한은행, 1조 중간배당…정례화로 지주 자금 운용 안정 뒷받침"
   ],
   "articles": [
+    {
+      "id": "fee3ecf5250bb2f2",
+      "title": "[리딩뱅크 경쟁 점입가경-下] KB는 균형, 신한은 확장, 하나는 특화···성장전략 3色",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hZGNKbjhFdjNFSVo5QXhib1dQdjFTUnpVZnp0VUtpRGdUeS0ySUNGUnlxSGpVX21sN3puVHpJMWdoOVJFU1VIc3UwWkN5eXRVbGlGVGt6YXU4dHJlZlF1MjBZZWU3eE9fQV9QNU9Ob0NVcmFBaXfSAXZBVV95cUxOYWRjSm44RXYzRUlaOUF4Ym9XUHYxU1J6VWZ6dFVLaURnVHktMklDRlJ5cUhqVV9tbDd6blR6STFnaDlSRVNVSHN1MFpDeXl0VWxpRlRremF1OHRyZWZRdTIwWWVlN3hPX0FfUDVPTm9DVXJhQWl3?oc=5",
+      "publishedAt": "2026-10-22T00:10:56.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[리딩뱅크 경쟁 점입가경-下] KB는 균형, 신한은 확장, 하나는 특화···성장전략 3色 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5704bb911bb8f198",
+      "title": "[증권사 CEO 전광판②]이선훈 신한투자증권 대표, 실적 회복은 '합격점'…내부통제는 시험대",
+      "source": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MclY4ZTh0VDZOWHByM1JaSjVWRE5iQThpZXhzd19uSHMzVGtYMHF1dWdQS1FmMmtzVXV4Rk5URVRuTl81WFZWQnd5cklFR0hEZm5GSEZKcXUzZHFxTXc?oc=5",
+      "publishedAt": "2026-10-21T20:21:00.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[증권사 CEO 전광판②]이선훈 신한투자증권 대표, 실적 회복은 '합격점'…내부통제는 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "cbfc1a1b4d492381",
+      "title": "신한은행, 1조 중간배당…정례화로 지주 자금 운용 안정 뒷받침",
+      "source": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96R1ZtQXc0T01pMklQaDZKTThrOTl6Y2F3RUNDcXF1ZzB2VlJXMWFldlBEeTVHcGdYU3FoRTRHcmkxZDJkWGhXZmtnYw?oc=5",
+      "publishedAt": "2026-10-21T09:32:34.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "신한은행, 1조 중간배당…정례화로 지주 자금 운용 안정 뒷받침 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8eee5ecad2fe287b",
+      "title": "KB·신한지주, 3분기 실적 놓고 보험 경쟁 부각",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlei0xb3ZfV0h5T2NqQ003ZlFWQnYyOFItV3hNblZORDJIaUtSOFhYQkdMWFFFWk8wV280czltNHFKbzROYU93MTF6WkFBVWdy?oc=5",
+      "publishedAt": "2026-10-21T08:18:00.000Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "KB·신한지주, 3분기 실적 놓고 보험 경쟁 부각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "e6d6d7b450adb2b0",
       "title": "4대 금융 3분기도 단단한 실적 확실, 주주환원 확대로 저평가 탈출 기대치 충족할까",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NWk91d2lIbkNBeFBXQ28xRFhkdTQweUJEV09meEEzbG1ud2NWYWRuSDFXdnFWSXgtTGVRem9ucEUtcVYxXzNCNEdNTFd6N3hZMXlWdmFrSGtNSWhId243NGZTVGZpRXlnMW1uNFl6d2Y1S0E?oc=5",
       "publishedAt": "2026-10-21T07:26:53.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -52,7 +172,7 @@
       "source": "오피니언뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc3JONWdzV3JkNm1hZzZEWDZLT1o3NmNnSG4wdUN5Q3lScl8xMmRIWmRiLURydlFLcTBNS2twbjFfV1dKdkRvVGpqMVVEczNQRFVJVEp0UXFJdVNiWFQ3cm1nRE9GVFFDXzZWbXlhOXg?oc=5",
       "publishedAt": "2026-10-21T06:10:16.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -84,7 +204,7 @@
       "source": "뉴스웨이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUWl4ZDV6OEJzblJma1VlY0daclk0cTMwV21aMHVXaGZUQjdqaHJyR2J2TFR6WElFS0FmUERJTHdWWnZmT3ZoeVpGYzhKOU9nRFRQU29zMWlCcEVoR3k4dWx5MUJkMVVpTEE?oc=5",
       "publishedAt": "2026-10-21T05:49:37.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -118,7 +238,7 @@
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Rb2p0a3VBN05VT3hmWGctUC1ORndtd0dKamtmdVRWY2Y4WGhETTNkaHAxelIwOTdUa3R2M3pJRXJvS2lCd1QySDc1b2VYT2c?oc=5",
       "publishedAt": "2026-10-21T01:00:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -145,7 +265,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SRS1VYllDOUR6NzlNU2pSbGZSUS1DUGEwZERZM3ROczJ2N0xGLWE2R2RpTWJGQjRQWUZHTUVjWTRkd2k3WUNXVmpsaEhkcVgw?oc=5",
       "publishedAt": "2026-10-20T23:30:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -172,7 +292,7 @@
       "source": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43U0ItU0dVd3F6TVM2cmM3QjQyeTg3WG4zMDVXYkc4bUkxc2VNWHVIOFJncXllRUJSUVpvRGJLNUY0ZVMySmw1c3cxSzdid3J2UUMtZVRZVi0yOTdRaXhXRmVjX0VkTTdJcjA1dlk1bUY4bmM?oc=5",
       "publishedAt": "2026-10-20T22:30:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -204,7 +324,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiUkkxaVdoN3B2YmFqWmlLQTRqQUhyX2tQZE5NSU54ZUhSbHoyUlc4SWN3eU9Fd0loRTY5LUtlbGRpemhOOVBKM2VxcE1qX1U0ZHBMYTJWd2RpbEktWk5MQ0dtUQ?oc=5",
       "publishedAt": "2026-10-20T07:30:40.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -229,46 +349,12 @@
       }
     },
     {
-      "id": "94699ae207f8f72d",
-      "title": "실적발표 앞둔 은행株, 증시 급락에도 '꿋꿋'",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEJLLUI4aVpEZ2hPdHI0d1hWaFk0RmpDdXlaczdJU0dkc1N5MkhuWTZpQlpteGlWSDA5TDdDaUw5U1lMNmNPUGt2OENXRlVLeGZuQVUxbk9XRm1fWWFhd2o5YTVXbnRjMmVaMzNnYXo2aGZER2xiaHdtS3NZUndtLThHbkxjS1NH?oc=5",
-      "publishedAt": "2026-10-20T05:31:09.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "실적발표 앞둔 은행株, 증시 급락에도 '꿋꿋' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
       "id": "e7d62b041bf7c99d",
       "title": "KB는 격차 벌리고, 신한은 성장 속도 높이고…금융지주, 3분기도 치열",
       "source": "스마트투데이",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xM2dHZ2d1YmVRbFctNEctZHNta2xweW9lX0d5aUt1N2FYX0JJdklrX2Z5R1MzOW1qS21kdVppbWRxdkZwZVFKYVM1Q05VRXZDY3hXekxSakVVQXpOTmxF?oc=5",
       "publishedAt": "2026-10-20T05:21:31.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -295,7 +381,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUVplWWNDTkVLcVJfNGZERU50WGRmZk42b0R4MEFscnpJX2g2ZXFlakdLbnFvUFM3NjNvSFI3cXdFanI0QjFtaEdNWk5mOTQ2eVJaY1UwY0NjbVB6cGJ1dXV3clI?oc=5",
       "publishedAt": "2026-10-20T04:17:09.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -327,7 +413,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TZTFCV2s3YzJDb1puSGFWMDR3NnZNNmhwdTdqSnQ2TVBudXpzcVNuXzM2Zy16QXZod1U1NGs2dFpDcHJGTlZhczNjVzkxcHRuMzMwSlZYdVDSAVhBVV95cUxPU2UxQldrN2MyQ29abkhhVjA0dzZ2TTZocHU3akp0Nk1QbnV6c3FTbl8zNmctekF2aHdVNTRrNnRaQ3ByRk5WYXMzY1c5MXB0bjMzMEpWWHVQ?oc=5",
       "publishedAt": "2026-10-19T23:53:17.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -349,48 +435,16 @@
       }
     },
     {
-      "id": "f98ae28152507a1f",
-      "title": "[1조 베팅, 승자는]신한금융, 전통 보험 인수…앞날은 험난",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYVmltQ2VxQ1llb2tMdV9EZnFJTTFqS0ZVQ3pmVkMxVklKYnhhMVBFa1Ztc00wWTF6eTc3RnNZekhKLVljSFFkNlZhaEZWaGotY0p1ZVVNdXZDS1hwRDdXckFGNGgyaXBfRTBZ?oc=5",
-      "publishedAt": "2026-10-19T23:00:02.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "[1조 베팅, 승자는]신한금융, 전통 보험 인수…앞날은 험난 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d6db062d388049ae",
       "title": "4대금융 3Q 실적 발표 돌입…KB·신한·하나 '맑음'-우리 '흐림'",
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zbW1UV0hkcE5KeXlZR1BCbzNXQkYzcGVobmZ2VkZocmJOemRJb1RYbnc1NGx3ZTZ4MmVObFZBbW5UNmhOTkdKc3BIQml1c1VtY2JVU0loeFNZVU5TdnNXWFNnNVg3NVpmZ2pB0gFvQVVfeXFMTjhHT1FELXhhUFNEVWNOMFZPZlJRRWJTazFub0k4d3JoNzM1WkhxblFpaklhRmxUOEpiNnVrbC16RHBISmJzbFQ0WWpxd1N0Nk1UeWRUdzJXbkYxX1d1MDU1LUowVlZzRmFWNV9YS2M0?oc=5",
       "publishedAt": "2026-10-19T22:30:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
       "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
         {
           "id": "shinhan",
           "name": "신한금융",
@@ -413,7 +467,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2psN1F3V3Z4MEptR1I4b1dOeWlyZ0VrRmNXZUZPOXFralQwWGFTZExJaW9rMmNibXhjMUFrelhFUTlzbmZxdW92ZmQ3eXQ2ZDFjdWhCT1U3aE1Ic0libmFMS3I1bV9RXzgydFQwRGVOZFRPQ3BJLUs5dmlFczkyUG1sNA?oc=5",
       "publishedAt": "2026-10-19T22:03:06.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -440,7 +494,7 @@
       "source": "데이터투자",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GdlVyY1BSYTRQS2RBclQxdHNnQXJHNklzcng0UlNXMTRqcTRhUU9LSVczV1ZTN2V0SDdCV3hiUEE0YVFtNUJiYkQ0VzFHRTREdnQ5NUZ4VXZTaVQ4OXJmamQ1LWtuMUxVaTlnZnBkX0JNUjQ?oc=5",
       "publishedAt": "2026-10-19T08:49:37.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -467,7 +521,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41ekZFTk5IWmNRcUZFcGdDdGE3X0lBWVB3WmdKRkJ1Z0IzSVdwN25iSnlBblQ3T2FaQnpiTkE4aVdqczlVSkFCQW1EYkdaLWZ5UU90dWR5Um90WU5kVkdCUm9rV01MRC13Vzgwc2dfRE1ZcDNtSlHSAXZBVV95cUxONXpGRU5OSFpjUXFGRXBnQ3RhN19JQVlQd1pnSkZCdWdCM0lXcDduYkp5QW5UN09hWkJ6Yk5BOGlXanM5VUpBQkFtRGJHWi1meVFPdHVkeVJvdFlOZFZHQlJva1dNTEQtd1c4MHNnX0RNWXAzbUpR?oc=5",
       "publishedAt": "2026-10-19T07:33:06.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -494,7 +548,7 @@
       "source": "데일리한국",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02b2x1bTNuWEZFeWtBZS1QOXp1dzR4QjRDaEtuWTR0a0Z0OUk2MENKS2RxRThmUExpNW5rTVFaWWNaQW1iUjB3bzEwV0RTWjVVeGxQaVdkbVpVa1dlX19iZXBtdVhQRGFfQXFJcHBiVdIBc0FVX3lxTFBueDBKRXAwV0d4SzlTaUdJaFk3QUprM19kQ0dnanE5WWZfbTUwbTdEbDZuaVpvRWFwSWtTc1hTSl9CYldIeUFvaC1ubU5UaG1IMGFIVlVRM25hSnA4N3NnOWF2OVRKQ1Zib29xUkRBWDZFSlk?oc=5",
       "publishedAt": "2026-10-18T00:00:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -521,7 +575,7 @@
       "source": "블로그",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSlN1ZmVXcEo5VHd2QmtQRFZPZG9lemJVRnRDN282SWRGR3pjX29WQXhuNFVpYjFDX29lTXlRbHNhNEo1d1JXRERGbEhMUkRmQVVJMkc4Yk1tdw?oc=5",
       "publishedAt": "2026-10-17T07:14:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
+      "collectedAt": "2026-10-22T01:06:24.830Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -533,60 +587,6 @@
         }
       ],
       "summary": "[금융지주 임원 인사 전망] [신한금융] '부회장 없는 신한' 바뀌나…진옥동 2기 조직개편 '촉각' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4b6bd2c73ffcd572",
-      "title": "신한인도네시아 금융그룹 출범",
-      "source": "월드코리안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSmw0RWVpdnlibE8yWWFFU3Fyb0JDOUpXYTZqd0h0anhSSGxqbzMxTzBTSjhfbHc2bXdTUGJDOVdZLUFJUGF5UnQzVjlYbnFBbFlJYkNTX1Vrd2pxb1pjeVpfbmRmOVlSSXgzMERn?oc=5",
-      "publishedAt": "2026-10-16T21:30:00.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한인도네시아 금융그룹 출범 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b099196e5a1f6b58",
-      "title": "4대 금융지주, 3분기 순익 5조6000억 원 전망… 증권 주춤해도 은행이 실적 견인",
-      "source": "인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWmVrUW92LVNnWmpaQ3g1YXBpSkdpclg4dlZ5MGNqSE1LbHc0OHlPS2YtTjBfYlpUQzhPRzZfN3BFdUdMWHl2Y1h1OXJ1ak56c2owYkRkUTl6TDgyODRqTWF3bkg0N3VMdUU4UDVLbnlDQQ?oc=5",
-      "publishedAt": "2026-10-16T08:41:20.000Z",
-      "collectedAt": "2026-10-21T15:45:13.983Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "4대 금융지주, 3분기 순익 5조6000억 원 전망… 증권 주춤해도 은행이 실적 견인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "neutral",
