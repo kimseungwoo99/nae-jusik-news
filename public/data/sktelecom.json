@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:06:24.830Z",
+  "generatedAt": "2026-10-22T08:08:27.227Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,207 @@
   },
   "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SKT, 독자 AI 모델 'A.X K2'로 수학 난제 해결 나선다 - 머니투데이",
-    "AI에 수학자 전문지식 심는다…SKT, 서울대·카이스트와 'A.X K2' 고도화",
-    "SKT, ‘독파모’ AI로 수학 난제 해결 나선다 … 추론 성능 고도화"
+    "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증",
+    "SK텔레콤, 서울대·KAIST 연구진과 수학 난제 도전… 독자 AI 추론 강화 - 조선비즈",
+    "한국 AI 모델도 수학 난제 푼다…SK텔레콤, 국내 연구진과 협력"
   ],
   "articles": [
+    {
+      "id": "8c29deacede164ed",
+      "title": "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qamlBUkFNSkxsVEJFNlBUNHEtaHAwdVdtbEhuaENwNURycWsxOVF1SDRJZ1VpWTluSFVEVGdZcUhiM2N4YnBJVmUyR0xoUQ?oc=5",
+      "publishedAt": "2026-10-22T06:33:43.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "75ed2a4254ba84e8",
+      "title": "SK텔레콤, 서울대·KAIST 연구진과 수학 난제 도전… 독자 AI 추론 강화 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW5SVGx2RG9mODM1LTE0dmV2ZXNjUjRiOGQ1cy04dEMzZXFWYjNKc3I1WXRFbEo1RGp2Z1YzMUFoaHhyVlBBYVVPZF8tUjN6S2Z1c2IwV210WjJlVU1FTUk4a0g2empBdFZxbDZPY0dDZmhieEhvWGZUWTl1RktNdFZR0gGWAUFVX3lxTE9ndHJpckwtQkEwdDJwOHdYOXBYRHBXX2VJeWwtQ3ViQWY3bXdUR1diM2poS01rajdXS3p0R3ZMR3BKT0lVR0dzcWhoRTZOQ3A3VFZRc2wxZGl4Uk1tcGFYNG9HUjk5US1hTlkzaGJEUUI4REZ1Y0ZtanQwYTFaY0drcm13MVd0SUtZamVfNkkyTnpqSnVaQQ?oc=5",
+      "publishedAt": "2026-10-22T06:14:00.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 서울대·KAIST 연구진과 수학 난제 도전… 독자 AI 추론 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce3cfec8487d5d74",
+      "title": "한국 AI 모델도 수학 난제 푼다…SK텔레콤, 국내 연구진과 협력",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVmltc3pXaUJreFJsSVRSQTBiVDRqR2pDUDYwRmk3bWQxbU53MkYxal9xZzByV2VwRXBMdW5ZODF2TjNILTVHR05pRGZyQ3MzMHZNSUpDNWVIYUVXUkZR0gFfQVVfeXFMT2NWaW1zeldpQmt4UmxJVFJBMGJUNGpHakNQNjBGaTdtZDFtTncyRjFqX3FnMHJXZXBFcEx1blk4MXZOM0gtNUdHTmlEZnJDczMwdk1JSkM1ZUhhRVdSRlE?oc=5",
+      "publishedAt": "2026-10-22T04:52:00.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "한국 AI 모델도 수학 난제 푼다…SK텔레콤, 국내 연구진과 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6e0ee75417a8b778",
+      "title": "SKT, 오픈AI 이어 '수학 난제' 도전...독파모 수학 추론 역량 키운다",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aN1gtUXZZc0FCZnBqei0xUHIzNkFETldvLTc5RlRoZG1Cby11a2dvTjlPSmtINGdpWTQ5M2xhc3JzM05uLTBvTmdSeUJDaTFxN3BDSXEzdEx0MEFENm5uaXQxb2F3SGxyRXc?oc=5",
+      "publishedAt": "2026-10-22T03:44:55.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, 오픈AI 이어 '수학 난제' 도전...독파모 수학 추론 역량 키운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8f7381f5605e8bf4",
+      "title": "SKT, AI 데이터센터 확장 본격화…전력·세제 지원이 변수",
+      "source": "위키리크스한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00OVJsVnhRYmphS2lPb0stZ3ZQVnFtdU9XcklWbGJuOElQUXpsajJvX3JWNkdkT0FORGUyUDdYcXVwMEJrR2NPUS1sa1BGdnJwVDlHX1ZhX2E0RzF3WmN2Slc4TFNuMkd6Y0JxUkJLSQ?oc=5",
+      "publishedAt": "2026-10-22T01:44:00.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, AI 데이터센터 확장 본격화…전력·세제 지원이 변수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7b0f3bf5356874b3",
+      "title": "SKT, 수학 난제에 AI 투입...국내 연구진과 'A.X K2' 고도화",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00aUZGLXZLbVY2QVFWVFJldURMM2M3MFEtT1oxc0U2aEQ2X3Y5NXFiYkVWNEdjVnVoUHFBeXhyUDVwMlRpM09UYTZOMkRNRU1XR0lsRHdn?oc=5",
+      "publishedAt": "2026-10-22T01:24:28.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, 수학 난제에 AI 투입...국내 연구진과 'A.X K2' 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "97712f28ce4e1a3a",
+      "title": "SKT, 수학난제 연구로 AI 에이전틱 능력 높인다",
+      "source": "뉴스;트리",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kWVpUZ3R3Q0RIdV84UTJZSjhfUld2Wk9DQXVuV0hkSG5DYThhY3V1ZkRXNmdBRTVWa2NaaVNuSHZNWkZNdzR5N0swZ0tQeFgwck9uTXhZY2MtbVRT?oc=5",
+      "publishedAt": "2026-10-22T01:21:06.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, 수학난제 연구로 AI 에이전틱 능력 높인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "8addde9b18c76bee",
       "title": "SKT, 독자 AI 모델 'A.X K2'로 수학 난제 해결 나선다 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSC1UYTZ0S29jRTN6cl9aczBLc1J0T0ZRTEliYWxFcFlCQ3Bha1ZVaVkzSVFKU0czMFI1TTdZTkNES251QWxSMXRoNGE3QlBabUZxM2d2YmZmLUFqdko1RllBQUZRTUXSAWxBVV95cUxPcEE2SjNIZEZvd0NyU1NIM243STBaelF0ZVltSlh1TzhySHNQUFp1T19HenMxdEt3S3Z4QlFTdERBYnJwTm9RcVJmUjBIU3ljSjFqcDFqXzNzMnM4YnNKRXFncU43QWtoMGNqNk0?oc=5",
       "publishedAt": "2026-10-22T00:26:50.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -42,12 +231,66 @@
       }
     },
     {
+      "id": "125088eb370be3bf",
+      "title": "[AI픽] SKT·서울대·KAIST, AI로 수학 난제 해결 도전",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVkVYVzRkekNQZFdOZnY1Mm96SS1rRzNyVEZTSTNJT1lYeXY5eGRmYUNDb01RdlRkLUpnbG56X0Y5T2w0RkhpS3ltcjRfTlg3V2RQc2dzaUFaTmpLZHdEQdIBYEFVX3lxTE4xVkVYVzRkekNQZFdOZnY1Mm96SS1rRzNyVEZTSTNJT1lYeXY5eGRmYUNDb01RdlRkLUpnbG56X0Y5T2w0RkhpS3ltcjRfTlg3V2RQc2dzaUFaTmpLZHdEQQ?oc=5",
+      "publishedAt": "2026-10-22T00:24:24.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[AI픽] SKT·서울대·KAIST, AI로 수학 난제 해결 도전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9ce4dc53e00254db",
+      "title": "SKT, 수학 난제 연구로 독파모 모델 추론 성능 높인다",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVXYxdmsxTW5vWTFqSFMxbVZqR2FCQk9henZWX0ZNaWlfUDhkeUI3WUhqZ1dlNi1aZzdrbUJmVFc3bnlEdVRJZQ?oc=5",
+      "publishedAt": "2026-10-22T00:09:33.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, 수학 난제 연구로 독파모 모델 추론 성능 높인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "1e5bc8f1dc053004",
       "title": "AI에 수학자 전문지식 심는다…SKT, 서울대·카이스트와 'A.X K2' 고도화",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wUFFvSnNSTERUV0d6bVRBZDczcDRJT2dWdGFSZElsREFZTUNaUnpPSGxxQVVCX0xqR0dVQnpJa01QdVpNZENCUF9uWlhneWNkdGxLUWlWNWlRdm1OZUwwSXNWeHE2MmxJNXhzYzJBNnRLMTktcndlSdIBeEFVX3lxTE9wUFFvSnNSTERUV0d6bVRBZDczcDRJT2dWdGFSZElsREFZTUNaUnpPSGxxQVVCX0xqR0dVQnpJa01QdVpNZENCUF9uWlhneWNkdGxLUWlWNWlRdm1OZUwwSXNWeHE2MmxJNXhzYzJBNnRLMTktcndlSQ?oc=5",
       "publishedAt": "2026-10-22T00:06:56.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -69,12 +312,12 @@
       }
     },
     {
-      "id": "d5d9ab987cdf22bc",
-      "title": "SKT, ‘독파모’ AI로 수학 난제 해결 나선다 … 추론 성능 고도화",
-      "source": "뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80Szkwa1Z4ZUhhU3dfcEdoSHRDbnI4OHc0NTNCOFZMVUI1U0FIWG5SSXdTc2V3c3gtNzJ0Y2ZwVnlPN1dqQ0dGNjljQ2tvbFhIY1Q1d3FmOTl6bG9NOGhXT29iYzBUNTlMdTFXMGh3YU0tM3duaGlzVV92SdIBgAFBVV95cUxOaTlEaWEtQ3hLUUR5WG5xWEJ2RzJheEFqS0YyQzFsV1k5cEE2WFowQl9tWDBKRmJJUXAxT3c4bkVOdG5SWlB4MDdIN0FVSzJqZDZRajl4a2JRckVqaXc4cDRTb08wM2FIWlNaTE55aWlDYUhTeHQ4RUJTbDMyZFZ2dA?oc=5",
-      "publishedAt": "2026-10-21T23:54:51.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "id": "1b69e024b3464719",
+      "title": "SKT, 독자 AI 모델 'A.X K2' 수학 추론 강화…글로벌 수학 난제 도전",
+      "source": "www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95Ui01V3VCNzRMMzB4OE1faGtBNlBWamc5SHVkZ096SWRKcnl0UlV3dmVuVDlLQ0VNbUJZMFV1YWNJc1BrSTNza3Vfb1BfR0ZRYlQycjcyaXc2SE1IWVBXSU9lbFNndTdK?oc=5",
+      "publishedAt": "2026-10-21T23:55:14.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -85,7 +328,7 @@
           "ticker": "017670"
         }
       ],
-      "summary": "SKT, ‘독파모’ AI로 수학 난제 해결 나선다 … 추론 성능 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, 독자 AI 모델 'A.X K2' 수학 추론 강화…글로벌 수학 난제 도전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -101,7 +344,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VcHFjUm9XUHlqU29kcWtvdVozQnY4T3JLSk92Z1U5WlZhT3JsWG9FTGp2N1ExSHFEMWxweHN1SXREU082YnBDbA?oc=5",
       "publishedAt": "2026-10-21T23:34:19.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -128,7 +371,7 @@
       "source": "기후에너지데이터뱅크",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbXgtRTdlZDRscUNpYjA1NmdTSkV6Y3U1LXJsWUVCZGxlV1N4QWUySWRwVTFkel9CUnF2VUNZUjFpaGJEMlBqbDh2cWtKcFU0bVRoSkU3UEhnN1BpQWc?oc=5",
       "publishedAt": "2026-10-21T11:10:02.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -155,7 +398,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBha1gzRDFyWVI2SjBuQi1wR1AwU3JxMjZwajJzajBVZ2JZT2tiUXNyR0tiaDJ1eWdzZUtzOXFZVy1OclVENjFHblM4dEtpNy1ZbDVkaGg2bjlHYkVrNnBtMTBKZkhKcUpOZDNQbk1sZ9IBb0FVX3lxTFBha1gzRDFyWVI2SjBuQi1wR1AwU3JxMjZwajJzajBVZ2JZT2tiUXNyR0tiaDJ1eWdzZUtzOXFZVy1OclVENjFHblM4dEtpNy1ZbDVkaGg2bjlHYkVrNnBtMTBKZkhKcUpOZDNQbk1sZw?oc=5",
       "publishedAt": "2026-10-21T05:34:24.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -182,7 +425,7 @@
       "source": "데일리안",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc3czSXdGdkJZck5sMHBCRk9yd2lDT0VxcmhkOG50elI2QVpSRkMwV2ZSbDFXX1lYb0U4VE5McVJJUkFwX3I4RFF5b3ZLQ3M2TTY4NTRlV0tody1saThPV05ZYWE3b19DcFAxSmE5di1fMGpjM1k5VTNMT3FoOXZBVmM2d0pKaXkyamIzUG4tYWNTLXNzMTVCb1E2YXQtMEYybTJkRTkwMDBGZGZjRWdWX0xGSE9QdkFqSENJZ1c1NU42LXVXM0R0VjU0a2JHa1VVU1gyWElmYUgzQl9rT1dOM3VERQ?oc=5",
       "publishedAt": "2026-10-21T05:14:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -209,7 +452,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2OUJKV1VPeVBnQmdtNk9ZQlE3M1BKQlBYRzkwZm1XcjVYbWQycE9KV1o1ajFzZXBTY0pMa0thY19BUVpKMFNEaFhKZHRsdw?oc=5",
       "publishedAt": "2026-10-21T02:48:29.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -236,7 +479,7 @@
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtVXlOdFRQLXBmRWJSMzBxQmRxNHI5U2lEWVJ1RVFMTElESUMyX0xsazZGckh1OGVERlpET0VqVUw1TFJDTEg5T05HRzhtZXhGTE5pTWN0Y1FIbHV3YXFJOXAwNEY?oc=5",
       "publishedAt": "2026-10-21T02:24:18.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -263,7 +506,7 @@
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ORTBmdkF2TWM0cHdWckJWZWhUVWg5YlVLS0RPdnJiM2ppVFZnZVV1a1REdTJ3TjctamlRajJjR1RjT1RCM2Nxbk94UENMU0VWd1M1eDdXTlAtTzZPTU9UYVF2MHZDdw?oc=5",
       "publishedAt": "2026-10-21T01:09:51.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -290,7 +533,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRWFNwTnNQSS10Tm5weDBuTWxCVldySEd1VTBZa0o4Z3BjekZaejBrVFNOYUNsdU8tQTZPaUdEcXFwdlptcmN4ZjJXd0dSVzRFcTk5d1RNU1hHTDjSAWBBVV95cUxPVEx6aE9wQjcwZ0VCMUEtVzFVb0VuaXd5aktFZHdkSlpBTGFkUm1PaUZubGMzVDRSVEtoVDMyQnRNMFdESmxVT0hRX0p5RGdfWFhjNVhvZ2tjTDVfc1BaMFQ?oc=5",
       "publishedAt": "2026-10-21T00:38:19.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -302,249 +545,6 @@
         }
       ],
       "summary": "SKT·금감원, AI 보이스피싱 막는다…체험부터 교육까지 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d4d365c1b3f94b89",
-      "title": "SK텔레콤·금감원, 보이스피싱 예방 협력 확대",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DaVFrbGxsVnladUwzVUo2dm01cWRhSVZtaVhId19vaG55b3JPdXVjMm1VRS15dEZ1bXVYOUVtaldPaWt3QlpOZ1FJVlc5ZThYZVlidjZFTHYxa2R0YzhPUWlGOGdnTWc?oc=5",
-      "publishedAt": "2026-10-21T00:03:03.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤·금감원, 보이스피싱 예방 협력 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6e45dce78c72fd32",
-      "title": "증권가 \"SKT, 해킹 사고 기저효과 속 이익 정상화\" |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2NTVNRzFmUkhoM054bEV3YWMxbFZDM21SZHJYMWFJazhQNHJETU5pbEpfMEt1dkZmSGpRQm5tSkZab3NYU1JDNUtQb2RrQVhoUGV6MU56R1JyMzV4YktjTExIb2M5STFfa1diZU1VdEJQTElx?oc=5",
-      "publishedAt": "2026-10-20T04:50:07.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "증권가 \"SKT, 해킹 사고 기저효과 속 이익 정상화\" | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "daf5c1e95ed798f9",
-      "title": "SK텔레콤 ‘행복 AI 챌린지’… 장애청소년, 코딩 넘어 AI로 ‘내 생각’ 구현",
-      "source": "대한경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbHM2RUNINXdOS2o1ZDZvYm1YRmw5VjJZdG9jeFVIZXJwbVlJbXd6emxXX01zWndsekotRHFsYU1aTU14T2FhUlNLNWFHNF9vd0dQQmtPVndWMTZQZ04zRnBuWG0yNWRvcWFJTDNjZG5iYjQ?oc=5",
-      "publishedAt": "2026-10-20T02:07:32.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤 ‘행복 AI 챌린지’… 장애청소년, 코딩 넘어 AI로 ‘내 생각’ 구현 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fad904f55984e960",
-      "title": "“2026 SK텔레콤 장애청소년 행복 AI 챌린지 대회 성료”",
-      "source": "웰페어뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81Wk40ZzVzaW9HZ3pnVnJ5SVBWRGtsai1jNmg2eFUxeHh3UGlBS3pTUlRRUkxZMUxIUjFGWnpwVW1MbFhqbTNlaWt6REcyeU9GQTlEb1g0ZGhrT3BXcDBITnhiZzVHVGVXWFhmdUZkNA?oc=5",
-      "publishedAt": "2026-10-19T23:34:21.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "“2026 SK텔레콤 장애청소년 행복 AI 챌린지 대회 성료” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2f4d934706d35dc3",
-      "title": "한국장총-SK텔레콤, 장애청소년 행복 AI 챌린지 개최",
-      "source": "소셜포커스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVjZ2QUFKUkR1WmtiNk9JNVhlbXo5Zk9aaEVJZU1YYzFxNWtrN2xRM2FsMk40U0FNdWZab2hWdEVubVUxbGJoZVFWSmZLUXVBLVNNaTEtejdsRTItSDdOY3QtUzJQWWVUR0lLWjE4YXU?oc=5",
-      "publishedAt": "2026-10-19T08:59:49.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "한국장총-SK텔레콤, 장애청소년 행복 AI 챌린지 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1a34149e2ef044b2",
-      "title": "대사협, SK텔레콤과 시니어 대상 디지털·AI 교육 실시",
-      "source": "한국대학신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TNWdMQlFkVE5yZUQ4OFVpN3U0cFhUREVDTDhybzJYMFQ3RFJOd05QX0hmQXE5RHUxN0dReHRTMzdxUS1NbEE5SC1VMlFKbjhZUzZyTi1MaXNoYlhlSFlrWlpHVGtKQQ?oc=5",
-      "publishedAt": "2026-10-16T01:47:18.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "대사협, SK텔레콤과 시니어 대상 디지털·AI 교육 실시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e4fdff58b344bc96",
-      "title": "SKT, ‘할인·구독·이색 경품’ 혜택 꽉 채운 아이폰 듀오 사전예약 실시",
-      "source": "SK텔레콤 뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55ZUZIUTdOV2lrWE9FMUhkWmJRdk1YYVRuekQ5U01RVWFWcUx5TVpKRWpRMWMtaHBNVkxhRjgxNUltZTUyM25mZg?oc=5",
-      "publishedAt": "2026-10-15T23:38:51.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, ‘할인·구독·이색 경품’ 혜택 꽉 채운 아이폰 듀오 사전예약 실시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e729213ea4933eef",
-      "title": "SKT, 'AI-RAN 무인 차량 이송'으로 네트워크 엑스 어워드 수상",
-      "source": "팝콘뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pNkZFVm5YaTJDU1Z3VERabF8yNkpqQUFzdDVWS1NhZGZNVFhyRkJwb1JaOU01Vm9kVnRKY0x5RGN4dkI4QVVEQWU1V3A2QkhGd3pzZHhyTEtCOEVGWTFwSlo4bS1yaXZua1RuWlJ30gFyQVVfeXFMT09mTklURl9USGhqZVk0TENMajV4eFVEb01qWERVSXlKZFlZRlBjZy1HUllMSVRZd1JiSXNiMWJrTEVOckotR1kxVi1QNE50c3VaLWNldUxwbjk3TVdlZjB6djBBMXhaZ24yeHdXX3ZlbEpn?oc=5",
-      "publishedAt": "2026-10-15T09:29:05.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, 'AI-RAN 무인 차량 이송'으로 네트워크 엑스 어워드 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "011c2457b30bf7f8",
-      "title": "SKT, AI로 일반 차량도 무인 이송…글로벌 5G 서비스 혁신상",
-      "source": "이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckN1SW1naGp3Nm4tenJ6Z1R4Z3NfSzN4dXFwdEJqSjdKYlJMLVZOLWRkVjlTMUVuTHl3T0wxYWt1dlA1cEhsYzhRTVBXWXBGTnlQMkRrY1hCaU9FYzVvcTNfRE9ERndmbGgzUm9nazZMNjVtbkFLM2NfX0F2dlpqRg?oc=5",
-      "publishedAt": "2026-10-15T07:52:05.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, AI로 일반 차량도 무인 이송…글로벌 5G 서비스 혁신상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",

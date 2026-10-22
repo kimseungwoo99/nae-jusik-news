@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:06:24.830Z",
+  "generatedAt": "2026-10-22T08:08:27.227Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "두산에너빌리티",
     "ticker": "034020"
   },
-  "dailyBrief": "오늘은 산업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "두산은 美 SMR 수주, 창원 강소기업은 인력·자금난…K-원전 공급망 ‘경고등’",
-    "[포토뉴스] 두산에너빌리티, ‘AI 전력난’ 대응 종합 전력 솔루션 제시",
-    "두산에너빌리티, 글로벌 SMR 기자재 공급 확대…제작 경쟁력 강화"
+    "[이슈] 'AI發 전력난' 두산에너빌리티, 가스터빈·SMR로 중장기 승부",
+    "두산에너빌리티, 대형원전·SMR·가스터빈등 발전설비 기술 선보여",
+    "두산은 美 SMR 수주, 창원 강소기업은 인력·자금난…K-원전 공급망 ‘경고등’"
   ],
   "articles": [
+    {
+      "id": "5747f41808adeebc",
+      "title": "[이슈] 'AI發 전력난' 두산에너빌리티, 가스터빈·SMR로 중장기 승부",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ya2dycXlpSE1xMTJILWhDZDJlNXpyZDZCTFE4NUxlX3F1VG5fcDRTS0xySndydGtaR3FjRGltNlZMNW1sNEs3RExVeGpIbXhDV01EZkhzSjMyT0M0dE1JSF8tdW5EZTQ?oc=5",
+      "publishedAt": "2026-10-22T08:05:11.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "[이슈] 'AI發 전력난' 두산에너빌리티, 가스터빈·SMR로 중장기 승부 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "de33a44ffc73ded4",
+      "title": "두산에너빌리티, 대형원전·SMR·가스터빈등 발전설비 기술 선보여",
+      "source": "스틸데일리",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VdmkxemhoZDdUN0xNYVQ4OXpVaFZTakQyZ0pUb3QtOUhfZjlDeHVBU0x4RWR5Z3ZvanB1QWZCSkQ0ZXc4RUVSSDBCeTI4NUdJU2ZselJ2TjhtNEZ1WllZQjJvblBNV2lQSWEwUTV0YmxibDZ30gF0QVVfeXFMTlV2aTF6aGhkN1Q3TE1hVDg5elVoVlNqRDJnSlRvdC05SF9mOUN4dUFTTHhFZHlndm9qcHVBZkJKRDRldzhFRVJIMEJ5Mjg1R0lTZmx6UnZOOG00RnVaWVlCMm9uUE1XaVBJYTBRNXRibGJsNnc?oc=5",
+      "publishedAt": "2026-10-22T05:01:38.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, 대형원전·SMR·가스터빈등 발전설비 기술 선보여 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "7b092c68875a917a",
       "title": "두산은 美 SMR 수주, 창원 강소기업은 인력·자금난…K-원전 공급망 ‘경고등’",
       "source": "에너지안전신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qS0VtMTFpZTRIS0lCVHNZTFJRLUp4MnBDV29CSFJJMDZTOW5YUlAxdS1pTVVOc1hmYnNCbjBQN3p6VlcwS3d5Q01BU0RSM3RlaURGVFBOS2VpSHlVUV95QWJmWEo?oc=5",
       "publishedAt": "2026-10-21T23:48:47.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -51,7 +105,7 @@
       "source": "산업일보",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fWkRvNk43aXJpWGZpQ2NON3N5VkM4ZDJTQnRNTU5taEhvcER4UkFKSUw1QXNaYUVaUGdzRlZoMU9oNElM?oc=5",
       "publishedAt": "2026-10-21T07:33:13.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -78,7 +132,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTmN5OWcxZWhKb3RVMnV1M3Q0Tk0wYVYyQnE2Q3BWUVpQdU41Y0RnVHJ0OHBBQmVWUG0yLWpWSkNncmtaem5rOUEybnZWbm40Z3RGOTBNYlpDOTl0dEM1VQ?oc=5",
       "publishedAt": "2026-10-21T05:46:01.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -105,7 +159,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CTkVFUVA0QzRDWm9MSG54M3dMX1EyY1Znbm1EN0g0ZnlIYWlYQXVvNVhZaXBwWG4yUjFIYVZsVmVNZElGZFlxUVoyQVZlaXl4UFJ1Y1NsRF9LYkl4ZnJqN2FzM1llVkc0SkljNjJmd25oVDQ?oc=5",
       "publishedAt": "2026-10-20T22:00:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -132,7 +186,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVVTdkRPejV1VEdkaE9QYjh2YTF4YkhUbC1GUlJZWGVlOVc1MUoyTXE0Sm9rQnp5cVU1cTdiQjJaRTJQZDhsaHpva3NaTExaMk9XX3prR3ZXZ1hDOFpTeE9ELXBTV0JuWEppRXZGVTZ3ZG1uTWdFTGI0TnBZZmlzcFNxajNILXc1SjBKTGVn0gFmQVVfeXFMUEZKNm1OdU1USE83VjhGNDA2QUZINFJjUzdSVXRhRFBlRm9MN2pLM29hNjBOTG1ETDR3TS1NbGY0b1JsalJfYWxYaUxYQ0k5Z2JPTExKZE9UbkNXMm40SlRWOVcycjlR?oc=5",
       "publishedAt": "2026-10-20T10:18:04.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -154,39 +208,12 @@
       }
     },
     {
-      "id": "0d01730a2fd60b2c",
-      "title": "[보도자료]두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결",
-      "source": "두산뉴스룸",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0TF9Xb2ZweWtuU1lldVpiYXpaSUtJc01yWVlQcEJaeXkzQjVCb25LV2EzS1VhdjBsZFliUVZyUEZoLVYzV1BFTmxJRGZ5VjJG?oc=5",
-      "publishedAt": "2026-10-20T06:07:23.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "[보도자료]두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8b19808924f6a5f3",
       "title": "두산에너빌리티, 'K-원전'넘어 'K-방산'까지 접수",
       "source": "에너지신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQ2oybTB2X2JIOXo5MWY4MXFXRjY4cmdjU3RVd1VPRnpkVUNld1VJVnZEakFjUVJ2Wjl0UkExYURReWJpR0daNGtzbUhULUJ3NGVJY2pCUG9HMEcybl9Yc2N0TEV2TGZJekNoVUlIaE0?oc=5",
       "publishedAt": "2026-10-20T04:33:04.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -213,7 +240,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vVEdDOE50LXgwNjZlNHAtMmdMVWRZeGhFT25sYzB3TWpxRUhiR09XaFJieEwtZlFyUHRXYkd5bE9ndnJHRU94c0JCTEduRGc2VEM1ZkxPS0g0NlFHMVhsYnpyQ0pSQQ?oc=5",
       "publishedAt": "2026-10-20T04:29:48.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -240,7 +267,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWmVucTB6R243YVJ3QXFycXljbUxlMy1wYW9fckFjeHhZeEROUjl6ajh5MWN5ZXJzVGJtbDZOdG1CbEt2a0ttS2RhS2tNNEl2VXRNY1Z4MkhkVld4UGtXaW41LXJuaDBJci1iOdIBbEFVX3lxTE1aWmVucTB6R243YVJ3QXFycXljbUxlMy1wYW9fckFjeHhZeEROUjl6ajh5MWN5ZXJzVGJtbDZOdG1CbEt2a0ttS2RhS2tNNEl2VXRNY1Z4MkhkVld4UGtXaW41LXJuaDBJci1iOQ?oc=5",
       "publishedAt": "2026-10-20T01:57:51.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -262,12 +289,39 @@
       }
     },
     {
+      "id": "8951cc2ba59f901e",
+      "title": "두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결",
+      "source": "매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56UHZtN2dEdFVHcFpjcE1OallqRmtkMGxUaWV0dW5LRlN2MGVoalloTzMtVzJsSjhIaGVZZHRTUlk2OVRxaEp5V0dDcVhrS3E2bEE?oc=5",
+      "publishedAt": "2026-10-19T23:46:54.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "00675d3dbd91e7d4",
       "title": "[단독] DL이앤씨·두산에너빌 파트너 '엑스에너지' 대박 예고...아마존과 SMR 프로젝트 파트너십",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BejE2TmNRUkRVYWNKLWlIUVRaQm5WY01xcHgzRFFRQ1VNUl9sbnlYQzU0T1BnRzhHY2RWTVNfQVZjRTVRcjU3b3E3R09FMnY5Z2FITmZTMURXLXBERDY1NXFSRQ?oc=5",
       "publishedAt": "2026-10-19T23:23:14.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -289,39 +343,12 @@
       }
     },
     {
-      "id": "2939589307929ca3",
-      "title": "두산에너빌리티, 올해 4033억 공장 투자 '2021년 이후 최대 규모'…AI 전력시장 공략",
-      "source": "필드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16TEI0dWt2QTE1VllaTlpXLS11bmFieU94ZF82QmVSaW1JamhqNjZMcTdqYjhndnVLOFBSZ1NqdnBuRFQyNy00ZVdPWDBKenRnV1lBcF9pYzdQaW5fOG9HcU5BY3Qycktf0gFsQVVfeXFMUEhfTE93OU4xeDllekxZOFR1d2RIeVZ5U19lellyM0RnbkpMbEp0MFVVcmFGalhucWJ0YnBBdEkzTHhWRFk0dGNsTDM5QlBMeVdUajdqSTFqZzUzVjV6V2M4bmJoRFBqR2xSb1Zt?oc=5",
-      "publishedAt": "2026-10-19T21:30:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 올해 4033억 공장 투자 '2021년 이후 최대 규모'…AI 전력시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "83eb98dbbfb12fe0",
       "title": "한국원자력산업협회 창립 54주년 … 원전 불모지서 ‘560개 기업 회원사' 이룩",
       "source": "에너지안전신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fUHFoczZQZ243Vks1TkU2cnJKaWRLbWg5OEtPdXNXOHdfRHdhTWVqaGhkS29tT0hQX2J0YkxZRm5rSDl6aTdyNDQzZDlpeWpWZEZzQnVzcWhmY0FKZDVkUGFHcnk?oc=5",
       "publishedAt": "2026-10-19T07:00:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -348,7 +375,7 @@
       "source": "제주교통복지신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jR01zMGxza0J6UDRHbDduM1JlTWpudnNrcEljcjJMMUU1WlgzOTRYdGIwcFNSLVlTTS1RVjcxdzVuY1BJYU1wR3Qwclo0N0xQOThsd1VNS1Q3MmxEUDBRSg?oc=5",
       "publishedAt": "2026-10-19T01:16:57.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -372,39 +399,12 @@
       }
     },
     {
-      "id": "5e0f5a6b61755012",
-      "title": "두산에너빌리티, 박상현 부회장 승진…송용진 사장 COO 선임",
-      "source": "스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yWmpQY2VjTGllM0Z6NjVBc0hhazR2ZVFKZzRUdUswb2xYQ0RTdkxrWTFKWk4yM2RLYVRSVktmM0RRaFBKbWZUQ1JnUXNUQkFvNDU1dXVNcG5oRDhCX3VNNDdOMU82Yl8ySzFvVHdkVnF1RHFSSl9V0gF3QVVfeXFMTTJaalBjZWNMaWUzRno2NUFzSGFrNHZlUUpnNFR1SzBvbFhDRFN2TGtZMUpaTjIzZEthVFJWS2YzRFFoUEptZlRDUmdRc1RCQW80NTV1dU1wbmhEOEJfdU00N04xTzZiXzJLMW9Ud2RWcXVEcVJKX1U?oc=5",
-      "publishedAt": "2026-10-18T07:00:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 박상현 부회장 승진…송용진 사장 COO 선임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "403e83cad67797a1",
       "title": "창원시, SMR 중심 미래 50년 원전산업 집중 육성",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRUw4bjV5UlNlUDEyNU5WbW9BWVBfaDhDUVZseENENC1kVU4xQVNlclJWZXR1ZkVsTG5lT2owVzBkejVlY0RBQ19uMnBaZEJRUU9EX25DVkk5b0dTb1VuS21CYnJRalRCSGlXN9IBcEFVX3lxTE1hUzQyWXR0b3p2R2xUNV8tY1dRUGN3ZVBoNVhvZnZRendZUnBBbG1NdXRwT3oxMi1QT2dseDRmcmI1RUpRcUVLZENWcm1UMzZMdzlPeHRSVmpFRG9Ma0xFSVI1QUVYWHo4c3Q5YWRTVTY?oc=5",
       "publishedAt": "2026-10-18T03:43:45.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -431,7 +431,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wbXUtZTJvNjU5YjNMZ2JhVVRYa0VWa1FOa3BGVG1YUHFZWXRpSnRHc0k1UC1QSDdMRjE2RHJjei1HVjRtMG5NVmhtelYzVUkzdnE4RF9EckpmWW5lazFkY2JQNmhDLXhOX0RqOUR5OUhuUTjSAXdBVV95cUxOd01NQkM0Y21Ra1UyZjR5R1JodDNNckwza0pad3VfNEJmT2sydWJfOFhrSEpnXzdNcUdxamw1eWV0T1piNF9Qbk0xSU1tcFpPZVBaS01NTURVR0lSaDF3OHNrdDlrQ2VSX3pvNnIzY1NKQjYxUnBzbw?oc=5",
       "publishedAt": "2026-10-17T15:25:00.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -458,7 +458,7 @@
       "source": "한국원자력신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44SE9TeU1HamZSMVZzQmxrUGVRN3NHOHR1UXN5SjBYRnF1V29qZWhsWHBJU2tTTU5GeFlyVlRZQlpDX0diWXl5OW5wYjQzekI4M180Rjc2c2h2WEFwUVRWaU5YY0FaMWfSAWtBVV95cUxQMGh6V2V4RmZhVHZ1VkphOHRJVUhNd05BWGRtUkdSNUtNNldhZkQzVF9XNGZHU0hNVGgwQ2Vud09qMWN5bERacG5ybjJXQzBoRmhEUFNoREJDWXduTkwxUnBfWktKa01ZdW1URQ?oc=5",
       "publishedAt": "2026-10-17T06:29:19.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -485,7 +485,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TUUd2ZmhRV2xnZUl5VlkxM2QyQkNfVEZWRkV5aEVMYTNzRTRRMUVmblJ2SUNPb1hndXJjd005dUFOYlBDUnAteW1tM1FTMWZhM3JEUTM5Y0lUc1dBdkRESWFvQ1czQjlpR3BUSVZEdV8?oc=5",
       "publishedAt": "2026-10-17T00:15:06.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -507,12 +507,39 @@
       }
     },
     {
-      "id": "c68fc5f9576774ca",
+      "id": "b311bcabcb1134cd",
+      "title": "두산·에너빌리티 ‘재무통’ 김민철·박상현, 부회장 승진",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KLXRaRnYwdUtBTFpueFVvSUJsM0N0RkR5UWV6OEZPNmZPY2JlbllYZlB1WlZ1VGVzckUyRVd1b1p0OWxuQ1BLbkZmS0tNWHBzY2J5dUs0c2VSZVI4eHBMZA?oc=5",
+      "publishedAt": "2026-10-16T08:28:59.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산·에너빌리티 ‘재무통’ 김민철·박상현, 부회장 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a3d1b1de03b19f06",
       "title": "[인사] 두산에너빌리티",
-      "source": "뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLYnhGdHRCUmM5N3pyUVlQV3QtMVFfdDdnZXI4NlBPb1Q0aVNLLWJ0MTBGUmlYbTNQOTJ5QzVOaU9tTnBaZG0tZlotdUlJTHBLeTNGREp0RWhVUFNDcmkwV0tpZ1lvdTdUZWpldnF2Y9IBc0FVX3lxTE05WVlTQXo2SF9iMGtEbjluX1pQT01KSkZnQ3R5RjhnQndNMlNvY1ZFbzd4TmVwblQ1bmxKY05qZzBTdG1XeWpnWmEtOHJyZGdTVTF3ODE1Z3pleUw4enNjU0x2OER0eHBNbkpEVHdPSjRSb0k?oc=5",
-      "publishedAt": "2026-10-16T08:36:51.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
+      "source": "아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hMjZtYzFGMC1nbjRXQW1RdG11X09mR1FuYUtzSzRNaWF5eEZacHBzbmlNc2dTdFVxR0ZDbDJ3aFRPZXlSNFhDUWhBM2F1VV9EMmtDVExrRG9Vd9IBWEFVX3lxTE1JTDFiaElyc0xlVmgwazA4LUxzWGExTXlScUhkNmctZ00xY09hcHA3ZUxqbmJzRTByVFUxcWs2eUVFbWtNUmhxNXVkM2RxUkk4dEZHSlBUc2g?oc=5",
+      "publishedAt": "2026-10-16T08:03:52.000Z",
+      "collectedAt": "2026-10-22T08:08:27.227Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -524,33 +551,6 @@
         }
       ],
       "summary": "[인사] 두산에너빌리티 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eab80f49414d8f87",
-      "title": "두산에너빌리티 3분기 영업익 42%↑…눈높이는 하향",
-      "source": "경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NbS1CeE1xb2w2ampET1BjYml4bE5GejdGT21tZEJCR1VXY0dIbm9lTV9QQXJGaDFTeTZZdVlJM1VNOWlkdVdRY2h0NUV5UENaaV84?oc=5",
-      "publishedAt": "2026-10-16T01:33:11.000Z",
-      "collectedAt": "2026-10-22T01:06:24.830Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티 3분기 영업익 42%↑…눈높이는 하향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
