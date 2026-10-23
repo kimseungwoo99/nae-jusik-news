@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:06:52.305Z",
+  "generatedAt": "2026-10-23T08:06:36.640Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,77 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "대한항공-우리카드·현대-한국전력, KOVO 컵대회 준결승 대결(종합)",
-    "남자배구 한국전력, 우리카드에 대역전승…B조 1위로 준결승행(종합)",
-    "[단독]송전망 막혀…한전, 전력 못 받고 3조 날렸다"
+    "한전 사장 재공모 시작했지만…인선 지연에 대형 투자·조직 운영 불확실성",
+    "(2026 전기학회 전력기술부문회 학술대회)그리드포밍, 장주기 ESS 타고…",
+    "대한항공-우리카드·현대-한국전력, KOVO 컵대회 준결승 대결(종합)"
   ],
   "articles": [
+    {
+      "id": "f37efd88cb668282",
+      "title": "한전 사장 재공모 시작했지만…인선 지연에 대형 투자·조직 운영 불확실성",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15YTE5R0R6ZmlVdm1KU2ZyRzQ1TVRvOEVibG1FdDZOUTRnX0NmQmN4elF0amQ0SFQ2dVE5MHhTSWVUWWVPbENGV0gwVjN4bm9oczJMQmlYMVhrWVJBWmUyNk1SOW5qOUxXVFpnRU10VmbSAXBBVV95cUxNeWExOUdEemZpVXZtSlNmckc0NU1UbzhFYmxtRXQ2TlE0Z19DZkJjeHpRdGpkNEhUNnVROTB4U0llVFllT2xDRldIMFYzeG5vaHMyTEJpWDFYa1lSQVplMjZNUjluajlMV1RaZ0VNdFZm?oc=5",
+      "publishedAt": "2026-10-23T04:49:19.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전 사장 재공모 시작했지만…인선 지연에 대형 투자·조직 운영 불확실성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.65,
+        "confidence": 0.81,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려",
+          "지연·실패"
+        ]
+      }
+    },
+    {
+      "id": "6cc521424629ead3",
+      "title": "(2026 전기학회 전력기술부문회 학술대회)그리드포밍, 장주기 ESS 타고 전력망으로...기술기준 마련·현장 실증 구체화",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RLTRQdTBGOUdQY1J1Sk8xaGhpaU5uRVhySXg0RTZPQTk4SHNMRkJpTDRfYnVUUXdKR0xlTUhtY2FUN291ODRoSnN0LS1udXBYb29FcVRFN0dfT0pjNGZPdW1FcHdjQmpDdUdOSkpCcVXSAXBBVV95cUxPUS00UHUwRjlHUGNSdUpPMWhoaWlObkVYckl4NEU2T0E5OEhzTEZCaUw0X2J1VFF3SkdMZU1IbWNhVDdvdTg0aEpzdC0tbnVwWG9vRXFURTdHX09KYzRmT3VtRXB3Y0JqQ3VHTkpKQnFV?oc=5",
+      "publishedAt": "2026-10-23T00:47:00.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "(2026 전기학회 전력기술부문회 학술대회)그리드포밍, 장주기 ESS 타고 전력망으로...기술기준 마련·현장 실증 구체화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "63d2fe13a2f74d46",
       "title": "대한항공-우리카드·현대-한국전력, KOVO 컵대회 준결승 대결(종합)",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heUgxd2dYS2hYN1VRejhiZFFPZng1UVJxSVI4MHdUUk0xZU1Yb3V1WWpsT21LdFBZVk44UC0zVndveU55Qnc4bHhUZ2htR0gyLXBSLWNQOHVfNzjSAWBBVV95cUxOZ1M4bjJnMWpXckRSeDB6MFlPRERWcTJrU0JKRzd1QTJ1Y29sNjRPUGFVajN1TDljanNLNjd4YmdqakxmcWhVMHRacWFIMTFYVG9YYXJEclNSQkdGRTg3Nlc?oc=5",
       "publishedAt": "2026-10-22T11:39:19.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -47,7 +104,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15VjJzaDh4RmJHYmpfNUFGU2N6WmVpMlRyd3JiU252Qk5rZ2pJQnVTbEdQSFVkMDAwUkR5b1kyOENTMVRfR0kyZTNlSE1IMkVoVEdQOW9MSW40a29STWhIcXFnd3ZmM1JPQkQxYnQzRmotSEcyaldTc9IBeEFVX3lxTE15VjJzaDh4RmJHYmpfNUFGU2N6WmVpMlRyd3JiU252Qk5rZ2pJQnVTbEdQSFVkMDAwUkR5b1kyOENTMVRfR0kyZTNlSE1IMkVoVEdQOW9MSW40a29STWhIcXFnd3ZmM1JPQkQxYnQzRmotSEcyaldTcw?oc=5",
       "publishedAt": "2026-10-22T09:36:15.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -74,7 +131,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3cVR3dk5kUGtQd2NtbHo4SU1odFhmWHpmOHpxX0lDZlFqcjBxZERXX0VDdnlWMnVGRGZRWHkwNlVtaWpNLWgxaGJDQTJpM3YzUWfSAVNBVV95cUxOUXRvaEZYdDJIekZUV0VwY0dzVmprel9pTlZYMGVYOGw4bVBKOVoxRTZjeXMyeVA5VDdiNy1zWHRiV0lqc0dsSXVIUkNvY29ncU9DWQ?oc=5",
       "publishedAt": "2026-10-22T08:46:26.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -96,12 +153,12 @@
       }
     },
     {
-      "id": "7e86101c07ae5035",
+      "id": "5f6e305a166036e6",
       "title": "[한국전력공사] 한전 등 6개 에너지 공공기관, 전남광주지역 에너지 스타트업 공동육성 나선다",
       "source": "워터저널",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkLURDM3NhQUwwNmhNX2xJby1fY2pjeHZwNG12XzBOR19aMWhHdE1NVXdBa0lvMGN5X0dNYkxYUmNiYlVEdDYzQ1VJSDFmUkxkM2o0WDRsR2NNWEd4SHNEZWpEcldweG91b3h2MEVKZU1SQdIBdkFVX3lxTE1GdmdLbUl3b1FqbGo5MnJxMmNha0puNkZEb1daeHVLYl9jU0UwMFZrOC1LS3k4OEVYR1JNTHBCR2l4VHlqVUctZEF3RVB0WkIyR1cyYl8xdVRub0p0Y3BlUFMzNG5FeFo5Z1VMenpOMXZQUEVWOHc?oc=5",
-      "publishedAt": "2026-10-21T23:45:00.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GdmdLbUl3b1FqbGo5MnJxMmNha0puNkZEb1daeHVLYl9jU0UwMFZrOC1LS3k4OEVYR1JNTHBCR2l4VHlqVUctZEF3RVB0WkIyR1cyYl8xdVRub0p0Y3BlUFMzNG5FeFo5Z1VMenpOMXZQUEVWOHfSAXZBVV95cUxNRnZnS21Jd29RamxqOTJycTJjYWtKbjZGRG9XWnh1S2JfY1NFMDBWazgtS0t5ODhFWEdSTUxwQkdpeFR5alVHLWRBd0VQdFpCMkdXMmJfMXVUbm9KdGNwZVBTMzRuRXhaOWdVTHp6TjF2UFBFVjh3?oc=5",
+      "publishedAt": "2026-10-22T05:52:13.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -128,7 +185,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haGtlbjBNYmZucTdFQXM2Z1VjRmkwOTNLS09rcUtXRjhKM1hEUjU1clloOTgxaVRra1EzT2pROHZUQTYzVUdYWlJHalRzQXQta2xVTTZB?oc=5",
       "publishedAt": "2026-10-20T12:07:02.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -155,7 +212,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FX0ljRVc5cGNNN1JNNkpXWHpHY1M3SnNQcXlGVkV5VzhVQWZtX3c1NktsUFQ3d2VFZHh5Ukw2RXBXMFZxSTlSaWhhMzVpeHBrU1hMdkVPb280V1ZLR3ZHMHZCS2dlems2?oc=5",
       "publishedAt": "2026-10-20T09:28:21.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -177,39 +234,12 @@
       }
     },
     {
-      "id": "7547f4d408cf4d0c",
-      "title": "[사설] 한국전력 지역상생 이대론 안된다",
-      "source": "남도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La2szTUpzRU1FeERvQk5fbmdvR2VPWGp0T1dKM3ROQWktV1hoeENpZ01LOGVnRWtzVUpRRm5qYkhtbzNpTXlOdDh4VVcxTkFaUnZUY3Npek84Rkx4UkdlV1dlQkFtSUlNWG94UdIBcEFVX3lxTFBzakFIVlg0dTZkUU9UQU5raXJjMVB1dU44RjJUTm1YS0NzeFBfX2FlemxacTYtOE53c0xVZWFNWTRQYmloeEJEQUROUFd0WlliTF9rUDh2WUlvbWluUU9NY2VYWTdFNzl3THhnRnhxWWU?oc=5",
-      "publishedAt": "2026-10-20T07:33:16.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "[사설] 한국전력 지역상생 이대론 안된다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1c3bde8e98785629",
       "title": "한전 \"전기요금 인상 필요\" 정부 \"인하\"…전력정책 엇박자 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQ2lGWVJmUWtTanVEaTJmTWlDcXZwOENISXZUY1Y3ajdLRmpKWkxYalo5dGgyazFmUDNvMC1KRWc2ZjVQenE3WmZRcVlwSWVrNmdvRjI4dncxRWRlM3dLZ1RMVlhONDhBTk5FUGozR1nSAXBBVV95cUxOZ0NpRllSZlFrU2p1RGkyZk1pQ3F2cDhDSEl2VGNWN2o3S0ZqSlpMWGpaOXRoMmsxZlAzbzAtSkVnNmY1UHpxN1pmUXFZcEllazZnb0YyOHZ3MUVkZTN3S2dUTFZYTjQ4QU5ORVBqM0dZ?oc=5",
       "publishedAt": "2026-10-20T06:10:00.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -236,7 +266,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WU05lZ09SYnNPc3dOcGpHZXdzUVYtaFpPNFI4YnlHMzVqV1ZKdVJMR0dSRERvRUhrbmRxUms4d1FmbEExUWR3bGMwVmhSdDVkVzUyZU8xUlJVb2pyV2ZZ?oc=5",
       "publishedAt": "2026-10-20T00:16:23.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -260,12 +290,39 @@
       }
     },
     {
+      "id": "8f8c78b83a7d3a39",
+      "title": "[모닝 리포트] \"한국전력, 저평가 진입·유가 안정화 관건\"",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TX2hEUzBlQlJoOTZoZlJNQUp3RUtKRlZ2SllBT00yb29yUmdHaFEwQ0lfNUFkeWJZMWpLbzJUeUlNMTBnOUFmTWt0OWlHcHh2M0xTd29jQXBfdWI5?oc=5",
+      "publishedAt": "2026-10-20T00:02:00.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[모닝 리포트] \"한국전력, 저평가 진입·유가 안정화 관건\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "39dc91925dd67418",
       "title": "대신證 “한국전력, 고유가·전기요금 인하에 수익성 악화…목표가 4만원 하향” - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlCVFZ4ZVpqZGstUUtQVndiVG90ZXB2dmlxMkdWRDdOSTM2a2lFRUh6aTlWVTB5SXdiR1JuSDJqeFhCcmtRemVBRzNuZmx3NnYtWnBDYWptSXJoSmdJb0k1UlAwT2VwOFp3Q21OM3lHcHVPdVJnanpQTkVuLVRXc1I0aU9FQUhk0gGcAUFVX3lxTFBXTmNYQVhuaTZpaVZoSVdxcy1UT0NJb25KcWI0RkdidHhHbnl6SGd0M2EtaC1saTRPR01xYUh0S2g5WnktOXZTLVVqWUZnSE1aYURMY1l0dU1PSkxXMW9iemZBZTdPcnNhNjFrcFZLaVhmOTFPV0FDa0ZLYmJ4dFQwOWpYdmR6SVU0ZENUYzBPSFZnanZnTEREOS05WA?oc=5",
       "publishedAt": "2026-10-19T22:48:00.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -292,7 +349,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQODJMUlhSY0N6bzdlSHgtNWpNTXpBVnVpWWxPWkQycUd6REU2UTlUQWdyZ2JPWFFZMzJZSkRWb2huVWdrSHJLMzZtc081Qk9idTVzeUtDX0J5Zw?oc=5",
       "publishedAt": "2026-10-19T22:47:01.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -316,12 +373,12 @@
       }
     },
     {
-      "id": "fab515ab717384c1",
+      "id": "e49bb4cb9d6315be",
       "title": "“저평가 국면 진입했지만”…대신증권, 한국전력 목표가 ↓, 반등 조건은",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Q3ozTkRoUWdMaWIxZmFzZ0RxMjR3RC14TlNIcjFFU2h1Z0VZZmMxMHZjTHptcGpDS0YzQXdmQzR0R0ZXa1VhZUNKQll6TWNUV1E?oc=5",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODJiUnBsWU5VWWpDaURHUlZud2VBalpBZFgwNVhFbE5FNUV2YlIwMzNtR1BOUm96VHpNR3h1d00wME1vS1VPVk5BN19oWXdpN0E?oc=5",
       "publishedAt": "2026-10-19T22:44:46.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -345,12 +402,12 @@
       }
     },
     {
-      "id": "b18f744da1d59068",
-      "title": "[2026 국감] 김동철 한전 사장 \"전기요금 인상 논의해야\"",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BNlRWcFZRc2FUN0M4Y1RVSVlqRUJGYTNUdmZnQlF6ZTVrc2VXR2h1N3hGdmtPSWJCenI4WDVGWGJkTkZLajZRbWNSVTVDV3pyaDk5UWF5NExCR1NC?oc=5",
-      "publishedAt": "2026-10-19T08:52:00.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "id": "a6bb387012f4987f",
+      "title": "한국전력 충북본부, 굿네이버스와 '마음충전 프로젝트'…위기 아동·청소년 500만원 후원",
+      "source": "BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OdW1qcl9oa2RaNF81dGI4OENrMXh4NWdmZmZmS1drdXExVjFqVlJPLWtOam9wc1pFTUpsMGhXaUlwMzlhQXV2RVY1N2Qzb3FJdEFxQWxsakxoQkZTOGpGbzdNYkZodW5JNGtn?oc=5",
+      "publishedAt": "2026-10-19T22:34:36.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -361,23 +418,25 @@
           "ticker": "015760"
         }
       ],
-      "summary": "[2026 국감] 김동철 한전 사장 \"전기요금 인상 논의해야\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한국전력 충북본부, 굿네이버스와 '마음충전 프로젝트'…위기 아동·청소년 500만원 후원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
         "positiveTerms": [],
-        "negativeTerms": []
+        "negativeTerms": [
+          "우려"
+        ]
       }
     },
     {
-      "id": "6eb7ef7a2d280cbb",
-      "title": "전력수요 27GW 늘어나는데 한전 부채 210조원…전기요금 인상 불가피론 부상",
-      "source": "이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIU25Id3ZiR0hDU01hN0pnT3dRWjh5Y0o4S0pJeDJmVGlXajFDckNNVEJidXdTdm1jLUREZmhBaGVxNUE5WElyTF9aYnI3bTNYUHpYTVBnNmNURmJMRUdpZ3JqZTlvZw?oc=5",
-      "publishedAt": "2026-10-19T08:23:54.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "id": "6b2425b2470180e7",
+      "title": "210兆 빚더미 한전 “최소한의 전기요금 인상은 필요” - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMS1wSUlVYkRDMTREZVY3Q0VNaUd5aEVSaVFuSGxvRGZyYlZNeTJxSkZMM2Y0a2J5d0FSamZiV3NhSXliM1BPYlFPTld6dmstd2NoY1FPUzZFY1ZKWWRFUUdBXzlXUnBQYkVYdEJFQ2NmeWdSYUEyejFBTG84VDlVdlBMem7SAZgBQVVfeXFMTVI0N3hxNWVwb1lUZzJXX2J3X1RBMkhGeDlDX0dZZzZlYkw0b2hWRnhqYWtLZVRLTm9CTEFCUVNWMWFMTFZxaG45djFlNmUwSUZYWTgtX2tpNGdHNEhZWUZQN2tjeEJnTmtCX1FiWUpfa1dhbmc4RFdmVlRBZHFzWlBHcmlwaEFRQ283OW82OWdyVEg5YXR1OC0?oc=5",
+      "publishedAt": "2026-10-19T10:19:00.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -388,7 +447,7 @@
           "ticker": "015760"
         }
       ],
-      "summary": "전력수요 27GW 늘어나는데 한전 부채 210조원…전기요금 인상 불가피론 부상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "210兆 빚더미 한전 “최소한의 전기요금 인상은 필요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -404,7 +463,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1laVJuYmZEaVJ0Y0s3RmxDSWlSY0VPRDk1anNaUGpZQTlPYzRzVklnTlJfTXJXTWpSejJzYWIzMGtndXJTcEJzOW1xbWJydUlVNG9KOUpuS0JIWFo4Y1hsZzNxQUNvVTB5SklXQVp2S2_SAXBBVV95cUxNZWlSbmJmRGlSdGNLN0ZsQ0lpUmNFT0Q5NWpzWlBqWUE5T2M0c1ZJZ05SX01yV01qUnoyc2FiMzBrZ3VyU3BCczltcW1icnVJVTRvSjlKbktCSFhaOGNYbGczcUFDb1UweUpJV0Fadktv?oc=5",
       "publishedAt": "2026-10-19T07:52:51.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -426,12 +485,39 @@
       }
     },
     {
+      "id": "f59bb9d56fff9fd4",
+      "title": "한전 사장 \"전력망 건설비용, 국민이 부담해야…전기요금 인상 필요\" - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VYzVobldTbHJ2Q3FaWnNBUXVoRzF6T0c1SUpGX2pPazkyNlZuMUdJNE9pTzkzVWxaM3hlV2Y0dnpwdm45UTZfRlZPQzYxcURwS1Vid0RMZTlLcE5vODBHSXN6dS04OGp6NWIyTE5ra0XSAXBBVV95cUxNVWM1aG5XU2xydkNxWlpzQVF1aEcxek9HNUlKRl9qT2s5MjZWbjFHSTRPaU85M1VsWjN4ZVdmNHZ6cHZuOVE2X0ZWT0M2MXFEcEtVYndETGU5S3BObzgwR0lzenUtODhqejViMkxOa2tF?oc=5",
+      "publishedAt": "2026-10-19T07:24:10.000Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전 사장 \"전력망 건설비용, 국민이 부담해야…전기요금 인상 필요\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6824f91ffaeaf3b7",
       "title": "전력 공공기관 산재사고 1위 ‘위험의 외주화’... ‘다치는 곳’은 한전 MCS, ‘사망’은 한국전력 하청업체",
       "source": "영남경제",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XSmdIRDVhNVBJSkxlcWpjTE9tcHd6UG1KSzFUSXNKT3JxOERnc1ZhdndJM0JYRG1NeDN6RVFyM1VrbUU0M0RFU29wMGlMQ0d1MURldkRHMnNTekswX19vZzVqWDZDNlU?oc=5",
       "publishedAt": "2026-10-19T07:00:16.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -460,7 +546,7 @@
       "source": "미디어인천신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SWRnamF5c0JMb2ZoUUNvazEtR09wanc2YVMyaEFTY0JpNl9pRjJEaU5DR25KWXltX1FmZUR5Q1lVS3JyTU92Sl95VUx0dW8yME9xUjdBQ0RZcjV5N0EtR0dRdDA4RnkwUXdJ?oc=5",
       "publishedAt": "2026-10-19T07:00:00.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "collectedAt": "2026-10-23T08:06:36.640Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -472,87 +558,6 @@
         }
       ],
       "summary": "인천 서해구-한전, 도서지역 전력공급 업무협약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0dd27a40067637f0",
-      "title": "얘기 나누는 한전 사장과 전력거래소 이사장",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VzMyLWxCSVhtR0ZpYUhHVnFiNDNZZDJaU1l4QW5QVjhveVdsQXBfZzZXMW0zSEtOdmZ6aUgydExjamVmNnpZbDlRUnNFbi1Udk4wbkZ3d2VyUDhOcUN3c9IBYEFVX3lxTE55VzMyLWxCSVhtR0ZpYUhHVnFiNDNZZDJaU1l4QW5QVjhveVdsQXBfZzZXMW0zSEtOdmZ6aUgydExjamVmNnpZbDlRUnNFbi1Udk4wbkZ3d2VyUDhOcUN3cw?oc=5",
-      "publishedAt": "2026-10-19T04:26:57.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "얘기 나누는 한전 사장과 전력거래소 이사장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ee9f18eb85cbc043",
-      "title": "한국전력, 산지 인근 변전소 조경수목 정비...관련 법령 개정따라 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UG1LZjJVd2kxMFl3SUoydUl6RG1xTkhyaDhWajU5czBrZmZLRFhOclBsZFYyNm1XdllPTHlzQklVcVVCbkdncDh0Z2NPQXIwWnRSVjZYRVBRVDZZSFdxMkRSWDBVRUVMU1HSAW9BVV95cUxOaFZ4MjFUemRadFlyN2RJOTJ3LWxxN05qYUpGRDZYcTVibHJacXBQSE0tVnB0YmdqeHNTNktrNTQ5YjNYYXFlbzhfbnJkQzQtNHV1QWRzS0JUelN3NV9ZdWFibHZQeGp4VFdXSWd4SWM?oc=5",
-      "publishedAt": "2026-10-19T04:23:06.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력, 산지 인근 변전소 조경수목 정비...관련 법령 개정따라 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "40de86ab7b4f1223",
-      "title": "이야기 나누는 김동철 한전 사자과 김성진 한국전력거래소 이사장",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaTduZEhla052ZHJfalVrckQwaEJZZGQ1eTNuNWhZN3RTVTJVM0NHUzZObjlSdDFmWGxUNWNuaktvdFRMYnk4OURDMTRDUndBN0xtNGhVUXhlR0s3Y3hZRHRFLWltQQ?oc=5",
-      "publishedAt": "2026-10-19T04:09:48.000Z",
-      "collectedAt": "2026-10-23T01:06:52.305Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "이야기 나누는 김동철 한전 사자과 김성진 한국전력거래소 이사장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
