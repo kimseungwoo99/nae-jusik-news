@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:44:47.597Z",
+  "generatedAt": "2026-10-23T01:06:52.305Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "김태원 청년미래비서관, 재산 161억원…주식만 119억원",
     "카나나 종료한 카카오, 자체 AI 개발은 계속",
-    "카카오, 명의 도용 예방 돕는 '내 명의 보호' 기능 도입",
     "카카오, 'AI 눈' 비전 인코더 자체 개발…\"동급 모델 중 최고 성능\""
   ],
   "articles": [
+    {
+      "id": "1a5bc952a9b7af2c",
+      "title": "김태원 청년미래비서관, 재산 161억원…주식만 119억원",
+      "source": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QjJnMTdoUXgyRzJjbzluNFQ0X0xscU9zclFQMXdJQUpDN1puWVROTmljekpfeXQ4eTgwTzh4aGpkV3l2ZGpSVHNsb0VXM3I1YTZQWFMzX3MwSVE?oc=5",
+      "publishedAt": "2026-10-22T21:41:36.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "김태원 청년미래비서관, 재산 161억원…주식만 119억원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2c20b48c40f20796",
       "title": "카나나 종료한 카카오, 자체 AI 개발은 계속",
       "source": "아이티데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMXhmWUR3cmlBQUgtR3V0UW1MX2lKSmlvSnRtVXRVc2tqMEpuMHZSZDdNT292UXBYVExQQUdPRVNKejlnb0k1VGpCNmtxQUljTDg4aEk5OVBKT2QtZEp6dXdSa1lPc1ZD?oc=5",
       "publishedAt": "2026-10-22T02:08:35.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -42,39 +69,12 @@
       }
     },
     {
-      "id": "ed966567b93398d9",
-      "title": "카카오, 명의 도용 예방 돕는 '내 명의 보호' 기능 도입",
-      "source": "인포스탁데일리",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tUkp2eGwyZVJJUUZrMjY2TTNoSFNfVGYyaWlvU2pNdkZ5MGZPdDN6UmxhMFIzcEFhZm15dl9SVjdZdG9wX2NTYjg1YUp6dWJENllreXpWYTBQeUdOYnlzeHJSZTFfTTZxQlNCbTdnYllCVjhQZUE?oc=5",
-      "publishedAt": "2026-10-21T23:55:47.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 명의 도용 예방 돕는 '내 명의 보호' 기능 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3f632e1804d195b6",
       "title": "카카오, 'AI 눈' 비전 인코더 자체 개발…\"동급 모델 중 최고 성능\"",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oU0pHaEJNYV9ucVpWLUFjTmlEcXRzSXFjTTZJSnFpR21LNVZQcmpQT2owa0wxMEZEdk9yMWxYTWM0QkN0NzNueWxkMEdxcUpsd1lvWmpaZDRuanRJX1ZFUS1XcW4?oc=5",
       "publishedAt": "2026-10-21T10:56:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +101,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eDBxRV9LUTNWNDlIajd4enE5M0VudUkxbElBYWYtMmctMjFaWmZPTnRFNjd1QlpmSi1WSkdmVmxreTNvXzBDMFY3ekRrM3Q3Yzd0VXRqNXFVQlhmeTFpVXZXeGl5dGpKNHc?oc=5",
       "publishedAt": "2026-10-21T05:41:24.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -128,7 +128,7 @@
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FdmpDeUUxVHhwNldjMUVfd21pdS1wRkEwMmZLQnQwNlM0c2JBMC1mQ0xHaHd4NDJORko0UkhBNXREX2xOMDNRRnVMcw?oc=5",
       "publishedAt": "2026-10-21T03:37:46.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -155,7 +155,7 @@
       "source": "더 이코노미",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUHVYUzlwT0lqLXdUY25aT2tPbllZcmgyRnVLZHBWV25Cd2pqSVJmcEJJSzBCZG5DcUJxM0VTSGNlQWs3RGg5TGJlbUxlRTdjUG9uQ1BSbHJYYTEwVUhiMnpSZlk2YVd4UFBHcnU0Wnotek3SAXNBVV95cUxOLVB1WFM5cE9Jai13VGNuWk9rT25ZWXJoMkZ1S2RwVlduQndqaklSZnBCSUswQmRuQ3FCcTNFU0hjZUFrN0RoOUxiZW1MZUU3Y1BvbkNQUmxyWGExMFVIYjJ6UmZZNmFXeFBQR3J1NFp6LXpN?oc=5",
       "publishedAt": "2026-10-21T03:37:36.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -182,7 +182,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QemlYS3hwRVlaU0VraHRKbTY2NU1XZjZmQS1tLUdiTHYwRnZUdU5jaThMVUFzd3hTN0NLbU5vMkpWNkF4dnZROGo5S0RicXJlLTc1cmhnMzdGaVVFc1hrd0ZvSVdGdjQxeUJBeU5kd3h0SjBG0gF0QVVfeXFMTlB6aVhLeHBFWVpTRWtodEptNjY1TVdmNmZBLW0tR2JMdjBGdlR1TmNpOExVQXN3eFM3Q0ttTm8ySlY2QXh2dlE4ajlLRGJxcmUtNzVyaGczN0ZpVUVzWGt3Rm9JV0Z2NDF5QkF5TmR3eHRKMEY?oc=5",
       "publishedAt": "2026-10-21T01:41:36.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -209,7 +209,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05XzlJZEpTM3ZFTlhkc3hxUEtrVkhreElsSmV4UEVZenctZ0xNdk9JcWVqRjA0cUtjb29vT1pRRmdLRkx2bENYS3B2QTd4ZWJIRTdyYzc0bWo1c2pjdzd3eC1qZnhfZw?oc=5",
       "publishedAt": "2026-10-21T01:32:27.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -231,39 +231,12 @@
       }
     },
     {
-      "id": "95c12edfc4c2e760",
-      "title": "카카오, 자체 개발 AI 비전 인코더 2종 오픈소스 공개",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PYjFmamN4WXpLNHUwZzdNYzRHMlBBQW5vU0ROM3ZDYW9GU1hmQUZUU2ZmVzFPR3Z6ZmNzN1Zrc29EVm1VQk1ndGRtM3M3VndCbG5uRkRuWHBTUTgy?oc=5",
-      "publishedAt": "2026-10-21T00:58:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, 자체 개발 AI 비전 인코더 2종 오픈소스 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cc798c0dbb93a2ce",
       "title": "카카오, AI '눈' 비전 인코더 오픈소스로 푼다",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wMmx0Nnl1Y2hESDZMMDF5dHRJaFB2SE40M3puOWU2S3hsQmdIMXIyTGc3cDRRb1BucE1xV2pKcHlkUGJNOVRkNlowNmltdw?oc=5",
       "publishedAt": "2026-10-21T00:46:18.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -290,7 +263,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONU04RS1kY1NFQnpvdEEtM1ppVmhiN2I0Z25IWVNQZXVwUU9ZTmRRY0Z0bE9yWTNzZFlYNTA1MGFObzJOeW1leWJGZGl6cGRoa19ndDVyZUpZVVZ5Q0UzM9IBYEFVX3lxTE9ONU04RS1kY1NFQnpvdEEtM1ppVmhiN2I0Z25IWVNQZXVwUU9ZTmRRY0Z0bE9yWTNzZFlYNTA1MGFObzJOeW1leWJGZGl6cGRoa19ndDVyZUpZVVZ5Q0UzMw?oc=5",
       "publishedAt": "2026-10-21T00:34:41.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -317,7 +290,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMWDJ6MWotNXB0VmpjMldpcDQxUlJaRFJMbFlfVjBaYUZqU080SlJmc2JLT3lzeXVYdUZCNktHWDNRbmV4NldkemVhUzVIUl9XMmlNVDR6YkJ1NGtVLXVoVGtMcXRMS3p5X3QyT1U2eEtLdHNr?oc=5",
       "publishedAt": "2026-10-20T23:45:29.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -341,12 +314,39 @@
       }
     },
     {
+      "id": "53a94ed762ed44e6",
+      "title": "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05bVVJTVNWVTFmSmVSenEyRzJLQzk4UzlvWElDSnRqTlJ2bnhEcTBCR3NYX0wzTl90bzE3S1BfNm1XX0sxSzhtYXJ2UzljVlRBUlNWdGUzOExLZlI4U2JKTV9xNEEwajEzM19Wa2F30gFuQVVfeXFMTTltVUlNU1ZVMWZKZVJ6cTJHMktDOThTOW9YSUNKdGpOUnZueERxMEJHc1hfTDNOX3RvMTdLUF82bVdfSzFLOG1hcnZTOWNWVEFSU1Z0ZTM4TEtmUjhTYkpNX3E0QTBqMTMzX1ZrYXc?oc=5",
+      "publishedAt": "2026-10-20T23:43:26.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "865cedb1e2508577",
       "title": "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야” - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnJxajhzZUQ2MjJoeVFJZ1Nmcy03UEN4ZmNvSkplTzg0MlZkODktSERqMlhQamtJZzlWZm8yODd2c2lXZFVZQmxUWUhIYlc0ay02d0U1dFF5cUZEUWpHSGRzekRmV0pIbVlFX2lYQjM3czJSRUpXLUx6TEtJNjd5SVVLWFNKRDFwR1BOT3NLX1ZES3hBTlJWcEVLREzSAZwBQVVfeXFMUEpycWo4c2VENjIyaHlRSWdTZnMtN1BDeGZjb0pKZU84NDJWZDg5LUhEajJYUGprSWc5VmZvMjg3dnNpV2RVWUJsVFlISGJXNGstNndFNXRReXFGRFFqR0hkc3pEZldKSG1ZRV9pWEIzN3MyUkVKVy1MekxLSTY3eUlVS1hTSkQxcEdQTk9zS19WREt4QU5SVnBFS0RM?oc=5",
       "publishedAt": "2026-10-20T23:41:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -375,7 +375,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13bXowNVUwbnNOV0pWVWNuS0ZtdUd4NWRLYXFTR0dMbHdDNTRJRDJVSnF1NGh3cjRRamUzT29UY2Zua2NkZ1hteF80MmdWZ29kYTNRV3ZR?oc=5",
       "publishedAt": "2026-10-20T23:30:03.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -402,7 +402,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQcXBFeU5NSHFIVFpILXg1UlFvUW5FM21SQ0pFeW1acjhXZjU2TGxwWWZPWXY5SGVZVndzenlHbkFXTnZBSVpIeFdDWHR0dWxlMlljM1pZZXVZYUHSAWBBVV95cUxNQkJKZWFyaTlxenFScG84OTJFZW9jeWIyWm5ZWUtWUkZhQ0NfQk40TnNFVU9Hc09kc1lxZXF5Q0VHTW5YNTZ4UkU4R1dEbGNjajdZNHhYSERRckxpV2RWRzI?oc=5",
       "publishedAt": "2026-10-20T23:06:21.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -429,7 +429,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81c001OUFPaFNTMEFwR3FlUkN6eWhISUdWdVJsaTVQbTRNUERNeW4wQ1hLbGtWNlNudUpIb01nZXZsX2hNNDJBUkw4UkZTOHI2Qkh5ZU5rRE9hZw?oc=5",
       "publishedAt": "2026-10-20T22:45:25.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -456,7 +456,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5adzRhOTlGZk43dnFWZzlzZ2FSMktNWE9WWkFjSmJJZ29NZW43XzV5STd4bU0wLXVhQVpBek12Rl9TcUFKeVd6RlN4M0JxaEZlV2NLZEdIZ2FZV24yUXdJaQ?oc=5",
       "publishedAt": "2026-10-20T22:07:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -483,7 +483,7 @@
       "source": "카카오",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6a0JodWEtLS0zMS12ZWlhTUV1MTczOXBQeWFkVU9sLVF6dDRXMTJMWF95ZERSa0ZveTI1SXJPUnJKNHJTM2JNWmdYQUlvSWRBTUN5elN3?oc=5",
       "publishedAt": "2026-10-20T21:14:47.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -510,7 +510,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwc1dIdnNNbkZDUXhST1pURUZDZVM3TWNCZ21kRkpWbVhfMERQY3pQdUMwQVFyc01yMVVMd3ppYXpVYmJtZ3BNcjY3a29tTjdobE9mOVZxV3J0UkdVajJRWWg2eGFVS2FO?oc=5",
       "publishedAt": "2026-10-20T08:20:06.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -537,7 +537,7 @@
       "source": "Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGRYcC1KNzNRRmNEdU1zOFlTcDRvZDg0dVZVY1JfVmphVmM0SUpLR1RvdmlpbkpMN1E3S3dWMWVONEttV0IyRUN5RmI5Ui1xY0hYUE5DYkRQb1ptSGZiVFZkODVwYTdKMjgzeDVJamY3WGROMEtnYVNJNVE0OUdodTZoeE13a0lUcFZtQk5RZG9ub05HcEhpTWhBaXVwbkl0Ql9WOVRCeHlSZWVCQURMc3l3dFktZEpUTUQ5VUtBZw?oc=5",
       "publishedAt": "2026-10-20T07:47:40.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",

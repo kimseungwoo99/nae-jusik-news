@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:44:47.597Z",
+  "generatedAt": "2026-10-23T01:06:52.305Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "셀트리온",
     "ticker": "068270"
   },
-  "dailyBrief": "오늘은 수급 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[속보]\"시간 없어, 빨리 타\" 셀트리온 주가 급등에 난리난 '이재용 밈'",
-    "셀트리온家 승계구도에 무슨일이?",
-    "셀트리온, 분기 영업이익 5000억 돌파 \"동력은?\""
+    "신약 개발 뛰어든 바이오시밀러 강자들…본업 성장에 성패 달렸다",
+    "셀트리온, 바이오시밀러 3대 시장 선점…목표가 상향 [SK증권]",
+    "[단독] “간에 진짜 좋다더니”…셀트리온제약 ‘가네진’ 일부 제품 자진 회수 - 조선비즈"
   ],
   "articles": [
     {
-      "id": "8b90508203ed59b0",
-      "title": "[속보]\"시간 없어, 빨리 타\" 셀트리온 주가 급등에 난리난 '이재용 밈'",
-      "source": "씽크풀 AI",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zQWxKRXk2X3hLM1JMZUdLSUFyR3EyNFV3ckFwUFhKTkoxQkE3dm9LeTVtRWtTaWg0SUVmSFJNek1JN0xabW1BVnNXdkwwVUNLR0RJckFNZ3BHbkNDLW1iRzNiZF93SFFh?oc=5",
-      "publishedAt": "2026-10-22T09:02:08.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "id": "bfc83028736e2f4f",
+      "title": "신약 개발 뛰어든 바이오시밀러 강자들…본업 성장에 성패 달렸다",
+      "source": "매경헬스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGV0VUbHVveUt6OUdLYWxwdlYyTThXTGo5bTlVT0dDNm5jWDlLVVNIVTRINHpOcWdDYlRib3BHUnRlY2N2T2tfdGQyU1lGQnd3Nmhja3g4VmdFamJQTFJOeUZ4dHJvdHNuSllLTQ?oc=5",
+      "publishedAt": "2026-10-23T01:00:00.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -31,15 +31,67 @@
           "ticker": "068270"
         }
       ],
-      "summary": "[속보]\"시간 없어, 빨리 타\" 셀트리온 주가 급등에 난리난 '이재용 밈' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
+      "summary": "신약 개발 뛰어든 바이오시밀러 강자들…본업 성장에 성패 달렸다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "급등"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "928c97ab701fa796",
+      "title": "셀트리온, 바이오시밀러 3대 시장 선점…목표가 상향 [SK증권]",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BbHdjVEFRUjc0NGtQOFdJWVNZb0lhMHgzNktBdnFEUjNPTlRHOGF0US15U1VqeU50dUoyeWpwcU5xejZ1U21qUS1kb25fRzFpRWVHRWJSelJHdEU?oc=5",
+      "publishedAt": "2026-10-23T00:39:59.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "셀트리온, 바이오시밀러 3대 시장 선점…목표가 상향 [SK증권] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "810367e5d38e15c0",
+      "title": "[단독] “간에 진짜 좋다더니”…셀트리온제약 ‘가네진’ 일부 제품 자진 회수 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGtHdjdxM2g2d0taM09kNkVZZ3R2amw1THNSVnJNaHpKRFl1S3labHVkOG5FTC1hNkxFOS1QZEsyemJZTlN1WXJCNFlOVnJIZWduSURrZnlOY2dvdlJRaEZaalNiUVlISXZjaHMtZll0Szc4Q0I2bklzMllHdHk1N3R1Rk9hXzTSAZsBQVVfeXFMTVdpVEhrTkFyNXU1V2xHSUJobmFjRnYwbEFQejItXzJVaC0tUWtjaXJkcHpOWThlUWlWNl9pNGVVQW13R1llQk5HelhSdU5vU0tBMVNFeEJoSUNOdDhUd0FoRWgwaWh0VUNNX2Z4OUlGN042ZGY4NlVwOU9rdGZZOXFpRnplVTF6bmxFMzlYN01BSDFGVElFYWotWmM?oc=5",
+      "publishedAt": "2026-10-22T21:04:42.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "[단독] “간에 진짜 좋다더니”…셀트리온제약 ‘가네진’ 일부 제품 자진 회수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -49,7 +101,7 @@
       "source": "씽크풀 AI",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DdmlleEhOTXBOZkEtbTNLWTNkMlRlQVpMQzVWYmhkZjZaOVhxZzdfYkg2YjAwcDNCOFpaZzBpUy1UV0xsdE95OTNnODZJOUxvUzdYNWlwdGJtWWdmb2tkVlFCbE9qWnJf?oc=5",
       "publishedAt": "2026-10-22T06:34:25.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -71,41 +123,12 @@
       }
     },
     {
-      "id": "bfe0fef8a4b4dfc9",
-      "title": "셀트리온, 분기 영업이익 5000억 돌파 \"동력은?\"",
-      "source": "바이오스펙테이터",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERlBPYUc1TFVqNUdkV2tnaDUzb0ktckN5NG1HbkZmMkdyMUp2RFlMT0lRUkpsU0ZCYnhnUHdRTlhfSlRaa09XbExRTzRqZ0x6RTd0WXhEZw?oc=5",
-      "publishedAt": "2026-10-22T05:00:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온, 분기 영업이익 5000억 돌파 \"동력은?\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f8d046f81234fe92",
       "title": "셀트리온, 자가면역 신약 후보물질 도입···최대 7700억원 규모",
       "source": "메디칼업저버",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zby1EM3dzVFJIYm1LYlF0N25yTzBoTHNJMmE1aHFIRlkyTTRYY2dDcTJndG5BckFkWjlfQ0NBeGdOUDBhSDNrWWl3d1NuaWNzanhEUlI0dXVqMFdXQ2tfRUtEdDFTNTNLUFpB?oc=5",
       "publishedAt": "2026-10-22T04:48:51.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -132,7 +155,7 @@
       "source": "바이오스펙테이터",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CSjVDdnEySmNERVV1QUs0U2Y4VVBZVU5OUUl5ZjlzSEhnaVpRUjVvTkFEd2U4NTV4R05PaGhRVGt4QWJqbEN0YXdpQ01HN0UxYWJ2eHBWTQ?oc=5",
       "publishedAt": "2026-10-22T03:24:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -154,12 +177,39 @@
       }
     },
     {
+      "id": "67f22a1261a96093",
+      "title": "셀트리온, 美 카이진 '면역질환 신약' 도입…최대 7695억원 규모",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tY1RwMzdnTTM3cURMdXBDOERNYTR2RUgyb3VfLTFvNV93MWkwZXZhQmdHOHdlbGZPVWs1TWFxYlREekRVa1JwNUtIMmRmQQ?oc=5",
+      "publishedAt": "2026-10-22T03:01:54.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "셀트리온, 美 카이진 '면역질환 신약' 도입…최대 7695억원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "2d5497dca449e828",
       "title": "셀트리온, 카이진 면역질환 신약 후보물질 추가 도입",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMGoxbHhYQ3JEejZGblNQZzlRNlVMVHhvMFhmeExKa1d5ZXprZW5zSGdFSVZxTEhNYzgwZGJNWEc1WldhYmZrSl8yUUhOYkJ2cUhTYUxNVDlxbWRfMXdPdNIBYEFVX3lxTFAzMGoxbHhYQ3JEejZGblNQZzlRNlVMVHhvMFhmeExKa1d5ZXprZW5zSGdFSVZxTEhNYzgwZGJNWEc1WldhYmZrSl8yUUhOYkJ2cUhTYUxNVDlxbWRfMXdPdA?oc=5",
       "publishedAt": "2026-10-22T02:45:55.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -186,7 +236,7 @@
       "source": "팜이데일리",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tV0pSSE1BN1hfc29hVTR5TlZfZnNYVENnbnEwMXhhck1EY0sySDNuLVJ6UWNtWmJtbFZnc0RLUjFENEU0Rzg5blI3cURRUGxzeVR4QVRIX2dzSlkzbmc3eHhLUkdGWVNHR1ZlQTl3?oc=5",
       "publishedAt": "2026-10-22T02:38:23.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -213,7 +263,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50V0tZRzJDWWtIb2xrX2JuRHpYRFZ0ei1IN2JMX3d5OHRoWk51dy1YYTA1bDBma3gzVmo0Z0c3b3ZRaldoc2dnMTJBYjNURDBYeHpRTXRkYmhqMUnSAWBBVV95cUxQYTdxdmMyVi1zX2pkOXZtYk5lRzFfOHB2Vi1FdGp1VUQxX0daNUQtYkctOHJyQ3pOUjFycFR2VHV5QS1WQTVXRlpRWWtJaHBYSnlXVXN3a2lldlBOdFp3TGM?oc=5",
       "publishedAt": "2026-10-22T00:29:30.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -240,7 +290,7 @@
       "source": "스마트비즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EM3ZITEdPVzJjVXBNN1AtYjAwRWxNc2xPazhEVjdkN3c1TzRxUm4xRkJBRHdUSVpXTUZsS3ZVckg0SVMyNnNELTVaWGlNb1VNSkRlNjM1OEFVbDRrRW1RbzVQckQ4N3ktdmludg?oc=5",
       "publishedAt": "2026-10-21T06:28:35.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -262,66 +312,12 @@
       }
     },
     {
-      "id": "6975ab9a9225293b",
-      "title": "셀트리온, 유럽 약국 유통망 확보…바이오시밀러 시장 공략",
-      "source": "폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96WDRDWTVWOXNFbE5PWHItRDR6YWNaZlM0STRjdmhqd3hRVExHQm1DMEpwNElVYmFlRF9hcDdubUlobXo2T0ZHN0Z6MW9OZWRmaU1RMlpvekhqcHctaTktNHBXdF9EU2dXVXBFUENB?oc=5",
-      "publishedAt": "2026-10-21T05:33:58.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온, 유럽 약국 유통망 확보…바이오시밀러 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eb0b8224f7402c91",
-      "title": "셀트리온, 유럽 사업 전략 다변화로 입지 강화",
-      "source": "의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YNDR1R0lPclJEd0czM2N3X3B6bGMtNndSWDYySm1PYnJ1VmJSeU9lM05RRzc3aWZhenA2RFBwQ2dGSWNjT0lBUlNFQVhzTXFudmxWUGwtcW1PdGtpOS1vX2czWGpraGxsQmc?oc=5",
-      "publishedAt": "2026-10-21T02:34:36.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온, 유럽 사업 전략 다변화로 입지 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a6dc30ba1b937bfd",
       "title": "셀트리온, 유럽 사업 확대 속도",
       "source": "e-의료정보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zanh3d3dLUHpnX1FMc2t5Z1JsRXhKTV9HTjFFaVBjREpDMUE1b1VHdDRQcXZkaHIySmkwbVI4Y3FKRG16cDc4U2I2MHIxdVdGVGczdWdMRmNQNGdKQVBDZ1BtNU05MG92VlI00gFvQVVfeXFMTmFzRmt1SExLY1JuSVA3WXhsUWs0M2MyYThwYnU0NjgyVXZfMS03Tk5zOEFJbEYwTFJSVUZXd093Z2J4UWRfV2xtZTdTTmdGcU1GbHh3UlFld3NJOEZpbzlGMVJfNU1aYjR4WFJBNlFj?oc=5",
       "publishedAt": "2026-10-21T02:26:31.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -343,12 +339,41 @@
       }
     },
     {
+      "id": "371812da32ce437a",
+      "title": "셀트리온, '역대 최대' 분기 실적 달성...유럽 실적 순항",
+      "source": "팜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdE04WThhb295OWR0aFVjZzVXU1RKRHNoN1RaV0FzdElCNmg3ajRYdGpVeEVsMWpha0VibHFDazRNN3BVTnNhUXpOdW95M0hjR3JuRDZtS3A2TmlZZnhrcEFXdjZyYXhBZlZhLQ?oc=5",
+      "publishedAt": "2026-10-21T02:20:56.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "셀트리온, '역대 최대' 분기 실적 달성...유럽 실적 순항 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8e7d508f88657d78",
       "title": "셀트리온, 유럽 유통망 확대·제품 다변화 가속도…4Q 성장 잇는다",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZ1VSYnN0bUFWaUxyUGhIV1JMeWVqTkVkWDc3YW1feHZHbE55eXYzT0dkMW5mMXUzaUduVmJodkxfRDk2YWo0WWhnVzFIdw?oc=5",
       "publishedAt": "2026-10-21T01:12:55.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -375,7 +400,7 @@
       "source": "메디파나뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00TmhUcmZtTkQzWVBjWGVqeUhFWmgzSmRPM0Nfejl0N21HM21tdjNCUGpranFUWVZNUUQwSXkxZ2I1aHhXcEtZYnRKWW9YVVZ0QzcwNWpnUE5KQTZBbHJpUG9yaHo3Z2NQdkYw?oc=5",
       "publishedAt": "2026-10-21T00:50:52.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -402,7 +427,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tWU1LOWp1SXNhMDdxTEYtQUxRd0VLY3NvaHZJc0NaY1lIOEMyMTYtZVhCTk9Bc2c5eExHeW5JeGdXZ1pqc3pKbXhBWDhQYkkyTEZ0aWFqWmdOUQ?oc=5",
       "publishedAt": "2026-10-21T00:37:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -424,39 +449,12 @@
       }
     },
     {
-      "id": "d1ed02032a6b4e31",
-      "title": "셀트리온, 美 카이진 자가면역질환 신약 후보물질 'KG013' 도입",
-      "source": "히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcGlRc1RlUjM1VkRqNDE4bmg1blh2OVlkR2hnU2lJSnViUGpiNnBwQ1Z4b2xPY0VXd21iNW1ib19mSGZqSVpFTk5zSmUtczdzSGxzS1JaVnowc0JNNHQtY3ZFNDlzMWdPRzZv?oc=5",
-      "publishedAt": "2026-10-20T07:00:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온, 美 카이진 자가면역질환 신약 후보물질 'KG013' 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "012bc0fd991c4ebe",
       "title": "셀트리온, 日·亞·중남미서 '바이오시밀러 제품군' 확대",
       "source": "바이오스펙테이터",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJLTRyc2FYX2ZXNll1QXVrRmEyeVN2OW1tV2Frem5oZVdVZU9WNTktblVXeTZfTXI4MWdQRTNscHBjeG1CVmd1QS1NWnVDQmtBV1VobFdLVQ?oc=5",
       "publishedAt": "2026-10-20T05:54:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -483,7 +481,7 @@
       "source": "뉴뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lUVV4UkJodmdWZERKY0tzcEhqdGFIeTFmRnhkcGtaT0h5VTVHTDQwaHdoZFdlUWpWTnA3YTktMUFHdmVRZkcxOHYwWm42OHdYelZnTl94U0xyWmEzUll2eFhvcG9SUQ?oc=5",
       "publishedAt": "2026-10-20T03:36:45.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -510,7 +508,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWmtlaTZTTlRPek1XTjJfWExvSy1QcmpCWXI1VzNXcTRPZmZ5N2Q1d2JKTkZCc2dHWkF5NmQxR1ZyZXpic2hxM3ZIb2lqVTZ6V09jb2RXYmFRVkh5RG5GQQ?oc=5",
       "publishedAt": "2026-10-20T02:09:55.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -537,7 +535,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RcUd2dWl4Y0UzS1o2dDNXdU1GekxxSDNSTUdlVDJhOWt4YkZPVGdXd3pIWXkwOUVPQnZxTmJyRmtKWXA4cUNSTVhJd1ZZc29pNjBVeXZpM1JmMXg3cmVydlpRWDNLalFoWkFXZVdJVTk?oc=5",
       "publishedAt": "2026-10-20T01:59:05.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",

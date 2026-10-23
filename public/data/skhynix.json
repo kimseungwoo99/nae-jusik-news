@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:44:47.597Z",
+  "generatedAt": "2026-10-23T01:06:52.305Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "SK하이닉스",
     "ticker": "000660"
   },
-  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SK하이닉스, '반도체의 날' 5관왕…HBM·D램·낸드 기술력 인정",
-    "삼성E＆A 15% 급등… 삼성전자·SK하이닉스는 동반 약세",
-    "AI 반도체 주도권 쥔 HBM 양산 기술…SK하이닉스 권재순 부사장 동탑훈장"
+    "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+    "\"SK하닉 주주에 큰 선물 나오나\"…자사주 매입 끝, 반등은 언제쯤? - 머니투데이",
+    "[반도체 머니맵] 엔비디아가 SK하이닉스 HBM 사면 누가 돈 벌까"
   ],
   "articles": [
+    {
+      "id": "0a2a62a71c47ae59",
+      "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HejhZSGo1b1Rya2NkNVZ6ZDJieWpKeXJSZ1UwektCTDd6bkotSk5BeUpXRkFlc1NfV0VlTHYwQm54RXhuNzNtZTRLUWFfeFBhM0lOY3FKcDJDZw?oc=5",
+      "publishedAt": "2026-10-22T18:00:02.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "fde6d8f865eb732b",
+      "title": "\"SK하닉 주주에 큰 선물 나오나\"…자사주 매입 끝, 반등은 언제쯤? - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95OUVDN1RfWVRDcmN5UUhrV0J2bDNham9YZFRTRnRBTmtFczFkZTQtc09BWTFfWnh6WnNRWmhNOFVhcUVFWjViQWhxNkhVcTk4LTF1RHlSQjMyNk0wRmNzOWFkNzU0UHJf0gFuQVVfeXFMUDRTVF9ybmFmNENsMDFzU0tPY0M2MXJKTzRCaTloQzZJSWpNSGtQbGkxNW1tWVp0emZOYXhXMXRJRW1Oa2Z3MmNlSEkycFRvRzRoU1VQd0dPelRld1dmd0F6aDhqRU94NDVXWjBYdlE?oc=5",
+      "publishedAt": "2026-10-22T07:49:37.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "\"SK하닉 주주에 큰 선물 나오나\"…자사주 매입 끝, 반등은 언제쯤? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f31ebf602b798ea4",
+      "title": "[반도체 머니맵] 엔비디아가 SK하이닉스 HBM 사면 누가 돈 벌까",
+      "source": "www.ppss.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBa2k0U2w5Ry1XczB4WjByc0k4R3VkRVF5bjFIZWlJVVhUVkZCN2NBZ2t3RnJWMGMzSThWQ3VoelBPSnpuSFItUVk2cWMzLTZORmx0MGZka01LcFl3NmdBdVhDTUk?oc=5",
+      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[반도체 머니맵] 엔비디아가 SK하이닉스 HBM 사면 누가 돈 벌까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "6ff54ae10a60ae22",
       "title": "SK하이닉스, '반도체의 날' 5관왕…HBM·D램·낸드 기술력 인정",
       "source": "비즈니스플러스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iTkdmSHhzNGRZY3NQSTZROWsyWlRySzhwLXNMcGgycV9BTDM2dUVRTmx3OU40VlhEVDlCN2xMdWhsXzQxTW5HdFZQSDlQVFBMTkhmTUNFVHBMVWFTSjU5N2VFRWdUZVgzZGp6M3dVNA?oc=5",
       "publishedAt": "2026-10-22T04:59:52.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -47,7 +130,7 @@
       "source": "서울신문",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZjdmTlR4N0hidDR0RkRrZkF2MWxCN0d0U3RJdU9OTUZtbTlZMjVkbmxVWDhHTVI2UThHdVJnbXBDR1czamJKSnN1RzQwZHpoRkhpRWVXUC1RbTYwM3BXMEFlR1kyQnFNWURCdk02R2ZQeThCWElqd3ZvcEhxQQ?oc=5",
       "publishedAt": "2026-10-22T04:24:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -83,7 +166,7 @@
       "source": "비즈체크",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1c3RseTdyZmlTOFUzV0NwU0U4VjFING1BQmY3elcwSURweHlOUEc3VDRBU3d4OHBXLV9PakZEUFlKT0pURFk4bGt3U1ZWS0RrOFFMQXpDVkNNc3d4Y2FvS1liYW9qdnpqbU8wa1JBYw?oc=5",
       "publishedAt": "2026-10-22T03:12:46.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -105,12 +188,12 @@
       }
     },
     {
-      "id": "4a57ad6f7375c453",
-      "title": "기술 혁신으로 쌓아 올린 금자탑… SK하이닉스, ‘제19회 반도체의 날’서 5관왕 영예",
-      "source": "SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbmgyTzFVZ1VQdGxxYVF1UVdCbTlGSEpuN21xWWlQc3JwZDVYWjk3YVRoX2FWazluVVdxaHVsSmkxR05DeGFBY2ZHX0tDR3I0MHYtZW52azBjNFBQTkc4?oc=5",
-      "publishedAt": "2026-10-22T02:00:03.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "id": "34917dfea7be0cbb",
+      "title": "SK하이닉스, 40조원 자사주 매입 조기 완료…28일 추가 주주환원 주목 By EBN",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFclU1THJLcklVVDdIalZiQTY4Q1JWdG1Iem8zLW1Bb19CejJiUDd2VE1VMHpQMlRyTHJUVW9EcjluQnNjYnhzMXN4RlJ1Qk5FY2FYMFNmT0NndllyRmdRbVdRZlJFNGw3TW1RYTFMREM?oc=5",
+      "publishedAt": "2026-10-21T22:31:00.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -121,8 +204,8 @@
           "ticker": "000660"
         }
       ],
-      "summary": "기술 혁신으로 쌓아 올린 금자탑… SK하이닉스, ‘제19회 반도체의 날’서 5관왕 영예 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
+      "summary": "SK하이닉스, 40조원 자사주 매입 조기 완료…28일 추가 주주환원 주목 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -137,7 +220,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc3ptVV9jWXd1Zng5MzNPeVdNaXpuaGFiTk0wRHA2dVd0YTlkcVQ4d3Y3VXdjMUQ4ejBldzdSQ21hdFhvems3T1paRmdUS1B4MTQ0WXRCQzBGZXp6dEUyUDMtOXNkWWNIeDlRZHVpWFNHSFVxMFR6XzlmcVQzQW1XR0NSQQ?oc=5",
       "publishedAt": "2026-10-21T15:53:20.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -164,7 +247,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OV09uTTRXLUVDbTNXTlVXam5acHplNHB1UDhjLUdFMm9DbG9Xa3BDT3ZPa0JKN2tJMmhGM2VBVElpOVhaMEpMajFlUUdfR1VDUTVpT2hwOHJoZw?oc=5",
       "publishedAt": "2026-10-21T13:00:01.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -193,7 +276,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UdWhmVDZtbm5NbXJQN3IzR1VSLUR5OWZxYXY4S2JDOE9Zc2U3SEkzejRVd3dYeTlUei1idTdfeGZkT0RVeXZWc3JWYk9fLTB2YWc?oc=5",
       "publishedAt": "2026-10-21T08:50:56.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -220,7 +303,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1hmT2o3bGZTTWQ1TXIzN1U4bk1uV2xxVjNBRUROclAzeER3TGdzVUx5aUpqTzRSZ0FwOFZxT2pSX1BUeC13b1NWRnY0WXgz?oc=5",
       "publishedAt": "2026-10-21T08:45:51.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -247,7 +330,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWVl5X1J4VmlmRjdfZVlJazZtbmU4U3ZFWkdIZEVXY3pNMG11WU5qMlB5TUpZc0h1NmFHUmVhQUR6ajI0c3NQSnE0OVRFQQ?oc=5",
       "publishedAt": "2026-10-21T07:30:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -269,12 +352,39 @@
       }
     },
     {
+      "id": "8335f1ce0c68fe90",
+      "title": "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램",
+      "source": "서울이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UzhNS3BJcHNkcGk1NHR5b2gtMk1Vb1A1MzFlRENqdm9TVWpLbWhNUUR5NFM1MnJ6bzhId2ViMHk1NEVoUUl2bVM5NV9YMERBdWZadlVGblVublRIU0VKWEdYdVFBSjZNMUhqNUtB?oc=5",
+      "publishedAt": "2026-10-21T06:19:18.000Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9d55ee97a31c8680",
       "title": "HBM 공급 부족에 엔비디아·인텔 대응 총력…삼성·하이닉스 득실은",
       "source": "매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qdFNaU0hScm1ORnFlMDRGdU1OY0RTM2pJZU5ZQUNYSFhySWlscG5SM01QTDdCbE96V2Z0bTN5T2c1U2J2eTBfYnl2TkRRd0hkbWpELVZBQy11UVhFaE1kdDd3?oc=5",
       "publishedAt": "2026-10-21T04:53:19.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -301,7 +411,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWcHZfMFRmYW84X1JrY2MzQU5FbGF1Y1RhZU5INEhLb1FYV0x5b21Kd1J1RGFVZnRzU1pudUNVX3RWeGM5ZmhIeldpRkFRY0VQS0JLdERnVEtzWEdtZVNjR9IBYEFVX3lxTFBWcHZfMFRmYW84X1JrY2MzQU5FbGF1Y1RhZU5INEhLb1FYV0x5b21Kd1J1RGFVZnRzU1pudUNVX3RWeGM5ZmhIeldpRkFRY0VQS0JLdERnVEtzWEdtZVNjRw?oc=5",
       "publishedAt": "2026-10-21T04:32:07.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -323,12 +433,12 @@
       }
     },
     {
-      "id": "ec0250f040a24e3a",
+      "id": "6002a3f43e2060d6",
       "title": "SK하이닉스 \"에이전트 AI 시대 HBM만으론 한계\"…HBF·CXL 해법 제시",
       "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UQXYxeGNVazZ5MjczUWRQU0hvYjk4VHd5WkZxdUI3N0RfQi1NVjhmbFlrSlV4Rk10QkVyNDhsTXRtMU1nV1EzbEM1Qm9IaEdXMDlkbHhVZUV1QkQyblZQMTFwQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PdlpwWk0wWmFaSEZRRk1SLXhHQk9WUDZOVkpYVUFJN3JUS0s4MXpxM0RaTGdnUnVWWUJFVEVETnFkWkNqQUxqZVJKZWZKdHVXYW45THRPQnJXbmpYQlE?oc=5",
       "publishedAt": "2026-10-21T04:18:25.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -355,7 +465,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTWNnOU1Lc0Q2eEFqcGtYeUJITWRxNXpRVlhuZE5DXzhnV01oN1Iza3J0TFg2czV3ODJXUTVtdDNyY01paERDRUd4ak1yMmVxUkQtUVFKTE5jT29hUGdTQ0VUMXY3Wm1ZbTlSQmhOOXo?oc=5",
       "publishedAt": "2026-10-20T23:44:39.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -387,7 +497,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0hPTEJpM0dvMDIzRmZNNHhpWHl6dURVMGhTRnBCQXk1V3N0ZGp5N0d1UUhyNnM0RjAwVVNCd2wwV3N2OWpWempCZUs3LWxySkcyQ1dxaGRYbGlGY3g1VlN6Nm9Va0JlRXBOLW5qek04VkJqVmlIODVNU044TENkYlZR0gGWAUFVX3lxTFBheEtOY3RZczZQQVhIZUttSzRSckVNVE5Uck5SMDF3cmJGdUdraHVzSEg2dm8xX0F1bTB5MEJ3NnRNRTBmOEJWYXpiR3NoRG9qYjY1S2tMNHFxcFdfUlhaZ0lfNWpoYWFZT2E3UnRTb0E3NEt3UzExelNnZEJyWDA3QS1KdDF2MnZPcG1iWEc2MTdiOXlidw?oc=5",
       "publishedAt": "2026-10-20T21:07:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -414,7 +524,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnbWNFd0NNMlM2OUZaUTRPTWFyT0h5VmRMYzJpb19iRmpmRDdNR2ppNWxWZ1puVHNuc1JQMlFfX09JbkxFTEk3NmVkMGt5U1lkNFZGQXFWazdHQXpEQjhnbVJxazNaWll5OGRxSG56Z1Q3UdIBdkFVX3lxTE51Z3hZOE9BTjVHRFE2VHVpOHd4RndldGV1UlU4NHZWa3N6S29ncUwwQUkzdDdqeGhTR2JqanZib3JON1hhSHBUSDRjYVR0QVBFcDhrVGpEZHhEUUN0UkpBOFhTWmx5ME53UG9UckNmUXZXcjQ3SHc?oc=5",
       "publishedAt": "2026-10-20T06:22:29.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -443,7 +553,7 @@
       "source": "초이스스탁US",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wR25wTFVLSi1JbjJ2cHdkQWktMVZZc0RNQlk1ZDdzTDMzbktYTlFPcHA0RVhNTGRuVHpFR2Z1LTdhTEt1VFI2SXB5R1U2MjJqWExLOFc2T1czTHNpZE9MU0R3?oc=5",
       "publishedAt": "2026-10-20T04:12:34.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
+      "collectedAt": "2026-10-23T01:06:52.305Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -456,120 +566,6 @@
       ],
       "summary": "SK하이닉스·마이크론, HBM 호황에 실적 질주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "39bda2f20dddc2d8",
-      "title": "美 반도체 반등에도 SK하이닉스ㆍ스퀘어 급락…솔리다임 변수에 투심 급랭",
-      "source": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHdGaU9VVTVudFc1aVkya1VITU8zY1hMSGlncFd4MjNRbDYwM2trZ25KcmVjWS14YlN5R2p2UGhWVlFLQWM4RnlpeWN3T25rZDhHUTdpZnVxOHNhSzJ0a3hjLVZFUEt1aWN6cWhZSlRmS21IbjlUSHJya21EQVZjWUtWQQ?oc=5",
-      "publishedAt": "2026-10-20T01:53:00.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "美 반도체 반등에도 SK하이닉스ㆍ스퀘어 급락…솔리다임 변수에 투심 급랭 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.18,
-        "confidence": 0.94,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
-      "id": "e232569f8de4d379",
-      "title": "“범용 D램부터 HBM까지 다 오른다”…‘AI 거품론’ 우려 속, 메모리 반도체 가격 ‘껑충’",
-      "source": "CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Db05kODZ5el9mcUNSRDdvajRydlpLVFhjRnJvTFAyNGhHS2NGQ04wTEVqYmkzSjlWSmpMemE1VjNlTzk0UkZvelByckMzZXpqMGNVc2pvUUJnQV95a2xmeG85X21TOHJI?oc=5",
-      "publishedAt": "2026-10-19T08:36:29.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "“범용 D램부터 HBM까지 다 오른다”…‘AI 거품론’ 우려 속, 메모리 반도체 가격 ‘껑충’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.3,
-        "confidence": 0.63,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "우려"
-        ]
-      }
-    },
-    {
-      "id": "71e591612462fa5a",
-      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
-      "publishedAt": "2026-10-19T07:36:53.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "126f2c80d38626a5",
-      "title": "SK하이닉스, 2조 원 규모 ‘수출공급망 강화보증’ 출범… 정부 · 무보 · 시중은행 손잡아",
-      "source": "SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91M1dBZTVHV25nTFZpVWZDVWJ6WUl6TWtHb0dqRlNyMlVHYy12QUNKQ1loOXRQQzhoRHJxbTRwQ2xRWjZtLXk4TUs2NEhqVDZ4dkJlejJwZGo0QkhsbFY2UHJTV0VPNzVR?oc=5",
-      "publishedAt": "2026-10-19T06:00:24.000Z",
-      "collectedAt": "2026-10-22T15:44:47.597Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, 2조 원 규모 ‘수출공급망 강화보증’ 출범… 정부 · 무보 · 시중은행 손잡아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
