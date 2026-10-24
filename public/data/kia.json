@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:32:49.038Z",
+  "generatedAt": "2026-10-24T01:15:48.409Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "기아 멕시코 “관세 비용 흡수”…판매 신기록 전망",
     "기아자동차 인천지역본부, 영종지역 이웃 위해 쌀 500kg 후원",
-    "기아차동차 광주지회, 전남공고에 장학금 2천만원 기탁",
     "인천 영종종합사회복지관, 기아 임직원 '천원의 행복' 나눔으로 마련한 쌀 50포대 전달받아"
   ],
   "articles": [
+    {
+      "id": "d7823bbd7ec37ecc",
+      "title": "기아 멕시코 “관세 비용 흡수”…판매 신기록 전망",
+      "source": "초이스스탁",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2eUFpTWRVX2hJeWx4Q3dpMmJKQWJ2d2VUVlI0OXQ4UzJBZXpTWHFDaXZFSlQ1a19tSGludWE3QmtnMnQ3MW9Ld1R4XzBWZGhlRXhHOTExTG9LNlIyaFc0TnFhQnp5SUU?oc=5",
+      "publishedAt": "2026-10-23T21:58:59.000Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아 멕시코 “관세 비용 흡수”…판매 신기록 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ca3a19709f29fcbd",
       "title": "기아자동차 인천지역본부, 영종지역 이웃 위해 쌀 500kg 후원",
       "source": "세정포커스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVZjJ5MG1kaHVMQlYxeU1ZUWtqWFlMZjloVWliaFlCMldtOHZkN0hXZXE4Mlo2S1l2RFVsdV9OcWp1WG51UXh3OU1rM0JGdFljUmVUYWVNNFF2Y1hYNUxlLUFpVWRrcFhLeFZxS0NR?oc=5",
       "publishedAt": "2026-10-23T06:00:35.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,39 +69,12 @@
       }
     },
     {
-      "id": "b9f09b8881cedaf4",
-      "title": "기아차동차 광주지회, 전남공고에 장학금 2천만원 기탁",
-      "source": "호남교육신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcVFiRzRydU5iSXRLWFBvMF9jU3RkVm5IVTBmMlNHY3V0SXVreV9BT2QyRDQ3WENGMGM4V241anBxWEtGcjRBTUpqbGxheGZNSnV6eS1aT3FhSHN1U3V0YWc5X2pmRGI0ME1jeQ?oc=5",
-      "publishedAt": "2026-10-23T04:01:38.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아차동차 광주지회, 전남공고에 장학금 2천만원 기탁 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "4d743d1a906f5f7d",
       "title": "인천 영종종합사회복지관, 기아 임직원 '천원의 행복' 나눔으로 마련한 쌀 50포대 전달받아",
       "source": "경인매일",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdVZlaVB6VnRMYXJtMzlDbUtCeV9BM1pHVmNDZkVXUEJhRzlhQmZSQ0VaVmc4Yl9pU2FycUc1NU1nUjhtRE85ZG1OSi0yUXhxNG9STFdUbWwtal83T3VzamgzMWdURDlD?oc=5",
       "publishedAt": "2026-10-23T02:01:58.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -101,7 +101,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUZnc3pUdDA0WHZjOGtlLUJZWWM4Ym9udEc1aUZjV0daWmZrQzY4dDNCb1kySzlBRHZpMGczd0RoMG5mRXgzSGN3WEJxaWx6UXJNVC12MW9xZVFJN1dMZW9ITVF3NDBVUzltQ3ZEU3FzWER1QTA0azI4QVhUc3JTazBmOTc1YWFDOVF4NHNHTktEUQ?oc=5",
       "publishedAt": "2026-10-23T02:00:57.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -128,7 +128,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rNjdJbzRHM1g2N0RPQWtVWEZXTXltQVRfeWFwYzRTRERQQ0J6d3RPbUVmajI3dWlHbElfaXlKd2ZNQkFhR09FN2JZN0pPNmM4Z003S0xZOGliWVIwUmVDWWFKNA?oc=5",
       "publishedAt": "2026-10-23T00:48:49.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,7 +155,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xN1JxaXdlR0Rma3gxazZnblpsQ1ZpdGs5bFktTHZ6TV9PNkFIMkQzZW9GQ085MHd5dVV3MXNxMUVxR2pqQWx1Q2VsUzJSX2JWRm00TVF4U1pZLUVwblh0TUhuM0lIaHN4OXA4aXZhOXpUSGZGMjhGOUVIZmxTdUXSAZMBQVVfeXFMTzlvNlgtSFRpT0lMOEhiZHRrZzNMamdwWmdyd21qNmVXVTFWZmVMRDVPeUpIdlZpYW9hakRyUkFwNkc2M1BZQ1BRQTA0TzhmZmQwZVZQa3psblB3ZHhsWl9wXzdkTTVGcHBXRGZ3WUFyYkdQa0dBUEwxOV9uLUVRbDE0YkZmVlFqdkgtWXRNWjBHajM0?oc=5",
       "publishedAt": "2026-10-23T00:39:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -182,7 +182,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWU9RODBzbG85YjJ2NERhQS1FbUxGNVdTczNuMnlFc094Q0xYSXRQakJqUEtZUjBQT1JXNUhmeDdjaldGc1VLQ2ZPTnIxdlAwRkE4UGNzMFM0QmYtem9kRFVsREk0eHNWUDRjOXQ2LUdSMmtNRDRSQ0JaQWNzQ3BaMWtwY19Pa3d3Rk1yUmlzWQ?oc=5",
       "publishedAt": "2026-10-22T23:30:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -204,12 +204,39 @@
       }
     },
     {
+      "id": "bd1cdcbf3fe79e40",
+      "title": "전국금속노조 기아자동차 광주지회, 전남공고에 장학금 2천만원 기탁",
+      "source": "호남타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwNF9TSl9zNl9Ua3FwUUd5eENvWGQ4R0Uwc3JMM3hRQ1NvcllkemdGZFV5MkpXcExYcG9KN0pRcFZPM0E0LWVQbF9od0JXa2J0NENWd05SV050bUJaMWZ6Zm5rMzg0MFh6OE1xRDdR?oc=5",
+      "publishedAt": "2026-10-22T15:38:12.000Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "전국금속노조 기아자동차 광주지회, 전남공고에 장학금 2천만원 기탁 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ef468c1706867f31",
       "title": "현대차, 유럽 판매 13% 감소… 기아 성장에도 합산 3.4% 줄어 - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wWURvTmQtZThQYXViQUNfeVYxQWJhSGhPay1ZYjRaY3VaZlJpWmVuTVVGVjVDdTl0Rk0wRFpnRVB4WF9wUnJSVFJWNjZIN0hsQmFTTGtGQ3ctVjdXYi1vWld3WkRpR0cwSUd0VEFxeHhZbktrWlNzXzI0Sk56N1HSAZMBQVVfeXFMT0o1dmZqZXo5dmRSSGh6cm03SHlFYjVTSTRjeHFuMkM1QUdyWEgta3BiX0MwYktnZGRUNWlTWlRQaC0wQ0U3RmJ5ak5TeXRoLWNsZExldUxPel84LW5sUzJHRmZkTWFBWmlxY29JNkp5Mm9hODJ6SC1BN3poUlFqVFg1Qzg2UFZZb0UyR1NyNENxY040?oc=5",
       "publishedAt": "2026-10-22T12:31:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -236,12 +263,12 @@
       }
     },
     {
-      "id": "ff26e882520a3511",
-      "title": "금속노조 기아자동차 광주지회, 전남공고에 장학금 기탁",
-      "source": "남도일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZN2RmYlF4ajZMSW9BeF9LNS0tcFRsUjJuTUdQa2JLU29NM0hGQkI3T201eXlvSjhvZHR3X1pEcW1aTlViNTVseVlON19iWGl6UlE4aFBUNjRXSjVOZkxzMkxJZHFXU2lWV0lwTnQzeVnSAXBBVV95cUxPWTdkZmJReGo2TElvQXhfSzUtLXBUbFIybk1HUGtiS1NvTTNIRkJCN09tNXl5b0o4b2R0d19aRHFtWk5VYjU1bHlZTjdfYlhpelJROGhQVDY0V0o1TmZMczJMSWRxV1NpVldJcE50M3lZ?oc=5",
-      "publishedAt": "2026-10-22T07:46:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "id": "fb49f7509fb53763",
+      "title": "현대차, 중앙亞 전략 거점 카자흐스탄서 3분기 누적 '넘버원'…기아도 '톱3' 동반질주",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMkF6Q293WkhiLWZ3S1RIakdfM281ZzdJXzJuUEd5SDBmNmhacGlNMHR6RXVOcEd1aTFUUkhVWG03YlF2Rk1WQUJDVG1ibnVSbkJLZkVLaDBpMUM2M3ZVVTNzNA?oc=5",
+      "publishedAt": "2026-10-22T07:14:45.000Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -252,8 +279,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "금속노조 기아자동차 광주지회, 전남공고에 장학금 기탁 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "현대차, 중앙亞 전략 거점 카자흐스탄서 3분기 누적 '넘버원'…기아도 '톱3' 동반질주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -268,7 +295,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMVQ3R00yZV9WOHJYN2dFcUVtcU44Si1veXVhMVVYTnpxMEgyYjlyMGlKYi01T3ZWRF91WklNRUh3cW13MlcwWlhENXFoSjV2SUpCSWRGZ1F4S015Nm5PVmRrcndsWFRraUtpMnp6eE4?oc=5",
       "publishedAt": "2026-10-22T05:12:29.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -295,7 +322,7 @@
       "source": "민주신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TTZjbmxiNWNoVDB0cWNjbUR0V0psVnNyMjNjR2NIN3VyeXZid2VZTlNLWkFMWVAySXBSSmpMS2hlenlITUdVblJZemlidWFQWjRidEhNaThra05TQ1RZRnhTTGdYY1RETThn0gFrQVVfeXFMTzZNNmNubGI1Y2hUMHRxY2NtRHRXSmxWc3IyM2NHY0g3dXJ5dmJ3ZVlOU0taQUxZUDJJcFJKakxLaGV6eUhNR1VuUll6aWJ1YVBaNGJ0SE1pOGtrTlNDVFlGeFNMZ1hjVERNOGc?oc=5",
       "publishedAt": "2026-10-22T01:25:09.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -322,7 +349,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2FGNHh0SnlTLW9Kc1RhMVl2R0xUZExsTEFsYUQwdVBqWGlyaVVVR0RMRFdCWVJQUFVNT25uMWZSZk1BWXNNeDNSbzhBMV9YYXlpbDVicmJFNS03VlcybVM2ZmJJZzhvZTVsTGlSQXpBX3ZsTGxQVTFoV0V1YUtuUWlrdDN5TmRjeTB5bw?oc=5",
       "publishedAt": "2026-10-21T06:14:53.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -349,7 +376,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeG9sQ3h0UzFaY2J5MVQwUGg3SVVWdGdUWXBPRnNjeWU3cmpya0VSWV91MS1pVTZKbXlxYlZOdlhRYnpESTF5NmJ1S1g2ZDdsZlA5Y0pwYUxaTkdZVkFWTzNCLTRDSVo3ZW14VXpsUS1EUG1mc1ZfOGN4ZEVvVzlrZC1n?oc=5",
       "publishedAt": "2026-10-21T06:00:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -376,7 +403,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE81T3lHbnhSLUNwZGkxd0NLVGsxYTlUQ3Jfbm1CY3llUXhNUmpTVUFjQm9ZRHNyaGpIMlBteVl4TEhoRDRVYXRiRmkzN29LOEhOMDI4cE1WdzhIT3RUSlljT0FQR0NyWjkteWktNGMtRnB1aXVZVWlXVzEwQ2EtTWtFV19jeXRQbDVwMkdUQm9xQUQtaFZ6MlBGbUdNWXJ3?oc=5",
       "publishedAt": "2026-10-20T23:30:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -408,7 +435,7 @@
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FaC1aWnRWcXNza3o1Z3BUVUIyNnE2QjNBUXptTnRHRXhKMUZpMWt0SS1iemNPcXBWMFJXcHEzT0UxWjlwR1paUEFKaHFsazBHZDVfbVd1NjlqSE5ZOUFjTjZpbFd0QQ?oc=5",
       "publishedAt": "2026-10-20T23:08:03.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -437,7 +464,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nMDVPSjlGNkFESnlVemlMMms0T3VqZFZLeGsxaFNHSWdyTmQzTHZycEphLWsxNlNhZE53NFU1M3ljemwxalBBX3dVN2JDa1FVRDg2WHVONE93R2pPaTVEalE4NnNsOGN3ZGk1c1ZuODVyQdIBckFVX3lxTE9nMDVPSjlGNkFESnlVemlMMms0T3VqZFZLeGsxaFNHSWdyTmQzTHZycEphLWsxNlNhZE53NFU1M3ljemwxalBBX3dVN2JDa1FVRDg2WHVONE93R2pPaTVEalE4NnNsOGN3ZGk1c1ZuODVyQQ?oc=5",
       "publishedAt": "2026-10-20T09:00:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -464,7 +491,7 @@
       "source": "이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSHlYMV9WUTd6MGFBcTE0dU42YXV6T0IzYmtuanlseGt2dTZxNVBMOXk5aWNmQ2hOcFgzZ0pvcVZMRzcxOGJxR3BjdGJLdWNpZW5wamRkX3Bia3JvT0licENGelJ1V3dlT1poUEd0M0bSAXRBVV95cUxPUTdlTXhDMUx4RF8yZ3NpcERreUJhbldnMmFOUkdvU0ZRV0pDQVRUNWpGMWJwNUFnMWl0UXhyUGFVM0NkLXd3Rm1jWkNkU0VMY250MF9sWm15YzNueXRUOGt5eTgzSlBXeVRieVo4STFwMlgwVA?oc=5",
       "publishedAt": "2026-10-20T08:31:16.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -493,7 +520,7 @@
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iQ1A2VXhwUTZfRjVINDBSYTdNa2dpZnd0NTZHcVFoOUE3aUlaMDhBQWVtYjhBdkpST04wb2dpZVNSelNMZ3pGQUlqOFJYZTdBcE1laVFtTV9Obm5lV00tRVNDV0p6eFhhT09UUnBR?oc=5",
       "publishedAt": "2026-10-19T07:56:36.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -522,7 +549,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVU91UERtaW5JUTB3RzBwVXl3Uzc5UEZLTDJRNjFfeWQ3NlZQWjJSOV9wZFpGZEFlYUQzRmhGU2Y3YllwbG53Nm5BeGhQLUsySjlYR013Wk1TZHk0RXl0Z0kzZkRkWk5XRnZHRkFYeFh5SVhUcWRfazA5UDZsTnZhS2JqbVBLSkRJRHJ3UGh6TQ?oc=5",
       "publishedAt": "2026-10-19T01:30:00.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
+      "collectedAt": "2026-10-24T01:15:48.409Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -535,33 +562,6 @@
       ],
       "summary": "현대차∙기아, ‘2026 아이디어 페스티벌’ 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "54c6902a9a2a31fb",
-      "title": "기아, 6세대 완전변경 스포티지 포착 'EV5 닮은 디자인에 사이즈 확대'",
-      "source": "오토헤럴드",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Sjcyb2E3WVBINEVwTTJBRzBsb3Mwak05QlhZZHR1NE1rS3d4MjM5M1c3NkVGbUNoQXNyT3BNZjNpdElQNXA0VHZzRmN4akR5VGIxTEQ5blYzY2pBRTJXX3JuUEltVHppQy1peXhn0gFyQVVfeXFMUExmeG9iQ1MwRGF2M3Btd0FHeVN5aHZhVndjaEhMc3Z5blJTdVVKOTI4RFNGRUlRTHNPWVoxMk55aWNERzhWUVdseG82c3BORjllazViOWxBcEdSVlNQU1VReUZ0N1FPLU9OQ0g5YVRpTXdR?oc=5",
-      "publishedAt": "2026-10-19T01:01:27.000Z",
-      "collectedAt": "2026-10-23T15:32:49.038Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, 6세대 완전변경 스포티지 포착 'EV5 닮은 디자인에 사이즈 확대' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
