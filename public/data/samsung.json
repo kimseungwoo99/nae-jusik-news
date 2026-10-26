@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:41:45.151Z",
+  "generatedAt": "2026-10-26T00:52:36.585Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
-    "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
-    "'이미 팔았는데'…삼성전자 100주 배당금 100만원이라고?"
+    "삼성전자, 실리콘밸리 본사 2배 넓혔다",
+    "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c0ZDdkhfWFhTal9uQlVaalJWZEJqRERZTC1Lc1haeGF6eGVEdm5LNUxJVGZDWUtja1ZnWU1BU3BaRGZQT3NIUGN4dHRCRlM4ZFptUHRYTEtxVFJ2ZFE?oc=5",
       "publishedAt": "2026-10-25T10:02:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -47,12 +47,39 @@
       }
     },
     {
+      "id": "aa1edf60971ba125",
+      "title": "삼성전자, 실리콘밸리 본사 2배 넓혔다",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ibVVQUlJ2NWhvZ2R2OW1MbnNMR0NHRU9xOTVPZjFBV3duUi0tQUoya0RyYTFIZHdZQjZYR1A3bmZoOExTMEQ4U3ZJcGZwcEJ4S1BCbkhEdkpYdw?oc=5",
+      "publishedAt": "2026-10-25T09:32:27.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 실리콘밸리 본사 2배 넓혔다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "23c0c99da369d4af",
       "title": "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05ZFV5a0hjMXZ2NFV3cVd4Y1M4bUhJLUFFYmphSTAzLTdFUzQ3Sm5GTTBkdi1BUXBCRmF6ZWoyQWFNaW51Zkxad05mS2IxNkp4NFZlaEN3?oc=5",
       "publishedAt": "2026-10-25T03:47:34.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -74,39 +101,12 @@
       }
     },
     {
-      "id": "18e7da9fc5888b6f",
-      "title": "'이미 팔았는데'…삼성전자 100주 배당금 100만원이라고?",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iTFd1MWpKckQ2a3R5bTIwSDBwUGFIVDlIX3JsaDVjSWxubVJCS1hfU0FNQ09VeHlqNkdmSzYwcktibF9GVlhJemNTNWVjSTRKbXBaSkRrZGQ1UQ?oc=5",
-      "publishedAt": "2026-10-25T02:43:36.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "'이미 팔았는데'…삼성전자 100주 배당금 100만원이라고? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "05700e12a8724763",
       "title": "삼성전자 노조 갈등, 이건희 회장에게서 답을 찾다",
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZEZEcGJPdEpVNXBZVlpBRjVSNnJWeVBCVFNFb3lvSEFlMUctYXJWMGoydGFPM29uZ3M1ZUhTZE14ZjlOMjJpVzFsTkViWXdPN3JLbzh3NHJENkJjcDRMc3RtdlpNRjJvc3c?oc=5",
       "publishedAt": "2026-10-24T22:30:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -133,7 +133,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lamxUOU1Da3dTcXBOMXBKbkZ1RUctcHY5WU9UVFBOTmM2VDN5dElHNG5aNW5ydUc1b01lVzJlQVkzZ3V1b2M5OVJrTVc2Q3FkcXVNZXZKOXJ1SzZLd3JGMtIBeEFVX3lxTE1XbjdTYnJfbDZYcEY4MkluRkUyd3c3Mjc5ZGZ0emtaSzZXMlJ3aXdqUzJzV21kTVdUWkVPcHJaMnJ4aUFGUjZYTEp4TkV4dVJBMm1FMk5OZkN1bFBqT3pvQ25Ed1NtNVh1c2g5QmZoNnJHbWo2WW94UQ?oc=5",
       "publishedAt": "2026-10-24T15:00:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,12 +155,39 @@
       }
     },
     {
+      "id": "1f9647b616334758",
+      "title": "\"내년 증시 주도주 바뀐다\"…삼성전자·SK하이닉스 이을 시총 3위는?",
+      "source": "www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BS1VIdGRUVXdNcEhnbVZ2RTJwZmRZeUVKZWVtYWEzUlV1anJlQ0hXMWE1UjdoXzFod2c2RFhPSmU1cm5sT2ZOWmpmUGFlOS1NdnU2azRTQXo5S00xZnNBSG8wakNTUE5K?oc=5",
+      "publishedAt": "2026-10-24T07:07:40.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "\"내년 증시 주도주 바뀐다\"…삼성전자·SK하이닉스 이을 시총 3위는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5375b62aaf2f7772",
       "title": "삼성전자, 리센느와 손잡고 폴드8 여심 잡기 나선다",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URlh6V0pMTk0xbnhXYmFxYnBqUXd0Z3dtcjNWQ3kyWVRaaDA4QkFYWXhXSU1BR2VYdXFBdFR1WmpRc0dyVnBWMEtRQ3Q2aFp1alA2UXlnVFpyNXfSAWBBVV95cUxNU3BtYWkzTDN0NlM4Mmo2WUZ5emJETTRxUUJ0VTV4OTM3OFNNLTVaNDh5Rl9pWVM1UklndXpzcVBCWlA0WDVpTTFNSHBIWXR5Y3J1My1FanQzRzkyaTVER0E?oc=5",
       "publishedAt": "2026-10-23T23:00:03.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -187,7 +214,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSV25LVWpHaGZQT2RjRVFwZmpjTVdOd3RBTjdoVjdoeS02VTV1b2YzbERYX253QlpmZlVDRFdhbmRFSGZyMlBwMU13LVNwd3RldS1BWWluQmpLWkoxeWQyTW5RMGdlY2l5T3ZtZEIxVzJuZXBWbndr?oc=5",
       "publishedAt": "2026-10-23T10:25:57.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -209,12 +236,12 @@
       }
     },
     {
-      "id": "6824bf8d9dbc6a4d",
-      "title": "故 이건희 삼성전자 선대회장 6주기 추도식 엄수…경영진 집결",
-      "source": "FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUUl4dGdPVHQtWGQxdkVRbEVYazh0eGlfWDNvUXhGVEZNdzNJY3pqRTR1Xzl6LV9LTFJaTXNMVkMzeFZETURJaEo3bFB0LUREVVhCOUdLWWNGZ0ktRzJIMUF4cm1GUFZz?oc=5",
-      "publishedAt": "2026-10-23T07:29:15.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "id": "b7089a6f1c9ce844",
+      "title": "SC제일은행, 삼성전자 반도체 노조에 주택 ‘후순위 대출’ 공급 - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmZnVjlKdUtKWHEtekxJZ195Z19LXy0zZlBGak8zWFJOc0FDOFNaSFFldzVMb2ZoYW1HWkhad1Q2NVdRcXF3MFBuSE1IbF9hWjJERHRqNjBIOGh2aXJNSlhWbEtYTXdsbnRBeVZiZEc4WVBaZ292RmpVeXg4OHVuTdIBlAFBVV95cUxPV3M5aUVnZVdpZlhnUTY3WW00U0FYNW5Qdl9YUU43bU9PTklfQ0dzRXUySmlweEg4aUdWUV9yU1dWM09PeHhCQWRjZGt4RzM2Q2wwd2NsVUFlOGdoS0ltVzlHXzBNdWE1Sy1fdW1hbFVpN0hNUDBzUTZ4aFVGVV9lX2FqbGlEb1RXdUNpX05aTVRONVVt?oc=5",
+      "publishedAt": "2026-10-23T06:19:00.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -225,8 +252,8 @@
           "ticker": "005930"
         }
       ],
-      "summary": "故 이건희 삼성전자 선대회장 6주기 추도식 엄수…경영진 집결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "SC제일은행, 삼성전자 반도체 노조에 주택 ‘후순위 대출’ 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -241,7 +268,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UbXg2V3pnNmV0SWl1WUlWWjhldVRpc3hweld2eHdXb1lCaC1IR28yQVdSdXZ3MWtIUE5xZGZDMFQ5b21xWS1JQmpZVnMzNXVfWFlNc3dn?oc=5",
       "publishedAt": "2026-10-23T02:49:22.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -268,7 +295,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0Z1ZDlSOWRLZFVLT1Z2YkJWTDFmZHZjOXlkYkw2MndkREM1ZEtZT2gxaHRtRkdzc00tVHV2ZnhrQVZEUk9GXzJTWk5xMThfc3hjcng2blFtUHJpMmpHREhkZC1ZbVRtZHlybHFIN1hqd21iWGYzVWtVMGc0VklkT3Rn0gGWAUFVX3lxTE1iTTlBZTMtVmZkbHVYcDZudjI2M2lEVTBReFlscHgxRno0eTJicUFKYVE3ZTNNOUtwMEJXN2pvQUpmd0ItT3JOMXA3VExLaEZaMmF5RnNLTi1EaVljR3JaOUFFcTBJVElnNVB6VkV4Q3EzSWdiZUVhRVlzUmlsWDFvbHVCOVgxVUJxMmtPVjU2VXpNbzdUZw?oc=5",
       "publishedAt": "2026-10-22T11:49:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -290,12 +317,39 @@
       }
     },
     {
+      "id": "18046e2c7e5fb93c",
+      "title": "삼성전자 반도체노조, 비메모리 사업부 성과급 격차 손본다",
+      "source": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdENqQmQwTHRHNmZPNnVMUWpLMDgwcUdkUGRDTEZlcWRBdzJqQ0lGQmdNa2VSbEU4dE5HdkstN3J6ZGh2TzV2dm9Ka0ZueEk0cjFTSTNFMUJidzVKNEJwSzVNSlhGLVZveVJ3cGlnRDk1N0FkS0pV?oc=5",
+      "publishedAt": "2026-10-22T07:28:00.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 반도체노조, 비메모리 사업부 성과급 격차 손본다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9215356b2d6cff3e",
       "title": "[단독] 삼성전자, ‘감사 페스티벌’ 대상 아니라더니…취재 시작되자 뒤늦게 상품권 지급",
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wZ0FIbDM5clBDRGRLZ3RfSU8yTnN0cG1VR21NRXJUWWJFYmhmamFsRExCbHd5MU5DTXV1d2hrdzA1NUxadXc4YTF4RV9tbjZBcTNjV1lhQlRDYk5OTU4yUkNhXy1RREF2?oc=5",
       "publishedAt": "2026-10-22T05:36:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -317,39 +371,12 @@
       }
     },
     {
-      "id": "afbcc0f1c535d8ea",
-      "title": "삼성전자 반도체노조, 비메모리 성과급 격차 손본다…81% 찬성",
-      "source": "아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qSEkwelNSV291ZUQ5VE9PeTdSOWExcm96SlQyaFBhb285U1gwN2M1T3pGY3BFc210R3BkWEJ3OWR0WDMxNHVIQ1hjVkRjNVFyLU0yTW0zc3FCd9IBWEFVX3lxTE52NjRUbDd1STQ2RGtjN3NNRWM0MERVWFNFaldnOHZibUl6SWdpUnZNS2FFYTlVQlJWRWVDeU5jNmptZnhDQTlpV3U3YmlVcGNJMnNxbXhaaWI?oc=5",
-      "publishedAt": "2026-10-22T05:11:17.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 반도체노조, 비메모리 성과급 격차 손본다…81% 찬성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "303d00d8d1d1426a",
       "title": "삼성E＆A 15% 급등… 삼성전자·SK하이닉스는 동반 약세",
       "source": "서울신문",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZjdmTlR4N0hidDR0RkRrZkF2MWxCN0d0U3RJdU9OTUZtbTlZMjVkbmxVWDhHTVI2UThHdVJnbXBDR1czamJKSnN1RzQwZHpoRkhpRWVXUC1RbTYwM3BXMEFlR1kyQnFNWURCdk02R2ZQeThCWElqd3ZvcEhxQQ?oc=5",
       "publishedAt": "2026-10-22T04:24:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -375,12 +402,12 @@
       }
     },
     {
-      "id": "0159fa3fd1604766",
-      "title": "삼성전자 반도체노조, 비메모리 사업부 성과급 격차 개선 추진",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kS2VUR1lILU1vLV85QXMyMEgtNDcxWVA0bWNyV1p4VFYzZ04tb0dxNXJ2ajA4WlZrVnRka3ZKOG1NWTNmdG1RRVZUWHp5ajNVbEpEZjlfUWhzc0dBa213WNIBYEFVX3lxTE9kS2VUR1lILU1vLV85QXMyMEgtNDcxWVA0bWNyV1p4VFYzZ04tb0dxNXJ2ajA4WlZrVnRka3ZKOG1NWTNmdG1RRVZUWHp5ajNVbEpEZjlfUWhzc0dBa213WA?oc=5",
-      "publishedAt": "2026-10-22T01:31:40.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "id": "afde6be1cff20d37",
+      "title": "삼성전자 반도체 성과급 갈등…노조, 적자 사업부 페널티 손질",
+      "source": "산경투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS0dPWnBIbXY3LVhzX0RUNjBybTIwSmNPTTJtVjFidnFZU0xvNU9tR0R2ZVJFTndUSXNWMU8wdEZnQUdQZVVIV29PTWlWQk9kMFp1WkQtRHp4ZS1CM1k3TGkzcTMxdzRxcDA0VU5nVmnSAXRBVV95cUxPTlA5RjJCWUVKSmdweU9vUTdsa0RzZm1YeUZQejRwSGYzUnZ2U3F0dVEwODZYaXBTclFSYTloTmhjMXpJR0xWcjU4bFRLR0drNUlhZU15R1RLdzNoMUZyWlhpbXBmYnlLLVBpR2tIVkJoUWZDVA?oc=5",
+      "publishedAt": "2026-10-22T01:52:55.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -391,7 +418,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자 반도체노조, 비메모리 사업부 성과급 격차 개선 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자 반도체 성과급 갈등…노조, 적자 사업부 페널티 손질 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -407,7 +434,7 @@
       "source": "조세일보",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3UFRJXzliNXNoMmlZTWVqdVN1dTV5ZXYxV3FkQUFwclkwdFpucHl2MFM3M3Y4VHhLRDZNUWNfT0RtcXNWbjNxUUhrakpTczNkT2RqbjlCb1doOU1jd1hv?oc=5",
       "publishedAt": "2026-10-22T01:30:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -431,12 +458,12 @@
       }
     },
     {
-      "id": "f055b6b22f4006b0",
-      "title": "삼성전자 반도체, '코어팀' 꾸려 핵심인력 보상체계 강화",
-      "source": "한국아이닷컴",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMmJ4QnNpSjZUNUZEVG9YYkd3a2dwWTdoelIwMFhpZmJ3eWh0RGEwY0paZjgybnJmSm1MWnVzSDVyTnRrWW5XOEdmWml4ZmNHWVY0c1pMd1VoV21VWjdfcDExWnRZd05iRzFR0gFvQVVfeXFMTm4xRFc0bjBwdWFwT2s5dTJScWNHNjFTSDkyOEVIYlRFU2tDYjR3bzJucUpJVEw3WG9vUkV2TDB0S2pQSzRnZ196dWQ0dzV3Y3lHODJKMzJfamlWclRYRWVtd1BlNWNucUx0LXZDejFv?oc=5",
-      "publishedAt": "2026-10-21T23:05:04.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "id": "1436b1b130d15957",
+      "title": "삼성전자, 반도체연구소에 '코어팀' 신설…핵심 인력 보상 강화",
+      "source": "MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54c0F5QjhLN0tjcmwwWkNiV01YbnJSTXZYV196OVF3VzBIWWdZRFNsWGt6NDROLTFXbXR6blZBZUFCWFloSWFLQkYwQlpxbnhpbXFhaXlROUkyYkV0ck5N?oc=5",
+      "publishedAt": "2026-10-21T21:30:51.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -447,7 +474,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자 반도체, '코어팀' 꾸려 핵심인력 보상체계 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자, 반도체연구소에 '코어팀' 신설…핵심 인력 보상 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -458,12 +485,12 @@
       }
     },
     {
-      "id": "30d59a33feb549f1",
+      "id": "4950a7fe8716f599",
       "title": "삼성전자, 반도체 ‘코어팀’ 가동…개발인력 보상 강화",
       "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdlRmX1FWb1ZOYmV0YzhQYXpBdUw3SlhJUTlybnIzZld6YldqZjRiYXIzaVFtRGItbzRoRWJYSzROOFNPZElkbldzN29FVnlEb29UdEVhXzVfb3RJVFdfWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNXlTWldzbVFkMTFfSVV4UXhSTDZpbGI0TW11ZHJMUlZDZWV3bmlkZzVrZGJsVmpSMlFZM0xkS25KNmpzWjRHSmhtTXV1TkI4NEhBNjBlaTFrQUdwaEZBOA?oc=5",
       "publishedAt": "2026-10-21T12:25:35.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -485,39 +512,12 @@
       }
     },
     {
-      "id": "af485d147a6733ab",
-      "title": "삼성전자 반도체, ‘코어팀’ 신설⋯연구소 인력도 사업부급 성과급 준다",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zOXRjUS1JTWktdUYyVWRtRGprWG9TemNGWm90SkpQSWItbERKUE5PemFHdTFLc2wwQTRZVFVqcUlzaXNTaktFNTNVN2lDQzBNLV9qYQ?oc=5",
-      "publishedAt": "2026-10-21T11:01:00.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 반도체, ‘코어팀’ 신설⋯연구소 인력도 사업부급 성과급 준다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "bc1e4deabb476d51",
       "title": "삼성전자 DS, 메모리 신제품 개발 '코어팀' 신설…핵심 인력 보상 강화",
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2RRaUhheVpySDltdklmR3ZBS3V0ZDlaWnMwY3hfYUlNd2hHNkZWUjF0Y1BSNTFYWi1qRU0ta25ZY0dRbHRZTVcxTlV6QVZHZ0JsTVFlOGUyV0pmZ0NfWlJLSFNScTNSd2FaRU1KNnhtYTJsQVFPRl9EMWlTSzU2dXR5Z1I?oc=5",
       "publishedAt": "2026-10-21T10:09:47.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -539,12 +539,12 @@
       }
     },
     {
-      "id": "60d5c60057d2afa7",
-      "title": "삼성전자, 차세대 D램·낸드 개발 전담팀 꾸렸다…핵심 인력 '성과급 차별' 없앤다",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sQXR3UFM1UlgxZV9nWHRackxPMGNyRVZMTEVVODJJN28ybnVCengtand1aFZkVW9vdy1nOHdybElSQ3l5aXo4WXhLUDlpZw?oc=5",
-      "publishedAt": "2026-10-21T09:22:21.000Z",
-      "collectedAt": "2026-10-25T14:41:45.151Z",
+      "id": "a463a68f8f1cc43a",
+      "title": "[2026 에너지 포럼]삼성전자, 반도체 760조 투자 구상…남은 과제는?",
+      "source": "메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2U2JwRHJfOEF1cDFMTmZueklPU2cxODlCdVFYZFlFelZWQXIzSTdrbWpIem90M2R1TnRoWFlNMFJXUXlfcW1TVF9RakVBZFZNczNBOFZxdGlMTG9XSkdfZw?oc=5",
+      "publishedAt": "2026-10-21T07:25:07.000Z",
+      "collectedAt": "2026-10-26T00:52:36.585Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -555,16 +555,14 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자, 차세대 D램·낸드 개발 전담팀 꾸렸다…핵심 인력 '성과급 차별' 없앤다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[2026 에너지 포럼]삼성전자, 반도체 760조 투자 구상…남은 과제는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
-        "label": "negative",
-        "score": -0.4,
-        "confidence": 0.68,
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": [
-          "고용 문제"
-        ]
+        "negativeTerms": []
       }
     }
   ]
