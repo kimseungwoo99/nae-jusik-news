@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:52:36.585Z",
+  "generatedAt": "2026-10-26T08:18:04.443Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,50 @@
   },
   "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "은행주, 실적 모멘텀 꺾이고 규제 부담까지…반등 안갯속 [하나證] [주가동향]",
-    "KB금융 “건강관리, 마음으로 확장”",
-    "4대금융 순익 20조 첫 상회하나…실적 시즌 개막"
+    "3분기도 4대 금융그룹 최대 실적 전망...하나·우리 비교해보니",
+    "SK하이닉스 역대 최대 나올까…이번 주 실적 슈퍼위크",
+    "KB금융 “건강관리, 마음으로 확장”"
   ],
   "articles": [
     {
-      "id": "414ff32a8635af06",
-      "title": "은행주, 실적 모멘텀 꺾이고 규제 부담까지…반등 안갯속 [하나證] [주가동향]",
-      "source": "조세일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82WmFEQzdGQTNxY2ZzcUk0RWlRdnZfaWR3dTVvTUs1OEhoazNwLVoySGUzODJtT0N2cHg3T0laTURfQlpPQ1pVaHNwVlFsbGZENjZkT1hSY2lsT1ZMMjR4c3l2cDg0S2FhbEg1WEM5cE1lRkU3?oc=5",
-      "publishedAt": "2026-10-25T22:00:10.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "id": "661c8941ee25eef7",
+      "title": "3분기도 4대 금융그룹 최대 실적 전망...하나·우리 비교해보니",
+      "source": "세정일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WV0RGQlZpZEppMlpYTVprRzZlaXBPZ05OVHgxbjBfX2p6Y2RhLUg3WE93TkF5VVJiendBdmEtT2lMdDdwUjVxRGdsdno2akJ4RDdUeGdOemNTRjBlb0xiY01BWlAzS2ZmT3QxRg?oc=5",
+      "publishedAt": "2026-10-26T07:31:22.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "3분기도 4대 금융그룹 최대 실적 전망...하나·우리 비교해보니 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "57748beb7b36e73b",
+      "title": "SK하이닉스 역대 최대 나올까…이번 주 실적 슈퍼위크",
+      "source": "자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdDRMQzZXOVV4TVhnOTJHOTFFdkRMOWUwVlh2bnlhWHM0ZUZoNUlNR2Y5ZVZwdm40YVlRWTM4dFBOUDllcFRkNTJEZk44STJ1TzRJM1djaDBfaTFVaXoxWWhPNUllTzA?oc=5",
+      "publishedAt": "2026-10-26T02:30:00.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -31,14 +63,14 @@
           "ticker": "105560"
         }
       ],
-      "summary": "은행주, 실적 모멘텀 꺾이고 규제 부담까지…반등 안갯속 [하나證] [주가동향] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SK하이닉스 역대 최대 나올까…이번 주 실적 슈퍼위크 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
+        "score": 0.35,
+        "confidence": 0.66,
         "positiveTerms": [
-          "반등"
+          "성과"
         ],
         "negativeTerms": []
       }
@@ -49,7 +81,7 @@
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12SVNvVmR6NmJzcFRXM1FoYloyRjlxT1lpc21VS2VnUWNIYk5CRkoxN09JU2JTaHBCNmpDLXlhN2wySnUtNFVzdnFnWnM5dXl1dUt6SDJnU2sxX1FjdU9MZjQ1ckV0TVlTTnZv?oc=5",
       "publishedAt": "2026-10-25T00:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -71,12 +103,39 @@
       }
     },
     {
+      "id": "6b5751d03bfa8a27",
+      "title": "ELS 과징금 3000억 앞둔 국민은행…윤종규 전 KB금융지주 회장 연 4억 고문료, 퇴임 27일 전 운영안 의결",
+      "source": "뉴스필드",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNRm9kRzB0QXc5TVB4N3JoWjRLQ0p6VlFZRFZCaWt0TzRLY216SmJOZ2JsY0VIbzdNZHdNSkxRY0swTkpkdFRIeXNkX1dMUUNzcm9LOTV6ZzhydE5DdVpQaGI3YXpxTUg2MWxqcnJnQVpOajR3aFB3a3ZDMVBSNHJhQkVwbENaNVdJdDZQNk1XZXotUDRhczJaWU9rWEhYcUxYWTVpZGtURnBiMjZ0Smw3MlFRQ0RUdXlDNEh0Mlh3UTBJZjlSeDJqN3RVU3kzQ3BBX1IyODJ3VjZxYjZyVjkxLUdLelpDZjdlT1lMV251OEtMWkdWdEVrYXk4eTN4aEJNN1lvVWJQcFNXWjVuckRDcGxaTDRmUjdZUl8yQ241bGNnMTk0YjQzQnlESzNIOVpjeGFiWA?oc=5",
+      "publishedAt": "2026-10-24T10:39:24.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "ELS 과징금 3000억 앞둔 국민은행…윤종규 전 KB금융지주 회장 연 4억 고문료, 퇴임 27일 전 운영안 의결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "59648e785b84cb3f",
       "title": "4대금융 순익 20조 첫 상회하나…실적 시즌 개막",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZeEx3aWVzaWNOWWJpWWRtZzQ1NWRONjBmamFPRWZqeGxwTEdtVHh2MUMtOUkxRnFFemVQeGprMDB6NlU5Z3YwYUJsRnFIbzEtdHQwVlBhcFB6QndMc0xITFVUV1JCREU?oc=5",
       "publishedAt": "2026-10-23T14:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -103,39 +162,12 @@
       }
     },
     {
-      "id": "19d7e11b8315e65b",
-      "title": "KB금융 (105560)",
-      "source": "ThinkPool",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MENKQWxqWkhreVlOdWUzRVJ1ZDMybGJHbmdhUkVFSVRmeFBHaVVYZHFZRmlFNng0X3lKdjVlV09kSHFxRjBSRURFQQ?oc=5",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융 (105560) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "64a4b2454f64cbca",
       "title": "양종희號 KB금융, 환경금융 2년 새 31.9% 확대…배출총량 감축 과제 [기후금융 진단]",
       "source": "한국금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aLVF4dV80WkdGRVRDck0yelVINGx6QVNGWlhQZV9iNV9OeHRxYjZJUDZ4MjQzMGs2eDlsaEZLU1B0UFFUcGZwa3k5YVpqNi1yLVB3REI3NFp6eXg2cGtmMW1OQloxbmctamdwakpUVW9YM2EzRmY1YWdnbGw?oc=5",
       "publishedAt": "2026-10-23T02:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -162,7 +194,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Mk5oN1ppX0NPZlJVVmoyT090NG5USGJVZHowOTVhdzljTlh5aDROZk9oTzdMbHdCTndEVUFrd3lkSmJhZWtLdDRwdE9qcjJKcHpHcElXaDBHVFJrVTVPaXc5WGhFLWRpZUtV0gFvQVVfeXFMT1hGeE9ndXpOckZzWXJrTXJLR3R1NmVZS2FxYVk5TkhDVkZFNGEwajJKNUpnUkpBaHJ1eWR4NC1DUG9XdlhmUDR5RENoOG42U2sxTmF5aUNvNHpsbnFJQzlJM1p6eE43QmFpM3pHSEZv?oc=5",
       "publishedAt": "2026-10-22T23:45:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -189,7 +221,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabVVSUm5JNm1SakQ3Vzg3TXhrWWU1LTFxNHA2T0ZhTm9QZFlfdi1WbUktMVB4ZzFHYjN5bmFBZmg3Z245STltakZEX3lSXzlQNVBkRFpRS2NPUmtFZUEwNEkyelkzbWxNYWNZczhia2I?oc=5",
       "publishedAt": "2026-10-22T23:44:15.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -216,7 +248,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uYUNJNDhwb1JhMGNiXzNHNGNMNnJFdnlYMG55V2Y0RkZHbkFvUDAtb1d5Z0toNmRhdE5SOTBpVVNxbTNXLXktNDFDQ3FzNV9ESmZ3ZEhEeGx5aVB5V2hRZ0dn?oc=5",
       "publishedAt": "2026-10-22T20:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -248,7 +280,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZVRUb3Exek0zTmpmWUdHVEpzZUNRVTZ5VWRGZmZTOGxnazdxNTlSam5zRnU5VExPV25BZ0RVZ29meXlxZGNmbWV6aTdHX3pWLUpaZmlDZFpDWldpV01mM1BxTTdMc3lrVjZld1lvMFp5NkdrZmfSAWZBVV95cUxNY3BVa0RsdjVLOTFia24xNEEtazFSSVhWbkxKNWxXWHJxbHpyaXl0ZGs5N0Q3RkNCRlFsemVMb1pBbVROemZHOC1fbUhxYVprSTlxZGNOcDN6MU9lUFJHR1c3OGg2NEE?oc=5",
       "publishedAt": "2026-10-22T15:30:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -277,7 +309,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIcmNFWkhXcjNSdUdabGFRajhMM1pUbUE1U3l3S3ZQM3puM2RZOTEyODhlQXR2NTMxbnZKNml3NUhEUkhSbGMyT1B6Snk0cVBxYXBhM0xpRUQ5dw?oc=5",
       "publishedAt": "2026-10-22T05:29:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -309,7 +341,7 @@
       "source": "KB Think",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHd3FDWTBtWGVwT2RsTUkxTjdwQ05ZWHpjYzY3RUEwQjhoZ0ExdWxLeGZZZC1mSHA5UHdUVTdldG5wVW50c2tGbl84OWdqanBtLTJiU3FXV1hoSG1ralFLZC0wRzJpRmNJX3RDRktxSE5odw?oc=5",
       "publishedAt": "2026-10-21T23:55:02.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -336,7 +368,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qc0NGTzk3OGtDbmRJV29mVHo1aWE1c1Nac3Z2RTg2T1ltbVd2bmVmMGFsMnJsU1VoN0VQYU83Q2pxOTRSRTNtMjZ1blFXdDVMS2pIU1lJVDBfdjd6UFR4WEw5OGRES2Qz?oc=5",
       "publishedAt": "2026-10-21T23:50:31.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -363,7 +395,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54LXZQX0tOSFRGb2M1UE9kV283VlNMNXRaVWxDdW0yTXJUTWhKV3dETnFyUXBZMXMwbmd3UmdfMldlNEotdjF1cXJkdUFLVDREUDZleWNUdUZpTzlXdEpSSkhBZ0RaOTFNNmJoLU1LcjZNUdIBdkFVX3lxTE5hZGNKbjhFdjNFSVo5QXhib1dQdjFTUnpVZnp0VUtpRGdUeS0ySUNGUnlxSGpVX21sN3puVHpJMWdoOVJFU1VIc3UwWkN5eXRVbGlGVGt6YXU4dHJlZlF1MjBZZWU3eE9fQV9QNU9Ob0NVcmFBaXc?oc=5",
       "publishedAt": "2026-10-21T21:30:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -395,7 +427,7 @@
       "source": "서울신문",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTDVpVmZNdVNJZUJNRTFhRXBubGxMUElJSUlSa3hIal9xcDQzaE1mYldQbU5oamxlTnVSREM5N2ZiMDI5NVo3a3F1QnZJZW9qZ1IxSnJtQVhkT2xhMllZUm5EMzVQVXhmTlA3Q3B4MEZqOWVOenlrNWd3?oc=5",
       "publishedAt": "2026-10-21T15:47:34.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -422,7 +454,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlei0xb3ZfV0h5T2NqQ003ZlFWQnYyOFItV3hNblZORDJIaUtSOFhYQkdMWFFFWk8wV280czltNHFKbzROYU93MTF6WkFBVWdy?oc=5",
       "publishedAt": "2026-10-21T08:18:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -454,7 +486,7 @@
       "source": "더밸류뉴스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81dEtQVUJaTV91LURiN2NSaUtEMzZPYzhsWWJQYVJ3UXF4YnBfbzExR2NxamYySzRnM3pIVFRlYU1OM3Z6czFGamJfVWxadWZfbm1B?oc=5",
       "publishedAt": "2026-10-21T07:49:59.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -481,7 +513,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NWk91d2lIbkNBeFBXQ28xRFhkdTQweUJEV09meEEzbG1ud2NWYWRuSDFXdnFWSXgtTGVRem9ucEUtcVYxXzNCNEdNTFd6N3hZMXlWdmFrSGtNSWhId243NGZTVGZpRXlnMW1uNFl6d2Y1S0E?oc=5",
       "publishedAt": "2026-10-21T07:26:53.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -513,7 +545,7 @@
       "source": "ESG경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hSUlIVFhLZmVLR0RnY0xIWVhqQ1VpWWJpTmIydHhWakIwWXpsZVB3eGt5ZzFsdExfS3FEb3F2OUxSbU5wbWpVR2JJWW5pc2U5a2Y5VWFiSHp1YVhBN3RRbTZ3NnJyb2JMZUpySQ?oc=5",
       "publishedAt": "2026-10-21T07:11:35.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -540,7 +572,7 @@
       "source": "경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRmxrSmFFMUxQWG1hWWRnMHJVbGR6MVUzUkFGY08wTlc2elVYTXlQVnFaQy13TFk2SWhUT2ZXdjdXZ2JYRzluZlZwZExRVXJxaG15TVJfczBEQQ?oc=5",
       "publishedAt": "2026-10-21T06:21:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -552,33 +584,6 @@
         }
       ],
       "summary": "KB금융, 경찰청과 손잡고 금융사기 예방 캠페인 전개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c064aa5ab1cf4da1",
-      "title": "KB금융그룹, 금융사기 예방 앞장··· '의심전심 캠페인' 전개",
-      "source": "한국NGO신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4dWVoYnduYUdnUExzRUdGa09zdVkwRGs3UUZyd1kwRE5nZW9pOTFSaFduMERFU2NlM3ZnSHdJLTZERlJpVUR6RUVpdEpRSlF2bDRIQUdyZ0dUM01OQlhsZzhZMEFNWUFN?oc=5",
-      "publishedAt": "2026-10-21T06:18:55.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융그룹, 금융사기 예방 앞장··· '의심전심 캠페인' 전개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

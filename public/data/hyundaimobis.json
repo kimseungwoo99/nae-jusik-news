@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:52:36.585Z",
+  "generatedAt": "2026-10-26T08:18:04.443Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "현대모비스",
     "ticker": "012330"
   },
-  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[인사이드 스토리]현대모비스의 '반도체' 도전, 지금인 이유",
-    "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크",
-    "글로벌테크놀로지, 현대모비스와 차량용 반도체 첫 양산"
+    "아이디어부터 특허까지 한자리에…현대모비스, ‘엠필즈 페스타·발명의 날’ 통합개최",
+    "현대모비스, 임직원 아이디어와 특허 모아… 기술 혁신 축제 열었다! | 뉴스 | 현대자동차그룹",
+    "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안"
   ],
   "articles": [
+    {
+      "id": "b20e30994a593f5d",
+      "title": "아이디어부터 특허까지 한자리에…현대모비스, ‘엠필즈 페스타·발명의 날’ 통합개최",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ONTlTakVyZWlkNHJZMHhiR2o1bGJEQTZMWHdUQ2hmQ1RqRS1zWXZlTFBpZkZEUDlYOHozZXBKLTMyVFpDdWRXN1F6X0txamI4LS1IcXd2UHNuVTlyZVAxYWJaVzhsc011d1pUSFBHTk9lZExfR2fSAWZBVV95cUxQdW1FNUpwbkRZUzJkQ3hPeWpvWGU1ZG83ZHQ5YUdkTEtIdS1ZQXYwelJvN1J2X1JpRUYzQ1lYS19pSmgwa0diN2swZnpPeWJ1MGdEMHdQMDZSREtDbU00VkVvcjJTTUE?oc=5",
+      "publishedAt": "2026-10-26T03:14:52.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "아이디어부터 특허까지 한자리에…현대모비스, ‘엠필즈 페스타·발명의 날’ 통합개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1a39bc73b68f44f1",
+      "title": "현대모비스, 임직원 아이디어와 특허 모아… 기술 혁신 축제 열었다! | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDU0QlpEODI2QjBCbFdVS05idW8zcGtQZXJHNlViSjRTa2kzTUNKYnB0VEFFeEx2SzBTWU5YQV82bWZweTRlSjFKZy1MNzRhZVo4T0ZsaThTaHg0b3lGSWhIdVdkNEtNZm5HWVNYODZKSkQzM0dDaTJSbjBKNUtMeVJKcDA2NDQwdGlHNm1MVktHOTB5cGQwUzNLSFpOUDA?oc=5",
+      "publishedAt": "2026-10-26T00:58:00.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대모비스, 임직원 아이디어와 특허 모아… 기술 혁신 축제 열었다! | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ae5e0c029b0a2496",
+      "title": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YSml5dHJsNVVrQXN2aC1fMkRwODdSOEExbDJKVm13OWFvRjRYVlVpUDU2blNzMkJCanB5NXpJTlJkbGtSWHVCWW1XbXQwWFdmXzJPcHVLS0tnMTdfX2RtQdIBYEFVX3lxTE1YSml5dHJsNVVrQXN2aC1fMkRwODdSOEExbDJKVm13OWFvRjRYVlVpUDU2blNzMkJCanB5NXpJTlJkbGtSWHVCWW1XbXQwWFdmXzJPcHVLS0tnMTdfX2RtQQ?oc=5",
+      "publishedAt": "2026-10-26T00:12:53.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "1aa94d7c4cabb874",
       "title": "[인사이드 스토리]현대모비스의 '반도체' 도전, 지금인 이유",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT3JRbFAwYmxhbXJ0dlF2dzlFVDNoM2ZIemVaR1F4ZHNzNVM1b2lySDJfSk9LV2xqY2RKU3Bqc0lkd0hSTE5KYzR5VnpPVDFlVEdoWlVMYnBDVGtyOWxrNVdRaE9Scnk0Uy00Mg?oc=5",
       "publishedAt": "2026-10-22T21:50:03.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -42,39 +123,12 @@
       }
     },
     {
-      "id": "7bc8cccd8ef12422",
-      "title": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tRjFvZUluWUd0V3VIVWFVVjVhcmJ3TFZHTU1EN1VESjRqNVkxeFUtbUZDRF9rWVh6S3EyUm5raWZ4eUVEZ3ZTLXFFbUR0Xy15c1Z2NW80X0FHeHlFMUcxcXRkZw?oc=5",
-      "publishedAt": "2026-10-22T14:10:31.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "0be2f654bce344e9",
       "title": "글로벌테크놀로지, 현대모비스와 차량용 반도체 첫 양산",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aQWI0bEhueXRQdUduaW0tV0lTUjFYVTVaWFlUQXdiaHpuam9sM0o4SVN6Sk9wYWs3czF3MWJnUnhhMk9Ja3RiUDItMDF5dw?oc=5",
       "publishedAt": "2026-10-22T05:10:15.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -101,7 +155,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Z0dOeEJySjliZnNHd2h1VzlPcnJPQkVJS1BQZ2VxUjhSVWFyZlludW5kX2RSTzNyejM0N2Y5QnplUmJBNkFhR2dQdGlIYlFyQXQ5RERjNGNBUDBEVjQtMFUtNUtWSG90YnctRE1FSVU?oc=5",
       "publishedAt": "2026-10-21T23:02:02.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -128,7 +182,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQlNvTW9zX1NMajJfeVB5X2FoN3pzcG0xRng4SmdwMU9wQUMyVVBUa0FuVklQdExsR2M2TDR2OE53Y29WdWo0enpUTVRjOG5BckpoUXB2YThGWURpbXdUQVY3cFloLURIMFhLT9IBckFVX3lxTE5QU2FGQ0Q0MkZSSXA1YkpjNnRlRmVIbkhydm8wLVBVR2twRHUwLTI2SElvT1RiX1pwUllRbGJ0anJQYm9lY2xiSFQySmdYT0tXTDd1a0VybWNMNGJ5eTNfWC01d0U2c0dnR2hsQmlyTGdHdw?oc=5",
       "publishedAt": "2026-10-21T18:50:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -155,7 +209,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0U4eVp2RmxoREdEYnFLTFk5MmJydGs0NlJtUE9UeTFGeHNxSjVaNFNzQkF4cjVEUXFyZmRXdGJXMU5JalNVSzUwYVEwWllRRjRUMWZwcnlTWXo4RnQzTWZCbWIyUHNWM3JuRnhOaC1FQkdkSVRfN09yWVI2MVJ5ZGdRTEQyaU96UTNqejZRb2l2clNUYUpkRDVqdzJldDhvX1RTenprX2VYbGhG?oc=5",
       "publishedAt": "2026-10-21T08:37:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -182,7 +236,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOM3VmRnIzaVdKNlRJcmpBR1hwZzBzZWtJY1l6UnQxZ0J4X2h1Yjl0RjFfU1pvbUFZYW8wQmQ5U05WbnBWTTZ0M0hLRGlnYmtlZVhQdFBiaXpKNm5WQ0ROaDlhU2FWMlk?oc=5",
       "publishedAt": "2026-10-21T08:25:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -204,41 +258,12 @@
       }
     },
     {
-      "id": "346ea5851a7d0cd3",
-      "title": "차량용 반도체 국산화율 5% 벽…현대모비스, 팹리스와 돌파구 찾는다",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcFczZ3JMbDN2aHBuVFJmMENBQW4zS19NMm1tbEVCTlBwV0c1ZVJpTVJxazltQ09MdXJzVnBtZHdoLXh5VGg0T1dNRVVjSGlWcV93X1pmVjh6dw?oc=5",
-      "publishedAt": "2026-10-21T07:46:04.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "차량용 반도체 국산화율 5% 벽…현대모비스, 팹리스와 돌파구 찾는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2fa51a51e90383a6",
       "title": "현대모비스 주축 K미래차 연합, 車반도체 13종 개발 - 조선비즈",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ZXBzTTVYRXdycVMzU2xRNzJyWUpGV0RqQkh3bi15RG5jbWpiOUVMZTc3MlpEc3lhLXdub0VXNTNpLXkzUElsUGRKd1lVN3BMMjFPRU9aZXZUOXlqVVI1aDhrS1lEUFhrMXA3ejlFWHdWSmttVDR3NWk5eUk0QVXSAZMBQVVfeXFMTmNERHViSk9FUnBKdXVvTlhnT28zVHlxM3pEQ0xscTZWZ3dkLW1VbUxQWjNlNUF1ajFOdXhSRUVXVWw4ZHBjZExoTm5kLUNJdXV5ek1sbmQ2U1EtZnJta0o0UG9yaTRYWXJwM1ptSHNXeFRadXktQ3VpSzNqc20yX1pHajVnSkhGSFpVMHVsTWR4VS1J?oc=5",
       "publishedAt": "2026-10-21T07:42:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -260,12 +285,12 @@
       }
     },
     {
-      "id": "dec395a1c08d1a0e",
+      "id": "aeae364faeca9bfb",
       "title": "현대모비스, 차량용 반도체 국산화 ‘속도’…13종 개발 착수",
       "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYm9zT3B5bmppQTFjejFPY3prOUZiV3diTy1zTmtUR3RKbTUxTXVSbVJtaDhJelA2NUM1T3lhOHVkQ1pKWTJsRzQ4SWxHaTV5UkN2TU43cFBnSVN1bTU3Nw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95YmhXWXpEb1J4bzJ4QTJyQkxhUkxqOF94VUVXOTZqT19NcERtbFJvanMwVUZlaTJhRnlLYVUxMWJYQWxJQU5CNkxxX2IxR3diXzVvWmhmaUx6WEREVXNTMg?oc=5",
       "publishedAt": "2026-10-21T07:26:28.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -287,12 +312,12 @@
       }
     },
     {
-      "id": "c9da316d206bdaa6",
-      "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑재",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMzRZWWl2MjFnVUFiUk9NYTYtdWlvODFFZnhjSC1NZG1VSVMxVV9JQ2dSaUtHY3NHa3dtR2NfRU03WVpmbnI0Q1ZOV0k4ckdCT3kzaXQ1NlZLRG1QZTYyNllIUVZvNXZfeVFZN25vTmIyVjN2SjBrVk5UX0dYNk0?oc=5",
-      "publishedAt": "2026-10-21T07:12:13.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "id": "55c9ba22f6cdedd1",
+      "title": "이규석 현대모비스 사장 “자체 개발 車반도체, 2029년부터 양산차 적용” - 조선비즈",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRi1SS3JibnpibU82Y2VpVXFZV2xPRGhTOWxWY1BNZDlqNkN1OFphbXF2YmN0REptVzkxU1RLOWJuQTd6SW1tY0RzMTF4VjVuc2NBQm1YbGozYkxkdlBnUWI1WDhRaVJuZmNuSlBPN0JNa083VVpxdVBqOG5JSVHSAZMBQVVfeXFMTWRabmlROEVTYTNCcDF4Nk05REExbEptSVhfM0VPdEJSZHU4MjBwRzJuS3Fsc0ZJcjJKOERGaVVqM08yOWFvOFlzUWxteWFmMFRmeFNFY0REamxzeHVUUWdwS2hhLU9HdVhwVEVfRTZSQTR5S25FQjBFbTZHWnFuUDZDeE12b1RGc18zVks1MVhsQV9B?oc=5",
+      "publishedAt": "2026-10-21T07:02:00.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -303,7 +328,7 @@
           "ticker": "012330"
         }
       ],
-      "summary": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑재 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "이규석 현대모비스 사장 “자체 개발 車반도체, 2029년부터 양산차 적용” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -319,7 +344,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CMUlSUVB4RUZZQmVqYUswY3JWZE9FaEFFc3hqY3VmcFVrSUJIcnZTRmlTRElkUTRya2MwTllDUFVLcjkyOUlCUFZKY1RtR1lqVW5kZzJRX1hycVdhRkFZSA?oc=5",
       "publishedAt": "2026-10-21T06:50:08.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -346,7 +371,7 @@
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sbmpMYWJjRmlhQnNWUndrOEdKVmt5X2Nac0tmbFRzWGkxaVFsZFlMdm1JWXVnVlVhd3pwbFZwMGppWUxQTzRycUNOR05RNFktYlF1SWx6WVJDVjRDdmFBT0p3?oc=5",
       "publishedAt": "2026-10-21T06:42:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -373,7 +398,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EWi1PM3JxT0VpTUQxV3BfNVRZTHg4dk5VSkN3Z2lyUWFMQ3RQdGVSR1ZIa0pRa3R3NUJPajNlaDhmZHpmQ1hCcUFMVXRMQzJ4c3JJYm93ZnByWFluYWc?oc=5",
       "publishedAt": "2026-10-21T06:10:44.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -400,7 +425,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VWRzV3ByQktWVFlYQVJEQ2d0U21RTTRkbUlDUUFEUE84bWZtaENMSzlRbVgtWnk5alZMOVQ2dl9wNHd3bXdNZjdIUEtGMUZtWDNJeWRHRFdBeFHSAWBBVV95cUxPY3pXZ0psY25Dd0x0azdjODZhRF80OHZidXNaT3dwNllOd09sUEZSaGF4VTZ1NnBNTUtXbmJkQXU4SkJ5WWMzTkNZeERNUWFZWS0xeVh1UHNKY1VSUThBb0w?oc=5",
       "publishedAt": "2026-10-21T06:10:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -422,12 +447,12 @@
       }
     },
     {
-      "id": "e21633c5d6fd5bba",
-      "title": "\"단기 실적보다 공급망 생존\"…현대모비스, 車반도체 생태계 선제 베팅",
-      "source": "www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBud0hKTGFxZzZZd3A5X0NDRmoyX2ZUb3JPRjJYU2pvbXVUTGQ3eXVRR1hOSDdGR2IwVkxMT2JGSzB4bUxOSUpaRTN5RjlqbDBQcWZiZWJyQkUwUkJNQ1BNanZQcFBPZk5V?oc=5",
-      "publishedAt": "2026-10-21T06:10:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "id": "380512c958bef379",
+      "title": "현대모비스 6위 수성·현대트랜시스 27위 도약⋯ 中 폭주·유럽 침체 속 ‘K-부품’ 선방",
+      "source": "브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNG83SVo1SmE2SjAzMGlDd0NmZG5BeTQ4Q01aZm5tU2FiQ0Y2TzVYMEdQcGlPVFZweTRoN3Vic1BpQWVlYnhIZmR4dnpTd1I5Wm1nNDJPMjlyQQ?oc=5",
+      "publishedAt": "2026-10-21T03:20:00.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -438,8 +463,8 @@
           "ticker": "012330"
         }
       ],
-      "summary": "\"단기 실적보다 공급망 생존\"…현대모비스, 車반도체 생태계 선제 베팅 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
+      "summary": "현대모비스 6위 수성·현대트랜시스 27위 도약⋯ 中 폭주·유럽 침체 속 ‘K-부품’ 선방 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -449,12 +474,12 @@
       }
     },
     {
-      "id": "165fdd8db8899b9c",
+      "id": "d1288f042a172cef",
       "title": "현대차·기아, 레벨4 자율주행 트럭 잰걸음",
       "source": "세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jWXNIWnlVVEFCUTNCcjVUNF9fWUJNbW1HYXZxV2UxU3pBN3pnT2I1TUFTeUhGTkFOWXBzbkxqc29WUmltN0pYV0tnODlnU3V40gFUQVVfeXFMUG11VU5WNVpNb0ZyVlJIMU9fX0xIeXRFbGtxakJSeDVrbEwyVjZtY0FvMFlsRmNPYXpTWW91V0NQaDF1cHpHVmpDRWNKUlZ3ZDIxVUlN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNRzc3U1dhZUFheFhuRkNJZnB5d09raWNBb18wMDJDVEhCMEpya3VKcHRUYmtkbzRWa1V1a2VKYmxkRE1vTkM0dU1VOGgxS1pfMTlPeTMxWkrSAVRBVV95cUxQbXVVTlY1Wk1vRnJWUkgxT19fTEh5dEVsa3FqQlJ4NWtsTDJWNm1jQW8wWWxGY09helNZb3VXQ1BoMXVwekdWakNFY0pSVndkMjFVSU0?oc=5",
       "publishedAt": "2026-10-20T21:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -476,12 +501,39 @@
       }
     },
     {
+      "id": "5b2542d7142de553",
+      "title": "현대차·기아, 레벨4 자율주행 대형트럭 실증…실제 물류 현장 달린다",
+      "source": "물류신문",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZjhNeGFUampieHNwNUF2bXlxWDBzbEctUk5lZXVMTEp5SlpYM1E3aXV4LVVhNW1OOFYtbkVYaHYtX19XSEhIcS13OVR4Q0k1NldTZEtGSmJld2FpU1o3eXVlaE9kUjRiZ2F2S01zd3Z5WkpGZVpDbTNrNVRYZ2lQNE5ZVy1KS3BidG5uUEV2UjhKdm8?oc=5",
+      "publishedAt": "2026-10-20T04:43:18.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대차·기아, 레벨4 자율주행 대형트럭 실증…실제 물류 현장 달린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "766a1dc014fc606f",
       "title": "현대차·기아, 레벨4 자율주행 트럭 실증 추진…내년 초 차량 제공",
       "source": "www.ebn.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjZWc1B6RnZocmIzLWV3N0dNNWtaeC1RVDZXeUlReE5mOEVnS25STmM0ZUJoMFBQRGFHd0l0bDJKMkdwUHFuNEhGWjZxd1Bzb0FqWXRXUUh3Q2dqVTJoYkh5QUtyZlJK?oc=5",
       "publishedAt": "2026-10-20T04:18:49.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -493,60 +545,6 @@
         }
       ],
       "summary": "현대차·기아, 레벨4 자율주행 트럭 실증 추진…내년 초 차량 제공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e381eee2180f8cfb",
-      "title": "현대차·기아, 대형트럭에 자율주행 4단계 실증 추진",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LV1JINHhuS25WSEtZaUxCOWZkSDloRDNWR1JQUmRyTy14Tm9JT0F0WXo0NGgteEFzX2V4MGg5TE16Y3UwTXctcllMNWY3WDE3Q3ZtaVJ0OURDd9IBX0FVX3lxTFBWc2djbG02UU1RNUZUdWVKTXcwYnRPUlB3TUJEMzYtRDdnUUtaM3BmZWtMNHRYXzhyOHRoTUg1Nl94V0FGaUhId2hmSnlHVl9LNXNLdlM1alZpYlZKVnJr?oc=5",
-      "publishedAt": "2026-10-20T02:26:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "현대차·기아, 대형트럭에 자율주행 4단계 실증 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b99940b43e5f5b4b",
-      "title": "현대차·기아, ‘레벨4 자율주행’ 트럭 투입한다…내년 초 엑시언트 2대 제공",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pcFpwX19NdHFfNFZqT2NGTUc0TV8yRUo3SUdZYnJtcXFZZ3VGOWNaSHFQRzB0WjVuTHV5Zy03TERXUTQyaE03Rk1aX2lvZzFUaEtkRTBSRGRsbmhjcTZFMVUwSTBjRmNrejBPdG9JMVNwS1JGbVZDelRuU09HUjQ?oc=5",
-      "publishedAt": "2026-10-20T01:09:43.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "현대차·기아, ‘레벨4 자율주행’ 트럭 투입한다…내년 초 엑시언트 2대 제공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",

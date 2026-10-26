@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:52:36.585Z",
+  "generatedAt": "2026-10-26T08:18:04.443Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,164 @@
   },
   "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "K-배터리 다음 경쟁은 ‘안전’…열폭주 막고 불량 셀 찾아낸다 [현장+]",
-    "LG화학 \"대산 BPA 사업 매각 계약 아직\"",
-    "[기업해부 LG ⑥]휴대전화는 접고 배터리·전장에 투자…LG의 돈은 어디로 갔나"
+    "국도화학, LG화학 대산 BPA 사업 784억원에 인수",
+    "LG에너지솔루션 EU 전기차용 LFP배터리 설비 지원금 확보, 김동명 폴란드 공장…",
+    "LG화학 주가 22만원대 추락…52주 신저가 기록"
   ],
   "articles": [
+    {
+      "id": "3a38f6799d40ac95",
+      "title": "국도화학, LG화학 대산 BPA 사업 784억원에 인수",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RZThndl8xM3lDMHZETlgyMDVTTVZIblVWN29ONW05cXM2cGR3YjdFNmIyTUNfMGRQSmlGQ0hfM0wyRUowc200WGVFX2JfN0hNOTFzTFlQcVdrV25SSmw3dG9oMDk3QQ?oc=5",
+      "publishedAt": "2026-10-26T08:08:13.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "국도화학, LG화학 대산 BPA 사업 784억원에 인수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b67579a41ab63026",
+      "title": "LG에너지솔루션 EU 전기차용 LFP배터리 설비 지원금 확보, 김동명 폴란드 공장 '흑자전환' 속도",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNlQ1NXNkV2pmY1NJWDRMOUM5eDFQUlI5UTkzamw2VFdJa3FORHlaazlJRWdSejhuV2ptc0l3a0xBU0pON0hRR3dIelFzSTc0UDRDeElmWFo5VlNHd09TNFJnMmN3cDhjcDVEVTQtZDFGWVE?oc=5",
+      "publishedAt": "2026-10-26T07:12:49.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG에너지솔루션 EU 전기차용 LFP배터리 설비 지원금 확보, 김동명 폴란드 공장 '흑자전환' 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "흑자 전환"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ecf4e2951e0f36d2",
+      "title": "LG화학 주가 22만원대 추락…52주 신저가 기록",
+      "source": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVHZDaHNsMkhsLWhsREJOYmlScmEtZkU0d2FNMHZfeVpUcG5LNzFQYjRnbXZ0TG5md3VVS0ZWTDdIcXRibzdFWHZJUTNxY0NZWkwySjgtakJ3RVA1UWhLZ3Radm9mRUNscU9vSkt30gFuQVVfeXFMTmZUdkNoc2wySGwtaGxEQk5iaVJyYS1mRTR3YU0wdl95WlRwbks3MVBiNGdtdnRMbmZ3dVVLRlZMN0hxdGJvN0VYdklRM3FjQ1laTDJKOC1qQndFUDVRaEtndFp2b2ZFQ2xxT29KS3c?oc=5",
+      "publishedAt": "2026-10-26T06:13:21.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 주가 22만원대 추락…52주 신저가 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "약세"
+        ]
+      }
+    },
+    {
+      "id": "bc9dfe476a811c67",
+      "title": "2차전지 소재·부품주 혼조... 차세대 기술·수주 경쟁력이 관건",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yTmRpcjZ0U0c4V2R0a3d5cjAzYWdGRE1lZ1hoTUxicmpLM2RLeHp5YzJtUFJQVjh2c2V0VzB0TkUyUlZaSWhQVTFCMlJWZHhkeTktM1pua284RHZEMkVfb0Z2VUxOQ29PQlVFYnRqNjM4UVRscVJv0gF3QVVfeXFMTjJOZGlyNnRTRzhXZHRrd3lyMDNhZ0ZETWVnWGhNTGJyakszZEt4enljMm1QUlBWOHZzZXRXMHRORTJSVlpJaFBVMUIyUlZkeGR5OS0zWm5rbzhEdkQyRV9vRnZVTE5Db09CVUVidGo2MzhRVGxxUm8?oc=5",
+      "publishedAt": "2026-10-26T04:27:23.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "2차전지 소재·부품주 혼조... 차세대 기술·수주 경쟁력이 관건 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "045ed0a1c089fb9b",
+      "title": "[신용등급의 이면⑥] 소재 성장만으로 충분한가…LG화학, 석유화학과 투자 부담의 시차",
+      "source": "경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMVp1cG1VQy14dkVNSjl1SEpKWDZVZFVFTTNTazV0TUdrUHR1ZkVGS2hadkJuSFVOSWRZQVhlUFU4Z0JkY0NTWTNySGl0azRHZXhfdHlaUFhRWWhtRUJjRW91cUFhekll0gFoQVVfeXFMUE8xWnVwbVVDLXh2RU1KOXVISkpYNlVkVUVNM1NrNXRNR2tQdHVmRUZLaFp2Qm5IVU5JZFlBWGVQVThnQmRjQ1NZM3JIaXRrNEdleF90eVpQWFFZaG1FQmNFb3VxQWF6SWU?oc=5",
+      "publishedAt": "2026-10-26T01:52:29.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[신용등급의 이면⑥] 소재 성장만으로 충분한가…LG화학, 석유화학과 투자 부담의 시차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "0b9734540e590d91",
       "title": "K-배터리 다음 경쟁은 ‘안전’…열폭주 막고 불량 셀 찾아낸다 [현장+]",
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemJZekg4NTBkRDl3U0NTZlJvYlQ4cDA0enJlVWxyUG9fNTRUeXBfVFU4WTJvQ1FQN3Z4X1EwYl9hcDNKWklLR2F0Nm1vZWFueDBFeVRMVkxMYUdJUVhhWFJRdw?oc=5",
       "publishedAt": "2026-10-25T09:37:11.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -47,7 +193,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MVXZUcWFfOFFDUDhjNFRTQ0w2M09wUEhUYkpZTFRVZldELXdxel9EVGJHRDR6dmozVkxmdlAzYURWa0Y0TFB6NHpCNS02NUpDTTV5YkxfZkFXRlB1VEF4NGNVZnF6US03?oc=5",
       "publishedAt": "2026-10-23T09:06:20.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,7 +220,7 @@
       "source": "https://www.ppss.kr/",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YVl9hRTFGV2o1UWhhNTV5Sk9jekVjWnMzck1tejZfVnoxVVoyQUNmWXIxWk1wY3VYeEpTVkhjd1hUZnhNZlJJOWp2Sy1qeUxlSktyTUZ1Zms5OHdKQ19FbkFzLWY?oc=5",
       "publishedAt": "2026-10-23T05:00:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -101,7 +247,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fTVllWl9PSWotSFFzanh1VjM2WmNiUVIzQkxpQXdIbzd3NUlrUkZTSzRiLUhMdlZGRHJHRHdDNlpicnJHTUhObjdYNm5BQ0JBVFlsZEt6SlpSNjNMdWRxVkJTQTdGUkI2OGRCMdIBckFVX3lxTFB0d1F3a1JnM3NMTUFfWU4xV3FxS0NSdkhOcHlHYVBLd3ZJRUtpMUVsRGI2UVJDaUlHeXN6ZWp2OXI0c2k3cGZKSUhjamV6WVRHbXZVUUVqcXBYX2poUHY4RlAzUGZsNVN0b1JTMVVOSFpxZw?oc=5",
       "publishedAt": "2026-10-22T09:44:45.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -130,7 +276,7 @@
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WWhhWFVvcVRUQk54ZlFIbjNNdDJnODBxRXVHSEt2TVRYbU14UGNpX1JodW1yeU5maE9lcTBSZ2NqTlJPMU42cmd0eE9hOFlxdV9NVzdjLTFMTkhJZXlKYmEwcHhsZklPeFpVdUpNSEZid9IBckFVX3lxTE80WWhhWFVvcVRUQk54ZlFIbjNNdDJnODBxRXVHSEt2TVRYbU14UGNpX1JodW1yeU5maE9lcTBSZ2NqTlJPMU42cmd0eE9hOFlxdV9NVzdjLTFMTkhJZXlKYmEwcHhsZklPeFpVdUpNSEZidw?oc=5",
       "publishedAt": "2026-10-22T08:00:59.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -157,7 +303,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0cUdoTW9yNVJHbmpmQVZZcFhsUWFmRUk2aDM1c18wQ2RlLXVkTzlyWm9fS3JlV1BPRzhyQjlyX1JyQzdTc1VJdzltRFRjaWJWTU54R0g4b19pSlNfZEVuWmVyZw?oc=5",
       "publishedAt": "2026-10-22T06:45:40.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -184,7 +330,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Pck1NeUJPSFB0cFVEOGdWa2FrZzJCOVRibmpLVGtFTTJtdlRCZFJBVGwwTktFX2hWckY3QUZzSFFPYjZQMkVHV1pYbXVUU0pQaW5FVTh0aW1hMW5yVDV3RjFUTQ?oc=5",
       "publishedAt": "2026-10-22T00:57:48.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -206,39 +352,12 @@
       }
     },
     {
-      "id": "cb6b9d7717d4a4cb",
-      "title": "LG화학, AI 기반 '맞춤형 신약개발' 체계 가속 추진",
-      "source": "약사공론",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xOVMtTWd5T3M2Qmdhemsyc3d6V0hqazdsZmxrRWdJcWJOb2pHRkNzMDF0MEYzOHowdEJaeU9LcmlSaEVXanNpcUdRX3FIWGtMZzZXRDFmY2lZN01CVHI4Q0xMVE40U0FJTnhRMQ?oc=5",
-      "publishedAt": "2026-10-21T10:52:36.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, AI 기반 '맞춤형 신약개발' 체계 가속 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6ab9cfe7e0e87a5c",
       "title": "LG화학, AI로 신약 찾고 환자 고른다 外",
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdmNHdEY0OGVJTUdwamk4NWFxSEc5b3V4Tzc5VEN2YXVMU3RKSFhHRHh0UDNITUtELUh5NDl0by12TUw0OXJzSGxRa1lGdzh1?oc=5",
       "publishedAt": "2026-10-21T05:49:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -265,7 +384,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeTd4OVp1Q3dGeEJHR2p2dVN0Mzgyc0l1aE04Q2YyMHl2RzM2QmNFTmNmR1VRR2hfQm4yS20xczczQmwyTmN2eGtiS0U5UEVjZ1pTLUxGVF9lSDNCUGt6SQ?oc=5",
       "publishedAt": "2026-10-21T04:46:30.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -292,7 +411,7 @@
       "source": "바이오스펙테이터",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oeHpGYnlCSmFfLWVoTHhjdjdBTjg0WDNBZWxENmsxRmM2YVlibDM1WXljX1BKQ1FxdmcyNEZKS0RGRElodXJycUNORTZ2a3dwaEdDdFFlUDNvSy1jMk91ZHptYUtmU2NlZFgwUw?oc=5",
       "publishedAt": "2026-10-21T04:23:00.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -319,7 +438,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UDBFV2JrY3NYd0wxQXBtU0hvSDAxdE5HRHpMei1wQk1fOHoxSy1UVEtEby1IUHF4ZVBHT3REMUpPMUU4LVhycjJUWHNlWGFJWFJMcGl5NEdCeHNOTFlXQQ?oc=5",
       "publishedAt": "2026-10-21T02:27:29.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -341,12 +460,39 @@
       }
     },
     {
+      "id": "546bef712b99c867",
+      "title": "“AI로 맞춤형 항암백신 개발”…LG화학, 2029년 임상 추진",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PTVNmdGNKMzBDUXZ6Q21wY1pENVotYWs4OFI3bks0YUQzV0xQUlo0UnBKZURjQmt0cU9IMVBpaFExamM3ZmVUWDhQRWZ2UWE1VzJCc1VBeGoxb0QzZXlYSFFGMkg5M280VUlKUUFGRjBGcTNiRkHSAWZBVV95cUxOa1g3c2RieUNDaVFzWFQ1d0NlSXpKcm9COGk2NmZYdjZXRHNEbDFFMDg1cHVhX2hjLWxMbXlmX2R5S2VweDAyZFltR1RfWkRuLWwxY1gwY0hxSGIwdld1THZxdy1RVFE?oc=5",
+      "publishedAt": "2026-10-21T01:14:00.000Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "“AI로 맞춤형 항암백신 개발”…LG화학, 2029년 임상 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "543538e157453218",
       "title": "LG화학, 신약개발 핵심 엔진 ‘AI’ 장착",
       "source": "의학신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzFTbEpMVzVISExCTXpiUnR3WVF5bUtHdUNLbkpHYlVyMVQ0MmtEU0F1ZTRhT2hFSW50TGNiSDc5WnRaLTNoV05sYkhMdXRlSk1RcEhaSEhRTlBzRXM3OEVMRTNqYktVdlE?oc=5",
       "publishedAt": "2026-10-21T00:51:22.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -373,7 +519,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QU1hpTlZ5TndYUFlqV3k3Y18xVy1rSHgyS0VTb3lzV2hJNURDeEROcGtVMXVQaTNiMG1pYTlfNjFiNjM0VWhWa1lKMEk5bVBDaUdRZ2MwbmpuUHNvWTBLRnZHcGE4d0Vlcng3MmdHaw?oc=5",
       "publishedAt": "2026-10-21T00:44:03.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -400,7 +546,7 @@
       "source": "팜이데일리",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aTnhqVHMwWXo0OHYzTkFQN3BNaUFlbXM5d0poNXBrOTJNUldEZ0M4Z01SWndVbFc3d2g0ZjJsd2s4dVJvVFB5alV3Q2tJSW1MUlZHSEFRNnFQMDY4SlVTdmROT3o4X0tFUENqTmVn?oc=5",
       "publishedAt": "2026-10-21T00:41:29.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
+      "collectedAt": "2026-10-26T08:18:04.443Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -413,150 +559,6 @@
       ],
       "summary": "LG화학, AI로 신약 찾고 환자 고른다…2029년 항암백신 임상 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1c7a627d50b1ac2c",
-      "title": "LG화학, AI로 신약 찾고 환자 선별로 혁신 추진",
-      "source": "메디소비자뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nSEJPbjM3bTEwWXBsRndoWVh4a2NVV1pXSlhpd0ZxSU5EYm5ScWR3Y25RZWpRZEhvSm95RHotM2lSeXNNZklyZE8xd0VfdW5NQXppdVo2ZEFVdlJlYnJhSXVQWkJtd3dtRkNwSTBtXzdlZ9IBdkFVX3lxTE5fdUNJRHlVT3pIenFYUXJWZDFtUDVQSjFZWW4yLUlKejEzMDFDU2MzOGRjWWNyLV9sQWFhNTkxRUpjQWR4OWV2RGg0N21JM3ZQVVpNa3I5dkpUR2R6aGc1M1llMXYxSjl5VUx2eGplYl9QSUVMdWc?oc=5",
-      "publishedAt": "2026-10-21T00:03:19.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, AI로 신약 찾고 환자 선별로 혁신 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "03fc4e29e2707534",
-      "title": "김동춘 LG화학 먼 미래 보는 사이 눈앞의 기회는 경쟁사로 : 북미 ESS 시장 확대 전망에도 LFP 양극재 양산은 2028년 이후로 지연",
-      "source": "허프포스트코리아",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94bC1QVE85N2JxamtMeWg1ZlhqNkVDODhfVkRWVl9VNk1VX2lJNmg4M1REV0E4MEFETjNTWlJBdlVIbnNqTk10aWNleEJ1dFZLZDNnSzd1dw?oc=5",
-      "publishedAt": "2026-10-20T08:35:18.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "김동춘 LG화학 먼 미래 보는 사이 눈앞의 기회는 경쟁사로 : 북미 ESS 시장 확대 전망에도 LFP 양극재 양산은 2028년 이후로 지연 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.35,
-        "confidence": 0.66,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "지연·실패"
-        ]
-      }
-    },
-    {
-      "id": "380409db4f278d0a",
-      "title": "석화 반짝 흑자 끝···롯데케미칼·LG화학, 실적 악화 속 재무관리 부담 커지나",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54akUtT3hWV1VSOE9JWk11MjlDTXNfeFdMaUdwX09JSS0yWU9iMXBUU0N3Q0w4NHViM1k5Q0xWb0dxZUNseFdjRmpDaTNiMmtVdS0zWG9OLXIwaGF0STdmMlV3NkVRTHJYVE0zeXBheEV4a2VFOGfSAXZBVV95cUxOeGpFLU94VldVUjhPSVpNdTI5Q01zX3hXTGlHcF9PSUktMllPYjFwVFNDd0NMODR1YjNZOUNMVm9HcWVDbHhXY0ZqQ2kzYjJrVXUtM1hvTi1yMGhhdEk3ZjJVdzZFUUxyWFRNM3lwYXhFeGtlRThn?oc=5",
-      "publishedAt": "2026-10-20T07:47:09.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "석화 반짝 흑자 끝···롯데케미칼·LG화학, 실적 악화 속 재무관리 부담 커지나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "실적 부진"
-        ]
-      }
-    },
-    {
-      "id": "bb8d786d86f8282b",
-      "title": "전남광주소방본부, 여수 LG화학 현장 점검",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvYlhYeTdZUWY1U2RwbzVYbDdLZ0FVbjJIUy1MTmN6bHdtdkE2VjdJRmJZV3l4aTJaRDNGelQxTDJXQi1FcVgtMWZNdTNTVVpGVVR4RkUxR0JuWDJSQWtuaNIBYEFVX3lxTFBvYlhYeTdZUWY1U2RwbzVYbDdLZ0FVbjJIUy1MTmN6bHdtdkE2VjdJRmJZV3l4aTJaRDNGelQxTDJXQi1FcVgtMWZNdTNTVVpGVVR4RkUxR0JuWDJSQWtuaA?oc=5",
-      "publishedAt": "2026-10-20T05:25:31.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "전남광주소방본부, 여수 LG화학 현장 점검 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e9575bfdc030566f",
-      "title": "S&P \"韓 배터리 제조사, 보조금 없는 미래 직면…LG엔솔에 타격\"",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZWk5saGxmRG9JWDVLc05JelAzME5BNVIxalZOSzlWR2JicUpRVXRQLXp4aWNDdFVrQnd5dXpFTm5CUHkwYjE0dlFjNXZ3clhyNEMwbEEzdDM2N2tjZk4wdHg5UHo0cjV4T1hBLVdTblrSAXRBVV95cUxOYzMxRklKREV2TjgwMUo0VWNIUXJIVWRnQjBNampBQzZqQVRyY0J4ckMtbjZEWjNNVEZ5anBPQVc5b2JLOFZ4NWtRSy1sUV9abFNoTjNzTld4UG0tRnZzWHJ2X0o5N3A3MmRCNFdIQTVvdEhnMA?oc=5",
-      "publishedAt": "2026-10-20T02:30:50.000Z",
-      "collectedAt": "2026-10-26T00:52:36.585Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "S&P \"韓 배터리 제조사, 보조금 없는 미래 직면…LG엔솔에 타격\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
