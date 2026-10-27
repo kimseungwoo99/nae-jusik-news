@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:44:30.365Z",
+  "generatedAt": "2026-10-27T08:30:23.125Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,50 @@
     "name": "SK텔레콤",
     "ticker": "017670"
   },
-  "dailyBrief": "오늘은 투자 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[특징주] 앤트로픽 美 상장 본격화에…‘초기 투자자’ SK텔레콤 5% 상승 - 조선비즈",
-    "[특징주] '앤트로픽 투자' SK텔레콤, 장 초반 6%대 강세",
-    "SKT, AI 시대 안전·신뢰 확보 ‘거버넌스 리포트’ 첫 발간"
+    "[특징주] '앤트로픽 투자' SK텔레콤, '반짝' 급등 후 1.9% 상승 마감(종합)",
+    "[특징주] 앤트로픽 美 상장 본격화에…‘초기 투자자’ SK텔레콤 5% 상승",
+    "SK텔레콤 5%대 강세…앤트로픽 IPO 수혜 부각 - 머니투데이"
   ],
   "articles": [
     {
-      "id": "ab520dcc0dbdba35",
-      "title": "[특징주] 앤트로픽 美 상장 본격화에…‘초기 투자자’ SK텔레콤 5% 상승 - 조선비즈",
+      "id": "b2f04628e0b45ba8",
+      "title": "[특징주] '앤트로픽 투자' SK텔레콤, '반짝' 급등 후 1.9% 상승 마감(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nRDNpanp4Y1ktTlhFS21DcVJNMEJpa3pYajV3Y1VSekwyLXdPUHc0NmtaczVXLTFqY0ZRYlVCOXRaYnNqVnJnaW1xLUVwNTVXLWJOeDRsRHBtMV85endYd9IBYEFVX3lxTE9nRDNpanp4Y1ktTlhFS21DcVJNMEJpa3pYajV3Y1VSekwyLXdPUHc0NmtaczVXLTFqY0ZRYlVCOXRaYnNqVnJnaW1xLUVwNTVXLWJOeDRsRHBtMV85endYdw?oc=5",
+      "publishedAt": "2026-10-27T06:40:01.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[특징주] '앤트로픽 투자' SK텔레콤, '반짝' 급등 후 1.9% 상승 마감(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98,
+        "confidence": 0.95,
+        "positiveTerms": [
+          "급등",
+          "강세"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "800f8d64696d21d3",
+      "title": "[특징주] 앤트로픽 美 상장 본격화에…‘초기 투자자’ SK텔레콤 5% 상승",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWk9lZjcxMnpOcGVQRkNIUFBOOGQ4X3pJQUdENWRZd3RPM1pldmluall5YzlCS3NwOG9IUGpocjk3ZXk1M2IyQzcycTh6MmtJMWZZSk5PWndJY3QwNFdRRFZDQnhBZllCU0Z6eVZZWmgxdTIzbUNkOGxrZkREVjNyRndZdElmbmNP0gGcAUFVX3lxTFBjYlpXdTJnZ2xDUkFGLURweWlRWEFVeUdaTnVtQzZydjVVX2VlYmItRkRMZUFwdk5fcFZhLS1nRGpLUVF1YnJrYkZ1aDJWVXdZMnlUdzkwVUZONS1jYWNNeTRPa3pQa2RPaUh2VjRDMi1UcnpXWVA5dkg0MW0wenY3Y0RFZk45X2FlQjZfZ2tlXzlHaW9aNGVpeGZNRQ?oc=5",
       "publishedAt": "2026-10-27T00:25:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -42,12 +72,41 @@
       }
     },
     {
-      "id": "c4de4a64e22a3d41",
+      "id": "1dd3a07673c43015",
+      "title": "SK텔레콤 5%대 강세…앤트로픽 IPO 수혜 부각 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GX3JVcHVwUnRJN0EwR1dFUlZUUE45VUkxMDBJa1hhZ2I3NkJJMDU3NFVXZ2VVUU9XbnRFdy04UzAyYmNSdkF1SEdZRThOb05PM2g0ZW9DTkFTUjRLNkNxaWU2NVhZZmhr0gFuQVVfeXFMTlRkLS03eWRlTGE1U3VtNE96aXlhX1BYbXVpWVQtVUF4YnpXZEFVd0FnQVVJQk9aWk5ubkMycDVndFN0SnRvaWQ3WU1uTDJWX210VlV6U00teEY2U0JCRi1SdHBweVFnOF9lSTVpQkE?oc=5",
+      "publishedAt": "2026-10-27T00:19:48.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤 5%대 강세…앤트로픽 IPO 수혜 부각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "강세"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce724aab08205093",
       "title": "[특징주] '앤트로픽 투자' SK텔레콤, 장 초반 6%대 강세",
       "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16eHpuMGJjcGNMenVnaVp2a1IzRjF3YXV2blVIVkpFMmJHZk1ubTROZEgzOWRxNF8tWS10cEdXWS04R29HbTdLMDlqWVMwZUo3WjI1YW5UbmhHYjkxNXlFcEtBUC12LTlaenZldE9oa0ZBWjdGWFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Q0MxcTJXR3p5TXZpTzVmd0tQMU9wX3dReWl2VFJXVHBxeXNJaXhJMGFXdVEyZGh6THRQYVl4MndaemxmeHhPWHA2WmJIUzJQZUpKdllyQmIxSlQtR3Awb9IBYEFVX3lxTE01Q0MxcTJXR3p5TXZpTzVmd0tQMU9wX3dReWl2VFJXVHBxeXNJaXhJMGFXdVEyZGh6THRQYVl4MndaemxmeHhPWHA2WmJIUzJQZUpKdllyQmIxSlQtR3Awbw?oc=5",
       "publishedAt": "2026-10-27T00:09:43.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -76,7 +135,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVktOTFNmQUFMUlVwcVNZMlRzZDBRNkNwSkt2bkJMTjNoSW1kMExXSEM5eXdXT1ZpYlpLQTRZR2FEQklaLWRkMk16RTZGdFgtX0c5TDJUTVhUQdIBX0FVX3lxTE56YzhIWDdTMmJndjhFX1dSUnI4TVhlZjRQTTJvVWd6dXJZSTZhR0tvYXl4NThTcmJqU1M5UDRDMWxiYkFTMzZ4QklIVmRrNm4ybjB2Y2xWQUU2cV94dEQ0?oc=5",
       "publishedAt": "2026-10-26T11:28:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -103,7 +162,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aNGNXMnEtU1BaYmh5OVVPMUVyNWE1cC1lT3FIM1E2d2NxUHlpYk5HdjFYNHpjYnNxT0xTU0VKWE9ydlhiMTlpWmJSbUFfVURUSUwxZWhrclVockFXM2xF0gFfQVVfeXFMTlo0Y1cycS1TUFpiaHk5VU8xRXI1YTVwLWVPcUgzUTZ3Y3FQeWliTkd2MVg0emNic3FPTFNTRUpYT3J2WGIxOWlaYlJtQV9VRFRJTDFlaGtyVWhyQVczbEU?oc=5",
       "publishedAt": "2026-10-26T08:38:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -125,39 +184,12 @@
       }
     },
     {
-      "id": "e228ed9f3f56b640",
-      "title": "SKT Vs. KT, AI 토큰 시장 주도권 경쟁 '본격화'",
-      "source": "톱데일리",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBNjlYRmg5Mktnd09vRUtBdzMyVVZrQ19WMDJMVFEtVkxUamhkMXFSSEEydXhNeVMycTFmTEo1Y2lPVjlMUnhPN0RIRkNpYldS?oc=5",
-      "publishedAt": "2026-10-26T05:46:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT Vs. KT, AI 토큰 시장 주도권 경쟁 '본격화' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a8bc28eaf284b0ca",
       "title": "[기업 생생소식] SK텔레콤, 'AI 트러스트 경영' 강화 外",
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56eUJtZFZlcVdoZmJZVE9XY0hCX1BTZ1Z4Q21ubms0ZzRvOVlHcTNrTzl6bV9haHVqZkVTclo1M3pnVzYxUHFHQkNkakthWFFSekFaTlhzaWFHVUZwWV9XQnBXV2hBWXBlaExZR2o3a9IBb0FVX3lxTE56eUJtZFZlcVdoZmJZVE9XY0hCX1BTZ1Z4Q21ubms0ZzRvOVlHcTNrTzl6bV9haHVqZkVTclo1M3pnVzYxUHFHQkNkakthWFFSekFaTlhzaWFHVUZwWV9XQnBXV2hBWXBlaExZR2o3aw?oc=5",
       "publishedAt": "2026-10-26T05:40:20.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -184,7 +216,7 @@
       "source": "보안뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05SENTTXEwaVcwSFVJcHF0YWhsd1M5YjFEVlJkYmZCaGEwR1hwcFk0RUV6QlB5eWJQeGNnRV9PdVMzOEFsTllodlFXUTJVdU40QmdZNkEtVkptemFMVjRwMHFKUms5WENjc2dN?oc=5",
       "publishedAt": "2026-10-26T02:56:46.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -211,7 +243,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqOFZtZ2dTbHZFaEI0X2Q3YmdnbTRZTHZYYUhTR3MtRUVmTHJpX2hDQ05qa1hNV0JrWDdaSk12b1FJdFNwQWd3WGdWQnNmQnlodFRlWE1VX3VYbjZpRnJFbTB2bXdDLWs?oc=5",
       "publishedAt": "2026-10-26T02:17:30.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -233,66 +265,12 @@
       }
     },
     {
-      "id": "43d29fe6223a2cbc",
-      "title": "“SK텔레콤, 이제는 AI 유틸리티 기업…기업가치 재평가 기대”",
-      "source": "주간동아",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2Y203T0RILTY4N3FTODJ0bXhoYkdqR3NLOGlRTVFfUm56UXdPZkJCRXlkQTlTQmllWlNDOGMyekQxWk5KOVhlMVZ0NDRsdTVHak1PRWV2dEdzbjZsLUlPZU9rN1pWMHdx?oc=5",
-      "publishedAt": "2026-10-26T02:13:12.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "“SK텔레콤, 이제는 AI 유틸리티 기업…기업가치 재평가 기대” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "38dd04df93ea7c98",
-      "title": "SKT, ‘AI 거버넌스 리포트’ 발간…AI 트러스트 경영 강화",
-      "source": "세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pU1p2QlE0d0s2cG1pM0NVRHVnMC0tV3FjZzUwT0RtbWxRTjRMQUI1ektxekJsOWpzRDdPaTBpMGFoTWJhX2FrY1BOaWZGc3NqeWZIRdIBVEFVX3lxTE9pU1p2QlE0d0s2cG1pM0NVRHVnMC0tV3FjZzUwT0RtbWxRTjRMQUI1ektxekJsOWpzRDdPaTBpMGFoTWJhX2FrY1BOaWZGc3NqeWZIRQ?oc=5",
-      "publishedAt": "2026-10-26T02:07:05.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, ‘AI 거버넌스 리포트’ 발간…AI 트러스트 경영 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3167eafd7cc41c20",
+      "id": "669e068fbae6d54b",
       "title": "SKT, AI 에이전트 전 과정 관리 강화",
       "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBReGpELVc5X1dDOXNNZnloNHBYV3k5TWdOZzg4Mm12bjFRZlZZLTdkeDNYeGlHZTJyS3J0VE1UOWQ5UDRxMC0wc2hHRVUtQ05lQjc3aUdrTjN2WEJubDVRR2VRdGg0eG1TTFZuNlNnOWlqamZ30gF0QVVfeXFMUFF4akQtVzlfV0M5c01meWg0cFhXeTlNZ05nODgybXZuMVFmVlktN2R4M1h4aUdlMnJLcnRUTVQ5ZDlQNHEwLTBzaEdFVS1DTmVCNzdpR2tOM3ZYQm5sNVFHZVF0aDR4bVNMVm42U2c5aWpqZnc?oc=5",
-      "publishedAt": "2026-10-26T01:42:42.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaTA0cmhnczJjVzJ0Rlc0ZWlaWVVUeHg1S1htRGJFMFdoQlBDM0EwYmIwZFlJdU9zU2NoZld2ck00NWZsay1RZVhiSjduN0t4bk45YnhPd2U0aURjRWhJenQ0T3VlYlA5UjRiaEFOazDSAXRBVV95cUxQUXhqRC1XOV9XQzlzTWZ5aDRwWFd5OU1nTmc4ODJtdm4xUWZWWS03ZHgzWHhpR2UycktydFRNVDlkOVA0cTAtMHNoR0VVLUNOZUI3N2lHa04zdlhCbmw1UUdlUXRoNHhtU0xWbjZTZzlpampmdw?oc=5",
+      "publishedAt": "2026-10-26T01:34:12.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -319,7 +297,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05RXBVREwyQldjV29BdVZzdHpWazNUb2ltbS1RNEtic1UtdDV2Ri0zcWtBVmZVRHZlOUJUY19qMTFwYklyNHRsb09QeDFHc0VnZm1seFpkVE12bjZGVTFLclFjSkc?oc=5",
       "publishedAt": "2026-10-26T01:15:06.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -341,12 +319,12 @@
       }
     },
     {
-      "id": "63ab856163a2b442",
+      "id": "880c86091698fcbf",
       "title": "SKT, AI 거버넌스 보고서 첫 발간",
       "source": "서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xbFlFanlWbzhuR3hFZVkyS2lZeDd4Q0I2NEdibnJYZmJrS3QtOUIzeS1ZZnU2M0dlZkRjZ1NYTVpVd3dxbXNibWFTeUtXcV9wZGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xbFlFanlWbzhuR3hFZVkyS2lZeDd4Q0I2NEdibnJYZmJrS3QtOUIzeS1ZZnU2M0dlZkRjZ1NYTVpVd3dxbXNibWFTeUtXcV9wZGfSAVNBVV95cUxNRktHTC1sbEE5T0tNVlpzeGxQQXUxdXlLU3VJSm9nZHZiZFNISEpFdGhKX3FaRjl0cTJsd0NENGR5bkpsSE1ESG5MVTd1SzAtZ0NuYw?oc=5",
       "publishedAt": "2026-10-26T00:53:58.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -373,7 +351,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGclZRQW5rbEJ3YllxZVdmQjllUWhhQ3pESTBEdFNRMDV6V3AxV0oyak5naFk1VWFvUUliMEpzbWhTTzVnbDFlZ0NscFhta29BVmpPc1hZSmh2QVBQ?oc=5",
       "publishedAt": "2026-10-26T00:32:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -395,12 +373,12 @@
       }
     },
     {
-      "id": "f22f6f6d1c2459c2",
-      "title": "한국딥러닝, SK텔레콤과 손잡고 AI 에이전트 실증… “문서 넘어 커머스까지 적용“",
-      "source": "FA저널",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yalVBU0NyTWZDek1zUHpKblZLbksySHpwbm1tcjdQNHgxX3hMOFExSXM1bVZQRGZRcmVkaFBwZ19KdFdpNzh6ZEpTeE9PaUZVYUZiSGVYZFlLX0lVQkdNem1BS0xCWWljX1h3?oc=5",
-      "publishedAt": "2026-10-26T00:03:19.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "id": "2a1574d15898e14f",
+      "title": "SKT, 'AI 거버넌스 리포트' 첫 발간…실행체계·성과 공유",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hRUNPbEZmY045OWY0SDExYTN5MUJVVmE4QmlyZUo4aTIxbTc0SFpWY0lXTVNuX2k2TmFYYjhnV2xmZHRIaE9XX1UwYzU0dw?oc=5",
+      "publishedAt": "2026-10-26T00:25:38.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -411,7 +389,34 @@
           "ticker": "017670"
         }
       ],
-      "summary": "한국딥러닝, SK텔레콤과 손잡고 AI 에이전트 실증… “문서 넘어 커머스까지 적용“ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, 'AI 거버넌스 리포트' 첫 발간…실행체계·성과 공유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4a32083b219efd21",
+      "title": "SKT, AI 신뢰경영 고삐…`AI 거버넌스 리포트` 발간",
+      "source": "디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41ZlVrNEpnWUZVQ1V0a3pMZTJsQUtFcXdlT0MyZFpLNzUzUUQxdGFpSk12ckRxQkVlUlpmcm9RVWkyOFlWeDBQUWRKQVF0TFowQ3BXY1QxYll2RDcxQldodUk3OWo?oc=5",
+      "publishedAt": "2026-10-26T00:13:42.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, AI 신뢰경영 고삐…`AI 거버넌스 리포트` 발간 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -427,7 +432,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lT2VOY0E3aTQwekpQSU9yb3NVRElWM1NXWUo5a0dOSXlpeXFVSzNwb3ZXUGpSY3o2XzlveW54UmxkUXFEMEFiaFpLOHRic3FqcHFqR3pn?oc=5",
       "publishedAt": "2026-10-26T00:00:16.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -454,7 +459,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sWUJGbHNxRDBxREZtSld6RDhoU1pqNi1zal9ia2NrekdHSUkzS01NS0NDaDJCSVFra2VDcFhNbGdGcXlIMDcwaHlWUEIyY2FUb0RPaU1zNEh4aGZIWkRaR1hVVUp6TWd2VUpFZkpYbmtucVRadlN1MdIBeEFVX3lxTE9sWUJGbHNxRDBxREZtSld6RDhoU1pqNi1zal9ia2NrekdHSUkzS01NS0NDaDJCSVFra2VDcFhNbGdGcXlIMDcwaHlWUEIyY2FUb0RPaU1zNEh4aGZIWkRaR1hVVUp6TWd2VUpFZkpYbmtucVRadlN1MQ?oc=5",
       "publishedAt": "2026-10-25T23:55:23.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -476,12 +481,12 @@
       }
     },
     {
-      "id": "47cff69bf21147a0",
-      "title": "SK텔레콤 미환급금 14억4000만원 ‘3사 최대’…5년째 고객 돈 묶였다",
-      "source": "뉴스필드",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYjc4eDlIZmp0RS1xN0hxc01BX21OT1Y2TlBuWkE0bnN1VGRFeFp1ZGx1dEVqWnppZS14OS15SUMzRFpuUEEwdDRITmpHUGtQOC1hbXhBTGw1NkZ6aFlPZXdoMzEyckZrV2xpanY4VDlsNmRISnpnWjBySURLQUNTeWJIWmdBZmFWV1V1akgya2J2eFI5QWVlU2dVdGE0Q3ZjY1dNdE5WTnl0bXg2RUxYOWY0Zm1CVThWdS1kbGI2RUtoMkVFWUxzTmlTQjdnSm01NWRudWdjeDY5VHRFZnd1djFtcE94bjdmN21HR2g0NXJPMEtDWjFDSlpSVHBENFhNT1EycHNINEQxbW5DN3ZubWM4dm5vOXBTLWIyR1duSUtVTUlPcjhrcQ?oc=5",
-      "publishedAt": "2026-10-24T03:15:02.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "id": "f46786c16257f9eb",
+      "title": "SKT, AI 거버넌스 리포트 첫 발간…“에이전트 시대, AI 거버넌스 중요성 커져”",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMXlqa25GYWRIbmxVQkNUMmp0VVA5ZVpvb252bU81SkRIanA2MjRvWkd0d21LdVFoa2s2SHpITWFUSlFPaWFRU0hnQ29HUDdyNkkydQ?oc=5",
+      "publishedAt": "2026-10-25T23:49:00.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -492,7 +497,34 @@
           "ticker": "017670"
         }
       ],
-      "summary": "SK텔레콤 미환급금 14억4000만원 ‘3사 최대’…5년째 고객 돈 묶였다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, AI 거버넌스 리포트 첫 발간…“에이전트 시대, AI 거버넌스 중요성 커져” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "06e2b95331dbd41e",
+      "title": "SKT, iPhone Duo 출시",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yQzVJc0RCQy1MS3dDQ2FzZ01DblBQQmNxZGJJNGc5VGdGcFFYSGhzS3RhTmJqN0pEbjF1d1RaTUMyLUdxNWx4Nw?oc=5",
+      "publishedAt": "2026-10-22T23:36:56.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SKT, iPhone Duo 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -508,7 +540,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15cTNYcHBIRUFHdFQxazFRb3VHUE9YRy0wcXZIMGNwV05Xb1pUQXpWWThoNVJOZ2pHWmNiTXZRamdDQ19NbVdtODlKbU9nQQ?oc=5",
       "publishedAt": "2026-10-22T07:30:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -520,33 +552,6 @@
         }
       ],
       "summary": "[단독] SK텔레콤, 하이닉스 AI협력 전담 'Hy-TF' 가동...TF장에 유경상 CIC장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8c29deacede164ed",
-      "title": "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qamlBUkFNSkxsVEJFNlBUNHEtaHAwdVdtbEhuaENwNURycWsxOVF1SDRJZ1VpWTluSFVEVGdZcUhiM2N4YnBJVmUyR0xoUQ?oc=5",
-      "publishedAt": "2026-10-22T06:33:43.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "한국딥러닝, SK텔레콤과 AI 에이전트 광고 제작 실증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",

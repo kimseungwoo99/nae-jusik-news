@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:44:30.365Z",
+  "generatedAt": "2026-10-27T08:30:23.125Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,159 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "엔비디아 1.5조 납입 D-4…네이버 AI팩토리 자금조달 분수령",
-    "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
-    "엔트로픽 상장 추진 및 테슬라 주가 400달러 육박"
+    "네이버, 브룩필드와 90억달러 규모 AI 인프라 계약 체결",
+    "네이버, ‘AI 팩토리’ 9부 능선 넘었다 … 브룩필드와 90억 달러 인프라 계약 체결",
+    "네이버, `AI 팩토리` 가속화…브룩필드와 18.7조원 규모 계약 공시"
   ],
   "articles": [
+    {
+      "id": "442ebd53489f3a7f",
+      "title": "네이버, 브룩필드와 90억달러 규모 AI 인프라 계약 체결",
+      "source": "인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEhLMDRDYkdHSVFoTmNUazI4VlphUWFmbTkwYkdfNm9iTXA3bks2VFp1OWtURlVYdnY1UFJlbHZFTGR3cEozMkNmRlFZTVY5ZC1TV2dVQWYwU1NyTGZnOUYxS2lYaFZYMTlfanBNUG83RDVGdFVNWEh2WW5YdVR5Vl9vdw?oc=5",
+      "publishedAt": "2026-10-27T08:15:00.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버, 브룩필드와 90억달러 규모 AI 인프라 계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d1f84ead5f8673e0",
+      "title": "네이버, ‘AI 팩토리’ 9부 능선 넘었다 … 브룩필드와 90억 달러 인프라 계약 체결",
+      "source": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fVTZpcnNhVFlVZmlGcmRSaklGQlV5OUVETWR6Q2hOa0l2WTB6MEQySFlLa1pjTklqa29JUGtYSnRkVFhLRzVaaDc4bEl0YktBbTZEUHQ0YXYxZS1aUWcwbEhXYWVTUEFvNy1GVkoyNFV5bTZILUZjLWtlVdIBgAFBVV95cUxNYVhiT2M1cDNma0hkcWZiTmdlTHdsS1FDT1J0MUxwZmEzR0xNYnVBNzNlSjRSeVhrcW9jUlJVQ0FKaXpfV2wzOHUwQUdRMlJtUC1Tem1tVEx3ek9kWWxyWVloWUpBLUhHOEFWVnJkUUc3YktScTE3WS1zTkl1SGF4dQ?oc=5",
+      "publishedAt": "2026-10-27T07:47:00.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버, ‘AI 팩토리’ 9부 능선 넘었다 … 브룩필드와 90억 달러 인프라 계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5ff1d5ba5ba3c110",
+      "title": "네이버, `AI 팩토리` 가속화…브룩필드와 18.7조원 규모 계약 공시",
+      "source": "디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14aUNCRk1INnNSZkRuaHBzSURKRHFBMHN2aEVucXJrVTRXaVFRVE04cXRnaEFiVDYwMFJQWFFrTkJWdVBYNzE2dFMydjBoSGFJakwwVnIxNXFycG5ZclByZncxU0Q?oc=5",
+      "publishedAt": "2026-10-27T07:41:34.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버, `AI 팩토리` 가속화…브룩필드와 18.7조원 규모 계약 공시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dd700c7781688f77",
+      "title": "아마존 10월 29일 실적발표 및 주가 전망 : 국내증시 상승 지속될까?",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2FTQ1B6ZlA0bE40VlFjM1BfYk1WWi1zRTcyMXJ2N0twVG1BVXEtVk5DdTJBZ1ZMeXVoWWVDMW9rVzZlX045SzBUcWVmOE9SckVOZzVjV2RwcC1MYlVSSlowX2pvTlFmd09ESjN5WXl2SjUzeFM4WWRmeVFMbGZKSmF2OA?oc=5",
+      "publishedAt": "2026-10-27T05:17:00.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "아마존 10월 29일 실적발표 및 주가 전망 : 국내증시 상승 지속될까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "955e5e1625af3c7b",
+      "title": "NAVER 주가, 10월 27일 장중 175,400원 0.69% 상승",
+      "source": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NRGtYdHlGQ1U2QlBIblVaX20xZ0Ytd1ZLTjdBemRFMUdUUVplRnl3bjVrWlAyUXh0QkthbVdfZDRYOTRGWnB5eUQ5aFdYQi1DZWh1cXJtZkp1a2RfVlFjbjUzNnVPcVpreC1iMi1CWlZ2dw?oc=5",
+      "publishedAt": "2026-10-27T00:46:22.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "NAVER 주가, 10월 27일 장중 175,400원 0.69% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "e003837b50327b1e",
       "title": "엔비디아 1.5조 납입 D-4…네이버 AI팩토리 자금조달 분수령",
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRHl0LXBCZkVtYUoyQUdHaDhod2pmOUVreFQ0ZjdjTEx2UGx1VWZ6NlphcmxVbWQ4VE01dGFUakNjOFVJUFNoWVdyeGxXR3M?oc=5",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "publishedAt": "2026-10-27T00:44:48.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -42,12 +181,12 @@
       }
     },
     {
-      "id": "566d4744ce7b22a4",
+      "id": "9e7296a11daaf05d",
       "title": "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
       "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4dnpWM3Vva3hYd05adTEtUHExSGt4MW9HVVJ5R1VpUkNmTERqalFLbjFVRkpRdnh6Mk5VRGFUdjBZWGVZd1NpZHotQy1odkduVlE?oc=5",
-      "publishedAt": "2026-10-26T23:58:02.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ja0pIZmhfR1F6MG5HNndocnpqdmdEZk5LUlJnc0pNUEppOGlVYW9mUUpwVEFtSjN5VHNqV3hRcTlMNWoxVlVQWjAtTnNPUUFZNWYtUS14X1Q?oc=5",
+      "publishedAt": "2026-10-27T00:23:04.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -76,7 +215,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMVZ4RktZa1Zyc3ZtZFdpLUlIdndSbEJoNW90MXpSQ2Z6VzVqRWVQZnZnbFNNUDV0MzROYS15XzlKYXpDMVVSUzEtTzE4eDRmalY0MDM3eWZYZw?oc=5",
       "publishedAt": "2026-10-26T23:22:02.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -103,7 +242,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVZCcHlzVzRjWWtCam9sQVExZE1tbnNaTWpsMzZNQ1RSWWVoQUNmajZkUTAzTFRiUUpRb2RXOTRWRmVfTlFEdEdIQkNPM1BKZ0dtblZxVE1WSmJNNTVqT3MyNTZCa1lkQTZRcmJzWFdRMXRJMUZyV19uMmQ4N1g2LWRWa04xR2kxVzdj?oc=5",
       "publishedAt": "2026-10-26T13:28:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -132,7 +271,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJTkRnM2kxRDl3VnJSOEdkVEw3RHR0YXMyLTRpdURYWFNsd2ZkLVJhTkZjV0VJNF9WZUNCUXE2WDNVYURPS09PQlBUWVVIdw?oc=5",
       "publishedAt": "2026-10-26T08:00:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -159,7 +298,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2p3a1paTVhkWVA1ZURFcVI3cXlidVlpYTk4d2RoRXgyeVJIUFVoM25Wakl1MFZjUnR2UWppSWtlMWRqbUlJeFRJamlJQ3lpdVFMWWVjZk5QVUs5Ukc3Q3RTQ0tiTnFfcG1UaEN1QmVGRGtYNGlxRE1JNFFBV2c5LUpBbw?oc=5",
       "publishedAt": "2026-10-26T06:38:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -186,7 +325,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bzc1QzRDa052VElVNzhKbElDdnF5MWJoaE9JcHlOSGRqQVpaa2Zra2R2TWM5MHNTbEFjN3pWbS1Ibl9uQ2N3RHhzcmplTkU3a2FYTVZZUmxJeDDSAWBBVV95cUxPYzJfamc2bjlaLUMtMG5mekFWMzZPQUdhempWNVVkTVFUUDBtWUE2eFhvZnFBY2hjOUZhNkdPSk04UnRWX2w0NGprVDFpRm1WVkoyc2NFRncybXRQMkRSTGU?oc=5",
       "publishedAt": "2026-10-26T06:26:59.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -208,12 +347,39 @@
       }
     },
     {
-      "id": "91aa9d441f2ee832",
+      "id": "8bdd5c8d0b395432",
+      "title": "셀트리온, 세 분기 연속 목표 초과｜주가가 제자리인 사이 회사는 얼마나 달라졌나",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVlOUxoQ2N4UlNLLWtla3poeTN3VGdDWVN3X3FZVDVrdWlCOGdnQUtVNjcxQi0xbWJObTlHTUxRVmlGQjI3cDNod0E1NjNRY1l5UnNIcTRWTXFHTUV3OGNsejRReXBsSnUzOGpsdlJsb1ZmeW80MWN5cGFiUlozV2t6aEhaWlAzcENrUFBXWQ?oc=5",
+      "publishedAt": "2026-10-26T01:08:00.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "셀트리온, 세 분기 연속 목표 초과｜주가가 제자리인 사이 회사는 얼마나 달라졌나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "499042f4b2eba255",
       "title": "배터리 주가가 궁금해? 리튬값을 찾아봐",
       "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z04zUERYOHRTLVN4RmtLUFdiZEIzc3hZRUxOdWhBZFVJQ0pTbWxqcDJ2a2QzR0ZHaXEzQmt2S3BRUkNvVDg0ZU1yY3pKUlcyREJham91TjY?oc=5",
-      "publishedAt": "2026-10-26T00:22:16.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3TXZhc011UmFPTTRySzVDdmhXRWFibkljanF3RHhxMGNBY3IzTjFkeDZnNjY1cHI1ZUk1djlaR0VQQTNrdVZEM3NzX3FTS25kUHc?oc=5",
+      "publishedAt": "2026-10-25T23:38:07.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -235,39 +401,12 @@
       }
     },
     {
-      "id": "ed417546a4b85c22",
-      "title": "이번주 주식 투자 전략 261026",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzZld0FsY1h2X1FPaHdscHAzSzAyZnBITWFiZjdQM01uZnFUMWpSZVZjZm9MQkZPS0NNREVrb1h5czlKX3VFdjdFOVVCRjhpaG41NXVhekVJakpTZE5zal9OQWJhdUo1UTUxM1p1NGVqMmJITXd1T2E0QXBjdFdZQml2ZHlUQmN6QzI4?oc=5",
-      "publishedAt": "2026-10-25T22:00:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "이번주 주식 투자 전략 261026 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a14639e8d1918c29",
       "title": "SK하이닉스 주가 전망 : 10월 28일 실적발표가 반등 추세 이끌까?",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDdkcmpZVmRMSlFNR0ZPWTU4eTRBWXRKVk9xUFlETzJtUG9kcmtLWkpmTTRlbEJTSjRTOEJIY3BBOUlMbjdBNGpkV0lSNTlxRng1M0d1cWVJc2h6eXNjQkItLUtYQl9ZWkw3NF9vc0Z4em82eEQ0dW1XZ2FtSG0ySTJ1NA?oc=5",
       "publishedAt": "2026-10-25T06:04:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -291,12 +430,12 @@
       }
     },
     {
-      "id": "1b1b74aaf1893522",
-      "title": "주가 띄우기 전 지분부터 옮겼다…케이아이이 오너일가 '승계 포석'",
-      "source": "블로그",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Vzk0amhZSzJSSXJYUDFudjZuUUMxRWxRMlJERHVaaWxPRWJOQmlZbHVSS3FjYjFEZnlLRVlkLWpnRWpGdWJtNzlPa0VIRnFTaDktTUpHaFhQUlhxckhtSXhFY3MwbDJ4amlsT0J0TmdZZVItMjl0MlBialQ3TVk?oc=5",
-      "publishedAt": "2026-10-24T09:15:53.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "id": "89a09524b8c237e9",
+      "title": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨콜]",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcnUwS2ZsLWY2Vm15OW50NWdZNmtOcllRZzI4LXJwVk5VTWJsT0VUajk4NU53ZjlPcEhFZmJvMzFRVnlPVXpfWTRGaVNhNENLdlZCOTAxMF84NzBLelp4RUNPRQ?oc=5",
+      "publishedAt": "2026-10-24T12:12:11.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -307,7 +446,34 @@
           "ticker": "035420"
         }
       ],
-      "summary": "주가 띄우기 전 지분부터 옮겼다…케이아이이 오너일가 '승계 포석' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "네이버, AI 수익화 본 궤도…내년 엔비디아와 ‘AI 팩토리’ 띄운다 [컨콜] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "685e34b222b1d158",
+      "title": "최근 5거래일 NAVER 주가 변동성 확대",
+      "source": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xT1NDejRRbjg2TDJRcXVuN3Q3NERwb2x0X3NKUUNPTVc2N0FNSE1HNEt2TkVHWFZhZkgxaDlkMWgxQV80X2dXWmFTUWJpSF9RLUtpRm5STHd3enBvVEMtUm9oYlJrSnBfdWlvc2xzQlcwUQ?oc=5",
+      "publishedAt": "2026-10-24T01:58:23.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "최근 5거래일 NAVER 주가 변동성 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "수급",
       "sentiment": {
         "label": "neutral",
@@ -318,41 +484,12 @@
       }
     },
     {
-      "id": "2bcfd4368308ee73",
-      "title": "증시 반등의 기회, 마이크로소프트 10월 28일 실적발표와 주가 전망",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTZiaTg3TjlUTmxNZkJfaVRyWkdaS211VnF3LVJTdUpLSlktNTRLamdNVVZGSzNtRF9Pc0hJdDJmbmJSRjZoNzZVNnNvWV83Y05ZVkN6OFJlUmFRbWkwTEw3cGttbndxU05ITzZwN1JsMjJaTWxINl9Wamc2M2U0Vm9udw?oc=5",
-      "publishedAt": "2026-10-24T05:26:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "증시 반등의 기회, 마이크로소프트 10월 28일 실적발표와 주가 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "bf56a7e4f99bd146",
       "title": "네이버, AI로 수능 분석부터 대학 지원까지…입시 정보 검색 판 바꾼다",
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BR1RCR2t6b2JEWVBZWHNiQjJXNkM1a2VueUU3UVg0VEZOdEJBTUxkLXZ6bEZJLURCZ3BGczhacmNzQ0ZUSHdaYkZEaC10bjVzczI4RVlOTWZ3XzZLTHpHOG9FU2E4QmM?oc=5",
       "publishedAt": "2026-10-23T01:40:56.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -374,12 +511,12 @@
       }
     },
     {
-      "id": "0786049442625b5b",
-      "title": "충북교육청, AI 중점학교 중심으로 학교 맞춤형 AI 융합교육 확산 : 네이버 블로그",
-      "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYk9ha2h0N0pzdWRWZjgxbHN6ZEJSUzI2WjU5d0M0b2FMVlBmR0pCNXNfcjV0VmhuYloyOFRsTnZTOFNjVVJ4dlVzVVlqQUlkRS0zakdPTW5xYlBHbVh1Nnhkb3M1NEV1YkttQzhya3lUMzQyWHpuaDU3Q202RndqWWotU3doM2dvb1FKZnRuYw?oc=5",
-      "publishedAt": "2026-10-22T20:41:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "id": "cd4c212be3d7ec9e",
+      "title": "NAVER 주가, 10월 22일 장중 177,700원 1.00% 하락",
+      "source": "톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pdnU0QUxicmhvZzVzWE85N21adDRyUC1aNmgzNlh1bzh1MFZKN3NhUE9FTWYyTVkzVFhZTVRVS09VT09YSGVERG5hWmlOYjZQbE5NaW9fU2dXU19jd3JwYm1ydkRQWTBuRlBuXzFBY1JBQQ?oc=5",
+      "publishedAt": "2026-10-22T01:40:24.000Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -390,35 +527,8 @@
           "ticker": "035420"
         }
       ],
-      "summary": "충북교육청, AI 중점학교 중심으로 학교 맞춤형 AI 융합교육 확산 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fcb43fa73a95a63a",
-      "title": "검색 이어 브라우저…네이버·구글, AI 서비스 경쟁 2라운드",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSTZyUGE1TjNOa09nTXItU29YeWRZYzhfNkxpUWJjSHBPTzJaWGNJcGQxelBOQXRmTmtDdXhpUzZ6elJKOEZFTjBCYWdpdFhndFVUN1dBZ0tKWDNERWlERQ?oc=5",
-      "publishedAt": "2026-10-22T08:29:18.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "검색 이어 브라우저…네이버·구글, AI 서비스 경쟁 2라운드 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "NAVER 주가, 10월 22일 장중 177,700원 1.00% 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -433,7 +543,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jR0diZnBWRjlyR2tjSzR5eFBHOXBZNGxiWEpNcGdWU3VGeU8yRWtKWlNhdDhHZkJXOGpXZE9Cby00ajR6cU1DR09hTTBHbllKc3E2cHFvUmw2Nl9jaU1EQmd3cTFxeUZ6?oc=5",
       "publishedAt": "2026-10-21T23:33:48.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
+      "collectedAt": "2026-10-27T08:30:23.125Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -446,118 +556,6 @@
       ],
       "summary": "네이버, AI비서 '인스팅트'· AI 음원 '수노' 투자…해외AI 접점 늘려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4c1751673359d3d0",
-      "title": "AI 주식들 반등! 이제 메타와 테슬라가 중요합니다",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUltUlhLYklfczhWVm52QlhZaVBlc1c2Z281VlFRajRoYVJUbjVfMmptZjYyREV5b1J0MU5sLVdGLWxVMTdva2lYbnRYTEwwSG91NloxaTlmYWRFRndZaTNpMjdUUUd4cTFaWVdCY0tjVkpuazdNQzJvaXp1dktLQnNFNF81RmFZX080?oc=5",
-      "publishedAt": "2026-10-21T13:32:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "AI 주식들 반등! 이제 메타와 테슬라가 중요합니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ec86736c621c7160",
-      "title": "네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 신규 투자",
-      "source": "NAVERCorp.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YRUNXS1JsOFY5Z09QckFaVmh2UzRVRlEtQ0F4OEcwVFU0YW9tZ0VjVW9tQVQwVlVtTVZBaGpjWXBQMzBwWURleFZ4dUc2aWtCVXJUY0VDZWo0SHJYUzR0Q3ZzbnJoRHY2QjU4RklleVRNdw?oc=5",
-      "publishedAt": "2026-10-21T09:02:36.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 신규 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b8c61b00d17b98ec",
-      "title": "대한전선 | 미국 송전망 투자는 이제 시작...수주 확대가 주가를 바꿀 수 있을까?",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXRqTVR2NUI2c0tJNTE3VHh6U0ZuY293MmNoOTIyV2VvT0NwZ0xfUG5SZjlnUHZTdWcyR0pETGlVWWI5R3VJaW00N3F2dDk4Zk9tQXFoamhpanJWR1pMTGFLZEIxOFVyQmZoYnRjM1B5bnh1VXZtNFRNMk5DckxqTzl1eURJWFNv?oc=5",
-      "publishedAt": "2026-10-21T07:31:00.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "대한전선 | 미국 송전망 투자는 이제 시작...수주 확대가 주가를 바꿀 수 있을까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6d2ffc6da4781907",
-      "title": "애플, 한국어 지원 '시리 AI' 이달 공개…네이버·카카오 연동",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sT3h2cHU1cWVZd01MdHFnVHRid0V4UnVvZ1RaeC1oVVUtMi1rM0laUkJ3WktjRE1JUjg2XzhZb2RhWFpJM3A1cVhhWVg0SjhnZHY0U2RR?oc=5",
-      "publishedAt": "2026-10-21T07:12:06.000Z",
-      "collectedAt": "2026-10-27T01:44:30.365Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "애플, 한국어 지원 '시리 AI' 이달 공개…네이버·카카오 연동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
