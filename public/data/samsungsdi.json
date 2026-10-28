@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:55:42.224Z",
+  "generatedAt": "2026-10-28T09:09:04.396Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성SDI, 美 ESS '투트랙 공략' - 머니투데이",
-    "삼성SDI, 美 AOP에 ESS 배터리 대규모 공급",
-    "삼성SDI ‘일체형 ESS’ 미 에너지기업에 대규모 공급"
+    "삼성SDI·SK온 전고체배터리 상용화 '성큼'…솔리드파워, 고체 전해질 생산라인 시운전 착수",
+    "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항'",
+    "삼성SDI, 美 ESS '투트랙 공략' - 머니투데이"
   ],
   "articles": [
+    {
+      "id": "8cfb7df05b82956c",
+      "title": "삼성SDI·SK온 전고체배터리 상용화 '성큼'…솔리드파워, 고체 전해질 생산라인 시운전 착수",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14Y2hSSjR5d3I5UFotTXdYLWFDcDBDdEF0dDdZbG9VQ0dBZmdHWkhpU3hpd3A3T0xNSHo1OE1tMlVQMTR5eHdEQkdzMkVHTlpfVkVidVUwNVpEc04zNEpsd1M1MWpHUQ?oc=5",
+      "publishedAt": "2026-10-28T07:17:01.000Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI·SK온 전고체배터리 상용화 '성큼'…솔리드파워, 고체 전해질 생산라인 시운전 착수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a813400c6e32dc0d",
+      "title": "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항'",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONlZldHVLck8yOHZrS1NuQS1qb21wTzBwV04wYmFKZEFwUGlsT2RGcWZBdlV4X0Rzam94MnlTRTdrRG1HbGNiTDZVYndtVk9HYzEtMF85SGhRakJZdV9ITW80b3BGSmRLMU41RlFDYVVSdEIzTEdhQnJzUThNZzg2VzBPVDd5QQ?oc=5",
+      "publishedAt": "2026-10-27T05:24:43.000Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "0a95b48d17bbb92d",
       "title": "삼성SDI, 美 ESS '투트랙 공략' - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Fa2l4ZVBPeU9GYWNhQ1c2QnlKLUloVENmbzl0ZG1oUXZaWFIteDlPRk03Y1ZIQ25NMTlPSVBKUGlUR1RvVHhnX3AtQm5heUJIWHgwOWI0TzNjT3g2U2NmNWdHNjdUNkk3MUR5NtIBckFVX3lxTFBLR1pMX3pVbVFBNUhUWDd1UXBlcWNSMXZyV0JjTXpZWFNvcDVKaGRoZS1wVDRoRTByRHVFdUFhV0Rfa3JPal9SQnRPV3FLQmp4bUVWNjItajRyRHE2T0p4RFpxeUJXc2JEcnk2NlhMYkpjQQ?oc=5",
       "publishedAt": "2026-10-26T18:34:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -42,39 +101,12 @@
       }
     },
     {
-      "id": "f3ead0d5ded234c3",
-      "title": "삼성SDI, 美 AOP에 ESS 배터리 대규모 공급",
-      "source": "서울신문",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUlNwZkYyczlvb3JobURybExTam12a016LWQ1bGNIR2g0ZDFyZXhOdlplS0RzQzRiUUFKOU41ak5OTEIyMWRuTVpEd3hHN2NwaXRuaEZ1ZHlubE5lR05DRVNwaE5kVXNMMEpnMUtYT0lHMTdVU0ZGUnV0dw?oc=5",
-      "publishedAt": "2026-10-26T12:39:47.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美 AOP에 ESS 배터리 대규모 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c524b0948f989f75",
       "title": "삼성SDI ‘일체형 ESS’ 미 에너지기업에 대규모 공급",
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYXlfeXFqc0tnbmtFRDJSYnRTOUV3V2RQM1Q1NXJLS1I3UGpBeW9Oakt1NHlnYi1xYnVoSk1naEl1b0VSTVJCYlkxWWdIVXB2MVFoMERrWDFmUdIBX0FVX3lxTE5QaGVzNUxxVEJ3cThMZ0FrUUs3aUx0RVF1V2FuSVZWbTNlajRXQmpwdjgwMTBpZFFmQmRmM242eGs1SXl2TTZfelF4eFZEMS1hZFU3SVlCdW5icnZ6anNr?oc=5",
       "publishedAt": "2026-10-26T11:28:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -101,7 +133,7 @@
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBabnhxSVZONHVMQXdCSUpmeEQ2TjQtQjRYTFplMnVDbEpKa0RLYlpOSkYydEJ6UFJ4a2p6SUU2TTJrSVdoMGZxdzg4ODFhQjJhd0gya0RRNDFwSzBoeFE?oc=5",
       "publishedAt": "2026-10-26T08:37:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -130,7 +162,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbFk0MmF1Y2VXenZxdkdrR0F1ZWtJdXREbnRnekNmemNKVDF1bkZsbWtfT25FOW5JcVhWamgzRnI2anMwdGxvNmxvQ1hhNHI3WXhHMjZnQnJrRDRhRkVGUTNkeTV2ZndqbWxjSjd3TEVmQ09raUHSAXZBVV95cUxPWGxZNDJhdWNlV3p2cXZHa0dBdWVrSXV0RG50Z3pDZnpjSlQxdW5GbG1rX09uRTluSXFYVmpoM0ZyNmpzMHRsbzZsb0NYYTRyN1l4RzI2Z0Jya0Q0YUZFRlEzZHk1dmZ3am1sY0o3d0xFZkNPa2lB?oc=5",
       "publishedAt": "2026-10-26T08:04:01.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -157,7 +189,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RExpczlpRC1VV0ZwTm9hc0pJSmF6LXJmZ2RhcXFCRnVBZ0Z0dEpodnlzX1R4WHlkTVJlVGFfV1dKQnBjekpianA3ekpaU0V4cU01ZmlYZnFza1Z4OFk0MlRVaUhENWVHd2t2dw?oc=5",
       "publishedAt": "2026-10-26T07:24:34.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -184,7 +216,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kNTM4eDBZUFh2ajNsUmtzQU9MRnNNNGRaMTV5S1hfT2lmWGdSYjUzUW5peHJGWjRnZWlCZl9GdWpvaDlHSlRnMmpDS3FjWmpSRzBYNQ?oc=5",
       "publishedAt": "2026-10-26T07:03:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -213,7 +245,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdkN5Q1lLNEFfaTZRNHp1YUNXdEJfcEpTUFNqSVNUaTZnZlQyN1NxM0hCbVBBZE1ZcXFmX1QtVF9wM0xaNDkwUmpoWGtqdw?oc=5",
       "publishedAt": "2026-10-26T07:00:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -250,7 +282,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbDVjVkRrQ3p2UUFPYmRCVllzbkJ3YkVMU1F0ZWczN1prSmN2dHE3cmFHYWdnVkxkcUtxZEEyZ1E3TzFhNjNSZEROR1FHSmE1dzRwbExn?oc=5",
       "publishedAt": "2026-10-26T05:40:57.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -277,7 +309,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NcE9NRXYwajdhNlZqMGhzd0lfell2d3IweS1ndTV0R2tMOUxHNm51ejg5N2M1YU1zVEtnekFJZS1WbFJwWlZqZUMtWFozUUxRWlpFa2M2Y1VuZU5KSWVsNEpRN1B3MjZtQU5maVV1MDVwWmR10gF0QVVfeXFMT01wT01FdjBqN2E2VmowaHN3SV96WXZ3cjB5LWd1NXRHa0w5TEc2bnV6ODk3YzVhTXNUS2d6QUllLVZsUnBaVmplQy1YWjNRTFFaWkVrYzZjVW5lTkpJZWw0SlE3UHcyNm1BTmZpVXUwNXBaZHU?oc=5",
       "publishedAt": "2026-10-26T05:31:47.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -299,12 +331,41 @@
       }
     },
     {
+      "id": "af668b87e93a0026",
+      "title": "'북미 수주 얼마나 많길래' 삼성SDI 2028년이면 \"생산능력 초과\"",
+      "source": "이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcEIycEw1MGt6dF95cHhLb3RaNnhYZE1BRnJxaEg3elN4UHRrWjFfTm9Dckk2T3BoSjE0QjZPMkVSSmJzMXVwQUcxRmFSSmtuQ1NIeWY2NWYyVUwtek9ZTVZn?oc=5",
+      "publishedAt": "2026-10-26T05:30:00.000Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "'북미 수주 얼마나 많길래' 삼성SDI 2028년이면 \"생산능력 초과\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "bb53f638a70b7944",
       "title": "삼성SDI, 美 인디애나 공장 '단독 운영' 후속 협의…내달 현지 당국과 세부 조율",
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yWjM5UHc4QllYaGVXZjMxekJzLXk5WEd3eFBNOGxaUW44eVQtc1lxMGYzcElTM0JKNEJydmtFSll0eUtIdEZEQmY5eHhZWEQyanhTNlEyaWZINGdJREE?oc=5",
       "publishedAt": "2026-10-26T04:36:25.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -331,7 +392,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52OGJVRHVia0NJTnpPY2RHUnJ3eEE0TGxqYi1YLW5sU0NfMEQ1TElUOG9OWGVmU0xfNVNaMmxGd3YyVk14cW04c1FGVU1VSXFHeFQ3RG9yN3FxeVFNQ0xLdQ?oc=5",
       "publishedAt": "2026-10-26T02:25:35.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -358,7 +419,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XUjdPQXNVLTktT0pOY3pORUpvNzNhQUthX21ySGV6RzM0TW5TX2c3UnQtbmozbkoxZll2VnJBYUdBWGtmbEFrOUkzQl9ZX1E4clVsRENoekc3RWdXQURHWjhwbUJWUHpYTXZORDJXQWdrRi1nbXln0gF3QVVfeXFMT1dSN09Bc1UtOS1PSk5jek5FSm83M2FBS2FfbXJIZXpHMzRNblNfZzdSdC1uajNuSjFmWXZWckFhR0FYa2ZsQWs5STNCX1lfUThyVWxEQ2h6RzdFZ1dBREdaOHBtQlZQelhNdk5EMldBZ2tGLWdteWc?oc=5",
       "publishedAt": "2026-10-26T01:52:18.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -385,7 +446,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBua0JtTEZJMHBSX01IdU4yZVkyVDFsdHJxOWdVRTlSWk5zX0gzQ3FmSXJyX2VrWU9Rb1F0WjZJYU1PeGNwT1l1NGFteVFnQ0NKMUVIT21kTkpyQdIBX0FVX3lxTE1DVW9uTVhXOHpyQmZsbHluUXNhbzZHQ0JnNWxDTWdvcW5RNmlCYlZnOXptaFZaOGdHdVRjNXBMX2VMbjlOdGJOODFveTFRRzB0d1lwZ05OaU1WNlpybG00?oc=5",
       "publishedAt": "2026-10-26T01:52:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -414,7 +475,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vYTJDOWRfcFp4RWtBY1lfRDJqM1BOejdyY1JyQzlERDZQa214MmFuZkViX05zc3ZqR3JOaGRxTWpxaE5YNHNyTkVGVUZZNmxIMkxpZ3FfZjFwMUowX1FuLXFmZ2NRT2psOW1ZQ1lvc3dZeXIt?oc=5",
       "publishedAt": "2026-10-26T00:05:03.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -436,39 +497,12 @@
       }
     },
     {
-      "id": "b078d43f47fc83a7",
-      "title": "삼성SDI, 美 AOP에 ESS 1.5GWh 공급...각형 배터리로 시장 공략",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0VsQTA0WF9yWTFOc1BnVEdfYTdCc25QbXZzbmpZY2VoNzZmcEE2Rk1BVG5ZOWNhcDlmS0FIeEtyM1hHZF8yd25pRHoySkxodlpEUUVDMmJQRm94QkN4eGw3ZDdSOUdmcnU2QUFicEpBSVBvR2tlcENuVXB0cHo0N0dsdmw3X0lrR1BMLTVBVQ?oc=5",
-      "publishedAt": "2026-10-25T23:47:41.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美 AOP에 ESS 1.5GWh 공급...각형 배터리로 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "66c1fd2da8f74f89",
       "title": "삼성SDI, 미국서 ESS 추가 수주…현지 판로 확대",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Q3RTZUthME81aTV0RlpxOFRUMjlPMzkwNzRaWjROeHNieEdEd2xmNm9SSXkwSmY3NTZMcUhIQXM0UWdYSkE0eE4ySHVJTTRzZzl0UGVnM0xaNDAtZ3RzSERwZi0ydEE?oc=5",
       "publishedAt": "2026-10-25T23:40:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -497,7 +531,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NeDMwWHNIZG1hYlpMN2FKaEZrQTlYTHNEd3FKdHVPYkE5eXlCVF9QWEVWYnl5bXZvb1E4TllKT1JfZ1NUd2JvNGctZC1ndFZ1NzJYcmM3Sk5WUk9QeU81S0dtSUJLZw?oc=5",
       "publishedAt": "2026-10-25T23:20:21.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -524,7 +558,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXT0h6TUFzcGFSVWtsUm1iVkFCNGV5YnM4YV9JdzItV2ZjSm5OQWk4RzJ6QXNTeE9DQVNOUGtnbWdnSUlpYjBnQ2tEeE5UY0hwNDZQNVBDazdhSjJHVjZYVURsenJ2MURHMDJpVzZiMlDSAXRBVV95cUxOZ3FrVDc4NHZJU1I3ZExpVXFpd2lpX2Vrc1lWc051T1YyRTl6cFo2V21qXzJ2YjRocUo1andUNTc1Nkg1Q1Ayd2RjUzJraHdzRVZ3aWtMb2ZmUEdCQXY4Tmt6NWJNXzhmWmx3M1JsdzY1NnpxeA?oc=5",
       "publishedAt": "2026-10-24T23:00:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
+      "collectedAt": "2026-10-28T09:09:04.396Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -545,33 +579,6 @@
         "negativeTerms": [
           "급락"
         ]
-      }
-    },
-    {
-      "id": "c28d1356d59ed855",
-      "title": "[배터리 대전환]① 삼성SDI, 전고체 ‘기술’서 ‘양산’으로…2027년 하반기 승부수",
-      "source": "아시아타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCMWJnWWtTSVNsYjRjWmlMdDJMUDRQNC1mOUU4eU9RdTByQ0Q1OFo4SFQtWHF6eGhtLWdzbDdOTlFULWdWNEFjRTZOcmM0VElFMk9vWkt1TUhJRDA2R0E?oc=5",
-      "publishedAt": "2026-10-23T06:00:00.000Z",
-      "collectedAt": "2026-10-28T01:55:42.224Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[배터리 대전환]① 삼성SDI, 전고체 ‘기술’서 ‘양산’으로…2027년 하반기 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
       }
     }
   ]
