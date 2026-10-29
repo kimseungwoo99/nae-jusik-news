@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:00:32.869Z",
+  "generatedAt": "2026-10-29T09:08:03.703Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,45 @@
   },
   "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "삼성전자, 삼성바이오로직스 유상증자에 6천662억원 출자",
     "삼성바이오로직스 \"이중항체 개발 기간 3.5개월 단축\"",
-    "[BIX 2026] 이태희 삼성바이오로직스 상무 “이중항체 개발, 맞춤형 전략 필수”",
     "삼성바이오로직스, 이중항체 개발 속도 높인다…9.5개월 패스트트랙 제시 [BIX 2026]"
   ],
   "articles": [
+    {
+      "id": "fd93e3c5ef176682",
+      "title": "삼성전자, 삼성바이오로직스 유상증자에 6천662억원 출자",
+      "source": "KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsZWtFcHhybWlCeW05b1c3U1JJV04yUnhqMmMxSXpQTDVDTl92US1EcnBhQ1Myb19fM0hFMzRrTG9memFyRGw2Z2ZfRmVJSDdQdXBpY19hNlUzdHZpZzk2NkRnSTF4VDdNZV9KWE5SMmxNQQ?oc=5",
+      "publishedAt": "2026-10-29T08:32:15.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성전자, 삼성바이오로직스 유상증자에 6천662억원 출자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "f4e916bfa3f45437",
       "title": "삼성바이오로직스 \"이중항체 개발 기간 3.5개월 단축\"",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVXFFY0tpT3dKbVBUZVI0MnVmcGUyMk1tNXN6V2lFd0VFdEZxTEZQZllhYmU5WUFaREdBdUNsVTM3d0ZXWFg2eWxzQTE3alVBZThCQ2hueXV6cUxibnBnUA?oc=5",
       "publishedAt": "2026-10-28T09:17:58.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -42,39 +69,12 @@
       }
     },
     {
-      "id": "33bafc4c97f56c95",
-      "title": "[BIX 2026] 이태희 삼성바이오로직스 상무 “이중항체 개발, 맞춤형 전략 필수”",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pcXducE1UdnpBeE9vUUJELXhvUXRfSDgxWUVhUHdzYW9lY0NXS0F4RzV6V0JNX0ptdkZWMXdWOXdndTEwZXdERUdwMHFSa00?oc=5",
-      "publishedAt": "2026-10-28T09:07:43.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "[BIX 2026] 이태희 삼성바이오로직스 상무 “이중항체 개발, 맞춤형 전략 필수” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cdd5f27326d6ad76",
       "title": "삼성바이오로직스, 이중항체 개발 속도 높인다…9.5개월 패스트트랙 제시 [BIX 2026]",
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ObHItXy1uNklmYnBTa2E0Q3dRS1dBZ1JYV180Nmo0akRfVl8tYjZ4U2dfR1MtRnlrRXc0dkxaMC01YjJ6OHJyS1R3VXUxTVVqOW04V3VpbUFJa0xPa3pLOGJoZ0g?oc=5",
       "publishedAt": "2026-10-28T08:23:06.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -96,12 +96,39 @@
       }
     },
     {
+      "id": "b216965c3df3e076",
+      "title": "삼성바이오에피스, 3분기 영업익 1326억원… 전년 연간 실적 97% 달성",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZNGoyRXRRZ2tRcXRoNnZzem5Ob1pHTDJSNERoVTNNaDlhZVM0M3gtV2RxWERwWXlWYzk5OE56MDBlVVJXM2Mta0FyTGxqX0tLT3JEcnFtV3k1OHJCbXhuS2dOcE1nSXpUbEUzc1k4T3LSAXRBVV95cUxPTVdISi1Dd0lpOElBRVdZaURZV3p6ZUVWekdhS05xRVZ6dGh2X3p4c3Q0YTZaWnU0UUFIQ2hEVmh3ZWNGeHU4ZTJEX2EtNm1YWkZXNXhUb0lob2lZemxpdV9XNXZicHNIRXRpNUlEaEg4bWNsMw?oc=5",
+      "publishedAt": "2026-10-28T07:11:38.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오에피스, 3분기 영업익 1326억원… 전년 연간 실적 97% 달성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "dbb81be59959a6c2",
       "title": "삼성바이오로직스 노사, 다음달 3일부터 임단협 교섭 재개",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kS3hQOThLRXlvWG5JOXZENVU1anY3T1ZxbmkyYzNlbDZmQVJCY1BHdy1SemdEVjREdElxM2RmUHdMZzh0WmotUVRySUY5UjhuT004QmVOTnREQkNIN01MZC0tY3ZYSnBrc3RGNko3TTU?oc=5",
       "publishedAt": "2026-10-28T05:21:23.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -128,7 +155,7 @@
       "source": "메디코파마",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzZ2tYZHhVQXUxZ25hR0h4MThibXJQdEowZEZpcjN2UTFYWDE3MXRaZ0VaWENLZVRteEprZ0lVcWRXMjhoVUJRVFhRZ05TY05VbmUxSXo2N3JxR0taMzRnNldKbG1iMnZpbF9JVU5ZNTVLQQ?oc=5",
       "publishedAt": "2026-10-26T21:58:57.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -155,7 +182,7 @@
       "source": "히트뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kdHg2eGxEQW1ZY2IyeEZzS3ZPY1BXRmFZSDk5RUQ1RVZsQmJTLW13NkRyQzBjNGg2ZXdzdlc1WTNxRGF0TnQxQTA3S1NlUmhiWllvZE93NFBaNWpRUXgzTDBpZ2dYTzlEYWV3?oc=5",
       "publishedAt": "2026-10-26T21:09:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -164,6 +191,11 @@
           "id": "samsungbio",
           "name": "삼성바이오로직스",
           "ticker": "207940"
+        },
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
         }
       ],
       "summary": "삼성바이오로직스·셀트리온, 3Q 매출 1.5조 '접전'…4Q 승부처는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -177,12 +209,12 @@
       }
     },
     {
-      "id": "da1fb3eeb232f8d6",
-      "title": "삼성바이오로직스 노조, 법원 파업 제동에 반발",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9naUtfRGFTclJydlh2VWVTZWRmT0tyQnJBV3ZtdnV5dUF4cFBMbFlZYUh5Rm5mWkhDaXA3cmtpM1kwbXlscnpiVHNEdjR5UDNUc2hDVXhQSS1xSHZkVzNxQg?oc=5",
-      "publishedAt": "2026-10-26T04:32:23.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "id": "5fb9f244cc8ae10d",
+      "title": "[사설] 삼성바이오로직스 노사, 상생 없인 바이오 강국 없다",
+      "source": "팜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bVNhTVpkdGpCYkxoRU1abFJVUmtIcGVTZjdVQXVPa1BoVU5KZThHekp4X1VMMGM3WFVRSmEzWTBmUmlyM0hha3k2SW5Ia05hTFpyZHNVcVBCMHduZ1lYM1Z2cDc5LXJfOVh3cQ?oc=5",
+      "publishedAt": "2026-10-26T08:51:00.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -193,7 +225,63 @@
           "ticker": "207940"
         }
       ],
-      "summary": "삼성바이오로직스 노조, 법원 파업 제동에 반발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[사설] 삼성바이오로직스 노사, 상생 없인 바이오 강국 없다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "13f23c58247306c5",
+      "title": "삼성바이오로직스 145만2000원…CDMO 수주와 5공장 가동 주목",
+      "source": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UVDFXeXM4SFNlVGx4X196dUdiQnNaSC1XSnJkZ1AteFlBWTlPTFk1dHF5WUtSNkFtSmg4bU00bGFSZ1hxWlhiaENUMmhLaXpLemUwYmRIMXhlbE05SHNDb29ZSEl2NWJMWmhJcVk5dHhCQdIBckFVX3lxTE1UVDFXeXM4SFNlVGx4X196dUdiQnNaSC1XSnJkZ1AteFlBWTlPTFk1dHF5WUtSNkFtSmg4bU00bGFSZ1hxWlhiaENUMmhLaXpLemUwYmRIMXhlbE05SHNDb29ZSEl2NWJMWmhJcVk5dHhCQQ?oc=5",
+      "publishedAt": "2026-10-26T06:55:06.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오로직스 145만2000원…CDMO 수주와 5공장 가동 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "235a3f56bfe219c6",
+      "title": "삼성바이오로직스 노조, 파업 제한 결정에 재항고…28일 교섭 재개",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lOEJCVDJDLV9aR1BReUFOU3Nlck5rZ1lDTGtuTDNoenRUUUJpVWszUXhQNy13M3c1Um1QSkw4LXk4RXktaXltbVQwWUdlQQ?oc=5",
+      "publishedAt": "2026-10-26T05:56:18.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오로직스 노조, 파업 제한 결정에 재항고…28일 교섭 재개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -209,7 +297,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05VlJvc3pYTWVOWVJubVhBRWF4VXlNcTk4M2hKOWZxWTFEQkw1R0lROV9rUUNQSHgyZGpFWEg5QnJmdUwyOW03VXYtdGxrYTh3M19abDdMdjZwNDBwMEZ6UlVVd3pIY01UVGpPMi1tTnVVWUd0SWVhWExoNNIBgAFBVV95cUxNSVJwQVdfMVp3M3ZycUd1blQxMnhIbVBUWm00WGxaVFQ0Z1dIWlNZTUVuRl9SbHYwdnVUZm9JVjRybk1rOHlFSXZvdjgzRWpSSUtyT3JaSlgzQVhXaXRoeHBBYUREUHJKUDZwaWljaTNxa2dZZTJBd0psWnNOYjFsOA?oc=5",
       "publishedAt": "2026-10-26T01:56:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -231,39 +319,12 @@
       }
     },
     {
-      "id": "6d47919d3468e6ec",
-      "title": "삼성바이오 노조, 법원 파업 제동에 \"단체행동권 보장해야\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdWxWS08xTThvMmYwWTRpUldST1hFblViVTd3Vk9OTFNlM0xSaHJZcEpudk5ZR0hEM3hOQ2NLbDE2NGEzdjVYaWtZcTdfY1BlSWxtYTNRNmVKWlHSAWBBVV95cUxNZ3RRZU9GM3V0NUpYUm5IUW9HLXJfcmZzOUwzVVFrOGFEVUoyZEJhSE5MMFV3QnliMElJdUcyZldFSFJyTS1LWHFuQ3B5OGFaRDBjY3lsaWJ6Zk5HSXYxSXc?oc=5",
-      "publishedAt": "2026-10-26T01:55:44.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오 노조, 법원 파업 제동에 \"단체행동권 보장해야\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a7e8fdb883d8444b",
       "title": "[시대데스크/박정웅]삼성바이오를 키운 빈 공간",
       "source": "동행미디어 시대",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYRDZfMVVZUmN4UEc1bVpxMHh2UlprVUpyNjAzbWdPMm42QU9raVRKWVNIY0gtMUE4WU9UUnl4YVVVVmtKOThXWmo0bUJJSmNhS181RmlzcEIzMEd2MHc?oc=5",
       "publishedAt": "2026-10-25T21:15:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -290,7 +351,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c2JPTVhXVndLR2o1UDZ2bDJwd0Vqd2pVWENTWjhVUDZjY0R6ZFRha3FGTFpKb3A2YVNEaUdBVVR5bVNwZ1ZvcDJTYmlOR0pMWmV6NFFyMm92TW9xQlZFU2d4RQ?oc=5",
       "publishedAt": "2026-10-25T10:50:01.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -314,12 +375,41 @@
       }
     },
     {
+      "id": "24c6bf0dd712f3b3",
+      "title": "삼성바이오, 분기 매출 1.5조 ‘최대’…한올바이오, 中서 신약 허가 [바이오 주간 결산]",
+      "source": "팜이데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqOGtNanNDNk13TUZQa3JSTzhEeG1nX1o4cU9TMnhMcUh0N2xfc19WQzZtNGlqdnBvQjdFSm9uaWFQZmM1WU1DUkMxazE3RnAwSTI1Sk8wTk5QR2tyRDZOWWxXSDFILWVHc2UtZHpR?oc=5",
+      "publishedAt": "2026-10-24T23:00:05.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오, 분기 매출 1.5조 ‘최대’…한올바이오, 中서 신약 허가 [바이오 주간 결산] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "confidence": 0.68,
+        "positiveTerms": [
+          "매출 성장"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b01cd6b881485fe0",
       "title": "삼성바이오로직스, 6공장 착공 놓고 증권가 ‘설왕설래’…수주가 관건",
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBeGZFejRmNThYQXIzSWhYa3FsWkoxOElHY0dpWVR1aXhub0hGUXUzVk0yWlZWY1ZxUlZjdlh6YzFBRHFMc01aXzBXQ25SektEc2had3drUXBnNGs?oc=5",
       "publishedAt": "2026-10-24T06:00:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -348,7 +438,7 @@
       "source": "메디파나뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GX2FjVDBfbTdPLTE4OFRwNzVZdEhVY21TOTB3RG81cmVEQmRGcVczc25lT2xmSTFtZUZzYS1RY2M1ejJmdEo0S2h1a1lMZW1aYVFpY2U0N2VzXzJsdjlCTDVDTUZoSTVoV0hv?oc=5",
       "publishedAt": "2026-10-24T01:14:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -370,12 +460,39 @@
       }
     },
     {
+      "id": "764d6de66d3ddb84",
+      "title": "삼성바이오·셀트리온, 분기 매출 1.5조 육박…4분기 실적도 ‘주목’",
+      "source": "시사오늘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xLXhkRzUzU19mZFpjRm1CQ3FxMUxHbmQ5N0ZaV0F2V0hiMkY1cDgyVFo0cmVyYkhOVE1Rd1ZyTTRZcTNoRXc1VFdfS3FMN0JERDFkTlZLRXJXZUhEd1ZtX1pWTmczakxOaTk4?oc=5",
+      "publishedAt": "2026-10-23T04:38:46.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오·셀트리온, 분기 매출 1.5조 육박…4분기 실적도 ‘주목’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c663041892354f95",
       "title": "삼성바이오로직스 주가 장중 4%대 올라, '파업 우려 완화·수주 기대'에 강세",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BNVdCeEJfWGFyN3Njd05kaGtBTU45eUkyRnVVdlRfeTZneWtFcE9WbTZ2dURoSUlaWkVuSjlaMFdVYU56MmJoNzFhUjl5R21rVXBpTU1nbDBnYjZKbHZIYUV0OTI4ZlJkbWkxQ29NMGJuWVE?oc=5",
       "publishedAt": "2026-10-23T01:24:34.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -402,12 +519,12 @@
       }
     },
     {
-      "id": "842b3ae89ed19853",
-      "title": "삼성바이오로직스, 수주 숨 고르기…ADC·펩타이드로 영역 확대",
-      "source": "데이터뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTN2YmdOQUJXMWFzSFV3RUZ2VG90RGZwSW96Z0ZnempOWEp5dVoxNjB6b0s3X1p0cHZGdi1sMC1SbEljMHpsU0hSbU9LaEJwd2piNnZZczlCY3F1LW9IeQ?oc=5",
-      "publishedAt": "2026-10-22T23:24:33.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "id": "8aed03f3c42130ef",
+      "title": "삼성바이오로직스, 실적도 주가도 ′청신호′…내년 영업익 2.8조 전망",
+      "source": "메가경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDNEk5am40YjlTT1FUZVdrUzFZOHRUM180Y0hsazhOSm1vUURuelFBVjFLUWpySnJ2UlJLTmtBbTJHRXdUQkp5RTZWbDhZS3liZjVxNlQxSkx6YVk1Z09KX2IzbjJDZ1FwblJzWTgyRU4wdDR20gFyQVVfeXFMTnNXaExETUp6cE0zbGY1ZVBVRGgtVXl2Q3J6NHNNbHlFa09qc3FLQWFoVnRTeUJNdTlMY0dVN21GNUw1UGpWMnl5SHY2VFotQUNGaVZZbnJvYXFMejFFa3NkMm14RExCTDN5UHk1LWIyTFBR?oc=5",
+      "publishedAt": "2026-10-23T01:12:45.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -418,25 +535,25 @@
           "ticker": "207940"
         }
       ],
-      "summary": "삼성바이오로직스, 수주 숨 고르기…ADC·펩타이드로 영역 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "삼성바이오로직스, 실적도 주가도 ′청신호′…내년 영업익 2.8조 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
+        "score": 0.28,
+        "confidence": 0.62,
         "positiveTerms": [
-          "수주"
+          "기대감"
         ],
         "negativeTerms": []
       }
     },
     {
-      "id": "f373982fe290bd93",
-      "title": "삼성바이오로직스, 3분기 매출 1.49조…연간 성장률 20%로 상향",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5STnRDMFdJUnpiVHF0U1EyWlg5UC1OOW5yajk0NnVOamtPTlBXZmRZOGxYU29wUG5NQkZKVHRFcnBJQVpwbHJqM2RjeFhESnB4YlVwMGNTV2RSR2JNeFp2eg?oc=5",
-      "publishedAt": "2026-10-22T22:47:06.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "id": "a7a0bb711e1eed74",
+      "title": "삼성바이오로직스, 2.7조 펩타이드 투자…고객·생산망 연계 주목",
+      "source": "더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5M3JsVkdkM1RvcVFMeGZIN1dJYzZXXzlMdlBrNExFZXM1ZnFQM0gzZk9qLTFwYVRuWXN1ek1tcDJBVWc2UzE1clp1LWFwR2RremFld2p0S2Y?oc=5",
+      "publishedAt": "2026-10-23T00:04:02.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -447,127 +564,13 @@
           "ticker": "207940"
         }
       ],
-      "summary": "삼성바이오로직스, 3분기 매출 1.49조…연간 성장률 20%로 상향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.4,
-        "confidence": 0.68,
-        "positiveTerms": [
-          "매출 성장"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1e4abbeac6165fe7",
-      "title": "삼성바이오로직스, 3분기 매출 1조 4903억원 '쾌조'",
-      "source": "메디칼업저버",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YV1otRzQ1aU00enRhT0pSOXR4UndFZUVTakV6cFhDMHhYczRBRXpxTXE1c3gyQ0JDNDJWdEd5bEJsNm1ET2gzRndsdDdpVmJYVF9hM2RmRDRKYnN4WTBJSDRlWDhNSzRYdmIw?oc=5",
-      "publishedAt": "2026-10-22T21:01:40.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오로직스, 3분기 매출 1조 4903억원 '쾌조' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "삼성바이오로직스, 2.7조 펩타이드 투자…고객·생산망 연계 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ef164fad7d293e30",
-      "title": "삼성바이오, 역대 최대 분기 매출…남은 과제는",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wU1lfUHpvczlFTm1XN2NoUklybElvWHZLMDJoS3JGTElJcWpWSVBMai10RFVvN3NnZ29GUDhQcDgtN2hpNy1adjgtVjJLX1puUDQzRDZBcmgtZFJoZl9WdVBxSTc?oc=5",
-      "publishedAt": "2026-10-22T08:55:10.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오, 역대 최대 분기 매출…남은 과제는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3bb95ff6c93aced2",
-      "title": "‘美록빌·5공장’ 덕 본 삼성바이오… 환율·파업 뚫고 깜짝실적",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdS02RGJ5YkhycmNGY1dNZ3F6VzhGMzc2OS1lYjZBY1lsSU4yNEFrZ3M0UnNSNHJNWDJXU2w2aTUwT1dLb2NXOWhJX3p4dWdSTW5Tc21ISGhnOGo0bjZzUk9yWXBTVTl0ZVd6Y213?oc=5",
-      "publishedAt": "2026-10-22T08:38:34.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "‘美록빌·5공장’ 덕 본 삼성바이오… 환율·파업 뚫고 깜짝실적 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a712ff569f83ba6c",
-      "title": "“비만치료제 잡고 노사 리스크 털었다…삼성바이오로직스, 연말 ‘수주 폭풍’ 예고”",
-      "source": "뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PaUlWNWMyWWVsRUhiWDlzLURiZEUxQll4bGNrc3BYSUxXSERjVmtrTGN4bEx1RV9rcnBvRXVvOUx6Vk9wTVFLV0NYeWpXRXdoWVlJbHpvQ0RfaG4yVktna3cyV2xSeE9rQUZMNE9yaw?oc=5",
-      "publishedAt": "2026-10-22T07:51:26.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "“비만치료제 잡고 노사 리스크 털었다…삼성바이오로직스, 연말 ‘수주 폭풍’ 예고” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
         "negativeTerms": []
       }
     }

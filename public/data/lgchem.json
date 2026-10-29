@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:00:32.869Z",
+  "generatedAt": "2026-10-29T09:08:03.703Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,78 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG화학, '마르지 않는 샘물' 엔솔…9.6조 현금화",
-    "LG화학, LG엔솔 지분 2.5조원 처분…3000억원 자사주 매입·소각",
-    "LG화학, 2.5조원 규모 LG엔솔 주식 매각…4000억으로 주주환원"
+    "LG화학 지분 처분에 LG엔솔 주가 장중 10% 급락...회복세에 찬물",
+    "[특징주] LG화학 지분 매각 추진에 LG에너지솔루션 6% 급락",
+    "LG화학, '마르지 않는 샘물' 엔솔…9.6조 현금화"
   ],
   "articles": [
+    {
+      "id": "7924d2342598ecef",
+      "title": "LG화학 지분 처분에 LG엔솔 주가 장중 10% 급락...회복세에 찬물",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmotX0tPYTI5VjFwS1BSYUJsbGI4bHQ2d0NLNDZZX042ZW5NY3IwUTFDTTR5eHpiMmM5UkhBMzJJTEZJenNtWW5ocG9SMGwxZ1BQTUsyVzdrQUtLTU5xZW10R3ZNZHdWLVJmbC1uU2J0OE1tQ0xjRExKa1FHbTVBRHBMT2M0WDZKa1p4MUNXZw?oc=5",
+      "publishedAt": "2026-10-29T04:58:00.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 지분 처분에 LG엔솔 주가 장중 10% 급락...회복세에 찬물 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "2acfe294e556f5a0",
+      "title": "[특징주] LG화학 지분 매각 추진에 LG에너지솔루션 6% 급락",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02YWdUUjA5MEkyaGpqNExjdUp3OHRmc005WTVPdXBHUlBQamNjNDlWN3NZZC05Q2VJNzY4YzFhUVZtSks5RHVUZDduSWZ1S1NuSmJUaEVGQ0RJWkpi?oc=5",
+      "publishedAt": "2026-10-29T00:50:00.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[특징주] LG화학 지분 매각 추진에 LG에너지솔루션 6% 급락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
     {
       "id": "3c3bbd3e1ae05058",
       "title": "LG화학, '마르지 않는 샘물' 엔솔…9.6조 현금화",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NjdIQlZySW5MNU9qenlKNG5ETlhZWnIxN0tnY21WQjFMYzk1VHpvdVpOMkVEWWdMWW1VMTNNYkJ4cW1rTDNUNmJYb3YtaGVPRDY2REdtWE8zQUtFQUhvb2xJUFVUcnFkTTVvSg?oc=5",
       "publishedAt": "2026-10-28T21:50:03.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -47,7 +105,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yeHRYTWZlMkZCYU5ua0dnai1BZEVFWGxyYXRtQUVfeFpzaDhtR2FIZkNyYjFaazJleEdxR2VmYlMyR3FMdnpqMXNiR0xJUQ?oc=5",
       "publishedAt": "2026-10-28T09:24:31.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,7 +132,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMnRmSmhoa3lvWGM2bUlxOU9uRU0zVndHWFBncmdrWVVDbHlrZlJUV2YtWWFILURKOWhNMHJaNUxlWG1fdW1iUEl1dlBsLUJZUHfSAVNBVV95cUxNR2EzZkZWYVVsOTA4b01fNkdDT1VZOFRGd3h2cXRya1BGOVZiYjM4MDdfQ3NCUi1YQVRhUUNRX1ZYLUk0a2E2eklrd1BCOERBVEc5VQ?oc=5",
       "publishedAt": "2026-10-28T09:19:55.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -101,39 +159,12 @@
       }
     },
     {
-      "id": "cd92442b5a3d2c34",
-      "title": "LG화학, LG엔솔 지분 2.5조 PRS로 유동화…4천억은 주주환원",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rZWk2MHlwOGpzQnYtaVdWTzJHTlVjdTNxRkM2aVd5S050bTkxdG9KN1NHOThadU4xV3NNWmQwZjhDQUVwaHJlSlVDYU5LUXZ6S3c?oc=5",
-      "publishedAt": "2026-10-28T08:53:27.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, LG엔솔 지분 2.5조 PRS로 유동화…4천억은 주주환원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7ab4fec7ac189257",
       "title": "LG화학, LG엔솔 지분 활용해 2.5조원 조달…3000억원 자사주 소각",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6aUEtbTBQRktSNGFXTmUtWU8wSnJ4T0ZXNEhMLWFtS2g0U1BlNHpZRFF0ZDdRVS16TGxlYmRwRm5fVU5xdnNxRUJIdjc3ZXZ4TXg2ZHd4ZFdBUQ?oc=5",
       "publishedAt": "2026-10-28T08:26:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -160,7 +191,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lSnQxZnpqR1dwWUNtd3cxNUJvM3RTdzRIQlA4UHZoV3FYLXFLby1UeTAyVTBvaXhhZnh4MzdMU2lXUjdxRkVPeU9id0JZWUJ0RlhOdEVzeXprY2VU?oc=5",
       "publishedAt": "2026-10-28T08:08:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -182,39 +213,12 @@
       }
     },
     {
-      "id": "58e81c8d9c414eb4",
-      "title": "LG화학, LG엔솔 지분 팔아 2조 5000억원 유동성 확보",
-      "source": "주간한국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Nb0ZudTFuNmZnNjU0M2ptcFZ2WnRjcHZhV29Gb1RFVmVOLW9HSS0zeVA1ZFAyNHRLZUxQYmZfUkpGZU9WTm5waTBXQnNCZ0g1WDczZ2IyZURuSzlhTDA1OU5SUDN6a2Fncy1YOU1KdlV2aE5j0gF0QVVfeXFMTk1vRm51MW42Zmc2NTQzam1wVnZadGNwdmFXb0ZvVEVWZU4tb0dJLTN5UDVkUDI0dEtlTFBiZl9SSkZlT1ZObnBpMFdCc0JnSDVYNzNnYjJlRG5LOWFMMDU5TlJQM3prYWdzLVg5TUp2VXZoTmM?oc=5",
-      "publishedAt": "2026-10-28T07:56:24.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, LG엔솔 지분 팔아 2조 5000억원 유동성 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "78db177290d6c0ca",
       "title": "LG화학, 엔솔 지분 2.5조 처분…\"4천억원으로 주주환원\"",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fN0hheVk1R20wRVB5R3RVOGFaLTRDNDI1SmhSR3pXYnVSZEdyd0ZxZ2JhUENZLVpnMFRJa1lEQTQ1WHp5NWJxRkcyb01PVVc4aEwwUEJ4MkdqMnNmY0l3OHpmemg0OVpicFBiRUpWVW4?oc=5",
       "publishedAt": "2026-10-28T07:50:49.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -241,7 +245,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42SlBIVnBPUS13cUVwTTd5em55RFRKN3lGUExiYkxjMGVYUDBtZW5iVlZlUGRvc3FwT0xybmU1LWVNYWI4N3FLVHVkckRKZnJjaE1ES3FHNWk0emg0ZGtVRGIzb2NXZw?oc=5",
       "publishedAt": "2026-10-28T07:45:24.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -263,39 +267,12 @@
       }
     },
     {
-      "id": "b391885410bcf4d8",
-      "title": "LG화학, LG엔솔 지분 처분한다…2.5조 현금 확보",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVVBpb0J5TmFjcmxiUDJGNFV4bm9SMXhwdUxSMXlTbE1iNHRVWlBvR3A3ZWk3bHUteVRtcms5SmZsc2xEQkZXQldCRklfclFSWEY2cWhB?oc=5",
-      "publishedAt": "2026-10-28T06:57:58.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, LG엔솔 지분 처분한다…2.5조 현금 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8e259f46fcfb8927",
       "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaE53WktqVV9RLTVkR0RVYmZNd2xYS1Z6S3RsU1hLcF9aeWcwTmhvMmRFOVFBOWs3TTljYXRXM3pxclFWcVctYnF6ZE9PTXJ0XzBsX3hiNVVEWG1OTGZDVUdWVVpkWUE1TkdBM0xiZnlSX203aTdTR3RaaDYzX3hsWk5kUQ?oc=5",
       "publishedAt": "2026-10-28T06:37:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -329,7 +306,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXVuVHZIT1ZEYzNCbDlWdWxPcEs5dzJZMmhQd2wwUGk1R19GSFlmVlY0eWZnNWM3N1pRRENPbDVHbjlpaHRiZGF4LTNMMHVGaE9NeGVmazFmQ0h4bld0Uk44c1JnNWJZbzBzTjQybHNvUHVwbWt0U2V5aVNLelBhONIBgAFBVV95cUxPdXVuVHZIT1ZEYzNCbDlWdWxPcEs5dzJZMmhQd2wwUGk1R19GSFlmVlY0eWZnNWM3N1pRRENPbDVHbjlpaHRiZGF4LTNMMHVGaE9NeGVmazFmQ0h4bld0Uk44c1JnNWJZbzBzTjQybHNvUHVwbWt0U2V5aVNLelBhOA?oc=5",
       "publishedAt": "2026-10-28T01:32:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -356,7 +333,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3gxejU2aF8xMkZ5dHJ6SkxoYTdkMV9reHpDeU9meVBvZmJweXd0Vy0xUFhhR25FQi1kSFZSMGtFZnFvcFZuLUhXdVdmN2ZZcnVjcXAxRGFjZFRNcmxhWWlKVkFxRkpDMFJGblo5UU5pSFdEelUxNVR5dTBvZU00dWxkbEN2QQ?oc=5",
       "publishedAt": "2026-10-27T08:00:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -383,7 +360,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tMGFSRnhia1lVRFFlNTMtNWlRXzRLS1l2ajA3dFh3RUMtbC1STUhBNjA2UnVtNHhGNXZ5cVJBRXcwVmRXT3hqY2NTMHpmVWVWSHBqZkxWTV9XSUVoajhKWEZrX1hBYVZo?oc=5",
       "publishedAt": "2026-10-27T07:41:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -410,7 +387,7 @@
       "source": "포커스경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZT21Hem9wMHUyVU01a0lfVHpfd0tNbTJsWEZWMHlJTnJPd2NMWkFWcldlZFdhY2ZPSzZVWUhjQy1sNmVwdTJZNWhCRWVDSjRCSTV6YkJMdVBWTEVack9zaXduR2drd1dqdkJOU0tn?oc=5",
       "publishedAt": "2026-10-27T05:35:29.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -437,7 +414,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14LVp4Y2dPV1Bya0dfUXY0M3pTQ1o2MkR5VTVXSVY3MnhkZGl1SHpnQlNuZWhCTFpsOG9VOHlBVU16RzJjQmVKY3h1d0phV0NEMlF6U1FCQXh4Q2ZrVzk0TzRLMEU1Zw?oc=5",
       "publishedAt": "2026-10-27T02:03:55.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -464,7 +441,7 @@
       "source": "인사이트코리아",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzZF9hSUtqSXBwUVdNb2JKbEFKMzVmeFlLOWlnaGdpeGFaUk13bW5rUWRlaFZNQVB1SmZxN01DU1J3VVR5X09SQU4zanNYeS1vR0ZvYm9KMGpVdTZFZVdZcENOekdlQWZGTHA0bmlvQTQ0enPSAXdBVV95cUxQUDR6Z2xIRkozeGRQQVd1WHhOSFZFM202bDVkTFRFSWxseXJBODJmcDRlR0ptaWZYVmp3RmxyV2x5blo5NDJvY1VkVmVqR1A1Zk5aWERhbWVFdjNBYm5jNlIzVVB4a1pLMVEwUlZqYk9nNnBrX0l0QQ?oc=5",
       "publishedAt": "2026-10-27T01:17:49.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -486,12 +463,39 @@
       }
     },
     {
+      "id": "8cd64349885ef110",
+      "title": "LG화학, ‘국제 자동차 부품 전시회’ 첫 참가",
+      "source": "주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SajVKZU91Ym13VlZROGpCZlRjRWJfdk03SXJtTmtmU2R0Vk9GTmlYMEg2U005NlFvMmVhMTJHSnVrX2cxa2dZdzNfZUdESld6Tlc1UnQwYjY3azc4aHUtOEs3LXc2NEY0V2NtLU5xaUdJMW540gF0QVVfeXFMTlJqNUplT3VibXdWVlE4akJmVGNFYl92TTdJcm1Oa2ZTZHRWT0ZOaVgwSDZTTTk2UW8yZWExMkdKdWtfZzFrZ1l3M19lR0RKV3pOVzVSdDBiNjdrNzhodS04SzctdzY0RjRXY20tTnFpR0kxbng?oc=5",
+      "publishedAt": "2026-10-27T01:12:05.000Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, ‘국제 자동차 부품 전시회’ 첫 참가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "1d61ec4378aa4a65",
       "title": "[심층분석] LG화학, 폭스바겐 협력 발판으로 유럽 미래차 소재 시장 공략…경량화·재활용·배터리 안전성 경쟁",
       "source": "뉴스밸류",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTWd6TXc4b3dtMTh1bnIzbFN6eFlMZE5WZjd5ZlU1S2szQ3d5bzZ2bElOUUpvRVZiUXFuNEJiT1lienFscVg1T1lQd1hpSjZnbGdLaWE5eTh1aWxPX2d5VDlkdVVVcDF2Mmc?oc=5",
       "publishedAt": "2026-10-27T00:30:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -518,7 +522,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QUGFsakFoTm5McTAweVlDbU5sRkxnVmVGNW83UUZDZmN2RXNxeGFkZ3BfLS15b2stdE5ZMGF2UDB3RzBqT0c5WkMtSXJfZDJtS25RcHFId2lpNzVU?oc=5",
       "publishedAt": "2026-10-27T00:24:00.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -545,7 +549,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObk5SWlZNZnRfdDNUeGdUWEd3aU53RGdYM3MxYVcweGVNOEhhMWZ2Zm5NUGRiWDhGUmhRZm9zZDZVaE9yQkpsbmNXZkxhcmJjcExQUDFtVWVaeTVMMnU3SzVPM285bFdxZHViaGtJR25jajVGVjVsSjFHZVNGWVFXOW5NQ3JTdw?oc=5",
       "publishedAt": "2026-10-27T00:06:50.000Z",
-      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "collectedAt": "2026-10-29T09:08:03.703Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
