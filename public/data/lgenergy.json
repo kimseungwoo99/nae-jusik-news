@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:54:26.080Z",
+  "generatedAt": "2026-10-29T02:00:32.869Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,407 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
-    "LG에너지솔루션, 유럽·북미 ESS 사업 확대 추진",
-    "LG엔솔, 북미 이어 유럽 ESS 시장 공략…1.5GWh 공급 추진 MOU"
+    "배터리 혁신기술 발굴···LG엔솔, 글로벌 연구 공모 확대",
+    "LG엔솔, 배터리 혁신 기술 찾는다…학계 대상 경진대회 개최",
+    "[특징주] LG에너지솔루션, 최대주주 지분 매각에 8% 하락"
   ],
   "articles": [
+    {
+      "id": "85d7b5c1f10efb9a",
+      "title": "배터리 혁신기술 발굴···LG엔솔, 글로벌 연구 공모 확대",
+      "source": "에너지신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1INlBUMFZEaWFROFY2ZC1FLVA2a3ZJOHZkT2gxWXRGZ3VIUWJLSHlJQTNuM2w4WHVYSTVsS1hnRmNpdHNObGJHTEZrQ1VIallPaVRacHRPS0dTeFJJVG15eXU4a0ZxYWI2VlF4anlIS0dQQQ?oc=5",
+      "publishedAt": "2026-10-29T01:35:37.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "배터리 혁신기술 발굴···LG엔솔, 글로벌 연구 공모 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6d7ff49daaa7dc5e",
+      "title": "LG엔솔, 배터리 혁신 기술 찾는다…학계 대상 경진대회 개최",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUE9mSnczRjJXSVd1Z014WUdwd1lfS2RlOHo4QktkSnZVZnp5OGFmR3lDeHNyX0FXUFJZOXo0OTRCSUp0a2JNcHdteDlSLTZyY0JKYlhB?oc=5",
+      "publishedAt": "2026-10-29T01:11:05.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 배터리 혁신 기술 찾는다…학계 대상 경진대회 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6523ad1886bd67f7",
+      "title": "[특징주] LG에너지솔루션, 최대주주 지분 매각에 8% 하락",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWJtTVllREpCTXJyUzk3TktBYmUxcnJFcXdpQTdpalh5WmlNdUo1M3JWYnNNR0x0YW9NbXljbnM1aUVSU19xZDNNZDRRVGFuc0ZHcERCUjh4bi00OU8zWmlPemJTb1pEMkUtcHpyNmZ4TDVMZ1VfS0JmaElGclItTUlYd3JQWEJ60gGcAUFVX3lxTE0wa2d6aTF4ZGNveElpdWFyQXJoOXVObGlMUjYxOTN4SWJHSVp0MTYxanRpQU44ZFZ6a3hHSGtiQzNnbGNZUEZFaURPWWdhMjJxY0I1YjBPMGlFdUEwVVl3TDE1eDJWdWRxT1V4Zk0ydkZvYjliSmtDcG5qS2tydm15Y2hGYXlJdk9nc1ZUZzYyWlRfQ0dSZEt3OW92aw?oc=5",
+      "publishedAt": "2026-10-29T01:04:00.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "[특징주] LG에너지솔루션, 최대주주 지분 매각에 8% 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "49fab9795cfdd121",
+      "title": "LG엔솔, 대학·연구기관과 배터리 기술 발굴..'BIC 2026' 개최 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1leWotR0w0Z1ZrODY4aFlHek5mVS1GMkRzRmZaOVUtTG8xQzNKeHZtdDl4dHpUSUljN0dpaTNGR1VMalpORDRNSFIwNGY1WHhoMVZWTnlBRzRhRF9Ca1RHWjkwcFd6OVpJZS12StIBckFVX3lxTE05Z1pkZzY1ZVZ6aUMxN25XdnJzUG95eXpUS1RGN2FndGxOSThiTnN5cjdycDFpQjVfSjc0eHJBckNhUmVjRVlLR1hFejMta3pZMWhuUDRWMmtDcDMtcVlhZ3VpTDlVV3MwMHBYbXk3dHoxQQ?oc=5",
+      "publishedAt": "2026-10-29T00:17:57.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 대학·연구기관과 배터리 기술 발굴..'BIC 2026' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4ee901025c0349c0",
+      "title": "LG엔솔, 미래 배터리 기술 발굴 나선다…글로벌 연구과제 공모",
+      "source": "인사이트코리아",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBndEp2WnZnUFRkMUZxSmN0T3MySzBYOHo1Tl96M0pQLS1ya3BnOFRuRlFsbVV4R2lEUGJneWFoUm43N2djTEl0QUJFdDM2a3BtUGdZdno0QWt0NTlGUTFDdWNxTUtzbENIcVFGWkRpdGJRNmlsMERR0gF3QVVfeXFMUGd0SnZadmdQVGQxRnFKY3RPczJLMFg4ejVOX3ozSlAtLXJrcGc4VG5GUWxtVXhHaURQYmd5YWhSbjc3Z2NMSXRBQkV0MzZrcG1QZ1l2ejRBa3Q1OUZRMUN1Y3FNS3NsQ0hxUUZaRGl0YlE2aWwwRFE?oc=5",
+      "publishedAt": "2026-10-29T00:04:22.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 미래 배터리 기술 발굴 나선다…글로벌 연구과제 공모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4e2f42ed43147ff1",
+      "title": "\"미래 배터리 혁신 기술 찾는다\" … LG엔솔, 'BIC 2026' 개최",
+      "source": "뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzJuWFVfb3BSQi1uNVR6c25MTkJ6cnRzUXNnVmxfODhaQVItd0NpTm52U3BmWUt6eDdQVU1MUHZfX3dUN2FaamhxVkJvd3psMU5XWWx1QWRXRjJ2RHltNW00bzUwbC1oNVhMVEJKb0pxeGZmNm5wbzdpUkxaeWJ2b9IBgAFBVV95cUxQNzJuWFVfb3BSQi1uNVR6c25MTkJ6cnRzUXNnVmxfODhaQVItd0NpTm52U3BmWUt6eDdQVU1MUHZfX3dUN2FaamhxVkJvd3psMU5XWWx1QWRXRjJ2RHltNW00bzUwbC1oNVhMVEJKb0pxeGZmNm5wbzdpUkxaeWJ2bw?oc=5",
+      "publishedAt": "2026-10-28T23:40:00.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "\"미래 배터리 혁신 기술 찾는다\" … LG엔솔, 'BIC 2026' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "624e16ad68c0f834",
+      "title": "LG엔솔, 미래 배터리 기술 공모전 'BIC 2026' 개최…역대 최대 규모",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQbDNHWU1PeXRMNW1RakYxZFQwMHlUcWU3WFlHMXFUWVhlUHdtX0t2NzNFRE5Hb1hLMklEZi1KZkw3NmlnOHNmaS10LVZTQVJQOXc4RmhfU25FYi1HblRKUFhoMURzNzFpN19SR1ZZdjBVYTF3ZzhSbNIBeEFVX3lxTFBQbDNHWU1PeXRMNW1RakYxZFQwMHlUcWU3WFlHMXFUWVhlUHdtX0t2NzNFRE5Hb1hLMklEZi1KZkw3NmlnOHNmaS10LVZTQVJQOXc4RmhfU25FYi1HblRKUFhoMURzNzFpN19SR1ZZdjBVYTF3ZzhSbA?oc=5",
+      "publishedAt": "2026-10-28T23:34:08.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 미래 배터리 기술 공모전 'BIC 2026' 개최…역대 최대 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a4d737c639d369f3",
+      "title": "LG엔솔, 미래 배터리 기술 찾는다…글로벌 연구공모 'BIC 2026'",
+      "source": "신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nUUlsZmtOMHVFcG82cmstOVc5RW5la3ZIaG4wQjE2d3ZINk5LV3ZvTEJyTEQ2NlRsRFdOcm5RNFRLcmJyWlg3eDRVMjhCd0tEelJNaW5XUndPUDR3WWZTZUdjVVlHSXlROFpIeEI5cVo?oc=5",
+      "publishedAt": "2026-10-28T23:30:07.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 미래 배터리 기술 찾는다…글로벌 연구공모 'BIC 2026' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "20ae1d64e599fc8e",
+      "title": "LG에너지솔루션, 미래 배터리 기술 발굴…글로벌 연구 공모",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5veTJsWTBYYWdDdEphRHdzRVJtdzBxZnN3QnV4OHc3enU0V0JKTkpFanI1ODZrR3hsWUt3eWE1OXhrVEkyd0RTTXhaSlp0bF96RFo1YVU5WjNNUHFCVlNacmFGLV8?oc=5",
+      "publishedAt": "2026-10-28T23:26:34.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG에너지솔루션, 미래 배터리 기술 발굴…글로벌 연구 공모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "97bc871a1106418c",
+      "title": "LG엔솔, 차세대 배터리 기술 공모…실제 사업 연구 주제 선정",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGZuN2ZIMEY3TVU3MkZYRjdqdjNmYzlIWjllNVdHWVBxb0Z3OTNsbkdNMzVNSHZOR3JrM3c4WEI4bFJMQ0d6LUh6V0tYQUt0UUIyOGU2b3ZjMnZuQ2ZmdGVsOEZqVkd4Z2F3WXdMTjdtM2sxR1hCSXdWWmNRaTJyQ1RlT25kUQ?oc=5",
+      "publishedAt": "2026-10-28T23:24:47.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 차세대 배터리 기술 공모…실제 사업 연구 주제 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2f29f9e7a051c15b",
+      "title": "LG엔솔, 배터리 산학협력 확대…‘BIC’ 연구주제 역대 최대",
+      "source": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeG5EUnl2NkJPeG9RNGNMUWZJQkdINWRLZ0p6SmpDZzVDMURvVUxhbVFRM3g0ZjZMWV9qdE9ZM3hCNGlvcXR4NlVWb01XVzBCYnlaWnpGMklaZURaMWNVajRzdGtfNXg5LW9waUdnemFTenAtOHhRS3k4NVg0Z1l0Yg?oc=5",
+      "publishedAt": "2026-10-28T23:21:52.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 배터리 산학협력 확대…‘BIC’ 연구주제 역대 최대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8bb2536042acbf2e",
+      "title": "LG에너지솔루션, 미래 배터리 기술 공모 'BIC 2026' 개최",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TUV2RmZ1TEVQZ2xxVVRSRGhMdjZ4Wnh2NjZ5aXk3UHpHNEFEWS05dkt0eWV3MEx2aUNjUVpzZnpxMG1KcUJYd1hRTGZENDV1b0l6YnBDQ25PajQzVGpMbdIBYEFVX3lxTE85TUV2RmZ1TEVQZ2xxVVRSRGhMdjZ4Wnh2NjZ5aXk3UHpHNEFEWS05dkt0eWV3MEx2aUNjUVpzZnpxMG1KcUJYd1hRTGZENDV1b0l6YnBDQ25PajQzVGpMbQ?oc=5",
+      "publishedAt": "2026-10-28T23:17:16.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG에너지솔루션, 미래 배터리 기술 공모 'BIC 2026' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2152f54ae57860c9",
+      "title": "LG엔솔, 전 세계 연구실에 '미래 배터리' 묻는다",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lOUZlbFpBbTUyWGtxbC1LX3poQ01EdTY3WWJNamcyRHBIRnVkNnZYYXdLbGpMZF9PUHczdV9yNGRldlRvbmphTmtOWFN3X2Zoa2RKSnhSRXJ0Zw?oc=5",
+      "publishedAt": "2026-10-28T22:59:16.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔, 전 세계 연구실에 '미래 배터리' 묻는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7017641d5997c0a4",
+      "title": "LG화학, 2.5조원 규모 LG엔솔 주식 매각…4000억으로 주주환원",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMnRmSmhoa3lvWGM2bUlxOU9uRU0zVndHWFBncmdrWVVDbHlrZlJUV2YtWWFILURKOWhNMHJaNUxlWG1fdW1iUEl1dlBsLUJZUHfSAVNBVV95cUxNR2EzZkZWYVVsOTA4b01fNkdDT1VZOFRGd3h2cXRya1BGOVZiYjM4MDdfQ3NCUi1YQVRhUUNRX1ZYLUk0a2E2eklrd1BCOERBVEc5VQ?oc=5",
+      "publishedAt": "2026-10-28T09:19:55.000Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 2.5조원 규모 LG엔솔 주식 매각…4000억으로 주주환원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "8e259f46fcfb8927",
       "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaE53WktqVV9RLTVkR0RVYmZNd2xYS1Z6S3RsU1hLcF9aeWcwTmhvMmRFOVFBOWs3TTljYXRXM3pxclFWcVctYnF6ZE9PTXJ0XzBsX3hiNVVEWG1OTGZDVUdWVVpkWUE1TkdBM0xiZnlSX203aTdTR3RaaDYzX3hsWk5kUQ?oc=5",
       "publishedAt": "2026-10-28T06:37:00.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -54,7 +441,7 @@
       "source": "한국NGO신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yMmhwQ19OM0laVlM1UTVSbmFIQXQtR0RJRXJRWi1ZZXc0VmYwM0g3bFFrb0hsY1JuNE9tMl95WjVDbUJFeW1zS0RfMkNRWVVqMzRQZzZYeGZ0Y2Q3VDVqMEZXNnNTSER3?oc=5",
       "publishedAt": "2026-10-27T12:22:18.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -81,7 +468,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZi1IZklNczNsRVJORUNYMDBzSU5XNVFWTFZuUm5KOG1Ic1FReHY4ZnZHbi0zOG9KRjdfQVVqdExuNWprWkl3LUZ0VkhsTDk1MEFoMXpMaFZ0a1ZWMXR0Z3h2QnBlOC1NZTgyRGhMcGp0ZEdnSXhTdGZEOUNsdGQyeFhfcHU5VjRJOTZVOF9uOA?oc=5",
       "publishedAt": "2026-10-27T08:21:57.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -108,7 +495,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWFVJVGY2XzM2MGNVa3hhSDh0eFpfVlJiN3YxWTdTQUJBXzM4SFNaQzI5RTZla0JSRG1KTF9GeTZySnV5UTRHb3hRQ2dQbUZmWUFvS08yUzdfdG5FdnRyRmNhMWJLVFd4eUw5MlVYWXFTODZlcEHSAWZBVV95cUxPM0V4bGhXM3FfRTNRclJQNFpOUjdqQkVaN2wwN25YSU9qQ3FRSXdCWnJUbDE0M09jelRvR3hKX0xlUXBQVDl4TmNrbzFYNnZDTWFVaUhoSlZvNXRCcjEta1B5ZEwtMEE?oc=5",
       "publishedAt": "2026-10-27T05:47:48.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -135,7 +522,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hMFlnMTFSdHJtaW1rZlFtcktnNWRDb2FFRUhqa01TN3RtdkRBeGJYSS1McDhiZTZvanp6R0hiM3Rxem9iU0NNSTkyWXJSOHRHSUlaWDhKYkZyaDlZY2xpUUp1cHBLeW1XaTNURDUtaTHSAXBBVV95cUxNYTBZZzExUnRybWlta2ZRbXJLZzVkQ29hRUVIamtNUzd0bXZEQXhiWEktTHA4YmU2b2p6ekdIYjN0cXpvYlNDTUk5MllyUjh0R0lJWlg4SmJGcmg5WWNsaVFKdXBwS3ltV2kzVEQ1LWkx?oc=5",
       "publishedAt": "2026-10-27T05:43:41.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -157,71 +544,12 @@
       }
     },
     {
-      "id": "a813400c6e32dc0d",
-      "title": "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항'",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONlZldHVLck8yOHZrS1NuQS1qb21wTzBwV04wYmFKZEFwUGlsT2RGcWZBdlV4X0Rzam94MnlTRTdrRG1HbGNiTDZVYndtVk9HYzEtMF85SGhRakJZdV9ITW80b3BGSmRLMU41RlFDYVVSdEIzTEdhQnJzUThNZzg2VzBPVDd5QQ?oc=5",
-      "publishedAt": "2026-10-27T05:24:43.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8a59fc5a4fd4d6b3",
-      "title": "북미 ESS·AI 인프라로 성장 엔진 재편하는 LG에너지솔루션",
-      "source": "주간한국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qeWk3aUUwaWFNeFgtUi1kaEhLRlhjdk1JcjVWbTB3cmhPcGUzYldWci1ySHBQQ0pzeHRMVXh3VW53VWFEaDEtRUpEemU5QlU3VTV4SUVlYUZqM01qWDVIVnhKdjlfOUIzb2RyT2VPX01aeWxD0gF0QVVfeXFMT2p5aTdpRTBpYU14WC1SLWRoSEtGWGN2TUlyNVZtMHdyaE9wZTNiV1ZyLXJIcFBDSnN4dExVeHdVbndVYURoMS1FSkR6ZTlCVTdVNXhJRWVhRmozTWpYNUhWeEp2OV85QjNvZHJPZU9fTVp5bEM?oc=5",
-      "publishedAt": "2026-10-27T05:07:23.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "북미 ESS·AI 인프라로 성장 엔진 재편하는 LG에너지솔루션 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "24624fdc99a96223",
       "title": "LG엔솔, 에너직스와 유럽·북미 ESS 공급 협력",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11SVJBM2o4S3RoSXJ6WnNVbTUyMFBQQjlHazJCczJuTFBYZGxXV3RaX0dRWnZZOF9XTkU1Um5wV1VxTE1PQ00zSmxWNEZJYlhYT19vVlBNaWkxMmd5NWNVVzFrYU1VUQ?oc=5",
       "publishedAt": "2026-10-27T04:38:42.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
+      "collectedAt": "2026-10-29T02:00:32.869Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -234,346 +562,6 @@
       ],
       "summary": "LG엔솔, 에너직스와 유럽·북미 ESS 공급 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fc40bf205193ab0e",
-      "title": "LG에너지솔루션, 북미 이어 유럽서도 ESS 수주 확대…\"에너직스에 2GWh 공급\"",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YSWczQ1U1MEZJdlMzWHpzZDdBM2pza3pBNFBKTm5XSU1yYjNpSm5PMXk4VERjbVNpcHpiVlRlZy05TERqWUprQnowVDgwRW5WQ2JVcTQ2eFlwZUMwd0VsZmplNXQ1eHV0T1NNX2RURUZJR1pyVGtuetIBeEFVX3lxTE9YSWczQ1U1MEZJdlMzWHpzZDdBM2pza3pBNFBKTm5XSU1yYjNpSm5PMXk4VERjbVNpcHpiVlRlZy05TERqWUprQnowVDgwRW5WQ2JVcTQ2eFlwZUMwd0VsZmplNXQ1eHV0T1NNX2RURUZJR1pyVGtueg?oc=5",
-      "publishedAt": "2026-10-27T02:21:19.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 북미 이어 유럽서도 ESS 수주 확대…\"에너직스에 2GWh 공급\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e8bcb524af3e5574",
-      "title": "LG에너지솔루션, 유럽 ESS 사업 확대…에너직스와 최대 4.5GWh 협력 추진",
-      "source": "조세일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oQmJEV3ZmTHZEUVJLV2VfMmZLbThyeEFtSk50MmNPa3ZVMlphOVQwUkFSN25EVm5mVHdMX1RzQkR4X2c0aE9PaFdvS0NnY3hiajNaSHc4bTFESWVnZG00eU83QndNOFc1c3lOcXlTZw?oc=5",
-      "publishedAt": "2026-10-27T02:08:16.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 유럽 ESS 사업 확대…에너직스와 최대 4.5GWh 협력 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ed6f1034c2cf6725",
-      "title": "LG에너지솔루션, 에너직스와 유럽·북미 ESS 공급 확대",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUV94QkM2am81aTVicnJ0ekQ0T0RIYm9aeGpfQkl6WHNtRm5SbnJnb2RLbGhTajFwLUZuV04wLWtLMlBvaUtadGd0ODFaLXJRbGV3bWJjMmJlTFhtRHRSS09udnJVdk1xLXdFZl9LcXl6RFRGT0I0NnJvLXU2WXl2cjZyak_SAZgBQVVfeXFMTnJ2d2ZhSi1kNUt1RVlLMGcxS2pVQ2NPcHdWYjVGZUlvY0NRM09LOHZMd3gtRTR3THgtY2NQRnNNaUV2b1FQWWsxOU5ZS05xMVotVjNKYzFrLWVfZUwtd0hHLUdBdzc5QWl5dE5KVUN3am0tcnM3ZF92dUpUY29TVWN6T0hBOEZSR0g0emM2dnA3RVVPZ0g2c20?oc=5",
-      "publishedAt": "2026-10-27T01:55:00.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 에너직스와 유럽·북미 ESS 공급 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9fe4fabd36c476b4",
-      "title": "[뉴 제네시스] ‘LG엔솔 셀’ 쓴 GV80 하이브리드…공급망 확대",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Ty1xMGNreDNtSllRem1PNjd5SmNzTEJyNEVNdVBhbVYxcWh5V3V4Z21fR2dhLTllTlZOeFpPMXQxbGtjVGg1dlJQcURWTTN5VHBEc2xfU3MwbmZtaWpvb2NZYTNZeWlaOUppbdIBbEFVX3lxTFB1Ty1xMGNreDNtSllRem1PNjd5SmNzTEJyNEVNdVBhbVYxcWh5V3V4Z21fR2dhLTllTlZOeFpPMXQxbGtjVGg1dlJQcURWTTN5VHBEc2xfU3MwbmZtaWpvb2NZYTNZeWlaOUppbQ?oc=5",
-      "publishedAt": "2026-10-27T01:16:04.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "[뉴 제네시스] ‘LG엔솔 셀’ 쓴 GV80 하이브리드…공급망 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1fee258f419409b7",
-      "title": "[단독] LG엔솔·에너직스, 4.5GWh 규모 BESS 공급 MOU...美·유럽 공략 확대",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yUU9rQlR1WHZhdWt1VFgyRW5yaEF0M2FNRWNCekNCeHdSM1RBa3NtUndHNWt1WUtLdUp1WnlsVUVFSnliVzZiRjNkZUltN29IekhOcUtSblpCaU9fdkE?oc=5",
-      "publishedAt": "2026-10-26T23:59:43.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "[단독] LG엔솔·에너직스, 4.5GWh 규모 BESS 공급 MOU...美·유럽 공략 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b67579a41ab63026",
-      "title": "LG에너지솔루션 EU 전기차용 LFP배터리 설비 지원금 확보, 김동명 폴란드 공장 '흑자전환' 속도",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNlQ1NXNkV2pmY1NJWDRMOUM5eDFQUlI5UTkzamw2VFdJa3FORHlaazlJRWdSejhuV2ptc0l3a0xBU0pON0hRR3dIelFzSTc0UDRDeElmWFo5VlNHd09TNFJnMmN3cDhjcDVEVTQtZDFGWVE?oc=5",
-      "publishedAt": "2026-10-26T07:12:49.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션 EU 전기차용 LFP배터리 설비 지원금 확보, 김동명 폴란드 공장 '흑자전환' 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "흑자 전환"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "aa010a8b0c7e039a",
-      "title": "아틀라스 관절 현대모비스, 심장은 삼성SDI·LG엔솔",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdkN5Q1lLNEFfaTZRNHp1YUNXdEJfcEpTUFNqSVNUaTZnZlQyN1NxM0hCbVBBZE1ZcXFmX1QtVF9wM0xaNDkwUmpoWGtqdw?oc=5",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "아틀라스 관절 현대모비스, 심장은 삼성SDI·LG엔솔 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f7a2c7fa837bb40e",
-      "title": "LG엔솔·삼성SDI·SK온, 전기차 배터리 둔화에 ESS 수주 경쟁 본격화",
-      "source": "PRESS9",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJaGU4NWlDWFZiV3lmMUxrTl9Ua1Q4bFJ5WHhteUE3MEtMYWt3NDZmWE8wRmFjODQ4YWhfM0hkZEJpVVVUa3NCR3pJbS1FQlVfWUJ6TnJKX3hWb0JQSlUwd0dYUE5mdw?oc=5",
-      "publishedAt": "2026-10-26T01:34:20.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔·삼성SDI·SK온, 전기차 배터리 둔화에 ESS 수주 경쟁 본격화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9558b6d10c1a0068",
-      "title": "리튬부터 ESS까지…LG엔솔, 북미 공급망 굳힌다",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTUFtU0I0SERvRGoyRnRfWGpRVG5IXzBGd1ktNXNwN1JvVXN4Y0V6US01ZENCTzNlZDNFZUNoSk1nT2lvNlJuNFo5MldCbkZjbDFHNWhhVVJGdw?oc=5",
-      "publishedAt": "2026-10-26T00:16:45.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "리튬부터 ESS까지…LG엔솔, 북미 공급망 굳힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "174a4e4990b8db54",
-      "title": "EU 청정기술 12개 사업 지원…LG에너지솔루션 포함",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQURWVWdfanF0SmVNX3ZrbS02STFzTmQ1OXl1RUs4MjkzYmlreXROUXozYWVqV0RBWXBaNG1KOW1qaWxzalUxd0Z3WU9RMmZBX2gtSXBtTjctY05PTjdCc09EcW9XelpCc05sdlViUXRKQkQ3X2RjVURBdU5saGYwZHU3UXJGdDlu?oc=5",
-      "publishedAt": "2026-10-25T00:13:08.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "EU 청정기술 12개 사업 지원…LG에너지솔루션 포함 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3a49c290b16c0e78",
-      "title": "LG엔솔 폴란드 공장, EU 혁신기금 지원 대상 선정…9GWh 규모 LFP 배터리 라인 구축 By The Guru",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KSnVtUUdNSWhnUEJOUTZSY2FYVmdWRDFhcmVkb21lV3kxcWhNZzdtcDliS1pQanloUVRXR055X1Bsb0hpYzVVb1lLODBxR21OWVQzMDhYUExPa2ZINFItZno2MHhxT21IMnpaQnQ2UXE?oc=5",
-      "publishedAt": "2026-10-23T05:17:00.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔 폴란드 공장, EU 혁신기금 지원 대상 선정…9GWh 규모 LFP 배터리 라인 구축 By The Guru 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b061e52695f97148",
-      "title": "LG엔솔, 中 난징 9공장 본격 가동…테슬라향 원통형 2170 증산 속도",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYTRNRFl1S0pCVEtBRVp6MnRPWkNaSzBUNGozRnh4b2lkT3NQb1Fsc1lxTUtGdFBUcjJRUkFDdEpHekU5aFdzcHZacFVZbGNzRDBnTm9B?oc=5",
-      "publishedAt": "2026-10-23T02:11:25.000Z",
-      "collectedAt": "2026-10-28T16:54:26.080Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔, 中 난징 9공장 본격 가동…테슬라향 원통형 2170 증산 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
