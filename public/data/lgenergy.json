@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:18:52.126Z",
+  "generatedAt": "2026-10-30T16:53:01.720Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "파우치에 각형 더했다, LG엔솔 '하이브리드 배터리' 개발",
-    "포스코퓨처엠, LG엔솔에 7년간 72만톤 규모 배터리 소재 공급 합의",
-    "포스코퓨처엠·LG엔솔, 배터리 소재 동맹 확대···2033년까지 72만톤 공급 추진"
+    "포스코퓨처엠·LG엔솔, 배터리 소재 72만t 공급 합의",
+    "포스코퓨처엠, LG엔솔과 맞손…\"K-배터리 3사, 모두 우리 LFP 고객\"",
+    "파우치에 각형 더했다, LG엔솔 '하이브리드 배터리' 개발"
   ],
   "articles": [
+    {
+      "id": "2c7e06256aa6b8e7",
+      "title": "포스코퓨처엠·LG엔솔, 배터리 소재 72만t 공급 합의",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QOVJBTEhQdER4dHVEVTAtV3lkZHBuWnFwbFNzMnA4RTRZYVhXb0trc1R6SF9RcDRaZ0RtSTA0cUl5c2lwZVdkeEJ5eGdPMm9xVURiWGVUYVpWLVpCaXJyd1gzZ0w?oc=5",
+      "publishedAt": "2026-10-30T11:08:42.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "포스코퓨처엠·LG엔솔, 배터리 소재 72만t 공급 합의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9b030b430682a700",
+      "title": "포스코퓨처엠, LG엔솔과 맞손…\"K-배터리 3사, 모두 우리 LFP 고객\"",
+      "source": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5djlQYmNwdlJIV1k3SFNvRndzSTNTcExWUHczYmxWZTNoaEF2V19WQThuWWpoelp4eUYwZkNGWEltLXRvZmJwT2JNXzE2WV9ZSk5ncW5BMkZFTmlWSGNIeXJxcDBSXzNvdk16VHRVTdIBc0FVX3lxTE9PR21aRE15Yno1M2ppZ1VpVlNpLVhJM0hGYVNiOG0taFJvb2RFTldLWEpTOF9zN1VFM0JKM0wwdTdLSFBxLVlvNF9fbXRjRUlDN1dOeUExXzF3QzhaREEtY2hqVy1adi1PZGJfMGxPMjVKVE0?oc=5",
+      "publishedAt": "2026-10-30T09:39:33.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "포스코퓨처엠, LG엔솔과 맞손…\"K-배터리 3사, 모두 우리 LFP 고객\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "25c46d4741485eca",
       "title": "파우치에 각형 더했다, LG엔솔 '하이브리드 배터리' 개발",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZOVVMTnZOV3I0eWNKT1otb0t6YWQzdXh4S3ZrelA3aXF1WjdYMzFLa3dBcnlEWmU1cjZsRnJrWm5zRTlKSmhfYzMzUVpCcFhBSDdFVzZVUzdtRmVUcy1Oa01CSVpfdw?oc=5",
       "publishedAt": "2026-10-30T08:37:37.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -42,39 +96,12 @@
       }
     },
     {
-      "id": "7dcb71aa83b001f1",
-      "title": "포스코퓨처엠, LG엔솔에 7년간 72만톤 규모 배터리 소재 공급 합의",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52VlpuZy1tQjF3TUNianZsVzgyeWZnS3lOOUV3ZG5XNU9NdXdVS3dZcEpBRG50R3pqRFdVb2Z0Xzd0N0x4bDRMbWZzSnhLNTVzNlBTMGpvQ204NjlCOXhRQUFjLVY?oc=5",
-      "publishedAt": "2026-10-30T08:22:06.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "포스코퓨처엠, LG엔솔에 7년간 72만톤 규모 배터리 소재 공급 합의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "23da2dc4ef6dceb0",
       "title": "포스코퓨처엠·LG엔솔, 배터리 소재 동맹 확대···2033년까지 72만톤 공급 추진",
       "source": "이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5OEZXY2ZoRkhwVHpGaVNnZlpPR3dpbGltZ013UFNXd3NudjNISE1zV2ptQi1DLWhvVkNEUDFCanpTWTM0WDJEYWVjTTV3MUoxUnMxcGJZX1pHWDhjSjJqcjdicjNhRmV2RmgtQ2JIOEXSAXRBVV95cUxPVnloaENRdnhaZC1LZURtNndfUlh0cGNCZlJFSFBBT1pfWHVqOG5SdGRoSVJZS1RsZ01iUXdIOEI2dHVhU0FaNWNveC02TWVHbzlmbWp5ZHJDTGFpOHRVXzllTFZzSzlTNDNNaE5UeVZLWERGNA?oc=5",
       "publishedAt": "2026-10-30T08:21:13.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -101,7 +128,7 @@
       "source": "철강금속신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SWUpUYUtrNHdCVEtpSEtiZXBkdnFRUW9Wc2xyc1pyNnlOU3pidnN5RFlkTzgtZlY1aXJLdVp1N3d2dmRtUVV2UEY5bno3OUc0WnBDNjZGSmdXV3BsQnZSandOWVJKdDI3THc?oc=5",
       "publishedAt": "2026-10-30T07:17:13.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -128,7 +155,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMVQyMXJPNFVTeGgtTFk2UmdUd2RyRk92bGMwZURkTDViS3hvQld4dksteVNJUmVlQkZjZTRzZDRrS0ZHRHNDQWM4MXhhMTBpNzE2S2dYSEh2U094Wldsb3g1Q00?oc=5",
       "publishedAt": "2026-10-29T08:31:39.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -150,39 +177,12 @@
       }
     },
     {
-      "id": "2f8e3fd2941ce0de",
-      "title": "LG엔솔 vs 中 EVE에너지, 배터리 특허 전쟁 중국 본토서 ’2라운드’ By The Guru",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdzJnM2pLQTJtZ2ZPbXJESHIzSnlOaHFYMzRRcUhSdGRDbTB4aVF4dy1HcmllcFVBTGFvd0MzcklVT2RDaXlLVloyZFBLNDViTXVQTFVlQU9YR3dSZTljRUNXRDdyMVg2bmZwZ2VleUY?oc=5",
-      "publishedAt": "2026-10-29T08:02:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔 vs 中 EVE에너지, 배터리 특허 전쟁 중국 본토서 ’2라운드’ By The Guru 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cfd0386a01c911e3",
       "title": "[애프터마켓 브리핑] LG화학, LG에너지솔루션 지분 2.5조원 매각",
       "source": "SBS Biz",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbFVESlNWQXZnbDdiZVFBakdTdGVLcTg5SC1sV2xxNWdiU1FEVHRkRHhyYUY0dWZLOGgyUktVYXJOdlJRNjhGb0tia0xZckZGeExZ0gFYQVVfeXFMTU1ad2ZocWY3bHlnN1B0LUpvTVBmcFlRLVZ0UzFMNGNxV2diRjhFZlBWSkk5R1lndWN4d0F0UHp1aXB3OGdwTVpRX1lxR29wQk8yQzVmUU1uUQ?oc=5",
       "publishedAt": "2026-10-29T07:36:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -204,12 +204,39 @@
       }
     },
     {
+      "id": "87c30f1721b4345d",
+      "title": "LG엔솔 vs 中 EVE에너지, 배터리 특허 전쟁 중국 본토서 '2라운드'",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZXpmdUw3cTYtQk9aSHJIUzhWWEJLVXcyLXJXalZ5ams3T2RfUHg2OXlDTWNHYWxvM0NpbklDRkhpVmxWS3FCdGRTVXJSbGJ2UmxuV2h5aHdITDlDcVRnbUNKWQ?oc=5",
+      "publishedAt": "2026-10-29T07:04:36.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG엔솔 vs 中 EVE에너지, 배터리 특허 전쟁 중국 본토서 '2라운드' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c7b553d94ca28d2e",
       "title": "LG엔솔, 차세대 배터리 기술 확보 나선다…글로벌 연구과제 공모",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMzJlRXl0LWNhOVl3elNTOEZmWkJKN0t2NWxxTTlad3dGWnp3SlRWOVRENEVvaGUxdERVSHRmck0yUDJScmpkYWNvTXhVa1Z2czlfekJEbV9OUQ?oc=5",
       "publishedAt": "2026-10-29T04:31:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -236,7 +263,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pakRZLTJ6NldNcEpMTUU3LVZCaGM2RlhiRnFSenFJSndpNU16MzFXVV93b3lzUE0xck9GXy1ONUYtenZpOGdjVW5tQjd1Zw?oc=5",
       "publishedAt": "2026-10-29T02:25:13.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -263,7 +290,7 @@
       "source": "에너지신문",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1INlBUMFZEaWFROFY2ZC1FLVA2a3ZJOHZkT2gxWXRGZ3VIUWJLSHlJQTNuM2w4WHVYSTVsS1hnRmNpdHNObGJHTEZrQ1VIallPaVRacHRPS0dTeFJJVG15eXU4a0ZxYWI2VlF4anlIS0dQQQ?oc=5",
       "publishedAt": "2026-10-29T01:35:37.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -290,7 +317,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUE9mSnczRjJXSVd1Z014WUdwd1lfS2RlOHo4QktkSnZVZnp5OGFmR3lDeHNyX0FXUFJZOXo0OTRCSUp0a2JNcHdteDlSLTZyY0JKYlhB?oc=5",
       "publishedAt": "2026-10-29T01:11:05.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -299,11 +326,6 @@
           "id": "lgenergy",
           "name": "LG에너지솔루션",
           "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
         }
       ],
       "summary": "LG엔솔, 배터리 혁신 기술 찾는다…학계 대상 경진대회 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -322,7 +344,7 @@
       "source": "신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nUUlsZmtOMHVFcG82cmstOVc5RW5la3ZIaG4wQjE2d3ZINk5LV3ZvTEJyTEQ2NlRsRFdOcm5RNFRLcmJyWlg3eDRVMjhCd0tEelJNaW5XUndPUDR3WWZTZUdjVVlHSXlROFpIeEI5cVo?oc=5",
       "publishedAt": "2026-10-28T23:30:07.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -349,7 +371,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5veTJsWTBYYWdDdEphRHdzRVJtdzBxZnN3QnV4OHc3enU0V0JKTkpFanI1ODZrR3hsWUt3eWE1OXhrVEkyd0RTTXhaSlp0bF96RFo1YVU5WjNNUHFCVlNacmFGLV8?oc=5",
       "publishedAt": "2026-10-28T23:26:34.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -371,39 +393,12 @@
       }
     },
     {
-      "id": "97bc871a1106418c",
-      "title": "LG엔솔, 차세대 배터리 기술 공모…실제 사업 연구 주제 선정",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGZuN2ZIMEY3TVU3MkZYRjdqdjNmYzlIWjllNVdHWVBxb0Z3OTNsbkdNMzVNSHZOR3JrM3c4WEI4bFJMQ0d6LUh6V0tYQUt0UUIyOGU2b3ZjMnZuQ2ZmdGVsOEZqVkd4Z2F3WXdMTjdtM2sxR1hCSXdWWmNRaTJyQ1RlT25kUQ?oc=5",
-      "publishedAt": "2026-10-28T23:24:47.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔, 차세대 배터리 기술 공모…실제 사업 연구 주제 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8bb2536042acbf2e",
       "title": "LG에너지솔루션, 미래 배터리 기술 공모 'BIC 2026' 개최",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TUV2RmZ1TEVQZ2xxVVRSRGhMdjZ4Wnh2NjZ5aXk3UHpHNEFEWS05dkt0eWV3MEx2aUNjUVpzZnpxMG1KcUJYd1hRTGZENDV1b0l6YnBDQ25PajQzVGpMbdIBYEFVX3lxTE85TUV2RmZ1TEVQZ2xxVVRSRGhMdjZ4Wnh2NjZ5aXk3UHpHNEFEWS05dkt0eWV3MEx2aUNjUVpzZnpxMG1KcUJYd1hRTGZENDV1b0l6YnBDQ25PajQzVGpMbQ?oc=5",
       "publishedAt": "2026-10-28T23:17:16.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -430,7 +425,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMnRmSmhoa3lvWGM2bUlxOU9uRU0zVndHWFBncmdrWVVDbHlrZlJUV2YtWWFILURKOWhNMHJaNUxlWG1fdW1iUEl1dlBsLUJZUHfSAVNBVV95cUxNR2EzZkZWYVVsOTA4b01fNkdDT1VZOFRGd3h2cXRya1BGOVZiYjM4MDdfQ3NCUi1YQVRhUUNRX1ZYLUk0a2E2eklrd1BCOERBVEc5VQ?oc=5",
       "publishedAt": "2026-10-28T09:19:55.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -457,39 +452,12 @@
       }
     },
     {
-      "id": "b5ade13314d9ca27",
-      "title": "LG화학, LG에너지솔루션 지분 추가 매각…누적 4조 5000억 원 규모 PRS 거래",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLakhGdGdyZXdyOElsX3VZZ3ZFTUVOWUV1SW5uT1NxWENYSUtNVEpnb3JWdWNJd05GV25aTUV1TDhiNUgxMGk0M3dub0NYQ1MzNE5RY2J2Tl9vZTh4Y1l1Ni1ubFh1MUZDa3lCRnZ5QkYzSlcxX0HSAWZBVV95cUxQMHpmNkJodFpCNDdxYmNKalhQNllheXREZ0F2N21UQnNkMW1Ec0RnNzFHOXBkT01kSFhVT0JVYXRvODRlLUZkU2xwQVp1NFFzWFdacDd2TVpwSWJCLVFBMFo5Rzk5YXc?oc=5",
-      "publishedAt": "2026-10-28T08:48:04.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG화학, LG에너지솔루션 지분 추가 매각…누적 4조 5000억 원 규모 PRS 거래 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a62b773a5cff4037",
       "title": "4.5兆 PRS 내놨는데 5.9兆 어치 더 남았다...LG엔솔 끝없는 '오버행 부담'",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NiVUlhUnJOZ2swaUpZSkpFV1N4WnN4MDRSNnFlUlhjNC1jYjdHVjRBaWRLYVJsc3YwUGo5RXVDWnlFUE9UX2Vxd1BmT191VkVmY2I0a2k2ajd2UHdOLUhGNGJBaWVsRDNxN2ZKNHh0TU1KS1FkNTF5cUJTa2tUNDNfYw?oc=5",
       "publishedAt": "2026-10-28T08:30:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -511,12 +479,39 @@
       }
     },
     {
+      "id": "ebc05e45beb514b1",
+      "title": "LG화학, 2.5조 규모 LG에너지솔루션 지분 매각…\"재무구조 개선·미래 사업 투자\"",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WajlWd05VQzVDY2lZMzM3ZURMWTZoUk4tX3JYdUpEYkRRX3IwVlFfOVJvSUU4dmZWUmV5c2F5MHNwSk9iQThoUVZWX0pRc0VzZ3hzLVFjUnBxYmhpcDVsVzVNR01WMXFvd3NRUTgtYmxYUkh4d0NoSdIBeEFVX3lxTE1WajlWd05VQzVDY2lZMzM3ZURMWTZoUk4tX3JYdUpEYkRRX3IwVlFfOVJvSUU4dmZWUmV5c2F5MHNwSk9iQThoUVZWX0pRc0VzZ3hzLVFjUnBxYmhpcDVsVzVNR01WMXFvd3NRUTgtYmxYUkh4d0NoSQ?oc=5",
+      "publishedAt": "2026-10-28T07:50:38.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG화학, 2.5조 규모 LG에너지솔루션 지분 매각…\"재무구조 개선·미래 사업 투자\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8f06e6266febd518",
       "title": "LG화학, 자회사 LG엔솔 지분 매각해 2.5조원 확보",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjZNSmRPYlNjUHdUQUdsN1E2cUg3dU9rNU5Da19DWEpYbWxLRXNHalhXTTFEOTUxbkN2N3d5WmZCM3V3QmtxTzctN0JaYzRLZnZHcHd5cmlKOEtmLXVuQzlpRDVSaHlOV1M1d19xYVNJLU5ZaHZwalRkTmdZMnhlWTYxLU5oTW5KVk1YTEhSYw?oc=5",
       "publishedAt": "2026-10-28T07:49:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -548,7 +543,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaE53WktqVV9RLTVkR0RVYmZNd2xYS1Z6S3RsU1hLcF9aeWcwTmhvMmRFOVFBOWs3TTljYXRXM3pxclFWcVctYnF6ZE9PTXJ0XzBsX3hiNVVEWG1OTGZDVUdWVVpkWUE1TkdBM0xiZnlSX203aTdTR3RaaDYzX3hsWk5kUQ?oc=5",
       "publishedAt": "2026-10-28T06:37:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",

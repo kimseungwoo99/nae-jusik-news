@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:18:52.126Z",
+  "generatedAt": "2026-10-30T16:53:01.720Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,106 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG엔솔 이어 CATL도 가동…배터리 격전지로 인니 부상",
-    "원가 상승·중동 전쟁 여파…기아, 3Q 실적 충격(종합)",
-    "기아, 3분기 영업익 24.3% 증가…시장 전망은 22% 밑돌아"
+    "기아, 포티투닷에 1901억원 추가 출자…현대차와 총 4753억원 투입",
+    "기아, ‘2026 Kia Discovery’ 성료 | HMG TV | 현대자동차그룹",
+    "현대자동차·기아, ‘체결기술 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹"
   ],
   "articles": [
+    {
+      "id": "f3bebbeccd964b38",
+      "title": "기아, 포티투닷에 1901억원 추가 출자…현대차와 총 4753억원 투입",
+      "source": "인베스트조선",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMEhoZWJwWTlsSHZDeUFWby1aU09Ua3VpbW1yNGJBdDBNWHM0RF93ODVMcjRVWGJtNk5hWDJpdTZMVnJaTjVUaXNKYmxnT1hERzZNV2E1VnhUWDFsYXg4dDQzSnozclVSVVFEa1VZLXNLTFN0UmRURnIxN05ndi1GaHNwOA?oc=5",
+      "publishedAt": "2026-10-30T08:36:00.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아, 포티투닷에 1901억원 추가 출자…현대차와 총 4753억원 투입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "49af078bf8761756",
+      "title": "기아, ‘2026 Kia Discovery’ 성료 | HMG TV | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80S3NWZG9Qbzd1MTBhWEdkMWlwcDNHWWU4dG9ZdngyT2h0V2ZWbmVVN0NuYU1BTllzVmdIdGZVOVJBdTh5WW9fUGNXN2FJOW45eHRsMTZ0aDBaeWZPTzg4UURBbnNqZlBpemc?oc=5",
+      "publishedAt": "2026-10-30T07:05:08.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아, ‘2026 Kia Discovery’ 성료 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c7ab14d482d2a189",
+      "title": "현대자동차·기아, ‘체결기술 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmt1V0VZXzFNLUdwaTZlSlcyRVFzRFBib3FnZUR5Z2sxVGUzd1MzcWpIMmJWVEFFeWpRUGp1cGNzamlNX0I5SzRvV0pta2RKVGNINW5qem1qWXB2NlBtWFlyd0dkWnI2cFIxRkh5cFhBSzNWdGFORUxnY0ZhZEx4SGxqclFBTGVSckllN3IzVXVyb0N0Zmc?oc=5",
+      "publishedAt": "2026-10-30T06:58:08.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대자동차·기아, ‘체결기술 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "f6e069a91686e6da",
       "title": "LG엔솔 이어 CATL도 가동…배터리 격전지로 인니 부상",
       "source": "한국아이닷컴",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNVc1Z2V3cGpaMlVjWHJSZkRVWF9aeWZ0TW4ydzcxYUVoUEFLODdrUG9uNDNrdjFkdkJzbnBfc3otemFTSjZ3OUMxVkFDbllpYVF0TTg5ZHFYVWQ5MnNXWExsZ2tVUUNLSjBDMVZoONIBb0FVX3lxTE5aNVc1Z2V3cGpaMlVjWHJSZkRVWF9aeWZ0TW4ydzcxYUVoUEFLODdrUG9uNDNrdjFkdkJzbnBfc3otemFTSjZ3OUMxVkFDbllpYVF0TTg5ZHFYVWQ5MnNXWExsZ2tVUUNLSjBDMVZoOA?oc=5",
       "publishedAt": "2026-10-30T06:20:19.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,12 +128,12 @@
       }
     },
     {
-      "id": "43e94ce3ce59173e",
-      "title": "원가 상승·중동 전쟁 여파…기아, 3Q 실적 충격(종합)",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TVm8xdDF6VFlDYmx3RlBpY2Ixb3ZDNGhaZjRxcDlHSFRsSWpheUZBOE9ULUlMY01zRmxmd29tbDRIMEp6Rk1XME15M3ZKYXRJWXRwRXktNzByWnBPM0x4TElFNGRsUzVudEZ4bTByb28?oc=5",
-      "publishedAt": "2026-10-30T05:31:07.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "id": "d1e64ccf352da9c6",
+      "title": "기아 판매·매출 늘었지만 시장 기대 못 미쳐...\"국내외 전동화 가속화\"",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOWDdhTVQzaV9kbDhnanlfUXBSMllkX3ZLQ3h0XzNoZFpKeldGNzZ0clh4N3JkbVpvN1dfUXkzdnNJZDVCN3F6ZmdkcUxlMFlpVmNOUmNR?oc=5",
+      "publishedAt": "2026-10-30T06:16:38.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -58,8 +144,35 @@
           "ticker": "000270"
         }
       ],
-      "summary": "원가 상승·중동 전쟁 여파…기아, 3Q 실적 충격(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "기아 판매·매출 늘었지만 시장 기대 못 미쳐...\"국내외 전동화 가속화\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ed763526849294a4",
+      "title": "기아자동차 경주지점, 푸른마을에서 봉사활동",
+      "source": "황성신문",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wc3dDYkNOMmZ5aFJJUjQwQy1KcGxsWndIV0FhRzVsTTJ0LU5QNGpwYzJyaW1sNjluMVVsZVh2TlZrX3Uyb2VOYUZPcnk5LWR4WWFnZnNNSUJSZk43bTFnWTZ3YWxtc1FEWDdaOGVDMGpRTWZ2Q3J0aF84TFRCN28?oc=5",
+      "publishedAt": "2026-10-30T06:14:00.000Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아자동차 경주지점, 푸른마을에서 봉사활동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -74,7 +187,7 @@
       "source": "중소기업신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RLUhvUnFwN2RwWmE3djBRdVU5Zk1XdVdPME1NWV9vZTg2d0FfdHU2ckFFaGpQWVRtUENDMGRYLXNJZjRlbmVOMk80NEhUbzVJd2tNNHd5TWh2SW84U3dWVzNCeWd0VzdxdGVyLVFB?oc=5",
       "publishedAt": "2026-10-30T05:20:48.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -98,93 +211,12 @@
       }
     },
     {
-      "id": "0696fb3fe6e5bd52",
-      "title": "[2보] 기아, 3분기 기준 최대 매출…관세 기저효과에 영업이익 24%↑",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ya1l5MEJZYUxJd3oySGNnSUlneWlhbVBsX29LenU1UWxLU0NoQnc2LTIzSE92bnFMdkU3Z3lSTTRiT1FTREgtOHRiWHViaV92RUFObzJ4UGU3bVo3Wk9oOdIBYEFVX3lxTE1ya1l5MEJZYUxJd3oySGNnSUlneWlhbVBsX29LenU1UWxLU0NoQnc2LTIzSE92bnFMdkU3Z3lSTTRiT1FTREgtOHRiWHViaV92RUFObzJ4UGU3bVo3Wk9oOQ?oc=5",
-      "publishedAt": "2026-10-30T05:08:16.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[2보] 기아, 3분기 기준 최대 매출…관세 기저효과에 영업이익 24%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b357d009486d495a",
-      "title": "기아, 3Q 영업익 1.8조·전년비 24.3%↑…'실적 충격'(상보)",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2LW9nTkRZWHh1MFlzYjI2bDFtS3FDdTRQM1VBQ05fM1EzdXVJbHpZREljMlIzbnNHSG1UZVpEbWw5d0t0X1dYbUdBckNoOXpKMzZMR21td1dDaFRqdkM5ZjhoT2thZnlBR1htTXN1V2k?oc=5",
-      "publishedAt": "2026-10-30T05:06:29.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, 3Q 영업익 1.8조·전년비 24.3%↑…'실적 충격'(상보) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "de56258d4b2076f9",
-      "title": "\"보조금 챙기니 경차보다 싸\"... 실구매가 2032만 원, 전기차의 정체",
-      "source": "오토트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zdnJYeFRKZlg5aGt3TXJFTEJfekdhOTBaSVVZeGJTVHVGQmwxRlpsM2JRQTlyMUpaMERrSWpIeXJoQ2VfZldUQV95ZnlOcTZjTVBjWFlweGQzWUFHYTd6eEs1dXRtdUxLZzBQUVJqNng?oc=5",
-      "publishedAt": "2026-10-30T05:00:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "\"보조금 챙기니 경차보다 싸\"... 실구매가 2032만 원, 전기차의 정체 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "10e4f9a67ea52fbb",
       "title": "Kia Collection | 2026 Launch Shorts | 영상미디어 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94dzRfZjFuV1ZIOGpvbDFOMGNNUmpkM0MtcENLd0hfZmdlMWRwY2hGTFNYdkRfNlpaQkcyT1lnWjNrOVlZalM5bUJNZ3JLU3NpU2dCWTVtRVRZT0x3Tkw5SUZTYzc4eThyVFV1REpoMXRyQm1iTzkwTXVGN0Y5dw?oc=5",
       "publishedAt": "2026-10-30T04:43:49.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -211,7 +243,7 @@
       "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXRCcVhtNmZNYVBXQTRJSk1oSEllMmtjR0pvN0k4T3c1U2g5S3oxM3lRY0lrSWhtTkxrSTE2dHYxM3ZiMlR5NnQ1OUc2RnZNS3F2S0hwLW04VUVTMnFFcTE3NVJCZVJGX3ItS3BKRE5sYmhYR3YyTm85QnFMUGhmMUsyNUwzM3dYbXRGeG43RmVIY2c?oc=5",
       "publishedAt": "2026-10-29T05:34:01.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -240,7 +272,7 @@
       "source": "피앤피뉴스",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aOVhkbDJqTEg2RTl3RFprenN1YzlSdVRRTnduOEl4dmJTbmR2eDhYZDg3aHdacld3VGxVVk1GMU54dUVmRVI3Y1hCeGhQd1ZYSi1ydHdR?oc=5",
       "publishedAt": "2026-10-29T00:57:21.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -267,7 +299,7 @@
       "source": "상용차매거진",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1faFJFdmtZWEZOV3VVQ0NwMEN2RHdPeXN6VjlUS0RRclljQ2p3cWNkaWNGUXNVVWR4amFFbDRhaVRSclF2UGpYWmNlMVR1M0IxMW00NGpNU2p0MXdLa1JOQU04YWplcVk?oc=5",
       "publishedAt": "2026-10-28T04:59:27.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -294,7 +326,7 @@
       "source": "세계일보",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aMUhnTnptV2pieUpKRzNkTWJSZHpTZXJvNjdRU1V2QlozcEdqcFNlUzN1cE9iZ2NqSTFCX1YzdHBWQmNaS2xHTnBnYlRfdVEyN3BtRNIBVEFVX3lxTE5aMUhnTnptV2pieUpKRzNkTWJSZHpTZXJvNjdRU1V2QlozcEdqcFNlUzN1cE9iZ2NqSTFCX1YzdHBWQmNaS2xHTnBnYlRfdVEyN3BtRA?oc=5",
       "publishedAt": "2026-10-28T01:31:53.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -321,7 +353,7 @@
       "source": "글로벌경제신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DczFOM2tIYnhsb3BpSFNPZDl2S0hnMjJFdEM5ZjdidTFtSlFoSmp4eWdVTkRWWFRkQ3VkUUpiS1BkMTNoTl8wVFFWYUhzZzhfdWZWc1c1dWx1cGY4ZHllR20talI0eWxlM25pSdIBcEFVX3lxTE12QUNpM0VONFhock9BcVJkTVZOckFHcWxqM1RtM2xHRW96UTRwQVctQ3BnOE1MR3dmT0dqb251cTd6OXpsdTV4ZmQwMk5YUGwtaDAtZnlmX0lGY3RYMXVtMEpVV0NMMUJRWFMtbm90b2Q?oc=5",
       "publishedAt": "2026-10-27T07:17:58.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -348,7 +380,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Gc1dEanRNWXN0ZWo4OWZvQk1KNmh1QXhkRFR6eHVKSXBubDQwUFZXdno2dmVvSVM1eUtSRUJiNVBhbjdlMkhvWXYwbjllZU8yMFpMS3hyQmdFU2Jwc3J0NE9wazl3UGgweG54SEFOeDU3QdIBckFVX3lxTE9Gc1dEanRNWXN0ZWo4OWZvQk1KNmh1QXhkRFR6eHVKSXBubDQwUFZXdno2dmVvSVM1eUtSRUJiNVBhbjdlMkhvWXYwbjllZU8yMFpMS3hyQmdFU2Jwc3J0NE9wazl3UGgweG54SEFOeDU3QQ?oc=5",
       "publishedAt": "2026-10-27T05:35:20.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -372,39 +404,12 @@
       }
     },
     {
-      "id": "457b17353a26510d",
-      "title": "기아, EV6 GT, 자동차 전문지 평가 종합 1위 | HMG TV | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXpHd2g2YTlLb3ZwNVlzV2hadlNDQnNZZTZwd2RidkxSb2VrWjM3c3dCOU5TUEVxYWRUbjZGdHZxamFRdlUtblJDWGdvUVZ4NTNkRUdQNFhRcGRHQjg5TDhEUWY2VFltTkM3RzNGUHRhT0dSZ2ViTW5ySmlKNVVjZTVFOWZ1NDJJdkNvN3B1VkQxSmI3?oc=5",
-      "publishedAt": "2026-10-27T01:46:59.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, EV6 GT, 자동차 전문지 평가 종합 1위 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3cc4e3da3a10085a",
       "title": "2~5위 합쳐도 못 이긴다⋯ 쏘렌토·모델Y 제치고 신차 견적 1위 휩쓴 ‘투싼’",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kQmx1RzZONkk2QXVvVVRXcGZ6YTBTbkp6X3NUcXhjLXlDRzhpUzRXMk0yd0swWkR1b0kyU1I5ai1wNlp3NDdHZVhPMy1JeEFBcThPdjBQYw?oc=5",
       "publishedAt": "2026-10-27T00:19:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -431,7 +436,7 @@
       "source": "더드라이브",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdUZMVDlNRDJhNTNZV2dKS1pFZ2IzUnlndElYeS01eEwwNldaTk9kX2NfSTNCelJCOENHemotWFNSSjVqblh3X2xzZE5GdjdCdnpNMmVpakZhY3ExNGx1ZVZVN2pOYk1sSHYxWmdR0gFuQVVfeXFMUEh1RkxUOU1EMmE1M1lXZ0pLWkVnYjNSeWd0SVh5LTV4TDA2V1pOT2RfY19JM0J6UkI4Q0d6ai1YU1JKNWpuWHdfbHNkTkZ2N0J2ek0yZWlqRmFjcTE0bHVlVlU3ak5iTWxIdjFaZ1E?oc=5",
       "publishedAt": "2026-10-26T23:40:30.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -460,7 +465,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU08wZ0NlWWVIY0tBTms5ZE9YOVRFM3VVX3VkN0REVW1HR2lob0Y0ZlJ2bEotd3F5VVZXTFRhWGJ3cnRQbGtyYXFWSmZlQUpjYnZtMnpNNS1Gd2RQbkVub09aallVM25nLUZWWTZqTlBiNWttU2pDRFdJRnZSMUhQdlBpZWtPZVRr?oc=5",
       "publishedAt": "2026-10-26T20:51:08.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -487,7 +492,7 @@
       "source": "오토트리뷴",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTGJKVU1vS3ZLcmhOenlPRzI3VldMRjZpQzRVX2hSeW1fWThIRmEwVkpKVVQ1ZXJVRHAxZzNtUDZxMV9la3J3aVV2ZzU0ejVzYXJQN1lVMWhJUG5tdG5YZFRCREItd3JjLTVhaGRLQzk?oc=5",
       "publishedAt": "2026-10-26T20:30:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -514,7 +519,7 @@
       "source": "토픽트리",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWk1KU1BrY2dKM0h6bXItN1dLcTE3RkZGWEVIUk5PYTBEQkRQTU44cXpqVzJPeWZGU0JsNnZITzdCUWd2eGtvZUJpdzFuNWM3SVY5eTI5bV8za0pmVEp1bmZNVWl5RWprZXgwbUdiel9MNHAteGY1b2h3UFpiSU9VdUxTbGFma3Jmd0htQWZPcTY2QdIBmgFBVV95cUxPUWVBSTlFMm1OYm14V1VXbmRyQ3hhejNjeDAyTk5oTFhIMGRhYlZGME5rWU5Way1rWjE1VG42U1NsYVZxT0FfUFBVd2R3SmNhcS1VQzRqYmwtYlI4eTZtWEtDYTZ6eTFWZk9DWVRpaHloWkhsUUUwdXloaUM1TVZFdlBHZUU5UFhKbmdUTmd3U1VXdV9aTzNFSXR3?oc=5",
       "publishedAt": "2026-10-26T07:28:00.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -541,7 +546,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41cjh3N0J3R2J4d1E1ZW5TalgzdjB4bjhvVEpJX25YN0pyMFU0RHJLMzFGUDlLUENELUtNZnJhRmRXYmY2Sk1oMXhHb29MNHhSYllQUVpHMW1LLVRvOHVzNFMyd0Q?oc=5",
       "publishedAt": "2026-10-26T07:11:09.000Z",
-      "collectedAt": "2026-10-30T09:18:52.126Z",
+      "collectedAt": "2026-10-30T16:53:01.720Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
