@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:05:51.418Z",
+  "generatedAt": "2026-10-31T15:55:07.025Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 실적 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "현대차그룹 새만금 현지사무소 개소…9조 투자 본격 실행",
     "\"역대 최대 실적인데, 왜?\"...현대차그룹 주가 '주르륵'",
-    "현대자동차그룹, ‘그룹사 정기 안전 협의회’ 진행 | HMG TV | 현대자동차그룹",
     "현대자동차·기아, ‘체결기술 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹"
   ],
   "articles": [
+    {
+      "id": "400e07a27662a180",
+      "title": "현대차그룹 새만금 현지사무소 개소…9조 투자 본격 실행",
+      "source": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RV3MzLW9HZlB2bERYa2R3dG1ySnFNaklZcTBHTEZuRHJydzBoQnNkY1hIbmsxZlJza0xvMHU3bTBFSEFqNjNUbzA1MUhPOTdtejNMVDYtRVdhUGhGanJBanR1ampFTmo0VVJPRA?oc=5",
+      "publishedAt": "2026-10-30T08:35:08.000Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차그룹 새만금 현지사무소 개소…9조 투자 본격 실행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "23f617e872caa732",
       "title": "\"역대 최대 실적인데, 왜?\"...현대차그룹 주가 '주르륵'",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0blp2UnkxeFZob3I4UVZxTnpPMDg4aDdvSzFiR0lpVlhDdFNNcEl0cjROV0hvbDMydF9mZFZ6SkVyUXZDVXZQWVB1a0pISEYyOHFZQzB1QTFCQQ?oc=5",
       "publishedAt": "2026-10-30T07:54:35.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -44,39 +71,12 @@
       }
     },
     {
-      "id": "5df1a546571b13e2",
-      "title": "현대자동차그룹, ‘그룹사 정기 안전 협의회’ 진행 | HMG TV | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjA2bjR6NjlRM05KeVdtWDl2U0lPbFVVQm1QWDRNMktKRDBrNWkydnc4Qm1uZmZjLXRYTGZfNVFRLUxwU3JkWWtJZmhpd1ljdm9LWnVlcnBvNHF4TW04WUNUTHJhWWlianlJemRFREJ0eG95YWNQWGJtUXhNTHhhZXgyY3Z1UTZYemJTdU9Ya0d6azF1QTNtTQ?oc=5",
-      "publishedAt": "2026-10-30T07:00:02.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대자동차그룹, ‘그룹사 정기 안전 협의회’ 진행 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c7ab14d482d2a189",
       "title": "현대자동차·기아, ‘체결기술 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmt1V0VZXzFNLUdwaTZlSlcyRVFzRFBib3FnZUR5Z2sxVGUzd1MzcWpIMmJWVEFFeWpRUGp1cGNzamlNX0I5SzRvV0pta2RKVGNINW5qem1qWXB2NlBtWFlyd0dkWnI2cFIxRkh5cFhBSzNWdGFORUxnY0ZhZEx4SGxqclFBTGVSckllN3IzVXVyb0N0Zmc?oc=5",
       "publishedAt": "2026-10-30T06:58:08.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -103,12 +103,66 @@
       }
     },
     {
+      "id": "e5f67ba784021068",
+      "title": "현대자동차 그랜저 음성 검색 개선",
+      "source": "뉴스클레임",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eTdyUFNXQUp4d0oxT2R1eUJzdzgwM1JqWlJhM043MEphak1mZ0RLV05WV0diVG9PaV9tUHhNS0h4S0kwTFhmUS1fUFVYRngxcGhtOTlJOGtNNTBYOWx6SzdDV1ZqX2NDakJHbGdfX27SAXRBVV95cUxNSTBMZWU2V1V2YzZIZVFlMjByOWNlcDJPa3dReWFyOExFQUd4ZFJXUUljRW96S1dva0YwcVZ1R0RuNFcwOUFTNjFna3BEcEk0UlBMOTFFTy1kdWVMZl9kSDFwS0RqUjhSQlVsM0hncUtuYWQtdw?oc=5",
+      "publishedAt": "2026-10-30T02:32:40.000Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차 그랜저 음성 검색 개선 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9df5c81f0697f2e8",
+      "title": "\"결국 테슬라보다 싸졌다\".. 4735만 원→3601만 원, 할인 돌입한 전기차는?",
+      "source": "오토트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NX3MxOTlxbEtWaFdmS0Qxb2J1dF9iRVN2bVExaGJ5TUYya2dva3JVUEFTQlgxc0JTQTIwRVMwcktMSTJyZmFYRGZYcWtUNVo3bWhudUNxbVNXTExpX0lJSlgteW9NMFY5cTNJeE8tV28?oc=5",
+      "publishedAt": "2026-10-30T01:14:21.000Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "\"결국 테슬라보다 싸졌다\".. 4735만 원→3601만 원, 할인 돌입한 전기차는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0235b5d99cab8ce0",
       "title": "현대차그룹, 공동주택 주차로봇 시연회 개최 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUpiTmxJbnN5MU9ReW9laXdXWjJSYlRpdWRYSkI4VDlpQzd5aXBMTHVCNHFMa0NwQUw4UWREVWN1MjVzVTlBREQ1YUtaUm9RZjZYNUVuckh2WE9mMXZlZ0thMzd5YmNlNUlhaE02SVVMaTYyTG52YWVIYVJscTlLSFV4MWVwUnphSDkzeDF0bHhqbW1pQVFyelJPd1JPRE9r?oc=5",
       "publishedAt": "2026-10-29T23:30:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -135,7 +189,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZzMC1XeFhTRENXblpsQ1VEVzktSUp0dF9ibmRMOHpPRjRpLXlxZ0pJN3pqT0tHSHZYVUdfT3VnQlNjdXNfVEN6SERlMExCd3UtV1ZQRXZUTGVjNm9IM0VtN1IxSUpLWUpBN0hZYVh4T1VUdWdfNDFnSk9vT1hrelNvdGhMM055RnlMbENPY3l2UQ?oc=5",
       "publishedAt": "2026-10-29T23:30:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -162,7 +216,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTctbTJNWG5JMV9CVjNWeHd0Z1VtMTktNXlLNGRYOE1vdmM0MTFWM2hOVW1HYWcwNnJiUFA4TElieUlXNmlUenNQLTh6anYwa1E2UXAwM3Z5UE5YY25HWlJrb1Ywd2hnVTd1dkpJTjBhSXFTZi1Ld1pUWGJ3ZTA?oc=5",
       "publishedAt": "2026-10-29T20:49:58.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -189,7 +243,7 @@
       "source": "백세시대",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04WjZCMmxJY0xfYzAzM3N1a1ZRc0FUVHZ5U0xuazJaalBEQmQ5OFczdTJZQVpYWUdfMFVibW01VGdMRXNEX2paX0E1NkdMTjF1MUZmWnh5VS1YX0lsczh2V2t3bzY5WFpJdFJV?oc=5",
       "publishedAt": "2026-10-29T08:53:57.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -218,7 +272,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Gc2dValRqSndKdzB0Q0pCczFXUV9aR1FhOF9jUnZCZkVyTlljVVpaaE5NS1hISWJlWEM1eUJjUXNHSTB2bktkOFhuMmNhWWhTbnFIdEtKSEoxUjNmanhpZjJralowSC1RSU12bDVRRHE4ekc4R2w3WWRn?oc=5",
       "publishedAt": "2026-10-29T00:00:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -240,12 +294,39 @@
       }
     },
     {
+      "id": "e83d4850668b676d",
+      "title": "현대자동차, GV90 테크 데이",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOaGZNalMwYko5M1FfNFh3R1R6ZFNDdDEwaFBXVm9rU2NhWlZvY1VsX29pR0FwXy1FNE1VQ3lDNFp2LVc3dDNtVm51OA?oc=5",
+      "publishedAt": "2026-10-28T23:33:19.000Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차, GV90 테크 데이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b506a55dbe28ed26",
       "title": "[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등",
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5MU9qQ3h6cmV1WHQxUmg5a0J1b3hYZ244OEFmUE1OTGtidzUwWVEtMExJbUVEQzdMTUFHNG53OUdxUlJtaDU4cFZSbC1JaXZaanlGLQ?oc=5",
       "publishedAt": "2026-10-28T22:42:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -272,7 +353,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0tpdndFUFptNmlvWU1saEczaXhhR2xGZjQtcXNzdTl3RmRscEtBbWxBNzczY1VMTENrSWZXMDlMMXJyS2JKaHhacEpVa1o3c2lCSXg3OEw0YjlJblNlb24zbnI5S3FKVG83ZXhnem1iQVhjTGVpX09PNDRQc00yR25wSHN4UFl5?oc=5",
       "publishedAt": "2026-10-28T20:31:04.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -299,7 +380,7 @@
       "source": "뉴시안",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySllxYkgteUluUjZ5LUhKUDgzOE4tcy1mY2pjNGlJdDZmNGFkc3FsTXpMTzQ5VWdXbldLZUFhRlFKeDJJUDl4ek1acUR5RlN3Z1hZWnBfZFU4M19lVDVlNnVFeEJuejNnODBCdg?oc=5",
       "publishedAt": "2026-10-28T05:41:35.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -326,7 +407,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUY0aXdwQzFxUkdSV0xmTUFVQmxxTEJXRk9WOUpTTVVBMkNxMEo5MF9tQ193VldwcU80di03c2pDT0YweG9waHJLeGFDM1FTblBabksxcEZZQ0pEb1lLZ1BZMEpSTUhXajBBX1NvY2J2cjlyV3J1UTZOZjIyZlVUdVloTi1Ca3VwQVoxb252cWdWdUh0YnY3ZA?oc=5",
       "publishedAt": "2026-10-28T04:00:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -353,7 +434,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEZkQlM1b1Fva2R4YkZSbDB4MjNpZHZGeFdzQkpHSW00OWQ0aEZ6cWpQdGhkNzI5YjJFSl9XVnZoYVV6dlhKY3JXVFBzMElaTHIxcHgxYUlOU0hfOWN0aHhKMkppV2hOeGYwLTJ5T0pnVE9RRm50ZjJ3MG12Ym9zSnQ0STJlVlhKcEtSVU1OZGVCQnRTREptT2hBN2dlMmJqcElMaV9EdEd2UQ?oc=5",
       "publishedAt": "2026-10-27T23:30:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -380,7 +461,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHZ4Q1FrZ24xejA5eUdTNjFUbkxTaWNkR2pXU2JUU1YwZVhwYVlDRmhtWkE0M2lCZkJHa0tOdWlJZ1R2c0dwcnMxcHpUWDFJa1h3MkxVWjVKQlF5OVF1YmdFTGtWMjRMU3JnUVB4ZUNUV0piTnhGSjZwOFJ2SmtrbFVzQQ?oc=5",
       "publishedAt": "2026-10-26T22:00:24.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -407,7 +488,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSzB4R2I1Rm9aOFUzU2laTFcwZC12YnJMY1BRMDlCaU4yQ2J5TlQ2S29qTzBVSmo0SHlVV2tWV1FwOGcyd2pPdkdVN0NraDRQeEpyeFZvcnI2Z9IBX0FVX3lxTE9xWVZvMUJ2MTBhcVR5dmN0dnBLWnltWFVpal82ajBNT1ptMU5CdzRnWkwyWHFuQ1BKMVdBMjl1TEZlMENxU25ETEdvN0tITEppV3NsbldDZWd3enZZLTFV?oc=5",
       "publishedAt": "2026-10-26T21:00:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -429,39 +510,12 @@
       }
     },
     {
-      "id": "b406a9f309a790ad",
-      "title": "현대차, 8년 만에 수소차 5만대 팔았다",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QTW50eU9FRG1kQTRtT2dpTzEyLVpBUUU1UzY0aHk2cWJvZmFqZlJiUXppTU5xb09ZMGVxNWI0RkpUSlV1QzdScm1aYUdyLTMwd2JtMXY5NEVDdw?oc=5",
-      "publishedAt": "2026-10-26T08:26:40.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 8년 만에 수소차 5만대 팔았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e5099a9ba64eeba1",
       "title": "형님 대 아우…현대차·기아, 3분기 실적 ‘희비’",
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZZVd3QkNpQUFIZ2RFdVMzc0tiVDF1UlhtY2VTbjJkRmJvZTA4d2hvR3B0MUIzYk5wRGpRQVh4OXZCQXBOaHRLeU5OTlZYSS1NOU1NbmVVS2VybHVVNUJIaA?oc=5",
       "publishedAt": "2026-10-26T06:19:12.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -488,7 +542,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13b1U4RVFhdE15ZHMwR0tPcGFYZldwU2xiNUJ2N05FUlhkS2F2RXZrUkFkYUs2WnZVQWVESVJfNmtDbm5Tek9zb2FmSzV5NFdHMU04Y3d3?oc=5",
       "publishedAt": "2026-10-26T05:37:31.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "collectedAt": "2026-10-31T15:55:07.025Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -506,62 +560,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "71e278232b1634e2",
-      "title": "현대차, 보스턴다이내믹스 '프리미엄' 흔들…목표주가 더 낮아진다",
-      "source": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1RpckdSZ3FoUTZVd3Q4ejREQ1c0bnpDVk5TZzhfREt2ZTlCbC01UnZMMjVyX214QUJWM05YcFRkcm5lVWhFZ29BV3Z2MEFGbGlEZU1OLU1ULXFQcG14aWhmcmR4SmFfN3VLTFZvMXBweEliSjFTaEVBc2haLWdWY0JYbw?oc=5",
-      "publishedAt": "2026-10-26T04:53:00.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 보스턴다이내믹스 '프리미엄' 흔들…목표주가 더 낮아진다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cafd4bbdd005dce1",
-      "title": "현대차, 국내 수소전기차 누적 판매 5만대 돌파… '예산·인프라' 과제",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jdWJ3SXNqbERQQmtNV2x3ZkdfdVFMbGprbmNWOVFjUk1yNVI4TlMwbk9rUFJzN1lPenJiTkw4RXRyYVQ0eUJ2YkNZS2NFdw?oc=5",
-      "publishedAt": "2026-10-26T01:34:05.000Z",
-      "collectedAt": "2026-10-31T09:05:51.418Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 국내 수소전기차 누적 판매 5만대 돌파… '예산·인프라' 과제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
         "negativeTerms": []
       }
     }
