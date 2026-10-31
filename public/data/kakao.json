@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:55:52.606Z",
+  "generatedAt": "2026-10-31T09:05:51.418Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,72 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "외형 키운 네이버, 비용 낮춘 카카오···3분기 수익성 갈리나",
-    "[단독] 美 TPG, 카카오 상대 국제중재 신청…카카오모빌리티 ADR 갈등",
-    "[데이터 뉴스룸] 정보통신 업종 50개 주식종목 하반기 시총 17조 사라져…삼성에스디에스…"
+    "보드게임으로 주식 공부…매경어린이경제교실도 ‘북적북적’",
+    "[돈MORE]머니 전쟁 붙은 간편결제…어떤 '페이' 쓸까",
+    "외형 키운 네이버, 비용 낮춘 카카오···3분기 수익성 갈리나"
   ],
   "articles": [
+    {
+      "id": "eacc886b9980ee42",
+      "title": "보드게임으로 주식 공부…매경어린이경제교실도 ‘북적북적’",
+      "source": "매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVnhaSkZoTUwzNVJVZV9wcmptUzdGVHZ1Z1hCYXJWRWJ5M1NiWnhnTmRMVjJReFI1MlQ2SXZwN21aMVozeUtPUFZLaldsdmVjeEE?oc=5",
+      "publishedAt": "2026-10-31T08:20:42.000Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "보드게임으로 주식 공부…매경어린이경제교실도 ‘북적북적’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5da105a98f69687c",
+      "title": "[돈MORE]머니 전쟁 붙은 간편결제…어떤 '페이' 쓸까",
+      "source": "비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9icFJzM3NYd3dzVEJvczg3WkVmYnQxYkZNcDd1SkxoX0VCd2kyVmxUNG1RV2dqLXVHSHlxdjVYbnNOVFdpVS1fM3VEWnNUazBJRzlqeUxVOWFxUlVvZDBnejE2cVlnWWxMZ3NJ?oc=5",
+      "publishedAt": "2026-10-31T03:00:03.000Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[돈MORE]머니 전쟁 붙은 간편결제…어떤 '페이' 쓸까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "c21169604a6a3d44",
       "title": "외형 키운 네이버, 비용 낮춘 카카오···3분기 수익성 갈리나",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSkdmRmdMM0l1eDJPRktSV2YyanZ3UGJTQ3cwcGo4WnBISkNnWDdVa0xNVVVGVTNkZV9sckFFVnIzM1ZlLWRMWDR1WWlhYWVLOVpFX21wQjVQN1FHQmRVRl83V29CdkNrcHZHZldPRzlOd9IBdkFVX3lxTE1Hdkk0Y3BYOTMtMUJTRWl2azJ1U0ZoeGRPTUc3VzhuanVvOW8yZzdsNEhSTjdHSUJlVEs1YTVBdG9TODE1SDVUY0N3R3ZNcFNaMFhBVnI3RjVFZ2lxc29DS3pQbWJwbGVpRnZaWnM2TXAzVXg2TUE?oc=5",
       "publishedAt": "2026-10-30T22:50:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -42,39 +96,12 @@
       }
     },
     {
-      "id": "98f6e1b53683355c",
-      "title": "[단독] 美 TPG, 카카오 상대 국제중재 신청…카카오모빌리티 ADR 갈등",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nZEtNOFBMR1FnOTZ4VTBzTW5RNHNHRzB1M1EzbmFvVl94TEpjN3U3X00yTnRRZ25sTFRyX01ENmxKWTdYR0RfeHhBRDdGUGg0WWxRVkVaWG01Zw?oc=5",
-      "publishedAt": "2026-10-30T11:38:47.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "[단독] 美 TPG, 카카오 상대 국제중재 신청…카카오모빌리티 ADR 갈등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c1fe6b10feab0f50",
       "title": "[데이터 뉴스룸] 정보통신 업종 50개 주식종목 하반기 시총 17조 사라져…삼성에스디에스 시총 늘고 vs 현대오토에버 줄고",
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcDJENV9JZFMzM0VoSkpuOEJDd2VxdllrMUVLMG5xd19qQU5zU0lyWEJmWGM1M0ZsOG9URHZzYkFNYVNTT2c1WkNLWGFlTm42U3V3NnE3Q0d3TDhpd0FHSmx0blZsdVZq?oc=5",
       "publishedAt": "2026-10-30T10:41:47.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +128,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mQzRUYU9EOGpZRGpDNGxpVmpacTFLOFhHS29Eak9aYS1hQU5ibmVGWDM1NkpzRjNKUHdWR05rSkFjcFBnY1pfWHVLbER5VjcySkHSAVNBVV95cUxPaHRBN3hYeERDMnJPRk91N0xUMlNLU01MelppbEs4elRUSEtPdkN0eVlqREFFTWZTamhsbGZKTmplSU54UC1Mb05vX05uU0d4R1RnOA?oc=5",
       "publishedAt": "2026-10-30T07:42:55.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -128,7 +155,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iQm9faXplbUFOMDBVMXdnLU80NWtGaE9YNGlOamg2WmVMTThtazFZZk9ZWXZHVk9Jdy1ydFlaaU1uOXQ5eE9IUXJRNW9BX005X05oRFNlemZWQWlCNERNWg?oc=5",
       "publishedAt": "2026-10-30T07:30:15.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -150,12 +177,12 @@
       }
     },
     {
-      "id": "9f4fa9aae04442ad",
-      "title": "\"오픈소스로\"…카카오, `대화 맥락` 찾는 AI 검색 모델 2종 공개",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZVZIaXJCWnJUOVFHUFhoNHp6Q0dCeXk2SXdMODNFU0tha3JTZjI1NFFPR2E0VzhYdVR0cWdnX1c2bTY4UmI5bEZNU1NpejBTcjI2SmVrMDV2Uzd0QXFVbFBJUjU?oc=5",
-      "publishedAt": "2026-10-29T08:51:49.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "id": "06a2e2d0c8d3f1f0",
+      "title": "손으로 화면 쓸어내리면 AI 비서 등장… 검색·쇼핑·예약 ‘척척’",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXh4dEhVSllJVHo3dGFHbEdEckx1V2pqMnJxRzRXcWlFNFJjRHl2QTFJVTlweUNuZUlKRWVCNlRpdnhMb1ZaM0t6WWVLWV90ay1pakh0NmFOOVdPTmZrYjNLaEM2N2JYWXF2R0ZoUUlrS1VoS2c2QUhwdDlhVU9XYTlQbw?oc=5",
+      "publishedAt": "2026-10-29T15:30:00.000Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -166,7 +193,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "\"오픈소스로\"…카카오, `대화 맥락` 찾는 AI 검색 모델 2종 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "손으로 화면 쓸어내리면 AI 비서 등장… 검색·쇼핑·예약 ‘척척’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -182,7 +209,7 @@
       "source": "AI타임스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTDlqQ3FrRmg4VGxMRTFOdlZ6MzA1SkRIOWJIempkVTRVYUdkOHNjVU5mUmFOdHFuMjdFeXdTb0tnbTQ0M1FES2FzQW14MTF5NGxDVENBSnlUVWZaTHpaZDhqblJqZHFDcEE?oc=5",
       "publishedAt": "2026-10-29T07:50:13.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -209,7 +236,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVZVYWQ4NVI4Qk5EbndRQUppMmliTFpaQ1N5aXRkU282N1RLMl9tOTNUb1JNbmZrTjBkWUdpQldrY0x1S0FWWGVERXNSNUVIMjI4a2dGcS1RUzllWmxzUHk1aUtzbXl1dmtmZ1I1VDJPc1l0UU9qY3ZKRHMyMGw2T0JLWjIwTU1NZE0wVnczWQ?oc=5",
       "publishedAt": "2026-10-29T04:42:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -236,7 +263,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02M3RSSkdJOC1TWWRMV2dSTVFJQ3pFcGZhUWYyMUpqSm01YXlaU3JCbmFZNzF0cktDeG5kR3ZUel9ka1h2SHFhWHBQQ2JZMTNNX3BPX3FubTZ3UQ?oc=5",
       "publishedAt": "2026-10-29T04:23:39.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -263,7 +290,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DLUdZTTc4WHZULWhLN0dTRVphVzlFY1M3V2dzckVPMW11d3F5LWtrZl9pdko0OUIzZWxJUTdyN1ktc0NVUWZTcl9tWmR2bjdEWk8teWVR?oc=5",
       "publishedAt": "2026-10-29T01:33:55.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -285,12 +312,39 @@
       }
     },
     {
+      "id": "f721853c7bbd245e",
+      "title": "[AI픽] 카카오, 한국어에 강한 AI 검색 모델 2종 공개…누구나 활용",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HSmRuYXhKdUROQzJIelo2S1dJSEhYQlp0WmpwM0JwdXRKR1Fldmt6WkRpTWRVUWl0eXFjcXo0bGF2YmlrZXIyX0ltRUZiY3R4dk52ck1LN3FwWGtHMGlxYtIBYEFVX3lxTE1HSmRuYXhKdUROQzJIelo2S1dJSEhYQlp0WmpwM0JwdXRKR1Fldmt6WkRpTWRVUWl0eXFjcXo0bGF2YmlrZXIyX0ltRUZiY3R4dk52ck1LN3FwWGtHMGlxYg?oc=5",
+      "publishedAt": "2026-10-29T00:52:06.000Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[AI픽] 카카오, 한국어에 강한 AI 검색 모델 2종 공개…누구나 활용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "72d213d96c21b2a4",
       "title": "카카오, AI 에이전트 임배딩 모델 2종 오픈소스 공개",
       "source": "중소기업신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9peEZQdUZ4UmlUNEtWLW1FaDNGTk1tLXRZTTZiUjh2ZjNmalN6RHgzaDdDX2VQZWVVbmdIcWlpQm5Rb0phaXFEcGFmZV8yRk1Zb3lOcDJmalRnVWtlQmlHODdhTXBwMkUwcUtBag?oc=5",
       "publishedAt": "2026-10-29T00:34:29.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -317,7 +371,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44a1JhdGN1UjZFRjFvbUVsUnJXYmY1V0dRam5XOEFnWVNBMkx4dWlxdFlsemFTZE9MVW9fMUJISUN4M05CUVMxbU4zSEwxMXVtYkh0dUhkYlAxUHZ6?oc=5",
       "publishedAt": "2026-10-29T00:31:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -344,7 +398,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85Y1lrZFplUzZXOGU4OGs3akc1Y1E4VkVfZk03Zl9Ec3hRMWVhS19fS09fdGVXZ2praWtsT2NabDJTeWVkb2haQl9wbWpvNjhtNFpMMFg2OV8zSS1rUFpYU2ZmNzlMQQ?oc=5",
       "publishedAt": "2026-10-29T00:30:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -371,7 +425,7 @@
       "source": "위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYmk5Tkc5QjNUSXF5b0RsY2VpNnRsbGRTeU1HajVJSEQzY2tzNjJFelJOYXpGcFJkbzRTb0lJSkVNbEJCVlRoMWhaczJyUE9ic2tOdjNn?oc=5",
       "publishedAt": "2026-10-28T23:59:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -398,7 +452,7 @@
       "source": "카카오",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1remdiUjhsdlk1eUtpS0xsWm8wbWZhRWJRbTYxYzRFbFE4bWJaNGlKd1VjWmZNYVgyUFlqa2FJS2pzZEQta0xuX0U2cGx0RWdLTGNzczBn?oc=5",
       "publishedAt": "2026-10-28T21:46:30.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -420,39 +474,12 @@
       }
     },
     {
-      "id": "029d36c0f377903d",
-      "title": "시키지도 않은 일 하는 AI… 카카오는 어떻게 통제할까",
-      "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjOUpWaHd5ZEY3aGJaQUZWUS1VSHdtVWtfci1SS0EwRF9mYno2R2EwRXBpVlRadEdRb2JTV3Q5aVROVkpHczJFRGx1U1g1aXVHVkZ1cXlOZHRkVE93ZnY3SDRJNEQ0aFlOdWlQUS1SY1HSAXRBVV95cUxOWUZaRGFuQV9NbmZEUkJaRjhQclh3cjh1UHZZYVFQWFBZWjBrSWFzVHRrX1ROOUE3Zl9yd1ptaVBtLVlwVmJrWUpSNDF5bm96alEwOHE0NHVTbTByUHY2X1dGUjA3bkticUF6QUc5N21aNlc5Sw?oc=5",
-      "publishedAt": "2026-10-28T07:38:08.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "시키지도 않은 일 하는 AI… 카카오는 어떻게 통제할까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "59011fff46b4535b",
       "title": "주식 판 돈, 왜 이틀 뒤에 나올까? 토큰증권이 바꿀 결제",
       "source": "대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vYkRTVDB4elNhUy1ZLVlnNk96MVYzV2lyN1FwRndTdVV4Z0VRelNtVHdmNzI2bWNoLS1MQXJnVW14S3Q1TVQ5T3FsSDRoYWlFRVgwRzVLZV9HZk5aSl8yU1k2dVg?oc=5",
       "publishedAt": "2026-10-28T00:20:03.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -474,12 +501,12 @@
       }
     },
     {
-      "id": "0aa99a1615e70007",
-      "title": "카카오, 채용에 AI 사전 인터뷰·인성검사 도입 추진",
-      "source": "www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92clJNbERjcHk0WlMxb0JTWVg1c01ZSHNHa1d0Z1czNjRUZFJIaWRnMXRIWDBPbVJFRmExZjdFbDdMRndma19XUV8zS294Ym5DYjNKWDNSM2FRM0EwdTNQSkN0TFF4SGIz?oc=5",
-      "publishedAt": "2026-10-27T13:00:37.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "id": "685885551910130b",
+      "title": "한화는 시총 34% 늘었는데…카카오 AI 분할엔 물음표 왜?",
+      "source": "이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HWXhJSGtfRDRLb1d3cEFiYklCMzZLdjduSnhGb0oyR0pXU3JIUGRqVHJVMjlBWFQxa29WVDhrdlUxcUZxZWtfVDZhYXlzWjMzR1F1VWNGLXlkX25fSUdRVHVR?oc=5",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -490,7 +517,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "카카오, 채용에 AI 사전 인터뷰·인성검사 도입 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한화는 시총 34% 늘었는데…카카오 AI 분할엔 물음표 왜? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -506,7 +533,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXMxYXVDdl9WaW1sdlpDZzQ3a21CWm9UVUpLMi1GQVRvY3RkTjdRekxBdElub0tjcG5URnZ3ZGdKUVJ0U2FtWnRlcGhhWkF0UmhPTnZkNUF5Z0dCT1JLV3p0NnA5enFhOGJjRkYwMkpSX3N6TGFUTXhET09TTXNVeHVIVQ?oc=5",
       "publishedAt": "2026-10-27T05:43:00.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
+      "collectedAt": "2026-10-31T09:05:51.418Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -519,33 +546,6 @@
       ],
       "summary": "앵커PE, 카카오엔터 인수금융 또 연장 추진…회수 막혀 차환도 '난항' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "784704532bc86019",
-      "title": "[챗ICT]카카오 'AI 비서'가 바꿀 모빌리티 지형",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TTc1ZTN6MF9vbTdxX1M2MENtVllaN0VGRlJSMHZ1OE03N2ttbGpTRlhfWFgxZFNzU1VWZDJWdU1SbjJWdUhZSEVDdzFxZHFfczNTRUlSekNwVThDMXNRSDJhdERtYmpUS0E?oc=5",
-      "publishedAt": "2026-10-26T22:40:03.000Z",
-      "collectedAt": "2026-10-31T01:55:52.606Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "[챗ICT]카카오 'AI 비서'가 바꿀 모빌리티 지형 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
