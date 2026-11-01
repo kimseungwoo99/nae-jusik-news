@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:42:13.862Z",
+  "generatedAt": "2026-11-01T09:54:36.628Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -11,7 +11,7 @@
   "dailySummary": [
     "[이슈] '리딩금융 유지' KB금융, 비은행 경쟁력으로 최고 자리 지켰다",
     "KB금융, 3분기 누적 순익 5.8조 '역대급'…금융지주 첫 '6조 클럽' 눈앞",
-    "[3분기 실적분석] 작년 순익 넘어 20조 육박…'역대 최고' 실적 행진"
+    "[금융실적] KB금융, 3분기 누적 순익 5조7921억원…13.1% 증가"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50VUJMT2NiLVhVT2dtQmdBR3AzeFlsWjlGbDcybzJaZENrLUFHa3RLWlZEU0VYcHExLU1PQU9MbGxFZ0lJOURzS2M2azhtanVRY3BRdzJQMHdhdFVMdkg4YlJEbmlGQmRh?oc=5",
       "publishedAt": "2026-10-30T09:14:19.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -47,7 +47,7 @@
       "source": "굿모닝경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCWW1MUmZtTUlsUnVzeEhYSXAtSnktdEZRSWhFTWFrV3VHYzEySlBxa19ZSUhaUi13NVNseUUtRGlPVkoyZENITWNTQXFEdXhmcmk2MllvRkFteHl6T0lzUm52LUc4Ql9uV0hWOA?oc=5",
       "publishedAt": "2026-10-30T02:43:06.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -69,39 +69,12 @@
       }
     },
     {
-      "id": "b12644b45062ce6e",
-      "title": "[3분기 실적분석] 작년 순익 넘어 20조 육박…'역대 최고' 실적 행진",
-      "source": "KB Think",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94SHRVRWNPU2RjdzNIUEVGc3V0ZXBJbjNsZzd4eGZnWURDYzVxcUtxd0ktcjEyaGdkTzlOWk9yVGhQX2tzZlFHRGhFbWU0eHpMMlpNQWtmc280M3BKNlNwZnk3QndXRnp2MWV5N1BVemJDWldYREEw?oc=5",
-      "publishedAt": "2026-10-30T00:05:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[3분기 실적분석] 작년 순익 넘어 20조 육박…'역대 최고' 실적 행진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "11eebbba1c524a4e",
       "title": "[금융실적] KB금융, 3분기 누적 순익 5조7921억원…13.1% 증가",
       "source": "비즈월드",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQkxiVTI0d1dUV0JSYU9nWHVkZnI3SXJSQ3NrWnFuUnl0YUcwS1FTc3RoR0lJaFNha25LRTE0Q2gtUFF2TGVPWTN1bjdDV2ZWRHZVU29Ub3NhajVzTDE3LXd1VDRISmNtMnc?oc=5",
       "publishedAt": "2026-10-29T23:54:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -123,12 +96,41 @@
       }
     },
     {
+      "id": "f0b32f808a155ebe",
+      "title": "KB금융, 실적·자본비율 '탄탄'…내년 주주환원율 60% 돌파 전망",
+      "source": "프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BVEZSWjVOSDMxOHBtTGdiVmQwcGQtU0hOT1RwVXNOVkh1elgzWk51TXdXU3dSdHpabmlyNEJGOTF1ZWJGQlFiaGktVGFpZW9tMjFRTEx5eGV2Z0xjSkJFMXlpOUt4cnNWWXZKblRFdzJMQQ?oc=5",
+      "publishedAt": "2026-10-29T23:53:10.000Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, 실적·자본비율 '탄탄'…내년 주주환원율 60% 돌파 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "eb94fb2747eb1b24",
       "title": "KB금융, 3분기 최대 실적 '올웨더 펀더멘털' 과시",
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jOTQ0LXVka29MczFReFdmeGxTQVdvX2ZlbnhwVlpOX2poT01WTUdDTlkwWVdzVE9ZQlcyUVU1SS1KdHhXZ2RBTmh0elBVb0VS?oc=5",
       "publishedAt": "2026-10-29T23:30:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -155,7 +157,7 @@
       "source": "재외동포신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Q2V5aktfcllQMGF3SFlYaTJuY3VHZjUxVFFfNWFFNWVXQmJjcms5NGtZYUl2eXFDc2FKMGkwNWZBRmV2dktLcWFONG5telZnd0RpcWtpRzhNLS1fR2RRYzR1TWtKUGhzY21HRw?oc=5",
       "publishedAt": "2026-10-29T13:20:07.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -182,7 +184,7 @@
       "source": "재외동포신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ydHI4NUdoWGp5UW9JR2xNT21FOV9RSDgtME83TzRoUjZPbTZzSmtjbUNoZC1iYnhlVUxrQXgtSXc5VzhjaGNrVFNlRXZobzd0N1M2NGhMdnRJZ0tGZjRrMkY4ZTRFWmRPc2ZSVg?oc=5",
       "publishedAt": "2026-10-29T12:03:33.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -209,7 +211,7 @@
       "source": "일간대한뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjUDBXb3dycFVVU3BOSHk2ejVvNy1lUGVxOHR1T3ZRWVRsaHZCbjBiS2JwVjVsRVB4Qlp0SkhiTlcyMEotN1lMOUdMcHFmUVNxVHRJaXhEQXI3NUFYM2dtVEZnWWRTNUk?oc=5",
       "publishedAt": "2026-10-29T11:56:42.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -236,7 +238,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGNkJIQi1EZW5qVHZzaVNGOERTYkc2RDNSLXRjRl9ocVRVblBoak04OTZabk1Hc2JtbUNWdVBLb0I0V1ZXNEtWU3Q5bWVBQndIU2Zsd0VzWUc2ak1KWHlhZ2RrQzQ4S01xYkF1aVY5eDHSAXRBVV95cUxPZ2NCYVI2bjVJcTIyMTN0TjlwRktNaGFlZHVtOEhCN2pNM3J2QV8yTHotRXBIZnlhWHRXQ1Q2VnpIZ1NjdS1WMHZ0bFEtNFdRbndhQnF3UklfdWhBZDRnb01RaVExdUIzUTlUSU9KaVRuOVM3OA?oc=5",
       "publishedAt": "2026-10-29T09:26:03.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -260,39 +262,12 @@
       }
     },
     {
-      "id": "eca399b710a7c27a",
-      "title": "[컨콜] KB금융 \"예보료 조정돼도 손보 CSM 5000억 이상 감소 예상\"",
-      "source": "뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQnpqeDlpZ1BJLUNGS2E4QWM5c19OVW9uUG1jMEpITWFtVkZmNzFYcHNjSElndE9DWTVtdmFBbHdqcG54MGl6aGEwd1oxRDF3dXR4bXYtVV9KRlRUcGdoTzNZRDExbHdvdnNJZl9nONIBc0FVX3lxTE5OcGRRVTF1VmdZMV9nektoSFJkZ0g1eTVhR2x1Q2dGQ2xkaElQa1hjTGNCUzlDSFU1ZUNqZTZaQUZ5dks0ejhxRXpucGRDdkt0bDlsQXFhTHhQZnhyMnBTZmNwVC1mZGZRY2ZROTg1N0N6Y0k?oc=5",
-      "publishedAt": "2026-10-29T09:22:55.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[컨콜] KB금융 \"예보료 조정돼도 손보 CSM 5000억 이상 감소 예상\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9837d884fd5a5c25",
       "title": "KB금융, 3분기 실적···당기순익 1조 9075억",
       "source": "CNB뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nemRJTm8yb3pmd2V6YTlBRlNvaUhxYTlNSjdzNV90dDBnZzZ4TVhLQzBpajBCNERxWVk5R29QWVNraHNHZnZEMGFqR3QyTllWV3J1SGhjMmJGZXIzZkh5OG5DbVlpRVJuTzZN?oc=5",
       "publishedAt": "2026-10-29T09:04:42.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -314,41 +289,12 @@
       }
     },
     {
-      "id": "6755ac9ec407f3b5",
-      "title": "KB금융 3분기 순익 1.9조 … 역대 최대실적",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wX0ZoTWF4eXNYcnJCd0RXOHNndHBZSkdySEtZcGh0XzNaVGZWX3FoOEx0MUF2RnVXV0xIUVdmczZsdWtkSnlHLVpCYU50MTFNVUZHeQ?oc=5",
-      "publishedAt": "2026-10-29T08:42:36.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융 3분기 순익 1.9조 … 역대 최대실적 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c6eaabda9333ce24",
       "title": "KB금융 \"수수료이익 분기 1조가 기본 체력\"",
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53eDBzSkR1bUQySGp6YS1MeUpPMnk3Z3g2ZmRQd3loVlE2NHhwZDVUcm5ReFlDTUt0ZnpTWlg5SkVNSFpHT3ZlOWR4bUlxRDA?oc=5",
       "publishedAt": "2026-10-29T08:33:13.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -375,7 +321,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuYjZGTUtjcUJJamJyd0VCbzdLajRXSmEzbVNNdENiSUM2d281TXFhalh0Vkd4Z21UWlkwTGtyU0gyMUs3SjRzU2tJcFdQX29MSnNqYUZCQXB0N1RH?oc=5",
       "publishedAt": "2026-10-29T08:26:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -402,7 +348,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOYmhRUml0THR5VHg5UWpRanRzS3dpRk1nM2UwV1NrN01xTWlicEQybE1SQjdxRENvZG5RTVc2S0FVV29UakYtcVhsSmJGSjVEbmthT041TzhyUnVEWGMw0gFfQVVfeXFMUE5iaFFSaXRMdHlUeDlRalFqdHNLd2lGTWczZTBXU2s3TXFNaWJwRDJsTVJCN3FEQ29kblFNVzZLQVVXb1RqRi1xWGxKYkZKNURua2FPTjVPOHJSdURYYzA?oc=5",
       "publishedAt": "2026-10-29T07:53:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -429,7 +375,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTQmxoN1laRHJRbnFXN2cwZ0tKSXVnQ2xWTEI3NEpiYlJhazAzSEg0ZndYdkZJbnZvVVVoMWlMTDBqZUktX2JjQy1FWXJWOFpRN3I5WmlUNkdXTkl1VjhuTFM3d1ZfR1FrUlVuRGdwZw?oc=5",
       "publishedAt": "2026-10-29T07:49:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -451,12 +397,39 @@
       }
     },
     {
+      "id": "2b1767b1a870ad24",
+      "title": "KB금융, 은행·비은행 견고한 성장에 '리딩 금융' 수성",
+      "source": "DealSite경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxZjNxRElfNXEyM05tREFyaGVPZElzZ0FmNVpGM2hUV2ZPSFVhNTJVN1I5Ml9RVlQ2REIxeUh0V0ZKaTlCLVFrOEVmQVZBVzVXUkRhMVdn?oc=5",
+      "publishedAt": "2026-10-29T07:27:34.000Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, 은행·비은행 견고한 성장에 '리딩 금융' 수성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "be1b1fb4b8f7c76b",
       "title": "KB금융 3Q 역대급 실적 중 비은행 40%…증권계열 파죽지세",
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyVUtPc2tINWNLcVppQUNSeV9YUjhaYW9ZckNrOW9uU0RxRU1FZDRzdHR6c1ZVX0tuY1cxQU9LQlRDTEUtUEtGNG9lUkpZZ243bkhOd2loeHhiZXNZRDcyM205a1FxWXdocnYyY9IBbEFVX3lxTFAyVUtPc2tINWNLcVppQUNSeV9YUjhaYW9ZckNrOW9uU0RxRU1FZDRzdHR6c1ZVX0tuY1cxQU9LQlRDTEUtUEtGNG9lUkpZZ243bkhOd2loeHhiZXNZRDcyM205a1FxWXdocnYyYw?oc=5",
       "publishedAt": "2026-10-29T07:08:03.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -483,7 +456,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzLWxqVDdaZERoemRmWWtyTGN6ZjZDRTVGNmxvUVlwV0RVajU1a3hxbG5jbDdZTVVCZ0dnSGNaV2o3aXRYaS1tS193cGN4X2xDRl9wN2RlS2dUVWtRd2JkcUN5a3ltd0U?oc=5",
       "publishedAt": "2026-10-29T07:03:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -507,39 +480,12 @@
       }
     },
     {
-      "id": "f262fb07c3a74d03",
-      "title": "KB금융, 3분기 누적순익 5조7921억원 '최대실적'···작년 연간 순익 육박",
-      "source": "서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZjEtdGM0NTFNa182blhBdVUtakRGWVdrbnNpbEhLWGl0WE5xMVJsaVRxR3dJQzBxVzNFa3lRNkoxdlFhLV92a2o3Y1RzZWhrbUNuZkNUdlFhVVJUT19tTURXblFPWFNUaFE?oc=5",
-      "publishedAt": "2026-10-29T06:40:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, 3분기 누적순익 5조7921억원 '최대실적'···작년 연간 순익 육박 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2ff02576bfeceb58",
+      "id": "c58a8e6f79a0d69c",
       "title": "KB금융, 연간 순익 6조원 돌파 눈앞…비은행 실적 확대(종합)",
       "source": "뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DWG1oVm1CUGpCLUo3Mk1lajlMXzVFUUVJT1cxdEJmcnRTaWVULWtRNkk4dkx3N3gxZGx3WFZBc1JnanFWaTA3THMzS3lrVG11MndKSzI0Y0UxNmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wX3ZsN0NrWkt2alFYd3JDOVZHdkFsY3lnNHBsalZIcks5bEg5MEJqWjRlMUVUd2J1UTk0N0l3c1BlSXNUZFRfNFVTdV9JbXBLLUhFUjBnY3pKaEFDeHc?oc=5",
       "publishedAt": "2026-10-29T06:39:00.000Z",
-      "collectedAt": "2026-11-01T01:42:13.862Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -559,6 +505,60 @@
         "positiveTerms": [
           "성과"
         ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "49ceea76c4cfd6ea",
+      "title": "‘5.8兆’ 벌어들인 KB금융지주...수수료이익 38.5% 뛰었다",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzX2liOW1RTDZMdS00Y2lBVW1xSXNuMk9iRGJOaTkzOC1QQ1ktdm1rSksyMjh1QzBXXzlUenRzak1jV20tVFZCeWFnYU10bmtqSnh6NUpabUs1NXFuRVo3bGt3?oc=5",
+      "publishedAt": "2026-10-29T06:33:07.000Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "‘5.8兆’ 벌어들인 KB금융지주...수수료이익 38.5% 뛰었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2ab894072f4d9fb5",
+      "title": "KB금융, 3분기 누적 순익 5.8조…비은행 기여도 40% 넘었다",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RbllyU3pEM3VQbWVkUFZoU3RXcDBJWEI0NlVENWxROWl4eU5Ia0tVN1RZZmVHRE9HS2NDMFFrb242cXNCX1ZRR1ZoODB6dWo5TjUzSm5jMnhFU1pO?oc=5",
+      "publishedAt": "2026-10-29T06:32:00.000Z",
+      "collectedAt": "2026-11-01T09:54:36.628Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, 3분기 누적 순익 5.8조…비은행 기여도 40% 넘었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     }
