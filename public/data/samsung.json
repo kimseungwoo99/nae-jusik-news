@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:57:36.286Z",
+  "generatedAt": "2026-11-02T01:58:49.878Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,45 @@
   },
   "dailyBrief": "오늘은 반도체 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "일본이 삼성전자 반도체 연구소 유치에 나선 이유… 보조금과 AI 패키징 기술의 이해관계",
     "이재용 회장, 일본 삼성전자 반도체 연구거점 방문",
-    "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표",
-    "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\""
+    "삼성전자, 반도체 폐수 오염물질 저감기술 개발…내년 평택사업장 적용"
   ],
   "articles": [
+    {
+      "id": "e0356940843a93b0",
+      "title": "일본이 삼성전자 반도체 연구소 유치에 나선 이유… 보조금과 AI 패키징 기술의 이해관계",
+      "source": "테크데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAta0V3Qkc3RW1CZVA2eFM5RzFBQmtUWEF1bGRMbmpRemFkZFc3YnY4MlQ1YjJDTE11d1RHbU1RT1o5TmVfYXplcnBCSEFRTTMtNENFVFFhZk1uYnJKRElWSm1WM2lrNllaT2FZVzZn?oc=5",
+      "publishedAt": "2026-11-01T17:30:38.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "일본이 삼성전자 반도체 연구소 유치에 나선 이유… 보조금과 AI 패키징 기술의 이해관계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "762196e5ef042595",
       "title": "이재용 회장, 일본 삼성전자 반도체 연구거점 방문",
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaZFEtX2QzdVV1ZXRmRmtSY2VDNzU2T0lYMDRLZ2hDbkdLTml6bC1MRWd2T2NFUWRJd3NPYXJPR0J1NFdkelRCZnJiTXMybWdjOHY0SHBSZlVnbXFZcXc?oc=5",
       "publishedAt": "2026-11-01T07:35:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -42,12 +69,39 @@
       }
     },
     {
+      "id": "5a80a0d12e1fc800",
+      "title": "삼성전자, 반도체 폐수 오염물질 저감기술 개발…내년 평택사업장 적용",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ma3RjMlFrQzhweEhwVzdKMkUzUFhOODR6MU1jZEctSk9UdjU0bUNaRUp4STFScUlMVVZ3R1dGQ0IyVjM4b2NrcWQ4a0ZzQTZvY0lLdV8wT3J0Mnp5Z1luNHdHbTY?oc=5",
+      "publishedAt": "2026-11-01T00:21:34.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 반도체 폐수 오염물질 저감기술 개발…내년 평택사업장 적용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9530f7ea44fd10b5",
       "title": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4b09iVWVQMWEyWnVfd2sweGpmSi0xR1BJZzFHUkplYmhyZ2dsd2dFSWJZbnRpOGp4amFRYmNxZC1BNGktcExsTkR5NkVIVXQ0T3hFVkFYSUlFV1nSAWBBVV95cUxOSHExWkpoLUNXeTI2UDBYUk5oZUJ4RjZVQkpqN2lYTW1oallzQUFOaURWZmE0QlR2UnR3RG14OFRCMmotZkE5WTJlN2d5ZjFhR0txdW5ESzBqZG44RWo0T2g?oc=5",
       "publishedAt": "2026-10-31T21:07:01.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -74,7 +128,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9USnA5NWE3dmUwTGFBczFYU3FLYzFVUVNWODl4SFphYUo2bC1MSFplMjNLb3YxZ0JsdEJZZWQ0Q1IxZDFIWDVxSHlKY0VRR1pvWGZWNnByNmRnLVhiYXJQddIBeEFVX3lxTE9IUlduUUJHWXJPT2w4V0xGYWt0Q2wwZE1pUFlaOE5tQW5veU5sT1VROGJvMnJEWWJ3bTlQM1JGbW0yTXVHS2ZhZGd3OFlwVzhoVlRjZ3JDTExpa3p0cjVxZmtDVnZaekdjOVNDdHhDSFhnNXh6RGItSw?oc=5",
       "publishedAt": "2026-10-31T14:10:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +155,7 @@
       "source": "서울파이낸스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUHRXZ3B0R1ljXzBXc2RxaHVzWWdGc0FXZm9ja0RDUU16VkJxQk5TN01MQnFBUENYYlhXTkJEcWRkZDNYcUdqNHlMaXh0Y1VyRzh0YURpemlGZzFxNEhwNWZIZVNSdHd4NFE?oc=5",
       "publishedAt": "2026-10-31T03:00:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -128,7 +182,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
       "publishedAt": "2026-10-30T23:00:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,7 +209,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pUndwR1pQdW5fdjlsbENHcktsMDladGFWMWo0VG1rbDFWV0NIVE9XWjFjWFo4b3VBYjNKcklXQVpDTzJYUXYybUc2M1VjTjFa?oc=5",
       "publishedAt": "2026-10-30T10:27:26.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -182,7 +236,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9icjY4eE1tLXNoVk1fQmdIUHBrOHVzTDJGa3h2THljWEhTQzdaYVo2QlhETkJZdjNPeS1kbnMtX0haM2FaV2hoV0REMEIxdzhQVkpfMnhRUlpKbDJjbDZoa2lRSW1lSHN6ZTF1T9IBckFVX3lxTE1UdjFBWTBOVTBhNlRaOVJQR2pqSlRBR3FDQ1VMTTBuTmdmY0xGbGlwY0hER1RrZ0pjaGZuTWJDMEZxZHp6VmhaMUVMeE1hZzZTVzNSc2VGQmdnZG9ydU8wLXRZQklKanRiR2F2MXRiMnh2dw?oc=5",
       "publishedAt": "2026-10-30T08:27:57.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -204,12 +258,41 @@
       }
     },
     {
+      "id": "cf38211e9fbc732d",
+      "title": "삼성전자 주주환원, 금산법에 막히나…우선주 매입 확대 논란",
+      "source": "녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IMkVGWFFQczRIOXkteE0xTmZtRExxT2ZSekljOUl0MFhzb2ZvWTJLZXA1ZGVleFg4ZzZFR0VsN05PQkhrTFBWbXBPRWRnQXFrU3RGWjlCd3ozaDNrVUMyajlUSERIUm1Z?oc=5",
+      "publishedAt": "2026-10-30T06:03:00.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 주주환원, 금산법에 막히나…우선주 매입 확대 논란 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.32,
+        "confidence": 0.64,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "논란"
+        ]
+      }
+    },
+    {
       "id": "31cb30eb27e8f99a",
       "title": "가스안전공사·삼성전자, 반도체 사업장 가스안전 강화 맞손",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aTdSbnBfYTd6QmpsSnU2RkZzSGRKUVZOODEzRFlHM09PTXFuR3M2MHItOXhqeWMtZmY4cDdxS1Vrd3lVX184NjBJV3hxZVFpeGJrUUR6ajdlRUdRcXA1TE1rTEltcWgxTTlZM9IBcEFVX3lxTE12WE1LUnB0WXpvQVAzQVVQSzdrTUF1bkJCUl9fNjFrX2JXUms0UHZSWU5mM2FPTm1fblRNWk45WnJlVzRYSDNhR3RGQ1Z2bVZ1V0pqOG5ldl82NVZlRTd3LVJ4cFRXR0x0NDF6N01JLVQ?oc=5",
       "publishedAt": "2026-10-30T01:18:13.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -236,7 +319,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0pKQmo2bDlNZ1o0ZTd4NVpTSHVzU3FFRzVWQTl0TnJkQnR6OFUzSHdvM2wxU1NudGtMMkdjVWExelk1MkRGelBEYnhEd0NmaGFvMHFLOHJkM3VGczBTU1llSzBTSDlhNzhpYnkwRVBYRV95UmIxMm8tTFFEdzFSd0l4SQ?oc=5",
       "publishedAt": "2026-10-30T00:16:32.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -258,41 +341,12 @@
       }
     },
     {
-      "id": "e78041df4a1130a3",
-      "title": "급락한 삼성전자 사들인 상위 1%…삼성전기·대우건설도 '줍줍'",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOGhkNTg3eEVrLXEzQXVBZTNHdE9Eem50ZUVYcnpIckV6NHJlVUFwNE1DU0RsZ0Q2YThuRkN2Nk5XRjBOX2pPMUczeDgwQkk5dUZwdC1rMzI1Zw?oc=5",
-      "publishedAt": "2026-10-29T23:50:02.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "급락한 삼성전자 사들인 상위 1%…삼성전기·대우건설도 '줍줍' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
       "id": "cc025283234955b0",
       "title": "평택시-삼성전자, 반도체 방류수 미량오염물질 관리 손잡았다",
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lUHNBWEpnY0lIdXZmSEpsM2VjN1dyZUQzNzJhajF4STk5WmZhdmdmQTFIRW9MQ2d4b3Y1TkhMVU9XRUR2S195NmJCMTNnRFlM?oc=5",
       "publishedAt": "2026-10-29T23:49:02.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -314,12 +368,39 @@
       }
     },
     {
+      "id": "6f2d338486cc65fe",
+      "title": "삼성전자, 반도체 호황의 역설…DX는 원가 부담",
+      "source": "MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZXNRaEhkWnoza0xUWDVuQUowMXRsemxnWG00a3NZS0hiX2gwYlNwdmFVMlNuSkNiLWxSa3ZEa0EtLTN2YS1mNEJycmt6NjFrTERaamo0ekdHYkFUbXc0?oc=5",
+      "publishedAt": "2026-10-29T21:01:30.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 반도체 호황의 역설…DX는 원가 부담 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "efb231288821ecaa",
       "title": "반도체로만 106조원 벌어…\"삼성전자 내년 HBM 1위\"",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVWMwU3BPNW9VWU0yUHdPQjlyZnhlc3dlcy1HQ3ltcEh1OGxtaUUtWnJSWUdOTFNKSUhwQWtaRFZvOUNlNUQ5Qy12X19BWW1LLVRuSUkwQVpaQQ?oc=5",
       "publishedAt": "2026-10-29T08:49:51.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -341,12 +422,39 @@
       }
     },
     {
+      "id": "64bebfe46a59e207",
+      "title": "발표하자마자 \"실망스러워\"…역대급 실적에도 삼성전자 주가 하락 [지금이뉴스]",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaU90V2NQSXBCUjlCQm9Va3o0dnJqSEZKaTY2S1JkTmRSZDI0YUZCMmxnVjctZmFjdVJfVjJoYndURlI0c0ZOWURDVE9ucHppTWc1RURnbHBqZmxCWmc?oc=5",
+      "publishedAt": "2026-10-29T08:20:00.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "발표하자마자 \"실망스러워\"…역대급 실적에도 삼성전자 주가 하락 [지금이뉴스] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "fac9c6ed18c32755",
       "title": "삼성전자, 반도체만 3분기 106.5조 남겨…스마트폰은 적자",
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lNXE5Vk5QbVBXWmc1dEZqZ2J6NTMzNmx0Y2stNGtaVVZZaWVjLUg0QnE5TVNucW1yWVRMak90SEhwX2xXWlVlWVNwZERrVWdhQk5BNzBmUHhEbW9maGg4N2ZlSVlmbnpZQUhIOHkwcU9sRFRNTXfSAWZBVV95cUxPNEdIZXlzNjF5R3Z3YlJVZVVHbTdqYzJCSmc3WWxCdFRYT09Sek5mUFVPZ3V3azIzSmVhVUtIOGllZlF0LS16MzQwcGcxeDB2MDVyeVJnbTkxOHh1eGlJRmhWZVU0V2c?oc=5",
       "publishedAt": "2026-10-29T08:07:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -373,7 +481,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qdk1PXzRuOUVPVTM3UUdSM1R1R2M4ZEQ0eEFtWkRIOXFBYndYbVhILTJ3LWZmSFduWlJQOC1kRC1iZmFWTXBHa2huYWI4R0ktLU9nOEkyTEowUQ?oc=5",
       "publishedAt": "2026-10-29T07:40:46.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -395,12 +503,12 @@
       }
     },
     {
-      "id": "14fa48406aeb95dc",
-      "title": "삼성전자, 올해 반도체에 76.8조 투자… “2028년까지 메모리 공급 부족 전망”",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOEJFaGM4bmN4YXhiSVpEYVRnajZERng4SW1hWm5BOFRZTFMzdngtMW9tVjBoN2s5TVI4TVF6WTF4MkROV1FVSVlDUkJaRDB3WXY2Xzh5ZUhxTm03Q2JtR1Utek9ickVHZ2NCVzJaMl9SZjlDdUpPUkNEdk5UTDRaMmx30gGWAUFVX3lxTE5UTjkzWnduRDNXLVVEM29HRnlHT2JiaTlYemhIajlsT2lMSWZFd2NNZnpmaTA3ZDljaFpPZVh4ODZXT2VyTTlqQlRZNERrUGxiNFdYRkhBOGNJZ1FSMGVTbFZ2VkVnaE5WSThZNDlpRFdnT0RjRmRqcGxVV3dRaWxnck8xWG1rS1otUHRyV0lIYThycTh3QQ?oc=5",
-      "publishedAt": "2026-10-29T05:52:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "id": "e715dc074f802ca5",
+      "title": "삼성전자, 반도체로만 영업익 107조 ‘대기록’…반도체 독주 속 완제품 적자 지속",
+      "source": "필드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54OHFVMDlocFFuQnVsVmFzall6a3VPeWU1U0lYU1A3c2ZqWmxzZEUtUlBPS0RMZXZ1bDBYektVclNvbWFTRXVlNk1EZlpUV0MzQlNuVWxZZGxQTDF2Z0Vka21ZZERISHZzaVHSAWxBVV95cUxPTVNEdHhYUERsX0NFS0h1cDJQanNQeHVTTHJpakl5MnFkUjFPdmhJR0Yxbk1hU3FDR21YRl94UE03bFBYNXlDYWpiZ2ZKb0FXRmdXa2dGTFFMLUgwcFJkWTg0VVlYWWkyN2JzSU8?oc=5",
+      "publishedAt": "2026-10-29T06:51:44.000Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -411,34 +519,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자, 올해 반도체에 76.8조 투자… “2028년까지 메모리 공급 부족 전망” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4fff7ed6a8936e34",
-      "title": "\"팔아서 72% 남겼다\"…삼성전자 반도체, 분기 영업익 100조 시대 개막",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNTg2SVFmbDhycXVNYUZyNE9TQTNSc1ZqTVBYaFowdkZmaGM3TGxadHBsMTZtVmw3RDlNbjNhUjJqUjdEUnJvSjQ5NXk5VE9VYjlJR1hpcmtqVDZyWUZletIBeEFVX3lxTE9NZGp5ODg3WkFpdlFJeE9wbVR0ODh2dnQ0UWlYRlR4WmtWY3JEM0hUNE1ycWxTYS1iejE0ZHBCb1N1YXpMOFlmMmt4WnE3cWtqenJ2TF9vbWtjd0xqcjY4a1lSSFVKNUFpdTNMSjJJVlloMjE1bXMwMw?oc=5",
-      "publishedAt": "2026-10-29T04:52:41.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "\"팔아서 72% 남겼다\"…삼성전자 반도체, 분기 영업익 100조 시대 개막 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자, 반도체로만 영업익 107조 ‘대기록’…반도체 독주 속 완제품 적자 지속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -454,7 +535,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yeFpQdE96c2hjOUJPQmstUldSMGVreHlmMHhiMnNPRGhPSS1KbmpnbDl4VmljbnkxODdocnBvSEtQcmNRTU0xSjFVb25XVk14X3RBdThENkVRTThkS0w0MmdWVFVhTTQ?oc=5",
       "publishedAt": "2026-10-29T04:52:00.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
+      "collectedAt": "2026-11-02T01:58:49.878Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -466,89 +547,6 @@
         }
       ],
       "summary": "삼성전자 3분기 반도체 영업이익만 106조…\"내년엔 더 번다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "435a715e741a33d9",
-      "title": "삼성전자, 반도체만 106.5조 벌었다고? 세계 테크기업 사상 단일 분기 최초 영업이익 100조 돌파 🚀",
-      "source": "뉴닉",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdkhaYVJ4R0h2bVRRNUtlNnBxa3NGNzB0SWxyelk4blJ1clk5aUdTZEpCUHhBUUs3TjlxbUVDNWdsbFp1NXctZTR3TFJYRkVvdXhr?oc=5",
-      "publishedAt": "2026-10-29T03:51:16.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 반도체만 106.5조 벌었다고? 세계 테크기업 사상 단일 분기 최초 영업이익 100조 돌파 🚀 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "400f9bda47507e84",
-      "title": "삼성전자 \"올해 최대 75조원 추가 주주환원…총 110조원\"(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJTDJMekRRZnN6ZFQ1eC1TS3VZMkFMNHlEWmpzVV9qNHpsdU9kV0ROMVJXakpaTTFneWFmZjM3dkktcWFLUDZFU2puNjhzYmRTRVJKYk14UGxKVWfSAWBBVV95cUxOU3M0U3BwaEJGR0YtaGdaNlJHbDZHRjYyTTQxdWlCdHhCZmdVeWU4ZWVKanp4b2xVaTJ4ZmVmZUtfVzlRd0Rxa3J1ZEJtTDR1SkFGNURra2VJdEJ6UlNCa18?oc=5",
-      "publishedAt": "2026-10-29T02:52:11.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 \"올해 최대 75조원 추가 주주환원…총 110조원\"(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1da2763655aba645",
-      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\"",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mX19Qa0V3aWRWajl1eFNTVXd3VHhJWlJLbjRzQWtqb2hfTkF6Mk9vdVdOc05fcXJ3LXJYcTRma2x5TDFsUV9sT1RxcnlNTVhnOE1EbXBtSmlCWkh5MnNDT2FrMTJUQQ?oc=5",
-      "publishedAt": "2026-10-29T02:00:50.000Z",
-      "collectedAt": "2026-11-01T16:57:36.286Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
