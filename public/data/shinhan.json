@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:47:01.723Z",
+  "generatedAt": "2026-11-03T14:46:11.664Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "4대 금융지주 '20조 순익' 눈앞··· KB는 '순익', 신한은 '성장률'서 두각",
-    "신한금융지주, 롯데손보 인수의 숨은 가치…신한EZ손보 적자 해소",
-    "이자마진은 하락했지만 대손비용 안정…신한금융지주 실적 방어력 주목"
+    "은행 밖에서 갈린 실적…4대 금융 비은행 계열사 성적표 보니",
+    "신한금융지주, 롯데손보 인수의 숨은 가치…신한EZ손보 적자 해소"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "그린포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xWEdfSVlwQ29BcVc5eHZWRHktTFVFTDFqOURyZjBQa2pGUzRMZmtSRW14ZWQ3aHVGSXhaM1hXdkNYZldzcXlZRmtodWRyTTlMY2E4UWUzS0w5Xy1wbjNPekNWSzczOEVjLUFtbEFGR01tbHEtWXfSAXpBVV95cUxQNWphU25ROWltdE4zWFVlWVEyd0I1d3YzZmVhOG4zMF9lZkVjWU5TM2x3WjE3MXdydnFQSzJfdGFLZTkxSkZaalh5TlpPTV9FVWEzRS1RdTFBM2lBaGFiWXdXVnQ3Z09BZDRPZHI3d0NYR19Lcm1wbTh1Zw?oc=5",
       "publishedAt": "2026-11-02T09:14:55.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "eab71e8e533f61a3",
+      "title": "은행 밖에서 갈린 실적…4대 금융 비은행 계열사 성적표 보니",
+      "source": "오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWEwwTUhBWTlBc3ZFREd0a3V0eU56dHphczVaOWI2bjh1QTJuV2ZZbEtWSnNFRWliTjlmLWhDMjZiOGpDOXJsQW5DbDJvU1NZRGpTODNfQm5nTFQ1LXI4TkZBU2llZHQtTjJDUmdVc0Y?oc=5",
+      "publishedAt": "2026-11-02T07:05:58.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "은행 밖에서 갈린 실적…4대 금융 비은행 계열사 성적표 보니 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c4facf038f097d5a",
       "title": "신한금융지주, 롯데손보 인수의 숨은 가치…신한EZ손보 적자 해소",
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qTUFfQ19pTkl3V2NvX3JFOWVJdEk5YVAzdjI4ZHNjSG5wUzVzaGthMzNaRDlDa0xFcW51b20zOVBCbkRwYUU2S0NGN2pvMkJ2eWhJZXlUT1J0cDRtX1NKOGl6WG1MQQ?oc=5",
       "publishedAt": "2026-11-02T01:52:58.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -69,12 +96,39 @@
       }
     },
     {
+      "id": "03bd633ba0acf721",
+      "title": "[뉴스락 특별기획｜금융권 연말 인사 진단 ④ 신한금융그룹] 5조 실적에도 가시방석… 진옥동 2기, CEO 12명 옥석 가리기",
+      "source": "뉴스락",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWUlxTzE3TXRzWlJyVHlBNDBfcU54SS05YVpqYnJLLXgzSEJXcDNpamg3TF9TMHAtd2ozUUxKVlo2cnVCd3E0SkRMaGlYZ0RNNVFTZVM5WFJJV0w0ajhZeUN4REFZYURXNGx6cg?oc=5",
+      "publishedAt": "2026-11-02T00:55:53.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[뉴스락 특별기획｜금융권 연말 인사 진단 ④ 신한금융그룹] 5조 실적에도 가시방석… 진옥동 2기, CEO 12명 옥석 가리기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7d3b5e80cbaa9eec",
       "title": "이자마진은 하락했지만 대손비용 안정…신한금융지주 실적 방어력 주목",
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdXN2Q1Z2Tnhlek51QmRvaFlkbE1nOGVkTTVPTmZ5MUNycl9NQjFrdGU1N1FXLTFxbFV6VjlKRWp0RXdJUmR0TjcyYjFYUU1kZ21wS2N3VU96S2Fwa2VoMFdwRVl1WEpKN3VBRWFjNU5LNEHSAXdBVV95cUxPVnhJWW43UTZGSWhRVGppdXR6YjFYWlkyelQyMlBqYm5TZy1nNFgtcTBFMGxTZWh6LUY4b3lnLWhkM1pmSnotMTBWU1d0aXNWak12RVkxbTg4cXA2VlYxYXFKdEh5c1J3TVZtZEQzQjdXeWpUUk1wOA?oc=5",
       "publishedAt": "2026-10-31T23:33:19.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -96,12 +150,12 @@
       }
     },
     {
-      "id": "4906d35555a9b0c0",
-      "title": "역대급 실적 거둔 정상혁 신한은행장 거취 주목…연임 가를 변수는",
-      "source": "이코노미톡뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIWFhXemZQY3ROOG1sRUROSm9NTjNveVJwV0lRLTdiZVhMNkZKUGtOR254Mi1landQQW1HMTB0ZWF5alNaOU1kak9sei1SeTZqbmYwdFlkdHlnVElDNVFfNGhteS1sM1owUm5DRw?oc=5",
-      "publishedAt": "2026-10-31T03:02:31.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "6a82f5373c2fa056",
+      "title": "[초점] 사옥 판 돈으로 실적 메운 신한투자증권, 직원에겐 무엇이 돌아갔나",
+      "source": "알티케이뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11OV9rT0xzOWhnRG9RbGh6amZHRFNJNFpaMm9DQVhPTTRVSnVIdUNvRThEem9tT0wyX1BXdFZMXzJCLXpxc0xhMTV4MUNMMHI0VGJZRWJ0aWFaSGNNRndobDRzVHVZRDg4MWNmZ1Jn?oc=5",
+      "publishedAt": "2026-10-30T08:43:38.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -112,8 +166,118 @@
           "ticker": "055550"
         }
       ],
-      "summary": "역대급 실적 거둔 정상혁 신한은행장 거취 주목…연임 가를 변수는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[초점] 사옥 판 돈으로 실적 메운 신한투자증권, 직원에겐 무엇이 돌아갔나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f0c1f635d589cfa1",
+      "title": "‘17兆 순익’ 쌓은 4대 금융지주...비은행 경쟁력 ‘격차’",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oYll4Y2RJR3pBZ1dUZGxBREItMndBbmdscDZ5aWFUZzU4R3VMb1BnRDYzUWxSR29Kend0TGxQd3EwRzV4LW1oNGRjUnF5NXMyb2VyU3dxMWFFN00?oc=5",
+      "publishedAt": "2026-10-30T07:42:32.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "‘17兆 순익’ 쌓은 4대 금융지주...비은행 경쟁력 ‘격차’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "326cf5b029fdae4f",
+      "title": "[라이벌戰] 은행 누적 신한·증권 KB 우위…금융지주 순익 격차 7647억원",
+      "source": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45SXVGb3BLaU5hZG9MOUN3MzJYOWw0Z3puMnJacjhySWFwQjVWaFRkQ1pWU29LU2dsU3BlNlJPSDR6QnZMbnRNNzJDbHRfR2N1bmR0RVk5OXlMZmJlLUNMSzZMQVNIc01vbk50aFVXRQ?oc=5",
+      "publishedAt": "2026-10-29T10:05:12.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "[라이벌戰] 은행 누적 신한·증권 KB 우위…금융지주 순익 격차 7647억원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b80bfd0ebcc9f24c",
+      "title": "증권사 주춤해도 '역대 최대'...4대 금융 연간 순익 20조원 돌파할 듯 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbVJUTENYeEVFaW5pZFh5ZXpXUzI1aHZtc190WjI0akFzcXJEb2diczFoQlcwa0k1aUNId2VaT3JlLXZVVjA4R1NUeDd6aFRoUk1PUVV3R1dwTTFiX1NMeDhUNkVjVXdIT2ZqY19BMGtxTHlnWGZ5NGc3UmdRQdIBfkFVX3lxTFBXbVJUTENYeEVFaW5pZFh5ZXpXUzI1aHZtc190WjI0akFzcXJEb2diczFoQlcwa0k1aUNId2VaT3JlLXZVVjA4R1NUeDd6aFRoUk1PUVV3R1dwTTFiX1NMeDhUNkVjVXdIT2ZqY19BMGtxTHlnWGZ5NGc3UmdRQQ?oc=5",
+      "publishedAt": "2026-10-29T07:42:26.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "증권사 주춤해도 '역대 최대'...4대 금융 연간 순익 20조원 돌파할 듯 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4fdd0006761d004a",
+      "title": "신한금융지주회사, 자회사 대표이사 후보 심의 진행",
+      "source": "디지털비즈온",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzUnZUQjdnblVnckZGVVQwSnJhNFhfOE9vTDRyQkZkWHhqTU8tUll1MldDN1p5dmlhcV84c3htcEpnQnk0RmhMd0VNenAyd2xOMzF2T0dtRFhUb2RNMkVROVdmMkt3YWhzMUJVVkFKbnrSAXRBVV95cUxPMUF1VnluVnQxNzVNTTlwNGZvbkllRU1vNWZOa2s1TThPUk5Jd0o1X0ZWRzc5bkRHN2NEYklHQmVJRHR2a29WdkhGMkxUaURrTi1BZmVsUnNfOVJUazRaVHZ0LVJkTGlQYW14eTZEMFdfOHRTUQ?oc=5",
+      "publishedAt": "2026-10-29T07:35:57.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "신한금융지주회사, 자회사 대표이사 후보 심의 진행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -128,7 +292,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11c0VtSEotR3BscHhReXFOc2RlelkyaFg1WlJ2Zzk3bUVfRUNnX2FXWjYxd1BFNDBlV1BIaktuMHh4OUw3a1VEUlVudGluTFYxcjh6TG9majZvTHdSZ1NWQXo3LWpISFczNmRrSUdfSWrSAXRBVV95cUxORDZOd3c5azI4d0hjTWt6cTlUU2hDeU5XNGx5elBBSmxxNGI5NFRGdjl1YmRENnNvY0ZaMk82U1RvTmthYVVjaklYQUE1TjIwbkFoUnd1MjlxSDg0cWFhQmNWWUFEYWxERHd2bkNWVVVwYlFKZg?oc=5",
       "publishedAt": "2026-10-28T23:36:24.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -150,12 +314,39 @@
       }
     },
     {
+      "id": "5f8eb6178f1ce9ac",
+      "title": "신한금융 ‘5조 클럽’ 견인한 신한은행…정상혁號 실적 성장세 지속",
+      "source": "마켓뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CZDBlclNHOGpWbzNyS3JpeEJLLWJscDFHQnhxRjBvc05MbWpudHJlM05zNTByUy1YanktWnVRaWlIaTdvdUFmMzUxMWphWWJMYXBuNVZGZ3cxX2NxYTRUN09KTW51VVlDemN4UjZ3?oc=5",
+      "publishedAt": "2026-10-28T14:54:56.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "신한금융 ‘5조 클럽’ 견인한 신한은행…정상혁號 실적 성장세 지속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0768ee9057b1c68b",
       "title": "신한금융, 신한·제주은행장 1차 후보군 압축… 임추위 역할 강화",
       "source": "한국보험신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EbWR0M21wS2dubTMxQVBRb2pjejV5YlJTSG0zY282R0FMREFVazFiSGowU0JwVVNPeDFfdllBczEzd0RUU3J4V25XVjFwa3hKZWVGVG9kbXhBYTdaaFo3VmJVcndXWWY0dThF0gFvQVVfeXFMTklEdU1qLTJuRTBGM3hPSFFFSExPQ2J0clk0ZEZadGluazl3bHd6b2UxMFVuTVY0dFFsY1VIcVhTemlMN0hxLW1WTFo3U3paNm5oaFZDcGJJTVJObklncjMyNy1TVWJ4TWhxdVNTQUww?oc=5",
       "publishedAt": "2026-10-28T08:40:40.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -177,12 +368,39 @@
       }
     },
     {
+      "id": "a78347c8075c9a17",
+      "title": "신한금융, 차기 신한·제주은행장 1차 후보 압축",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oZHJwWVplUFJOd2NnYmpqbnFwVEpRM3FQZ1RHLXBkTzYzWmhOd0NQcURGRzBKNVZGcGVVaEJhcldpRVBtX09WdFZiTzBXYXpSR2pjMGlzM1ZEcWhGUC1MVkFxSUhMWnd6?oc=5",
+      "publishedAt": "2026-10-28T08:35:24.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "shinhan",
+      "stock": "신한금융",
+      "ticker": "055550",
+      "relatedStocks": [
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "신한금융, 차기 신한·제주은행장 1차 후보 압축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8ebe746e4dd969a2",
       "title": "신한금융지주 신한은행장 제주은행장 후보군 압축, 12월 초 최종후보 추천",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmVmN5YXRrR2NNdjNQQ293WUZQWkpXTEVRUDF4MUZsXzJyQXFqN1psU0p0eDhLMFFzTmNINlZlM3ZiRXZLYkFEemtMZmF3bnBTS2N6VXg0UzE1dk02XzRsWmpfT2U5RE5CT3EtZTVqUG01YXc?oc=5",
       "publishedAt": "2026-10-28T07:59:24.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -209,7 +427,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zNnZOUUNtRmN6c3pfWXp2b0Q1Y2N2OE43dTg4LWVSa19ycWpCRjZXSHpfb2gzTnR1SG9yeG1BNUNIXzcxc0xlYjRaV3d6WGo1?oc=5",
       "publishedAt": "2026-10-28T07:28:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -236,7 +454,7 @@
       "source": "위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZRlNJRjNfb3ZzRlpMMnlZaGVod2VUcV9OMUxiRnF5aUNZUVduT0Vzem1TdW40UHRBZE04MlJCTmJ4X09hYjlLYU4zY0RNOVN0dkxCdDF3?oc=5",
       "publishedAt": "2026-10-28T05:52:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -260,12 +478,12 @@
       }
     },
     {
-      "id": "3b4effe2c37696da",
-      "title": "신한금융 최대 실적의 그늘…사옥팔아 채운 수익 비은행이 깎았다 By EBN",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUU9aVTlPSmQ2LWota0dBbno0T0ZjQ0hiRGZReHRlRTQyeW5PbDB1VThHSXZzejRpSjV0Yk5McEdQbHlReGZXaFZETGlSSnVjMUV6eXpVbkVTa3JfSFRCVEVCQWRpNmItRFRrMmxIemE?oc=5",
-      "publishedAt": "2026-10-28T01:32:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "1cdc4c576ea5462b",
+      "title": "신한지주, 역대급 실적에도 비이자이익 부진에 목표가 '하향' [주가동향]",
+      "source": "조세일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0LTAyNFJINGc3alc0ZEpLQ293dDZieV9TQTdEZTQ4dmpaOS1QeXozRXlNeWxtRWQ2ZHhOYVF5N1Bfd0NQZE1pXzQ3djNrSEwwbnJ4ZXBEdV83dGtZXy0ybGJsOS1ZLXR1VlNhWF9Gcw?oc=5",
+      "publishedAt": "2026-10-28T04:54:44.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -276,135 +494,25 @@
           "ticker": "055550"
         }
       ],
-      "summary": "신한금융 최대 실적의 그늘…사옥팔아 채운 수익 비은행이 깎았다 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "신한지주, 역대급 실적에도 비이자이익 부진에 목표가 '하향' [주가동향] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
         "positiveTerms": [],
-        "negativeTerms": []
+        "negativeTerms": [
+          "실적 부진"
+        ]
       }
     },
     {
-      "id": "f558c4255485f1e0",
-      "title": "신한금융, 차기 은행장 인선 본격화…신한·제주은행 후보군 1차 압축",
-      "source": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVFXVWVzM1JZSUZ1QXZ3U1dYak1sX1lhSmJyckNlVUxHa3VhSXdMVmtzSXhoWHdibGVla1JiMXRUS1RoV2llQXJoMExfemdCOHRjbWxuRk1OOThIZ1ZidUQtS2h0LW12aktYRTVTejhpY05PN3ZQTHlid0h0bUdULVU4MA?oc=5",
-      "publishedAt": "2026-10-28T00:53:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 차기 은행장 인선 본격화…신한·제주은행 후보군 1차 압축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1b48a4d67cbf1a13",
-      "title": "[모닝 리포트] \"신한금융, 3분기 실적 기대 이하...가격 매력은 상승\"",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aWktsQjNBb0dNT1QtTDROd2xEYmJsVVlCb2RGNjRtS1VYQW1VT1J5bVp1cl81RmlLalByR1JLUUpyR1UzbUNQakxpOTJfOXAtQVBRdTVEdFVmM0F5?oc=5",
-      "publishedAt": "2026-10-27T23:10:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "[모닝 리포트] \"신한금융, 3분기 실적 기대 이하...가격 매력은 상승\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cb1c072979ef7aaf",
-      "title": "신한금융, 9개월 만에 작년 한 해 몫 다 벌었다…사상 첫 '순익 5조' 돌파",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UaFNlMFZQb0hvWmxPcW5vT2pyYVBBZ3ctY1RFd1pXTkJLOHdHbWFvUzVTX3RfMTRGVllScHM1aU9FdUxJRmRZcG9XVDJaTFc3SHFQcFMwa3hQcHlQYWZ3Z3ZYOEdXT0tI?oc=5",
-      "publishedAt": "2026-10-27T11:10:44.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 9개월 만에 작년 한 해 몫 다 벌었다…사상 첫 '순익 5조' 돌파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f5b1daa8670d7fe7",
-      "title": "신한금융, 사상 최대 실적 경신…3분기만에 5조클럽 진입(종합)",
-      "source": "이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktEREc1dEoyWERkM2Nic0xRblpXTldqYXZYTTdtbEE3S3dRd1g2M0Y2VktCaDlFcnZXSThxMUZOeEpobzY0UG1TUnVsR0tpYzBPM1gxZ1JkaWZtTzBuS2VidklCNmtSWnVxd1dhSXp3TDVmV0N3VWtxVmJVaWNrQg?oc=5",
-      "publishedAt": "2026-10-27T08:03:53.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 사상 최대 실적 경신…3분기만에 5조클럽 진입(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f13f1ad857fa53be",
-      "title": "신한금융 3분기 누적 순익 5조원 돌파…역대 최대",
+      "id": "bc1d88a844374938",
+      "title": "신한금융, 신한은행장·제주은행장 후보 2∼3배수 압축",
       "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kcWJDRWpYODdkV2NzbTBoUkctbUtUTG5ZeWI1eWkzYmY4Qm1jdUVFOVNPYS1LOGUyRVRYWWFqZWM2N0NqT0MyQnNMa21CZ1ktM29fTW16RVNjMFNtcnhKcmpRellnV00?oc=5",
-      "publishedAt": "2026-10-27T06:54:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndibkNKVDYyd18xX0xCYkFHNHVIUFRXa2NZeGxnRnNBLXRZZmMtWXlhY3NhMTVFS3FLN3JVb2xrMXZUWjRZSG4tLWVZem4xeVdWSFN4YklJWjloS3lJZGZrbDc1NnM?oc=5",
+      "publishedAt": "2026-10-28T04:37:00.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -415,25 +523,23 @@
           "ticker": "055550"
         }
       ],
-      "summary": "신한금융 3분기 누적 순익 5조원 돌파…역대 최대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "신한금융, 신한은행장·제주은행장 후보 2∼3배수 압축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
     {
-      "id": "675d62a8f0582bbb",
-      "title": "신한금융, 누적 순익 '5조 돌파'·주가도 '상승'..우리금융 주가는 '뚝'",
-      "source": "초이스경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIOVRTWFhrZlB4VGpKb21najN1Y29ia3Jjcm1hZFVWZWR1UjJ6VUs2b1pBa0gzS1lNUVFIRm5qWlRtUEg1a1QxNVpmMkFWcTkyWGZZVzZoQldQcGhFYzVUWFlQOVpTRTY5bTJUcFRXZ9IBc0FVX3lxTE5FVnYzZVdjNEg1TzhFUEQyTDh3QzBMdUNvYk1Tc0pUa0xCa1JaaFBpTjFyNDZXTVpDU0pfV29VVTlWSEVyRmk0b2JSUnZMaXdqcFhZVXRzUlhTSVlNY0VGNnhhTGVvODNpX2FHMDVwdk9EcUk?oc=5",
-      "publishedAt": "2026-10-27T06:47:37.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "7558b58b1037d463",
+      "title": "신한은 벌써 작년 순익 넘었다…4대 금융 ‘17조 잭팟’ 눈앞",
+      "source": "스마트투데이",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0YUpRTUhIWVdvZWdoVE56Ym1LbXVUTTVncjJsaVhodk52Y0RJLUZYaVZDSkZiVmNiYUF0WWl2SVVnVmdleFpYUTJ4dVBNcEw1cFdFc3RRU0w0aHJqRkxJ?oc=5",
+      "publishedAt": "2026-10-28T02:01:00.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "shinhan",
       "stock": "신한금융",
       "ticker": "055550",
@@ -444,131 +550,13 @@
           "ticker": "055550"
         }
       ],
-      "summary": "신한금융, 누적 순익 '5조 돌파'·주가도 '상승'..우리금융 주가는 '뚝' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3f7ab877ca1d12bf",
-      "title": "신한금융, 3분기 누적 순익 5조274억원… 역대 최대 실적",
-      "source": "한국보험신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oNzVYT3VtNVowcDFRcEs2SlFRdWctUS1fSWNYc0lJTTJEdnpJYW5WSklRVHRNSU53anBhc1VGOTQ4dVl1YndpMWdFWEhjTnhGb0J3QmtSU1ljOUVxUmx3cW1udTlvUVBZQ3k40gFvQVVfeXFMTlJ3Y0I4SVZCelViWTcwSjNTYWFZYkhyeEJRNEdiQ1RIWncxNGkycThDM2pLN0lfN0hZcTg1VmhsSzltdDE2ZmZNU1ZuSjVFX04wZ2Y1SV8tdnY3aDhWTWRiV0Y0OXBxRU1PTXRkN1pn?oc=5",
-      "publishedAt": "2026-10-27T06:16:19.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 3분기 누적 순익 5조274억원… 역대 최대 실적 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2bdca8b9ce553cc8",
-      "title": "신한지주, 누적 순익 5조원 돌파…3분기는 1.5조 그쳐",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PSlFQVVczM19zQzhuRGFuR1ZoSTFiY0pFdV9OMGFYLVp1eks2NkRkRkVFQmFEZHRUcGZRZHdJZVV4OUU1TTVCdUllS2VBcDVhUzNhSmxrZmdfRkk5TFA1Wk1kUHM1VGFnOXI0?oc=5",
-      "publishedAt": "2026-10-27T05:24:03.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한지주, 누적 순익 5조원 돌파…3분기는 1.5조 그쳐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "신한은 벌써 작년 순익 넘었다…4대 금융 ‘17조 잭팟’ 눈앞 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2d4af151a924afab",
-      "title": "[기업실적]신한금융, 3분기 누적 5조원 첫 돌파…이자이익 견인",
-      "source": "NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ILThmT0xteTFoRW5CUjE2aGs4TlVOVVJzdlYtcTVGWXJhMnZWbmw0eEowb3BFeXo1WFVwSS1LYWhoblJtXzhJT3JaaU5qaW1nY2kzUFpKVl8wdmJlX2FHdw?oc=5",
-      "publishedAt": "2026-10-27T05:22:34.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "[기업실적]신한금융, 3분기 누적 5조원 첫 돌파…이자이익 견인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "303332adf9e36467",
-      "title": "신한금융, 3분기 누적 순익 5조 돌파… 작년 연간 실적 넘어",
-      "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TckxGR1BUVnZlRElnYWxwWWg5ZEJHUHJURG5rMERHWnAtM1Q3al9YY3R4bXJ6NXV1TkdlZ1JyRTZSSm5kX0hXZ3BKdmlLd3ZnY1o1NjROcU9mOTFHVllSbnZjNkJfcTlDdlo2NFhiQzbSAXRBVV95cUxPdzdDeFJPWXNVT2Z3NjNJT2FKOXlqbkd0OWdkNk91Vk1XTDZJcHBTZ3pTMWtFdHA0R0xDVklPRFBrdnhNTEhQRmI3ZkxOMTRFUk10SzNpaTVvTlVCNy1zMGtQaktURWFDc0pTX2FVYS1Bam1DVQ?oc=5",
-      "publishedAt": "2026-10-27T05:00:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "shinhan",
-      "stock": "신한금융",
-      "ticker": "055550",
-      "relatedStocks": [
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "신한금융, 3분기 누적 순익 5조 돌파… 작년 연간 실적 넘어 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     }

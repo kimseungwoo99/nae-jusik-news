@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:47:01.723Z",
+  "generatedAt": "2026-11-03T14:46:11.664Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,107 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기술 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "네이버, ‘AI탭’ ISO 42001 인증 획득",
-    "네이버 ‘AI탭’, 개발·서비스 안전관리 국제인증",
-    "네이버 'AI 탭', AI 경영시스템 국제표준 인증 획득"
+    "주가 30% 급등한 한진칼에 무슨 일이? 불붙은 지분 경쟁",
+    "애플, 9월 분기 사상 최대 매출에도 시간 외 주가 하락…중화권·가이던스가 발목",
+    "네이버 ‘AI탭’, 검색형 에이전틱 AI로 국내 첫 국제표준 인증"
   ],
   "articles": [
+    {
+      "id": "8bba9819dc51e34e",
+      "title": "주가 30% 급등한 한진칼에 무슨 일이? 불붙은 지분 경쟁",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV3RvNDVwVU80RkJhY29oQnNrdW1lME1qRE5XcDUwN1ZiSllQQ3BtOUhxSTkzaTZWUE16bzhtUE0yT0xmWDhyRll5cDVzYTFUei1ZRG9OaFk?oc=5",
+      "publishedAt": "2026-11-03T08:29:19.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "주가 30% 급등한 한진칼에 무슨 일이? 불붙은 지분 경쟁 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1b53fbb6a68bf6b5",
+      "title": "애플, 9월 분기 사상 최대 매출에도 시간 외 주가 하락…중화권·가이던스가 발목",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDNsUFdXTU50dTZTYTduZ2tCc3RNOXZHZWVKUTcycUZoYVRSUnVvVWdONjMzX2xQQjVnUzB1Y0FmX1BydzNVd0d5U3BnQWtYNE9pRDJTUm9KWHQwR1d4cjBCVmZfd2haako4c1ZqOE9HYUJtMTYwb3AyaVN1N2pYRW9ETkM0d1po?oc=5",
+      "publishedAt": "2026-11-03T07:40:00.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "애플, 9월 분기 사상 최대 매출에도 시간 외 주가 하락…중화권·가이던스가 발목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.05,
+        "confidence": 0.86,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": [
+          "매출 감소"
+        ]
+      }
+    },
+    {
+      "id": "8de917d09f6dddf2",
+      "title": "네이버 ‘AI탭’, 검색형 에이전틱 AI로 국내 첫 국제표준 인증",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haDNDaVhIeDdCRGo2Yll5cUt6TGJZeDdESnl1YUVCeW1qWUpocjVMRUNlaTRPY2U0dXg0MldvaVI3R21tSXRma1JOTnlpWUNrU3RmVkdLZGJOTzJuMlFNcExHYw?oc=5",
+      "publishedAt": "2026-11-03T06:02:26.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버 ‘AI탭’, 검색형 에이전틱 AI로 국내 첫 국제표준 인증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "b3d8f6ed303e3e81",
       "title": "네이버, ‘AI탭’ ISO 42001 인증 획득",
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN2thOE1LTWlsbTl1QlIyeGgxX3lHTXA2RUtrckFPRmloQV91UGpybURQckNoSmExMGo1Q3pIekRnbkMxUmdNYVcwWDNUQXpKOGkyc20zYmdYM0hlS1pCRmVOVlRjTmM1NHYyUFZ3OUXSAXRBVV95cUxObnBpcVBFV0hYS0Jqb2V1ZnpQU1NXc2Jka0xxU1RoTmR6eWtFVG15RVltdVZiRHpmVjROWWpBV2NnS1dPRlhqLVNLMzRYQlNlWU9RU2FtRkRBUHBtUFEtTmRzTGo1U3E3ZUpwRlliWC1DdmQ5Ng?oc=5",
       "publishedAt": "2026-11-03T02:44:02.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -47,7 +134,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03NFdyV1VRVkNYc1EtYy1ic01KVXNpczVweUhrS3hZQkd2LUZKbzlQMDRBSHRBWm1Jb29rd2U2b29NWEM2VGhwVXB5d1FURGYw?oc=5",
       "publishedAt": "2026-11-03T02:07:35.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +161,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUUl9NUGZSaEZBejlfQnNxbC03cUlrR01nM2ZVYVJ4RHY4WDdMWm5WSnB4TjZfV0dRU0RrcWhBdjU3UDJ0Q3E1cDZnRGxSeG5zNXZiUFNhSmtvajd3?oc=5",
       "publishedAt": "2026-11-03T01:58:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -96,12 +183,42 @@
       }
     },
     {
+      "id": "4c7ef7e897af6fcf",
+      "title": "미 중간선거 우려 속 AI 주가 급락과 증시 향방",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSWFzRHJkOWsxTlI5RWZ3cWNFZkdzbGJHOHRETnYxNlRBMVgzUlFnb2tkNjRocUo0a0dnSHdjdTJZdlZNbldMMFBndG9ock0yMVdrZXZFY29fdw?oc=5",
+      "publishedAt": "2026-11-03T01:23:34.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "미 중간선거 우려 속 AI 주가 급락과 증시 향방 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.85,
+        "confidence": 0.91,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락",
+          "우려"
+        ]
+      }
+    },
+    {
       "id": "8a14e3312e32055b",
       "title": "검색 넘어 예약·구매 돕는 네이버 'AI탭', AI 경영시스템 국제인증",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45UkNwcFBLS1JkbnBWZy1QR1JTRDVrT1I4cVJMYnJjci1hY0QwdUdtRzRjX0t0MjN5a2RualV0Qks5ajUyRWFsYlR0a0VRdlRqakpxa0cwLS1oZ3NydVA4NWNKempxMkNTb3lMY2JGT1J0bzNBZzVVOdIBeEFVX3lxTE45UkNwcFBLS1JkbnBWZy1QR1JTRDVrT1I4cVJMYnJjci1hY0QwdUdtRzRjX0t0MjN5a2RualV0Qks5ajUyRWFsYlR0a0VRdlRqakpxa0cwLS1oZ3NydVA4NWNKempxMkNTb3lMY2JGT1J0bzNBZzVVOQ?oc=5",
       "publishedAt": "2026-11-03T00:37:20.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -123,12 +240,12 @@
       }
     },
     {
-      "id": "04ee9a2a4ac7150e",
-      "title": "미·이란 협상 기대감에 시장 출렁...유가 7%대 급락",
-      "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncHdTa2xGWFJobXY2R0stUnU4NUx3cDZ1aWZabm9SMENHQWE0MlE4dlJQa1cwaFhMSE5pSV9XY3diNDNGcEkyQXdhTVo3NVVXSmFpWUEzaUE?oc=5",
-      "publishedAt": "2026-11-03T00:00:04.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "13fb7efb3b8c860e",
+      "title": "네이버 'AI 탭' 국제표준 인증…에이전틱 AI 신뢰성 확보",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zS04xQW4zdTB3eS1aaEhPNncybDQyV3dWNkg1MDR3c0c2UFI2ekk3V2s1X3g2b2lQRm1jQXFnb0ZldWg1RG9rNGxvQldPTzQwVXExZXdNcEh6dw?oc=5",
+      "publishedAt": "2026-11-03T00:16:34.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -139,39 +256,8 @@
           "ticker": "035420"
         }
       ],
-      "summary": "미·이란 협상 기대감에 시장 출렁...유가 7%대 급락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.28,
-        "confidence": 0.89,
-        "positiveTerms": [
-          "기대감"
-        ],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
-      "id": "23509eb30837c6df",
-      "title": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로?",
-      "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxOGJfczJPTUtvNFNLZWRkLWItcXNJZ1ZwR2h0Tk9BOXdaVzVwcGRtVjdVazN5SGU4RUdhVm1VczNlNFB3QzRjOXR2SHlXVDZWQ0E?oc=5",
-      "publishedAt": "2026-11-02T23:43:11.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "네이버 'AI 탭' 국제표준 인증…에이전틱 AI 신뢰성 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -186,7 +272,7 @@
       "source": "블로그",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IN01HYTV3OEQ3UlEycmdib3o3VEhzTGl4dGJ0U2hBV2QteFRHcnNlT0tjWjh1UDZ6SE51U0sycmxGTVBYc3YzZU43VE5PRGVIblBlVllpOThwX3d1ZTFhT2FtUzROdkdHaWpwRDlNaDhnR0V4V05rUEl0Q2VaQQ?oc=5",
       "publishedAt": "2026-11-02T09:37:41.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -213,7 +299,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0RVhJNWcyeEFaamtTYTdrM205SW9KaDNxbDhMcjV0bU9RTWZiVUNYVXpnNTdvcW91cDJkWHJhdUFUZWg4X29HMEd1WFU5S1ZTNG9pdUhvd2Q?oc=5",
       "publishedAt": "2026-11-02T08:33:22.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -235,39 +321,12 @@
       }
     },
     {
-      "id": "7e5ada3c8fe69e2f",
-      "title": "팔란티어 11월 2일 실적발표 : 최고가 넘어설까? 향후 주가 전망",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3daN244YnBkZkxfVWh6bDlrWWJLLTM0YXQ0bzFxNlFMMHhPaHBXT3hzcWNtb1hjMUQzSXo0VWNkOVVfOUVKSGJlZVNCdndQSW9fLUpCYk9aM2wtTEN6ZkV1UTZUa096eHc1ZWtKWTFTcU5BWXdfeW5kd251MDB0b1BHWQ?oc=5",
-      "publishedAt": "2026-11-02T07:16:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "팔란티어 11월 2일 실적발표 : 최고가 넘어설까? 향후 주가 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5cd559cb29e12690",
       "title": "한국보다 잘나가는 대만 증시에 투자하려면? AI 대표 기업 4곳 총정리",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5saWplLXNOVThfaTBSMmp0ZkY0NTNkbzdQNllpeTVZYXZXamRaM0h0S0QyQlVoVTlkbGxfZGxoMjZmb3FWTzgtZW8zLXh6VkxQSUJBdW41cEc?oc=5",
       "publishedAt": "2026-11-02T00:24:50.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -289,39 +348,12 @@
       }
     },
     {
-      "id": "bfe390724ef73050",
-      "title": "한신평 \"네이버 AI 팩토리 사업 위험 제한적…재무부담 완화 전망\" : 네이버 블로그",
-      "source": "블로그",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KbXBOcVExczBzYVptNGRaOTZpSTZRblRCZzNEN25BNWJRQUg2cTNPN1cyOHEwX2k4bXp6S3ctMzZrcXFmSndCUWdkTHd0V0hkYmtzVWxTWWVfeFQ5VGdXSXFsY0xlLWVRYUdzYm1xMFpPLXJiU1hWczdnMkxmUFE?oc=5",
-      "publishedAt": "2026-11-02T00:13:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "한신평 \"네이버 AI 팩토리 사업 위험 제한적…재무부담 완화 전망\" : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "caaf490138347e4a",
       "title": "K-푸드, 실적은 뜨거운데 주가는 왜 미지근할까?",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSRWxfUkJibENqRDBDcjVqZGg2T0gyY2NWX19TX3BXMURDNnVHdDJXWGVlTU9zUlNmbnhuak5aRXlZTXZsb2RjclBTcmQ0MTRPSllxRHB2MTk?oc=5",
       "publishedAt": "2026-11-02T00:04:44.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -348,7 +380,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDVRWGVxa01tRXFmVUw1LUxYaEI3cEhBbGRIZl9tc0dLb0FWV0habDFQRFo2SW93ZWVXZkgzWmMtdTRDbE9rZmpwd0p4WTdaZnRydFhhRlViQ0VNTHdqZm9SdFAxaTlnMDZIZTF2RndXRklmNC1ObWJFUG1Ib1RxWDhEbUVEWlI5?oc=5",
       "publishedAt": "2026-11-01T06:43:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -375,7 +407,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wWS1UM0pKYUN5R25CN3VkaWk5WVBmSnB3VVcxS0FKNi1GbXMtWHVocm5lREREbU4wMjZ3bFlGSWxBSmUycUtqUDNzWTVVT01NdFE?oc=5",
       "publishedAt": "2026-10-31T07:00:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -397,12 +429,12 @@
       }
     },
     {
-      "id": "d199ec66058b427c",
-      "title": "한신평 \"네이버 AI 팩토리 투자위험 제한적…현금창출력 확대 기대\"",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DdGVGYUt3aDZkV0VBMDJOVHAyWE82eWU2dEZxZTBTSG1oZ0FaZWhKTEJVN2RTRk9vZlJOdldqcDB1TWh4UU9xMlFxaWNRbUd2V3Z6ektQYUlqV2pkS0hYQkQwSmp4LWVUV2E1N3UxOFY?oc=5",
-      "publishedAt": "2026-10-30T04:47:02.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "65ef6c06b9d18be0",
+      "title": "12조원 실탄 장전하더니 엔비디아 동맹까지…네이버 ‘AI 팩토리’ 본격화",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NURmWmc0ZzZmUTBXMUtkZ3JHcDRibE10QzRqU1BPZXFIdFBsemM2aVhYcGNhaE5YVGEyUHVvWFhEckItNmZpeFdEN1VvNmpDaFZBRnhR?oc=5",
+      "publishedAt": "2026-10-30T08:31:35.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -413,7 +445,34 @@
           "ticker": "035420"
         }
       ],
-      "summary": "한신평 \"네이버 AI 팩토리 투자위험 제한적…현금창출력 확대 기대\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "12조원 실탄 장전하더니 엔비디아 동맹까지…네이버 ‘AI 팩토리’ 본격화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a23ea712b351b0fe",
+      "title": "한신평 \"네이버 AI 팩토리 투자위험 제한적…현금창출력 확대 기대\" |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PcDg1cDZ0VUVWRmpadHlaVnBRX1M4V1VNMDk0NjZxbUxFNUNKV0dOcG51VFJwLXhnZHhpTU9VdTVCMTZUNGNIaDh4N0dNRlZmVjJiZXhYcWxzSVdnS0FnamxUcFp1ZDRFRUdWdk83RUZwbXlC?oc=5",
+      "publishedAt": "2026-10-30T04:55:52.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "한신평 \"네이버 AI 팩토리 투자위험 제한적…현금창출력 확대 기대\" | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
       "sentiment": {
         "label": "neutral",
@@ -429,7 +488,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkQ0TUNocm81dlI5VldYajJGLUVvaENIQ3NIS2g1NFpYSFFCQ3ZFT0loYkZDemRfU1g1NWlxSi01MWhZa2tsYXRFcVpOejJQS2RRZW1NNDZPcTd4X19Ya3RnUzBlUzNTNmNZNVM0Zm5IOTA2eTBVQ2V1dzBmTHAyeWstejY?oc=5",
       "publishedAt": "2026-10-30T02:56:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -454,12 +513,12 @@
       }
     },
     {
-      "id": "828a8d196f8799fd",
-      "title": "인텔 10월 29일 실적발표 및 주가 전망 : CPU 수요 증가, 반도체 상승세 지속 유지될까?",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamZldGVDZkUxLVZ1TXRRMmlCUE1TSkl4anlvMFgxR1lKQXcxeldIQ1Vsc0FRQnZINi1KYTNLZ2M2YUtfWEpfREpMOVBVRlB0emd0SzhfUl9aN21MbDRnMF9uRjc1RlRXSE5tcEJncHJlS092LXJxQm1aLWZEbTljbGZTUQ?oc=5",
-      "publishedAt": "2026-10-29T06:19:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
+      "id": "379be3104e7479df",
+      "title": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42TXpwb1hxUGE4bWR6WHo0TUNTTEhWWkFxVGFnVkFfQkhxVXVXOUc2YmNGa3JLWGwyaHF6SEtXRHpkYXVlTmc2S1NxeHp4ZE1PYlN6NlRxUmpJdw?oc=5",
+      "publishedAt": "2026-10-30T00:36:53.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -470,100 +529,42 @@
           "ticker": "035420"
         }
       ],
-      "summary": "인텔 10월 29일 실적발표 및 주가 전망 : CPU 수요 증가, 반도체 상승세 지속 유지될까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
+      "summary": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6da5f47eff7e3bcc",
+      "title": "GE 버노바는 2032년 물량까지 팔았는데 주가는 왜 25% 빠졌을까?",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjY3V3ZVQ2hQN3RMRlBDRm1vSnJmRDY3REN4QVlIQTVkbnU4YzRZUnlnalQ2MFBKQ19ycmgxTkJsa0lpSTBmb1BBdjNNUEtGZE94Q3VaX1JwQ0FGb3RxY1YxZm5pMlBEMHAwenE3bjEtQkVVOGRxeTN5M1hBOU92bTZZems4Ny1scUJUVm9xeFpqQQ?oc=5",
+      "publishedAt": "2026-10-29T20:52:00.000Z",
+      "collectedAt": "2026-11-03T14:46:11.664Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "GE 버노바는 2032년 물량까지 팔았는데 주가는 왜 25% 빠졌을까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8217ae58549be2b8",
-      "title": "순이익 줄고 주가 9% 가까이 하락한 알파벳, 그래도 내년을 '황금의 해'로 기대하는 이유",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVRxVGpOQlJYbTRKTTFodUgyNldyT0tsSlI3TEVnakhxOVRHV3RTNngwZWJYYXFJcWhSTGJYTTN4YkQwMFZjQzFzQksyUnJpeEhQQXhuTVVKUldZT1ZQUGNudld3bmN1TmU5TFlGT1VtRnhEN0tLMkplT2wwQVR5bzAzeWVLY0Qy?oc=5",
-      "publishedAt": "2026-10-29T05:10:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "순이익 줄고 주가 9% 가까이 하락한 알파벳, 그래도 내년을 '황금의 해'로 기대하는 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.47,
-        "confidence": 0.72,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "이익 감소"
-        ]
-      }
-    },
-    {
-      "id": "5009620232320266",
-      "title": "[시황발자국] \"삼전 +9%·하이닉스 +11% 폭발!\" : 지수추종 초대형주가 주도하는 역대급 보복성 반등장, 왜 이런 현상이 나오고 어떻게 대응해야 할까?",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjh0a1pBcWp5RWxHWV9jaHp3UlJ6RXVRU1h6bklWTTVSTlRLYzBOOUpqOUk3UDdOZWxOaHQ0NXctZXUzNGEyRUJxcW5OME1oamxpMFhkTGVFVTdDQnJsNnU1UG5idWY2TUtsX0JDbHFrY2tlWk5LYXhGMXRUMU5qMTBJaXJlUXRp?oc=5",
-      "publishedAt": "2026-10-28T22:48:00.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "[시황발자국] \"삼전 +9%·하이닉스 +11% 폭발!\" : 지수추종 초대형주가 주도하는 역대급 보복성 반등장, 왜 이런 현상이 나오고 어떻게 대응해야 할까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "31b574cb0f534764",
-      "title": "주가 11% 급등한 SK하이닉스, ‘주당 2만원’ 배당받으려면?",
-      "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sU05ESVdJVkRXTDNIVzNLS2dXX2s0WGMyRnZzUlI0RXM1eFpia0NSWjlLXzhzYlVMSzRCc1pVdVhzMGxha3EzTXNUczBhcGppWF9GRWFUbTk?oc=5",
-      "publishedAt": "2026-10-28T08:19:24.000Z",
-      "collectedAt": "2026-11-03T03:47:01.723Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "주가 11% 급등한 SK하이닉스, ‘주당 2만원’ 배당받으려면? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "급등"
-        ],
         "negativeTerms": []
       }
     }
