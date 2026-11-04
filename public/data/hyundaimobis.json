@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:50:02.359Z",
+  "generatedAt": "2026-11-04T10:11:58.468Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "현대모비스",
     "ticker": "012330"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "현대모비스 웃고 HL만도 울고···A/S·원가 부담이 갈랐다",
-    "현대모비스 주가 훨훨…무슨 호재 있나",
-    "“현대모비스, 첫 분기 영업익 1조 앞뒀는데 목표가는 뚝”…이유는?"
+    "부산 물류기업, 화물차 자율주행 ‘도전’",
+    "현대모비스 주가 훨훨…무슨 호재 있나"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90OFdTODN0Y01fbENmU2dHTGlQemFPWmhITlM4T2VzZkRaMVFScmJ0UHRkcG4zcUlsdU83X3lZYzBaVzVVLWd3VnpveExaV01xSzd6c044a3l2VGFYTGt5MjFHNUxTdk1fbXFKY3pTZjNGeHNPUGfSAXZBVV95cUxPdDhXUzgzdGNNX2xDZlNnR0xpUHphT1poSE5TOE9lc2ZEWjFRUnJidFB0ZHBuM3FJbHVPN195WWMwWlc1VS1nd1Z6b3hMWldNcUs3enNOOGt5dlRhWExreTIxRzVMU3ZNX21xSmN6U2YzRnhzT1Bn?oc=5",
       "publishedAt": "2026-11-03T02:55:45.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -42,12 +42,39 @@
       }
     },
     {
+      "id": "e63fdd7426f2f24b",
+      "title": "부산 물류기업, 화물차 자율주행 ‘도전’",
+      "source": "부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PNWt2cC14bEtLQkZzZzdWamxid19zTkowcjNEVzJRNzhLdzJmVzJhYTE4bTdsdVp6UU50RVpwcHIxLTBsRVJ6Nno4a3BjNC1nWkt2X2RWakFCT2VvXzZVbFp3TjRpZExUV1pvSm9oQW55bmNf?oc=5",
+      "publishedAt": "2026-11-02T09:28:06.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "부산 물류기업, 화물차 자율주행 ‘도전’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d320a7b3b15628fb",
       "title": "현대모비스 주가 훨훨…무슨 호재 있나",
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjTndfRktERHpzZGRVT2VETmVyc1VZZDZjVC1UVkFCMTdUbWV4MXNTTURJNjVELUVVMzV1NDJLWjEwVlFOajNTUEp2SnZhYkV5MmU1c25Qd3pieWpSQ0laVVQ0eDd2MndWUlkzNFpLb3lDa0k3Nm1F0gF3QVVfeXFMUGNOd19GS0REenNkZFVPZUROZXJzVVlkNmNULVRWQUIxN1RtZXgxc1NNREk2NUQtRVUzNXU0MktaMTBWUU5qM1NQSnZKdmFiRXkyZTVzblB3emJ5alJDSVpVVDR4N3Yyd1ZSWTM0WktveUNrSTc2bUU?oc=5",
       "publishedAt": "2026-11-02T01:31:19.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -74,7 +101,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2S0tvT0wxX0Y3bmZ5dF9Jei1lVXZmU1FQeTVzeG5UZ0pDLVh1aXl2WUVsUmZBc2pELTB6TDZMRjh2U0xKZ2FieTRqOW53YVZJR3c?oc=5",
       "publishedAt": "2026-11-01T22:59:47.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -101,7 +128,7 @@
       "source": "서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tbkwxc0d0aXRqV2Y4b0pZcktwM0VrVy1yc0x0ZXNQWG1jRGRTYWtkMkg1dWlycWNqRmlPUnhRV0s5UVV5TFVkSE1nMmdwUjRCblHSAVNBVV95cUxNbkp2SDhKV1hZZHp0YTJJQ1RDVUNUdE1LSnE2TURHTjh4MjJMUGZ6aGQ1b0xSbDE0Rm1DVGtsc0ExZER1VDJpLTRwNTNSS3dRbE1wVQ?oc=5",
       "publishedAt": "2026-11-01T22:30:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -123,12 +150,39 @@
       }
     },
     {
+      "id": "7bc8cccd8ef12422",
+      "title": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tRjFvZUluWUd0V3VIVWFVVjVhcmJ3TFZHTU1EN1VESjRqNVkxeFUtbUZDRF9rWVh6S3EyUm5raWZ4eUVEZ3ZTLXFFbUR0Xy15c1Z2NW80X0FHeHlFMUcxcXRkZw?oc=5",
+      "publishedAt": "2026-11-01T20:04:27.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5c6ccc0fed04be39",
       "title": "현대모비스, 3Q 영업익 9141억 '17.2%↑'…내달 아틀라스 부품 생산(종합)",
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRE5EeURSRFZGa1o1c1hzVmtXWVIxaGl6TjZtX3M2dHFIZTJQS0FsMEhoZTZucG1CQjlTclN3cnJSd3JFMDlhUVZSS05fWEpiS2R0YVdveEFsMlFxQ2stdA?oc=5",
       "publishedAt": "2026-10-31T06:57:06.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -155,7 +209,7 @@
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MDdtX1FCa243VUk1R2RfQWlzRnBkVFlaRHYxd05aalVhRUd5dWtoOHBiUnpJdE9Ia2FUQ3F0clRTdjhxNVpsRmNRcjRxM2tPbWwtdU9LVmpXcWJHdEY3ajFfY01hLWY4dVg00gFvQVVfeXFMTlNhMVBSVE52SmZmRm44cjRVWWh5OUVWbnFKOVFhVzlJOVFqUTZBUThzVHo1NDkxbTA3U09qOWg4ZEdyYmthMklULUVocjRIZVhHV3lNQ0Y1WE9SX0s5Q3VfeUZsdFBHUTVwc3NqS2tV?oc=5",
       "publishedAt": "2026-10-31T00:14:48.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -177,12 +231,12 @@
       }
     },
     {
-      "id": "f97eb4056434b552",
-      "title": "R&D 투자 앞세워 ‘미래차’ 경쟁력 고도화",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZnRMRmNIRTVMZTRCUDhWOGpPUFFWOXR6MENrc254aXE2bXJLUWp2SENSV1hnZnRCc2VsTWstM1QzT3B6enpZa1hfOG1LNDgySTRLejhn?oc=5",
-      "publishedAt": "2026-10-30T08:00:35.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "f6fe973eac5c9c9f",
+      "title": "현대차그룹, 새만금 AI 데이터센터 투자 확정...11월 법인 2곳 설립",
+      "source": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4T0hmeU5ibGgxbDRHT0RzRGlQLXo3em9rU1dFOWFQMUItTWNxWXJHMzFVNkt3M3cwa1k4T1draHVuSHFfNWNMUHl4eVdwS2RxNmZzdldTS3NIdHZGMFE?oc=5",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -193,35 +247,8 @@
           "ticker": "012330"
         }
       ],
-      "summary": "R&D 투자 앞세워 ‘미래차’ 경쟁력 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차그룹, 새만금 AI 데이터센터 투자 확정...11월 법인 2곳 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "bf81228f3537862e",
-      "title": "“프랑스로 안 간다” 현대모비스 근로자 341명 회사 상대로 가처분",
-      "source": "시사저널",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZXl0bS1IY0ttRjNza2R1QUcyUXZLblRsQlcyUm5XRTEtOUtMNmdlVkwxMVpWVGFZWm1OR0haU1VrN2VQTUIwZUxqNms0a0lCVWtqZFhkMkZ1bHJFeThDbVpEOGtXNTUyU0lGeGJyY9IBc0FVX3lxTE5BbnFSWmdwRmZDelZxS1hMQk9VTExQaGx1X3FYQUpwMWY5TWpPcURZbXVjekFBTERqNVlZNTBKOUkyMlpfdnhwUjROdGU4Njc5aTNlU3BWLURjWUhrckpORU15TTU4bERJaGxSc1pMT3I2bTQ?oc=5",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "“프랑스로 안 간다” 현대모비스 근로자 341명 회사 상대로 가처분 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -236,7 +263,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tc1YtbWZNRFMtRURkb2NTZWN4R184cGJEeXBTSnFORDNVdUwwYldnRWxPYlB1QjFONHZtM3A0Qnh1S3kzRFlPMVAxcXF5MkxEOHA0dFJn?oc=5",
       "publishedAt": "2026-10-30T06:11:25.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -263,7 +290,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1WXlKc2h5cmNGSFZqbmhnamJQay1IMTFhUk4wZnZkbmtNUTdPenluTVk0em14STI1WWF2SUhyYThkOF9UVGZfaTBwZy1FbmtaTGtid1NvVzBTMFFRRlhqV05HMGgzTVQ2RHYxSHJfV2HSAXRBVV95cUxQUmQ4aTNrMjAxWDJaQnNlOHhUNC1jUGxHaF9hTzVoNzJZTW5sTmFpajk0dG1UaFRVVUV4Yjh6Sm8zYXRLSWNrSEJlT2dmazR0a3pqcm9hTWNhdmhnNDdtakFWR0ZIY0ZlQnpGRE1BNl9YMWZ2cQ?oc=5",
       "publishedAt": "2026-10-30T05:09:31.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -285,12 +312,39 @@
       }
     },
     {
+      "id": "01d13e6ea7e34be5",
+      "title": "현대차그룹, 새만금 AI 데이터센터 2027년 착공…9조원 투자",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13eGxOc3plTHpCa0s1Q3c2V2U4amRQd2N3TDZpODNHbXZIbkhTVEg3YVFkUFR4ZTVNS01mOHJnQk5BODk1Y21SaXFRRHhEeld6ZG1jMmNGRTdnNEV6eG1UTW9DaWNSdw?oc=5",
+      "publishedAt": "2026-10-30T04:18:29.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "hyundaimobis",
+      "stock": "현대모비스",
+      "ticker": "012330",
+      "relatedStocks": [
+        {
+          "id": "hyundaimobis",
+          "name": "현대모비스",
+          "ticker": "012330"
+        }
+      ],
+      "summary": "현대차그룹, 새만금 AI 데이터센터 2027년 착공…9조원 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c675b759977824eb",
       "title": "현대모비스 3분기 영업익 17%↑…제조 흑자 속 ‘로봇’ 시동",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wU3NZNk1oZkwxNXlRdW4zVS13UmpxT3czdGVpejIzb3RIc1VYdjE3YmZsVTdCaEdnMjN1RHFlVkphUll4Yy1wQXFRcXRzS3hsYnVPWTNDOFVxdHMtNmxfbGNGRENERmZocjk0cNIBcEFVX3lxTE1iUFdrQlhvRk83dHAxcmQ4N0pUM0xvREREWWtPSFlLV2U2ekU4YTVYaUhyVzEtM3FRMnhLNU56MWtENjJKY1BvdkRoZjFpLTFSeDVjc2NENTZ4aGNxRUUyVWdsTHQtRjVjWFdSVnp4bk4?oc=5",
       "publishedAt": "2026-10-30T03:39:26.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -312,12 +366,12 @@
       }
     },
     {
-      "id": "fd94862f4e458a41",
-      "title": "현대차그룹, ‘새만금 AI 밸리’ 투자 본격화…데이터센터 법인 2곳 설립",
-      "source": "대한경제",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90dmRvOHZkdEZTX0lfQ0NBNlZnQXYydDNvQXZNLXMydEY0YXlreURlOWVDWmRMQVR2S3AxZkpqdkx4M2tDNXFITnFxQVpnQkxXaWFjUUh5Mi1RN3hzRFI1TU9LYmRCTmpwSi1zUlNkN3dSZlkt?oc=5",
-      "publishedAt": "2026-10-30T03:24:26.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "e3373b5885aa80ff",
+      "title": "현대모비스, 3분기 영업이익 9141억원···전년대비 17.15% 증가",
+      "source": "스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdXlCLUhTcEF2emxOTEtaV2NscVc3MkJvcngzbkhxTDZtYTg5blpndTg1Uk1kaGJLb1N6WXk3bU1mX2lfMGhMaWhzYy13SEhBRENnZ19PdFBFSVlia0lpZmE4LVdEc3BGb1UzMA?oc=5",
+      "publishedAt": "2026-10-30T02:27:26.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -328,62 +382,8 @@
           "ticker": "012330"
         }
       ],
-      "summary": "현대차그룹, ‘새만금 AI 밸리’ 투자 본격화…데이터센터 법인 2곳 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "70c99835daace7e3",
-      "title": "새만금 'AI데이터센터' 속도 내는 현대차...11월 SPC 2곳 설립",
-      "source": "뉴스;트리",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtSkJjWHBob2FwVGZRbVI2WmVOTFA3bXJSMFIzYUxNcDd2TTR5ZXFqVjBBUjZCZjc0dG1RZnlDTmhJSXZhejA0a0lKc3ZzbU1TRXhzbWJ6Z1E5WGox?oc=5",
-      "publishedAt": "2026-10-30T03:10:24.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "새만금 'AI데이터센터' 속도 내는 현대차...11월 SPC 2곳 설립 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b1749f1d0c6f243a",
-      "title": "현대차그룹, 군산에 'HMG 새만금사무소' 개소 … AI 데이터센터 건립 본격화",
-      "source": "뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclRDMkpwV0dGTkF3bzZBbGY0eVVBQmhaMkJSbFRrYXJVZTJVZUNDb1FHaW9leTB6REF5S2JFRVgxZUJJSzJPOHBNeDJEb2JqMWpqOTZWanMwaTJQOFBTWDNuTU9udExSTWowVWVjdzVfQkdUSmFRQ21vQ3Bwdk5EUtIBgAFBVV95cUxQclRDMkpwV0dGTkF3bzZBbGY0eVVBQmhaMkJSbFRrYXJVZTJVZUNDb1FHaW9leTB6REF5S2JFRVgxZUJJSzJPOHBNeDJEb2JqMWpqOTZWanMwaTJQOFBTWDNuTU9udExSTWowVWVjdzVfQkdUSmFRQ21vQ3Bwdk5EUg?oc=5",
-      "publishedAt": "2026-10-30T02:28:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
-      "relatedStocks": [
-        {
-          "id": "hyundaimobis",
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ],
-      "summary": "현대차그룹, 군산에 'HMG 새만금사무소' 개소 … AI 데이터센터 건립 본격화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "현대모비스, 3분기 영업이익 9141억원···전년대비 17.15% 증가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -398,7 +398,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRDZpT21pbV9kbUF3WE9ZYzJUVjdxdkVXSmp0bVhYR25tNWpRUWUxU3F4NG14LTZEb2dSclVUOHVHb2c5UUJ3cXRpUEVuOThmNlJIbFB3?oc=5",
       "publishedAt": "2026-10-30T02:13:28.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -420,12 +420,12 @@
       }
     },
     {
-      "id": "2f86ebd1a238d6e9",
-      "title": "현대차그룹, 9조 새만금 AI 밸리 속도…데이터센터 투자 확정 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KeFVMTkNNM3lDbXZHSk44NDNudVRtVzJzVTFPdldjR25UQUduTUZ0UzZxNEh1N0d2MjlDY05WMXFJZ1o0TVg2VzFQcHVtWmdZWUp5UG1EZ0JET0E0QV9JSTg0Y0NZWF81eTgtZzNtcExyd9IBckFVX3lxTE5KeFVMTkNNM3lDbXZHSk44NDNudVRtVzJzVTFPdldjR25UQUduTUZ0UzZxNEh1N0d2MjlDY05WMXFJZ1o0TVg2VzFQcHVtWmdZWUp5UG1EZ0JET0E0QV9JSTg0Y0NZWF81eTgtZzNtcExydw?oc=5",
-      "publishedAt": "2026-10-30T02:10:38.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "652d5701a3db9d3a",
+      "title": "현대모비스, 3분기 영업익 9141억…11월 아틀라스 부품 시제품 생산 By EBN",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUV9YU2o3cm5ERjNGb202OTlIRnhlS3I5T0FVb01ia3I5anRnRkVhMXBwMVV1RUtxaGRIY2FSUUpyOUpQS0VTVUlnQVFSc1N5WHlKY1ZSMWhlOVllWXZHbVJSUFpnNW1CX0JGaHFwaXM?oc=5",
+      "publishedAt": "2026-10-30T01:55:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -436,8 +436,8 @@
           "ticker": "012330"
         }
       ],
-      "summary": "현대차그룹, 9조 새만금 AI 밸리 속도…데이터센터 투자 확정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "현대모비스, 3분기 영업익 9141억…11월 아틀라스 부품 시제품 생산 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -452,7 +452,7 @@
       "source": "KB Think",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLRDhETU5ybDBZT2VKVWNYczlEM05nZm1wcHpuV2tKdm9pR2JOT2hOTFhUczlCYTZyWFFseHlFc05zX3ljYXYtYkRrdzJla1RnTUI2UnhFWm5iNFpHUHRHSjBtT19PM1VHWWQ0R1Y1cXY1Zw?oc=5",
       "publishedAt": "2026-10-30T01:52:58.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -479,7 +479,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QVV6VVhwVDJIYnpxd29kVm1maUhGajNldUduYm5hSG5MamFqUVYtMWRrWUFwS2QxZ0FqOEV1aTdIbzZwMk4ydzNXNmNPQm5uNFlfY1BjLVRTdDltemJhUlk4VEF4LVc5ZlFVSmNHR1E?oc=5",
       "publishedAt": "2026-10-30T01:40:54.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -501,12 +501,12 @@
       }
     },
     {
-      "id": "5d95fe48456b7326",
-      "title": "현대모비스, 3분기 영업이익 9141억원… 전년比 17.2%↑",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQlBtR2xxTjJlX0ZKZlhHek9TTXF1SGIydWQtclhIZkV3RmR5V182eXEydzc1TjA2ZUJXZGlxU0Z5dHJRMTI3dnFoVnV4T21DcDJOM18zVHU3Q1B0RDl6SmdkS1lWNXR0X0RaTE9UbnFPckg4akxnZjdlcTdnQUXSAZMBQVVfeXFMT2lRT2QtXzA3WWFveVJTTndLcTRHUThpU01EQ2NOS0Q0Q0JQQ0RjNmZ6Sm15QVQtLXEzQllwSGtpS3FzTXhocEUwSHF5M1FFOTYyYjNobWhHVXFVd1ozaXBPenE3TXN3M1gxeGJYWXRBMGRDT0ZoTEFBWVY4aTh1YnRFbzZweldGb2lNZHdZMFQxcE44?oc=5",
-      "publishedAt": "2026-10-30T01:31:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "b9cb5c1ec08a5e48",
+      "title": "현대모비스, 3분기 영업익 17% 증가…내달 ‘아틀라스’ 부품 시제품 생산",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ejdqT010RFdYODlmdWlWc0ZhU3RleXFkQm5Hb21CRjlQZ3Vub1kwVGVYMTd5dVF5aTlySGF3Y3hkSUFSS1I4NkhDeUxReHZKcThBZTFsWTlOQlRaMzhoamJQbTdCX21hTTVkbXlfSUlUN1pCRW4xQ2NnRTFtUXM?oc=5",
+      "publishedAt": "2026-10-30T01:36:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "hyundaimobis",
       "stock": "현대모비스",
       "ticker": "012330",
@@ -517,13 +517,15 @@
           "ticker": "012330"
         }
       ],
-      "summary": "현대모비스, 3분기 영업이익 9141억원… 전년比 17.2%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "현대모비스, 3분기 영업익 17% 증가…내달 ‘아틀라스’ 부품 시제품 생산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.48,
+        "confidence": 0.72,
+        "positiveTerms": [
+          "이익 증가"
+        ],
         "negativeTerms": []
       }
     },
@@ -533,11 +535,16 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVFxcGpnZTJlSVJxTnBjZmRaQ3NReTJNVEFmZFBWWEJtd2lwaWFUNzJFVmRHdTNfeXI1blh5YVJMdWFlM1pzWXNXeGo3WWJvVzdqaTUyVHBxT3hyTjBia0Z4bjFyMG0wckRaMnBSbS1DYmFtMjVJV2VaN19ZV0RxQWNsdTdBWW9WXzJpNk1hZkhqTzBrTkdha0JRWHpQTEE?oc=5",
       "publishedAt": "2026-10-30T01:30:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "hyundaimobis",
-      "stock": "현대모비스",
-      "ticker": "012330",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
       "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
         {
           "id": "hyundaimobis",
           "name": "현대모비스",

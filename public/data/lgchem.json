@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:50:02.359Z",
+  "generatedAt": "2026-11-04T10:11:58.468Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,49 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "배터리 소재가 이끈 화학주 반등…고부가가치 기업 노려라",
     "LG화학-SFC 특허소송 확전 되나…OLED 소재업계 촉각 By EBN",
-    "취임 1년 LG화학 김동춘, 일주일 새 3조 현금화 베팅 왜?...구광모까지 이어지는 사슬",
-    "포스코홀딩스, 3분기 영업익 9450억원... 고려아연, 금속공예가상 후원 외…"
+    "LG화학, 비바멜라곤 기술수출 계약 8억5500만달러로 확대"
   ],
   "articles": [
+    {
+      "id": "946d93e2f059b397",
+      "title": "배터리 소재가 이끈 화학주 반등…고부가가치 기업 노려라",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ybl9hR1llUnNnZmJoeFVVZ2ZQRGJXMDF1N1FqT0pmV0VmMl9JUVZkUnEtMHljZVZIUjBYYUFRQ29lLXVXWWU2azZfWHYyYkJ3TGhENUFZczFyMThlQ2YyNE5LdVRjT3JWRkRVUGRJWFRqcUk0aGtJ0gF3QVVfeXFMT3JuX2FHWWVSc2dmYmh4VVVnZlBEYlcwMXU3UWpPSmZXRWYyX0lRVmRScS0weWNlVkhSMFhhQVFDb2UtdVdZZTZrNl9YdjJiQndMaEQ1QVlzMXIxOGVDZjI0Tkt1VGNPclZGRFVQZElYVGpxSTRoa0k?oc=5",
+      "publishedAt": "2026-11-04T07:28:33.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "배터리 소재가 이끈 화학주 반등…고부가가치 기업 노려라 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "d6efbcc58f7a89e8",
       "title": "LG화학-SFC 특허소송 확전 되나…OLED 소재업계 촉각 By EBN",
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtbW1BZUlLMFM3Y3NRdFhRNmllSVpCSk1VZVB4SmNIYVpENHh4VGhQeVJacVUxQ1puRFM1dVZPbWkxVW5YVmhxdFZvNC1UekZ2RjlLQ0ZLakY0YVd5bGIwcmxBdUgtOWc4aEkyUVc5d1Y?oc=5",
       "publishedAt": "2026-11-03T23:00:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -44,12 +73,39 @@
       }
     },
     {
+      "id": "674de4dadbf7cee1",
+      "title": "LG화학, 비바멜라곤 기술수출 계약 8억5500만달러로 확대",
+      "source": "메디포뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8waHpfMjc3UmRCbE5wUHkwdWdKVUlxQlc1QXY1clM4UzRGYWxUVFpGLWxzY1JUS2ZDVzFlSExYM0RpSi1FbGFmbFRReUtmNW10c1JzS1Z2T2hKOGpBSElvN1h2S2U?oc=5",
+      "publishedAt": "2026-11-03T13:52:48.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 비바멜라곤 기술수출 계약 8억5500만달러로 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "36f77e28fa3be501",
       "title": "취임 1년 LG화학 김동춘, 일주일 새 3조 현금화 베팅 왜?...구광모까지 이어지는 사슬",
       "source": "더 이코노미",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iVlU0NXJvaEtyMTl3bEQzelRXampiLTF5NE1UUHl0bXhOTV9QcmdHWUJGVFBzM1Vya2pibTdDbmRyMnJMdFlYcnlNLXpGdk1EWUl6S3RkN2pPem5zZW52ZzVEOElpa0NySWdVX2tIRlQ2a0HSAXNBVV95cUxOYlZVNDVyb2hLcjE5d2xEM3pUV2pqYi0xeTRNVFB5dG14Tk1fUHJnR1lCRlRQczNVcmtqYm03Q25kcjJyTHRZWHJ5TS16RnZNRFlJekt0ZDdqT3puc2Vudmc1RDhJaWtDcklnVV9rSEZUNmtB?oc=5",
       "publishedAt": "2026-11-03T13:22:12.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -76,7 +132,7 @@
       "source": "시장경제신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoa0Z6M2hpQUxORTV2TS1RbV9EbGI4dUJHSkVrejBnVXVqU1N3YU0wcHZlMl82clhiWkp5aHd5NjVWMG1BcWltSkFpS2o2R0VsSE93STBuWkY1bnVrdm83eUZIV1pNaHRoWE5ENlAxYWU?oc=5",
       "publishedAt": "2026-11-03T08:09:40.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -103,7 +159,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZWI4V3NqR09CeXk3VVhuZmJOS09RNnM3WGpfcUtTTDZlN0RiMHo0YkFFbEloZGZEd01Kcjl6akZOUHZKR0IzZUc0MnBLMEhRRTRTWWNtSFNnNXPSAWBBVV95cUxPZDJGNE9aSUNjTWtBZ2dKdWJoR1d4bFFGTTQtNnlmOGNzalpfbXhxRXd4M1dZMExtSDl1RlZBQzIwVVBydVUyZ2N4czFwb3VtbHNkMDR3UlUtb2QwejFLV28?oc=5",
       "publishedAt": "2026-11-03T07:39:02.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -130,7 +186,7 @@
       "source": "바이오스펙테이터",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTcnR5Qkc0NFdBRGxfZG1Gdjk1a1NEQUF0MVhtYTR4OXhvRUNtQWp0amdCQzk3SUpwNmVkbzllUXA1SXlxT0dtMzRSUnl4eFMybFRRakNmOA?oc=5",
       "publishedAt": "2026-11-03T03:18:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -152,12 +208,12 @@
       }
     },
     {
-      "id": "03255d1580e9e1ab",
-      "title": "LG화학 \"희귀비만 신약 기술수출 계약 3배로 확대…1조1500억 규모\"",
-      "source": "히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JUlhLcVBzVlY0cWtRZFpzaUw0N2pFdlBFS3lVLTRqeWZLenNNSTlWb0hPMlFfMG9SZGxEYkllUHlNRHhQTDVOMlRmQTNSOUttUmtSZ0R3WGNFY2k4ZHhQWGN0YVBFa3BYUzFV?oc=5",
-      "publishedAt": "2026-11-03T02:07:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "f30e97e024f9460d",
+      "title": "LG화학, 희귀비만 신약 기술수출 계약 1.15兆로 확대",
+      "source": "팜이데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PSWRZQjJWZVZZdFgtUk5iOTA2RklkcDRhdmg4cGJHU3R3bTZLd0RscDRJTHlmNzRIMGVzZXpxSjk3S0RYdVdlOVZIbHgza2I2NmptdmxNbUxSQzdEWTltblNVc2NNZTFCdE1wNnJ3?oc=5",
+      "publishedAt": "2026-11-03T02:20:16.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -168,7 +224,7 @@
           "ticker": "051910"
         }
       ],
-      "summary": "LG화학 \"희귀비만 신약 기술수출 계약 3배로 확대…1조1500억 규모\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LG화학, 희귀비만 신약 기술수출 계약 1.15兆로 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -184,16 +240,11 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkxUQjhNOGdIcktOcTR2a2ZHMzFSZmZQQzNnVnZHOW9SNWd0ZDdSSlcyWk1BZTZPYWtNR2kzX0QwS190SHdZX0xDVHJzUlBmUnhCX2lseU10b25HU2FGRDZPRzFqWDhLdXJDWTBsUXlBR252RGRvRmk0X0RyRWNVNjJnbzIwZTczZ3FtZE9ZODdIZw?oc=5",
       "publishedAt": "2026-11-02T17:31:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
       "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
         {
           "id": "lgchem",
           "name": "LG화학",
@@ -211,41 +262,12 @@
       }
     },
     {
-      "id": "5b80dcd23d4242ae",
-      "title": "'전력망 특수' 올라탄 배터리 3사, 본업 반등 속 성적표 희비",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdkExcklraVUzeWdXdG1BSm56VW5uTU9hNjBfNGI4M0JVSUZ3STFMUlgxX3VMLUg5bkhiamxNQXR6U1VyLTZjZWV2UmpoRzZrdXhlM3JQRnNGa0lXYnUyUkFJWlJtR0NFd2RVcA?oc=5",
-      "publishedAt": "2026-11-01T21:50:02.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "'전력망 특수' 올라탄 배터리 3사, 본업 반등 속 성적표 희비 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "dedbf9383aa1b8a5",
       "title": "엔솔지분 활용 LG화학, 김동춘 1년...'체질 개선' 시험대",
       "source": "금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5URDhvcW5hNWZVd25pZFIzWE0ydDFlbGQ1VFZBZThvRlZ0enowdDNnVF9tdGxiSHNhS1VEa3JKX3hpcXhmT0ZYdDFWS0NJYm83NGxxLTlLd2h0SEZxNThxZWVNTndSMVUtaS1CYktaVWtWTktsX3UyalIwVTU?oc=5",
       "publishedAt": "2026-11-01T15:00:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -272,7 +294,7 @@
       "source": "스페셜경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRE1UV1NQZzJKR2Jfc21EUnRCQmVuQWpSUGRKZmtyWnRRb2RUQ3hrYm96QmpZUzJlc3BJTXVGY21WbkFvMWJ5UEVIcVdBMmxqdTdwY1NhMkJsdDVUN19xS1dmWXpoalFGWEsxTQ?oc=5",
       "publishedAt": "2026-10-31T07:42:38.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -299,7 +321,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JR2lFOThKc0N1bEhMOGhfQ1o3bmVaLTV2U3VOQ0x4WlZGekFLWElnUC1fXzIxdmNyX29yS09NanNpLWJmVmVabzExMjYyR1BDZHdhTW12U1FPM0pvb2U4MdIBeEFVX3lxTE02UmVhQ1RNQWNWWkY4dUhsMXFJZEsxOHV3NGhOX3M3Y2VTU2NPdGFTeUFMZXFLSzVCVzJQcTBJSnRZNlRJdU9hTWRDOWR4V25BeEszUUV5QWcwVVp4dkVEN08wR3NsYlJlN0lxQ1VMcnQzWmt5ODd4Tw?oc=5",
       "publishedAt": "2026-10-31T01:00:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -328,7 +350,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZOVVMTnZOV3I0eWNKT1otb0t6YWQzdXh4S3ZrelA3aXF1WjdYMzFLa3dBcnlEWmU1cjZsRnJrWm5zRTlKSmhfYzMzUVpCcFhBSDdFVzZVUzdtRmVUcy1Oa01CSVpfdw?oc=5",
       "publishedAt": "2026-10-30T08:37:37.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -360,7 +382,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzJzcDdJRm5IVHdOVmliaUNSUWQ3ZWliUzQ0WWN1SjJwOWMtVUZIM0hhRVNDZVMyRW9QdnpSM1N0V2dsTGk4WUxQNXQ1Wko2eE1FdVp4YjRrcXduMmo1UmltWnVibDBPYjRwVXZ3c1Z1OExYTmVLdVVnU1dHeUlHdUJpUQ?oc=5",
       "publishedAt": "2026-10-30T06:32:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -387,7 +409,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14M1BXREoydHdxNzU0WUE1dHRQb0hNYjNrTEl0VFFMYjlBNjVBa0RjRnNjc2tRTWoyblBpZlFoSkczWUoycktyV2hNOWpLdWd5OHhBdUFpaF90bFlmNnRZdFFWVjZyVnpXbHc?oc=5",
       "publishedAt": "2026-10-30T06:00:03.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -409,12 +431,39 @@
       }
     },
     {
+      "id": "262d9e361ec1336e",
+      "title": "한기평 \"LG화학의 엔솔 지분 처분, 재무 개선 크지 않아\"",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PLVB6UWkxaTJGZFB1SW1hbWR3NTdDUWJJRXNzRkRtRWJQMGtsNHNKRTBMTkJuMVpUR3k1NmJQVEUwak1sbmhEXzhFU3ZUSE44ZjdxbnlXa3o1WlhndDBxS1RuZXpUUWhYeXl2LTMxdjc?oc=5",
+      "publishedAt": "2026-10-30T00:55:58.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "한기평 \"LG화학의 엔솔 지분 처분, 재무 개선 크지 않아\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "7924d2342598ecef",
       "title": "LG화학 지분 처분에 LG엔솔 주가 장중 10% 급락...회복세에 찬물",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmotX0tPYTI5VjFwS1BSYUJsbGI4bHQ2d0NLNDZZX042ZW5NY3IwUTFDTTR5eHpiMmM5UkhBMzJJTEZJenNtWW5ocG9SMGwxZ1BQTUsyVzdrQUtLTU5xZW10R3ZNZHdWLVJmbC1uU2J0OE1tQ0xjRExKa1FHbTVBRHBMT2M0WDZKa1p4MUNXZw?oc=5",
       "publishedAt": "2026-10-29T04:58:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -438,12 +487,39 @@
       }
     },
     {
+      "id": "ed6deabac2a05d8e",
+      "title": "단국대 원종호 교수팀,바이오소재 기반 배터리 분리막 성능 향상 원리 규명",
+      "source": "인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZzM5dzN0MjVwMkZHNEd5VXFGaUJSYjhCR1U1YUhZWXk0MGRtWDk0NjFDbVdQd1NPd2g2ckI1VExaRklyb1JMcF9qTkotR25vbkU1RU1hSU5pcGVaUjY1ZlJfYTZZNTQ2Mk5Xa1VEUHE?oc=5",
+      "publishedAt": "2026-10-29T02:07:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "단국대 원종호 교수팀,바이오소재 기반 배터리 분리막 성능 향상 원리 규명 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "2499b7fc5545489b",
       "title": "모회사 LG화학 대규모 지분 매각…LG엔솔, 9% 하락세 [특징주]",
       "source": "데일리안",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM0lZVkdFTGpDQ0pVd3I1VlBXMjZ6QkJaa3ZNUC1Ra1BmMXhjRWVLa2dEYkF1TzVHeWVXeUNpN1pzZEthc1ExUVdITXFFbnJpTkpkRF9Ia0tUZl9HTFphLTF6bUtFbjVZNzIxR1Vwd0tKVkUtUVN0a2Y5UHMyT19sOVd2Qk9jeUpkVDNYTW1GdG04N0hKY1dXRmJCSUdPR3VEUzY5QlFSV2VydUY3dU1FbVFwXzN5UGRSNWI0N0t3V3JSUTRjbUdXWjdlNU9DUjFuYWFHZERWb3NrcVFFdWtnUEpoM2V3SVVKSUxfUURPUWkyRDhLdmd0dg?oc=5",
       "publishedAt": "2026-10-29T01:18:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -470,16 +546,11 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUE9mSnczRjJXSVd1Z014WUdwd1lfS2RlOHo4QktkSnZVZnp5OGFmR3lDeHNyX0FXUFJZOXo0OTRCSUp0a2JNcHdteDlSLTZyY0JKYlhB?oc=5",
       "publishedAt": "2026-10-29T01:11:05.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
       "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
         {
           "id": "lgchem",
           "name": "LG화학",
@@ -488,89 +559,6 @@
       ],
       "summary": "LG엔솔, 배터리 혁신 기술 찾는다…학계 대상 경진대회 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2acfe294e556f5a0",
-      "title": "[특징주] LG화학 지분 매각 추진에 LG에너지솔루션 6% 급락",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02YWdUUjA5MEkyaGpqNExjdUp3OHRmc005WTVPdXBHUlBQamNjNDlWN3NZZC05Q2VJNzY4YzFhUVZtSks5RHVUZDduSWZ1S1NuSmJUaEVGQ0RJWkpi?oc=5",
-      "publishedAt": "2026-10-29T00:50:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[특징주] LG화학 지분 매각 추진에 LG에너지솔루션 6% 급락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
-      "id": "a4d737c639d369f3",
-      "title": "LG엔솔, 미래 배터리 기술 찾는다…글로벌 연구공모 'BIC 2026'",
-      "source": "신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nUUlsZmtOMHVFcG82cmstOVc5RW5la3ZIaG4wQjE2d3ZINk5LV3ZvTEJyTEQ2NlRsRFdOcm5RNFRLcmJyWlg3eDRVMjhCd0tEelJNaW5XUndPUDR3WWZTZUdjVVlHSXlROFpIeEI5cVo?oc=5",
-      "publishedAt": "2026-10-28T23:30:07.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG엔솔, 미래 배터리 기술 찾는다…글로벌 연구공모 'BIC 2026' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3c3bbd3e1ae05058",
-      "title": "LG화학, '마르지 않는 샘물' 엔솔…9.6조 현금화",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NjdIQlZySW5MNU9qenlKNG5ETlhZWnIxN0tnY21WQjFMYzk1VHpvdVpOMkVEWWdMWW1VMTNNYkJ4cW1rTDNUNmJYb3YtaGVPRDY2REdtWE8zQUtFQUhvb2xJUFVUcnFkTTVvSg?oc=5",
-      "publishedAt": "2026-10-28T21:50:03.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, '마르지 않는 샘물' 엔솔…9.6조 현금화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:50:02.359Z",
+  "generatedAt": "2026-11-04T10:11:58.468Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,103 @@
     "name": "SK하이닉스",
     "ticker": "000660"
   },
-  "dailyBrief": "오늘은 반도체 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "iM證 “SK하이닉스, HBM 하나로 시가총액 설명 가능…과도한 저평가\"",
-    "SK하이닉스 60조 뉴욕공장 '무산 위기'…중국 막히자 미국도 접는다 - 머니투데이",
-    "로이터 \"SK하이닉스 450억 달러 뉴욕 투자, 美 대중규제 복병\""
+    "[속보]로이터 \"美, SK하이닉스 中공장 장비반입 제동\"",
+    "[특징주] 삼성전자, 장 초반 3%대 급등…SK하이닉스도 4.8%↑",
+    "미 정부, 왜 계속 SK하이닉스 中공장 장비 반입에 제동 거나?"
   ],
   "articles": [
+    {
+      "id": "3079d28594ee3882",
+      "title": "[속보]로이터 \"美, SK하이닉스 中공장 장비반입 제동\"",
+      "source": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cWstOVM4aDM1RnFyTWJyZnYycmpaVzFhWndDOTVDZTRpTW41UnY5MmVxdkRJdTZRNHVDcmlWWEhKcVpEZWVEa2JZSTZ3OUwyY0wtTEdMNkVpTHZCVW12MA?oc=5",
+      "publishedAt": "2026-11-04T00:48:43.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[속보]로이터 \"美, SK하이닉스 中공장 장비반입 제동\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c6dd30bec9c11016",
+      "title": "[특징주] 삼성전자, 장 초반 3%대 급등…SK하이닉스도 4.8%↑",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kN2NQMkZTZ1Z3eW9VNEFKZ3JTMkZxNEtIeVpvV2pXQkVGWGpuNGxDRWxkMU5uNThaRlBQc2FkVVRMUThSN3Y2YjRxejktZ2owWmlyc1JyMHBHaUQ3ejZNNtIBYEFVX3lxTE1kN2NQMkZTZ1Z3eW9VNEFKZ3JTMkZxNEtIeVpvV2pXQkVGWGpuNGxDRWxkMU5uNThaRlBQc2FkVVRMUThSN3Y2YjRxejktZ2owWmlyc1JyMHBHaUQ3ejZNNg?oc=5",
+      "publishedAt": "2026-11-04T00:16:04.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[특징주] 삼성전자, 장 초반 3%대 급등…SK하이닉스도 4.8%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "568122ce4a462d89",
+      "title": "미 정부, 왜 계속 SK하이닉스 中공장 장비 반입에 제동 거나?",
+      "source": "이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybGVNYm1OSHZRcVowd1JtR1AwN215VDBvM0xuYTlZRnhHcVJ3Y2ZFQWJMdV9IWElwNDdZc2F3QnFBZHA0TjV2Sm9HdElnSGV3SHJZeVBxMTJ6U3dqM0VFM0lR?oc=5",
+      "publishedAt": "2026-11-04T00:09:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "미 정부, 왜 계속 SK하이닉스 中공장 장비 반입에 제동 거나? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2cd880eed39b344d",
       "title": "iM證 “SK하이닉스, HBM 하나로 시가총액 설명 가능…과도한 저평가\"",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTNKZHVNc3otNENJc21oRU5pY0lrRGtnZVotSXozZHZMdzlvNzd3b2lpOUZzM0RreGphZWJxY2VwNW1Rc0VBd3k4WHFSVUtxWVJkbUJmYjRzSHNfVDNTVFFpVEs4di00RkJhTHFSdkx3cFo1cWlqdmlGbnpKLVNZYXFmdHFyWVFa0gGcAUFVX3lxTE1TM0M5NkY4eVJMR3lYN20zaHB6NTMwd0pnblFqWVpFdFJpQTZSSm1fdkQ1OTd6NnU5YzdKSEJxNUVVR1JXa2JKVHBUclJWcXdUWkVGNGdHaTJ5UkpBaWk4UWd2VnlSYlQ0eGhyRTE2S2pMeXR4Z1FEZk1tZkFvWUI5RXp4YjJYN3RSMmZuc2g5WjhEM1BkTGY0VUZUcw?oc=5",
       "publishedAt": "2026-11-03T23:46:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -47,7 +130,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMDlSdEg2azNtSWhLUzlzcVA0WW1sX2JtMUU1Z3VwMVlIMkthbEhSdWVtS2NPanhULXo3WW1yeVBPVHJfdDlua1B3VGpma3FHOHpsc0x4UVpSTWxNUkozM19GdmlhQktP0gFuQVVfeXFMTWJxaTlpRFVuZDZqQk1ueVhDVTNOck0tb3NCSUd0Mm1TNzZUelpMSTJscVgtZjU3UHpBZ3hQYTlwQzQ4U0dTUUNSTi0yMkpBUjMtOERPVUFpNGQwWWkySU44emNnOUdtTEdQTUlXOHc?oc=5",
       "publishedAt": "2026-11-03T21:08:22.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -77,7 +160,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pU3ZpaWpZUDZGaDlIS3B5YkU3NFVvX0tDMjFxM01GUDVtOEo5dDF4cTU4YzVGSVNaX25MZzR5QXA3SHJMemNreWZqWGc3TzN0SklLVkJ2ZUtBOWM1?oc=5",
       "publishedAt": "2026-11-03T20:33:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -104,7 +187,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1RJc2c4Ri1sTllNZmZvdlF3STBSakpxMlcxS28tYVNHRkdXY3p4UmpUUGFxb3cwTG9SbUxHczNpMUtSb1R6ZXRqN3hDTkJ2aGh4TElxZXpzbHhnY3BOZHNSNjlJQ1RyY1NoMkxsVzg1LUtNcUN3V0dRS3hhTzVybFZsY1FTR09P?oc=5",
       "publishedAt": "2026-11-03T08:52:42.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -126,12 +209,12 @@
       }
     },
     {
-      "id": "63cf1d32364d9373",
-      "title": "“삼성·SK하이닉스 HBM, 서버칩에 실려 中에 밀수…화웨이에도 팔린다\"",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0M0Ym5oQnNqekNMaEVIMGpsb25pejYtdDAwM2ZGNGkzZE5ZM3NramppODQ4V180cVl6ODVaSEZwbHpMNmtwQ09qbUdzUnZrWXcxZC1nRlc2NWZ0MUw2SmlsV0ZrbTFrei1jT2ltaHRDdGRyVFZqdTNPdHZZOEZWMXZ30gGWAUFVX3lxTFBJeWdGT2hHeEFBSl9JRkJReXU1dF84Z0ZvSzhzT1RGSGpHTjRfZkg0U0gtQkkxOVJ6N2o3eWhVSXhOZWhGOGE0Ql9EcFpXNjZQVGVCaXM2QmdDV2Z0Vmw3dEZkYmZlNTY3a2htUXVxSzBVX2VwVkN6bjlNWEtIS0trVVZUSHdCMUR5RDBHdFVrS0NaVFIzUQ?oc=5",
-      "publishedAt": "2026-11-03T07:21:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "dc2127f4982471de",
+      "title": "20조 자사주 추가 매입 나선 SK하닉…외국인 매도 막아낼까",
+      "source": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0xra3MxMHZTVEt2aDFjS242T1JzRm5DTm4taUg4SFJtYjJOMjlUX08yX1dPYWR0dUFEQk1mbVcxbDU2TEhtMFFwbTVVR0cxWG1BV1ZfMzhNYk10eWVLZVoyOHhNdlEzWEcwYkxNRDJLellYOGFmLTdCR0tzVkVDTg?oc=5",
+      "publishedAt": "2026-11-03T07:51:12.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -142,8 +225,8 @@
           "ticker": "000660"
         }
       ],
-      "summary": "“삼성·SK하이닉스 HBM, 서버칩에 실려 中에 밀수…화웨이에도 팔린다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
+      "summary": "20조 자사주 추가 매입 나선 SK하닉…외국인 매도 막아낼까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -158,7 +241,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yUE0wdGxLWFNiN1VjZmlXVmFIS29icXZKZnJuYWtvRG43Yzl2R0g1LVVtNHdxUTFVdk85NWZ0WHZ0QnJmaWNqSFhMbjJpaVVsZUpWVTZYSnFnUQ?oc=5",
       "publishedAt": "2026-11-02T22:47:02.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -185,7 +268,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckc0UHNzdjlfM0V0ZHFwQkdJeEJUQ2E3empvZ0xsSGdZSHlQNi1GZEtEZHpZNGl4R0dpTzhYWDZrWkw3b0hFTHRkZnlUaXZaZUhYN0FQbUdUSlgzNDMtRDMydVY2ZTl4ZWk5YnZHVncyS1FyNENISmRQVi05WWJoZm1Ibw?oc=5",
       "publishedAt": "2026-11-02T22:01:43.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -207,12 +290,12 @@
       }
     },
     {
-      "id": "fc7db1a4a00ea703",
-      "title": "SK스퀘어, SK하이닉스 배당 4.3조원 이상 주주환원…출범 이후 최대 규모",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NQkVlRjFHbHEzQ3ZjeUtnVnZIU3B1b29NN2pPWFN0VXVydTJiUzNOcjZOenV6M3d0TGZidTRkRmd5a2d3cHVaNUlXSnBTLU5OYVR2Slh1NFo2b3JoWnVsdHQwSUNMbUk?oc=5",
-      "publishedAt": "2026-11-02T08:39:04.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "952e7a829de2036f",
+      "title": "SK하이닉스, HBM 수장 안현 美 배치 이유는…맞춤형 메모리 승부수",
+      "source": "메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWRktad1RNTklyaG1GVHNycFZrMEFaNXBzU09WN0UyMDhaODcteF9iaV9paUY3blRfOUpVSlBhVHFqZU1veWtIaHRzOUhCTk9hV2huOUFwQkpIa0JZTy1hSQ?oc=5",
+      "publishedAt": "2026-11-02T06:30:39.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -223,8 +306,8 @@
           "ticker": "000660"
         }
       ],
-      "summary": "SK스퀘어, SK하이닉스 배당 4.3조원 이상 주주환원…출범 이후 최대 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "SK하이닉스, HBM 수장 안현 美 배치 이유는…맞춤형 메모리 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -234,12 +317,12 @@
       }
     },
     {
-      "id": "a49eed1cb1ac15ac",
-      "title": "“SK하이닉스, 목표주가 350만원”…‘역사적 저평가’ 해소될 거라는데",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESE44NlNhYTdiY1c4aWtDeUdCTE80aGhabDA4WHNkS3hVWDFaUk5KYVJETU1Oc2ZVVlkzOWRZVGpvdW80cFRHbllWZF9HRFRCOVE?oc=5",
-      "publishedAt": "2026-11-01T23:15:59.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "7d9d52f574dcc81c",
+      "title": "코스피, 장중 상승 전환해 1%대 오름세…하이닉스 반등",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9heENBb3R0UlVuU0tuVDJ0SzZDRVRndWJTVkVJOWtZS0R2NnNtdDRURldheGROcElUVWlJQkg1WGlhaEtUVHhGUHF0LXh0WV81U2hsMk03VndfQQ?oc=5",
+      "publishedAt": "2026-11-02T01:50:43.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -250,8 +333,37 @@
           "ticker": "000660"
         }
       ],
-      "summary": "“SK하이닉스, 목표주가 350만원”…‘역사적 저평가’ 해소될 거라는데 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
+      "summary": "코스피, 장중 상승 전환해 1%대 오름세…하이닉스 반등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "71e591612462fa5a",
+      "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
+      "publishedAt": "2026-11-01T13:55:05.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -266,7 +378,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yeE80SmNvcWdnSThZUk1BY3lwTmFWakhWcWk2U2pvTk1ETkVfb0tYbFg1ZF9LMWktRGltOUR6NGtRMkpRN3phX3pfaDZ1dVdQb0ZBRTB3TXI0YUZuekxTbtIBYEFVX3lxTE1yeE80SmNvcWdnSThZUk1BY3lwTmFWakhWcWk2U2pvTk1ETkVfb0tYbFg1ZF9LMWktRGltOUR6NGtRMkpRN3phX3pfaDZ1dVdQb0ZBRTB3TXI0YUZuekxTbg?oc=5",
       "publishedAt": "2026-10-31T21:05:01.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -293,7 +405,7 @@
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5",
       "publishedAt": "2026-10-31T02:38:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -315,12 +427,12 @@
       }
     },
     {
-      "id": "cf71e266e7dd05da",
-      "title": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
-      "source": "이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk5Yd21rc205UTJqNDNaMmJfS3FKVFNLQXhqRmVlZlIxT25XWWRQOF9qNm5kU1ZLRVEwa3dCaXNfRG01cUZZSWJzWUxlYTVaWTR6M1M0eldpRGFxZFhZSHhDVEtSeFFmdkRQam80TGhFNlVlbDdWRkxZYzJwYWRoRw?oc=5",
-      "publishedAt": "2026-10-30T15:00:07.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "423455fd9e7b9588",
+      "title": "한미반도체, SK하이닉스서 감사패... HBM 장비 협력 성과 인정",
+      "source": "뉴스락",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MaHIyT2FFQ1ZtZExtRXN6UXNqbmtLaG53OFljQVRtQ3poMmo1anZHSkVXSUU3aVA3M29TWC1jd2xNam9TZVJKRi1tQUdEclN4LWhaMkVLWWlEU1dvUVpjQWF0MENIUnR0MWdSLQ?oc=5",
+      "publishedAt": "2026-10-30T08:53:54.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -331,8 +443,8 @@
           "ticker": "000660"
         }
       ],
-      "summary": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "한미반도체, SK하이닉스서 감사패... HBM 장비 협력 성과 인정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -347,7 +459,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nYzU4MEdLWFFubVRacUdoWTh4azQ0TldDN3gtdXVZMGFxSUdjS2JYYVVINVBKdkp2cmpRRmdUdXR5Y292SnR1QmZjQzdYbmJoRWg0YWFmM1JEZ2dneUlHN2N2UlZ0dw?oc=5",
       "publishedAt": "2026-10-30T07:03:10.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -369,12 +481,12 @@
       }
     },
     {
-      "id": "5df4098734edc70f",
-      "title": "SK하이닉스, 사장단 재배치로 AI 메모리 2막 준비…\"HBM 성공 방정식 바꾼다\" By EBN",
+      "id": "2b70294c3e00c3ec",
+      "title": "한미반도체, SK하이닉스서 HBM 기술혁신 공로 감사패 수상 By EBN",
       "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUjYwdl9IN3QycldRNkdKbl9tZXhnbzg3dEgxYy1WblpNOFI1enpHMHdFaU9nWHh5WmJlSjE5TTJrREI1VmFRbmt2dEZJWnZDWTlYUVdYczRtcnd0aGlqZTByYzNrbFhoSGlRM3NYVzM?oc=5",
-      "publishedAt": "2026-10-30T06:59:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY0VFQ3lkZjhJclVzMmEzaERqbWtVenJ4SnlRU0tKMmRzUXk1MHN5bUdUQ0ljLWIzbjFUSXhwWTJZVkxremRhOHg4VDZoOHNnLWhJV2Q2Sks5bHNsZ0tZZ19lWXRsdU9nTURsOE0xLUk?oc=5",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -385,36 +497,7 @@
           "ticker": "000660"
         }
       ],
-      "summary": "SK하이닉스, 사장단 재배치로 AI 메모리 2막 준비…\"HBM 성공 방정식 바꾼다\" By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a3ec00bc1c643a12",
-      "title": "SK하이닉스 'HBM 기술혁신 공로 감사패' 한미반도체에 전달",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YWp5TS1qNjV0b05lM1podF9BMGZGSHlka3VLdjhreE9aVUhWU1dvY2gzYjJnQTlxM2xTSlB3eWhfN0VEVVJvcDJrV3N3Zw?oc=5",
-      "publishedAt": "2026-10-30T06:04:38.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스 'HBM 기술혁신 공로 감사패' 한미반도체에 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한미반도체, SK하이닉스서 HBM 기술혁신 공로 감사패 수상 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -425,12 +508,12 @@
       }
     },
     {
-      "id": "6494b7f4568c1075",
-      "title": "한미반도체, SK하이닉스서 감사패…HBM 10년 동맹 인정",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zenY0N0JlU3UtNUZhZEY2V0tjMDlmYTc3cjNvWDJpNWhnbVlxckFSbnFnYURGeTA4X3c3VFpqZm9lSmYwWFAwMERLNDA2U3UwM2JjRENWY1Y5cGJf?oc=5",
-      "publishedAt": "2026-10-30T05:28:00.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "id": "c00b290cd32873a8",
+      "title": "한미반도체, SK하이닉스서 감사패…10년 협력으로 HBM 생산기술 고도화",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXem9DNUFoUmRmbURpVmVBX0JVME81S1JPNWlhVS1BakhaVEZPQWdnQjM0c0dvQk04ZmJXTnFmenk2TE9XY0IwU08wZmpnWjVfT2lDb1B2QllIYlJkelVhZA?oc=5",
+      "publishedAt": "2026-10-30T05:26:54.000Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -441,7 +524,7 @@
           "ticker": "000660"
         }
       ],
-      "summary": "한미반도체, SK하이닉스서 감사패…HBM 10년 동맹 인정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한미반도체, SK하이닉스서 감사패…10년 협력으로 HBM 생산기술 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -457,7 +540,7 @@
       "source": "SK hynix",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kdFllNlhsMF94WkxiakxodUttbDFpYWE4UG93Wm9NSWNsNUt6UXh4eTlSeTg4Rk9hZ19ibTBYMHhYQ1p3LTdETEFlMlU5U2xBdTRhS2tjVndyVEN5TS1NQg?oc=5",
       "publishedAt": "2026-10-30T04:50:23.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
+      "collectedAt": "2026-11-04T10:11:58.468Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -470,87 +553,6 @@
       ],
       "summary": "SK하이닉스, 일본서 첫 ‘파트너스데이’ 개최… 현지 핵심 협력사 초청해 사업 방향성 공유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "66f56e67042795be",
-      "title": "SK하이닉스, ‘HBM 개발 주역’ 안현 美 전진 배치…미주총괄 신설",
-      "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pRjdCY0ttUkRORzlBbUlIWmFqOHRJSm1oVEhsSGN1R2x6TUI0b080QklDWEpqMGxCaURNVkJrTzREZ3Rza2ZuRTJaWmtyRFZkX1RvLW40dEVzODg?oc=5",
-      "publishedAt": "2026-10-30T02:26:05.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, ‘HBM 개발 주역’ 안현 美 전진 배치…미주총괄 신설 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "61849102525e747e",
-      "title": "SK하이닉스, 미주총괄 신설…HBM 이끈 안현 사장 배치",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZZmREWEZRZnNzTVItaE5SRkg4MGRiNW04bDh1TzdQR2tXaUEzMVpmNFdWVVVoNzNLV2UyTkJOLS1rUkNOelFQdVduWnlGZktya2ZXN1p0TXVyVjjSAWBBVV95cUxNaWxEZ3RnOVBaaWJacDhZUkRTUkRwN2Q3YVM1ZDJ2NnJNT1JXcHdac0NGNV80c3VDRDRkNWVtTmE0TEd0VDduVnVPY2pZbmoxMTRqaEdMbFBNTDdHRko1SWk?oc=5",
-      "publishedAt": "2026-10-30T01:43:48.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, 미주총괄 신설…HBM 이끈 안현 사장 배치 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "190f0abfad041277",
-      "title": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미주총괄'로",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hSjdtcTNiaE03RmRVYlhpQjRJREhDUUEwRFJmRnYtT1E4S00wVElWUk83UndIaEo3N1pQRnBjRC1qUGZxU1NfLTk0WGpkdw?oc=5",
-      "publishedAt": "2026-10-30T00:35:33.000Z",
-      "collectedAt": "2026-11-04T02:50:02.359Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미주총괄'로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
