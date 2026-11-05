@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:58:18.159Z",
+  "generatedAt": "2026-11-05T10:23:30.376Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대”",
-    "한전 전력연구원, BIXPO 2026에서 ‘KEPCO R&D 컨퍼런스’ 가져",
-    "한전, 전력데이터 개방으로 에너지 AI 생태계 조성 앞장"
+    "한전, 유관기관 합동 ‘에너지산업 로봇기술 컨퍼런스’ 개최",
+    "[BIXPO 2026] 한전, 에너지산업 로봇기술 현장 적용 확대",
+    "한전, 전력데이터 개방…\"에너지 AI 생태계 조성 앞당긴다\""
   ],
   "articles": [
     {
-      "id": "d4b53400fab6b1ec",
-      "title": "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대”",
-      "source": "서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TY3otZ1NtaWhnYndYRk5NNzNmRzBIWEhvdFE1Q1hkZk5pQ3dIdFdZMEpfU0hnQzVSNDFwU1h0d3ZNbjc1cTg3TDMxaHBzMVBYSnfSAVNBVV95cUxPWl9oMHlFcDlMSDU1dmNmME45TGc5amlfS2hlMHhTSnpicnRXRWNqalc3bllpaWNXbG13SXBleFVFOW9ELWZWZXJRWVVBeGowbFpwMA?oc=5",
-      "publishedAt": "2026-11-05T02:47:47.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "id": "6c5dea62181a8258",
+      "title": "한전, 유관기관 합동 ‘에너지산업 로봇기술 컨퍼런스’ 개최",
+      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vQ2g3M2NUbE1LYllPTWp6UFl4bk9ObkhsSHM3Mktla0FTOHFvaVBWdFV2QmtsUDdHeURibDVOcmJGV0NWMVZCRVNVXzRVdXN4WWpMTW1IZk5HMy01cFhKQW9zaVRvWmpabjBhcklLdDZ3Zw?oc=5",
+      "publishedAt": "2026-11-05T08:13:36.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전, 유관기관 합동 ‘에너지산업 로봇기술 컨퍼런스’ 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2f964101df753889",
+      "title": "[BIXPO 2026] 한전, 에너지산업 로봇기술 현장 적용 확대",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRHlKTVAyOUVkLXozd0lsb09sV09DcVFMVkhuNllzWWJfck1Lb2JNcGlJOXZHaEc5aUduQWhDTGV3QjN2WGVFaTY2cUJYT1ZLNXIxeHdBVWhpRnAyWkpuekJhaU9ZbVVyVV9EUWpMaXnSAXBBVV95cUxOWER5Sk1QMjlFZC16M3dJbG9PbFdPQ3FRTFZIbjZZc1liX3JNS29iTXBpSTl2R2hHOWlHbkFoQ0xld0IzdlhlRWk2NnFCWE9WSzVyMXh3QVVoaUZwMlpKbnpCYWlPWW1VclVfRFFqTGl5?oc=5",
+      "publishedAt": "2026-11-05T08:07:16.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[BIXPO 2026] 한전, 에너지산업 로봇기술 현장 적용 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "16cbd19f549454f7",
+      "title": "한전, 전력데이터 개방…\"에너지 AI 생태계 조성 앞당긴다\"",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HdEF4aWZfZ3hiakpSUlBVSVBsNUhWUjN6ODVmWDJ4MXQ1Mzl6RWJiYTM2V2ZKMmVQemJ4UElRdWg2b3R0TERSX1NRSHZTSjhhM2ZIX2tVVVFOSHFiMUR6RFViZUdySkh5cFZzenlqVng3SWdKbm00adIBeEFVX3lxTE9HdEF4aWZfZ3hiakpSUlBVSVBsNUhWUjN6ODVmWDJ4MXQ1Mzl6RWJiYTM2V2ZKMmVQemJ4UElRdWg2b3R0TERSX1NRSHZTSjhhM2ZIX2tVVVFOSHFiMUR6RFViZUdySkh5cFZzenlqVng3SWdKbm00aQ?oc=5",
+      "publishedAt": "2026-11-05T04:59:54.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전, 전력데이터 개방…\"에너지 AI 생태계 조성 앞당긴다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "eeaad7a227a4bf83",
+      "title": "LS일렉트릭, 한전 '전력설비 예방진단 기술' 도입 |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZem9jeDBEaXE2djAtUzVtTGlXZ2xCYTZPZWNnUzBrSEJ4Q1pTNXZHdVdyLW45a0JfeTdvMzFtT3dvY3JxRHZ2SFY1SjJPSFppYWVJbXFEeHVzSzZ5aFRfMXRCaG40cXdvNVJTMWxiQUxaeTNW?oc=5",
+      "publishedAt": "2026-11-05T04:59:16.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -36,8 +117,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "LS일렉트릭, 한전 '전력설비 예방진단 기술' 도입 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -47,12 +128,66 @@
       }
     },
     {
-      "id": "a3be7e5542c1dca5",
+      "id": "d5df14941a285fcb",
+      "title": "퇴임 앞둔 김동철 한전 사장 \"전기요금 현실화, 정부와 논의 필요\"",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFNZeUdOZ21rUzBITlMzQVl6cVp6SDNJbW5XMXRTNFNZODRPWUUzUm1pOEYzX0FKaTlkOVl5ektzQVI5bGhSWnBLaVZhLXZiVXRUWVEwckE1QUI1eEpMTlBkeDBCemE1TFNxWHJrUHhWbFhqSVpJTXNzNDRLWHlNWllpd09fbUxFNW02UUF3?oc=5",
+      "publishedAt": "2026-11-05T04:36:19.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "퇴임 앞둔 김동철 한전 사장 \"전기요금 현실화, 정부와 논의 필요\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b4130e3757a775ab",
+      "title": "김동철 한전 사장 “전력망 투자 지속하려면 전기요금 현실화 필요”",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBybWFHTWpSc3JUWFp2M0VtTjZuOUNPTkJOUnMxS01qMy0zdU5OV0k0bXRyZ1RLekIxTVFhVGJJdl9LeTNaenNMdFJHb25hTndYakEzQ0ZJUkc2eWxReFVkVTVCb0VWcmliWEpueEQ4d3DSAXBBVV95cUxQcm1hR01qUnNyVFhadjNFbU42bjlDT05CTlJzMUtNajMtM3VOTldJNG10cmdUS3pCMU1RYVRiSXZfS3kzWnpzTHRSR29uYU53WGpBM0NGSVJHNnlsUXhVZFU1Qm9FVnJpYlhKbnhEOHdw?oc=5",
+      "publishedAt": "2026-11-05T02:39:46.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "김동철 한전 사장 “전력망 투자 지속하려면 전기요금 현실화 필요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "04c28e32c802ce1f",
       "title": "한전 전력연구원, BIXPO 2026에서 ‘KEPCO R&D 컨퍼런스’ 가져",
       "source": "일렉트릭파워",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbmNQLTdVaFlOcGROZVhack9wU2NYMFZybm9nckwxbW1wd09WcHJ4ODFRaDY4djdhYU9fT3U0VkZlR2R0V2FMbG9GblFPRzZ6ZlhNelBJb3h4dWxjWTNHdEhwLU8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YaFRQQ1JYc1QzV2MzNzhncVlZNmN0STRhazBXMVJSbkZVa3FoTDBwQktkTTViYVJkR0RGdkI4ZkZMQ0hZMnRoZHNHdXkzYnRfWHBLU2ZDMWtkVlJpdEh6dm9Pai1aZw?oc=5",
       "publishedAt": "2026-11-05T02:16:00.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -74,39 +209,12 @@
       }
     },
     {
-      "id": "1b341b79f9639b0d",
-      "title": "한전, 전력데이터 개방으로 에너지 AI 생태계 조성 앞장",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeUswY21ITkFaNG1DSkNxaDJwZnBPRktzRGVmZVdtclNoX185YWRUXzB5Nmx1a0VZclEtUG4wZGZFa2hnc29LX1hQMnpFLXZka2l3SzlENXV0dGlqOHRRS1hMWWF6MnRZa3E3UFRfREfSAXBBVV95cUxPQXlLMGNtSE5BWjRtQ0pDcWgycGZwT0ZLc0RlZmVXbXJTaF9fOWFkVF8weTZsdWtFWXJRLVBuMGRmRWtoZ3NvS19YUDJ6RS12ZGtpd0s5RDV1dHRpajh0UUtYTFlhejJ0WWtxN1BUX0RH?oc=5",
-      "publishedAt": "2026-11-05T01:57:48.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전, 전력데이터 개방으로 에너지 AI 생태계 조성 앞장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "594efd32ec24fd7a",
+      "id": "edecf9c033c1a7fd",
       "title": "한전, LS ELECTRIC에 전력설비 예방진단 기술(SEDA) 이전 - 머니투데이",
       "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUTY4b1NGRFdtc1o0dWFSekk0a2pHUExyZldPVl8tcmJlbjVsRUZVMUtacHp1RWFwN1dBUkd4RXBTSDlDTktOMmRNMUp1VDI5emZ1Wi1TMFNydW53dUlvNDFGZ2d4N01OQUHSAW9BVV95cUxOZlRGVWVkU2NOOGppY19VWWJwR1dLUXlLcm5DQXZHRHNtc1h0ZXg5cGhfckk1dE1WazYwNUo2bTRqOUVUeE50d2hkd0F4M05zUURUX3Yyck9HWG41VTl1RGtPS01lWXAtb0ZzVFkyaEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mVEZVZWRTY044amljX1VZYnBHV0tReUtybkNBdkdEc21zWHRleDlwaF9ySTV0TVZrNjA1SjZtNGo5RVR4TnR3aGR3QXgzTnNRRFRfdjJyT0dYbjVVOXVEa09LTWVZcC1vRnNUWTJoQdIBb0FVX3lxTE5mVEZVZWRTY044amljX1VZYnBHV0tReUtybkNBdkdEc21zWHRleDlwaF9ySTV0TVZrNjA1SjZtNGo5RVR4TnR3aGR3QXgzTnNRRFRfdjJyT0dYbjVVOXVEa09LTWVZcC1vRnNUWTJoQQ?oc=5",
       "publishedAt": "2026-11-05T01:05:30.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -133,12 +241,12 @@
       }
     },
     {
-      "id": "0613615ef63567d7",
-      "title": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…반도체·데이터센터 공략",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14RlVpdEhScUNuSy1CY0duTUhrOFdNOVZaa3dPVWVEWWczWTRaVXliNnc3RnIydndqWnBRamdqYjd6eFM1Zm5PVHFRNmZtX0NuNzNqS1lhRjhmcVZL?oc=5",
-      "publishedAt": "2026-11-05T00:33:00.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "id": "24b28537b1dafc15",
+      "title": "인포시즈, 한국전력 ‘전력망 AI 전환 실증사업’ 성과 공개",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xakFfaVVCTWdRXzVtTWRfc3JFT2ZGcDllMzZxN0VCTDh4Y0tPa3RQOGZVanhvaUN6UUYwTW44TGhoWGdCQ1dDYU5jQ3JTVC00dmhjSXVyZVJwbC1yQW81TV9qSjdOMEstSE1UMEY3TEs5dw?oc=5",
+      "publishedAt": "2026-11-05T00:50:33.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -149,40 +257,8 @@
           "ticker": "015760"
         }
       ],
-      "summary": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…반도체·데이터센터 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "807d15b56e161e11",
-      "title": "한전, 전력설비 AI 고장진단 기술 LS일렉트릭에 이전",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqYVBaZkVOV1p4ZnFPaVY5cXZSdlk5bVl6OE5FcGFuWXpZRkU2SG40R3VqTUEza0FhUUZiVm5IdnJxRWNvX2xKLVFLMERkYmUwV1BPYXROTjZXVlN5N0ZHcDVNU3NFajNw?oc=5",
-      "publishedAt": "2026-11-05T00:19:24.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        },
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "한전, 전력설비 AI 고장진단 기술 LS일렉트릭에 이전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "인포시즈, 한국전력 ‘전력망 AI 전환 실증사업’ 성과 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -196,8 +272,8 @@
       "title": "한국전력공사 남서울본부, 영등포구 취약계층 위해 고효율 밥솥 82대 기부",
       "source": "영등포신문",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbFQ4ZGVoaFQxaUpaTE9MOGdfUVF4TTMxLThSVjdKM3Q3elM5M3VRTnhFOFp2S20tOXZTdWdNZHJPOWFsbnd2WDZPa1JpTFowMC1vTXVrdndNY20y?oc=5",
-      "publishedAt": "2026-11-05T00:14:23.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "publishedAt": "2026-11-05T00:43:44.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -224,7 +300,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oQTYxUHNlZkZBdVlqb09naFpjcVFLd0FwbVJlMUZ5V3VnQmQwX0FER044YTVZNUtEWUI5eE00bXJjR3NLNW5TbElEalltR2ZUM0IyY3ktc1ZUam5DdndTRWhxdldJZ3VNT2l4NmNfSkZwQ2tFR0pqTtIBeEFVX3lxTE1oQTYxUHNlZkZBdVlqb09naFpjcVFLd0FwbVJlMUZ5V3VnQmQwX0FER044YTVZNUtEWUI5eE00bXJjR3NLNW5TbElEalltR2ZUM0IyY3ktc1ZUam5DdndTRWhxdldJZ3VNT2l4NmNfSkZwQ2tFR0pqTg?oc=5",
       "publishedAt": "2026-11-05T00:07:44.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -251,7 +327,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvaDVKeWFvX1lzUmRqa0ZDZFAxSFNyZW9JSGtaM3o0RDhhcE9JMEREeTdBaU1SblotNkpiTTFGMHhGd1U5R2FnRVZFUl9VelN3M0VOUlo0X0hncS1CdE96czZ1M1c?oc=5",
       "publishedAt": "2026-11-04T23:45:32.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -280,7 +356,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96U2JWY05hLVk2UW8wRHV1S25NbFNMWXFiSmhhazk5SHphc3pUTmoxZ0o2cEljQXdkM180ZVl5ZFA5T200NmlNakNqWGpvRGFpV01lVHV1dkI1RzhnYTZ1OdIBYEFVX3lxTE96U2JWY05hLVk2UW8wRHV1S25NbFNMWXFiSmhhazk5SHphc3pUTmoxZ0o2cEljQXdkM180ZVl5ZFA5T200NmlNakNqWGpvRGFpV01lVHV1dkI1RzhnYTZ1OQ?oc=5",
       "publishedAt": "2026-11-04T23:39:51.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -289,6 +365,11 @@
           "id": "kepco",
           "name": "한국전력",
           "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
         }
       ],
       "summary": "LS일렉, 한전 전력설비 고장예측 기술 도입…관리 체계 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -302,12 +383,12 @@
       }
     },
     {
-      "id": "0fda685ea1ad6efc",
-      "title": "인포시즈, 한국전력 ‘전력망 AI 전환 실증사업’ 성과 공개…512개 질문 정확도 100% 입증",
-      "source": "퍼블릭타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTFhYTXZKczVETWdfM3BHN0QtTmFPeEVYU01fdmdMZ1JlM3V0S3pENF9nUDhPSkVBY0M2RC0zeTN4VGhoZldYQ1hzVmRmallENEZzQ1BMdVg3RFlFTXM4SEFxMTVsbmUtUVHSAW5BVV95cUxPenBVbzhDQ0pNMTRvVkNZa0lfU2dyTGdwNWNFWDFIc01wc1JiME1Dbll6MGpuVFpacVFYZ0dhbHM4MDRxd0I2aWxYUkhPMmQ3RjF1VzRMM1VlTDhGX2o5NTBrWHFobWxsM2gxUE5rdw?oc=5",
-      "publishedAt": "2026-11-04T22:53:46.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "id": "3e60efb9dd530f06",
+      "title": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…데이터센터 공략",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjluNXM5dWNaU040bmUtSFdnVzdaTTRiNnpFSWhFeGhkeThCQUhQRnJxQlNCN0JXOUJtN0hXQ2ZzRlppRTF5WmtHaG1VZmlZUGVEWUU0d2xrYURCWXJ6SW1nV1E1ZDdtRm1QWGpUUnhjSUlxQU8ycnVEb3FXQ09mSFBESmhTUQ?oc=5",
+      "publishedAt": "2026-11-04T23:23:09.000Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -316,10 +397,15 @@
           "id": "kepco",
           "name": "한국전력",
           "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
         }
       ],
-      "summary": "인포시즈, 한국전력 ‘전력망 AI 전환 실증사업’ 성과 공개…512개 질문 정확도 100% 입증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…데이터센터 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -334,7 +420,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVpyVUJJWGNwTWhSSk95d1JqamdmMTRXQkVtdmxfSU1VMFZLVjJKOFh4S3VhWmdpSl9ycTZRaGxSalNsUl9tQjdKSXNsRjlFVFRRdEtkNVB1R1piT0dUMl9jUTJEdmo4bXNGVjFaaFBodkw0bWN2LVlzSS1YMjI3Tl9yU0g5a2sz?oc=5",
       "publishedAt": "2026-11-04T22:41:24.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -361,7 +447,7 @@
       "source": "토목신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UEUtd2V5SV9qYzdpZ2JGRnhYMWtPd2tkSm1kOWQ0cTU1S3hQS0JVR3pyMW9Vck42SV9ZUGVyUGMwRUxFVWJiSkgyTVJiUngzYnpSaEFxVFF0MWdiMXg5NVBaVHc2VHda?oc=5",
       "publishedAt": "2026-11-04T12:28:22.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -388,7 +474,7 @@
       "source": "에너지플랫폼뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Kb3RtUjRvTW5QS1lHWTZORGlTYzFqcUpHRTN6SHcxeXVpUm1jY1VucS1oeExjRzBNb3JRUVlXQVNuT3A1OEpuSjZ3WS1UU2VpTF9mNjczYmFYSVhNUUh3OWpaMU9mV1ZQdnkxOdIBcEFVX3lxTE5CWjYycjlOUXQzRHYwWnlERkI1R3BJS3RwTkJwV1Y1T0MzaFNOblVEcDBENDlLZ3pYMVByaThlQVVkRDhhbXJsOEUyZ19HT0p4NGZNNTk3WWtMNW5DN1pRZ2NVa0hVM0d6Ri05OGpiTE4?oc=5",
       "publishedAt": "2026-11-04T07:29:39.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -415,7 +501,7 @@
       "source": "라이센스뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NclFmZnUxSkswUWNOT195NDVjd2F0RG9Nei1va1Y2WmJzNHZXZDgyNVd3RzVBeHA4MVIzZU9fbXV6dmR0Q2F5TEhWZ2daNHNCbGxvZERRcGlGSllkU0U3c0hWN0I0dk9mc0pR?oc=5",
       "publishedAt": "2026-11-04T06:30:00.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -442,7 +528,7 @@
       "source": "워터저널",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoUkpqdE10b2dPN25mb1RfUk5OOUFmUHo2dHJ3WmVJWW9PYWxaRUloZ2RzMEx1Q3BmRGZvUDNOY2FWUWRSX2Jyb2tpT0JXM2JNaTRLMkY4NUVPNEs3VkM2VHhaMEpLXzRqdE1PcGNfY1I4RzZiOWfSAXZBVV95cUxQaFJKanRNdG9nTzduZm9UX1JOTjlBZlB6NnRyd1plSVlvT2FsWkVJaGdkczBMdUNwZkRmb1AzTmNhVlFkUl9icm9raU9CVzNiTWk0SzJGODVFTzRLN1ZDNlR4WjBKS180anRNT3BjX2NSOEc2Yjln?oc=5",
       "publishedAt": "2026-11-04T06:18:05.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -469,7 +555,7 @@
       "source": "미디어생활",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFMUVFQkc4MnNLaTFYREgxbXB0bEpscGs2NmhzRFBZdVVOOU9VYlh4a1V4Nl96a005anhodlRmSnZwMUstU0pUZ0lpNE50dW13d2tjcURUYzNiWHJFZ0RINGEtN1EzZk5UalREUFpSdw?oc=5",
       "publishedAt": "2026-11-04T02:16:45.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "collectedAt": "2026-11-05T10:23:30.376Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -481,87 +567,6 @@
         }
       ],
       "summary": "영종종합사회복지관-한국전력공사, ‘10월 우리동네 플로깅’ 진행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ee726571a9dc6533",
-      "title": "홈 개막 완패라니.. 한국전력 석진욱 감독 \"쇼한테 가는 공격 너무 보였다\" [수원 현장]",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTJrbmoxZ25DdmZnWFBOUGU5dVdJTkxUb0txYlVHUXREOEVqdkExVWNwNE1fQjBlSFJLSGpNbnZhRUNQSmZ4VEE3SENLdjBhU0lVNzFnQ19zOThVNDVWcFFVZjZoN1htM2x1Ri1LWFVpMEZKaXhEckEwWHNDaHh2YWNKVE5mZw?oc=5",
-      "publishedAt": "2026-11-03T13:07:00.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "홈 개막 완패라니.. 한국전력 석진욱 감독 \"쇼한테 가는 공격 너무 보였다\" [수원 현장] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b15a89362d2addd0",
-      "title": "'아라우조 20점' 우리카드, 한국전력 홈 개막전 잔칫상 와장창! → 3-0 셧아웃으로 끝냈다 [수원 현장]",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmZVTllsOFkyVmR5OWlVTkRpV09tRFhZWEZzekdtVWw4NWlhc1BTOGx0QjZBLS1qRlRHMUZabHlxLWF3WnVMeTNaR21GekdtTWRZZUJmSnV2aXM3cGtscjlTc0pLajc2cXNfQmhQbHg5eS1pcGdkM09ua0hnUnp6MV9haFRKdw?oc=5",
-      "publishedAt": "2026-11-03T12:49:00.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "'아라우조 20점' 우리카드, 한국전력 홈 개막전 잔칫상 와장창! → 3-0 셧아웃으로 끝냈다 [수원 현장] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "db7ea8535e5e370b",
-      "title": "'아라우조 20점' 우리카드, 한국전력 3-0 완파…시즌 첫 승",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qQlpsd05YMHg0SFZONlVWQTNjRzRETDRIU2lnREtJRklmaHB4NVBYQU1DeU5nZnF1WnFJVEF0YmNaVG14elpjWWJQU2p4dGV3d2lGaWJpcjJKUDg?oc=5",
-      "publishedAt": "2026-11-03T11:43:31.000Z",
-      "collectedAt": "2026-11-05T02:58:18.159Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "'아라우조 20점' 우리카드, 한국전력 3-0 완파…시즌 첫 승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
