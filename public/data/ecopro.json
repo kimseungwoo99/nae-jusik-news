@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:20:36.655Z",
+  "generatedAt": "2026-11-05T02:58:18.159Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,184 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "코스피, 외국인 2.5조 순매도에도 상승…이차전지 강세에 5,680선 회복",
-    "코스피·코스닥 동반 상승 마감… LG엔솔·에코프로 등 2차전지주 강세 주도",
-    "에코프로·에코프로비엠·에코프로머티 동반 강세…美 중간선거 이후 이차전지주 '촉각'"
+    "에코프로비엠 \"중단한 헝가리 2번 라인, 지난달 말 가동 재개\"",
+    "에코프로비엠, 3분기 영업익 120억…7분기 연속 흑자 불구 전년比 76.2%↓",
+    "에코프로비엠, 전기차 부진에 3분기 영업익 76% 감소"
   ],
   "articles": [
+    {
+      "id": "cb3de11c996a585c",
+      "title": "에코프로비엠 \"중단한 헝가리 2번 라인, 지난달 말 가동 재개\"",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQlhNME8xNkFUTWZLbndqQkNVTjFGMkJ1bElyT0tlR3pTelJzVWpwQ3FZR3R6d3lxVFVVandZZVI1RXJpWWFyQzNUOWtPY29DS2w5dXdJY0pXNUdOSW5PREM5ZmJWdFJBWmVjcWc2THY?oc=5",
+      "publishedAt": "2026-11-05T02:00:47.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠 \"중단한 헝가리 2번 라인, 지난달 말 가동 재개\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d291dd9e9b0ecd25",
+      "title": "에코프로비엠, 3분기 영업익 120억…7분기 연속 흑자 불구 전년比 76.2%↓",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUJZS0lxQlJVLXNqMFpQWGluand1T1RmSVBiSVB2OFZvSzlRUUJkOWhSMjdIVGJlRHhlZEY1dU81Vl9rTkwtWE1NZ2R3LVh2VVVlbGR6YVRDNC11NzV6MEdVZHNfY1VwQlJ6Ti1ucnE1ODJobjlLb1F2Mm91Skp1cnBxWEXSAZgBQVVfeXFMT3E0MExLVnRjUU43NkoxU2N2RVJoTXdndXpxN21FcFhMb3JwbTljWlVSa1Y2VEpCSXdnUDVZZ1E5Zi11aWZuaHZlTm5QQTduU0xrZE52VHp3Y2RBQjE1RDlwQ2lVUFdKUTFUa1UxOWZZWnRHMlNfeV8wcHVaa1d4dy0wWnlfSlNycHpJRVVKU1c4LWdpWGp2ZnE?oc=5",
+      "publishedAt": "2026-11-05T01:35:00.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠, 3분기 영업익 120억…7분기 연속 흑자 불구 전년比 76.2%↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d4a9e8c80a6ccff2",
+      "title": "에코프로비엠, 전기차 부진에 3분기 영업익 76% 감소",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMmc2ZnFOcTYtcXBhSUotTHNkUHNmbWZtSTl5Z194OE8xbFh4M2l5TVRDQUpTRmFDa0NOUTJTT1I2NHpKV2hidks4djl3R0swdzdKWS1sSGpLejNhZ3JocUpvSmRvdw?oc=5",
+      "publishedAt": "2026-11-05T01:30:13.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠, 전기차 부진에 3분기 영업익 76% 감소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.47,
+        "confidence": 0.72,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "이익 감소"
+        ]
+      }
+    },
+    {
+      "id": "cd023bdf81137a69",
+      "title": "에코프로비엠, 3Q 영업이익 120억…EV 정체에 전년비 76%↓",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JSm9jdUdsS3Q2Szl1RnlvWmowYmwtNld1c0Ezemw2YkxyVHRjMjFPejRpWkFqRUVYdW9kcnN0UTZILXhsNUctbE5YcF9MZ0xhaEQ5b25JcHhtZGhCR2NjR3BFTGZVTmRYN3dMVV93WUs?oc=5",
+      "publishedAt": "2026-11-05T01:03:47.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠, 3Q 영업이익 120억…EV 정체에 전년비 76%↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4880f8bf203760d7",
+      "title": "에코프로비엠, 3분기 영업익 120억…전기차 부진 타격",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2RG5kWHRZaXlnSF9TeUNjSTM5dW04OVNhZmJYSTBiNVpmQjhHOWs3cGtxcUFpMG1feEw4amhhMzVZZUFqRjhRTDhKcVBzVGlRekhSaHZB?oc=5",
+      "publishedAt": "2026-11-05T01:02:29.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠, 3분기 영업익 120억…전기차 부진 타격 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dd20a356f70dae09",
+      "title": "AI 데이터센터 ESS 수요에 7분기 연속 흑자..에코프로비엠, 3분기 영업익 120억 기록",
+      "source": "데일리카",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuMWZFY0d5VnY1RFB0MWVYSk1wNFRRUzdSUFZycmw3MjRpYVgwSEdXMUJaYUtxMFVPZDZfaVpScDBTamVCUjZHV0lUbkxLV19kZm9QVzJSR3E4MFRtaE4xSm5XemxTX0x3U1pRXzVVazc4dTR0TWc?oc=5",
+      "publishedAt": "2026-11-05T00:58:45.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "AI 데이터센터 ESS 수요에 7분기 연속 흑자..에코프로비엠, 3분기 영업익 120억 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "aa7ed93d3a70ecbb",
       "title": "코스피, 외국인 2.5조 순매도에도 상승…이차전지 강세에 5,680선 회복",
       "source": "nbn 시사경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRVTVSWDZ3N1NVMHpiS2xDVzNXbEtNZXhjdTVLeS1JMk5NVll6c05VYUtsVTNIamYyeTdJVGQ3N0VxaW9fNWdUQW9XQl9OMmw5bE1Ta2lGeDdqeU5FSDlSeGRVM09GQlNxWFE?oc=5",
       "publishedAt": "2026-11-04T07:08:06.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -49,7 +213,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SEN3NEx5ck5UWk1qeVBpekk1SXlQalNrWGNKdElpS0FOMmxLOEtManZaOGxCSUVlaXFldGF5cmptN2Nuckc0ekpjcFVwV2ZrNkY1UlZlTnNqbFBBaE5PRGdIUEtmbHNHZ3pLcld3?oc=5",
       "publishedAt": "2026-11-04T06:39:58.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -78,7 +242,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03MHZuekZKUkRiaUM2Z1k4enl6MzBrNWhwb3NQbEEyemhkbFRBSXRSaWdLOGY4dXlWZUlTM3ZzZWRxVm5xVllZMTlnQzBPN1VKN2hqa21Fa2JmMnptQkZKV0tQZkdvdG5t?oc=5",
       "publishedAt": "2026-11-04T05:33:35.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -107,7 +271,7 @@
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BbE9pZUx6SG1xZ2hQMTBudWVheFR4YlV4aV81bnBTbkRzNHlBSnpCNTd1WjRSYmpKbzdzYXBrZzhtbndwUGY3XzBHX002enhYSjMtXzNsd1RrVGMwOVdCWnp4NDZ5MU9iRWE5TG1kOEIyQdIBckFVX3lxTE9BbE9pZUx6SG1xZ2hQMTBudWVheFR4YlV4aV81bnBTbkRzNHlBSnpCNTd1WjRSYmpKbzdzYXBrZzhtbndwUGY3XzBHX002enhYSjMtXzNsd1RrVGMwOVdCWnp4NDZ5MU9iRWE5TG1kOEIyQQ?oc=5",
       "publishedAt": "2026-11-04T05:18:27.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -136,7 +300,7 @@
       "source": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RYS1kYlBzYzl1YTJqSW5ROWwyMi1IZlVaWVV5VEZvbmZyZE1vNDB4STdOdzB6bmFSZEpBRW9ERGJPTU9nVGF3NDNhT1Nkdk50a2s4TDBrZ080MHh4ODk4STFvSXY2Wks0d25kLWI4cWxycEJZTmVPTDdfUQ?oc=5",
       "publishedAt": "2026-11-03T08:53:01.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -163,7 +327,7 @@
       "source": "헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UOEJld2liS1Z2amtaMWdBTlpuWmZ6clZDTDdXVGhTdkJZQWtvUFBjbjRjcmM3RWZIMUtPVjVSbkdDLVZkMndfWDloV09vY2Q0dG5PMHJVSzMwT0ZkWkliNXpEZjNCekJIWXc?oc=5",
       "publishedAt": "2026-11-03T08:40:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -190,7 +354,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZTmdSX3FXVEFEODJacXFSUHQ2S3hfelJGUXFBWnBzMjNZUXBZOUg2d1c5c0tMMXBuYnZ1SnJkOGs3dTJseF8yVVM3SXFDRjhQLUY1czY5dHp3bW5pVFNLQkYzZw?oc=5",
       "publishedAt": "2026-11-03T07:21:52.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -219,7 +383,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HMGQ0Y0dTZ3IxWUh1U1ZzQkJxemtaSVNfRDhMdjA0UVZBQS1Ec0wxVWt0VHBZVkVjdW5lOGw1M1d4dV9zcW1QZUM1OV96Zw?oc=5",
       "publishedAt": "2026-11-03T04:30:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -246,7 +410,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85RUl3eE1sZ00waGJpS2hBeG5uUEl4UXZjdUo2ZTg4WkNkSi1TeTdNSEU0eW9iYmlZTmZ0S1RBQjlSLWlYQXJQbWtsNDdBUi1ES0toejdia0dqYTjSAWBBVV95cUxOLUc2MXpUSkpZa1dxVGZ5U3NEMU1ZdFZkS2Focy1HcmtydXNTa1lGZnctdWthTzVheFA2dUJFcUZoUDE3V3B1cm9VdTgxcXB0QkJDTWRnWWVyZVNWT05EMVU?oc=5",
       "publishedAt": "2026-11-02T06:09:09.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -273,7 +437,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRbzA4WmltMHhHd1lIUVM5MUhManRCLWJjWk1KbndVejZUeFl5XzhCUTQ0MFg0OUhhUU5FZlBfSklxWlVNX0g4LW1sU1BEZw?oc=5",
       "publishedAt": "2026-11-02T06:01:58.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -300,7 +464,7 @@
       "source": "충청투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UEdOR1VLQkxReDBxTzEyVnBCbGdvZmpYRGFZc0V6MWRIeXVUcjg3VVlkZHhfMktWMmRzeVFORWZUWURGRkpZcHBMSDhRb2RfRWh0dThBTjdoUGZHRkR2WUtfLWZudGFGbTJnNmZn?oc=5",
       "publishedAt": "2026-11-02T05:42:21.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -327,7 +491,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PWW9yUy11QkdYbUluU1RqNFp6OUJhMEEzcC13Y0lKcnFDZUF4SWhmVHE5S0xJaGExOXF3dVBWbElNRjlZcldUdW91ZkpEVm5seXBIRA?oc=5",
       "publishedAt": "2026-11-02T05:40:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -354,7 +518,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zcllIclAxRkpTLVNNY3VtTFBKS2VUTFFXVFRnS1ZfVmdneXJBMVN0VWlKZkxycnlGci05d2pLNllqNVMzWHdSZ1ctSWZBUGRZWUZ2UHBUU0d4YVJycTJ6UdIBeEFVX3lxTE94ZTBWQjB5dVI4bzdsWEczSkRrSDI0d0RDemh0c0FoeXdwYmdMMXR3ZUFtWDVrUVJHM2U4VlYtNkt3a3hqT0RBNmU5RktoRExhUjBoQnhMMFhVTjJ6M0ZGb2Y3bkZxOUhUSEx4S1VPZjRuOHJqNVlGVg?oc=5",
       "publishedAt": "2026-11-02T05:14:51.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -381,7 +545,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTk5QWHJES0tUaHJIZlhIdkxMQzk5N2lUN2Jkc1hHLXFtQmdQNTR4QTB5RnZuNTVIQU5VaUFYZWtINTIzOVlneHZtbUV5RTFIYTZ0MnVPRUtMbk1obG92RVQ1cG5VYmJDUkUtZENOT3hkS2FyTlZNZW41NkFQVWlscVZlQVNiWHpjSF9vUHNKSQ?oc=5",
       "publishedAt": "2026-11-02T04:19:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -393,168 +557,6 @@
         }
       ],
       "summary": "에코프로그룹, 정기 임원 인사…부사장 3명 승진 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5e6a8bdb33600ad6",
-      "title": "[인사] 에코프로",
-      "source": "경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNmZrVkk1a0c0WDdSMFhPTjFPZHhNRjB0T1p2WGI5am8tbkd1ZVBQZ2F3TDFrVnczRXY2U0J1UVIxbXlkd19mTmwzdEhOUlI3bG1URERPa1A?oc=5",
-      "publishedAt": "2026-10-30T22:09:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[인사] 에코프로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3aa661b6239a67ad",
-      "title": "에코프로 그룹, 부사장 3명 등 임원 14명 승진",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VUptMnlROUNidnJWeWRETUgteXlqZDZ6blZ1TEtRclNKeTF5Y19aR2pqZndPZDBxYW14N3R5UGVuOHRqbHhtakJvMFRKWnk5QTJJT3NVcE94a1dVTUNyYVdKc0xUNkF4aVRsU9IBcEFVX3lxTE1qU2FUdl9DYUFreXNNaVVpMDdPRHdreXk1ekxMZW03bVhDN0RrVkhfRkxOak1wdThKNy1mLVNwYTlDM1N6QnNuZmh4NWtZbVhRQy1uMDhEWmNaVVpTZ2V2cFk3VWdtd09pMnplWGJqS18?oc=5",
-      "publishedAt": "2026-10-30T09:47:47.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로 그룹, 부사장 3명 등 임원 14명 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4c43fe21db022d81",
-      "title": "에코프로, 현장 경영에 힘 싣는다…임원 14명 승진",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW9rcXc2SEV4X0tja1NZY0MxRk01eVBzcjB1UktETENlUzVGQkN4YkJ6Vy1kQ3BkMERuaHdjT0NOUG9kQ0pmc2t0RVU3djNlNngzRFZqTmVlVDVrZnFjY2NRZDBCZWUzYXJ5YWFhYjBZU2hrVmdHUDhLMV96aEZZTE5OZUo?oc=5",
-      "publishedAt": "2026-10-30T09:18:37.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 현장 경영에 힘 싣는다…임원 14명 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d79fc7a56eac71f9",
-      "title": "에코프로 그룹 사장단 인사…미래 경쟁력 강화",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMGtHVEtkaU1FQksta05aN25nWHNMc1pqOEIyeVNtNzJPWGhYbDJVeGx6Vm9mNkZ1T1E4UWdoQWhMLWhGT2NKWVJBOUlQTW9yUzJ3aHUwbVZFVjZQTi1tbUNpWC1IQ1k?oc=5",
-      "publishedAt": "2026-10-30T07:41:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로 그룹 사장단 인사…미래 경쟁력 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "93bfe2d6d058aa26",
-      "title": "에코프로, 임원 14명 승진 인사…\"현장 경영 강화해 중장기 성장\" - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MdEJ5UVM4NE9jWnJSXzdMMmZiNkIxcFBQWjJDakdzTVdYZUtDNEVvMkRHZWVVUVJoaElzMVkyenVZV19ERG5xM2dEWndBNDMxU3ZXR2JQY3dkdURvYXBhbm9SUUVfalNpeXBDS9IBckFVX3lxTE8yVFBibmxvdU1jdXh4QlBtc1BOckpGWk1YUURyT1pXZm9MUWFiOFFJaVg0V2h0QVNWV2taNm91emFxUnVUWG8yM0dtdFAwN3pNUmR6bEpJV1hFeDdrMHQ0OEQ1Z1JYdnpIUGYwOGVWYzdVZw?oc=5",
-      "publishedAt": "2026-10-30T06:06:42.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 임원 14명 승진 인사…\"현장 경영 강화해 중장기 성장\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "abcf91fc22c0f251",
-      "title": "에코프로 정기 임원 인사 단행…현장 실행력 앞세웠다",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMmU2aHVlcC1KY1J1THN0VDg1aHg4VlZ0T0lNSy05aXB4Q01MMmczQi1KSXlILV9Ib3B4TDFVR2poZm9FeDBGaXJtWkhUMTY3ekZva2NjbTVnNXVldEhhZEFDSEM2NHpCVklJWQ?oc=5",
-      "publishedAt": "2026-10-30T05:47:03.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로 정기 임원 인사 단행…현장 실행력 앞세웠다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

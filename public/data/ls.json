@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:20:36.655Z",
+  "generatedAt": "2026-11-05T02:58:18.159Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,143 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS그룹, 조기 인사 임박…오너 3세 ‘승진 페달’ 밟나",
-    "(BIXPO 2026) BIXPO 전시장 달군 K-전력인프라… HVDC·AI 품고 글로벌로…",
-    "LS전선, 에너지고속도로·AIDC 전력 솔루션 한자리에 모았다"
+    "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대”",
+    "한전, LS ELECTRIC에 전력설비 예방진단 기술(SEDA) 이전 - 머니투데이",
+    "한전, 전력설비 AI 고장진단 기술 LS일렉트릭에 이전"
   ],
   "articles": [
+    {
+      "id": "d4b53400fab6b1ec",
+      "title": "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대”",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TY3otZ1NtaWhnYndYRk5NNzNmRzBIWEhvdFE1Q1hkZk5pQ3dIdFdZMEpfU0hnQzVSNDFwU1h0d3ZNbjc1cTg3TDMxaHBzMVBYSnfSAVNBVV95cUxPWl9oMHlFcDlMSDU1dmNmME45TGc5amlfS2hlMHhTSnpicnRXRWNqalc3bllpaWNXbG13SXBleFVFOW9ELWZWZXJRWVVBeGowbFpwMA?oc=5",
+      "publishedAt": "2026-11-05T02:47:47.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 한전 고장예측 기술 도입…“전력 사업 확대” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "594efd32ec24fd7a",
+      "title": "한전, LS ELECTRIC에 전력설비 예방진단 기술(SEDA) 이전 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUTY4b1NGRFdtc1o0dWFSekk0a2pHUExyZldPVl8tcmJlbjVsRUZVMUtacHp1RWFwN1dBUkd4RXBTSDlDTktOMmRNMUp1VDI5emZ1Wi1TMFNydW53dUlvNDFGZ2d4N01OQUHSAW9BVV95cUxOZlRGVWVkU2NOOGppY19VWWJwR1dLUXlLcm5DQXZHRHNtc1h0ZXg5cGhfckk1dE1WazYwNUo2bTRqOUVUeE50d2hkd0F4M05zUURUX3Yyck9HWG41VTl1RGtPS01lWXAtb0ZzVFkyaEE?oc=5",
+      "publishedAt": "2026-11-05T01:05:30.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "한전, LS ELECTRIC에 전력설비 예방진단 기술(SEDA) 이전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "807d15b56e161e11",
+      "title": "한전, 전력설비 AI 고장진단 기술 LS일렉트릭에 이전",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqYVBaZkVOV1p4ZnFPaVY5cXZSdlk5bVl6OE5FcGFuWXpZRkU2SG40R3VqTUEza0FhUUZiVm5IdnJxRWNvX2xKLVFLMERkYmUwV1BPYXROTjZXVlN5N0ZHcDVNU3NFajNw?oc=5",
+      "publishedAt": "2026-11-05T00:19:24.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "한전, 전력설비 AI 고장진단 기술 LS일렉트릭에 이전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2044290a982dbcc8",
+      "title": "LS일렉트릭, 한전 예방진단 기술 확보… 전력설비 고장 예측 고도화",
+      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHYk1lQzdmZkhZUkhaU3JLdVVDMGpjQ1N1WHE1czVFN0FfSTBqY1dIbXFabFJxc1hlSkM4c3JMM1c1Nk9yTDBhOF9jNkgxemFiYWhKdXUwNTBSUS1taFh0TkhZWTRTQk9sMEMzYms2ZVNrUQ?oc=5",
+      "publishedAt": "2026-11-05T00:17:31.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 한전 예방진단 기술 확보… 전력설비 고장 예측 고도화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "62a2a563b5a28542",
       "title": "LS그룹, 조기 인사 임박…오너 3세 ‘승진 페달’ 밟나",
       "source": "서울경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUE8xWGlsanVrbngwZU1qR29DbnV5WEU1RElodG1QTi16RVVnOU00WkhKU1hsZnlKMUd1dnIycDdaUzAxZEZvcWRnRWx2cDhMVEhEdTRFcU1PSXUxQV9tVTdtWnY?oc=5",
       "publishedAt": "2026-11-04T08:56:18.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -42,12 +165,12 @@
       }
     },
     {
-      "id": "c5826b232c871aac",
-      "title": "(BIXPO 2026) BIXPO 전시장 달군 K-전력인프라… HVDC·AI 품고 글로벌로 간다",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SlRLMDI2QVBqNVdSREc5cHEtSnE4OXBWbHpURjcwMEFoZi1pWDA2SzNpN3lhX1MyYmVHNU9WVERjT1JIMmFyS3lQY05FRUNPUG1oWURXajhZUGctZUcwWXpKemVqMHVTRVhTMm9FUETSAXBBVV95cUxPeUpUSzAyNkFQajVXUkRHOXBxLUpxODlwVmx6VEY3MDBBaGYtaVgwNkszaTd5YV9TMmJlRzVPVlREY09SSDJhckt5UGNORUVDT1BtaFlEV2o4WVBnLWVHMFl6SnplajB1U0VYUzJvRVBE?oc=5",
-      "publishedAt": "2026-11-04T04:02:15.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "id": "6b009675e2fc7405",
+      "title": "LS그룹, 이번주 사장단 인사…안정 기조 속 ‘세대교체’ 시동 거나",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzM2bktjS1hzc3JJMDJNTnpNR0tRcFBYZklGVzhkZHFJOFNRR2cxOEVyUGRfQXhkcFFtYm1NVUpvekR6N1plZEVJNGtlRVZCWkxoVTRZVVN1QmFRSXd0dUQ0VlVQVVlSa0xwUk1yYzdyemF3ZzA3YzhDTWxBaVRqREtOQ3XSAZgBQVVfeXFMTnM1Tzh6X2pLSzNpQmNnN2xHUVpYTHVSUjhWSXIteFlCcURhbWJCMjFOcjlaeG4tM0h4UjVCS0QxV083c2NEcFdqc1ozaG5DanZHZ05qUEdRZURxcHRVWDFMemRtWWQ1Q1doMzZLSEt2ZVZKcXFnWnAwOWtmYmU1SmpKQmk1aXN1TnhGN0xaLUxGbzFMOGdnUVk?oc=5",
+      "publishedAt": "2026-11-03T07:50:00.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -58,35 +181,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "(BIXPO 2026) BIXPO 전시장 달군 K-전력인프라… HVDC·AI 품고 글로벌로 간다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a607b023186fd364",
-      "title": "LS전선, 에너지고속도로·AIDC 전력 솔루션 한자리에 모았다",
-      "source": "에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3U1RzZlgtTFJXTVdmcXJHMkllcVlOTFZkY1N4WHhOZmxZRjdmRi1SblU5VUJNYlc3anJZVWhwLUM1S083V2ZyemVqM1BDMnBhU1VZOU1McWoyOFdqN01SQmVZZld2T3oteXN3YTlscWRWQQ?oc=5",
-      "publishedAt": "2026-11-04T04:02:07.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS전선, 에너지고속도로·AIDC 전력 솔루션 한자리에 모았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "LS그룹, 이번주 사장단 인사…안정 기조 속 ‘세대교체’ 시동 거나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -101,7 +197,7 @@
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wc2xDdkt4YjdfUUt2UEFHVzRneGRWdmI5VktXeXROS0tDRzctNE5tLVNtTEJDWEpYRDZTWkRFVFJpQ0RadVdKUXluSjVtS1dtc0U0RnZMa0RIM0ZYRWo4eXNsWkVSLUpWM2V0bFJvTmZ0ODJjQWFzR1hJWdIBgAFBVV95cUxQZGk4UHlyOEJZWHJoeXdtMm1VRUdGZ1I3ZVZnUHIzQmpOUEs5cC1GM1FDOURqQWRTSU5qcnE0czZRUkE0WE1mRmhTakdvTzBoWEkzTk5Vc2VKcGpRaGdBLWZnZTdGR0RpSkdnZ0VFcW5ZUTR6YS12UG96M2RwQjFaMw?oc=5",
       "publishedAt": "2026-11-03T02:01:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -128,7 +224,7 @@
       "source": "전기저널",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13YnpUU04tbEt6MGxJeXoxbzJTVVBaa3AxS1JnM1pXZWw4a1pIdkVQWHpoSUJTR0dNM1ZESzBmbTVsYk9YbFRqVEM1UG9MT3JfTEl0WXJ4WkIyR3JESkxfQnZR?oc=5",
       "publishedAt": "2026-11-03T01:39:14.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -155,7 +251,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmU0WGxxblRKV2pDN0ZuOVhfcm1tVGpHanJtZW5Oc1dUb3BfeWJSMVVCY3VtckE5TFlhb3M4b20xczZYTWE2eHhfc0M0ZzNVUTV2UWhQZm5jM3VPbXBHQnE2UUNUV09xM1FadXlneDE0eVJoeHd6LXVxY2h4RXlNWmhCMA?oc=5",
       "publishedAt": "2026-11-02T09:03:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -182,7 +278,7 @@
       "source": "헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81cGdUWmdTdWFtMWtZM2Q0WUN6WXB4NU0yd2I2MTlRN2hpak1kdDg0QVFYTkNmdnVJQlN2dXdiSFdBTHFSZDVsd05nZFNPNWZJZWJkT1NvOXFXbTQxX1E4?oc=5",
       "publishedAt": "2026-11-02T06:45:38.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -209,7 +305,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UUtNdWUxU1dnOWcxbHpEV1NqeWEzT3hwVVNTVVBlTFYwTWp3VUFPbF9McWhpU1FGU2tkd0tfdEw4V1pkZEU5enVOUlBIYkQ4bkxoYmZIaWI3UQ?oc=5",
       "publishedAt": "2026-11-02T06:27:28.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -231,12 +327,12 @@
       }
     },
     {
-      "id": "32f8e15e19d3bf65",
-      "title": "구자균 LS일렉트릭 회장 “AI 데이터센터 전력난, 지능형 직류 배전이 해법”",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOWYtLTNfODdXaGViN09Jd0xONmJiaVlFMS13alRLRFlFZUJhQ2pCbmo3NXZSazVEQ0pWWkJhaDh2aEJLVmZwMUlYVWwxQ3hqdUN1aklRMGxlMWk1SW05SzVNUExvaEU?oc=5",
-      "publishedAt": "2026-11-02T06:05:04.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "id": "681ff83f7504ee01",
+      "title": "구자균 LS일렉트릭 회장 “AI 전력 수요 해법은 지능형 DC 전력망”",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lU09xWG4zTDUycXlrRTdQNktKaWFjWVZFZjhnSTZydzRlOTMyRlkyRF8yVl9zUEl4SGRPRkVHUFczNGhnN0JHMGFoZnRHYnhrZEwxMlVPXzVVUHVTNFIwVw?oc=5",
+      "publishedAt": "2026-11-02T03:04:06.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -247,115 +343,7 @@
           "ticker": "006260"
         }
       ],
-      "summary": "구자균 LS일렉트릭 회장 “AI 데이터센터 전력난, 지능형 직류 배전이 해법” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8e94916656258e4a",
-      "title": "LS일렉 구자균 \"지능형 DC 전력망, AI 전력 수요 해법\"",
-      "source": "신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02eW1QUXF5c1pUbUY1TElXTUtna05QTnBiRlktMmRjSllPYTdPMTlsUVg5T052YllIWXRlb3E1QU1nMmdYazBVVW5wckM0STRMX2pxbkVxXzgzSUtzczJVQ09oUjlQVGdXN2VjY0JKSFc?oc=5",
-      "publishedAt": "2026-11-02T05:53:33.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉 구자균 \"지능형 DC 전력망, AI 전력 수요 해법\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2557cf14be6375eb",
-      "title": "구자균 \"AI 전력난 해법은 직류\"…LS일렉, 북미 공략 가속",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMVA1OHJ2TUdIT3VkV0RyTjhVT3picU1pNV9lTTdjTTE4bC0xeGdYUnktVjF6RjgwM2xUZkxRNlZra1dLS2F4N280VjgtMFpHVkJSWWV5alZFZUxBSDVqVFUxTkZ6Mm1GQ256bg?oc=5",
-      "publishedAt": "2026-11-02T02:02:03.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자균 \"AI 전력난 해법은 직류\"…LS일렉, 북미 공략 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5832949749e3d465",
-      "title": "구자균 LS일렉트릭 회장, AI 전력망 비전 제시",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiWWxHWnlZSVREVXRKUk1RT0t3R19vQU5HSlFnNktob3ZzeWppZTRvZWg5TEptX3VvWWZsNGdyemZCcXF3cEdkMWpRcDRxc1JfZko3elRYTW4zNFdwSjBiVGd6Yy1PQQ?oc=5",
-      "publishedAt": "2026-11-02T01:26:15.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자균 LS일렉트릭 회장, AI 전력망 비전 제시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d9cbf10e7ace8955",
-      "title": "구자균 LS일렉트릭 회장 \"AI 전력 수요의 가장 확실한 해법은 지능형 DC 배전\"",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kXzJHdUJReUh4c1V4anpjazJGcy03WTROdlFtV0ZnU3FTanZhbk44YVFZTDNFWFgyUFJWTGk3aWVBdjh5NWVtTzRZQThUSkZ1WWphc0ZYTnVXRDlQbXAtQ0xucHZoU0Fv?oc=5",
-      "publishedAt": "2026-11-02T00:44:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "구자균 LS일렉트릭 회장 \"AI 전력 수요의 가장 확실한 해법은 지능형 DC 배전\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "구자균 LS일렉트릭 회장 “AI 전력 수요 해법은 지능형 DC 전력망” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -371,7 +359,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ONnV4RW9LaFJpSzcybTZDZ3liTmV4cVY3U3FhRWdDS1k3RXVrdVVhd2pHOFBNMERqZGh6dmxIM3hWMmxITGM0TWhHTzVPLVoyX2NvUGthaVFjN29ZRHpNb0N3VmdGY0k?oc=5",
       "publishedAt": "2026-11-01T23:55:00.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -393,12 +381,12 @@
       }
     },
     {
-      "id": "a6ee29da8e2354e2",
-      "title": "LS그룹, 협력사와 '동반성장' 속도…명노현 \"전략적 파트너십으로 위기 돌파\"",
-      "source": "경인방송 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42MjZud0Zua1otUmJoV0VKdEg3UnA0NXNOZTJrRTNHOFIwVkFLQXpQMXNOSDBqRVdoekFCdXFxVEZqSmx2bWJlMEZRbnE1SkkxTm0wcktlckhhU21McG5mRFduRTY?oc=5",
-      "publishedAt": "2026-10-30T01:26:13.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "id": "cfbb638793103af4",
+      "title": "[재계는 지금] LS그룹, 제5회 협력사 CEO 포럼 성료…소통·협력으로 미래 경쟁력 강화 外 : 네이버 블로그",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmtlSHZqazE4NG10Z1hfbFZCbzd2cUl5T3UxMmgzRUtweDF1NVo2SUY3QnZ2QmJhdTl5SmY4X2FrSmNJd28wMkM2QW1MQWlwQW01S1VfQVFHeDJERFR6bmxYSE1LSl9YY25Nd2VLLWdWVzVidEplRGd6bmlkVV9MSGxHeHRtLVZQOF9JSVFHWQ?oc=5",
+      "publishedAt": "2026-10-30T07:44:44.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -409,18 +397,68 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 협력사와 '동반성장' 속도…명노현 \"전략적 파트너십으로 위기 돌파\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[재계는 지금] LS그룹, 제5회 협력사 CEO 포럼 성료…소통·협력으로 미래 경쟁력 강화 外 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
       "sentiment": {
         "label": "neutral",
-        "score": 0.05,
-        "confidence": 0.81,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": [
-          "우려"
-        ]
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c9b8ea790bfb4127",
+      "title": "[카드] '상생 시너지 창출' LS그룹, 협력사 CEO 포럼",
+      "source": "프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WaW9IU1d1WUVBWTU4UmhKZXJZdkYwWlJkNkRLQldpN3VBS3kzd215WmVRcFVnWDJYXzhiU0ZoLWlZVVV5bFQtUUUzWTJJaC1zZFp2eTJUOFFWMDJJMmtCcjUzalZjZ2k5WEhQRzdERXdhZw?oc=5",
+      "publishedAt": "2026-10-30T00:44:41.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[카드] '상생 시너지 창출' LS그룹, 협력사 CEO 포럼 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "aa25b8792ab3ab45",
+      "title": "LS, 협력사 80여곳과 ‘공급망 경쟁력’ 강화…“AI·지정학 리스크 함께 대응”",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTy1XbjJ3UXhBLU4wRkFQU21Zd1lrVzRhUzdwTXphaU9MbERiMHk0Sm1KTGVXQ1hidVA2eE9hVE9MOTRENWVvckxxUHlXSVZxYlo3VVpWbUFOYUU?oc=5",
+      "publishedAt": "2026-10-30T00:25:52.000Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS, 협력사 80여곳과 ‘공급망 경쟁력’ 강화…“AI·지정학 리스크 함께 대응” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
       }
     },
     {
@@ -429,7 +467,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ILXdjLVEyQ3JEa3ZmdHZzNXlMNG96Sl96Z2o0czAzcU1mbHJyVXBScFNaQ2pwYXZ3c1YwNGdBQzVPZUZjcmRvRUxrRGtMRmd2WUJiZFlCaWFjMml4OUc5T0Etcjc?oc=5",
       "publishedAt": "2026-10-29T08:29:02.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -456,7 +494,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VN2JSX29IRkduQmxROVhKdzJaQjN1MWRHY0gzWVJGdW43Wm9QRUR6OW5vZENvUkw1MkZSWWFFbjJOcFBMNmlMTC1wWEFUZ1FRenhqSDl0TmxsUy1PMDgxNQ?oc=5",
       "publishedAt": "2026-10-29T08:22:36.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -483,7 +521,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PbWdQbnpaNXlhRXRpLXFxLU1ZaDJjWUUxY2YyNWxHOVluLTNDWE9OWDU3VFFlSG1SbUVpczM3VmdpZmdSUWwyTTdRbVIycE55N1Y0N041Skc0RnEteE9qc3hyQTFGdw?oc=5",
       "publishedAt": "2026-10-29T08:13:21.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -510,7 +548,7 @@
       "source": "메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVzEwdUloN0c3Umk4b2MyNGtDakdJLUpsSFNYR1ZZa3NjODlURzVpekZKZTBzOEVob3BSb0tTSm9DeE12c0x4OXNCOTRaYTRyODI5aFpMcXBMSUFMTnVKcg?oc=5",
       "publishedAt": "2026-10-29T06:00:03.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
+      "collectedAt": "2026-11-05T02:58:18.159Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -522,33 +560,6 @@
         }
       ],
       "summary": "LS그룹, 협력사 경영 역량 강화…현장 소통으로 상생협력 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "24e6cbcf26e3a314",
-      "title": "LS그룹, 협력사 CEO 간 동반성장 방향 공유…'포럼' 성료",
-      "source": "백세시대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uazRZRk5xaGtyRnNTOGEzSHFCY3pIUjFtaHJwUFNaM0hRaTJVMm5Ld0hUWTZ1MEJ0QWtlYk8xbUFiVjNZZGZRaTdWdnFZNmFlZjRrWmRvRVl1Ynp4aEwwQi1ueTg1Y2pKMGRR?oc=5",
-      "publishedAt": "2026-10-29T02:36:15.000Z",
-      "collectedAt": "2026-11-04T18:20:36.655Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS그룹, 협력사 CEO 간 동반성장 방향 공유…'포럼' 성료 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
       "sentiment": {
         "label": "neutral",
