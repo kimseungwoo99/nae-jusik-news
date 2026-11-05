@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:23:30.376Z",
+  "generatedAt": "2026-11-05T18:23:54.592Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "블루웨이브가 흔든 증시, 반도체 매수 기회와 친환경주 급등",
-    "왜 반도체 주식만 빠질까요?",
-    "민주당이 이겼습니다. 내 주식도 괜찮을까요?"
+    "워런 버핏, 5년 동안 50% 하락한 주식을 또 매수했습니다",
+    "[LG유플러스] LG유플러스, 파주 200MW AIDC 본격화…통신주가 AI주로 바뀐다…",
+    "블루웨이브가 흔든 증시, 반도체 매수 기회와 친환경주 급등"
   ],
   "articles": [
+    {
+      "id": "536bd94a4e92da38",
+      "title": "워런 버핏, 5년 동안 50% 하락한 주식을 또 매수했습니다",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2h5LVcyZWRxOXBNN3lWVlF2V05oWTBnR2R5SWhZRDZtSS1XYjR2M3diUTVXMzQtQ3ZxYUszdzV1SENyWllXMWNnMDlwQWc0b1g2eW0tUUp6VHRldkxJMDhyUDFRaE85MXV1aEt5SXo3c1JtLUZnd18xNmpVVzR5MXItbHZLZ0VKVzRF?oc=5",
+      "publishedAt": "2026-11-05T14:08:00.000Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "워런 버핏, 5년 동안 50% 하락한 주식을 또 매수했습니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "502758a02c4e1d3c",
+      "title": "[LG유플러스] LG유플러스, 파주 200MW AIDC 본격화…통신주가 AI주로 바뀐다 (2026년_3Q)",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUFWWUFCSkFnSjVTMWtuc2o5cjUxc3NmYVZaVm1sWFpjcDl6Vl9fSHhuaXpnNm1UWDN4dzE3NGs2T2Y1UHdfVFU3Sng4aUw5RHY4SnhfVkY5amdKcHZCQ1lBZFN5aGtwakRubklRRms2RVBleWx2U2F1bkxSSHIySWxVNnNuXzla?oc=5",
+      "publishedAt": "2026-11-05T07:51:00.000Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "[LG유플러스] LG유플러스, 파주 200MW AIDC 본격화…통신주가 AI주로 바뀐다 (2026년_3Q) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "cab5f3f884867a24",
       "title": "블루웨이브가 흔든 증시, 반도체 매수 기회와 친환경주 급등",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HZFlVdnNmLUVlS3VMTlg4UGhVal9weUlKaUdKN3VXeVBWVHh0VFZIWV9GVkVZZjFoMDNPN0VqYkJEZjktLUxNbGUzYTRVeTNJM1RTQmxfWXJjQQ?oc=5",
       "publishedAt": "2026-11-05T02:44:58.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -44,39 +98,12 @@
       }
     },
     {
-      "id": "2ee06e73bb5d6fed",
-      "title": "왜 반도체 주식만 빠질까요?",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWl5cG94cXNna2ZuMjFYUV82V0ZhSHFXRjd1WExxM1lfaHJldEQtU1FRNUZuTjU2cnplRTU2eHB4ZWN5bEhVeTlBTDRleTMwYWxOUW12Ti1PbWl2VTdFU0dBTzJvMW14WjBBal9TczRTaER2M1NJWFVtV1VYRDhLVUdhQkYxSlRQc3ZV?oc=5",
-      "publishedAt": "2026-11-04T22:16:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "왜 반도체 주식만 빠질까요? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "fe4dd1b000858222",
       "title": "민주당이 이겼습니다. 내 주식도 괜찮을까요?",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFBEeDA1ZmVlSGNWYVpxYWVIRFhUb2tST21RdWhVVmVJUzJndVB6dDJrSEFPSFBYckR1RFJudnpsRjdyTU9tczBtWUkwR0F2RmN1eEhNUW1ZSGtSUWlSVVJ1VWZyX3lSbUJtTmlYd2JSeDdiczFXVW5yV19CbmZoTHhiempuQzhETkJZ?oc=5",
       "publishedAt": "2026-11-04T14:26:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -103,7 +130,7 @@
       "source": "Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVlSaGxJQzctbDJyaTBWNEY5YzYxZEtrV0M5dENnYUg4bWtxUTFJemV3N01PY29OZjN1ZU56LWN0WDM2S2M5ejZVVUdzV294ZFRVZVk5NXFSS0RseWJ5bmxnelVtcGVhNnJDeWhxXzJINGxhMWRRMEhUamdhNHNvOXZOX2cxcnBpd0toeEk2Zw?oc=5",
       "publishedAt": "2026-11-04T10:03:53.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -130,7 +157,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjd2MlZkblJIaVNIb0NGZ3A3aG4tTlloQkdiY2dubEJLUlJ5QXA2Mi1hUWRqRVRQRnlfOUZheXU1dlZiYUNTMHF3c19UbmFVSktCNW5WbUJDRXVaZk1TT1NSUVN1emF4V0RRVXFzQ3lXNDdINDNxX1AxWkhBdGRITkZKWQ?oc=5",
       "publishedAt": "2026-11-04T02:32:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -159,7 +186,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nNW5USU8xMms0a19vNUF6QVc4MlBpeVVVMXFxMnFOSHpkV2dPUXFkX0Y2bG5zMHVGdWRLRXpDbW1NdDNlcDAzTm9zVXd3NjA1TlE?oc=5",
       "publishedAt": "2026-11-03T23:55:58.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -186,7 +213,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YnBmclNfb2NPNE1kTFI0RWdxZ1RrYjNMZFE2X21SalpLZUZydVh3OW95cWhrNzVNRE5QcE5tMUI5c2lTVDFPaXZkTFdwNXNRNFcyd0N0eU9hVzZtSXdpdkNrQWZuSkVZbGg4WVVR?oc=5",
       "publishedAt": "2026-11-03T18:04:49.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -213,7 +240,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjhVT24tazgzUm9XOGZoVWVibW1jVF93c2hFcjY4bjdPSnRFY3VJdDZ2SHNEclQ0a0xkNm1KMlcxVEkxbGJIUEpFSTU2NXp0Qlk5RlNaelkyTm1YZWxOYmpIWTRvQWZHcExvTW5rbHhISmtzb3VwOVY4X2N2T0VYOG5zTQ?oc=5",
       "publishedAt": "2026-11-03T11:26:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -242,7 +269,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV3RvNDVwVU80RkJhY29oQnNrdW1lME1qRE5XcDUwN1ZiSllQQ3BtOUhxSTkzaTZWUE16bzhtUE0yT0xmWDhyRll5cDVzYTFUei1ZRG9OaFk?oc=5",
       "publishedAt": "2026-11-03T08:29:19.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -271,7 +298,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDNsUFdXTU50dTZTYTduZ2tCc3RNOXZHZWVKUTcycUZoYVRSUnVvVWdONjMzX2xQQjVnUzB1Y0FmX1BydzNVd0d5U3BnQWtYNE9pRDJTUm9KWHQwR1d4cjBCVmZfd2haako4c1ZqOE9HYUJtMTYwb3AyaVN1N2pYRW9ETkM0d1po?oc=5",
       "publishedAt": "2026-11-03T07:40:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -302,7 +329,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVnNiY2h1eGpBTlJISjJCQ0huaG01QW5kS2s4bkduQXBfd2o4eENnZkI2dGgtRG43VFRXVmtYa1Q1WDVkR3I3UlhOMVE3MDZQM1E4T1luVE9RT1U?oc=5",
       "publishedAt": "2026-11-03T06:02:26.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -329,7 +356,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTXhrcmpFV0xCbnZra1RrYkhUQ1dBMlBVcjBaVnJ3ZFFGbXZTRUpfUUpzUHR6MmZWT1diV2JfM3RSR3MtWUlfUF81ZVZZajhrWXkxNTV3elRtNjd0QThmVTRpUWVVTVBtWkJkdV9UNUdHMWlP0gF0QVVfeXFMTXBNeGtyakVXTEJudmtrVGtiSFRDV0EyUFVyMFpWcndkUUZtdlNFSl9RSnNQdHoyZlZPV2JXYl8zdFJHcy1ZSV9QXzVlVllqOGtZeTE1NXd6VG02N3RBOGZVNGlRZVVNUG1aQmR1X1Q1R0cxaU8?oc=5",
       "publishedAt": "2026-11-03T05:23:30.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -356,7 +383,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN2thOE1LTWlsbTl1QlIyeGgxX3lHTXA2RUtrckFPRmloQV91UGpybURQckNoSmExMGo1Q3pIekRnbkMxUmdNYVcwWDNUQXpKOGkyc20zYmdYM0hlS1pCRmVOVlRjTmM1NHYyUFZ3OUXSAXRBVV95cUxObnBpcVBFV0hYS0Jqb2V1ZnpQU1NXc2Jka0xxU1RoTmR6eWtFVG15RVltdVZiRHpmVjROWWpBV2NnS1dPRlhqLVNLMzRYQlNlWU9RU2FtRkRBUHBtUFEtTmRzTGo1U3E3ZUpwRlliWC1DdmQ5Ng?oc=5",
       "publishedAt": "2026-11-03T02:44:02.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -383,7 +410,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03NFdyV1VRVkNYc1EtYy1ic01KVXNpczVweUhrS3hZQkd2LUZKbzlQMDRBSHRBWm1Jb29rd2U2b29NWEM2VGhwVXB5d1FURGYw?oc=5",
       "publishedAt": "2026-11-03T02:07:35.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -410,7 +437,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSWFzRHJkOWsxTlI5RWZ3cWNFZkdzbGJHOHRETnYxNlRBMVgzUlFnb2tkNjRocUo0a0dnSHdjdTJZdlZNbldMMFBndG9ock0yMVdrZXZFY29fdw?oc=5",
       "publishedAt": "2026-11-03T01:23:34.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -440,7 +467,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SjdHczdITVJwSnZDUDVKRnJwbEhCbnJwRmxlbm1CV1VGYlFoMlcxcFJXcTlhWVRZckFYRU5oZ1JXVTFTUWlmQklJZVJyWXNzSHplaHFVRG9WN0lESUxFMdIBeEFVX3lxTE45UkNwcFBLS1JkbnBWZy1QR1JTRDVrT1I4cVJMYnJjci1hY0QwdUdtRzRjX0t0MjN5a2RualV0Qks5ajUyRWFsYlR0a0VRdlRqakpxa0cwLS1oZ3NydVA4NWNKempxMkNTb3lMY2JGT1J0bzNBZzVVOQ?oc=5",
       "publishedAt": "2026-11-03T00:37:20.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -467,7 +494,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zS04xQW4zdTB3eS1aaEhPNncybDQyV3dWNkg1MDR3c0c2UFI2ekk3V2s1X3g2b2lQRm1jQXFnb0ZldWg1RG9rNGxvQldPTzQwVXExZXdNcEh6dw?oc=5",
       "publishedAt": "2026-11-03T00:16:34.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -494,7 +521,7 @@
       "source": "블로그",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IN01HYTV3OEQ3UlEycmdib3o3VEhzTGl4dGJ0U2hBV2QteFRHcnNlT0tjWjh1UDZ6SE51U0sycmxGTVBYc3YzZU43VE5PRGVIblBlVllpOThwX3d1ZTFhT2FtUzROdkdHaWpwRDlNaDhnR0V4V05rUEl0Q2VaQQ?oc=5",
       "publishedAt": "2026-11-02T09:37:41.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -521,7 +548,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3daN244YnBkZkxfVWh6bDlrWWJLLTM0YXQ0bzFxNlFMMHhPaHBXT3hzcWNtb1hjMUQzSXo0VWNkOVVfOUVKSGJlZVNCdndQSW9fLUpCYk9aM2wtTEN6ZkV1UTZUa096eHc1ZWtKWTFTcU5BWXdfeW5kd251MDB0b1BHWQ?oc=5",
       "publishedAt": "2026-11-02T07:16:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
+      "collectedAt": "2026-11-05T18:23:54.592Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -533,33 +560,6 @@
         }
       ],
       "summary": "팔란티어 11월 2일 실적발표 : 최고가 넘어설까? 향후 주가 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b8a5dcb19b188182",
-      "title": "현대차·기아, 실적 발표 후 주가 빠졌다는데",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2dsbDFmQkUyMFIyTkxtV0Q5SExkZ0s2V1BSMTdnMno5ZlRiRnBXNVYzUWctQlIwTWx0MG01cndOLU5yU2daaDVpZnc2enRGX2RMR0FFQnZZMW1xQS03WkV2cFJIanZJR0Q1MmVwdktlc1V0OXd3VjZ3R25icExuag?oc=5",
-      "publishedAt": "2026-11-01T21:00:00.000Z",
-      "collectedAt": "2026-11-05T10:23:30.376Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "현대차·기아, 실적 발표 후 주가 빠졌다는데 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "neutral",
