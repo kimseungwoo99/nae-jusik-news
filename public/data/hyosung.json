@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:58:10.219Z",
+  "generatedAt": "2026-11-06T10:25:29.990Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "효성",
     "ticker": "004800"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "조현상 HS효성 부회장, OECD 가입 30주년 만찬에서 축사",
-    "'신의 한수' 된 美 멤피스 공장 인수…효성重 10배 퀀텀점프 주도",
-    "[뉴스 앤 데이터] 효성家 형제 독립경영 2년 성적표…조현준의 효성 '이익 규모' vs…"
+    "[김해소식]시, 효성그룹과 '화포천습지 사진 공모전' 등",
+    "김해시, 효성그룹과 함께 기록하는 ‘화포천습지 생물다양성 사진 공모전’ 개최",
+    "[조현준의 현답③] 수소·AI로 ‘100년 효성’ 밝힐 ‘새벽별’ 길연다"
   ],
   "articles": [
+    {
+      "id": "3b4ea13c3ee93683",
+      "title": "[김해소식]시, 효성그룹과 '화포천습지 사진 공모전' 등",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTSnFtSURMclJ6RWVHQ09URUJFS1NsTERsWDlmNDg2RVR1WDgxcFVhVFB6M09pNHk0NTRJUmNGemVlTkRxdF94X0VxX19UMVJSNUNQOTVVNGp1Y1oyYVBHbTQ2UTZ3eG9WOHpTQ0h5YVVJXzVvVDhBUdIBeEFVX3lxTFBTSnFtSURMclJ6RWVHQ09URUJFS1NsTERsWDlmNDg2RVR1WDgxcFVhVFB6M09pNHk0NTRJUmNGemVlTkRxdF94X0VxX19UMVJSNUNQOTVVNGp1Y1oyYVBHbTQ2UTZ3eG9WOHpTQ0h5YVVJXzVvVDhBUQ?oc=5",
+      "publishedAt": "2026-11-06T07:02:52.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "[김해소식]시, 효성그룹과 '화포천습지 사진 공모전' 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1f9ed1b00b0b4587",
+      "title": "김해시, 효성그룹과 함께 기록하는 ‘화포천습지 생물다양성 사진 공모전’ 개최",
+      "source": "뉴스줌",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xM00wdndrUjZLZ2ZVRGQtRWxid3RTd3Z2Z2dxbkY1SkQzcUlrSFFuZjVFbjdzMHh3Tks5VlJjVEpGQWZFT0E?oc=5",
+      "publishedAt": "2026-11-06T05:09:00.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "김해시, 효성그룹과 함께 기록하는 ‘화포천습지 생물다양성 사진 공모전’ 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c99dc8fd3f69a681",
+      "title": "[조현준의 현답③] 수소·AI로 ‘100년 효성’ 밝힐 ‘새벽별’ 길연다",
+      "source": "투데이신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSmd3VW1nWGlVaF92V2tWLUtRQzVMdzhVZEJYUFZWSnZNYzhQYlQ0QlBCUVFJSWJ2TzR6NkdjdVZOeFBCbzJubnRwWjV2X0hBaDJ3eFZGaUc5UlpjaGtHYldWX2ZxZUNvTFI3emN5WdIBb0FVX3lxTE9JSmd3VW1nWGlVaF92V2tWLUtRQzVMdzhVZEJYUFZWSnZNYzhQYlQ0QlBCUVFJSWJ2TzR6NkdjdVZOeFBCbzJubnRwWjV2X0hBaDJ3eFZGaUc5UlpjaGtHYldWX2ZxZUNvTFI3emN5WQ?oc=5",
+      "publishedAt": "2026-11-05T08:23:49.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "[조현준의 현답③] 수소·AI로 ‘100년 효성’ 밝힐 ‘새벽별’ 길연다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ef16dad1f1165865",
       "title": "조현상 HS효성 부회장, OECD 가입 30주년 만찬에서 축사",
       "source": "CNB뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNV9SX0J3M0dyOUk5NS1UcGJKQ2M2SHktSlFFaHM5cGI4QjVFU1dDZ3JYVnNfNFcwVU1Xd3dGLVFIY3p2MUNrODZhWHdveVloT2c4WUd3MWo1enJGVktaVFdSWW1LcC0zbVFV?oc=5",
       "publishedAt": "2026-11-05T02:19:14.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -47,7 +128,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBROHl0RzVVY3IxUWd3U3A1MGhJR1gzVDg1WHp0cWQweGJQa2VTUlpkSzlRUmRuT3F2MUF5TDhWT3ZSSG1mVVFWUElEOHlxVkhEaFdFd2ZlLVZ1TVhnSWc5SGRXOW9YME5r0gFsQVVfeXFMT2tBSXc4dHp5R3pfVjdhWU1nSDh0dXE5bktFelNSVllScXFHaW1qTFpYcjhnNWNHMmRTUUc0d0xBY1ZQYW9ZQ283OXZZT2dUdVZrVUJCNmpSVmZOcEhRcHdwZ3o5M3RuM0NFVUNM?oc=5",
       "publishedAt": "2026-11-05T02:06:18.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -69,12 +150,66 @@
       }
     },
     {
+      "id": "2b27bd48b4b693b0",
+      "title": "효성티앤씨 ‘리젠 되돌림’ 캠페인 확산…\"시민과 자원순환 나선다\"",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcm9wQnBMZGZDT0VvLTdCRl9kSE1kNjBNSHRVUjl1N2NjS3VtcHhyMzgwLU1Ydzl2U3NDRjA1RlRoZkJNNjc1a01kRDg1XzVFUUdncG16MWZWSkd1Q3E1Vk5SQ1Z3X0pUemRj?oc=5",
+      "publishedAt": "2026-11-05T00:22:45.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "효성티앤씨 ‘리젠 되돌림’ 캠페인 확산…\"시민과 자원순환 나선다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "acc73dc0b5ed0025",
+      "title": "고려아연, 자사주 절반 소각·액면분할 재추진 外",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XU3V6REdzWVBMQnE2dkVMMi1NLVJoN1ptblUwQWZOdFRIUHRScnBoeDFnRGJqYWtPUm43NF9pUC1oeWI1TEs3LU5BbFJTTnVW?oc=5",
+      "publishedAt": "2026-11-04T08:13:00.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "고려아연, 자사주 절반 소각·액면분할 재추진 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "aed811819e908331",
       "title": "[뉴스 앤 데이터] 효성家 형제 독립경영 2년 성적표…조현준의 효성 '이익 규모' vs 조현상의 HS효성 '성장률'",
       "source": "서울타임즈뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tSzUxYm9MVmZqWGtGSjlpdGF0T2F3eGpXQ3VEaG50eFhJaHRIc0JHN0JaQTVOS0NWeEZVYXpWTGtnRWx5LXdqLXVjN0xVbFphVVVLNHM4WWxrbzRRc2poODFsUWltWklZUmx3?oc=5",
       "publishedAt": "2026-11-04T00:00:02.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -101,7 +236,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQaVJEX0VDZ09FYUZLR3ZCNlhpM2xocEFjUWpCeWtleGI4UUtYRVI4b2hoTHFILXNOY2djZ0dRcUdTdVhiT0ZrNU1ydXRQb18tc3pnYXRMYmNSQ0c1UVhVa1lIcm5PdTJQ0gFsQVVfeXFMTkhHNkxyRjZ6SGRIN0VBQjh6dXFqNmIzQ21vdWllNzZjRXhZejV1a2xQTVVtQjF0MlNQZkdsb0lycHVSeFA0TE45Z1I1VGItZTRFelJxcHhONmVUTGxSUjBfOVhHcXAyN1pSN0lZ?oc=5",
       "publishedAt": "2026-11-03T08:34:42.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -123,39 +258,12 @@
       }
     },
     {
-      "id": "0c082c8974f7d49c",
-      "title": "[조현준의 현답①] 60년 기술에 얹은 ‘고객의 목소리’…AI 전환 중심에 서다",
-      "source": "투데이신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMWJPSTFya3dfTjItd1VKSllPSFJPc2tMN1p4RWU0ajFXOUxaNld2anhOeUFwU3dZUDliUFl5ZDFVc3ZLYU5qeExFd0ZHTWF5QXBhbkpWUTk4eXV6a1piV2hZZlNhOU8xTnRhMVI2WdIBb0FVX3lxTE0wMWJPSTFya3dfTjItd1VKSllPSFJPc2tMN1p4RWU0ajFXOUxaNld2anhOeUFwU3dZUDliUFl5ZDFVc3ZLYU5qeExFd0ZHTWF5QXBhbkpWUTk4eXV6a1piV2hZZlNhOU8xTnRhMVI2WQ?oc=5",
-      "publishedAt": "2026-11-03T05:45:20.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "[조현준의 현답①] 60년 기술에 얹은 ‘고객의 목소리’…AI 전환 중심에 서다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "e555c13702c899c0",
       "title": "삼성과 결별해 일군 효성 60년…세계 1위 영광부터 형제의 난까지",
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aQjV0NmJpQklBRlhLaEFXeC12OXlRaUw0SHozcmlrUzNnRTBKQ1NxT2FhVzNuN1d4T3NscVJ6RGpKOFRMOEhXU2hIX2ZPLU53NGV3MERwVFFKZnNPQjdERFBRdVU?oc=5",
       "publishedAt": "2026-11-02T22:00:00.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -182,7 +290,7 @@
       "source": "백세시대",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00UHp6NjQzbzF5WWdZS19WTzczamNxc2d2NnhKNGNqQXkwVnh3cTNyeUk3Z0pURm55a1FIaUVENUxBclBmUjVhTHZudFVVbW5ScE9HTGZjQkgzT2V1V0trbTJGZXhvUFhya1k0?oc=5",
       "publishedAt": "2026-11-02T09:49:49.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -211,7 +319,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tcW5VVkdwUmNIRy1PaU03bjJLemdXUC0wRDNDNjZtWUNrb3NwZTJSTWs5Qm5zdTlVOXc0aGNEdnVoekNPUHdYd245NTNUMTJpUFNTNENmc0V0aGlUckZhSzF5Z1BJbVJhMTJscUZBaEHSAXRBVV95cUxPNjR3cXBfa1RMdWkyT2lQdk1NQ2lvR2pDc1Raak9YenFaNzREUVZuV3JhNTNiZVNtdDNfQW5fdWwzRV8xLW1nQ1Q2VE13TDRSN3lPb0pxU1AxamowZkh0dXZMajVxRnlpeFRiS0Q2Vk1RZmVqYg?oc=5",
       "publishedAt": "2026-11-02T09:23:46.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -240,7 +348,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbHRGTTl5SjdjNFJZdGVEUEFKNHRzY1RnWnZqaXM1d2tsM2FTRHlFbGoyRmN5VUxVVThmT1d5X3ExMHBUSHczUFhfb2d1VV9Hb1pyeDVqWmM3Q2lpVzVkcUF3TU9HQ1prS1FsS3VQVnZOU3fSAXdBVV95cUxNTGJvTWRuQzlTUjVTdzk3SmZVMUVqVHU5RWNJeV9oRTNrc1FzSG9fd3BPSl9yenRWNHBkVXd4a2twS3JKdHd6a193ZWZkZW5FQWo4M2Rzc01aOGpPMWQ1MlpRdklIbW5YQ21hQ0Y0VjJ5bDJFSFV5Zw?oc=5",
       "publishedAt": "2026-11-02T07:43:25.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -269,7 +377,7 @@
       "source": "CNB뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBb2J6WHUwYVZuMWdsUndpclF5M09SX0p5WHFDUWgyQXp2LTh1OWdUWlpUcDZjakZmMEQ1Ykp0aktBejRxcUtmSnhtTG1NQ1B4Q3ZidmZSSVNSTnJSZEJVV3pQRi1hWThXcUhn?oc=5",
       "publishedAt": "2026-11-02T07:20:55.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -298,7 +406,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlVEJSSnprYzBvdEJxeEtmc2pFZGFHUzJSYmJ1akRuUVE0d2JHaDlKZnJhcE5sNkJlRlBTakh3MW8ybXdvZGM3c2ttZWw1ZHBWdWViTURHdmFMcmhmZ0QwU2N3?oc=5",
       "publishedAt": "2026-11-02T06:45:00.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -322,12 +430,42 @@
       }
     },
     {
+      "id": "18e4fe06b0da4283",
+      "title": "코리아 밸류업 지수 강세에 효성중공업 급등…현대글로비스도 두 자릿수 상승",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84YVI0a2J4SGszU3lBc3VaZE5zdE0tYTN6VnE1eEluTEp5blRLTmhjaTNONlktQy1qZkhaZ3VtcE8yWENXbXp2c2xiV3RDX2FiUDRoSWJUMUxNQVVINjV2TGZ0ZDJQRTRjN0paSUttT2VYU1HSAXdBVV95cUxOSFVTN2s4MURHVVRQa3VPcjN1N0o3Tm5WeHBTZk96ZkRXSnR2YXA0U1MxSkIxZF83a2xKZHFJSUJFSjdkNnhHYXdEOFh1UEpuYVFHbzJDNUVyWS1SYWhmQThnRDlWNm5XdnQxalBLZ0VoMnk4TjB4cw?oc=5",
+      "publishedAt": "2026-11-02T06:09:28.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "코리아 밸류업 지수 강세에 효성중공업 급등…현대글로비스도 두 자릿수 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98,
+        "confidence": 0.95,
+        "positiveTerms": [
+          "급등",
+          "강세"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f5997a86c05aba56",
       "title": "[카드] '생태계 복원' 효성그룹, 제주서 멸종위기 '물장군' 자연으로",
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MWlZvS0pkSEdQTF8xV18wTVZ0WHJfcTZYTHppcGR0Njd3eldNQXpyT3g0S1lkWDZtaFIybUhGc1VQNGNxZWFiQVdLZ1RYa3VTV3J1X1JocGw5a1pkTHJwZndQQQ?oc=5",
       "publishedAt": "2026-11-02T06:05:55.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -356,7 +494,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42anRyWm95MnJkT1BRRDc2US15aFpJYkdTbXc4TkNvQWlGbnc3ZWhpSktMV2pJU2QtR2xxWjdMMlpBaHV0Z3EyVkFkNXVWS2FsQ1E?oc=5",
       "publishedAt": "2026-11-02T05:42:08.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -385,7 +523,7 @@
       "source": "뉴스엔뷰",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHZk8xbXRMdFdGbnByZlJZaER3RzVZb3AyeHZXYk1ha2JiV1lfR29MWE83V013OFgwbG5HS01ZYWpvX1cyVWNNYTN6a1hRV1c2UTlmZFdMQzdnb3RCaWZfSGRYSEVSZw?oc=5",
       "publishedAt": "2026-11-02T05:32:19.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -409,12 +547,12 @@
       }
     },
     {
-      "id": "a375079146c59ec6",
-      "title": "효성, 3분기 영업익 1753억…중공업·티앤씨 ‘쌍끌이’",
-      "source": "CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yclhVTnlCWEVhSXlzZ3UyNjh2cEpXR1MxZ1Vla1FIMjd3NWNMT20yeHh1ZDltMGlvdThhaFlfdUM4Z2U1MEdXMFlrUnFzVF9KUzFzZ3JJREMzVVdpRmlaVTMzcFhMeWdk?oc=5",
-      "publishedAt": "2026-11-01T11:39:46.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
+      "id": "f43e8da7582a64b2",
+      "title": "코스피, 기관 매수세에 장중 양전 후 2% 상승",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GMW44d2RfV3lJUUdfQUxrY2VHT25YaDkxb29xckJraXh6cTl3cXpzNUdUeVltelQ3d3FIRFdUWl9idjZGQlp6WktQdVBXLVhzUnBwdjN5QnJiTzZGbnpnOG1n?oc=5",
+      "publishedAt": "2026-11-02T03:43:00.000Z",
+      "collectedAt": "2026-11-06T10:25:29.990Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -425,157 +563,13 @@
           "ticker": "004800"
         }
       ],
-      "summary": "효성, 3분기 영업익 1753억…중공업·티앤씨 ‘쌍끌이’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "코스피, 기관 매수세에 장중 양전 후 2% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eb59cbe2d40a54e5",
-      "title": "‘모닝 스타’ 내건 효성, 중공업 질주·티앤씨 도약·화학 반등 과제",
-      "source": "이코노미톡뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bTFWQU5vc2x1c1pPbUVncHM2bGdqbGY0cjRFYkV4S3dZUHBPbFE2bmVsRE1YRm00UzF4MjNScUJUT0hnYkZPR3JyeXB2UlFab1E5RlRrTnlONFJnU2tuczNwNnNlY0hqZHJiaA?oc=5",
-      "publishedAt": "2026-10-31T03:02:49.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "‘모닝 스타’ 내건 효성, 중공업 질주·티앤씨 도약·화학 반등 과제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "58b7640580607f65",
-      "title": "[분석] 덩치 키운 효성중공업, 티앤씨는 '맑음'…화학은 적자 전환",
-      "source": "파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydFZ5Vm15UGthSHVOVUZBclYxeHNzeGtjSGlUV1RfWVNrd0hpby1jbzQ4NVdSZzF4WDB2aWc2WUJGcnNqbFZUdjZxYlZtS3dob2JkeGw2bXFJRVdnTTQxZGtiOUhlQzN5enFnaEJFSHluWDRB?oc=5",
-      "publishedAt": "2026-10-30T21:00:00.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "[분석] 덩치 키운 효성중공업, 티앤씨는 '맑음'…화학은 적자 전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.52,
-        "confidence": 0.74,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "적자"
-        ]
-      }
-    },
-    {
-      "id": "a840dbc70a6221b8",
-      "title": "HS효성, 3분기 영업익 381억원…전년比 159% 급증",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83NjdDUFV1WXNRalpDWDJmRENmOFpPWnpYYVFfajk2YnJiRnZadGZId3VPVHFvSFRQcl9jd3hWWHh5TWpOLWtEZ2kyNm4yTzlqNWVTZDRnSGtEVExybncxdENaRWVOM2JieUww?oc=5",
-      "publishedAt": "2026-10-30T09:46:22.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "HS효성, 3분기 영업익 381억원…전년比 159% 급증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c52488d482bcc072",
-      "title": "㈜효성, 3분기 영업익 1735억원…계열사 실적 호조에 전년比 48.8% ↑",
-      "source": "이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYWhqN3pqYWduTEd1bHB1OENzNWNxOUFoNnR3VVlMajB6UWl2UnFTRThlOHpkcExqQmFfWm05dDl4ZzNPOHUtRW1oRHgweEVqbjNkSnkyUnE2QUEwWURTV1BzNHFQakxNR09iVEs4Y1Jva0RxakI0VWQtQ1ZLQ3ExUw?oc=5",
-      "publishedAt": "2026-10-30T09:25:47.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "㈜효성, 3분기 영업익 1735억원…계열사 실적 호조에 전년比 48.8% ↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b86dfe677ea83d26",
-      "title": "효성, 3분기 영업익 49% 증가…중공업 수주잔고 역대 최고",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLN2F4MGNOeDhQcjVSVjJrQWR1YmowTWFaNTNpNUlUTEUyVUJnVjl4YkdGcUR0UHdlSWRrV3hHMmw2ZzVCdU9uQXJOeGdhdHVSWVVxRExfTnZmRnFKc1I5YnhfWUZranM?oc=5",
-      "publishedAt": "2026-10-30T09:06:00.000Z",
-      "collectedAt": "2026-11-06T02:58:10.219Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성, 3분기 영업익 49% 증가…중공업 수주잔고 역대 최고 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.85,
-        "confidence": 0.91,
-        "positiveTerms": [
-          "이익 증가",
-          "수주"
-        ],
         "negativeTerms": []
       }
     }
