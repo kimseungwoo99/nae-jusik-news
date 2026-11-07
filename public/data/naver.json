@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:44:42.169Z",
+  "generatedAt": "2026-11-07T02:27:54.384Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,49 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "4일 만에 53% 급등한 한진칼, 최대주주가 바뀌었다고?",
     "지금 매수할 주식 리스트",
-    "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격",
     "워런 버핏, 5년 동안 50% 하락한 주식을 또 매수했습니다"
   ],
   "articles": [
+    {
+      "id": "227ba984a206bfc5",
+      "title": "4일 만에 53% 급등한 한진칼, 최대주주가 바뀌었다고?",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Kdzc1elhVNHo3NkdVazdReldZdVByY0J4YUZrVndYQVNjNDhudG0zLTVQVHNCLTRub3FXbkJxRHRmNTQwSGp5aXFmeGpLck5wQkgxZUVwRlk?oc=5",
+      "publishedAt": "2026-11-07T01:05:50.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "4일 만에 53% 급등한 한진칼, 최대주주가 바뀌었다고? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "a2e0f9c86872d469",
       "title": "지금 매수할 주식 리스트",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaThpNWxRT19qemlUaTlocGljUF9PZnNKOU5QQ05Ma3pKTzlpYUxlRzlpVmdONzhWN3AxT1dxWFdaTFQ3MDlPVVpwM2lBZG1aZG9CMWlHZjZQNS1DYTRDRHpOb3J4MjExQjJtU0tJaktteExsbzIxNEdTQ05CVjZrYlpwaE9FcjNENmY4?oc=5",
       "publishedAt": "2026-11-06T10:45:00.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -42,41 +71,12 @@
       }
     },
     {
-      "id": "df72295f7612eab4",
-      "title": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격",
-      "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzLTkwN1VOTE9pc0pGaTkwQ3FnbjBvVUJRUWVRMDJNYk5tOVhQc2xpb1VQWVhsWTA0eDA1ZmVDVjFiTG9xUGNud1g0OGpJM1ZCYU45VENvdHNPZw?oc=5",
-      "publishedAt": "2026-11-06T00:08:25.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
-      }
-    },
-    {
       "id": "536bd94a4e92da38",
       "title": "워런 버핏, 5년 동안 50% 하락한 주식을 또 매수했습니다",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2h5LVcyZWRxOXBNN3lWVlF2V05oWTBnR2R5SWhZRDZtSS1XYjR2M3diUTVXMzQtQ3ZxYUszdzV1SENyWllXMWNnMDlwQWc0b1g2eW0tUUp6VHRldkxJMDhyUDFRaE85MXV1aEt5SXo3c1JtLUZnd18xNmpVVzR5MXItbHZLZ0VKVzRF?oc=5",
       "publishedAt": "2026-11-05T14:08:00.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -103,7 +103,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HbFRHODZmYnJQanhJQ3FsdndzZ1FCakNLVkFQR0l2dDFZSEhJbS1TRmczdXIydG0zNGkwZW5tZzJsVFUyV3RrLWNTb1RJR0xRSDZSNHd0a0pEZw?oc=5",
       "publishedAt": "2026-11-05T10:15:41.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -133,7 +133,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUFWWUFCSkFnSjVTMWtuc2o5cjUxc3NmYVZaVm1sWFpjcDl6Vl9fSHhuaXpnNm1UWDN4dzE3NGs2T2Y1UHdfVFU3Sng4aUw5RHY4SnhfVkY5amdKcHZCQ1lBZFN5aGtwakRubklRRms2RVBleWx2U2F1bkxSSHIySWxVNnNuXzla?oc=5",
       "publishedAt": "2026-11-05T07:51:00.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -160,7 +160,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIeXhVT2dsZU5kTmI1MGIwM2VxdTN0M1NGdmdPZlVPZWNlRU1tWGRpbVIyc3VBSXhHQ0JpelllbVZ2c19IN2k4QmJaQ19IRnlyUzNXWklKQnBldmNkck96S9IBYEFVX3lxTFBIeXhVT2dsZU5kTmI1MGIwM2VxdTN0M1NGdmdPZlVPZWNlRU1tWGRpbVIyc3VBSXhHQ0JpelllbVZ2c19IN2k4QmJaQ19IRnlyUzNXWklKQnBldmNkck96Sw?oc=5",
       "publishedAt": "2026-11-05T00:50:50.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -182,12 +182,12 @@
       }
     },
     {
-      "id": "183556572c3c334d",
-      "title": "교육연구정보원, 하굣길에도 이어지는 SW·AI 배움 : 네이버 블로그",
-      "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVlSaGxJQzctbDJyaTBWNEY5YzYxZEtrV0M5dENnYUg4bWtxUTFJemV3N01PY29OZjN1ZU56LWN0WDM2S2M5ejZVVUdzV294ZFRVZVk5NXFSS0RseWJ5bmxnelVtcGVhNnJDeWhxXzJINGxhMWRRMEhUamdhNHNvOXZOX2cxcnBpd0toeEk2Zw?oc=5",
-      "publishedAt": "2026-11-04T10:03:53.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "id": "fe4dd1b000858222",
+      "title": "민주당이 이겼습니다. 내 주식도 괜찮을까요?",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFBEeDA1ZmVlSGNWYVpxYWVIRFhUb2tST21RdWhVVmVJUzJndVB6dDJrSEFPSFBYckR1RFJudnpsRjdyTU9tczBtWUkwR0F2RmN1eEhNUW1ZSGtSUWlSVVJ1VWZyX3lSbUJtTmlYd2JSeDdiczFXVW5yV19CbmZoTHhiempuQzhETkJZ?oc=5",
+      "publishedAt": "2026-11-04T14:26:00.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -198,8 +198,8 @@
           "ticker": "035420"
         }
       ],
-      "summary": "교육연구정보원, 하굣길에도 이어지는 SW·AI 배움 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "민주당이 이겼습니다. 내 주식도 괜찮을까요? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -214,7 +214,7 @@
       "source": "세이프타임즈",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRENmU2ZvSVJmV2d6ZDlENl9RSG1yd0tVOXpIRmRuN0xIeVYzZGpqd1NZNW1DcU9Pd2VZa3U0ZzQtUGpVejY2LUJrZVNjWHl3MmxvSDRTVmZYSkpvLTBKcl9STXVCQ0hjYkNnNDM2SdIBc0FVX3lxTE5lWEEzOEpEakowbnZYUF81OXcxR1ZfSHJHM1hibTFHR19kRTJ1UHo3QkZta3lxb082anVXZmRyU1lRQVFJRUwydHowQllEeVkxYlkzeG8xLWVQV2xlX0lrbkpTYkZCdDdna1V2NFRUTEF5VHM?oc=5",
       "publishedAt": "2026-11-04T06:21:01.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -236,12 +236,41 @@
       }
     },
     {
+      "id": "b782c0a12943cfa8",
+      "title": "매출 늘어도 적자·주가 하락…김동명 LG엔솔 ‘내실경영’ 시험대",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjd2MlZkblJIaVNIb0NGZ3A3aG4tTlloQkdiY2dubEJLUlJ5QXA2Mi1hUWRqRVRQRnlfOUZheXU1dlZiYUNTMHF3c19UbmFVSktCNW5WbUJDRXVaZk1TT1NSUVN1emF4V0RRVXFzQ3lXNDdINDNxX1AxWkhBdGRITkZKWQ?oc=5",
+      "publishedAt": "2026-11-04T02:32:00.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "매출 늘어도 적자·주가 하락…김동명 LG엔솔 ‘내실경영’ 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "confidence": 0.68,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "매출 감소"
+        ]
+      }
+    },
+    {
       "id": "b012b89e1bb350b1",
       "title": "네이버 'AI 탭', AI 경영시스템 국제표준 인증 획득",
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YnBmclNfb2NPNE1kTFI0RWdxZ1RrYjNMZFE2X21SalpLZUZydVh3OW95cWhrNzVNRE5QcE5tMUI5c2lTVDFPaXZkTFdwNXNRNFcyd0N0eU9hVzZtSXdpdkNrQWZuSkVZbGg4WVVR?oc=5",
       "publishedAt": "2026-11-03T18:04:49.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -268,7 +297,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjhVT24tazgzUm9XOGZoVWVibW1jVF93c2hFcjY4bjdPSnRFY3VJdDZ2SHNEclQ0a0xkNm1KMlcxVEkxbGJIUEpFSTU2NXp0Qlk5RlNaelkyTm1YZWxOYmpIWTRvQWZHcExvTW5rbHhISmtzb3VwOVY4X2N2T0VYOG5zTQ?oc=5",
       "publishedAt": "2026-11-03T11:26:00.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -297,7 +326,7 @@
       "source": "경인일보",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yZ2h0VmtJeTRfODNXenNucmZmbnRndUQzNENVbzhXbjNmbTJwZG9YSFk1SHVTVUJRMzBiU2RLaUR4YXViTjZsTEtoOHNSS18xWlE?oc=5",
       "publishedAt": "2026-11-03T10:53:37.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -319,12 +348,39 @@
       }
     },
     {
+      "id": "f7a42c9bc962eb81",
+      "title": "이 주식에 1억원을 투자한 이유",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSThsbjNoZTc2TFJ2eW1ORmFsN01xMHZpU3VWODVDOHQ5LUlpSjZFci03ZkJMX1JfdnpuTDB5ZFZhc29rdlBTajc0dlZ5V3ZldlVQYkZSdFJfQUxTSTBSVXctcUpiY0l4cWk4c2FtOWQwZnV6MzZQMWdmSGNmR243VWZQVGtDazlCUFZJ?oc=5",
+      "publishedAt": "2026-11-03T10:12:54.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "이 주식에 1억원을 투자한 이유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8bba9819dc51e34e",
       "title": "주가 30% 급등한 한진칼에 무슨 일이? 불붙은 지분 경쟁",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV3RvNDVwVU80RkJhY29oQnNrdW1lME1qRE5XcDUwN1ZiSllQQ3BtOUhxSTkzaTZWUE16bzhtUE0yT0xmWDhyRll5cDVzYTFUei1ZRG9OaFk?oc=5",
       "publishedAt": "2026-11-03T08:29:19.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -353,7 +409,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDNsUFdXTU50dTZTYTduZ2tCc3RNOXZHZWVKUTcycUZoYVRSUnVvVWdONjMzX2xQQjVnUzB1Y0FmX1BydzNVd0d5U3BnQWtYNE9pRDJTUm9KWHQwR1d4cjBCVmZfd2haako4c1ZqOE9HYUJtMTYwb3AyaVN1N2pYRW9ETkM0d1po?oc=5",
       "publishedAt": "2026-11-03T07:40:00.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -384,7 +440,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVnNiY2h1eGpBTlJISjJCQ0huaG01QW5kS2s4bkduQXBfd2o4eENnZkI2dGgtRG43VFRXVmtYa1Q1WDVkR3I3UlhOMVE3MDZQM1E4T1luVE9RT1U?oc=5",
       "publishedAt": "2026-11-03T06:02:26.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -406,12 +462,12 @@
       }
     },
     {
-      "id": "b3d8f6ed303e3e81",
-      "title": "네이버, ‘AI탭’ ISO 42001 인증 획득",
-      "source": "주간한국",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN2thOE1LTWlsbTl1QlIyeGgxX3lHTXA2RUtrckFPRmloQV91UGpybURQckNoSmExMGo1Q3pIekRnbkMxUmdNYVcwWDNUQXpKOGkyc20zYmdYM0hlS1pCRmVOVlRjTmM1NHYyUFZ3OUXSAXRBVV95cUxObnBpcVBFV0hYS0Jqb2V1ZnpQU1NXc2Jka0xxU1RoTmR6eWtFVG15RVltdVZiRHpmVjROWWpBV2NnS1dPRlhqLVNLMzRYQlNlWU9RU2FtRkRBUHBtUFEtTmRzTGo1U3E3ZUpwRlliWC1DdmQ5Ng?oc=5",
-      "publishedAt": "2026-11-03T02:44:02.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "id": "8e9691b8ab8b4038",
+      "title": "네이버 ‘AI탭’, 개발·서비스 안전관리 국제인증",
+      "source": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03NFdyV1VRVkNYc1EtYy1ic01KVXNpczVweUhrS3hZQkd2LUZKbzlQMDRBSHRBWm1Jb29rd2U2b29NWEM2VGhwVXB5d1FURGYw?oc=5",
+      "publishedAt": "2026-11-03T02:07:35.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -422,61 +478,7 @@
           "ticker": "035420"
         }
       ],
-      "summary": "네이버, ‘AI탭’ ISO 42001 인증 획득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c6e615166ba87c00",
-      "title": "네이버 `AI탭`, 개발·서비스 안전관리 국제인증",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dFBlZEFtQVR5U3lHTGZfdHA3QTZRSmVMMm9qdjZBMTJsQmFXbVJsU3hFM21ZTHAtT3ZFUUlvdVFvS3AtT0RPNk5LdUZjdkljbVFFc3l1Z0RGMWhJOGdBaFNSdTY?oc=5",
-      "publishedAt": "2026-11-03T01:47:27.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버 `AI탭`, 개발·서비스 안전관리 국제인증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "66a1c7d40c45be75",
-      "title": "네이버 'AI탭', 경영시스템 국제표준 ISO·IEC 42001 획득",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tWmxINVQ4NXZrcnlJUUJ6UkVaN3djTlIybVdib1hJcWdGYjV0SS05a0hDek8taUpEbF93Mzlaek1wazZhelFaanFMc3d2V0l3XzJBR3Jn?oc=5",
-      "publishedAt": "2026-11-03T01:23:52.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버 'AI탭', 경영시스템 국제표준 ISO·IEC 42001 획득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "네이버 ‘AI탭’, 개발·서비스 안전관리 국제인증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -492,7 +494,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SjdHczdITVJwSnZDUDVKRnJwbEhCbnJwRmxlbm1CV1VGYlFoMlcxcFJXcTlhWVRZckFYRU5oZ1JXVTFTUWlmQklJZVJyWXNzSHplaHFVRG9WN0lESUxFMdIBeEFVX3lxTE45UkNwcFBLS1JkbnBWZy1QR1JTRDVrT1I4cVJMYnJjci1hY0QwdUdtRzRjX0t0MjN5a2RualV0Qks5ajUyRWFsYlR0a0VRdlRqakpxa0cwLS1oZ3NydVA4NWNKempxMkNTb3lMY2JGT1J0bzNBZzVVOQ?oc=5",
       "publishedAt": "2026-11-03T00:37:20.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -514,12 +516,39 @@
       }
     },
     {
+      "id": "2b9209d88b8988f0",
+      "title": "네이버 AI탭, ISO42001 국제표준 인증…검색 기반 에이전틱AI 최초",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fODhpaWtROTgtUE1FOHc1N1YzbGJqWEVwVVNJRkpsX3FXN202YUt5MDVsWnVMem91TGtoTWNlVlI2THRJZGhfQmpHem9xdGtwNEJ2NFV6SGwzb1FIR3NJNzhHMjZ3cHhu?oc=5",
+      "publishedAt": "2026-11-03T00:28:10.000Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버 AI탭, ISO42001 국제표준 인증…검색 기반 에이전틱AI 최초 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "13fb7efb3b8c860e",
       "title": "네이버 'AI 탭' 국제표준 인증…에이전틱 AI 신뢰성 확보",
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zS04xQW4zdTB3eS1aaEhPNncybDQyV3dWNkg1MDR3c0c2UFI2ekk3V2s1X3g2b2lQRm1jQXFnb0ZldWg1RG9rNGxvQldPTzQwVXExZXdNcEh6dw?oc=5",
       "publishedAt": "2026-11-03T00:16:34.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
+      "collectedAt": "2026-11-07T02:27:54.384Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -532,33 +561,6 @@
       ],
       "summary": "네이버 'AI 탭' 국제표준 인증…에이전틱 AI 신뢰성 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "93684cd1b1cd2f84",
-      "title": "주가조작 잡는 '증권시장 경찰' 자본시장 특사경이 뛴다 : 네이버 블로그",
-      "source": "블로그",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IN01HYTV3OEQ3UlEycmdib3o3VEhzTGl4dGJ0U2hBV2QteFRHcnNlT0tjWjh1UDZ6SE51U0sycmxGTVBYc3YzZU43VE5PRGVIblBlVllpOThwX3d1ZTFhT2FtUzROdkdHaWpwRDlNaDhnR0V4V05rUEl0Q2VaQQ?oc=5",
-      "publishedAt": "2026-11-02T09:37:41.000Z",
-      "collectedAt": "2026-11-06T17:44:42.169Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "주가조작 잡는 '증권시장 경찰' 자본시장 특사경이 뛴다 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
