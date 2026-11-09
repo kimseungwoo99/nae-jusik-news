@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:14:29.956Z",
+  "generatedAt": "2026-11-09T10:39:57.094Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,216 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "목동 첫 래미안 들어선다…삼성물산, 2.4조 목동13단지 재건축 수주 - 머니투데이",
-    "3분기 대형 건설사, 마진 관리 따라 수익성 '희비'",
-    "삼성물산, '2.3조' 목동13단지 재건축 시공사로 선정"
+    "13조 현대건설·12조 삼성물산 '역대 최대'…도시정비 수주 호황",
+    "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보",
+    "[오늘Who] 송규종 삼성물산 리조트·삼성웰스토리 경영 1년 '반쪽 성적표', 레저사업…"
   ],
   "articles": [
     {
-      "id": "fb7f1688b688e97e",
+      "id": "d7af554f3c40e8dc",
+      "title": "13조 현대건설·12조 삼성물산 '역대 최대'…도시정비 수주 호황",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kREt0NzVnUHJ6M2FlVXVaQ2VUdWMzZllqREQ4MTFNQkphTThwb0tGVnFRSmR5QlhtU1o4RVVjVk9mNGxZWVh3MGNibFRtSXpnNkR2SU1MbGF0Y3JFQ2VHMHZFaUJxelJCLW5YVjB1WUhLTm9yVERhc9IBeEFVX3lxTE1kREt0NzVnUHJ6M2FlVXVaQ2VUdWMzZllqREQ4MTFNQkphTThwb0tGVnFRSmR5QlhtU1o4RVVjVk9mNGxZWVh3MGNibFRtSXpnNkR2SU1MbGF0Y3JFQ2VHMHZFaUJxelJCLW5YVjB1WUhLTm9yVERhcw?oc=5",
+      "publishedAt": "2026-11-09T06:37:06.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "13조 현대건설·12조 삼성물산 '역대 최대'…도시정비 수주 호황 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.73,
+        "confidence": 0.84,
+        "positiveTerms": [
+          "수주",
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7572dc912e94d2b5",
+      "title": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vQkszSVRqRGxOM1Ata1cxM1NkSzl5S3FZSGNVZnlVZGhuQkhoNGxNcmNwUm16M2VWamlUcFZzLVdxeUk1TDVSbHZKNnBVWWc5amtnR0daeU9tX2F5TVktTGI4NA?oc=5",
+      "publishedAt": "2026-11-09T06:34:09.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f38e5aa601b16e4e",
+      "title": "[오늘Who] 송규종 삼성물산 리조트·삼성웰스토리 경영 1년 '반쪽 성적표', 레저사업 수익성 회복 관건",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OYnpCdmhjcGRua3hvaWtKbWFnYjdvYnRJc09mTU9kdVltUXFxdlV4bmhGRVFieWxfeUJyQ0RPNkRjUkRENjNxRU5nSkx5VWlkdVJmWEVRbDdYcV91SmN1dVZxeGlEV0lLSk04MjJ1RE5tZEE?oc=5",
+      "publishedAt": "2026-11-09T06:28:43.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "[오늘Who] 송규종 삼성물산 리조트·삼성웰스토리 경영 1년 '반쪽 성적표', 레저사업 수익성 회복 관건 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e55743a2e9f90c64",
+      "title": "반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재'",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWG9NRDB0NVhiX0ZLREZuRVAwM0I0cUdfV3hTZVd4YkpCR3l0d01mUExQRkd6ZHhjTGdTVzlaRklXYUlXaW9BeU9KbVRrZjd1ejZZSFg4bWxrTDZYclU5MktvNUw?oc=5",
+      "publishedAt": "2026-11-09T05:35:20.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "25c4d54dbbfe0035",
+      "title": "에스와이스틸텍, 삼성물산서 94억 원 수주…데크플레이트 사업 경쟁력 입증",
+      "source": "철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GVGdhY2JCYzRfbUIwMjlUY216SF9IYW1ab29lXzg4UEVQaFF0VDBtOEN6VzFPQnVnTnZnMmNGc3Z6S01iUU1LMWRZMzhUWXZXN09JVkVRZ3A3UWpVVkNMRXhlVS0ta3pBaHc?oc=5",
+      "publishedAt": "2026-11-09T03:27:50.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "에스와이스틸텍, 삼성물산서 94억 원 수주…데크플레이트 사업 경쟁력 입증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9fdbeb149db871a8",
+      "title": "삼성물산, 목동13단지 재건축 시공사 선정…2조3763억원 규모",
+      "source": "조세금융신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQOGVXcUxJLWRzMUxDSTBBZGJrLTJGTS1pWDVnLVRPUUxkZ29pRHE1UllvNENEMmp3ZnM0Q0JTVVRyT25SSHdrVi1tdzJRWlljckNDRUtnRkJLUEJXdGtjam1xSQ?oc=5",
+      "publishedAt": "2026-11-09T02:48:03.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산, 목동13단지 재건축 시공사 선정…2조3763억원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7c1cd691f7d78211",
+      "title": "목동에 래미안 '첫발'…13단지 시공사에 삼성물산 최종 선정",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjLU5jWFpYNml4TGs5X0FzckdYQ3IwX0k0Tm1neW5icktfVmk3TVpOaURxVkxyQ3NBSlFiNnZYeHNUeWhYX0ItTkZLbDRnY2xZLVhVcTlvNkdiQQ?oc=5",
+      "publishedAt": "2026-11-09T01:59:13.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "목동에 래미안 '첫발'…13단지 시공사에 삼성물산 최종 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce9ff06831acaa27",
       "title": "목동 첫 래미안 들어선다…삼성물산, 2.4조 목동13단지 재건축 수주 - 머니투데이",
       "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdkNDN0ZYdTE2c2ZQWmQwWWVheWoxTXFWVTRaS203czZqNHlGaHQyLXBWcExOVGhaTkdBbUNlTzI3TzJpVEhRV0daSXZudmdDNWIzUFNDQ1VaLWJ2djlSRFNYUG82UWpXb2fSAW9BVV95cUxPRFk0ZG4tZkxKdTQtazJ0T19hZURnSnpZTXZESlE1RFhVNVhEZWNmdTBaWV9NNGdrVExIRUU5ZGJXOVcxN0hUTHZRcUpSb0Vhc0dhTmNzWnVZYkk4aFpNUU14MXVJQ3ZiSTBOZmRiVFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWTRkbi1mTEp1NC1rMnRPX2FlRGdKellNdkRKUTVEWFU1WERlY2Z1MFpZX000Z2tUTEhFRTlkYlc5VzE3SFRMdlFxSlJvRWFzR2FOY3NadVliSThoWk1RTXgxdUlDdmJJME5mZGJUUdIBb0FVX3lxTE9EWTRkbi1mTEp1NC1rMnRPX2FlRGdKellNdkRKUTVEWFU1WERlY2Z1MFpZX000Z2tUTEhFRTlkYlc5VzE3SFRMdlFxSlJvRWFzR2FOY3NadVliSThoWk1RTXgxdUlDdmJJME5mZGJUUQ?oc=5",
       "publishedAt": "2026-11-09T01:57:50.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -44,12 +240,12 @@
       }
     },
     {
-      "id": "e90fa16c23345cee",
-      "title": "3분기 대형 건설사, 마진 관리 따라 수익성 '희비'",
-      "source": "신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBISjM4NlZiT2stOFBPRnM3cTFWZUF3Ukx6bVBjM3RlaWQ4MUpQNXRRekVkSF96S0VLRk9tblFFck5ZV05IcndNdXRtQllyeFBSejl0YlR1ZDFQT2ZnVl8wU2RHLUMxanRZcDVBRExXWnY?oc=5",
-      "publishedAt": "2026-11-09T01:03:38.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "id": "ccc286f9b4a05d05",
+      "title": "삼성물산 건설부문, 양천구 목동13단지 재건축 수주…2조3763억원 규모",
+      "source": "주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jQ0tjWkJjdmlsZVVXOWw2MlMzTmM4UEdwMENjNjkyOFdSMEtaaTdCYUVYQ3REaXg1dHg2X09DaDQyajJJTk1TSTdBWnRQaHFsUjU5YmhnNDhrTmhnMkt0ZnRhNWVicHZXX0JZTjhlWHNiRUxi0gF0QVVfeXFMTmNDS2NaQmN2aWxlVVc5bDYyUzNOYzhQR3AwQ2M2OTI4V1IwS1ppN0JhRVhDdERpeDV0eDZfT0NoNDJqMklOTVNJN0FadFBocWxSNTliaGc0OGtOaGcyS3RmdGE1ZWJwdldfQllOOGVYc2JFTGI?oc=5",
+      "publishedAt": "2026-11-09T01:27:31.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -60,23 +256,25 @@
           "ticker": "028260"
         }
       ],
-      "summary": "3분기 대형 건설사, 마진 관리 따라 수익성 '희비' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성물산 건설부문, 양천구 목동13단지 재건축 수주…2조3763억원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
         "negativeTerms": []
       }
     },
     {
-      "id": "a95ddaec971131ec",
-      "title": "삼성물산, '2.3조' 목동13단지 재건축 시공사로 선정",
+      "id": "d30abdbf9be4e1c7",
+      "title": "삼성물산, '2.3조' 목동13단지 재건축 시공사로 선정 |",
       "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwb1VtTU5YMEVIQWtQUkQ3TDBvejRxS2plUVBXTzFxSHA4UEdCSFRzbmEzd3NKTUd4VjE4akdtREtiUWhLVnB1RlB5Rkl3QUVzTjlJQnpuS3BHbDRnQzFLbklqcmNxdFhhZjJJeWtlZWo?oc=5",
-      "publishedAt": "2026-11-09T00:49:31.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44RUoweTlJU3hZa1JsMXp0M1JNX0xxWUdXczFGTzZtaWtXYy15ZktlYTRVdWNDWXMwU1JjNkJlVE1hNE52WDY2OVpnMTR5RUtOM2ZmaktyTGlEaVhWejVaVzJZREt1YTZhQ1ZOZ3JibF9DSi1I?oc=5",
+      "publishedAt": "2026-11-09T00:53:51.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -87,7 +285,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "삼성물산, '2.3조' 목동13단지 재건축 시공사로 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성물산, '2.3조' 목동13단지 재건축 시공사로 선정 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -98,12 +296,12 @@
       }
     },
     {
-      "id": "d789c85f7c42f936",
+      "id": "49ea34de00f929a0",
       "title": "삼성물산 건설부문, 하이테크 효과에 이미 작년 영업이익 추월",
       "source": "데이터뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eFhrNFlQMmJic0NCYkJCdWw2Tk95dWIxT1BIMkhrWlF4MW0tTmdzaWpNd1VvRXV0ZmRTYXdwbWVGdThFOTZmbXdNQ19KRnJZOXk2ZFhmb2hUdnZEbVcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KZHFYR19xS2N2UkZXSTh0TXJHOXRGUGl4OVVsdVRPQUg0T3J5LXdxXzkwUm1zQVQweGhyM2JZN1J0SnNqWGVUMVFQT0N2QXdtZTlHR05ZZ09fZF9HbUVKcTlNVXE?oc=5",
       "publishedAt": "2026-11-08T23:46:55.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -125,69 +323,12 @@
       }
     },
     {
-      "id": "4057133173b57dae",
-      "title": "목동13단지 품은 삼성물산, 수주 12조 돌파…9·5·1단지도 수주 노려",
-      "source": "땅집고",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V0puX0daRjAwdlFNd3V4aEtJV0dQTXdFcEQyZGNMaHI0VjJOSm1jWnRBa0h4QmVTVFdrdVg5bUlya19WdjlHRnpkUXVBUWpKYlhPdjUyVVZrN0k0MWd0dXZIOUM3Zm1NdEdHc2ZFLWNXUURQVFVZczU4eEVqUXfSAXNBVV95cUxPa3pSc2NFOWhOcUVxMnNvOW44MXZ2UmdtNDFWTlViVUdreEdjZUtTU1hfLVBITVF3ejZJVGF5V29ZaVhlTXJwZmpzbW5DblBzcjhTd0Y3bExtWTBFT0h3d2d2VWMwR280UnpYN1BzdF9NSlk4?oc=5",
-      "publishedAt": "2026-11-08T03:08:59.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "목동13단지 품은 삼성물산, 수주 12조 돌파…9·5·1단지도 수주 노려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.73,
-        "confidence": 0.84,
-        "positiveTerms": [
-          "수주",
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "97296a07a98d9677",
-      "title": "달아나는 현대건설·쫒는 삼성물산…목동이 승부수",
-      "source": "포인트데일리",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuVVc0TFNQYWd1U2dZenE3dnBWNUZPNGpOVWt5VzJCbWRsRDRib1ZVSG9WeUFmdkl5ejZUYUNORVJLd2RyMDRTbDhtSUtVLXhhXy02TTBORGNvcHpyQW1QanBrdjd2aC1zR0w1S0RqWXrSAXRBVV95cUxQUGxhcm85eDY2Tl8td1puOGotaUlOOVdIMldwc3lqMDU0Xy1Mb092OXpRYlJFTTFObTB3Y2draXYwUTc3UWdDNWlBekxLT0RRQi10VXRUbWJaWWFZWE9lUkpGLXpEWDhEb3lvYkpQRTZGNmVCdQ?oc=5",
-      "publishedAt": "2026-11-06T09:00:00.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "달아나는 현대건설·쫒는 삼성물산…목동이 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "89012c09208ad394",
       "title": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]② 삼성물산 패션, 3분기 영업익 67% 증가…아우터 상품 차별화로 수익성 강화",
       "source": "업코리아",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXcGlOTzg1aUU1RWFudXByMy1LOWMyaE9vaXd6TXJ3ZHR3NFVjcnlyTHJkbHlOTDZNN1dpRTR3LXY0cVdNNTFFSE9BMTVycnZnd1ZtOHBGUnd6eTJaUnBOT0U1aXJoeEJfdVNDRzJB?oc=5",
       "publishedAt": "2026-11-06T05:04:21.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -218,7 +359,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82MThveW9iLWdfcWhQd25Uc0Voc1lSS0F5RDk2YmxCekxBSGVJcnlMQjAtY1VIbDZnbFZ4X3BRWTBoSzFTdG03RHNMQ0pWRE5Vc0FQTXFDdm5RaHg2dXNVX1M0WFRMT1NZQmVpOVIxOTRPQWM?oc=5",
       "publishedAt": "2026-11-06T01:43:16.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -245,7 +386,7 @@
       "source": "뉴스포스트",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZ1pDTFZIdVRHMHpKc3E0RXpySVRMOFZrb1UwY3BnSDRzYTgzbXNzNU9hUW9WWFItVlRYTE1TaG54dnltZWw5VnpfbmN0dlZlZjNTZUh5cVloWlFud3JVTmQ2cExfVjkzSlE?oc=5",
       "publishedAt": "2026-11-05T06:12:25.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -272,7 +413,7 @@
       "source": "삼성물산 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPazh6TnB0Nk5uN3RBcGpHZ3lzdjhyTXBYS3hROFBtLWxBcW9MT1F5R0Z2ZWVSMGpTZVo4Q2wtU0hhcjAzdGlONUVHVE5JdldkUjV1X21WdWEzVjB2YllJcVRCSVM0YVpPcTFhVURfeV9iQ1Q5MkhCTG13Q1c0Ym55OTd1dmJJX2tIRzZabmFJbUpHUkg4S3pEOVIwYmNZTHo5Q1dqZjRvZlFTcFhIWmVLVEpyQ3ZQeUdjTFZ5QUR2SERnV1VSY0JGSWVWN2ZjdzlISldVUnY1REpLZXQyUWFWWnQ3VkZNczRYQ3VZTG1HRkR4R0JwWVUtTUliOUo0bFQzS1hHbTZySVQ2Wk1kY0JNX09ZR1AzQmp3b25OaFF4aTU4WDc5XzNYN1p0a3NLNWIta2RyM29Hb2pOQkFCc2ZfczY1d1FCbkVoSTV6a1ExM3czeXJUZ3l3UVZqZmUxMDJIXzlORTEzaS1WUkFHM2tXWkZSNTBERVdZdjN5T0M0dnBpUUNONm9vUkxnTGJzQVVPT3FHYkJvZ3M4ZWxGNmdn?oc=5",
       "publishedAt": "2026-11-05T05:23:47.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -299,7 +440,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5od1ltRjFmYWRrYlBjRUtBWjdnV1pZMFplS1h3S0t0TmlYRWRJRWF3NFZYQm5UMHdRMGtOeHFVa2xVWjZNSUNrVUZJNi05b2FMTlU4aC1QVjFHQnNiSk9IUmVHZHlWQmZJcEN1ZTFja9IBZkFVX3lxTFBSMDB6OG5aYjFpS2FzcjI1MUhhQXdoekMyRE5DbmZpOU9rcHBxVEFfSnA4RUZfUjc2R2laSnJBay0yU3pkZEVjUHI3OE05VGVYdjhxWUlYVV9RWXM2ZXdXdEhiT1VNUQ?oc=5",
       "publishedAt": "2026-11-05T04:09:58.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -321,39 +462,12 @@
       }
     },
     {
-      "id": "ead66b34125eee12",
-      "title": "삼성물산, 방글라데시 방한 경제대표단 접견...인프라·신재생에너지·도시개발 사업 논의",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wV2x3eWRQckZnTTRZRkFkb3dwZVJGRVlOWFlMOUhmc0VSX0ViZkZnYks4ejB0dDk5UHgtTWJGTGZYSmg0WUx3b2k5Ym91blRNQTRfbl9UcGduT2JSRGFaOVVBTQ?oc=5",
-      "publishedAt": "2026-11-04T23:30:54.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 방글라데시 방한 경제대표단 접견...인프라·신재생에너지·도시개발 사업 논의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b0178327e5dae674",
       "title": "실적 뛴 종합상사 3사, '돈 번 곳' 다 달랐다",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52S2xTQ3Q2WUNKZVZfbjhCZ3NYUFozY3NtZFRZbDAwQ0Q2YVk1UVZvZ2hVM1VUYkh5NE1RMl9qdjQtZHh0UFBfSjRqUU55SUkwai04NEQxTUw4SktBR2lmN1loZTNNUnZONVJiMw?oc=5",
       "publishedAt": "2026-11-04T21:50:02.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -375,12 +489,12 @@
       }
     },
     {
-      "id": "6bea6014146061a1",
-      "title": "삼성물산 '홈닉', 금성백조와 업무협약…협력 건설사 21곳으로 확대",
-      "source": "브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQU4xeTBabDJJRmptVV94ZjdMZ1JqdzlLRFhZclQ3N0dpSzJfcW1QcW1hOGlKVFFjV1Q3LWx6MmRZUFhnSV9oTTNBeGtlTkU2bzVISWpBaG5kdw?oc=5",
-      "publishedAt": "2026-11-04T04:40:00.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "id": "52844def19344dc0",
+      "title": "주택 수익성은 좋아졌는데…건설사 실적 희비 가른 ‘비주택’",
+      "source": "마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jT2JVdDVHZ0wzNnBtd3ZvbV9sOVRhalQ5WXN4YVpmd3JXd2JQcVpCblhRa1NjemZ5WjlCc1F4Q1NaaEVOcVBodFNQM2J6UGlsVE04SHdac2t2dXAwY1BwYlFkcDFFWVUtX1NBY3hMVlZhQWc?oc=5",
+      "publishedAt": "2026-11-04T06:29:53.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -391,8 +505,35 @@
           "ticker": "028260"
         }
       ],
-      "summary": "삼성물산 '홈닉', 금성백조와 업무협약…협력 건설사 21곳으로 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
+      "summary": "주택 수익성은 좋아졌는데…건설사 실적 희비 가른 ‘비주택’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "77e7493b92f0c186",
+      "title": "삼성물산 홈닉, 금성백조와 맞손… 21개 건설사로 스마트 홈 동맹 확장",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5waS1RM0hMLTNrREg2TWxZREg1eUltVkFXTDhxNGNWa21IVm9IMm96ZnNMWnpBMkVIWVRFcndqZ0V5UmF4bUlxWFNEZk94X3pjZXfSAVNBVV95cUxPQjJGOEswZ1VXaHdreFdTOVBzQWM1NGl6Xzc5bXdnRU8xXzlBVEhmLUtkYWFIZGZlQzBNVlVITWtnVXZhUDJvaEJjdjFITl8tekFaOA?oc=5",
+      "publishedAt": "2026-11-04T04:39:34.000Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산 홈닉, 금성백조와 맞손… 21개 건설사로 스마트 홈 동맹 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -407,7 +548,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZXgyQWFOR0xXd216LVptd3NSZTZMUE9oc1M5U0FHYmlTQmVZZFVpLWEyUlo2OXpKenlzUzFfNTRIYm9CbW5rdUItQnljZ2VFWGNTdzR2VU1PSm1aaTVVNkNwaWRiUFNROXfSAW9BVV95cUxQS0h2cTMzY0pSR1V3YjhqWXNydy1US2dNZ0ctdDdidERCcVVXR0Q0UWNRTW4wNlZLcWE0bW5Ja3ZDSEE0SlZBd0FZcW1NLTBYbFU5Qk1CeFNieEJLMXZJbVRyanhmY3loR2RKM0I0ZW8?oc=5",
       "publishedAt": "2026-11-04T02:11:00.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "collectedAt": "2026-11-09T10:39:57.094Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -420,143 +561,6 @@
       ],
       "summary": "삼성물산 '홈닉', 금성백조 아파트에도 적용…협력 건설사 21곳으로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "98473b6e4518263e",
-      "title": "삼성물산 ‘홈닉’, 금성백조와 업무협약 체결",
-      "source": "한국주택경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KSVdfeWtXVmRFdDQySU00OFZ6M01VSkVkbFdiZ0JSQ3pac1NBRWs3d2Vzalk4alJLcVo2a1RORlNoUUNQMmFnZ3ozSFJuMGNSYjNfeVdxMHNldXN3TTcyOW56T1FSYlhJ?oc=5",
-      "publishedAt": "2026-11-04T00:16:28.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산 ‘홈닉’, 금성백조와 업무협약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fd426ef15373927e",
-      "title": "삼성물산 홈플랫폼 '홈닉', 금성백조 아파트에도 도입",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjM2RuVTlzOEFSMTNSYzZOZWlYdTJxRHpleFBiSFNfUXFYblh0eGFzU1ktY3JhUjRDamlSY0pLOTc0V1RrVjVuM2FVQ204WmZPMHNLdHl2eV9QNDjSAWBBVV95cUxNaUNHVE82V2duVmJ0ellRejVXSjZMamtDOTkteTBObm1zY0NLNE04YXJTUlBfaEpNQmtJc2I1YmcxVjA2c0RVS2ZzVjUwSGtTOXBYclIxdkRFVkNwYkJLZVo?oc=5",
-      "publishedAt": "2026-11-04T00:05:30.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산 홈플랫폼 '홈닉', 금성백조 아파트에도 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "695f77f9dda11a0a",
-      "title": "삼성물산-금성백조, 주거 서비스 홈닉 도입 업무협약",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTklMd255dHV0QURxS3I5YmVzU2lZYnVMekdWSXViMjhYVEhzM2NhT0hoVS02aVNwWVFxOGdOVloySDZmTXNieFV1X01ndEF4NjE1QzRES3FLX195bWZMSlZLYnZjd1k1UjV2OC1xcV9IT29GSE5yZS03TFQ0LWtRTk4yc2dvWi1obW9meEc3bTFiRTdmeThQOdIBrAFBVV95cUxOd0VHVk10OUhTS0lSRkdMRmljeVNySHhGcTdCZlc0Zko5NnNWakhuQ1ZJTjZ1T0pQZnJSRVJ0VXQ2RDcyZEE1R3FaUXlnSTZzNThPUl9zQ0xhMjlhUWI1dWZXNC0wZ3RpX21HQ2hWMTNwRW5yN1ZnVk9HYXZya216STZ3QS11aHNDbE94SWJyal8yX2xYcTk2Ujk2MkpwMmt3QjRwQldBdWlXQXFm?oc=5",
-      "publishedAt": "2026-11-03T23:42:00.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산-금성백조, 주거 서비스 홈닉 도입 업무협약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1c11806f2c85b003",
-      "title": "[삼성물산] 삼성물산, 수주 목표 30조로 상향…반도체·원전·AI 데이터센터까지(2026년_2Q)",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk5DRVpZMDhRaW9aUXVKRlJYU3RZMlJVVmx1VHQzWGdPSWJORXd5V2JDdEVNWWg5RjBrQ3d0cEZGVmNWc0JfQ2l1bFVndFNnSlRrYUZjbjFvb1RPQ3FEcjBjZEc1eUhLMVcwNExtQ0hid201djFyYW9KeXI1elhLaVZHeVVPVkJz?oc=5",
-      "publishedAt": "2026-11-03T06:23:00.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "[삼성물산] 삼성물산, 수주 목표 30조로 상향…반도체·원전·AI 데이터센터까지(2026년_2Q) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "71c075f81c79926f",
-      "title": "패션가 3분기 실적 순항…'해외' 공략 통했다",
-      "source": "MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VRU1UMXhtVlBKM09SSGxnRURJNWF0S1I4SUlzSldvLWFfelJXZi1aRFhvMl83dVJjZHZwb3FaTG1UbHU4ZFZVYUYtMm9LRGpFd213aWZqN0doV0ZGdjFr?oc=5",
-      "publishedAt": "2026-11-03T05:44:35.000Z",
-      "collectedAt": "2026-11-09T02:14:29.956Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "패션가 3분기 실적 순항…'해외' 공략 통했다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
