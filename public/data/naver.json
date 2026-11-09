@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:52:09.565Z",
+  "generatedAt": "2026-11-09T02:14:29.956Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 실적 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "코어위브 11월 10일 실적발표 : SK하이닉스 주가 추가 하락할까? 아니면 반등할까?…",
-    "Soxl 주가 40달러에 매수 : AI 버블, 금융위기 오나요? 다음주 미국증시, 국내증시…",
-    "4일 만에 53% 급등한 한진칼, 최대주주가 바뀌었다고?"
+    "급락한 반도체 주식 중 제가 고른 3개",
+    "Soxl 주가 40달러에 매수 : AI 버블, 금융위기 오나요? 다음주 미국증시, 국내증시…"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkJzUnU2VHZJTW1PdVJfdUpKdlFsTHJ2X2lNdWxNLXVPbHJvNUdoV25OZkMzS0F3enlZQUROU3hqSWZlQXczSmwwUnJjQTJiUWFZUURTeFByNGFpY1N5cHNnU0tkT3RneTlhV2FUTzcwcmtpcnJ2bGx0QWhxY0J6ZXppWQ?oc=5",
       "publishedAt": "2026-11-08T12:26:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -44,12 +44,41 @@
       }
     },
     {
+      "id": "aecaea3b33dfa8ec",
+      "title": "급락한 반도체 주식 중 제가 고른 3개",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0lxaHZZY3M3R0w0TDhXdGtGb3J0SjBQLUNpbUxaVmJqeG9fUmlQU0RMVkphMVBjSjdIWWJEWURza3VQQU5PaWlqejdwUU9pV0gzeDFQekVWUmdKcHFDam5VNUsteWk1MktOS2ppVkEyUGhHbDNOV3h3MEFlMFh6Ny1ZX0RMdERPU3ZZ?oc=5",
+      "publishedAt": "2026-11-08T02:57:00.000Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "급락한 반도체 주식 중 제가 고른 3개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "bdd84d1cf9e53261",
       "title": "Soxl 주가 40달러에 매수 : AI 버블, 금융위기 오나요? 다음주 미국증시, 국내증시 전망",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmJLLTRzYXE0MGdaa09aeEppa00wNkdldmM5TVBsdVplNFV6NElHOW5xcGtXSmlwWHBxQkRJZGhtZjI2TFRjTVRXbEM1S0pmMWp0Vm5mbEhDTFNPS3FwSHdfMlliQXlKVTFPdFlQNmdmQVNLN0NsZ2hBQ0NHUi00ZmdPZw?oc=5",
       "publishedAt": "2026-11-07T02:22:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -78,7 +107,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Kdzc1elhVNHo3NkdVazdReldZdVByY0J4YUZrVndYQVNjNDhudG0zLTVQVHNCLTRub3FXbkJxRHRmNTQwSGp5aXFmeGpLck5wQkgxZUVwRlk?oc=5",
       "publishedAt": "2026-11-07T01:05:50.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -107,7 +136,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZThLU1M1Um13bmdURFVxa0NKQ3Z6ODlfenVTcHFpcmVMazJEVDl3ODdmZHk3amJRWVhVVzFKVjZWTkl1QUJWVkhZOTJjZXl1RUNSRnF2eVJmZVdLT1JrYUFXd0hGNm9NV2pjag?oc=5",
       "publishedAt": "2026-11-06T23:00:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -134,7 +163,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaThpNWxRT19qemlUaTlocGljUF9PZnNKOU5QQ05Ma3pKTzlpYUxlRzlpVmdONzhWN3AxT1dxWFdaTFQ3MDlPVVpwM2lBZG1aZG9CMWlHZjZQNS1DYTRDRHpOb3J4MjExQjJtU0tJaktteExsbzIxNEdTQ05CVjZrYlpwaE9FcjNENmY4?oc=5",
       "publishedAt": "2026-11-06T10:45:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -161,7 +190,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2lmbTBodXdrSENqNUZ2NFRldFFQajVoUTFqVFJRTmxIbFVqUnpNMmFWRDc3MVZzcEw2MWJZbGlramYxVkpCWU0wQTRzNk01XzhyQWFKczU4ZERrcFhkcFFjeWlkMjhpcExtdEI5NDQyaW9NMk5Jc1AtbnUySnI0dHZ3RHZGbWpHX3Zr?oc=5",
       "publishedAt": "2026-11-06T01:38:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -185,12 +214,39 @@
       }
     },
     {
+      "id": "2f5fddc43259a03f",
+      "title": "네이버 AI탭으로 예약·구매까지 이어가는 질문법",
+      "source": "quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbm5TNFp2WlVuUjRnS3FUUDM5WTVjaXMwQWFtN0lHUkUtaGVybGplcWw4Q1FpMXg3T3QzVFo0bEpnd21PbnU2aXJQNUdha2ZFU2ttbWR0TTRTcEM3YXZlc2V3WksybkVsb0RvNVhtMXdyUXZpc19BX21rUnc2bkQ1N0R4SmZvVkVqbm44a2JRaw?oc=5",
+      "publishedAt": "2026-11-05T13:07:00.000Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버 AI탭으로 예약·구매까지 이어가는 질문법 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3b2959fcaae823b0",
       "title": "블루 웨이브발 데이터센터 지연 공포와 반도체 급락 진단",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HbFRHODZmYnJQanhJQ3FsdndzZ1FCakNLVkFQR0l2dDFZSEhJbS1TRmczdXIydG0zNGkwZW5tZzJsVFUyV3RrLWNTb1RJR0xRSDZSNHd0a0pEZw?oc=5",
       "publishedAt": "2026-11-05T10:15:41.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -220,7 +276,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUFWWUFCSkFnSjVTMWtuc2o5cjUxc3NmYVZaVm1sWFpjcDl6Vl9fSHhuaXpnNm1UWDN4dzE3NGs2T2Y1UHdfVFU3Sng4aUw5RHY4SnhfVkY5amdKcHZCQ1lBZFN5aGtwakRubklRRms2RVBleWx2U2F1bkxSSHIySWxVNnNuXzla?oc=5",
       "publishedAt": "2026-11-05T07:51:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -242,12 +298,39 @@
       }
     },
     {
+      "id": "eef7c4d00fd5c741",
+      "title": "네이버, AI로 광고 운영 지원…광고주센터 '네이버애즈'로 개편",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qU2hWdTUwa1RqRkpwUURCWXR1NnNOMjRqZTZERzVNcXVtNGVKVTlnTjlyeEFtaHljU1IyWTdma1JHcmJBeWVEVjJUanJPbHd6X2FFX0xBUkQzZXfSAWBBVV95cUxQSHl4VU9nbGVOZE5iNTBiMDNlcXUzdDNTRnZnT2ZVT2VjZUVNbVhkaW1SMnN1QUl4R0NCaXpZZW1WdnNfSDdpOEJiWkNfSEZ5clMzV1pJSkJwZXZjZHJPeks?oc=5",
+      "publishedAt": "2026-11-05T00:50:50.000Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "네이버, AI로 광고 운영 지원…광고주센터 '네이버애즈'로 개편 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b782c0a12943cfa8",
       "title": "매출 늘어도 적자·주가 하락…김동명 LG엔솔 ‘내실경영’ 시험대",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjd2MlZkblJIaVNIb0NGZ3A3aG4tTlloQkdiY2dubEJLUlJ5QXA2Mi1hUWRqRVRQRnlfOUZheXU1dlZiYUNTMHF3c19UbmFVSktCNW5WbUJDRXVaZk1TT1NSUVN1emF4V0RRVXFzQ3lXNDdINDNxX1AxWkhBdGRITkZKWQ?oc=5",
       "publishedAt": "2026-11-04T02:32:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -276,7 +359,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YnBmclNfb2NPNE1kTFI0RWdxZ1RrYjNMZFE2X21SalpLZUZydVh3OW95cWhrNzVNRE5QcE5tMUI5c2lTVDFPaXZkTFdwNXNRNFcyd0N0eU9hVzZtSXdpdkNrQWZuSkVZbGg4WVVR?oc=5",
       "publishedAt": "2026-11-03T18:04:49.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -303,7 +386,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjhVT24tazgzUm9XOGZoVWVibW1jVF93c2hFcjY4bjdPSnRFY3VJdDZ2SHNEclQ0a0xkNm1KMlcxVEkxbGJIUEpFSTU2NXp0Qlk5RlNaelkyTm1YZWxOYmpIWTRvQWZHcExvTW5rbHhISmtzb3VwOVY4X2N2T0VYOG5zTQ?oc=5",
       "publishedAt": "2026-11-03T11:26:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -332,7 +415,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSThsbjNoZTc2TFJ2eW1ORmFsN01xMHZpU3VWODVDOHQ5LUlpSjZFci03ZkJMX1JfdnpuTDB5ZFZhc29rdlBTajc0dlZ5V3ZldlVQYkZSdFJfQUxTSTBSVXctcUpiY0l4cWk4c2FtOWQwZnV6MzZQMWdmSGNmR243VWZQVGtDazlCUFZJ?oc=5",
       "publishedAt": "2026-11-03T10:12:54.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -359,7 +442,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDNsUFdXTU50dTZTYTduZ2tCc3RNOXZHZWVKUTcycUZoYVRSUnVvVWdONjMzX2xQQjVnUzB1Y0FmX1BydzNVd0d5U3BnQWtYNE9pRDJTUm9KWHQwR1d4cjBCVmZfd2haako4c1ZqOE9HYUJtMTYwb3AyaVN1N2pYRW9ETkM0d1po?oc=5",
       "publishedAt": "2026-11-03T07:40:00.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -390,7 +473,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVnNiY2h1eGpBTlJISjJCQ0huaG01QW5kS2s4bkduQXBfd2o4eENnZkI2dGgtRG43VFRXVmtYa1Q1WDVkR3I3UlhOMVE3MDZQM1E4T1luVE9RT1U?oc=5",
       "publishedAt": "2026-11-03T06:02:26.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -417,7 +500,7 @@
       "source": "IT조선",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydndCQ1ZNUGZPTG0yeVluSGJkTGxYUjhNSVZKN09EVGxhUFN0bVVIeURtM0szcmxlamdqQ1BiMXJPMW9kOWljTWVWOGFIREtqZW9JNFQyVEl3cm55TmFkUEFIN1NyYlMyUXFybGNrZ27SAXRBVV95cUxNcE14a3JqRVdMQm52a2tUa2JIVENXQTJQVXIwWlZyd2RRRm12U0VKX1FKc1B0ejJmVk9XYldiXzN0UkdzLVlJX1BfNWVWWWo4a1l5MTU1d3pUbTY3dEE4ZlU0aVFlVU1QbVpCZHVfVDVHRzFpTw?oc=5",
       "publishedAt": "2026-11-03T05:23:30.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -444,7 +527,7 @@
       "source": "문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03NFdyV1VRVkNYc1EtYy1ic01KVXNpczVweUhrS3hZQkd2LUZKbzlQMDRBSHRBWm1Jb29rd2U2b29NWEM2VGhwVXB5d1FURGYw?oc=5",
       "publishedAt": "2026-11-03T02:07:35.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -471,7 +554,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tWmxINVQ4NXZrcnlJUUJ6UkVaN3djTlIybVdib1hJcWdGYjV0SS05a0hDek8taUpEbF93Mzlaek1wazZhelFaanFMc3d2V0l3XzJBR3Jn?oc=5",
       "publishedAt": "2026-11-03T01:23:52.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
+      "collectedAt": "2026-11-09T02:14:29.956Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -484,87 +567,6 @@
       ],
       "summary": "네이버 'AI탭', 경영시스템 국제표준 ISO·IEC 42001 획득 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b28fcb8a2807804d",
-      "title": "검색 넘어 예약·구매 돕는 네이버 'AI탭', AI 경영시스템 국제인증",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SjdHczdITVJwSnZDUDVKRnJwbEhCbnJwRmxlbm1CV1VGYlFoMlcxcFJXcTlhWVRZckFYRU5oZ1JXVTFTUWlmQklJZVJyWXNzSHplaHFVRG9WN0lESUxFMdIBeEFVX3lxTE45UkNwcFBLS1JkbnBWZy1QR1JTRDVrT1I4cVJMYnJjci1hY0QwdUdtRzRjX0t0MjN5a2RualV0Qks5ajUyRWFsYlR0a0VRdlRqakpxa0cwLS1oZ3NydVA4NWNKempxMkNTb3lMY2JGT1J0bzNBZzVVOQ?oc=5",
-      "publishedAt": "2026-11-03T00:37:20.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "검색 넘어 예약·구매 돕는 네이버 'AI탭', AI 경영시스템 국제인증 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2b9209d88b8988f0",
-      "title": "네이버 AI탭, ISO42001 국제표준 인증…검색 기반 에이전틱AI 최초",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fODhpaWtROTgtUE1FOHc1N1YzbGJqWEVwVVNJRkpsX3FXN202YUt5MDVsWnVMem91TGtoTWNlVlI2THRJZGhfQmpHem9xdGtwNEJ2NFV6SGwzb1FIR3NJNzhHMjZ3cHhu?oc=5",
-      "publishedAt": "2026-11-03T00:28:10.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "네이버 AI탭, ISO42001 국제표준 인증…검색 기반 에이전틱AI 최초 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "59e3ae51dde253e8",
-      "title": "주가조작 잡는 '증권시장 경찰' 자본시장 특사경이 뛴다 : 네이버 블로그",
-      "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0lMMGlqMW8zZE5pMWl0MEQxYTlRY3lqeU5XZEpvazNxLTlFZlBUYlR6MnAtVi14eVNTOUlNYU12ZTlJRHBhbGJvY0ZwQW40bElyUkRJSnJTMzZSTDNQS1Uxc3FDSkxNczdvTi1DbWhURDZIMnNCRHg2QmxyaHA0TDZ3UVVBd1AtSjJ3MWRn?oc=5",
-      "publishedAt": "2026-11-02T15:24:10.000Z",
-      "collectedAt": "2026-11-08T16:52:09.565Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "주가조작 잡는 '증권시장 경찰' 자본시장 특사경이 뛴다 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
