@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:39:57.094Z",
+  "generatedAt": "2026-11-09T21:12:33.724Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,49 +7,20 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 투자 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[에코프로비엠] 에코프로비엠, 헝가리 공장 정상화와 신규 수주 임박...이제 남은 건 출하…",
     "[에코프로] 에코프로, 4분기부터 실적 회복 본격화...제련소·HN이 이끈다…",
+    "'4000달러 투입' 에코프로이노, 아르헨티나 리튬 '연간 5000t 장기 구매권' 확보",
     "에코프로, 포항 장애인 400여 명에 특식 배식봉사"
   ],
   "articles": [
-    {
-      "id": "8ecc8972d0170882",
-      "title": "[에코프로비엠] 에코프로비엠, 헝가리 공장 정상화와 신규 수주 임박...이제 남은 건 출하 회복 (2026년_3Q)",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFoxNWRQc1M2RkxTWGZULXV2czFKTFJwa3g3R1V2cnJKNkJSMVgxaWRRMW5VaXJTWFN1Q1NLbFg0Z2xtRk16ZzJnN0prTEJGamNhaTY3ZXdDUE9lOTg1M1RxYmw2VnpfV2JlaGluSUQ0UU85dGtkN0N4c3hiSzRGNW14RUhKMnJQ?oc=5",
-      "publishedAt": "2026-11-09T07:11:00.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[에코프로비엠] 에코프로비엠, 헝가리 공장 정상화와 신규 수주 임박...이제 남은 건 출하 회복 (2026년_3Q) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
     {
       "id": "c1297a07e6f9ce89",
       "title": "[에코프로] 에코프로, 4분기부터 실적 회복 본격화...제련소·HN이 이끈다 (2026년_3Q)",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlEtUTlEc242cWI5RHpGRHFwbnIzZ3dHcGxITUNKVVFHM2V3THdOVWxieVpheDVyWG5TNDJERXU5Z2E0T244Q3BKSHVDdzFHeUwxM0w4ZThuR0VuY3owVU5kOENIQ3Q2bnhMcDBSbVIycTdDQ3d2V0IyWjVuYjdNVjBHcmZEcjZi?oc=5",
       "publishedAt": "2026-11-09T07:10:00.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -73,12 +44,39 @@
       }
     },
     {
+      "id": "cd360350173e6340",
+      "title": "'4000달러 투입' 에코프로이노, 아르헨티나 리튬 '연간 5000t 장기 구매권' 확보",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTbllfb1NldlhKb1padTFkTVhabkd0U05mQTJ1R0I0eEQyMjEyRUhmcW1IX2UzVEZuWl9CSjdPOU1zdm4taktFVkZicGx0NzVfcEM2ZXoxc1l4OGhGSEtJUTFKMA?oc=5",
+      "publishedAt": "2026-11-09T04:19:06.000Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "'4000달러 투입' 에코프로이노, 아르헨티나 리튬 '연간 5000t 장기 구매권' 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "220d302274f90c2b",
       "title": "에코프로, 포항 장애인 400여 명에 특식 배식봉사",
       "source": "프레시안",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CazhEVVhKTkFsRU5oeEtGYktHY3JUTEwtTHVIS1BxUjcyQmJUTy1zRlhfSHBpNFlfd1pNWFV5ZlZqZ191RW5SRU9lMFhTRkZjNlA4VWpuWGxaTzQ1bUhzWGtNNWU0SEpuUlFv?oc=5",
       "publishedAt": "2026-11-09T04:12:25.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -105,7 +103,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52MkFIWEFTRFRSNDZYaC04cHBDUThKWENTcUZ0S01vNzFiZlpCMkE3TDZ1SXc5blNMZGZiWWJteEU1aWpkd19meEh1WGxPTVlaNzhWVmlZMng1R2xHMnhwY01fVkM3bnhMd2k5OGYySG00RnEzZVl1RtIBeEFVX3lxTE52MkFIWEFTRFRSNDZYaC04cHBDUThKWENTcUZ0S01vNzFiZlpCMkE3TDZ1SXc5blNMZGZiWWJteEU1aWpkd19meEh1WGxPTVlaNzhWVmlZMng1R2xHMnhwY01fVkM3bnhMd2k5OGYySG00RnEzZVl1Rg?oc=5",
       "publishedAt": "2026-11-08T23:48:32.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -132,7 +130,7 @@
       "source": "경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xOXR0UWhSNHFvX3VNaklzQkVXNXBHNElWeFhadUlCSUN5UW0wNFJuZ1NEWUl3YzVIMjdySTNiNm5keEY2QndaLXI1c0RDT1J5WV9hSnM1cjFSc2VEM1lpMGVodEpReS1yTWc?oc=5",
       "publishedAt": "2026-11-08T12:01:00.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -161,7 +159,7 @@
       "source": "논객닷컴",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX1JGNS0tU1NmOU9RNnBQZ29FMGV1Yl9qd0s5UjM3ZXUxRm5kR19URTRuYnRjcjh1NktmcVB1R3ZLSWlsekFoQmc1ZXRNdUo5VWJFVEFGVlpvNnBFUUtYTlFLbGxFYWvSAWtBVV95cUxPNDk1TXNSNG9LVDJWeGVHX0ZDN1owZVFWUlBZS0ltNk5PU2pWTVVrd242MlZ6RE5keEJVTnYyV0lUQ1R1LUlVNWxXOUVwYmFUYlZEMFRINEs3cVJHR2pra3ZVazhRUUhNRVRYbw?oc=5",
       "publishedAt": "2026-11-06T06:40:45.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -188,7 +186,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGN4OHhnbHFrLU5nNm9jRHpiVHRQUFF0YWg2enh5V2trRTdQVjZxSVZwNm0zXzVDMU1pTjV3ell6dXZCWlUzQTQ4R1pIWUdyUEhOUWIyM1FqdE1mT0xzQllPbnVxN0pWazBYcFk2SjJEOC1CLTVIV1ptWXFnaUJac3NOWQ?oc=5",
       "publishedAt": "2026-11-06T02:03:00.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -215,7 +213,7 @@
       "source": "nbn 시사경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxTE5RbmotTjljV3hVWndIWHY3anMzcW4tejZjZHVJcFdDUFdjNDhXT2lncUw1ZjRRS0Fxc2Z4d3NuTmJ0NTJoVXRoMjFnVVM2dl81SDRZa3VCNmk3SWVGcDVicDdIT21tRGc?oc=5",
       "publishedAt": "2026-11-06T01:03:01.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -244,7 +242,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5",
       "publishedAt": "2026-11-05T17:43:03.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -271,7 +269,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KVEtKWXJpQVd1NDlLckJ5emV4TmZFWkcxU1ctNWhOcTA2bTBkQ0RIdk1CNEk0REpmZjlBTlpoQjBvZ0oxclh2azVfZGZ3S3R0R1ltenBR?oc=5",
       "publishedAt": "2026-11-05T07:41:49.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -300,7 +298,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8teFI1YW1mU1cwamdBUTRqUC1HVE8xbHpLLVA2ZWdIZ21MTWdWTkRIY0RyM093R0VNUzE2N0U4SG8ybE9fRmEwbGJ3SmVOeE5OZjFQc2dmRHJvdTlHT3kzY09NaDlPaUcxX1YtMA?oc=5",
       "publishedAt": "2026-11-05T07:33:02.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -327,7 +325,7 @@
       "source": "뉴스웨이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBESnZEQTc5WDhNczJQUkFiekM3NmRRS3phMHZTcGE4cElDZXVFRUlnZmlyakpkcF9Fdzl4RkFHMTY2NjN1TzVnZS14N0didDVDU0RzdGtMTUtOZ014bjg5OXJkYVVYMHdMakE?oc=5",
       "publishedAt": "2026-11-05T06:20:08.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -354,7 +352,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLYktmRWpoVlRYNnpWRTkyM0VaNmszWVg3OGtBYWpKcHc3bmJLTy00VURvb3NZaFdJTzZaVFJtQkNldm4xV192RUVlYkJXTlVMVnBnZUh5cktuVkhySUZJYjlNWk4?oc=5",
       "publishedAt": "2026-11-05T06:17:45.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -383,7 +381,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX3QtT19ndl9BYnFfbHpCN3Fxd1VEZmtWcWdySWdGd3RIdE1NTXZGNkhpZ09qRV8yZkFadU9jSk5yTmE0eHg4dGp5X080Yk5LS2FxNHJFUHNIZ1HSAWBBVV95cUxNY09INnQtZFUycmluODlCWkJTMkY1OWlGRVZWc2UyODlVV1RBMjVWQko3aGhrOFhRUlZYUngwSm55VTJ1TS05cFR0c0RFdkRkSmVmRUstV1duN0Nkci03SmM?oc=5",
       "publishedAt": "2026-11-05T05:51:51.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -409,12 +407,39 @@
       }
     },
     {
+      "id": "ab4d11667d80b8a8",
+      "title": "에코프로·에코프로비엠 3분기 흑자 유지…전기차 부진 속 ESS가 버팀목",
+      "source": "경상매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FRmNXQTRjdFhFVVVFTkFLLThJdXI1SUJtWE9sZm5KOHFVeGdyTHdFMm5lbmdLMGJJQTFKdFdXaGpEMTZaNTBldDc3eWhLWnRXaWNmeXF6R25INVhIM0Nz?oc=5",
+      "publishedAt": "2026-11-05T05:30:09.000Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로·에코프로비엠 3분기 흑자 유지…전기차 부진 속 ESS가 버팀목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "79ff1a5526d79ea4",
       "title": "에코프로, 3분기 영업이익 112억…전년비 92.5%↓",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QSVMyeXh1WkJRSU9oWGFvQi1peUsxaWZXVXdwS0psMlZpbXdKVG56Mm52b01NNjNRWHZvLVphbVdIaEVJZW1TRWN2eTVkcmlza2ZISnZvdkpxNVNRRjhlUmRPUWw0R2UyRXJNUmtKSm8?oc=5",
       "publishedAt": "2026-11-05T05:22:58.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -441,7 +466,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZ2pGaWx0Yi1FTHVGMXBrZVYxMThEVTFhbXBZdkpvNm9taWFuVGhDdjJXbEtWdEttYUdpOXV1ajFsRkJldHhwQjJYVE1Cel9hU0x1aF9tRkhzc1pwczhXZXNIRlkzbWJ5U0IyWnNVaWRoMWc?oc=5",
       "publishedAt": "2026-11-05T05:12:48.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -470,7 +495,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoYXotb1BmY2VPWlBuNldud3pldVFhWWdOWXpxblZybFhXcjhackhKbU9aUlpXMEhkaGg0ZnNoSkhjU0YtNVIxcEoybjQySmx5X0NMNzd3?oc=5",
       "publishedAt": "2026-11-05T04:33:47.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -494,39 +519,12 @@
       }
     },
     {
-      "id": "33ee73de93d69424",
-      "title": "[실적분석] \"너무 다른 3분기실적\" 에코프로비엠과 롯데에너지머티리얼즈....원인은?",
-      "source": "https://www.moneystorm.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12eXd6OHU4ZXYwdkd3ZlFDUDQ0dWZhci1BeWs0TkhKVWFtc2pQZUpGRXpTTTdCTldqcHhGODdHdHNsRnpkU1dpSThPXzdya0FXRHlqdUY1ZTNyUV9QdkFrQWl5UlREZklERUE?oc=5",
-      "publishedAt": "2026-11-05T02:21:30.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[실적분석] \"너무 다른 3분기실적\" 에코프로비엠과 롯데에너지머티리얼즈....원인은? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "cb3de11c996a585c",
       "title": "에코프로비엠 \"중단한 헝가리 2번 라인, 지난달 말 가동 재개\"",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQlhNME8xNkFUTWZLbndqQkNVTjFGMkJ1bElyT0tlR3pTelJzVWpwQ3FZR3R6d3lxVFVVandZZVI1RXJpWWFyQzNUOWtPY29DS2w5dXdJY0pXNUdOSW5PREM5ZmJWdFJBWmVjcWc2THY?oc=5",
       "publishedAt": "2026-11-05T02:00:47.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -553,7 +551,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIUWZ3SU53bEF6V1pUcjJidG1lODB3VzRyTm5RMC02bVczUnlzb1I4TnVXX3E4QUN0WlpwY25wVEROTXB5ZXhVSDJSVVNwck4tb21zaXp6TURIOEQ3cDdlTlk3SzFyUQ?oc=5",
       "publishedAt": "2026-11-03T02:28:14.000Z",
-      "collectedAt": "2026-11-09T10:39:57.094Z",
+      "collectedAt": "2026-11-09T21:12:33.724Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
