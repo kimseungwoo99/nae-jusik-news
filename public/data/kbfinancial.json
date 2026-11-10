@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:12:33.724Z",
+  "generatedAt": "2026-11-10T04:25:41.849Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "KB금융",
     "ticker": "105560"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "美 '큰손' 이재근 회장 선임 찬성표…KB금융 인사 향방은 - 머니투데이",
-    "번 돈 절반 돌려주는 KB금융, 환원율 55% 넘본다",
-    "[DQN] 양종희號 KB금융, 신종자본증권으로 선순위채 상환···자본 체력 '강화'…"
+    "[테크M 이슈] '1등 금융' 넘어 새 기준 만든다…이재근 시대 KB금융, 미래 성장판 키운다",
+    "AI 거품론 가를 '코어위브' 실적…\"반도체 투자심리에 분수령\"",
+    "최대 실적에도 장담 못해… 이찬우 NH회장 연임 부정 전망 이유는"
   ],
   "articles": [
+    {
+      "id": "e85fbc38edc64b8d",
+      "title": "[테크M 이슈] '1등 금융' 넘어 새 기준 만든다…이재근 시대 KB금융, 미래 성장판 키운다",
+      "source": "테크M",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMSVdzaGtUTWo4SzRTSlRtRFZtVlhYa1EwamhZbDBXc0VUZ0tXWjJVbDV1OC1qaFliOGluanFlZ0s3TzMzOFNBdE4xSHowQlZic0JzT2VHNDhKRDdpQnRGMUo3dnc4ZFZzYVHSAWpBVV95cUxQTElXc2hrVE1qOEs0U0pUbURWbVZYWGtRMGpoWWwwV3NFVGdLV1oyVWw1dTgtamhZYjhpbmpxZWdLN08zMzhTQXROMUh6MEJWYnNCc09lRzQ4SkQ3aUJ0RjFKN3Z3OGRWc2FR?oc=5",
+      "publishedAt": "2026-11-10T01:45:32.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[테크M 이슈] '1등 금융' 넘어 새 기준 만든다…이재근 시대 KB금융, 미래 성장판 키운다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1c784518bfd7c71e",
+      "title": "AI 거품론 가를 '코어위브' 실적…\"반도체 투자심리에 분수령\"",
+      "source": "KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vNjc5M0VyeHF5V05QU2o4UXdXeXE2QjFubl8xcnlQUktFemZ3cThsakZCLVplMHlTbXY2eGFFZXVJaWpPcmhJb1dPazJhb2hIYWNMeHowY3RLT3dWUFpSMXFUdFJrSlB0dTNFdHE2bVBhQQ?oc=5",
+      "publishedAt": "2026-11-09T23:15:04.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "AI 거품론 가를 '코어위브' 실적…\"반도체 투자심리에 분수령\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "4dbad2bfa2439ba2",
+      "title": "최대 실적에도 장담 못해… 이찬우 NH회장 연임 부정 전망 이유는",
+      "source": "땅집고",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5RUJIYkhPQVlpWlVUcjViMVQ4dFVtMGdXQWpzY0RYWThIcEZ1N3JfODV2WEJWcmxjbjJmRUM1ZkRTOGkzOXMtX3JTVWF6LU05VE5fakc4UmE0ejB6NUxYaVBDdjYybmxia0EyZ1FSTWdDRk5UR2tqUlRna2RETGPSAXNBVV95cUxQYmNRb01IQ1A5NDlZNlF2SGdaSDNMMUF4bkY5VkxrblVEdXdwQldGUFBJNzN6YnpvMU1vMjNtX0lQUEEyeVhYNVExSVVGMXhDUll1VlpROWNWSG5QQnFlbHpRNHdxaU9MdU56Q2dwY2hmMlVj?oc=5",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "최대 실적에도 장담 못해… 이찬우 NH회장 연임 부정 전망 이유는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "85af10dd1a84c7b0",
       "title": "美 '큰손' 이재근 회장 선임 찬성표…KB금융 인사 향방은 - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdXAxa0dEMWlYRXJCRVEtaWdGT1p5YlZ2OHRhR1ltZ2Y0cldiRlZaSzJyWmtYVjRUVEswa1lVaHM3SERBZkFtOGhzdmVPRkIyU3JqdTM0SEZvNDRoWVVTanlQeG9UQnZiQU5Z0gFwQVVfeXFMUGZfVXVpOVhnb3J2cDN1Z09pc25YNm5lTFFUT3VtY1lkbEJieFlCVGZTaGR0NjZ1YkxILUFvVVhOWnNEcWNJQmJMVkFkVlc3bXlXS2lpZVd0MWdlQ3lBM3h0cE9Vb3pPYW1jUG9iR3FVSQ?oc=5",
       "publishedAt": "2026-11-09T07:43:50.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -47,7 +128,7 @@
       "source": "자본시장뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvMnAzME1WUnFFYUg3anAydldDOXVzcUtyRzROSWNjSzItU0ZzaDJ4YXpYbU1mSzFSOFhMd3J3U1FoS2R6NGptOVYxUDVGS2wwVVdfbk1VZTJZTEtRcjBNZElOcmFVTW8?oc=5",
       "publishedAt": "2026-11-09T04:00:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -74,7 +155,7 @@
       "source": "금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XenhabTVhRVpWbDQ4eUFPY2pTMWFPRnVCU3dkY19ZV0FDUlpJSTJtRXhNeFNQa1ZtQWNyYjFHa3Y5ZElpVDN6Rk9QdjhWcjZvM24xc2VhRXBULTZORkNMR0ZkRVJiWWIyYjFmWjdyLTZ4NTk4Ml85X3JJYm0?oc=5",
       "publishedAt": "2026-11-09T02:10:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -101,7 +182,7 @@
       "source": "PRESS9",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcExVMDlOamhHYXNEaHNsTEplOEdZZW8yaDVMa0twU3c1QUJaOE1LZ21iTENQX09xZUtvaDlmNk10eUhBb21QTVdRWWNWTUJGbTRKNkdfOWVuZ0pBVHhud05sMGw?oc=5",
       "publishedAt": "2026-11-08T23:14:23.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -128,7 +209,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MaTV0ZlJIdjlGX0J3UllYbktMbWpWRDBjTllxRW1sLXFUYXgyUVY3aVVVN2pEWmlzdmNFSndZVjdIdUtkblozTWM0VUNMZm1OU1BzbXln?oc=5",
       "publishedAt": "2026-11-08T23:00:26.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -155,7 +236,7 @@
       "source": "뉴시안",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mbm5IS2h3M0t3Wl82OGVpTGJtM2MtME1KUlBPMnpjU0xFUWFoa3FFRDhROHN5dlRabzV1WFZWVUZKQ3RCclZJOFd1blI0eHcxZ3NYWW1mT3J6S2JoYldIbEZ2TUpUMVJYTUhJdQ?oc=5",
       "publishedAt": "2026-11-08T21:28:02.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -164,6 +245,11 @@
           "id": "kbfinancial",
           "name": "KB금융",
           "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
         }
       ],
       "summary": "실적보다 보안·내부통제…5대 은행장 연임 공식 바뀌나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -182,7 +268,7 @@
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZktoXzlmZXMyTWh0VFU0MHM2c3dGTUk4blJQaFpFUGY4NXgyMk5nc3FMMkZZaVk5R043cWh4RmRoUFdSMEpDSGlhTXVCOG5ZVnh6LVp5NjdWd9IBVEFVX3lxTFBLeEpEZmU0alV0Wi1MbTY0V1B5cjduNEZmNmFRcEZUbERrem1VWWtjdG5RM2p5REhCUldyNXN1VDhOQ3doX2RWUjBuT3JyMF9oSWpsRQ?oc=5",
       "publishedAt": "2026-11-08T15:00:01.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -209,7 +295,7 @@
       "source": "한국보험신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaEFmdzNua0xkODRScUFGNTA5UjNuLV9WUFdWU01IWnR4cFBYY3JJVEJmWW1aaGN6ajRzcllnU1FqV2ZVRC1leGNFSHp5NWZzX0w5TTc1QWg5NGZJTDBBMmNKenZwM3U0ejRB0gFvQVVfeXFMT2V1dFEwSDJrZmIzdG1sSk9zNm92LWJ4UUludlpFdzNHMURqOGJyRjN2VGYxMnc4anU3ZnVQYXJOc0xlNGFuQ2lfa1FOOUk0RjFhU2w5WmtpR2dfNW5uV09UTUtha0RTempXbmNiZm5n?oc=5",
       "publishedAt": "2026-11-08T15:00:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -243,7 +329,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qdUxILUlIeGVvenRmWFFJNmR5WUx0dWhCV0JueV9Wa2s2RkNvdERrS0RyQmlrcl9uRVF1N3FxTEdOSDd3QnZfRmZoNzdQWHcxRVdaX1l4YUdCZHIxaDVuMjhISnFPbEhPTkMtNHJZd2JGNFNmejlTbNIBeEFVX3lxTE9qdUxILUlIeGVvenRmWFFJNmR5WUx0dWhCV0JueV9Wa2s2RkNvdERrS0RyQmlrcl9uRVF1N3FxTEdOSDd3QnZfRmZoNzdQWHcxRVdaX1l4YUdCZHIxaDVuMjhISnFPbEhPTkMtNHJZd2JGNFNmejlTbA?oc=5",
       "publishedAt": "2026-11-07T22:00:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -270,44 +356,12 @@
       }
     },
     {
-      "id": "f17006f89dd5b20c",
-      "title": "KB·신한·하나·우리證 CEO 임기 만료 임박…연임 여부 '관심'",
-      "source": "인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QU0o5eUZTMkNvb0lRTXZLZDFXOEpZUjNNZmZuRXh5Ul9EaWtqdlA3WW12Q3l5RXRJNGxXSDRRMk82d2lJWVNaQndSTTdjWThKUXpGT0RfZFJqbHFhSndSTmVqVVpfWWMwTklORlM5TjlOdw?oc=5",
-      "publishedAt": "2026-11-06T13:31:57.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "KB·신한·하나·우리證 CEO 임기 만료 임박…연임 여부 '관심' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2901bbd140cd449d",
       "title": "같은 실적 부진, 다른 인사 변수···구본욱·정문철 운명 갈리나",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TaVZFaFJneDRZaU1CTXVsRUZEWnZXbnZiYnY3U2oxTm9uZWxDV2NySXJsTEphaHM0dXgtYTRhNF9ZSVBXS2lmdHNFclAwM0ltSGJZaVNWSUk2YWZsalBJRFVicXFSR0VGbzZsd2pub2daT3QyOUHSAXZBVV95cUxOU2lWRWhSZ3g0WWlNQk11bEVGRFp2V252YmJ2N1NqMU5vbmVsQ1djcklybExKYWhzNHV4LWE0YTRfWUlQV0tpZnRzRXJQMDNJbUhiWWlTVklJNmFmbGpQSURVYnFxUkdFRm82bHdqbm9nWk90MjlB?oc=5",
       "publishedAt": "2026-11-06T05:24:02.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -336,7 +390,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYWjBGQzVaVzR5dVJvaC15Q1drT2gtNFQyYlBSWkw4Ulk4RE5zb2tvN011S2g0dnJ6eF9OU2VVRzFYeUFndHFJajhQUVMxRzJ0RVdGeUxCUUczVlU?oc=5",
       "publishedAt": "2026-11-06T04:01:01.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -345,14 +399,36 @@
           "id": "kbfinancial",
           "name": "KB금융",
           "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
         }
       ],
       "summary": "“비은행 키워야 웃는데 보험이 삐끗”...금융지주, 확장 전략 ‘시험대’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5e12412f8b0c18a3",
+      "title": "세계경제연구원, KB금융그룹과 2026 국제컨퍼런스 개최",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zYWdzb181ckdnbGNhREpQblhFWURrbVJSNUM4b0ctdEFkZHl1YUZ3LVZTWUdlTXdQdnZsVGlybGtRMFg5ZUFPZ0c3bXphVWppX2QzVVVHcjF5RHZJQVZSQzRTLTI0V2ZvRkRJa2FsQ0k?oc=5",
+      "publishedAt": "2026-11-05T21:00:11.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "세계경제연구원, KB금융그룹과 2026 국제컨퍼런스 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -368,7 +444,7 @@
       "source": "ESG경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HaFhFTEJmTk56cUk0bnlzYXR3QzF3Uldjc3BUcTlERWhkRWtXZTh2MWh6SW1vMGN6dlNRMlhzLUU2bEZiUFRBYi1mZ0x0V3B0bHdBbHVsLWJHb1dCZ1dWWTNMVkRpZkVzMHNwVQ?oc=5",
       "publishedAt": "2026-11-05T09:05:30.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -395,7 +471,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzdE9FTmQyVVp2OWNTbEstY2xnMy0yYWo1RFhDWm9CalAxM3NKOC12Z08yX1lQcVNZZ1hqa3NMWGtraENRaTcxVzFSd1liejg5TlJEcjBodE1mUlVq?oc=5",
       "publishedAt": "2026-11-05T01:38:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -417,12 +493,12 @@
       }
     },
     {
-      "id": "9e411a08fbfa5e62",
-      "title": "홍콩ELS 과징금 절반 1723억 국민은행 몫…금융노조 \"경영진의 무리한 실적 경쟁\" 지적",
-      "source": "뉴스필드",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNFVYZmJUNUE5NEY4ZUljckdHNW1rRVFSSFg4LXBUT3BibHFodGdJd3FpMmdOVVpycUJkT0pldXRZYi1zbWhtQWFFbmJzVWdlWDhhQ2w3a2tiMkVMV1JUWWhQVkkxU0NtRUJfRHVGX2JyWVpfbEdqOGhkMUdJb0c1ajNMZ0s4Yjdqc3pPRXJBSl9OaGhfVU9ScFA5OVpnOEdhM1ZSTmE3OGRjR21GcWwxX3M0ZVl6NkJjT3UxcVJtTVBjdDJ0M3RPeFFzZ1FLRUgzdE9NSzBDYzk1ZHBSWFo3enU0SjlwaWZ3ZXlLQ2VncC1raDd1MWJKaS1XN1U5S1owdmdBb1pwN3RNUldnY0QzMVNHN2YwMjBLTHRlQzllRldBTWwtSTZoeF83Rnl5czk4?oc=5",
-      "publishedAt": "2026-11-04T09:09:06.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "id": "4aa76065ce92cb4e",
+      "title": "특징주, KB금융-은행 테마 상승세에 3.32% ↑",
+      "source": "매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbjhSbUVkQU8yMEVSYzVVQm5acXUyRVdBX3l3Y2pEbFlJUUdUZ3JOZDdSVk9Zdm9rQUZBNVVMckZLbWk3dUhlemYwTzd5NW1oNGc?oc=5",
+      "publishedAt": "2026-11-05T00:25:18.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -433,8 +509,8 @@
           "ticker": "105560"
         }
       ],
-      "summary": "홍콩ELS 과징금 절반 1723억 국민은행 몫…금융노조 \"경영진의 무리한 실적 경쟁\" 지적 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "특징주, KB금융-은행 테마 상승세에 3.32% ↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -449,7 +525,7 @@
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94c29fcHpSU0JUa0VJZHhBY1NPeEVmc3VEbWdJVmQ5b0ZDTHFyc1VLekVvX1NESUlVSm5OX29rXzZxMEE2eGotSk9ELXBjTmN3bTVCN1dQRjFla0g0WkZKX0gxN19fUGVj?oc=5",
       "publishedAt": "2026-11-04T08:36:29.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -471,12 +547,12 @@
       }
     },
     {
-      "id": "ac2d6e6340b2f564",
-      "title": "KB금융, 신종자본증권 2700억원 모집에 4710억원 몰렸다",
-      "source": "매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52MVVxMEtOakpkUWhQQkNHN3FuM1VDam1FQTZHWm05WnFCaHc1RGtKR3llaWpubG1ZNmZJaGlVYmROdW1xaXA3YmhYYXhGQkZFZWc?oc=5",
-      "publishedAt": "2026-11-04T08:02:14.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
+      "id": "352a27b22dcc481f",
+      "title": "KB금융 신종자본증권 수요예측 완판…포스코퓨처엠 모집액 4배 수요 [시그널]",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Hb28tQUdOZjZuUldfUmZEOWVKOW5jV0RTZ3JfR1lKckFUZ05iMnJxRGpHRXhjNk5CTHdpWGJDaVprUUtzM1QzLVg4by1Cdk9WYzZRMk00cw?oc=5",
+      "publishedAt": "2026-11-04T08:12:05.000Z",
+      "collectedAt": "2026-11-10T04:25:41.849Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -487,88 +563,7 @@
           "ticker": "105560"
         }
       ],
-      "summary": "KB금융, 신종자본증권 2700억원 모집에 4710억원 몰렸다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5e9a1e9587989b09",
-      "title": "금융지주 호실적 속 보험사 ‘찬바람’…연말 CEO 인사 ‘촉각’",
-      "source": "투데이신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpc1ZGVkxZRjYyMVNMa0xob2F6TWlyV1FXd3kyT2M2dTlUOWhxVEIxZnBGOTIxLU13QXNOc2xCaXg3aVN3ZDROeDQ1cktTam94M2Z4dHFVc0NiN3g0UElybjFkN0pSeXhWSFQwU3RoNNIBb0FVX3lxTFBpc1ZGVkxZRjYyMVNMa0xob2F6TWlyV1FXd3kyT2M2dTlUOWhxVEIxZnBGOTIxLU13QXNOc2xCaXg3aVN3ZDROeDQ1cktTam94M2Z4dHFVc0NiN3g0UElybjFkN0pSeXhWSFQwU3RoNA?oc=5",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "금융지주 호실적 속 보험사 ‘찬바람’…연말 CEO 인사 ‘촉각’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6623b8ec0f5f2359",
-      "title": "KB금융 수요예측에 모집액 1.7배 몰려…포스코퓨처엠 4.5배(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwQnNGRmNNWTlRajZmZ2hpcURIRFdPT3p2S2NQbzlVbVFUemlPaHN0Z056MHh3SGl5a1E1Zk1DMHRLcVhiTmdSQjRCU0loZkhiLVBrWjdQZGZWQWvSAWBBVV95cUxQd2hRZ2x2V29FQUFxREp3cHZjc3kzZUEtYkJfQnB1Vl9iYjVGb0lBbTlEb29yZjNWUk9xSXVVSkN6QVR2cF9yYzk1blFYcE5qSm9vdm9pY1lDZk83VWNJZi0?oc=5",
-      "publishedAt": "2026-11-04T07:29:36.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융 수요예측에 모집액 1.7배 몰려…포스코퓨처엠 4.5배(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "19b50f2a9ebbce36",
-      "title": "은행 넘어 비은행서 갈리는 금융지주 성적표…우리금융의 '묵은 숙제'",
-      "source": "스마트투데이",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRDFqNDN5WFJ1ZkhDTUJDekhvRlkxLWhFbkJabFA1dElubkxtNkVEY1pRUktaX1h1YlNGek1aZXR6Vzh1MWRBSFMxTDVaUWF6X3pUNFV6WjJaOERjSVBN?oc=5",
-      "publishedAt": "2026-11-04T07:22:00.000Z",
-      "collectedAt": "2026-11-09T21:12:33.724Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "은행 넘어 비은행서 갈리는 금융지주 성적표…우리금융의 '묵은 숙제' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "KB금융 신종자본증권 수요예측 완판…포스코퓨처엠 모집액 4배 수요 [시그널] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
