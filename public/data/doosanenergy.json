@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:25:41.849Z",
+  "generatedAt": "2026-11-10T15:19:33.799Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,77 @@
     "name": "두산에너빌리티",
     "ticker": "034020"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "두산에너빌리티, 알레이마에 SMR용 증기 발생기 특수합금 튜브 발주",
-    "두산에너빌리티, 인니 국가 에너지 사령탑과 회동…첫 원전 도입 앞두고 창원공장 실사",
-    "[EE칼럼] 원전건설 경쟁력 문제없나?"
+    "[단독] 두산에너빌리티, 퇴직연금 적립률 미달에 과태료",
+    "두산에너빌리티, 3분기 영업이익 90.6% 증가…원전·가스터빈 수익성 개선과 26조원…",
+    "두산에너빌리티, 알레이마에 SMR용 증기 발생기 특수합금 튜브 발주"
   ],
   "articles": [
+    {
+      "id": "a8d9c04f6656d990",
+      "title": "[단독] 두산에너빌리티, 퇴직연금 적립률 미달에 과태료",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnFlN05LeFM2WW9CRWFsSnI3MG5WNFhpeGVtNmJ0a1BfRkRLQjdrMTdUQ0lwOGVKQWlhWUtia1RaMkZrTjZZdjViX0NlMnhiSWtLbUZVcXRWT2VjQlJvTFRFVThPd1VTeUU5VktjbzdEMWs1Mm5oeWdUS2tHMkxOd01jUXIzaTZ1V1HSAZ4BQVVfeXFMTnFaNGMxNDROS2tZVGZtb0pOOVgtZkxVWncyXzJVS044MTZrN2Vmc1BDS0JRVkNVcVY4YkREVDhZZVJrZnZCSzJKckxFeUlpU0RVZkVnRVM2Q3lJSjJrSkZwbmVobDd2QzhTcnhaazBWN1JiMUgybVlGSVhYaFhNU0NqQXVFWldzMExhYWprLUZVNURmbDNOeWplNzBoVHc?oc=5",
+      "publishedAt": "2026-11-10T10:04:00.000Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "[단독] 두산에너빌리티, 퇴직연금 적립률 미달에 과태료 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "11116bc27579f6f4",
+      "title": "두산에너빌리티, 3분기 영업이익 90.6% 증가…원전·가스터빈 수익성 개선과 26조원 수주잔고의 의미",
+      "source": "한국투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kak1DSFZ6QlNFMWc2b0k1UFFOSV9JdUpBWG1FTlhZN1p0dGs1N2pSVlFLaHg3X2RDWG53b2tVOWsxY2RrQ1RXZWY2ZnJKQWVyT0hnaTk4RkxFTmEzaDhrbU11SDNRamZKZnc?oc=5",
+      "publishedAt": "2026-11-10T05:09:15.000Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, 3분기 영업이익 90.6% 증가…원전·가스터빈 수익성 개선과 26조원 수주잔고의 의미 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.85,
+        "confidence": 0.91,
+        "positiveTerms": [
+          "이익 증가",
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "114f2e17641a79a7",
       "title": "두산에너빌리티, 알레이마에 SMR용 증기 발생기 특수합금 튜브 발주",
       "source": "철강금속신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ad2ZuMjJ0TC1LMkZHNkxpTU9Ia1FHYkx3MjVoNVBvOXBCSlRQX09JUUdiaGNVZVFlTC1YcXdqaTF5ek1OSTVKaVA3RFZ6ZTI3TUNpLXlrdWg1b18yZURxY0lBVFBoNk92Nnc?oc=5",
       "publishedAt": "2026-11-09T23:46:27.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -47,7 +104,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10VFM1enZ6ZmxrdnEtdlhEQ1JGWlBuc3pxcmlPR1BORm9GXzZ1eFJ5cEJuTjYySGZIcjNrbUYxYXA1eHI0QTI4b1BJVjBJSGp1MVllMS1MNWc5TXJpVXhWYWNZQQ?oc=5",
       "publishedAt": "2026-11-09T02:11:21.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -74,7 +131,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nZW9iRGhlUjBlR0o4RWJlWGZNbEFUaElGSEs0QjZPTlEtQ3NFaVdLRnJPa1MwY21ZRy1zeGJhQkRjQm5hbmdtZWdPdGI1QkxqdlVhOWVJRXBsUkU?oc=5",
       "publishedAt": "2026-11-09T01:58:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -101,7 +158,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcGRCRmhSdF9kaWs4em1wc0xnY0Nid19QaUxZU19MZFg0NmN5bmZjeGEtaTlLQ2hJaHd0U1l1VXRXb3FLbjdGNWRYUG5yUEpDTTV1ZXRpUVRXWVFOa1pyNnhYSFk4V1l3?oc=5",
       "publishedAt": "2026-11-09T01:27:55.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -128,7 +185,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY25QSkxCbnRNbTViR2VuYjN4RG5CRFl3RHRkUnMweWwwaUpiR3pOWEpWZDM0Xy1JWFdidWtIRlNlV2ZXX3l2VlF0WGtyMjdTY01EQ05COEJtVGRVaFNhOEtDSml2dkV1ZjJ5aFFkNVhJWWh3elhtS3lfNExSQXNtbTQ2ZkI3aVk2?oc=5",
       "publishedAt": "2026-11-08T22:29:11.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -157,7 +214,7 @@
       "source": "한국신용신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0ckRidWhqUHJQOGpJdk5KTmVNV01DUG9POHgwQmg2OUkwcmFILUpxeFhQYVZocmhsNVNTUnIzUnhtcXd2Y01DQ1VGSmJJR0UyZmp4RFR0eUdyRXBVQ1drRms2TXN3UzhHR3NR?oc=5",
       "publishedAt": "2026-11-08T20:52:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -184,7 +241,7 @@
       "source": "더퍼블릭",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YcWF1Q1RxUGFRNkFGWWR6SU43dlB1UG9VMERnNlRsbEktOVlVWmlPa3FSTTVRLXlhRmFtejFQQ2Q4QmdPMUVEZFNjU0JpMDZVRkRBN05uSF9wMWNTNmVFQW1xME8zdmoxSm0yM0FJWdIBb0FVX3lxTE1YcWF1Q1RxUGFRNkFGWWR6SU43dlB1UG9VMERnNlRsbEktOVlVWmlPa3FSTTVRLXlhRmFtejFQQ2Q4QmdPMUVEZFNjU0JpMDZVRkRBN05uSF9wMWNTNmVFQW1xME8zdmoxSm0yM0FJWQ?oc=5",
       "publishedAt": "2026-11-08T01:40:41.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -211,7 +268,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZX1BIOXVuek5mZUtEZW5iUTd4a2sxMUo1eEw2QU9VcnE2Z0ZrUXZiS2c4dXBxTTE5QTMtcVV4NzdudDg4eEE0WjNMZnpqOUxiYnh4TkU2QlNmYVBXNUZuLVMwWQ?oc=5",
       "publishedAt": "2026-11-07T23:36:36.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -240,7 +297,7 @@
       "source": "뷰어스",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGdlVJYkpGYU44blFQd0F4dkhuMlFfV1ZzVFV3emQ1UGVUVmtIMnNCbEVxZnRscVllbjBkWEw1V01Kc1hBaURDT3d1UHB6ZHZhSDM1bnctR2k?oc=5",
       "publishedAt": "2026-11-07T23:00:37.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -269,7 +326,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGVpQU1xc0hpTG9jZEFZTGFHY3JUeHc1aTdOZEROMW1oX1B1LWEySDBNTXg1RF9wVlpfSzAxNjc5N2hQWks5eGFET3V3YVZjbV9SblBQakE0c3M4Y2paejJuLTVoQ25UVGJpRjNQTnBTblIyc0ZSeDN5SkdVelhKbDJPc25TYUU?oc=5",
       "publishedAt": "2026-11-06T23:42:50.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -291,39 +348,12 @@
       }
     },
     {
-      "id": "d34fe090f99717d8",
-      "title": "원전계측제어심포지엄(NuPIC 2026) “18번째 막이 오르다”",
-      "source": "인사이트N파워",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wSjhocjVHcGhaWXVGdVVvUW41RVE5RXc0MFN2UTRpd0pFck4xaE1OVmpRc3RfN3FoZmlhbEY4YndsTTVtczRPOWxxYmIxWWgwQnNLMjlyVjZ3LTFBY2Rrak9FSTZyQQ?oc=5",
-      "publishedAt": "2026-11-06T08:47:20.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "원전계측제어심포지엄(NuPIC 2026) “18번째 막이 오르다” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3b1e97876339a411",
       "title": "[줌인] 두산에너빌리티, 대형 원전 넘어 SMR까지 공급망 확대...미국 원전시장 다시 열린다",
       "source": "데일리팝",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVWh2S0ZLazVuUDFjTzlFT1A5cjdzQUdCN0RGRHNnLXpETFBpTmJBTEx5U2cyQXJOZUxUeVVscG4yWWlzVHZNT0hnZlNlWURJcXktb1RnVWpvNTJQRmxqcERGRkZWQ0hLNFE?oc=5",
       "publishedAt": "2026-11-06T08:40:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -350,7 +380,7 @@
       "source": "아이투자",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lWk5nZnRmUlFuRUZCaVNDSmRTb20xVU51T2dkRE9HLVhMQWY5aWh0Ni1Mb0xSS2JyWWZ5a2RMUk9iUU92SHhJ?oc=5",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -372,39 +402,12 @@
       }
     },
     {
-      "id": "5f8613e733e7ba95",
-      "title": "두산에너빌리티, 美 엑스에너지 SMR 핵심부품 첫 발주",
-      "source": "에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tQkhKSm9hZ2oxWXotZUxHd0JVTm9SdkFNNzNPUXppb2YwY0R1MFNUb3FLWlc2WkZxekdYQ1JOWk9HZUxEcThiejlDcGFMYjAzY003MHotS0pzbklTc3M2ZElrdF8?oc=5",
-      "publishedAt": "2026-11-05T21:58:21.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌리티, 美 엑스에너지 SMR 핵심부품 첫 발주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2e98e9934b054c81",
       "title": "두산에너빌리티 SMR 핵심 기기 수주 본격화, 미국 '블루웨이브'에도 원전 지원 지속 기대",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51d2xnXzJrdDNpUkxYZ2hNWFBISy1ISzZOMjBpTUp5Wl9WdDBHZUhPRkZmSkVLYmN0VTg3ZHpkSkZCc1ZrcGlrcmRYeTBsLXdIUmFxZlU5R2JUUWpES3hOWkVpU3FtYThnY1Q2anVDbnVuczA?oc=5",
       "publishedAt": "2026-11-05T07:15:50.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -433,7 +436,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MNE8tUERjWHdpS0hrV2hGQ2REWFNvMDNjR3dqdnNmcTdaMGJfem1YMU1tMGFNTHh0b1dWeU1RWWloMFFBNnl1cU5ETnFfRmRTQnNsdm1Oc3dRZmtyMTJId2JQWlRENEw0?oc=5",
       "publishedAt": "2026-11-05T04:56:59.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -460,7 +463,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85dm9zWEJCaV83ZzRpWW5fVXRManFXMTE2QWpyRS1Zbm5NSEpUd1NnOFBIY3NqUXNBdFRJbkxJeFVheFh5amN0MWRlVGJGTGVvMzljdmRWRFJoYmhi?oc=5",
       "publishedAt": "2026-11-05T04:38:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -482,12 +485,41 @@
       }
     },
     {
+      "id": "4a19c9b2718cb514",
+      "title": "두산에너빌리티, 미국 SMR 개발사 엑스에너지에 차세대 원전 부품 공급계약",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yNzRHMGpCazJXbXdfcEhsRldQNGhjckdTd0VPMTA2Sk9kTnFXSC1hcnNsS0t5ekh0bC05VkloVElXNTVtdGFIb2FMUExYZnhKNUJfN0JSRHpjdlp6dDFuLTY2NUlUTW5qYUFvU0hScjl0UDQ?oc=5",
+      "publishedAt": "2026-11-05T01:45:24.000Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "stockId": "doosanenergy",
+      "stock": "두산에너빌리티",
+      "ticker": "034020",
+      "relatedStocks": [
+        {
+          "id": "doosanenergy",
+          "name": "두산에너빌리티",
+          "ticker": "034020"
+        }
+      ],
+      "summary": "두산에너빌리티, 미국 SMR 개발사 엑스에너지에 차세대 원전 부품 공급계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "08376fca39b4d705",
       "title": "두산에너빌, 美 엑스에너지 SMR 핵심부품 제작 공급",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TbEZfbHU1NVlsZXJ4NzBvRGRJTE5YWEt6RU1haEdHV3lvS3RidXRvY3NaUGZNTllTbmRGc3RqVzR4dWVJN2R1dFlNRnhhNXlOTVNTTmxB?oc=5",
       "publishedAt": "2026-11-05T00:30:26.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
@@ -509,39 +541,12 @@
       }
     },
     {
-      "id": "1baead074b3f9637",
-      "title": "두산에너빌, 美 엑스에너지 'Xe-100'용 핵심 기자재 제작 돌입…DOE 지원 'SMR 프로젝트' 가속",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01aGxBZTY3dDVfV1NGSW5Ra2tGMjI0Y2Q5TDFDR2NhYnVRZzY1aFJlZ2dvZEhtM2FNVjVobk5nYXVhNS1oRXVJblZWQ2FBeHp5bERpYld5b1Mtbm9EUkNDMHJnVQ?oc=5",
-      "publishedAt": "2026-11-05T00:06:49.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
-      "stockId": "doosanenergy",
-      "stock": "두산에너빌리티",
-      "ticker": "034020",
-      "relatedStocks": [
-        {
-          "id": "doosanenergy",
-          "name": "두산에너빌리티",
-          "ticker": "034020"
-        }
-      ],
-      "summary": "두산에너빌, 美 엑스에너지 'Xe-100'용 핵심 기자재 제작 돌입…DOE 지원 'SMR 프로젝트' 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6ae0f3188d6617ee",
       "title": "두산에너빌리티, 영주 ’트리븐 가흥’ 765가구 11월 분양 By EBN",
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPVTc5VHhyeTR6QlAzaExpbVQyVHpUWUc4X0RrOGcza1V3MlQ3SlhEdVVVd1VqZmd2cWJHVURJclotb1NycHBzaloyOEVEQjRncGRMazZURUVhejY3clhOZWRzcUpuNzJ6MHVtcnpReF8?oc=5",
       "publishedAt": "2026-11-04T23:18:00.000Z",
-      "collectedAt": "2026-11-10T04:25:41.849Z",
+      "collectedAt": "2026-11-10T15:19:33.799Z",
       "stockId": "doosanenergy",
       "stock": "두산에너빌리티",
       "ticker": "034020",
