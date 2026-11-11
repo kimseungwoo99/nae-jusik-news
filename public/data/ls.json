@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:19:33.799Z",
+  "generatedAt": "2026-11-11T02:24:59.296Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,11 +7,11 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "LS머트리얼즈·LS일렉트릭, E-STATCOM 공동 개발해 해외진출 추진",
-    "LS머트리얼즈·LS일렉트릭, 차세대 전력망 안정화 시장 공략한다",
-    "LS, 금속사업 합쳐 1.3조 ‘LS메탈플러스’ 출범…전력사업엔 투자 집중"
+    "LS머트리얼즈·LS일렉트릭, 순간 전력 변동 대응 기술 공동 개발",
+    "LS머트리얼즈-LS일렉트릭, 전력망 안정화 협력"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdGlHQTdzZWl5Sld2WV9qRmRTaHdzSXdZa0hsS2FuU3dvY0I3QU5EOHh2eXRneGM1ZnhDbG1ualRuRnFFUklBbEJRaVplMHlaWlExdTY4RjY3dDJhbHRZS1ZBMEFNS3pZMUZzOWg3VWvSAXBBVV95cUxNMXRpR0E3c2VpeUpXdllfakZkU2h3c0l3WWtIbEthblN3b2NCN0FORDh4dnl0Z3hjNWZ4Q2xtbmpUbkZxRVJJQWxCUWlaZTB5WlpRMXU2OEY2N3QyYWx0WUtWQTBBTUt6WTFGczloN1Vr?oc=5",
       "publishedAt": "2026-11-09T08:43:05.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -42,12 +42,66 @@
       }
     },
     {
+      "id": "5694ec8b45e5ebae",
+      "title": "LS머트리얼즈·LS일렉트릭, 순간 전력 변동 대응 기술 공동 개발",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNalpWb1QzX3dzNlNtV1FzbndXc29pRFhycXB3cWJ6RVFrRDhlbnp6RW9yZFE5TmxSblNndV9EQ0xwZ3R2eFNWLXNhNExFRG1oUXZLd3Vld1NIbTZxa3pQR1BWVk4?oc=5",
+      "publishedAt": "2026-11-09T08:18:59.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS머트리얼즈·LS일렉트릭, 순간 전력 변동 대응 기술 공동 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e4bc1f87d57831b1",
+      "title": "LS머트리얼즈-LS일렉트릭, 전력망 안정화 협력",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9URnZRMlkzVHkyaTFTYXdvQlJFeGpSLV9abTdweDN4dkhreW0xZG1lZDRRUjVhUzB4NUpaQXA5TkJiOFFFaTM5T1MwZ2xIeVc4ekpJd1IxZDhHYTgzUE5CeTg0Tkg5dw?oc=5",
+      "publishedAt": "2026-11-09T04:39:16.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS머트리얼즈-LS일렉트릭, 전력망 안정화 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "24ff586dc00b4559",
       "title": "LS머트리얼즈·LS일렉트릭, 차세대 전력망 안정화 시장 공략한다",
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhX2VYYU5FN1R4ZVd2VnhmUUNJQmdOQ1VoVV96cWtuQzZPNHQ4ejZVczdwcU4yNkg3N0xfOHd4NWhqOE9BYVZYUVVBYmFmZkE4XzlLZl9lbS0zQ0h1emU0X0xEUFhhVFA4NloxRFp5MEVVZw?oc=5",
       "publishedAt": "2026-11-09T02:31:41.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -69,12 +123,39 @@
       }
     },
     {
+      "id": "5b671121727da901",
+      "title": "[포커스] ‘겉定속承’ 2027 LS그룹 인사, 본격화된 3세 승계구도?",
+      "source": "산업인뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ydWZLaG55T2U0djhka3hrT2hxcTU4YmcxaDBjZ216bVpSOGludHJVZmNWRXJmLUFJc3A2Nzd6LVJjSUdrM3pkaTdEdXIzWlRfVVV0aWw3Z2dQNzA5R1h3bWZYZFlXb3k2NUVtT2xn?oc=5",
+      "publishedAt": "2026-11-06T14:55:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "[포커스] ‘겉定속承’ 2027 LS그룹 인사, 본격화된 3세 승계구도? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a3d852bac172b3b8",
       "title": "LS, 금속사업 합쳐 1.3조 ‘LS메탈플러스’ 출범…전력사업엔 투자 집중",
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QV01SeXNlQWktM1VKb0x0SHE0ekNsUFBNcTRIY1dKRkVPWUVIRmRQdzdKUE9rb1F4TUhtNTNVNlR3WG5STjFTTk12LUdZMElXSVZ4SmlWRVUwWGc?oc=5",
       "publishedAt": "2026-11-06T02:00:55.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -96,12 +177,12 @@
       }
     },
     {
-      "id": "3305d731dd73a893",
-      "title": "LS그룹, 원자재 조달·금속 가공 밸류체인 통합 ‘LS메탈플러스’ 출범",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZVcyeTlVcms3R0x4N2tLRGNiV0VVZHVTOXZoQXQzc0VqcHA0WWVGODhuY3ktb2lrX1FrN2EyN3BEVU5oV3dyNVVUOFBpSlJaZjM1RmhLcXk2Z2hXd25XaF9NUnJaSXMtUFJOdtIBcEFVX3lxTE42dHo5YWxGWXZ0QmlkY25HR2RLeU9fc01iN1djSG1qSVh3WFR6clZnb29fZFVucWRZYlB0UVZPdEI3em5BT3RySTU0aXI2OGJ0YUFCcWdUclBTTVVubFlvelFYTk94eEJZNU5fb1h6TTY?oc=5",
-      "publishedAt": "2026-11-05T14:14:19.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "id": "e0b2683e579d3763",
+      "title": "한전, LS일렉트릭에 전력설비 예방진단 기술 이전··· K-진단기술 민간 사업화 지원",
+      "source": "일렉트릭파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kam5UOHJUUTRwdm14RE9tWWZ0NFFKN004aFFJYXY2anFkME84VmtMVmRZek55NVZhZTdSMUpaZXUzZmlnS0ctZUY5blpPaThtSkhMZTlYNERsUVR0akx0b2JreDRWUQ?oc=5",
+      "publishedAt": "2026-11-06T00:20:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -112,34 +193,7 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 원자재 조달·금속 가공 밸류체인 통합 ‘LS메탈플러스’ 출범 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3156814eac3eb140",
-      "title": "한전·LS일렉트릭, ‘전력설비 예방진단솔루션 기술이전 계약’ 체결",
-      "source": "에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wWXIwZzJSanh2Nno4NmFnV1dEX0RhOXV6R2QtbzRfTUhKeVNaU05JbzFRSEJvYTN6WEd4U291ZFZmMUc1cTlRdkthS3AtZUhRRjdFSnlnV1BJOEJMREJjV0lmeGxoam40Qm5yZ9IBcEFVX3lxTE5WOWNqOE1VWFd4S2sta1ctbzZsSndNUzEwbXQ3SU80R0lkc0VDcjNIYmtQUHU2Y3dfQ2tnN05WT19ocGpsVldvSXQwOGdMSzk2bFpSSExEWXk4cExhMW9WM1RibmNZRGxIdmRCazJ2UEg?oc=5",
-      "publishedAt": "2026-11-05T09:46:32.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "한전·LS일렉트릭, ‘전력설비 예방진단솔루션 기술이전 계약’ 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한전, LS일렉트릭에 전력설비 예방진단 기술 이전··· K-진단기술 민간 사업화 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
       "sentiment": {
         "label": "neutral",
@@ -155,7 +209,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RbVBVSkhYSEhXUS00WVFSVTczQzNXWDdNTWpjV2hUMGN0cVFPWmNnZENoaW9YRGtLemc0UDZQSU1Ic1N6aHIzckctSEhYbGtoRkxOV3dsNkVld3NjemEwbEVkdjhSdw?oc=5",
       "publishedAt": "2026-11-05T09:23:37.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -177,12 +231,12 @@
       }
     },
     {
-      "id": "c5d44f9fdfefc94a",
-      "title": "LS그룹, 2027년도 임원인사 단행…조직 변화 최소화로 실적 경신 흐름 유지",
-      "source": "조세금융신문",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mTGtRdTF5RDJXbGg1T3Y5b3ZYTTMzSEpLQkd1UjROZjhCQS1fakZ6alVWOUlIMm1HX1VDSWxTdjNkeEh2VWtpQWxvTDRIT2VhSXVBNVhaMm50WmYxaXJTNDZYOA?oc=5",
-      "publishedAt": "2026-11-05T08:44:02.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "id": "cc7fb44b740e6289",
+      "title": "구본규 LS전선 대표 부회장으로 승진...LS그룹 임원인사 단행",
+      "source": "뉴스;트리",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTbXczSHdBTUk4ODktZjZQN09oQ2hjcW00YTh4TzdYczlNUF9qT25sUFhxUUtDa29OTVk5cEF0NEdORU1qZy1FWEktUi1vSFhUb3FRdnVod1JPLVh4?oc=5",
+      "publishedAt": "2026-11-05T08:58:50.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -193,35 +247,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 2027년도 임원인사 단행…조직 변화 최소화로 실적 경신 흐름 유지 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "29634b30f2298b8b",
-      "title": "한전, LS일렉트릭에 AI 기반 전력설비 고장 예방 기술 이전",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sU2FlWVJ2aklvcmk1Z21lQkZuOXd6X1BsYkhnTDFUdXdfcDlJd2RRSm1fenplTWJxdnVCQ0xwSW9kOE5MdFkzVVN5QU1vYi1fVzBtcGd5WEJKa2RkT3Q1aW83TlQ?oc=5",
-      "publishedAt": "2026-11-05T08:11:53.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "한전, LS일렉트릭에 AI 기반 전력설비 고장 예방 기술 이전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "구본규 LS전선 대표 부회장으로 승진...LS그룹 임원인사 단행 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -236,7 +263,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpQW50RnZRS2pJUHBoNEZ2Rk00LXV3YllhZWVydTJtS25IMDMxejEydUdtbVRTUnVvSGF6Z05WcExnMDFqVjlWZHNjcTVBUjh2ZXA3N09FcDFVRUFUNXBGTjFNVTlpT0sxU19SX0ZvODJiN0htSnNN0gF3QVVfeXFMUGlBbnRGdlFLaklQcGg0RnZGTTQtdXdiWWFlZXJ1Mm1LbkgwMzF6MTJ1R21tVFNSdW9IYXpnTlZwTGcwMWpWOVZkc2NxNUFSOHZlcDc3T0VwMVVFQVQ1cEZOMU1VOWlPSzFTX1JfRm84MmI3SG1Kc00?oc=5",
       "publishedAt": "2026-11-05T08:00:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -258,12 +285,12 @@
       }
     },
     {
-      "id": "570f23f3d898f645",
-      "title": "LS그룹, 조직 안정 속 세대 교체…`오너 3세` 구본규, LS전선 부회장으로 승진",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWTlZTVY3cllPTFVMdE9VbWhyZ2owQnZBVjV2bWNiVV9CR25YM2xQNXhFdEhTTXBZcDBrZThZajhKZ1NXLXRqb0dRMEJfWEg5VThFcnRrU1RpVXo5X3Z0cTdR?oc=5",
-      "publishedAt": "2026-11-05T07:55:12.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "id": "5d82f9154a08216e",
+      "title": "[인사] LS그룹",
+      "source": "자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNkhCZ1Nyb3NNQkVfOUpYS29WekxKT05pbi0yU1ljeEpaZWlRUC1qazg0UGlmTU14MEducUtVc3FMWUFmUkVrcUtQOWtfYnFid1pRT0tZdVNEN0gzcDV3UDVhaVc1RXc?oc=5",
+      "publishedAt": "2026-11-05T07:45:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -274,8 +301,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 조직 안정 속 세대 교체…`오너 3세` 구본규, LS전선 부회장으로 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "[인사] LS그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -285,41 +312,12 @@
       }
     },
     {
-      "id": "8023443226707a26",
-      "title": "'사상최대 실적' LS그룹 인사··· 구본규 부회장 승진 등 \"성과주의·안정 모두 고려\"",
-      "source": "그린포스트코리아",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrUklyRGV0RDZ4R2ZOeURYaW8tZ2ZpancxdmViWENfMm83Si1lV293STVDQnRPY3RScFRSV1VYRkQzYkJvclA5Zlk0Rzl5dzdWeEMyZGduNXVxM0o3aTBzQk4wckFyLXMza1p3emZyT1VtbGFTVWfSAXpBVV95cUxOenk4QVR2TG1ycURvTDM3WDh1ZXJEOUQ2dkxrRExRYUVjYll3cGZKcERxRmhBS01FZ3FzX0ptXzBNSG1iWk85RjJQLUdOWlJpZWZacFpab2l0V1VQTXdtOXJ2TkRTVnNZdlpKakwxN3BDN3VPTDZoM3NSQQ?oc=5",
-      "publishedAt": "2026-11-05T07:50:24.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "'사상최대 실적' LS그룹 인사··· 구본규 부회장 승진 등 \"성과주의·안정 모두 고려\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "50d5f2ca90066676",
       "title": "LS, 금속사업 통합해 전력 투자 확대…‘LS메탈플러스’ 출범",
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PQ1YxUHdsa2tENHlYdTFmT01QUWFfSURDOWEzOTFJRDhHOFh1UXVEOWlEN2tiM255a0lJSTdPSVhjZHhKbk0wbUMtZkwwbUM2S09DZUp4N1NUUF9XWHVyQQ?oc=5",
       "publishedAt": "2026-11-05T07:31:16.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -343,12 +341,12 @@
       }
     },
     {
-      "id": "477dd03140348a3a",
-      "title": "LS그룹, 임원 인사 단행…‘오너 3세’ 구본규 부회장 승진",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12enBOZ0d5RnBrN3B4OS1tQ1UtUWxONDl1WWZaVWlPRm8weGVzRWdnb2RWb1NuLUlmNGF5YTVUemhJcGV3dmktSlhSY2xIQTc5MFRlM3ZmQV85V3YxRlVSaQ?oc=5",
-      "publishedAt": "2026-11-05T07:18:37.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "id": "bdf5fdf4188e06e4",
+      "title": "LS그룹, 2027년도 임원인사 단행...조직 ‘안정화’에 무게",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCY1VJM3NHeDItcWczUU1FRWZFR1d4X2xMSldRajRMdmVoeF9OSGxLc0pQcXZYaUpBUk1kVXo1S1YwSDFocV96WS1wb3hTTEpkeDRDdHhremZLeEhhaDFhRFBITHFRQXZKc1c4adIBcEFVX3lxTE83TGtfT0dNcUk1eDVXRGZfQUZGNEpidHZWa1czR1FvSFlBM3NvZ3RxNjk3WkFDcjRkLVZFeHpJOFcyblNZQWxNZWRqWlhveEJoUWRXT0pDVTg3Qnk2QUkzSWZtVk8zN0R4ZUNGaE5IZ0g?oc=5",
+      "publishedAt": "2026-11-05T07:16:52.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -359,7 +357,34 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 임원 인사 단행…‘오너 3세’ 구본규 부회장 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS그룹, 2027년도 임원인사 단행...조직 ‘안정화’에 무게 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "990ecbeaf5f819d0",
+      "title": "LS그룹, 2027년 임원인사 단행…구본규 LS전선 사장 부회장 승진",
+      "source": "대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NTDlvbDByMUtHQmFpNTZCU1RueTBDbU9JMFFSRXhRaTlSQzVBTmNQYmpiX08xejdRc3dZb2pvVGloYjhYX3FtLUxyS2VHZ0FvdXk2YUJ0bXFjMzJVOGxtN1ZUZl9RRkhITzE3RDhvWEFKcFhf?oc=5",
+      "publishedAt": "2026-11-05T07:08:27.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹, 2027년 임원인사 단행…구본규 LS전선 사장 부회장 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -375,7 +400,7 @@
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91OUtnbk5uTkFWMklsWmxmblNaSG1ucUZpdTJ3NktJMTBRWDMxZ2JYc3k2bUlPQ1BISGdKQW55RlRDWVhOMU1zRVF0ZFJLTlhiY1VaZVB4X080R19vMkg4eGdiY1NVN1k?oc=5",
       "publishedAt": "2026-11-05T06:37:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -397,12 +422,12 @@
       }
     },
     {
-      "id": "a663a68cf5a23b93",
-      "title": "LS그룹, 2027년 임원인사 단행…조직 안정 속 미래 사업 중심 임원 승진 확대",
-      "source": "철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZDVwOExMZTVRTXBSOGpta1c3YkNSZkJXQXhhVlJlNVBnZ1kzNXZ0SWZtQjBnbXhUNFdMWlZHamc2VmkyWGp2TUgzQ1RueWRfZFRWVnFteWhxWjRHckh1ZEdxQlF6RVVWRkE?oc=5",
-      "publishedAt": "2026-11-05T06:26:13.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "id": "4d38d8ec5a80c10d",
+      "title": "LS그룹, 구본규 LS전선 사장 부회장 승진…\"최대 실적 기조 이어간다\"",
+      "source": "메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LMzdxMS04eG5ybnR4eHJQUURJc2FqUkZFRDZHWTB6RVAxcGV4akRGZGdCVENkNVRrWXRXaDlPa196MElkLWZxd0ZodV90ZUVON3RjSVk3RldSNnNjenN2Tw?oc=5",
+      "publishedAt": "2026-11-05T06:35:51.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -413,62 +438,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹, 2027년 임원인사 단행…조직 안정 속 미래 사업 중심 임원 승진 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "84f5d6a13262a5c2",
-      "title": "LS그룹, 2027년 임원인사 단행…구본규 LS전선 부회장 승진",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xcG5tN3JoLWt4OGVFZ2c2a1R3WTRDTWZNVDNNZ2lrZmUwc25qYTh1UVdKTGNWRzdmako1Mjk0ZG96SGNaQ25zcGg1SGxkR2pQVjFUR1BIb1NNX0dYOXdIdg?oc=5",
-      "publishedAt": "2026-11-05T06:07:22.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS그룹, 2027년 임원인사 단행…구본규 LS전선 부회장 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c62fb9acceaa9e72",
-      "title": "LS그룹 임원 인사…구본규 LS전선 대표이사, 부회장 승진",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3RUanJOdzNWTHV1X1E3WW1ybGdxWFFsUlNjVDdkU19ualQ4MW9BdjBTNGctM0pqcFd5WGxNdG5VbzJDSURyQUR1Tlk0QjdKZzB4SmZEazQtV2xILUhZMC0yQkZRNm50V2FTRjM0dURnOE5XR1ZiUkxEQ3ExQjNtM1FoaXPSAZgBQVVfeXFMUExtTUlySGJ6Um9MQ20tdzZxT25ndXgycEZNakNja3B1S2VsZjlqbFJlV2JBZHJha2Jqa0ZycDVJUTYxUFEzdkpkTF9DYXdZRkM2ZEphRWx2dEgxdjd1dFcwcnN4OHpmTDBleVFmYXdoR0xjSTBweFBPNy1IUnU0am5VZ1Z6UVdhNDRhTElZdkhPTDladkliTnQ?oc=5",
-      "publishedAt": "2026-11-05T06:01:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS그룹 임원 인사…구본규 LS전선 대표이사, 부회장 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "LS그룹, 구본규 LS전선 사장 부회장 승진…\"최대 실적 기조 이어간다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -483,7 +454,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mc0pENmd0MVVXUVZjQVRRVmZyT0xtRDI3YV9meFBXd1k0dEpUN2huYlhIcnpsMjJnVFBCRVVvS1EtZXVnTFV3WFhPTjVRM2VTNUplV3dsN0EwcGPSAWBBVV95cUxONF82eHJUaW5Xcll0Ry1JZ1NxX19jTjIzUmdnZlIzNlJ3dDFpQ19lWjJ6aUoxU2Y1X21SNXJRZ1QtZldGYmxrZlBFTlU1VmFBbnJmWkUtaGtlZi1UcEF6RzE?oc=5",
       "publishedAt": "2026-11-05T06:00:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -505,12 +476,71 @@
       }
     },
     {
+      "id": "09b5b3153082f824",
+      "title": "구본규 LS전선 대표 부회장 승진…LS그룹, '조직 안정·미래 성장' 두 토끼 잡는다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZSjNYdGl6bWItT3d1TzNycVZEYTFZR3Z5UjF4LTkzVHpVUUlBcXQyOVpRTF82S0VYREdEZi1ZVXFtSlUteFNWVXJrdWdGZw?oc=5",
+      "publishedAt": "2026-11-05T06:00:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "구본규 LS전선 대표 부회장 승진…LS그룹, '조직 안정·미래 성장' 두 토끼 잡는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a1c4d5b8689f495b",
+      "title": "‘고장 예방·비용 절감’ 두 마리 토끼 잡은 LS일렉트릭, 한전 전력설비 진단 솔루션 품다",
+      "source": "테크데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03NFdFVndoSlkwVFdNWDh6MDNZRV9Zak5qRkxLVnZEZHJ0OVRmWUUtWVJuUTFsay02OXZ6RUVpdGhNTUVhb1lMUE9FRDJxOXVMNlNJUElTaUlENDJTNkZaZmZTNDdPZkw3YnQyYUR30gFyQVVfeXFMUHptS040Zy11ZjI1NGRxb0c5eHZRZzJpeGJjX0FmRzdKUVJaS19Sa0Zwbm5TU0RuNUswM1dqaDQtZ2hJTDZUWHVsOHQ3UmF2MXU5MllNM2o4c0ZtQkF3SHBGMEJhSklMYWRSSFh3ZVRILWF3?oc=5",
+      "publishedAt": "2026-11-05T05:27:46.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        },
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "‘고장 예방·비용 절감’ 두 마리 토끼 잡은 LS일렉트릭, 한전 전력설비 진단 솔루션 품다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f31f06520d947bed",
       "title": "LS일렉트릭, 한전 '전력설비 예방진단 기술' 도입",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81Ul9YZ3Z6MU93eXZvblFPN1Z3Mk8wWmFDOGowb0UwSkRUNktnOHpRVG9zdDM1NWdBQkNnN3ZrQ2w4SzJyY0ZpUTVhdnN3UU1pZkI2cUN3MXJOS3J4TWZKS19MZ1JVTS1JVlkzT0RQcXY?oc=5",
       "publishedAt": "2026-11-05T04:54:10.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -528,33 +558,6 @@
       ],
       "summary": "LS일렉트릭, 한전 '전력설비 예방진단 기술' 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0613615ef63567d7",
-      "title": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…반도체·데이터센터 공략",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14RlVpdEhScUNuSy1CY0duTUhrOFdNOVZaa3dPVWVEWWczWTRaVXliNnc3RnIydndqWnBRamdqYjd6eFM1Zm5PVHFRNmZtX0NuNzNqS1lhRjhmcVZL?oc=5",
-      "publishedAt": "2026-11-05T00:33:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 한전 전력설비 고장예측 기술 도입…반도체·데이터센터 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,

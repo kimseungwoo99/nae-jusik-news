@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:19:33.799Z",
+  "generatedAt": "2026-11-11T02:24:59.296Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,111 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG에너지솔루션·삼성SDI, 'CES 2027' 혁신상",
-    "LG엔솔, 배터리 진단 설루션으로 CES 혁신상 수상",
-    "LG엔솔 2030년 소듐 배터리 양산… `비EV 40%` 속도 내는 김동명의 배팅"
+    "BMW, 삼성SDI·LG엔솔과 배터리 셀 계약…현지 공급망 강화",
+    "LG엔솔·삼성SDI, 배터리 기술로 ‘CES 혁신상’",
+    "BMW 그룹, 배터리 셀 공급사로 삼성SDI·LG에너지솔루션 선정"
   ],
   "articles": [
+    {
+      "id": "857cf3a812e37a5f",
+      "title": "BMW, 삼성SDI·LG엔솔과 배터리 셀 계약…현지 공급망 강화",
+      "source": "전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0YzFLNm5LZXBObFVZVjdNN2prWUhyTEcwcWloZW5Sb2haeE1HMWZpZkR3WVhRUHdMUFpJb2hHV0x0SnlhclJCU1lrNEFmV3hkeExFRkdfQzd3am81a2V5bmtpOVBuTmM2djVwb2JBT2HSAXBBVV95cUxQNGMxSzZuS2VwTmxVWVY3TTdqa1lIckxHMHFpaGVuUm9oWnhNRzFmaWZEd1lYUVB3TFBaSW9oR1dMdEp5YXJSQlNZazRBZld4ZHhMRUZHX0M3d2pvNWtleW5raTlQbk5jNnY1cG9iQU9h?oc=5",
+      "publishedAt": "2026-11-10T17:56:47.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "BMW, 삼성SDI·LG엔솔과 배터리 셀 계약…현지 공급망 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b2d78e3664559d9a",
+      "title": "LG엔솔·삼성SDI, 배터리 기술로 ‘CES 혁신상’",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fQTlOTHpONndjUlpNSUZIZDBRbjZjYWtGeWR4MDFwRFp1NndCMzU5dE9IX3pQeFFKbF9HR0xwX2pIcFQxM1pMX1pBVXRzbTlxU1VmTXg1LTBEd9IBX0FVX3lxTFB3ZFg0OVVqN2FmRzh2UWtFLTltd0JUOENLeGk3T2VFYjhtNThfbHJSU2hkRGwxMjg3TVJFTVdOeno5OU4xNW14Rm5weDgwSHZhZ0xkcFhTRXAtVk9neVBV?oc=5",
+      "publishedAt": "2026-11-10T11:35:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "LG엔솔·삼성SDI, 배터리 기술로 ‘CES 혁신상’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e80bb5d0d06ad23d",
+      "title": "BMW 그룹, 배터리 셀 공급사로 삼성SDI·LG에너지솔루션 선정",
+      "source": "주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DWDNIaVU4ck9aN2NJVFhvVXRXWDd5a0xfaTVLWW44azE3c0NZOFdOb21QcFJWYzdSVzVCa3Rjb3duUnFVMDBtRS1uTTJ3ZXZmUXA0QktzYllGM1ZURFpLMFlVcUltRGx0amhlYkNnT0RjcXlI0gF0QVVfeXFMT0NYM0hpVThyT1o3Y0lUWG9VdFdYN3lrTF9pNUtZbjhrMTdzQ1k4V05vbVBwUlZjN1JXNUJrdGNvd25ScVUwMG1FLW5NMndldmZRcDRCS3NiWUYzVlREWkswWVVxSW1EbHRqaGViQ2dPRGNxeUg?oc=5",
+      "publishedAt": "2026-11-10T10:12:48.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "BMW 그룹, 배터리 셀 공급사로 삼성SDI·LG에너지솔루션 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "a6130ae63d809592",
       "title": "LG에너지솔루션·삼성SDI, 'CES 2027' 혁신상",
       "source": "한국일보",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NFl2UUx3TTdfZzdkbko2eUM3SVp1dVFDNVJKdmxkeWYwNUJIUDlzaWR6MHg4dGo4dmRfTGNlVWltMXBSLUtBaDlLR0NfeG50elhNSkFQQVFtcVZmSTNjZnBka2VCaXZDZEhTRVRuSGNWOTDSAXNBVV95cUxQODRZdlFMd003X2c3ZG5KNnlDN0ladXVRQzVSSnZsZHlmMDVCSFA5c2lkejB4OHRqOHZkX0xjZVVpbTFwUi1LQWg5S0dDX3hudHpYTUpBUEFRbXFWZkkzY2ZwZGtlQml2Q2RIU0VUbkhjVjkw?oc=5",
       "publishedAt": "2026-11-10T08:43:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -42,39 +133,12 @@
       }
     },
     {
-      "id": "65c18d1b445c0d40",
-      "title": "LG엔솔, 배터리 진단 설루션으로 CES 혁신상 수상",
-      "source": "동행미디어 시대",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGZXVHV4WnJjMnJ1VDB1M1RudVBLUWM0VFEwZldLclgzYTdFM0YwbE9QZEVEa3hQTGVSOVZGUHRQRVR2Q1hwSWVObEc4elEzcUxCT0hGb29welZKTHc?oc=5",
-      "publishedAt": "2026-11-10T08:23:03.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔, 배터리 진단 설루션으로 CES 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d3de0136e5b17aaf",
       "title": "LG엔솔 2030년 소듐 배터리 양산… `비EV 40%` 속도 내는 김동명의 배팅",
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcnBidmMxMF9EMlplZGhkckFULXFCN1hFU2pNZXJXQVVEZFhMU0Z4QWF6QTBoT01FS2hzaFFNMGYzcllHNC03WkRCVEtLTVB5VS1ycUpfcDFLQUdUQzR2ekh0VUc?oc=5",
       "publishedAt": "2026-11-10T07:24:35.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -101,7 +165,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SmhWS0FUZUp2bG9EU0pSblhFTEplTDEyeXltNlJsdnBTbzNpMDk3SW5uQVBRWXlpbXY5clJmeEVCWDhiRXlkdVM4UkFXVV9FQ05kcHRQWUR6S0lpVTBleWJlNjdLSVBtNlBlVg?oc=5",
       "publishedAt": "2026-11-10T06:41:03.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -133,7 +197,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oX1dNeWtnU0lTd0ZLdDIyU2J4Nk9uWVBMMWx1SXAxb3kxUnVxa0g1T1VQeDV0RW52aUVxU1YyRTRjRFNJV3h4TFNTZUhTdXpIWEp5UHBwYV9vdWNiVkk1S0xES0J0d01GX0pXTV9sRmxWQdIBckFVX3lxTE5oX1dNeWtnU0lTd0ZLdDIyU2J4Nk9uWVBMMWx1SXAxb3kxUnVxa0g1T1VQeDV0RW52aUVxU1YyRTRjRFNJV3h4TFNTZUhTdXpIWEp5UHBwYV9vdWNiVkk1S0xES0J0d01GX0pXTV9sRmxWQQ?oc=5",
       "publishedAt": "2026-11-10T05:56:15.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -160,7 +224,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQVFFWVVhOGJZakU5NTZJU29sbFIxTVlqZmV1akQtLVZqMm9HWUhSU2c0bVBtZ1lsbTJ4STZScVNYSmg2OGVNdERNODd1OEdEUzFQNFhn?oc=5",
       "publishedAt": "2026-11-10T05:26:01.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -169,11 +233,6 @@
           "id": "lgenergy",
           "name": "LG에너지솔루션",
           "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
         }
       ],
       "summary": "LG엔솔·삼성SDI, BMW '46시리즈' 동반 수주…차세대 배터리 격전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -189,12 +248,39 @@
       }
     },
     {
+      "id": "93fbd1d0f90cf124",
+      "title": "LG에너지솔루션, CES 혁신상 수상…\"배터리 상태 진단 시간, 7시간→10분 단\"",
+      "source": "매일경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwU2JEWnVrMDEyalRFbUNGSlY4ZlhjQXFoU2Vsc3dCQUJvOWxtdC1ETkVmMTNpUGxmUDlzR3VhNEVCa0QzRnNUWWh0RklVREFpazFWUzQtYzNkVFRjeWdaLXlKY193XzM5?oc=5",
+      "publishedAt": "2026-11-10T05:16:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG에너지솔루션, CES 혁신상 수상…\"배터리 상태 진단 시간, 7시간→10분 단\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9a55a43cb856c29a",
       "title": "LG엔솔, 배터리 진단 7시간→10분…'CES 2027 혁신상'",
       "source": "신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcjY4aVBJZnVKSF8zdlJLNm1nQS1MazBDN0lKZDU5R2d6UWs3ZnJHekxPVktoWUJabXpkcm5QcjFpckRfOElmYmdEUjAwRkdYdFFkUWFXRFVvVGZZWk4wVWdMMzlnLU5PdnZ6aVpWY2E?oc=5",
       "publishedAt": "2026-11-10T05:12:32.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -221,7 +307,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fZHNkUTR5Q1RyNFpHU3JTclhDM2JMa2M3RnVtRk9SYWdudElQN25iQmd2eGk3OS1OaTFRMjR1amZ5dmNOTmEzczRpTFVUbjZxSGZrUllDbzNmSGJLTnhvT2wwRk8?oc=5",
       "publishedAt": "2026-11-10T04:15:21.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -248,7 +334,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LU2Njdldac2hjVExndnAza2Q4NzgwUk5LNFh1MjdCWldQNGpBMm5sX2RJWEJsSC1qc2lLMDFFX3J0Q3ZLbmY0YjROYmhMdw?oc=5",
       "publishedAt": "2026-11-10T03:58:58.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -257,11 +343,6 @@
           "id": "lgenergy",
           "name": "LG에너지솔루션",
           "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
         }
       ],
       "summary": "BMW그룹, 삼성SDI·LG엔솔 차세대 배터리 공급사 선정…유럽·미국 현지 조달 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -280,7 +361,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50NUFVWTZlS1A5ajlBQVZ0bGJtZldBOXZVSU4xWDRWU0xCNTgyYWVrdloxVmg5amYycUsyMkNUTHNTR3BqYzFkNFdXRFZPUE56WFUwcUpiYkhTOVo5NVdFZdIBYEFVX3lxTE50NUFVWTZlS1A5ajlBQVZ0bGJtZldBOXZVSU4xWDRWU0xCNTgyYWVrdloxVmg5amYycUsyMkNUTHNTR3BqYzFkNFdXRFZPUE56WFUwcUpiYkhTOVo5NVdFZQ?oc=5",
       "publishedAt": "2026-11-10T02:58:24.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -302,12 +383,39 @@
       }
     },
     {
+      "id": "3d3e052308865314",
+      "title": "BMW, 삼성SDI·LG에너지솔루션 배터리 셀 공급망에 추가…중국 의존 축소 흐름",
+      "source": "아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkeG9OWU5WaWdLVWF6RFFONnA2MG5qWmxUYUY4S1FyYzMyWHMzWEoxSnBsbXY2NTVVU1N2QjNkRGhjcjd5Ry0tN0VDVkkzZkk1bmhQUTFCZnExSm40R1BFVHp1S29fTUh2SVluTHdB?oc=5",
+      "publishedAt": "2026-11-10T02:28:45.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "BMW, 삼성SDI·LG에너지솔루션 배터리 셀 공급망에 추가…중국 의존 축소 흐름 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a7208381c4086996",
       "title": "LG엔솔, 배터리 진단 7시간서 10분으로 줄여 CES 혁신상 수상",
       "source": "아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oNy1ZOTktR2lWWWpuRDZjVlFud0wtVFRGa05EZC1sNnJqMVNZWUNGRVJhMC1CdUZnVms3Rk5GR0UyTFEtRU1XUFpBSQ?oc=5",
       "publishedAt": "2026-11-10T02:05:18.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -334,7 +442,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81X0paUUdaSzhSYmlqSTR6bFhZRW1aVmxvSjNDaGp1cHdjb3hKQ2x0amhwOUtpSFhRd00wSnJRQldTNUpTVjVpNDNtcElzeC1vRmNZWjlNZ0o5cXBZQjJvNERxSnF2QQ?oc=5",
       "publishedAt": "2026-11-10T01:08:49.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -366,7 +474,7 @@
       "source": "1코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWHljeHVtQ09QTGV3ejFCUk01V0JIcWU0TVp2UnZZWGdfM3VIajZqZkZOVUV1elVxeDlwd2d4ZjczS1Bha203UlJVX0pKNzQ2bnFpLVpKYmhURS1NLWN3Q3c2UjczcE5scEoyUlJ2bks?oc=5",
       "publishedAt": "2026-11-10T01:08:46.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -388,39 +496,12 @@
       }
     },
     {
-      "id": "7b7999dccbd58f36",
-      "title": "LG엔솔, 배터리 진단 10분 만에 끝낸다…CES 혁신상",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YYWtuQ0NIblZGVW1hZ1NfTjFVMkZzbVNwci1kNEU4QWZqdmRSMEZZbUdSNDAxWTB2cU9xSXZLNGQtNVB6enJQQU9ld1Fqb19UZFZ1aXdsVEF6eVhIMlhTVQ?oc=5",
-      "publishedAt": "2026-11-09T23:12:07.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG엔솔, 배터리 진단 10분 만에 끝낸다…CES 혁신상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f6d05df56d6e5120",
       "title": "BMW, 삼성SDI·LG에너지솔루션과 차세대 배터리 공급망 확대…유럽·미국 현지 생산 강화",
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bnlTc2RMNGdqNG0tY0szWktOdEhBNHJQeE12X2toTUI0RzRiQ3Bhc0g4OWFYdmR3a2FKbFBTUXM5ZjVJa3dqMlg2UWpkZFd4ZUZwQVFFMEprRlBVWVVnaXY4QUdIb1k?oc=5",
       "publishedAt": "2026-11-09T07:58:07.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -452,7 +533,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40MkZqRjlUT0EyWkkwMjNmWWpsQV8tNlMtWG00YURQWlV0dzZuNDNJSmZZczBtTzAwd0ttanZaSDJKSzJlSkRnU3RDYk51VmNKSGdXY3Bvcl93WVV2QkRjaElvYllRUGEwQVF2SVVZUnNwMTMwRGfSAXZBVV95cUxONDJGakY5VE9BMlpJMDIzZllqbEFfLTZTLVhtNGFEUFpVdHc2bjQzSUpmWXMwbU8wMHdLbWp2WkgySksyZUpEZ1N0Q2JOdVZjSkhnV2Nwb3Jfd1lVdkJEY2hJb2JZUVBhMEFRdklVWVJzcDEzMERn?oc=5",
       "publishedAt": "2026-11-08T01:24:15.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -474,39 +555,12 @@
       }
     },
     {
-      "id": "9289ef4b230f809a",
-      "title": "LG에너지솔루션, 충북 소방관 자녀에 학업장려금 4천만원 전달",
-      "source": "충청타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfeTJ5a2hReWVEeWRVMENIZnpmQzlvTTZUWV9hU3BFT2FfOS1Kdmc3UFlYTUtoQXBtdkFCZUJTYXNwSFdWNEgtSnRVNTl0QzFVOVlSNTNISXFwNFRSdWg4enZIR1RyZHhE?oc=5",
-      "publishedAt": "2026-11-07T00:50:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 충북 소방관 자녀에 학업장려금 4천만원 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8597ee8f0b351cfc",
       "title": "[고래사냥] '디케이락·태성·LG에너지솔루션·나무가! 내일장 고래 종목은?! - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqUHU3X3NCallXbmdjeXlPTjE3OWhOMDM3Z3JkVlJZc0VHa0JEdEx3cE9QTUFMa3N4NjIyQUVuWEdWV3dVTDRiNmN1bVJtU1IzREJVblFaaUlBeWVXcmVodEMteW1qZk8z0gFuQVVfeXFMTjM4RDhQWjBXTUMtbGpsUERZeFpKRi1uRmY3dExyY1lacGRsclp5dy0xRXQtTUIxUk5pLXh2dzZpeTFtWVZxR191dFNSSmFxTUdjOGxpMWlFNm9SMnFKaV83ZDdPbHBJWnJjaXZqelE?oc=5",
       "publishedAt": "2026-11-05T21:18:48.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -518,65 +572,6 @@
         }
       ],
       "summary": "[고래사냥] '디케이락·태성·LG에너지솔루션·나무가! 내일장 고래 종목은?! 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "02fc90fc3abb1e95",
-      "title": "LG에너지솔루션, 3차 ESS 중앙계약시장 입찰 불참 선언",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNUdPZmNTTEJJS0tVVjdNWDdnVF9hZmpWVC1CNURHYm5lc1kxRWVIY2gzb01sQU55ajN6QlFHTTVMdzRPSFprN21VQmJHN2lpUmoySkFMQWFNaEM5RGpkM3NKZ2hCdVBDU2xxYUFjcE_SAXRBVV95cUxOSDZrVkRpN2d2SE1tUGcyNVJHRXgzZjZBN0taSG1haHVwdW1aaWV1eFJSMldFaUVJX0xJdVVMZWJyUGFYc3Y5VXNpZ0pWUlpfMFRXbGhMTjJPc0NadVRRRWxxQ0ZBZ2o5SWJWUVgyVEFXZGUzRQ?oc=5",
-      "publishedAt": "2026-11-05T08:32:03.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션, 3차 ESS 중앙계약시장 입찰 불참 선언 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0d67c698d3e39fda",
-      "title": "[단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ocm1JNVZVQkp5ZVl5UjVtQWh0eG5zeWk1RDlpdGtoYjZKNmh3UFFTbUFPNnk3bHVJYm4tZ0NKb2JIXzFTSkxhLXkySjZYclQ3NHZKRVFlOG5heExINjZJVlpqTkRMQlVnb29pRdIBcEFVX3lxTE5GQ3ROaGk1akk4dlVOcXJoc3dBT3VJclZ6di1hLVZrUlNUOFlqcWU0a0k5VWhtVkUybGhuUUc1VFk2Z2FxLVhGNnZXTHh6N1hReFZGem1SNXJ2UURqYmRuM2p5Y00wd3UzZXczLWVFWFM?oc=5",
-      "publishedAt": "2026-11-05T07:03:45.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

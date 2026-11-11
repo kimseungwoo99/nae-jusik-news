@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:19:33.799Z",
+  "generatedAt": "2026-11-11T02:24:59.296Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,79 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "하루 만에 4% 급반등한 코스피, 무슨 일이야?",
-    "코스피가 8% 반등한 날, 빚투 계좌에만 주식이 없었던 이유",
-    "[장중수급포착] NAVER, 외국인 5일 연속 순매수행진... 주가 +3.63%"
+    "저PBR 명단 공개 첫날, 주가는 올랐어요",
+    "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
+    "하루 만에 4% 급반등한 코스피, 무슨 일이야?"
   ],
   "articles": [
+    {
+      "id": "cc377c0c4f3c6232",
+      "title": "저PBR 명단 공개 첫날, 주가는 올랐어요",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SM3N3OTdBOVgyVzNmcF9LbWRiSUU5VHRaaC02V1lqdXFMWEZ2YlpBX3VTcC1UWFg3ZGIzZWlWTENmYnp0ZkdCOVdsRTZVOFVfc0E?oc=5",
+      "publishedAt": "2026-11-11T00:02:49.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "저PBR 명단 공개 첫날, 주가는 올랐어요 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c8638a2e7ac1b137",
+      "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SajEwTjlfQ0lkOE9QN0xGNlVLZ1MzckNPU1RLRTM0M0Y0dWlFbTMydWFQVHpnOUljcUNnN2tuRzhNakljcHZtMTZzQTVLZXRlcVd1TWtOU2M?oc=5",
+      "publishedAt": "2026-11-10T23:34:24.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        },
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "6393d693a819b0e1",
       "title": "하루 만에 4% 급반등한 코스피, 무슨 일이야?",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ycFZXSWwtR1J2VzJpM1MtT3ZubXNob0RXTzdEd2dwMExUaUtiWWlvNzNPV0ZYUnlhWnFwanQ0Y0FkdmdnWmZYcXN6M1c1VFFPVnJQbzNSQzU?oc=5",
       "publishedAt": "2026-11-10T08:34:07.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -49,7 +108,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUY2blBSNFBqZ2VzX2h5Y3I5ZHVNVzJIQ1I5d1ZvSkZBYXNjeGo2NnJhZ2M1MjJHX0Vub1Z5VTFtVk96RFNZdHFjcDBSb2RnQmdxZ1hyNlNkZGp0YW1uMFk5blVENXFTeGFnTWFyRlBfdkpMUUdLN3RBX1gxblhCWnNrUFc4NTIycHJuR3BRUHRTZw?oc=5",
       "publishedAt": "2026-11-10T02:21:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -78,7 +137,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSEVlOXc4YTZfcUVfMG9iTy1LSzE5ZDF4aFRJYkxmblpVSS1ZOVJETVcxQ2xhdURsdTJDSDNnbURQSFNVVXl4UDV3UGROdndpUy1vd0dXZkhqSjBD?oc=5",
       "publishedAt": "2026-11-10T01:24:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -100,39 +159,12 @@
       }
     },
     {
-      "id": "028aa55a8ad2bd98",
-      "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
-      "source": "네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KaXJ2YUxDVFg0Qm5QVGl4bUpPSUkxOXZLaXpad0JOcVJMNERDRFptSzlqajUweTg0NlloTk9pbXA4Yi1qNE55Rk05a3ZueTR2T1E?oc=5",
-      "publishedAt": "2026-11-10T00:26:07.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f820bcd75c43164b",
       "title": "네이버 AI탭 이용자 절반 \"AI 답변 보고 구매·예약·방문한 적 있다\"",
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdVNkZVppS0gwYlB6Vmh6cHFxU0dNY2gwMlZZVE9jOThqaWY0SFNCMlB3VjNBV01VY2VVU1duZW5vb0VETEtPR0xaOUJmMXZjSG5oaHRWaWx1Qk9LQ1RKLUlFSDNPMmZGWWl0OVYxOE5xNG5La3ozctIBeEFVX3lxTFBTdVNkZVppS0gwYlB6Vmh6cHFxU0dNY2gwMlZZVE9jOThqaWY0SFNCMlB3VjNBV01VY2VVU1duZW5vb0VETEtPR0xaOUJmMXZjSG5oaHRWaWx1Qk9LQ1RKLUlFSDNPMmZGWWl0OVYxOE5xNG5La3ozcg?oc=5",
       "publishedAt": "2026-11-09T08:33:44.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -159,7 +191,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zdGdLQjhtNTRKV05Qdjl1Qkk4dzE3SFRiLWNBU1hhYXc4d0RRYnE5d1BkY2RlRWVTXzBTSm5kbkplbDdETXk5MWVVTG42RXZ5eGdwaGdB?oc=5",
       "publishedAt": "2026-11-09T06:26:51.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -186,7 +218,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Ym95R1pNeFdjdl8tcWJTb01hQlY0ZXVQVjFnUU9oM0QzNVJxWHd2dXpsdTQxRDBGbmpKNWd0R2tlT3BJRUpjUkxPZ1BPQQ?oc=5",
       "publishedAt": "2026-11-09T05:53:52.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -213,7 +245,7 @@
       "source": "NAVERCorp.",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wZzJISzBrUUhsMUlZa3BaODVsTlRlTHlMdU5HMjFybGpJYkdHQm1ITk1WUnYyUXB4SUlfUlhZc3JmWFY2Z2NFZjdPR1RkdDdYeWJIZmhXay1pSXpjWElmQ2dzamJ2NXRtamh4bjNOYjRxdV9aeFlB?oc=5",
       "publishedAt": "2026-11-09T05:12:02.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -240,7 +272,7 @@
       "source": "NAVERCorp.",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM2J1M2RRVzRYM0xZZzZ4ZVNnTEg2RVFSWnBLcHlJeUlaWnVFOVVoU3kxS0NKWm1ONHFqTHJ6VDVBb1lSNWdRYjVuMmljemRCck9DcjA1YVBoRUJfcHFmbm9lMlNRdVpOeVhVYjgwMVg?oc=5",
       "publishedAt": "2026-11-09T03:14:23.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -267,7 +299,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY09yX2hYc1QtSU1ON0pjS28xVGJoVXB6UGlmMUcyZGRRZWd4cXRkdWc2VDRyRGFlTHZKWk1jQm1RZm5qeEwzbzdLbzN6TVRBVzQ0VUloRktxQlJPMUQ2RFhZQnNRYXRwMm5nWWxSZFVUcEFfVU4tNjBBMGQ0M3k2U3AxRQ?oc=5",
       "publishedAt": "2026-11-09T02:30:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -293,66 +325,12 @@
       }
     },
     {
-      "id": "9707f0773ad351c5",
-      "title": "30년 모은 퇴직금, 평가손실 1억원…무너지는 ‘주식 노후’의 꿈",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNclZzVlpLUlFJSVJOU2gyWlpiUF9pY3MzWnMwZmZCOE9DNV9sSTNWc2J3OEFKdE9OQkxEcUpzdzZDcFQ4QW5nNnhlR0dxOXZtZ0FjanJKYnpwLUQ1UlIyS3JQTkIyMC1Wd2VGcUYxN2xzdThVZDQyNWZSMjZ5ZV9nMmRsQQ?oc=5",
-      "publishedAt": "2026-11-09T02:14:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "30년 모은 퇴직금, 평가손실 1억원…무너지는 ‘주식 노후’의 꿈 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b37691cbf7605feb",
-      "title": "이번주 주식 투자 전략 261109",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWE4WTJWMS1aUEZibVRCWTR5c1hGVWpqNHBLX0xVMDZLRGNtR1M4NVkxc1ZVY1BXNm9FSGRlTERWOUw0RjYxUzQxUG1tYzNwOVlrMXJ4RmtETXRlSnk5SXl5MUZfNU1wcFcyUkxPcENncXhIbFd0bGFIcldrb0Z4N1k1MUhDNi02OVlj?oc=5",
-      "publishedAt": "2026-11-08T23:43:42.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "이번주 주식 투자 전략 261109 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b6cd5a1076bdd687",
       "title": "코어위브 11월 10일 실적발표 : SK하이닉스 주가 추가 하락할까? 아니면 반등할까? (feat. Soxl 투자)",
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkJzUnU2VHZJTW1PdVJfdUpKdlFsTHJ2X2lNdWxNLXVPbHJvNUdoV25OZkMzS0F3enlZQUROU3hqSWZlQXczSmwwUnJjQTJiUWFZUURTeFByNGFpY1N5cHNnU0tkT3RneTlhV2FUTzcwcmtpcnJ2bGx0QWhxY0J6ZXppWQ?oc=5",
       "publishedAt": "2026-11-08T12:26:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -381,7 +359,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0lxaHZZY3M3R0w0TDhXdGtGb3J0SjBQLUNpbUxaVmJqeG9fUmlQU0RMVkphMVBjSjdIWWJEWURza3VQQU5PaWlqejdwUU9pV0gzeDFQekVWUmdKcHFDam5VNUsteWk1MktOS2ppVkEyUGhHbDNOV3h3MEFlMFh6Ny1ZX0RMdERPU3ZZ?oc=5",
       "publishedAt": "2026-11-08T02:57:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -405,12 +383,39 @@
       }
     },
     {
+      "id": "0db81586d6a2d322",
+      "title": "[기업심층분석] 팔란티어(PLTR) 실적 96% 성장에도 주가는 왜 하락했나? 계약 성장률 11%와 45배 밸류에이션의 진실",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckFaS3NZV2F0QjdJYnFOVmt0Y01ZLWQ0WFBlQ2VSdWl6Sk4tMlpYbHk0aFRXQkY1dnRvMENLb3N0UG50WmhEU01ibkdVb1lDOEUwTDBob0FEdmhqa2J6QTdJcXo4bXpLMDFEeUtKdnhaX2UtTDVTQkFnLWNPcDlWeFZOZzk0OVVROTBMb0tGUlVMZw?oc=5",
+      "publishedAt": "2026-11-08T01:06:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "[기업심층분석] 팔란티어(PLTR) 실적 96% 성장에도 주가는 왜 하락했나? 계약 성장률 11%와 45배 밸류에이션의 진실 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "1ac8b5352fcca78d",
       "title": "[韓IT열전]④이해진과 네이버…AI시대, 커진 절박함",
       "source": "이데일리",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTkxQlJZXzI3OFd2U2FlTWhlaDlVbzhySXR2bmlBZklESEpIVXV6d0xlTFU1eWhNZ3FCVkxBb1R1c1FUUWNzSlNySEFFN1N2YVVmX3JRYzZ1M09LMC0waWlYM2x6TVlkclV5N2VTUFdnOVlvbnNXX2h0UjNDQjRHYw?oc=5",
       "publishedAt": "2026-11-07T03:00:02.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -437,7 +442,7 @@
       "source": "네이버 프리미엄콘텐츠",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmJLLTRzYXE0MGdaa09aeEppa00wNkdldmM5TVBsdVplNFV6NElHOW5xcGtXSmlwWHBxQkRJZGhtZjI2TFRjTVRXbEM1S0pmMWp0Vm5mbEhDTFNPS3FwSHdfMlliQXlKVTFPdFlQNmdmQVNLN0NsZ2hBQ0NHUi00ZmdPZw?oc=5",
       "publishedAt": "2026-11-07T02:22:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -461,39 +466,12 @@
       }
     },
     {
-      "id": "9560316a0765c36a",
-      "title": "[진단] “AI 탐색 늘수록 ‘검색광고’ 위축되나”… 구글발 AI 공포에 네이버·카카오 해법은",
-      "source": "이코노미톡뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZThLU1M1Um13bmdURFVxa0NKQ3Z6ODlfenVTcHFpcmVMazJEVDl3ODdmZHk3amJRWVhVVzFKVjZWTkl1QUJWVkhZOTJjZXl1RUNSRnF2eVJmZVdLT1JrYUFXd0hGNm9NV2pjag?oc=5",
-      "publishedAt": "2026-11-06T23:00:00.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "[진단] “AI 탐색 늘수록 ‘검색광고’ 위축되나”… 구글발 AI 공포에 네이버·카카오 해법은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c1e31b7d318ea0a4",
       "title": "AI 반도체는 날고, 아이폰도 신기록… 이번 주 실적의 승자는?(11월 1주 어닝콜)",
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRDc0ZzVWd1BsNjFKSmZfUFNpdC1wd0dlZWQyNnpTQW5nakRvenRLMzM2YnZETkdSd1dkSllqRkR3UjBhblBDeWZXNnZXZEljaTNVV0JVRHl5QQ?oc=5",
       "publishedAt": "2026-11-06T21:42:13.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -520,7 +498,7 @@
       "source": "데일리바이트(DAILY BYTE)",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FLUJVUDZNcGxGYUhHR0pyQVk5RGxYemFoSWpHekxWTzVBS0FkYUZhd2NlWG1mOGllRllKTGlQRUlla29xOERTOHRLV1RxekxnbXlyT1NCNFZILWJRWmQ3NlNIaU5WaW9LcmRGaXRqa093UTJMLUZlSDhCTQ?oc=5",
       "publishedAt": "2026-11-06T04:52:46.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -549,7 +527,7 @@
       "source": "한국기자협회",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DNDI0OExxazJMMWJiQ0hPWGVMV05YTkdNTG9SNzF6QkRlYzJ4MWxXdWpsTDlENlR2RlhLY0VHQ0JTS21GblV2NW5DV25BNk0wYnY2Uzd2aEU0T1ZqRjN4OU9ubw?oc=5",
       "publishedAt": "2026-11-06T01:55:16.000Z",
-      "collectedAt": "2026-11-10T15:19:33.799Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -569,6 +547,35 @@
         "positiveTerms": [],
         "negativeTerms": [
           "수사·소송"
+        ]
+      }
+    },
+    {
+      "id": "53fa3c5a5c0d7120",
+      "title": "주식 폭락 예상? 현금 50%, 괜히 남겨둔 게 아닙니다",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2lmbTBodXdrSENqNUZ2NFRldFFQajVoUTFqVFJRTmxIbFVqUnpNMmFWRDc3MVZzcEw2MWJZbGlramYxVkpCWU0wQTRzNk01XzhyQWFKczU4ZERrcFhkcFFjeWlkMjhpcExtdEI5NDQyaW9NMk5Jc1AtbnUySnI0dHZ3RHZGbWpHX3Zr?oc=5",
+      "publishedAt": "2026-11-06T01:38:00.000Z",
+      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "주식 폭락 예상? 현금 50%, 괜히 남겨둔 게 아닙니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
         ]
       }
     }
