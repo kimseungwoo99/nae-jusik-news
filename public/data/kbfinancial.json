@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:24:59.296Z",
+  "generatedAt": "2026-11-11T10:03:34.170Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,189 @@
     "name": "KB금융",
     "ticker": "105560"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "신한증권, KB금융 리포트 안 낸 까닭은",
-    "은행연합회장, 'KB냐 신한이냐' 아닌 '지금 무엇을 풀 수 있나'로 뽑아야",
-    "최대 실적에도 수익 뒷걸음… KB손보 구본욱 재연임 안갯속"
+    "금융지주 계열 카드사 CEO 4명 연말 임기 만료…실적 개선에도 연임 '안갯속'",
+    "KB금융, ELS 환입·국고채 과징금 반영해 3분기 실적 정정",
+    "국민은행, ELS 환입에 순익 1836억↑…신한 제치고 '리딩뱅크' 탈환"
   ],
   "articles": [
+    {
+      "id": "4cd7615de5579c0c",
+      "title": "금융지주 계열 카드사 CEO 4명 연말 임기 만료…실적 개선에도 연임 '안갯속'",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RMEJwOEp5YWYtS09tZmFrYUk3cUgzSVo5bS1pcnZ2Qy1GcEJKZ1Zfa0d4TTYxYkg1ZmxyMm9GT3hVTDFFNUx1UmhKVEgyc1lVMjJueG5oZWdjODhuRS13d0VDaFdSZHVRdjVicTBlXzhMZw?oc=5",
+      "publishedAt": "2026-11-11T09:29:29.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "금융지주 계열 카드사 CEO 4명 연말 임기 만료…실적 개선에도 연임 '안갯속' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "785a593a246722c4",
+      "title": "KB금융, ELS 환입·국고채 과징금 반영해 3분기 실적 정정",
+      "source": "뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aNlFCaDNKQktqeGZHM0Uwb1hvQXgxdXVQRWNmVVh2ZkIwbGlhN3NkdDRoanJmQ2h5MmVKRXRydVlFV0c2VW16Vk9qNjl6dE5maThOS2NldmdYdkhLUVpYWWlEY0YycDZNZVY4?oc=5",
+      "publishedAt": "2026-11-11T09:18:09.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, ELS 환입·국고채 과징금 반영해 3분기 실적 정정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "58ae4dc9171ffda4",
+      "title": "국민은행, ELS 환입에 순익 1836억↑…신한 제치고 '리딩뱅크' 탈환",
+      "source": "MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fd2txbVlfRklSTF8wYkw0YTZWNXhwOEpQSTdCNTZ5RjI1U2VzVld6blAzWHU0b1NSYWhTME1waHJ1SURPd0NZNV9IbDE1NzdOSkRqSDNVVzlvSllWV1lB?oc=5",
+      "publishedAt": "2026-11-11T09:11:38.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "국민은행, ELS 환입에 순익 1836억↑…신한 제치고 '리딩뱅크' 탈환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "915435235ccba2a2",
+      "title": "ELS 충당금 환입에 국민은행 '리딩뱅크' 탈환…KB금융 순익은 감소(종합)",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lSUx5d3hFQWNzeU5JVTBJR1F1X3pEUGEwOVA1Ym5tR2FEbzc5Ymw0Skd6TlhhVV96TDFCcDc5X2ZJNFZBeTMxNHY3SXVYSkdxOERmUnh3TVVxaHNhVmRFZVRn?oc=5",
+      "publishedAt": "2026-11-11T09:00:23.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "ELS 충당금 환입에 국민은행 '리딩뱅크' 탈환…KB금융 순익은 감소(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d8b098a43bc3a11d",
+      "title": "KB금융 3Q 순익 1486억↓…국민은행 '환입'에 KB증권 '적자'",
+      "source": "블로터",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aVNiUGVJcFUxb3NkR0J1aXRxRGhaQmozN3YwSWhYYWlEQ1RjSE5pel93SG5tUkZrMjhhcDJhekJmVXd5bUxzamRXbnZNWHBPLXpmVEhBbk5YekROTnFBeTFXRlI2cjZaOTJKVdIBbEFVX3lxTFB3aVNiUGVJcFUxb3NkR0J1aXRxRGhaQmozN3YwSWhYYWlEQ1RjSE5pel93SG5tUkZrMjhhcDJhekJmVXd5bUxzamRXbnZNWHBPLXpmVEhBbk5YekROTnFBeTFXRlI2cjZaOTJKVQ?oc=5",
+      "publishedAt": "2026-11-11T08:33:44.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융 3Q 순익 1486억↓…국민은행 '환입'에 KB증권 '적자' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "46bd3502a3e2bacc",
+      "title": "KB금융, 국고채 담합 과징금 반영에 3분기 순익 1486억원 감소",
+      "source": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaFc4dk9TelpaR28tUy1RaE52a0JKS3h5S245eWZZWURkMmRoUDBjWHlPWFF1VmpEcFF3dkdoVk9aaVJGRlVSQlhnQVJtcVZBVjU5cXVERTZPSnVrLWc?oc=5",
+      "publishedAt": "2026-11-11T08:20:00.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, 국고채 담합 과징금 반영에 3분기 순익 1486억원 감소 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "f2069ee24bdc0db4",
       "title": "신한증권, KB금융 리포트 안 낸 까닭은",
       "source": "DFT 대한금융신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmVwelRtQlBFbWNaM2ZVUjRicjJJWktVTzkyamtHc1padm4zS19VeUMwZGJMdlh6T0VpdGVJOVZkTXZmNDNHMEVpT2hsN1pHUUdXa2s4QWMzVmpvbnNjd2lNeWVyaTNfYUlQRXdRUzLSAXBBVV95cUxPeWZlcHpUbUJQRW1jWjNmVVI0YnIySVpLVU85MmprR3NaWnZuM0tfVXlDMGRiTHZYek9FaXRlSTlWZE12ZjQzRzBFaU9obDdaR1FHV2trOEFjM1Zqb25zY3dpTXllcmkzX2FJUEV3UVMy?oc=5",
       "publishedAt": "2026-11-11T01:05:24.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -47,39 +216,12 @@
       }
     },
     {
-      "id": "5d578af08ad70da5",
-      "title": "은행연합회장, 'KB냐 신한이냐' 아닌 '지금 무엇을 풀 수 있나'로 뽑아야",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCOElZSFpoWTI1ajl1V3h5ckdBNnJJSGFPSDBPb0NBTnNPbkphaHdweFBYZmJfZFpzdVd6TS1QZV9RSEFhb3BQc21sYzdPazdOa2RsTFEzemlkZFBOVE93YkhsRngyRzQ3?oc=5",
-      "publishedAt": "2026-11-11T00:58:10.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "은행연합회장, 'KB냐 신한이냐' 아닌 '지금 무엇을 풀 수 있나'로 뽑아야 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "89917a69a676eb00",
       "title": "최대 실적에도 수익 뒷걸음… KB손보 구본욱 재연임 안갯속",
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oSzk2d2VvUHA3Z2I2aUVCbG1fZnptczVYVmpNUUZsRzFvdXZPZi1VUlI3NmFJaFNySEQ2MWxuSEx4eks0WERqS0hZX2xfYUJlRmhmdE9ySFJVSmpjTmtkdDAzbUtpVzBJbDNkSlpB?oc=5",
       "publishedAt": "2026-11-10T08:53:17.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -106,7 +248,7 @@
       "source": "톱데일리",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11al9vUGFpTlpNSGtfMExwMzY1M0Q3LVIxVzJhcWg5NzlXdzl4SW5xQ1pKcEVqVHhENGpiSzFXQ0kzMGg4RkRFQmlGSjZrTjdT?oc=5",
       "publishedAt": "2026-11-10T08:01:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -130,39 +272,12 @@
       }
     },
     {
-      "id": "21407c51fbc95828",
-      "title": "'홍콩 ELS 족쇄' 푼 KB국민은행... 대규모 환입금에 4분기 '밸류업' 날개",
-      "source": "시장경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oTjNjMjZtWkQ4dTZ5Y2YtMG9hUTdLcHRKNnBTWk1aQzVzd1NkbHQxZjlRbXQ4WFl0WTIzWFFtdElqQUQyNTBwTG9pdHA2ekFUZ3FEUW5XUFFzdXVKM3hqTHFmSVJhUHMzdDVDWDNlamY?oc=5",
-      "publishedAt": "2026-11-10T07:50:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "'홍콩 ELS 족쇄' 푼 KB국민은행... 대규모 환입금에 4분기 '밸류업' 날개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a670a19663763bd6",
       "title": "“측근 중용·세대교체 어디까지”...KB ‘이재근號’ 출항 임박",
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rZU5XNUFtX3BPcDJ3Y3lDMkIwQ25lb25SamNab2RWdXowclVqZ1k2MWlPRkZEMWNkYmJFcVpvU1dWS01SRTBLLVhHMzFFbGREWHlVckIxa25JZVk?oc=5",
       "publishedAt": "2026-11-10T05:05:26.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -189,7 +304,7 @@
       "source": "비즈중앙",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2blp6Y1ZWcVhmdHo3U2ZHMnFndWwtZjBFekN1MU5GV3FPMjdFb2kxdHRhUUkybVp3bURkSkJtdVBROWo3UUxTSlpqODBsLUhwbmlsLXcwRlFidGlzQ1hLTTBNcEFoNWMzYTN4c2pBZ0w?oc=5",
       "publishedAt": "2026-11-10T05:04:05.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -218,7 +333,7 @@
       "source": "땅집고",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5RUJIYkhPQVlpWlVUcjViMVQ4dFVtMGdXQWpzY0RYWThIcEZ1N3JfODV2WEJWcmxjbjJmRUM1ZkRTOGkzOXMtX3JTVWF6LU05VE5fakc4UmE0ejB6NUxYaVBDdjYybmxia0EyZ1FSTWdDRk5UR2tqUlRna2RETGPSAXNBVV95cUxQYmNRb01IQ1A5NDlZNlF2SGdaSDNMMUF4bkY5VkxrblVEdXdwQldGUFBJNzN6YnpvMU1vMjNtX0lQUEEyeVhYNVExSVVGMXhDUll1VlpROWNWSG5QQnFlbHpRNHdxaU9MdU56Q2dwY2hmMlVj?oc=5",
       "publishedAt": "2026-11-09T21:00:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -240,66 +355,12 @@
       }
     },
     {
-      "id": "584b5ac6c8aeed24",
-      "title": "부실 줄였는데 적자 8배…곽산업 KB저축은행 대표 '쓴 성적표' : 네이버 블로그",
-      "source": "Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEpuTk1QX3l5VzF1TWVOOS1uMjRwQVdvOUFjRDFtMzFBR18zelktd3dYOGEzZkJhWHBFaUh4eWREM3U0cHRBdS15aWNPR0FENmZBOFJWY3REbFNCSm00ZmIwN2hCT0plb3NlRERDWmVuNGhmbnpZWGJOeld1OVk5b09FQTVZUldsSm9pRGdjdw?oc=5",
-      "publishedAt": "2026-11-09T14:01:48.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "부실 줄였는데 적자 8배…곽산업 KB저축은행 대표 '쓴 성적표' : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1d8fd62867983459",
-      "title": "[리포트 브리핑]KB금융, '든든한 수문장' 목표가 230,000원 - 흥국증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaamxURmNCeXc2Nm1OVWJDT1BPWDg1b3JhS3pYN2tFQjRqV2dHV2FhUnJlRlRuTE1kSjdUamZ3RlJ2bVRzWFJvX1dScGtpMjhLLWN2RlNTeVRCQ0Fj?oc=5",
-      "publishedAt": "2026-11-09T08:14:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[리포트 브리핑]KB금융, '든든한 수문장' 목표가 230,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6bc114ccd26089f9",
+      "id": "85af10dd1a84c7b0",
       "title": "美 '큰손' 이재근 회장 선임 찬성표…KB금융 인사 향방은 - 머니투데이",
       "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmX1V1aTlYZ29ydnAzdWdPaXNuWDZuZUxRVE91bWNZZGxCYnhZQlRmU2hkdDY2dWJMSC1Bb1VYTlpzRHFjSUJiTFZBZFZXN215V0tpaWVXdDFnZUN5QTN4dHBPVW96T2FtY1BvYkdxVUnSAXBBVV95cUxQZl9VdWk5WGdvcnZwM3VnT2lzblg2bmVMUVRPdW1jWWRsQmJ4WUJUZlNoZHQ2NnViTEgtQW9VWE5ac0RxY0lCYkxWQWRWVzdteVdLaWllV3QxZ2VDeUEzeHRwT1Vvek9hbWNQb2JHcVVJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdXAxa0dEMWlYRXJCRVEtaWdGT1p5YlZ2OHRhR1ltZ2Y0cldiRlZaSzJyWmtYVjRUVEswa1lVaHM3SERBZkFtOGhzdmVPRkIyU3JqdTM0SEZvNDRoWVVTanlQeG9UQnZiQU5Z0gFwQVVfeXFMUGZfVXVpOVhnb3J2cDN1Z09pc25YNm5lTFFUT3VtY1lkbEJieFlCVGZTaGR0NjZ1YkxILUFvVVhOWnNEcWNJQmJMVkFkVlc3bXlXS2lpZVd0MWdlQ3lBM3h0cE9Vb3pPYW1jUG9iR3FVSQ?oc=5",
       "publishedAt": "2026-11-09T07:43:50.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -321,12 +382,39 @@
       }
     },
     {
+      "id": "184e0b730d654977",
+      "title": "번 돈 절반 돌려주는 KB금융, 환원율 55% 넘본다",
+      "source": "자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvMnAzME1WUnFFYUg3anAydldDOXVzcUtyRzROSWNjSzItU0ZzaDJ4YXpYbU1mSzFSOFhMd3J3U1FoS2R6NGptOVYxUDVGS2wwVVdfbk1VZTJZTEtRcjBNZElOcmFVTW8?oc=5",
+      "publishedAt": "2026-11-09T04:00:00.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "번 돈 절반 돌려주는 KB금융, 환원율 55% 넘본다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "211f2278a7704623",
       "title": "[DQN] 양종희號 KB금융, 신종자본증권으로 선순위채 상환···자본 체력 '강화' [Capital Quality Review]",
       "source": "금융신문",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XenhabTVhRVpWbDQ4eUFPY2pTMWFPRnVCU3dkY19ZV0FDUlpJSTJtRXhNeFNQa1ZtQWNyYjFHa3Y5ZElpVDN6Rk9QdjhWcjZvM24xc2VhRXBULTZORkNMR0ZkRVJiWWIyYjFmWjdyLTZ4NTk4Ml85X3JJYm0?oc=5",
       "publishedAt": "2026-11-09T02:10:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -348,39 +436,12 @@
       }
     },
     {
-      "id": "6b3a17d32f9ae4c2",
-      "title": "KB금융, 4Q 일회성 이익 2000억원 기대-하나證",
-      "source": "PRESS9",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcExVMDlOamhHYXNEaHNsTEplOEdZZW8yaDVMa0twU3c1QUJaOE1LZ21iTENQX09xZUtvaDlmNk10eUhBb21QTVdRWWNWTUJGbTRKNkdfOWVuZ0pBVHhud05sMGw?oc=5",
-      "publishedAt": "2026-11-08T23:14:23.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "KB금융, 4Q 일회성 이익 2000억원 기대-하나證 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3ba50344198c64dd",
       "title": "'5극3특' 강조 무색…수도권 자금 쏠림",
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80ZlZwci1OUzJlVm9LNGdTZHZtLS0wc3NOUVAwdGdsU0E4dHljYUNCTFpoa3lSdklaa21sVTQ1amtzbmdEQnB2LVdaLTRqc3hjVlJiYmxEWQ?oc=5",
       "publishedAt": "2026-11-08T23:00:26.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -407,7 +468,7 @@
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JWWJseFBmVklFb25pMU82eE5uTVp3TkdsbXNtY3V5U2FXdTdPdzRMRzBBS0E5aF94bzJpTWx6Q3FrM2JVb3U2RGlsMGpUWjA?oc=5",
       "publishedAt": "2026-11-08T21:37:45.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -429,44 +490,12 @@
       }
     },
     {
-      "id": "b46df4a91e5c238f",
-      "title": "실적보다 보안·내부통제…5대 은행장 연임 공식 바뀌나",
-      "source": "뉴시안",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mbm5IS2h3M0t3Wl82OGVpTGJtM2MtME1KUlBPMnpjU0xFUWFoa3FFRDhROHN5dlRabzV1WFZWVUZKQ3RCclZJOFd1blI0eHcxZ3NYWW1mT3J6S2JoYldIbEZ2TUpUMVJYTUhJdQ?oc=5",
-      "publishedAt": "2026-11-08T21:28:02.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        },
-        {
-          "id": "shinhan",
-          "name": "신한금융",
-          "ticker": "055550"
-        }
-      ],
-      "summary": "실적보다 보안·내부통제…5대 은행장 연임 공식 바뀌나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a56755b3a4d893ad",
       "title": "[자본효율 트래커] KB금융, ROA·ROE 선방에도 비은행 '온도차'…증권·보험 동반 둔화",
       "source": "더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZktoXzlmZXMyTWh0VFU0MHM2c3dGTUk4blJQaFpFUGY4NXgyMk5nc3FMMkZZaVk5R043cWh4RmRoUFdSMEpDSGlhTXVCOG5ZVnh6LVp5NjdWd9IBVEFVX3lxTFBLeEpEZmU0alV0Wi1MbTY0V1B5cjduNEZmNmFRcEZUbERrem1VWWtjdG5RM2p5REhCUldyNXN1VDhOQ3doX2RWUjBuT3JyMF9oSWpsRQ?oc=5",
       "publishedAt": "2026-11-08T15:00:01.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -493,7 +522,7 @@
       "source": "한국보험신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaEFmdzNua0xkODRScUFGNTA5UjNuLV9WUFdWU01IWnR4cFBYY3JJVEJmWW1aaGN6ajRzcllnU1FqV2ZVRC1leGNFSHp5NWZzX0w5TTc1QWg5NGZJTDBBMmNKenZwM3U0ejRB0gFvQVVfeXFMT2V1dFEwSDJrZmIzdG1sSk9zNm92LWJ4UUludlpFdzNHMURqOGJyRjN2VGYxMnc4anU3ZnVQYXJOc0xlNGFuQ2lfa1FOOUk0RjFhU2w5WmtpR2dfNW5uV09UTUtha0RTempXbmNiZm5n?oc=5",
       "publishedAt": "2026-11-08T15:00:00.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -522,12 +551,12 @@
       }
     },
     {
-      "id": "2901bbd140cd449d",
-      "title": "같은 실적 부진, 다른 인사 변수···구본욱·정문철 운명 갈리나",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TaVZFaFJneDRZaU1CTXVsRUZEWnZXbnZiYnY3U2oxTm9uZWxDV2NySXJsTEphaHM0dXgtYTRhNF9ZSVBXS2lmdHNFclAwM0ltSGJZaVNWSUk2YWZsalBJRFVicXFSR0VGbzZsd2pub2daT3QyOUHSAXZBVV95cUxOU2lWRWhSZ3g0WWlNQk11bEVGRFp2V252YmJ2N1NqMU5vbmVsQ1djcklybExKYWhzNHV4LWE0YTRfWUlQV0tpZnRzRXJQMDNJbUhiWWlTVklJNmFmbGpQSURVYnFxUkdFRm82bHdqbm9nWk90MjlB?oc=5",
-      "publishedAt": "2026-11-06T05:24:02.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
+      "id": "7d5aeafe7c5b5b29",
+      "title": "KB금융그룹, 에이전틱 AI기반 KB GenAI 포털 오픈",
+      "source": ":: 위즈경제 ::",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZUE0TFl4bnRrdDNrcXBGbW9EbzNVQTdVLUowcWZ1UmIwcnpEdGhnQU9ydXA1ZHZoVHg2SHl6bUxjck1yaGZwc2Jjbk44dDRvMy1qcQ?oc=5",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "collectedAt": "2026-11-11T10:03:34.170Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -538,37 +567,8 @@
           "ticker": "105560"
         }
       ],
-      "summary": "같은 실적 부진, 다른 인사 변수···구본욱·정문철 운명 갈리나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "실적 부진"
-        ]
-      }
-    },
-    {
-      "id": "eac81d1e1bab712e",
-      "title": "“비은행 키워야 웃는데 보험이 삐끗”...금융지주, 확장 전략 ‘시험대’",
-      "source": "에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYWjBGQzVaVzR5dVJvaC15Q1drT2gtNFQyYlBSWkw4Ulk4RE5zb2tvN011S2g0dnJ6eF9OU2VVRzFYeUFndHFJajhQUVMxRzJ0RVdGeUxCUUczVlU?oc=5",
-      "publishedAt": "2026-11-06T04:01:01.000Z",
-      "collectedAt": "2026-11-11T02:24:59.296Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "“비은행 키워야 웃는데 보험이 삐끗”...금융지주, 확장 전략 ‘시험대’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "KB금융그룹, 에이전틱 AI기반 KB GenAI 포털 오픈 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
