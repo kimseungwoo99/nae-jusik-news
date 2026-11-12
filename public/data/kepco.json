@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:30:08.733Z",
+  "generatedAt": "2026-11-12T15:41:14.778Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,128 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
-    "\"중복 시공 없애고 예산 아낀다\"... 인천 검단구·한전, 전력설비 인접 가로수 통합 관리…",
-    "정부는 재생에너지 확대한다는데…한전은 석탄·LNG 투자 비중 높아"
+    "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
+    "한국전력 3분기 영업이익 1.6조원, 전년 대비 71% 감소…\"중동전쟁 영향\" - 머니투데이",
+    "[한국전력공사] ‘BIXPO 2026’ 성황리 폐막...에너지 혁신 기술, 투자와 사업화로…"
   ],
   "articles": [
+    {
+      "id": "072a5c087982f7e4",
+      "title": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
+      "source": "기후에너지데이터뱅크",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMXFBX0ZkUGNyQjYtdWdsTi02Zm1jNF9RZzYxNTBTWjZ1UWljdjlGZDlkaGNxUkQ4NEFLWmpzbnJvXzN5R2hFWnVFbjUzM2lELUYxUGs5ZUh4SjR6bGc?oc=5",
+      "publishedAt": "2026-11-12T09:10:03.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "42f4267dc22309f8",
+      "title": "한국전력 3분기 영업이익 1.6조원, 전년 대비 71% 감소…\"중동전쟁 영향\" - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BeWdRZlo1dnlNRVZ3ZklKTl9Xd2JpYVFJVnlRZGI4bDdpYlIzb1V5bk1wWDh6blZWWEh4WjRNV3dBZlZwekZQRE9WWUo0U1ZQQ3dsT2JBczkwODFMVFF3ekJBQnFrRTVHZXBn0gFwQVVfeXFMTlBRSzV1Yk5mNUZGaXFfaDk3c2NGVi1YdzJPZS1IcVBrTk82SXJwU2JXWlJBRDViRDJSa0hhZEdjVmJlX3hVQi1TVEM4bTNYemx4STZ2dTNJSG1nVDdoQUJ1OGZmbHpwNDN6bVhHQzBFUw?oc=5",
+      "publishedAt": "2026-11-12T07:24:21.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력 3분기 영업이익 1.6조원, 전년 대비 71% 감소…\"중동전쟁 영향\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2ee0acf0cfcc56ee",
+      "title": "[한국전력공사] ‘BIXPO 2026’ 성황리 폐막...에너지 혁신 기술, 투자와 사업화로 결실",
+      "source": "워터저널",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45elhJRXlwVnZ5SWNHelNsWXFhRlhPbnVDVUVIemJXUHVUVk9MOGJxXzk4UEVQWWo4LTZialBkRFBlNVpweFNRQ0JFRnA3cGx3OW9NOHdvWFZwWXhUYy11eE5mZjZESmpCRzVmQWkzT2JBTTJHb2fSAXZBVV95cUxOOXpYSUV5cFZ2eUljR3pTbFlxYUZYT251Q1VFSHpiV1B1VFZPTDhicV85OFBFUFlqOC02YmpQZERQZTVacHhTUUNCRUZwN3BsdzlvTTh3b1hWcFl4VGMtdXhOZmY2REpqQkc1ZkFpM09iQU0yR29n?oc=5",
+      "publishedAt": "2026-11-12T06:51:21.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[한국전력공사] ‘BIXPO 2026’ 성황리 폐막...에너지 혁신 기술, 투자와 사업화로 결실 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "edf6703d366ad0f6",
+      "title": "한전 부울본부, 홈플러스 센텀시티점 전력 공급 유지 방안 모색",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBacXA0aG5tWHIzcWx3VXFDekhab0pTcm5ibWVnSHNuM05OX3pWVFU3QnB3dWk0QnpjV1pBa3lxalppUDZsNVk5ZFhFTVBHcWNkbklIS0JvOXNrMDZH?oc=5",
+      "publishedAt": "2026-11-12T03:30:00.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전 부울본부, 홈플러스 센텀시티점 전력 공급 유지 방안 모색 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "df54abbdea54a53a",
       "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
       "source": "기후에너지데이터뱅크",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2bmZzdDZyaXBKWUkwVnJ1M2hUNng3djdHNDExQjQ2eFZSUVp4VzdhWTZJNmpTSTVVWjFDMW01d3JZbU5ySmgwajQwMml0U05BcU12R0UzMHlGMzJJNGc?oc=5",
       "publishedAt": "2026-11-11T09:10:03.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -42,12 +150,39 @@
       }
     },
     {
+      "id": "fb3c9f193f47fbdb",
+      "title": "한전, 차세대전력망ㆍAI 중심 '미래 전력기술' 혁신 가속",
+      "source": "인사이트N파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xd0lqRjBtVjRYV0I4Y1B5LVAwT2NhOHpsQ2ZZWlZ1bjNaYktseW80M05LM2dOWGQwc3NNZC1WbjdDcEhrbDRSWTFaR1Jyem1TY2RCTWFPLWt5OFVjeGc3Y05JMC0xZw?oc=5",
+      "publishedAt": "2026-11-11T05:10:02.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전, 차세대전력망ㆍAI 중심 '미래 전력기술' 혁신 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a6756c667d9f3218",
       "title": "\"중복 시공 없애고 예산 아낀다\"... 인천 검단구·한전, 전력설비 인접 가로수 통합 관리 추진",
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRXZZeTdFY0lJVEVmZWpDNGNDUFgtRFZKUlJuN1pLVDBqa0dUaFpXaTVmMU5HOVhrY2hfS1lZYXU0aHZodFFOcUlhQjFfMmhKWjg1aVN6MHhac3JfYkxSR3pUaHJjeE0?oc=5",
       "publishedAt": "2026-11-11T04:45:31.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -69,12 +204,39 @@
       }
     },
     {
+      "id": "ba3d500f54153508",
+      "title": "여주시, 한국전력공사와 겨울철 대설 대비 전력시설물 피해 대응 협력 강화 회의 개최",
+      "source": "일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45ajI5RmZFejJTUGNkRS1pYVR4S3QxazRXc1dGXzZWMDBmRlI0OXFCOU9mT2kzTGFMcllBUkcxU1V5em81Y19JbVp6eUFCYWJWVmdQLWFDMmZIX216SUhNTm9PME9wY3NZSzBZ?oc=5",
+      "publishedAt": "2026-11-11T01:19:15.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "여주시, 한국전력공사와 겨울철 대설 대비 전력시설물 피해 대응 협력 강화 회의 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "143be65eb59c6d34",
       "title": "정부는 재생에너지 확대한다는데…한전은 석탄·LNG 투자 비중 높아",
       "source": "더나은미래",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zUHVDbkFwTG9mb0NPM1A4Y3E1TjVaSFByeHhDNmcwVm9teC1Pd3VhQmNSbVQxaUhzQ0xkczdWcGpBZll4Wm55eE5TT0ZaX3NLc1E?oc=5",
       "publishedAt": "2026-11-11T01:13:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -96,12 +258,12 @@
       }
     },
     {
-      "id": "dd040ce94907e048",
-      "title": "[한국전력공사] '2026 대한민국 탄소중립·녹색경영대상’기후부 장관 표창 수상",
-      "source": "워터저널",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tQ2IyQXpRQmlVNWZ1YnRyVFNfNlpNNU9KS1M4MWhWX1U4QnItSng4RGx6YlRCOGZmbVRjU0NYYWRkangydEJyY1J3UERUN2JVSEZyZVltNmZLamhiYWRVTHBMcDZnbmw2cTEzQ1hSVlRYQdIBdkFVX3lxTE8xVTVaTUt0UTJUUDRqdjJaZTdiNE5DNUw0V3hQUGZOd3FuelAyS3VnbHJMZHNLanduQ0xsU0dzWkdCcGk2T084NHlxNl9OWVBCYnNCeGVRZUVOMktMLXpnbGdCakN2dnJ2YWljVUlwZFVDNW5ZSXc?oc=5",
-      "publishedAt": "2026-11-10T23:44:41.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "id": "436526642f89a0c2",
+      "title": "우스만 V리그 데뷔 후 최다 33득점 맹활약…한국전력, 삼성화재 꺾고 2연승 질주",
+      "source": "스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDIyYi1JQmZjZVFFcWF6VkxHWlN5akV6aDA4a2p2LTFnWHduQkE3OUVZUjhSWUFZTW1PU0puVTRoN1BqM0UtNmdITGJvZHFtX1Y2UDVlQnVDNUg4Z0HSAWNBVV95cUxNRGVGaE1vX1RfT0J1UVJodEY1b0NxSUQxMW0wWHl5c0o2S3p4b2VJM1E4NW1SQkN2WHVCSkNGd1pLNUpZVGpRRlB4ZVFaWVRmc1pnODREeHpXYTNRNFQ1cjJ4czg?oc=5",
+      "publishedAt": "2026-11-10T13:35:00.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -112,7 +274,7 @@
           "ticker": "015760"
         }
       ],
-      "summary": "[한국전력공사] '2026 대한민국 탄소중립·녹색경영대상’기후부 장관 표창 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "우스만 V리그 데뷔 후 최다 33득점 맹활약…한국전력, 삼성화재 꺾고 2연승 질주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -128,7 +290,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQkt0dW5hTi1tSmwxNUxhQnhlUzd1OGlfZExyTUVqNHVkXzh0d19SVURVX1BIUE9KZ2U3NDh4TFIyV0Q4V3JVWjBsY2FaY3E2eVA4LWdhVGZOODDSAWBBVV95cUxNQ1NaY3BRdWtuaWhwRVVVR1VMSzF2ckFHa3JaVUNNb3dZU2pDZllHcm1mc1NzUU1WQXNMOVU1RmNSNGxFLU5RZkZlNXlkVjBjcTRMenlmQUdiOW1VRTlSSVI?oc=5",
       "publishedAt": "2026-11-10T12:47:05.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -155,7 +317,7 @@
       "source": "에너지플랫폼뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMHR6d0ljSnZRMW5WclZ0SVJEN2hyLXYycmVfUE9DTkNjSGt4aFZiX3RiaVppVlFXbjVUb091akhwUDd2RnB5M2JWYnIxN19mdmFva2FyWlkxM1g3Mk9PMFBMdVhDb05FUERDY9IBcEFVX3lxTE1xSTBSNTgxRTBreDVXaTVnWjZkcnloWENHNWZlSHNpQ255OXZ0ZXdvUmlvSDFYaWxCemNiQlRvYWdBbUV3bmhKR2hUSnhfRWM5MHduaVpMOXhvMjdGM19FaUx3b1BNSHZtZDRRbzV4UGk?oc=5",
       "publishedAt": "2026-11-10T10:17:26.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -182,7 +344,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15dEVBTTVvdmJ2elI3b2hFN1NJTW1QWm54Z1ZfdUFILVhwWHFSekRTQ1pMNGp6LWl2WThBeWxybXYwenRBTVlZRHhHcjBUeUdKcGZzYXptc055d1hpVDZjTTZkYWI1UkxVRVFoZtIBcEFVX3lxTFBmdE5IMDdCYm9QbGdFaUhYdVBrNTVYZzVWUVM3dXI1OFBmNzFMX0pXM1d3YzRVeDc5TjhLWEJWNEtxcTZ3ajhpN3JESWhuRmoyOVEyREVJWDRKQmFvZElUei0xZDJKMVY0YncybjNEcGM?oc=5",
       "publishedAt": "2026-11-10T06:49:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -204,12 +366,39 @@
       }
     },
     {
+      "id": "ef52cd2fa7c5cbc5",
+      "title": "건물 철거하다 실수로 한전 전선 '싹둑'…속초 설악동 한때 정전",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTllUT1RkX3dTYXdlOFlhQmdaM29ndEtJOUFIR1I1OXBuUnlfaEdyY2Z3bWhIUi1sNy1vaUN2VHJzQlN3U0tSVjQ2LU1JQjJLWDdhaXIya2xJYlNkTUpkUdIBYEFVX3lxTE5FTllUT1RkX3dTYXdlOFlhQmdaM29ndEtJOUFIR1I1OXBuUnlfaEdyY2Z3bWhIUi1sNy1vaUN2VHJzQlN3U0tSVjQ2LU1JQjJLWDdhaXIya2xJYlNkTUpkUQ?oc=5",
+      "publishedAt": "2026-11-09T07:50:57.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "건물 철거하다 실수로 한전 전선 '싹둑'…속초 설악동 한때 정전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "3701ef7ea1642fe2",
       "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LNnctWGYzaUNESFRvdFBCOHBneHNCNWVXcFc5alYzeXM4dFh5X3ljNXplc0V4SmlKLVJfckxIZlRBWmRKa01xS2NOTkh5TzREYk9qR0t2MlNxdw?oc=5",
       "publishedAt": "2026-11-09T06:03:48.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -238,7 +427,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rZXdGc1AwY2NjWlVUOEtldzkzU29mZENneVVSTDdQVkhjM05keGd1TTRkZF9IMFE1TllXb2RNbzFZN0M2WGt6dEJvLVctUWVicFdTYmozQUFQdFFmV2l1Tjg4bGxUeWpFZ0FFR3VqRG5tdw?oc=5",
       "publishedAt": "2026-11-09T04:31:26.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -267,7 +456,7 @@
       "source": "일렉트릭파워",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQVWhPNlpUZjkzRm9wUHNLRkEtcVlpMWNZMFVVSHY2QjdoTWxsOEF1eXFyNmZXLWllUVE5NW5LZE95VXZGRmFiUjBXVUo3LWhhSTJybEZaSkZzMjJTTEF5Ui1zdS1zdw?oc=5",
       "publishedAt": "2026-11-09T02:28:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -294,7 +483,7 @@
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSFhkY0F3anpQUnZ1MEg5ejRhMi1Sa19kUGZQTGJyVENDc2dzUS05SVFxcjl2dU9iZVNYLVpMSHRhdDNZamxmZjB6OXNCcVdoRXkyTUU2cm1KdzA?oc=5",
       "publishedAt": "2026-11-08T22:05:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -321,7 +510,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94bFpNWDJwTlNVOUQ1UG5OSm51YllrN2hiMC1tUXpUOHRmYk9aVkUzVDN5UTM1R0l2NFBPWkVIZUs4cElEUmZZLXppdndyVDZHQWo4cW0tMnN2eDY4TVozS0FCbw?oc=5",
       "publishedAt": "2026-11-08T06:17:03.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -350,7 +539,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tS1dwWEdtY1pmZE5kNzRZSmR0VzNmc05GMER2WHZFYVBIdkh3QklEOTl0VUF2S0sxeXhoUHRsX1dVMUZENDhLRFJsNUE4eGIwSUd0YldEWDQwVUs1NE56Wi1uRjlGXzR4QThIRnJ0SlNUb2s?oc=5",
       "publishedAt": "2026-11-07T21:00:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -369,202 +558,6 @@
         "confidence": 0.35,
         "positiveTerms": [],
         "negativeTerms": []
-      }
-    },
-    {
-      "id": "afd91223fe68e204",
-      "title": "'석진욱 감독. 복귀 승' 한국전력, 대한항공 격파",
-      "source": "YTN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdklnN1NFZEpiZldLdzRrdlNMcVFwcVRacTM5S3dEU1BNYkV3ODkweHVGYk1uOFRQaGFRbmktV1F1SkpPTGFGOVh3aWllTVlTZFotS3R6b1hKeERFLUdyUnUzenhOaEItV2tNcF9xVjNKel9hOHc?oc=5",
-      "publishedAt": "2026-11-06T13:04:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "'석진욱 감독. 복귀 승' 한국전력, 대한항공 격파 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e5bb9af90f46d6d7",
-      "title": "'쇼 26점' 한국전력, '디펜딩 챔피언' 대한항공 제압…시즌 첫 승리",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vczNGMDRXRVdnUmt0ZEUyVWtQQ0dBaXcxNS1vVHlCSy1MNUFHMUUxZHk5WHQ5eHRLR243SUhIM2ZQeTcwcUQ3UUtJNmdabm05VHFFeHl2bkNQQQ?oc=5",
-      "publishedAt": "2026-11-06T12:39:47.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "'쇼 26점' 한국전력, '디펜딩 챔피언' 대한항공 제압…시즌 첫 승리 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ffcbae1cb471e8c1",
-      "title": "한전, AI 활용한 전력서비스 개선 추진…외부 전문가 자문위 출범",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NMzdhQm1sejhBRXlaanhrT2dteXdLSFAwaFVZalZEcUE5NGlVa3lSOGJwaFVaWlF5aVV0YjZ3M0tqdkhmaW9jcmpfUWozaWF3ZE4zRGZzNWFGck00a0J1UDU3TW9iS1U5VVVhSmdBVGkzQXZveVNEc9IBeEFVX3lxTE9NMzdhQm1sejhBRXlaanhrT2dteXdLSFAwaFVZalZEcUE5NGlVa3lSOGJwaFVaWlF5aVV0YjZ3M0tqdkhmaW9jcmpfUWozaWF3ZE4zRGZzNWFGck00a0J1UDU3TW9iS1U5VVVhSmdBVGkzQXZveVNEcw?oc=5",
-      "publishedAt": "2026-11-06T08:27:47.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전, AI 활용한 전력서비스 개선 추진…외부 전문가 자문위 출범 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d033e7f92a463290",
-      "title": "한국전력, AI·디지털 기반 고객서비스 혁신 추진…전문가 자문위 출범",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Tc3hRaDhSRlNGWWlXY1l5QlJBQ3dlYlZrc3ZUWHhtVGlvM0J4WmVCNXFMai1JVkhNcDhMNjlWQUlnY3ZPZlh1RWNMSnphaHo2QUZZcnUwYjFuRnA4V2Q2V2JjTms?oc=5",
-      "publishedAt": "2026-11-06T05:48:22.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력, AI·디지털 기반 고객서비스 혁신 추진…전문가 자문위 출범 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "76c0faf9b6587623",
-      "title": "김천시 율곡동, 한국전력기술과 지역 발전 및 상생협력 방안 모색",
-      "source": "데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xLTdlcGp1MHFYWTh4QzR4TUZvZ3ZVcXNwT1pEcktiVGU0LVNCbmJKRjBPSmhfQ0RTWHRtdnJQZks4bkU2TDZ5ajZaNGZLbkZtYnFnY0MyQzNpVFgwV3h1ZTRkTVNTdw?oc=5",
-      "publishedAt": "2026-11-06T00:28:26.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "김천시 율곡동, 한국전력기술과 지역 발전 및 상생협력 방안 모색 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e0b2683e579d3763",
-      "title": "한전, LS일렉트릭에 전력설비 예방진단 기술 이전··· K-진단기술 민간 사업화 지원",
-      "source": "일렉트릭파워",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kam5UOHJUUTRwdm14RE9tWWZ0NFFKN004aFFJYXY2anFkME84VmtMVmRZek55NVZhZTdSMUpaZXUzZmlnS0ctZUY5blpPaThtSkhMZTlYNERsUVR0akx0b2JreDRWUQ?oc=5",
-      "publishedAt": "2026-11-06T00:20:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        },
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "한전, LS일렉트릭에 전력설비 예방진단 기술 이전··· K-진단기술 민간 사업화 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fe4fad75a6d88033",
-      "title": "'13조 흑자' 한국전력, 산재 지옥으로 전락…5년간 33명 숨졌다",
-      "source": "땅집고",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1veXVyT0duVXRoYThMM01SVUlkclQ3Uzh4M3BCNUNrNlc4NDlQZmVoRENqT3FGUERpWUdVNmdlZl9VWk1pcWZGNmY1bWtMSFVmNUdLS3ZoWFBQYVV1RVg2XzdTdEhsc2NRdC1XSndzYlZoRWZOOFBwbHo2ckc4WnPSAXNBVV95cUxNOGUxZlB6VWVIaGZXN09QX3VDUDNMc3BUY0NOTi1RcFlxalkyOU9wN3lpWWJieHh2b0hwNVRlUnY5YkFaMl9tTUwyUmNwLTdSS2FUUzZQVVF4OXkxemswazVrUWMyWnlOT0U1TzZMcTNTV0R3?oc=5",
-      "publishedAt": "2026-11-05T21:00:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "'13조 흑자' 한국전력, 산재 지옥으로 전락…5년간 33명 숨졌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.4,
-        "confidence": 0.68,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "고용 문제"
-        ]
       }
     }
   ]

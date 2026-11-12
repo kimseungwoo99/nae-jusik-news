@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:30:08.733Z",
+  "generatedAt": "2026-11-12T15:41:14.778Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,103 @@
   },
   "dailyBrief": "오늘은 반도체 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LG화학, 日 주도 HBM 접합 소재 국산화 확대",
-    "여수, LG화학 여수공장 IPA 생산시설 증설 검토에 행정지원",
-    "LG화학, 청년 직무교육 1기 수료생 배출"
+    "여수시, LG화학 반도체 소재 투자 행정지원 추진",
+    "LG화학 여수공장 신규 투자 소식에 지역사회 기대감↑",
+    "LG화학 여수공장, 반도체 소재 'IPA' 생산시설 증설 검토"
   ],
   "articles": [
+    {
+      "id": "859c5c1b87c3b5cc",
+      "title": "여수시, LG화학 반도체 소재 투자 행정지원 추진",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Tmt6Tzl5TUZiZnRqM1Eza3BSczlUamYwNTNQMkNzQU1fZ3NxanUtakJ2ZUVWdWlzbUFDTFhNeXpvblczczZjTVB3eWZaOHdTYnc1d3BvMDEzYWlwZlBoOGxnRDk?oc=5",
+      "publishedAt": "2026-11-12T00:47:05.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "여수시, LG화학 반도체 소재 투자 행정지원 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "921ab60243343964",
+      "title": "LG화학 여수공장 신규 투자 소식에 지역사회 기대감↑",
+      "source": "남해안신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YlNJNkZuT2NiV2JRUlFhc3lIN3RWMnNYTTItV3h6VGZaZkJDTG1mNkQtZkdkcXlOc3c3MEREenRsM3BzZ05uOWQwR0JrTUZyUm56RUlodlpaSWdMRDZobGotTkhMa3Vu?oc=5",
+      "publishedAt": "2026-11-12T00:32:50.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 여수공장 신규 투자 소식에 지역사회 기대감↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.28,
+        "confidence": 0.62,
+        "positiveTerms": [
+          "기대감"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "850a2a16fed76afd",
+      "title": "LG화학 여수공장, 반도체 소재 'IPA' 생산시설 증설 검토",
+      "source": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcnVjMEZndHNfUnlkUE05Q2dBNk1YQjllVzQyd3k1U2VicjRRRWNOaUppWGpVV1lULU10S2M2UkU5NTNVZVRFQjVVdFZrZXZ5bVZ5SnFiSmdPd2JoU2c3bA?oc=5",
+      "publishedAt": "2026-11-11T09:28:56.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학 여수공장, 반도체 소재 'IPA' 생산시설 증설 검토 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "confidence": 0.63,
+        "positiveTerms": [
+          "투자 확대"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "970940a48dfd46d6",
       "title": "LG화학, 日 주도 HBM 접합 소재 국산화 확대",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83UFpKRGRGQ2FyVjRxYUlhc1Vtd0kxWDJ4MHA1ZGJsbzk4UlNtOTQ3WTlXTDE1TkE0eG9mZlVzalptOXF6OHFzZWVXRjlyZw?oc=5",
       "publishedAt": "2026-11-11T07:31:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -42,12 +127,12 @@
       }
     },
     {
-      "id": "2b5f8aa0aef66aa7",
-      "title": "여수, LG화학 여수공장 IPA 생산시설 증설 검토에 행정지원",
-      "source": "AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55c3FhVDlpMmpXVEo2RXhfVndHd2VTdXBZRTJCZVFVX0ZJckZiTm9lLXlwTVZ0YmhBaEE4NVkxeGdqcE1uUHRnclhfd0RLZDEteE0ybEstLXo5ekVjUi12Y25CakxtTjVScWc?oc=5",
-      "publishedAt": "2026-11-11T06:40:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "id": "85b7be2d6de0c6fd",
+      "title": "[현대차, 독자 기술의 길下] 배터리·반도체 품는다…미래차 주도권 사수 총력",
+      "source": "투데이신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PVXRYTDhLZTBsWGZ4bUo5d2tySm1XbFgxejhIbmNsYzRxWTBiRVVPMjlJYklzTUdCemNhS19Uc1Y2QUJJRXFUT0ZKcWVnTHdVMFdpbjNBRFl3aFZpYVVZUXpPWXNkVjVQMHlhSFZmc9IBb0FVX3lxTE1PVXRYTDhLZTBsWGZ4bUo5d2tySm1XbFgxejhIbmNsYzRxWTBiRVVPMjlJYklzTUdCemNhS19Uc1Y2QUJJRXFUT0ZKcWVnTHdVMFdpbjNBRFl3aFZpYVVZUXpPWXNkVjVQMHlhSFZmcw?oc=5",
+      "publishedAt": "2026-11-11T06:22:30.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -58,15 +143,13 @@
           "ticker": "051910"
         }
       ],
-      "summary": "여수, LG화학 여수공장 IPA 생산시설 증설 검토에 행정지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "[현대차, 독자 기술의 길下] 배터리·반도체 품는다…미래차 주도권 사수 총력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
       "sentiment": {
-        "label": "positive",
-        "score": 0.3,
-        "confidence": 0.63,
-        "positiveTerms": [
-          "투자 확대"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -76,7 +159,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZXdFT09wcF9mR0hIRDZSSUc3ZXotX3JYV0FTRWxjbGFUR2NiM1dIcHBMeWtrQXh4ejQ2Nno0XzJiZ3JGbFJxc3IzU0hnYUx6TUFxYVVNbjE0Z2NkSUVHakx1cmtndw?oc=5",
       "publishedAt": "2026-11-11T02:18:01.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -98,12 +181,41 @@
       }
     },
     {
+      "id": "59669fda577b8b73",
+      "title": "석화공장에 반도체 소재 심는다…LG화학, 여수 IPA 증설 검토",
+      "source": "뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcjQ4ZmZVcjRzZFhHYjdZelNHVXVkNEh2Q0RLX3l1NjR4UHNmOUhhQWZjcFlfTDVzUFc5N1gzVFZKdG91LUZ4TUs5LUFjcjZtMm1ramdQQnlVb2ZDMVFKbWlDQmpiNXdYU1ow?oc=5",
+      "publishedAt": "2026-11-11T02:09:48.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "석화공장에 반도체 소재 심는다…LG화학, 여수 IPA 증설 검토 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "confidence": 0.63,
+        "positiveTerms": [
+          "투자 확대"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6f08bfb7f9e923c1",
       "title": "석화 자리에 반도체 심는다…LG화학, 사업재편 신호탄 By EBN",
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQjFvbkRQTVpod3VnbzVWTllmWGtqeFdPNmNhRTFNMWRVbzd3T3BTYmVaX2IxcXJCR1NIYTJRZmo5TWdnVmVFY1RDeElpT0Fua2g0ekZua1JXdVFEdWRSeHhpSnNoOFAzSG5iaHN2cVI?oc=5",
       "publishedAt": "2026-11-11T00:09:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -125,12 +237,39 @@
       }
     },
     {
+      "id": "d80e4d0d21f2c3d5",
+      "title": "석화공장 자리에 반도체 소재…LG화학, 수천억 투자 검토",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZG5ldlZ3VDVvdEVqLXRMTlo4bWp5NkhZQ1ZvVGcwNGZBMVVnM2hjZVdqaDJoeDhlanhGbWYtVmRRZEd0cm5vUVZvQzBucC1HanJ4Ug?oc=5",
+      "publishedAt": "2026-11-10T09:06:00.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "석화공장 자리에 반도체 소재…LG화학, 수천억 투자 검토 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5b7c8b3b1b23d000",
       "title": "[단독] 2.5조 실탄채운 LG화학…석화용지에 반도체소재공장 짓는다",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWHhYWHFsc0JDMGpocDlXSnltM1JGRUNEc2ZQU3RUUEVtUFk1TURGX0hSOTdZbTRVZml1TWtQMFNGRmtlSGRwMDlVbTY1VVhfNEtPLUZ3?oc=5",
       "publishedAt": "2026-11-10T08:44:35.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -152,12 +291,39 @@
       }
     },
     {
+      "id": "c7fd4664b041f09e",
+      "title": "석유화학 불황 속 엇갈린 방어력…롯데케미칼·LG화학의 사업구조",
+      "source": "더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pY3JfQTcwUHVrQTExaG5rQ2E2elhGclM0VlBoNXBVSGo3U2JkSERCcHlhRW8zZTNMVnVFb3JWZ1k5R0xOYl9McUlhMUUxWnkta2IwRGpyS28?oc=5",
+      "publishedAt": "2026-11-10T07:49:28.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "석유화학 불황 속 엇갈린 방어력…롯데케미칼·LG화학의 사업구조 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "110c4360bf0dca04",
       "title": "LG화학, 범용 버리고 반도체 소재 집중",
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdkFWRmYwYUpaWUI3OTcxNG9KTFZvdUl4UnRmMWNPdWFRLWJlTnFTUFNZQzVoU0VjOHJscXlDOHlxZzkwVFk3anJ4T1ZpcnVDcU5BeVRR?oc=5",
       "publishedAt": "2026-11-10T07:03:38.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -179,12 +345,130 @@
       }
     },
     {
+      "id": "3e209bb8206a406c",
+      "title": "한때 배터리 강자 ＇LG엔솔＇, 중국 독주에 점유율 8% 대로 추락 [박한샘의 돈이 되는 기업사]",
+      "source": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKZmdhVGFvX2htMGVhTVlsaXdaOGFIRGdyVnJDbWx6R3Y3cV9JakJxbEU2VGhvR3RsbV9iV0hsX044Vnc5dGRHelBoNWYwVEtKWlZwTzN0RGhZaklTcGR1aHBEWi1TcnFvajZyU0FUbnN6b2c?oc=5",
+      "publishedAt": "2026-11-10T05:02:00.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "한때 배터리 강자 ＇LG엔솔＇, 중국 독주에 점유율 8% 대로 추락 [박한샘의 돈이 되는 기업사] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f9f602b1c8a02c4f",
+      "title": "LG에너지솔루션, AI 배터리 진단 기술로 CES 2027 혁신상 수상",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KU0hfWlhzamtxZjBIMTQzLTh5d1BEZDBvbExJOHZITkV6X19tTXpGMHJob2hoYWVjSGFVOGpuQ3BsdDR2TERoOHpZYlA5dw?oc=5",
+      "publishedAt": "2026-11-10T04:49:33.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG에너지솔루션, AI 배터리 진단 기술로 CES 2027 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a7208381c4086996",
+      "title": "LG엔솔, 배터리 진단 7시간서 10분으로 줄여 CES 혁신상 수상",
+      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oNy1ZOTktR2lWWWpuRDZjVlFud0wtVFRGa05EZC1sNnJqMVNZWUNGRVJhMC1CdUZnVms3Rk5GR0UyTFEtRU1XUFpBSQ?oc=5",
+      "publishedAt": "2026-11-10T02:05:18.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG엔솔, 배터리 진단 7시간서 10분으로 줄여 CES 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "792bff0571d39449",
+      "title": "LG엔솔, 7시간 걸리던 배터리 진단 10분으로 줄였다",
+      "source": "스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NdjloaVNub2tES0IwTFowcWV0RmxPb0dZcjFPU0xlZlNNN09kLTZORjUtMlNzWkhTWWI3MS15THZsMndzR013aTBQalUwNEc4QjJvd3VYMUU0NHNYUzQyZ1FDUnlTeFhJLVcxdQ?oc=5",
+      "publishedAt": "2026-11-10T00:36:43.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG엔솔, 7시간 걸리던 배터리 진단 10분으로 줄였다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8de9327affc5e216",
       "title": "현금 마르는 LG화학… 차동석 ‘15兆 투자·주주환원’ 시험대",
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYnhKamloVklYeFllUUp2eWczSkNyR0Zsdm1aQXNVWExhb253dUh2U0t3NzJIR3RCMnQ4Smx2WDQ4NnFRNUFjd2FoUkVfYWNSb0pGNndMLUdIT0Zlb2tIYWY3RzZrakppVG5ETlVn?oc=5",
       "publishedAt": "2026-11-08T08:34:27.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -211,7 +495,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56aU5iSVNCTVctaFBmTTgxNEtVR2xTa3djbkJvYXlYZldEVkgwVkhMOTJDSUtxMVI4bXhQTG1ESVlYOEdTVG1xeVNtYUducjVuN1JlOXFMX1Nrd0RTQUJNYU1TLWJ0bUllV3pLcUk3dzZ3d9IBdkFVX3lxTE9zT3ptZ1o1SWE2XzBCQ2NaaWN5ZWdUYWtScWs2Q1NxdEpUOEU1SENrXzdpN2lqME1QeEN6SWhyVTQ0X2Fhem9uM2hQaHk4MU1CVzN5akVVTENjdmtHbjNPR1FzMTBKRWpLeEFOSndKb3g5Yjc3Nmc?oc=5",
       "publishedAt": "2026-11-08T00:30:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -233,203 +517,12 @@
       }
     },
     {
-      "id": "df69abc71a58c5a8",
-      "title": "[분석] LG화학, 배터리가 떠받친 3분기 실적…석유화학 부진은 여전",
-      "source": "비즈트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVG9aVlNxN1RQWU4tOFZJT0s1a012MGFBV0FzTmJYTXlYN19NX1B1S1dfbnVNMkcwNVNtdlhvZG44VTd0eklqX1BGc1d5WFV2TEM5dm1PUldrMUZXaklLUGZ0NDdOczcwZTNYeE9RWHA?oc=5",
-      "publishedAt": "2026-11-06T05:28:24.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[분석] LG화학, 배터리가 떠받친 3분기 실적…석유화학 부진은 여전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "실적 부진"
-        ]
-      }
-    },
-    {
-      "id": "f31d378ee3fca1f7",
-      "title": "[리포트 브리핑]LG화학, '석유화학 부담 속 배터리/소재의 회복' 목표가 360,000원 - IBK투자증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XdnhhMG1nSWJ5dUJhLVVBRHFBaEtRMFB4S0hYX19aT3RLal8yanNGeWI0ZjFMaTdCNVl5NzBNaFlmcjBnc0ptWWpBM0F5b1FwN3ZWVW8wdzhxX25X?oc=5",
-      "publishedAt": "2026-11-06T01:43:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[리포트 브리핑]LG화학, '석유화학 부담 속 배터리/소재의 회복' 목표가 360,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eed685b27b03e462",
-      "title": "[버핏 리포트] LG화학, 석화 1756억 적자...배터리 이익 회복에도 목표가 28%↓ - IBK",
-      "source": "버핏연구소",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UWjVwRTZwVzhIdnBXcHZlSV8ySnc3UDY5S1FTbWFUTkVybUdNT1FZN25sckNuQTZmSEcyLU9rMzZocHlENzVXQVp6S2ZRZFJsSjZpWDBldE5UWlNT?oc=5",
-      "publishedAt": "2026-11-05T23:01:07.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[버핏 리포트] LG화학, 석화 1756억 적자...배터리 이익 회복에도 목표가 28%↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3de4ff93323cb308",
-      "title": "LG화학, 2조5천억 자산 유동화에 이차전지 성장 기대-NH투자證",
-      "source": "PRESS9",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcG1oLWpUNUQzQV9KRmxMbXR1WURmYlUtR3J3dWRUQ1hqdmgwQVZ0TFpWQ3ltTzVEcWgwcjMyaHpueWdHT04wNzBpRTJ4V0pEeHhNbXQ4N3Ztc0puRmh6Q2haOTU?oc=5",
-      "publishedAt": "2026-11-05T22:56:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 2조5천억 자산 유동화에 이차전지 성장 기대-NH투자證 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "362c1b62d0d30b65",
-      "title": "LG화학, 석화 부진에도 배터리는 웃었다…4Q 수익성 회복 기대",
-      "source": "투데이신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04X1RuMUVnMmNGdWNjaUJxaWNXdk9TcXlUYVYwMTQ2ZkdkZlVTZlFFTVJpWDBjVGk0MVA5LVRkM0xzazZhRVA3NjBjZEhxYzRxV3EtZndmUl9yZjctRWxaemZZc0I2NW5qZ19R0gFvQVVfeXFMTzF1QjJrMU1EQ2pTLVUydE51VDR5bU1HUEF3emdZREpoaC1FZmtjTjQzbkpPWHpEX05WT3Y5V2QzY1F2YjZTdHFvR1VnbUhacThlbFJuSl8yZm5HV1lYRThuU1djM19sdzVZa2F3NFRJ?oc=5",
-      "publishedAt": "2026-11-05T10:03:13.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 석화 부진에도 배터리는 웃었다…4Q 수익성 회복 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1dae26ba3707c1c9",
-      "title": "LG화학, 3분기 영업익 5612억…전년비 17%↓",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRXV6TThLbmVwbEZQd2ZhREMwSF82TlBvRU80dDdTZ2ZPUy0tSExRYlFEb1p1T0xvVUlWV28zSUtSRGVqbkVMLWhTdWgwcjFsdFJ1S3ZXdUJMN1ZyUHFkNnlhRi1ldw?oc=5",
-      "publishedAt": "2026-11-05T09:39:20.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 3분기 영업익 5612억…전년비 17%↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2c8ec97d1a75f30b",
-      "title": "LG화학, 석화 적자에도 배터리 선방…내년 양극재 출하 2배↑(종합2보)",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02cnhmVmF0T2M3d1R3U0ZUOWpGR1hmTWVBZS03RGdXc3BIR3FRS0t0VHJLZm1JcDZPTmlObUNIbjhkNE9MeG8wN0xoRWtaUWdsXzhkN21hNFppVkxzYXpPb0ZLdm0?oc=5",
-      "publishedAt": "2026-11-05T07:20:21.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 석화 적자에도 배터리 선방…내년 양극재 출하 2배↑(종합2보) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "29827fa6e838dcc6",
-      "title": "LG화학, 석화 부진에 배터리로 돌파구…내년 양극재 출하 2배 전망",
+      "id": "c315c78e172c1c51",
+      "title": "中지린OLED, LG화학 특허 무효심판 청구",
       "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gb1MwQ2pXUllRWjJ1T0VuU1pmR1FZR1QzZ1M5Sm5LUTNaNl9qQ3l5LXBKMHI2OVRZVUJ2M3EzTG1ZZmo0QnJDYTd3Y21palpnNjBfSHpB?oc=5",
-      "publishedAt": "2026-11-05T06:58:34.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jU0dYcXE3U1Ftd1F3WjRzT0E4LWxERmpDLUQxNUYtSzBfTW51TjlBYkVQOHhVaFlNMC05WHN4WXBzS25NdFlDRXh1QTlvQUVRZlBWMzhn?oc=5",
+      "publishedAt": "2026-11-07T13:22:49.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -440,36 +533,7 @@
           "ticker": "051910"
         }
       ],
-      "summary": "LG화학, 석화 부진에 배터리로 돌파구…내년 양극재 출하 2배 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cb14df50066a5189",
-      "title": "외형 커졌는데 수익성 뒷걸음…LG화학, 석유화학에 발목",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTDBWRUppV1g0RXRldWxHb3hYS0ZYYTJsVlFCZ3lxVVcxMlNGN0pQZHZDdFlDUVpsTGtnNUlwY3hucFNXU2RseW9yQUZCS05mcFhmUUF5bmJaZGxDa2RWOFBmT2ZzLXZnelBYZQ?oc=5",
-      "publishedAt": "2026-11-05T06:39:03.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "외형 커졌는데 수익성 뒷걸음…LG화학, 석유화학에 발목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "中지린OLED, LG화학 특허 무효심판 청구 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -480,12 +544,12 @@
       }
     },
     {
-      "id": "7370d13805443db0",
-      "title": "LG화학, 배터리 호조에도 석화 적자전환…\"엔솔 지분 활용해 주주환원\"",
-      "source": "인베스트조선",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWtyYjRGMmFzRW5JUmpOcWVfdWx2S2dEeGJzTW5YcTIzRE9hY3RLOFNRVC1rYjFjd0czLWFhMW1BdlppV2dDUzNzOTRSR3FvTkJ5NnJfZ3BzS3JReDRydUFPMDd6OHNaY1JodXRtU1VYTEJvRnhTcUQ4bkgtbGQ1ZFJsZw?oc=5",
-      "publishedAt": "2026-11-05T06:21:00.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
+      "id": "6bcd02772d9cf74e",
+      "title": "\"핵심기술은 못 나눠도\"…한중 배터리 협력 가능성 주목",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT195cDgydF9FLVZOSDEwUDE1VU5tdHhTa1lHWVU2N0VXS0dWcmhENmIzanRtUmtGMVVwNmxTVC1ZZ05ETGtrRmVhQk9yTWd1YkYxWHRBMHdvSk0xaEJ2aEJuZkptWWxFQWYxaXg5cWV1RVpZWTc3QTdBODNkekZHbHlBWmlrdw?oc=5",
+      "publishedAt": "2026-11-07T12:02:13.000Z",
+      "collectedAt": "2026-11-12T15:41:14.778Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -496,64 +560,8 @@
           "ticker": "051910"
         }
       ],
-      "summary": "LG화학, 배터리 호조에도 석화 적자전환…\"엔솔 지분 활용해 주주환원\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.52,
-        "confidence": 0.74,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "적자"
-        ]
-      }
-    },
-    {
-      "id": "90fc579c0d0a446f",
-      "title": "LG화학, 3분기 영업익 5612억원…석유화학 적자에 수익성 하락",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zejg5M0RzRFlLRDM3d19PeXVmSDltUEpnNW9KTWZXNUpIN2pZR0NyWVk4Q2pTcFk2N2E0TDA0Y0pGWGtHME9TN29Fb2hpdXpCdmU1b09GTl9BZTY5dHk3eWVIMXU?oc=5",
-      "publishedAt": "2026-11-05T06:17:31.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 3분기 영업익 5612억원…석유화학 적자에 수익성 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "446cbe65d1090374",
-      "title": "LG화학 3분기 영업익 17%↓…고유가 부담에 석유화학 적자(종합2보)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCaldiSkNjYkFocG40S3Z2S3VqUElXN1JCdDZ5VlMteWc4QVJ5RDBtckJWckNpWDZfemdhVWFwMjl0RDl6Wk5BcjU2eHVQb01hOTBRdVhtMlJvc1XSAWBBVV95cUxOTmJSOVdaMXNsV1p3Y0ZBNGF2cHpCeW1TS2RNaUdZRmtfbWt5OGFxUTFsTUdzWEhlaDJmbG1UODBoNUVESHYya2czSDZ3bUZRVTBvRkZ5V1JHOWZQRnJvS2g?oc=5",
-      "publishedAt": "2026-11-05T06:08:51.000Z",
-      "collectedAt": "2026-11-12T03:30:08.733Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학 3분기 영업익 17%↓…고유가 부담에 석유화학 적자(종합2보) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "\"핵심기술은 못 나눠도\"…한중 배터리 협력 가능성 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
