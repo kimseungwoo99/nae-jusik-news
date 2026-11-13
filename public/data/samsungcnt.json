@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:41:14.778Z",
+  "generatedAt": "2026-11-13T03:03:27.547Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "삼성물산",
     "ticker": "028260"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "압구정·여의도·성수 싹쓸이…삼성물산 '초대형 수주'",
-    "라이온즈 우승에 계열사 들썩...삼성물산 패션 '통큰 세일'",
-    "[어바웃C] 오세철 삼성물산 대표, 임기 말 '래미안·하이테크' 쌍끌이"
+    "건설사 도시정비 수주 훈풍...현대·삼성 선두 속 중위권도 약진",
+    "'프로야구 우승'에 삼성물산 패션 나선다…빈폴·아미·꼼데 할인",
+    "압구정·여의도·성수 싹쓸이…삼성물산 '초대형 수주'"
   ],
   "articles": [
+    {
+      "id": "c00fdb6ca4f2aff5",
+      "title": "건설사 도시정비 수주 훈풍...현대·삼성 선두 속 중위권도 약진",
+      "source": "뉴스포스트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRDROei1ZNWxaeGpHRk9wMVVBOGc4VUt6bVdjSXRBVG02aGJBWURTbEdZd3NMY2xvMVNrcDJHVEh3U3g1VnZfTmdPQnhsaXpscTlhQlZiYi1RdGZBcW1uSjl2MFI3TC1Z?oc=5",
+      "publishedAt": "2026-11-13T01:40:45.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "건설사 도시정비 수주 훈풍...현대·삼성 선두 속 중위권도 약진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8867c0855179cee5",
+      "title": "'프로야구 우승'에 삼성물산 패션 나선다…빈폴·아미·꼼데 할인",
+      "source": "ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WDBrUV9vQ0k1M1RCWl85ZnU3MWRzMjRtV3c3dFdpN2RKX09sb2R6VXFFaDA5Q014UGlIYWFYZEJXVXoxVDk5dkt4Yl83ZV9TTnJWelFQckx0VGVTdklkV0xXVWZrMDRMVld0Wg?oc=5",
+      "publishedAt": "2026-11-12T23:19:44.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "'프로야구 우승'에 삼성물산 패션 나선다…빈폴·아미·꼼데 할인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "fc707039ea9cb78f",
       "title": "압구정·여의도·성수 싹쓸이…삼성물산 '초대형 수주'",
       "source": "경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RDBMaEZSQ053VnRXSU1Fc2IwbGxVSXN1cHpHeWVFWF9OeFNmYUgycnE2REduTVBhU1NzSDdLamZ3d0lWcm5yZHYtMVNOczN4NUh3?oc=5",
       "publishedAt": "2026-11-12T08:03:19.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -49,7 +105,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vRWZhYU90SDNNRE1QQ3ZVZTd6YUZ2ckxYQVlyRGc5TzNyQ1daMVFINkNyQ2s5anB6U2djc2ZhbUctVHd3cWJoTk1ZbnMwRVhOdW1nOGdUSEtkdw?oc=5",
       "publishedAt": "2026-11-12T04:30:33.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -71,12 +127,39 @@
       }
     },
     {
+      "id": "96e1621733551124",
+      "title": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]③ 삼성물산 패션, 자체 브랜드 70% 기반 글로벌 확장…준지 中 2개 매장 오픈·수입 브랜드 매출 목표 달성",
+      "source": "업코리아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dk1ndVZjQUpncGM0OHBjZU1RMGppMEpsdGRpeWQwLVlsVk42QVhHZ05zSEh2WkJXOE1qVlA0aEQwZVowTmZqbzkwblp0U3VJc2dBZldLRl81SEFuN0gzTXMxNjQ3TjlRUGR6S0x3?oc=5",
+      "publishedAt": "2026-11-12T02:38:05.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]③ 삼성물산 패션, 자체 브랜드 70% 기반 글로벌 확장…준지 中 2개 매장 오픈·수입 브랜드… 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "517b32b552cd3886",
       "title": "[어바웃C] 오세철 삼성물산 대표, 임기 말 '래미안·하이테크' 쌍끌이",
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lUFhRTWVOMV9rZG90TFRDTy01dlFHaGVtZlF0NjZ2cXFyaWNaaE5xdEtvREZqYUNydWJSNEhjMldCNF9MM1E?oc=5",
       "publishedAt": "2026-11-11T08:28:52.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -103,7 +186,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzBEa2REaDlId1dvY3BrZ18yRmQ4MExPTUZINmR6TW1HMEhveDAzNTl3aW42QWItT2VVYmJfcmsyV2ZDejFyRmdRV2ZTOW9CZkhsVHUxcno2R1E3T0xkS1lEekQwellycnotQlozVUpDbHZDaEhLMncxcFJDMWExV3RR?oc=5",
       "publishedAt": "2026-11-11T06:37:52.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -130,7 +213,7 @@
       "source": "대한경제",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yazZ4ZDRIVjNJdFpaWV9iUzdjaUVvU24zRGFKNnIyMkZfbHlSZ0N3eVhfTmZ5Z0NhRkI0WDdYREZJWkFDQkpBeVpkdkFoa0oxZ0l3bXF4Sm15Wld1R1JxR0ZrOGtaTXUwMk1tTnJFYXY2S29W?oc=5",
       "publishedAt": "2026-11-11T05:57:39.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -157,7 +240,7 @@
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1UXh5c2w0RFoweVN5SExCdG5tNE81WFlMS1FlX3dhYno3TGpJUTRfdXg0aFZHZUJpZUhqT3RpNm9meW02aHc1NjRybTVpSFZUNnhsU2VKLUZPNjRjSmpudlVCNTFwNU1TdHFaMA?oc=5",
       "publishedAt": "2026-11-11T04:47:45.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -184,7 +267,7 @@
       "source": "Daily NTN",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ocnN6b1pkcXZNbExDOFZLS3FjRFZiYnJEYjN6My1oRVFkVndVYkdVZW5Md1I3aVhmTmlCSGJoSWRpN2tjTkNuMEVBVGRnVUJlVDRMTE1odmRlWTFucnpfODRzUDJMZlItZ0E?oc=5",
       "publishedAt": "2026-11-11T03:00:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -206,41 +289,12 @@
       }
     },
     {
-      "id": "1777414a342c6010",
-      "title": "'목동 첫발' 삼성물산, 9단지까지 노린다…내년 수주전 선점 시동",
-      "source": "미디어펜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBM0dNNURTZExhUzlfRTdRb09obGZNeHBlWUZRRkxtakF4ZTJGNFNGdmV0UTEyend3bVFKNk5CTFdTcUVmTl9SYTVPX1dTMWRjdGxuU1RPbHHSAVhBVV95cUxQQTNHTTVEU2RMYVM5X0U3UW9PaGxmTXhwZVlGUUZMbWpBeGUyRjRTRnZldFExMnp3d21RSjZOQkxXU3FFZk5fUmE1T19XUzFkY3RsblNUT2xx?oc=5",
-      "publishedAt": "2026-11-11T01:19:53.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "'목동 첫발' 삼성물산, 9단지까지 노린다…내년 수주전 선점 시동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "096da8c3d7eff43b",
       "title": "삼성물산, 건설 성장·신사업 확대…기업가치 재평가 기대",
       "source": "프라임경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONm42RXJOVGs2VlhJQjRIUlFZdWNOdDBqRnBwZTZuRURyLTlnWEpkUWxHQ0d5YW1OQkc1aGYzZWJ4S2NrYm52M19sRVhJTHE4SHd2bmNQVWdYVlBjTXFfWW11Y2JyUHdzbjJ0cw?oc=5",
       "publishedAt": "2026-11-11T00:01:23.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -267,7 +321,7 @@
       "source": "뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1bFRjeE9PQkw2WWhYSEUwM2VWYVUtLTUzaTI2Ty1lRlRBSUFrSWxiRFd3d2JFLXduVW5aUW5obmxJRFc2RjZ1RjN2b1g5NTVsZHdCWnJIMFdwRDNlUFE?oc=5",
       "publishedAt": "2026-11-10T22:31:43.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -294,7 +348,7 @@
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11a1VvaHNTTGtIcFRLelhsTlZYY1pjNWxEVldVQWFGbWJyRm13U3hQTE5MNXR3aWtROExfdUFZWWcyd3VFRUdJcTdhd0o3Sk1hWW9JbXJTWl9ya3g4R1FmendoeEtzUmtxa0ZncktYVdIBb0FVX3lxTE11a1VvaHNTTGtIcFRLelhsTlZYY1pjNWxEVldVQWFGbWJyRm13U3hQTE5MNXR3aWtROExfdUFZWWcyd3VFRUdJcTdhd0o3Sk1hWW9JbXJTWl9ya3g4R1FmendoeEtzUmtxa0ZncktYVQ?oc=5",
       "publishedAt": "2026-11-10T09:58:53.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -321,7 +375,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cURaMU1HY005OFA3UnJxZ01Ea0o2SjRTZHh0TzZUVjlnM0ItaVZDeTc4bHI2bl92WGlJQkJEaVJIVEJGYjJtWkM1V1JCOUI2WTI1SG1jMmJwSzRRc0JIOWRPTUF6Qi1QN1hGQ9IBcEFVX3lxTFAwbFVUSFlaU29KMUxEakFUR25oNnQ4bXF4T2ZZOFp6RDc3SEZxU3dGMzVhRjR3YmFjMVFSR2tRMUU4Z3NINUdXQW5weXh3Nmd2VHRLYk1vTWtHdXM0djY5UTl0cnMtTFdpckQtY000dTc?oc=5",
       "publishedAt": "2026-11-09T14:10:56.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -343,41 +397,12 @@
       }
     },
     {
-      "id": "02a8ffc8f2ff3345",
-      "title": "[금주의 건설 톡톡] 삼성물산·대우건설·현대건설, 3Q 영업益 2배 이상 급증… 수주 목표는 '온도차'",
-      "source": "미디어워치",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41Yk5KWUxnREYtSUhMdzBmZ2pWNGt1YllMMHJ4UHhmZmZKdGVNQ191TDlNdjk2ZGo0RkV1X0VLeDVZU2FYMzNibHBMa1FFZUpTdjc5ekwwWkNGeEs0ZWJjd2RFaw?oc=5",
-      "publishedAt": "2026-11-09T13:50:29.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "[금주의 건설 톡톡] 삼성물산·대우건설·현대건설, 3Q 영업益 2배 이상 급증… 수주 목표는 '온도차' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5ecf31a7af863b01",
       "title": "[간추린 단신] 충북도·삼성물산·삼성전자, 청년 성장·자립 지원 업무협약 외",
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRnNQMFVObEtZdWQ1akttUk02alRDMXRQYldyZGRuZHJfV2QxeC0zQzFsUExZNlItNzkzeW9tdS1kMUtjTkxJRzlWb3dOZnN4a1Myb3NONmcxazg?oc=5",
       "publishedAt": "2026-11-09T11:28:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -404,7 +429,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXT2RPQ2lXMS0tUG5EYXBodjNPdlR1SVlkYnJqNjBDNVIxVUVkcFo3ME9WTTJDMVBfUG91QzhuaFhmRV80X2lTWk4yXy1la01MN1dJVm92UW4?oc=5",
       "publishedAt": "2026-11-09T08:10:16.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -428,12 +453,12 @@
       }
     },
     {
-      "id": "f750f2ded674b5c3",
-      "title": "실적 반등에도 안심 못 하는 건설사 CEO…연임 가를 변수는 ‘안전·성장’",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBySk9qcUEwY2xVWmpQaE9nQUNsaTc3YXBzcmxseTQ0UU9KaUtmeUJ4b0FvaFNUbWR0UHBPZF9PQThEc1lPUlFENHI0c2tKb1BZelJKZ2tGaGxxWUJNSlRqX1QtNF9xeHJLOV9RN3ItZ0oyQW15UXhz0gF3QVVfeXFMUHJKT2pxQTBjbFVaalBoT2dBQ2xpNzdhcHNybGx5NDRRT0ppS2Z5QnhvQW9oU1RtZHRQcE9kX09BOERzWU9SUUQ0cjRza0pvUFl6Ukpna0ZobHFZQk1KVGpfVC00X3F4cks5X1E3ci1nSjJBbXlReHM?oc=5",
-      "publishedAt": "2026-11-09T06:41:54.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "id": "4c38e285beafde26",
+      "title": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보 By The Guru",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DMFExSWhEalBCcnNPX0VTYVEzYVIydGF5V0JoRHppdFhvYWlmYnZhM0JqdnBibmcxZDVJZVBJYVhQdXI5OWJ5MjE1alFfa2s1Z0ZVTUNQVkJXWkIwQWFpdE04YW5nQ0FaLUNvOUszR2o?oc=5",
+      "publishedAt": "2026-11-09T07:52:00.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -444,14 +469,14 @@
           "ticker": "028260"
         }
       ],
-      "summary": "실적 반등에도 안심 못 하는 건설사 CEO…연임 가를 변수는 ‘안전·성장’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보 By The Guru 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "positive",
         "score": 0.38,
         "confidence": 0.67,
         "positiveTerms": [
-          "반등"
+          "수주"
         ],
         "negativeTerms": []
       }
@@ -462,7 +487,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KMDhqeGxiTDkzZDB4M3NsY0dDVVFDdUhGY3dsZjY4dFhhSHZNdzZ4WURfN2Rvb0ljOW93V2J5dC14VTRtVWR5VnJvOVFzSnprSURULUVaamJCb3NXMHA5Y9IBeEFVX3lxTE1kREt0NzVnUHJ6M2FlVXVaQ2VUdWMzZllqREQ4MTFNQkphTThwb0tGVnFRSmR5QlhtU1o4RVVjVk9mNGxZWVh3MGNibFRtSXpnNkR2SU1MbGF0Y3JFQ2VHMHZFaUJxelJCLW5YVjB1WUhLTm9yVERhcw?oc=5",
       "publishedAt": "2026-11-09T06:37:06.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -487,41 +512,12 @@
       }
     },
     {
-      "id": "7572dc912e94d2b5",
-      "title": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vQkszSVRqRGxOM1Ata1cxM1NkSzl5S3FZSGNVZnlVZGhuQkhoNGxNcmNwUm16M2VWamlUcFZzLVdxeUk1TDVSbHZKNnBVWWc5amtnR0daeU9tX2F5TVktTGI4NA?oc=5",
-      "publishedAt": "2026-11-09T06:34:09.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 2조원대 목동13단지 수주…IPARK현산도 능곡3구역 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "f1c0b16966853780",
       "title": "삼성물산, 목동13단지 수주…AI 주차 적용",
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUR2NSbE1xQm1tWlFoRUQ5MzZfQXI4c3d0NXNYeXBWZ29lZm5RTVluWXQzaHN5c3ZIQVQyS042QW83NUsxOGU3VjNSaTVvbmFiMThxcUZ3?oc=5",
       "publishedAt": "2026-11-09T06:14:09.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -545,12 +541,12 @@
       }
     },
     {
-      "id": "e55743a2e9f90c64",
-      "title": "반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재'",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWG9NRDB0NVhiX0ZLREZuRVAwM0I0cUdfV3hTZVd4YkpCR3l0d01mUExQRkd6ZHhjTGdTVzlaRklXYUlXaW9BeU9KbVRrZjd1ejZZSFg4bWxrTDZYclU5MktvNUw?oc=5",
-      "publishedAt": "2026-11-09T05:35:20.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "id": "78dd498cce04c3ea",
+      "title": "실적 반등에도 안심 못 하는 건설사 CEO…연임 가를 변수는 ‘안전·성장’",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TQlFyYnRGNURaaDA5YlcxMU5YbUY1UHZYY2VIbVJ3ZGhjQWpEMjdERVpFTG5VdHhoeVBiNWRYYXhVOVl1aEFCODM1UjZIQVNUTWNuaUJaRmlha2lIWWJQWjg0Y2tKMnpfNFd6WnFRNzJOejTSAXdBVV95cUxQckpPanFBMGNsVVpqUGhPZ0FDbGk3N2Fwc3JsbHk0NFFPSmlLZnlCeG9Bb2hTVG1kdFBwT2RfT0E4RHNZT1JRRDRyNHNrSm9QWXpSSmdrRmhscVlCTUpUal9ULTRfcXhySzlfUTdyLWdKMkFteVF4cw?oc=5",
+      "publishedAt": "2026-11-09T05:56:59.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -561,13 +557,15 @@
           "ticker": "028260"
         }
       ],
-      "summary": "반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
+      "summary": "실적 반등에도 안심 못 하는 건설사 CEO…연임 가를 변수는 ‘안전·성장’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
         "negativeTerms": []
       }
     }

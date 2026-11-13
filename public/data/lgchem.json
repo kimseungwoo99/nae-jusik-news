@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:41:14.778Z",
+  "generatedAt": "2026-11-13T03:03:27.547Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 반도체 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "여수시, LG화학 반도체 소재 투자 행정지원 추진",
-    "LG화학 여수공장 신규 투자 소식에 지역사회 기대감↑",
-    "LG화학 여수공장, 반도체 소재 'IPA' 생산시설 증설 검토"
+    "LG화학, 美 전자담배 배터리 폭발 소송 재개…주대법원, 항소심 뒤집어",
+    "LG, 3Q 누적 영업이익 1조2740억원…LG CNS·배터리가 성장 견인",
+    "여수시, LG화학 반도체 소재 투자 행정지원 추진"
   ],
   "articles": [
+    {
+      "id": "57d99d00dfeca7e5",
+      "title": "LG화학, 美 전자담배 배터리 폭발 소송 재개…주대법원, 항소심 뒤집어",
+      "source": "KPI뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3andnX0pmMDFIeU1EOEswZ09oUUIxY3JMMDFuMWlMeVBJR2g1cDYzU1RyQV9KX2FFMkhkS0pFTEt4ME9JdDNlVXBMcFU1VWdGZGlj0gFTQVVfeXFMUHdqd2dfSmYwMUh5TUQ4SzBnT2hRQjFjckwwMW4xaUx5UElHaDVwNjNTVHJBX0pfYUUySGRLSkVMS3gwT0l0M2VVcExwVTVVZ0ZkaWM?oc=5",
+      "publishedAt": "2026-11-12T22:48:59.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG화학, 美 전자담배 배터리 폭발 소송 재개…주대법원, 항소심 뒤집어 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.47,
+        "confidence": 0.72,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "수사·소송"
+        ]
+      }
+    },
+    {
+      "id": "f2a67bc5ca3bff4e",
+      "title": "LG, 3Q 누적 영업이익 1조2740억원…LG CNS·배터리가 성장 견인",
+      "source": "PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PZWJlZ291OUZxZ1loMmpNT2hBYWtIdUpaemd4NEczS2w5cGVKdWRiTmdEaFlhMm9RVGR5WlFiRllqV0ZSZGd6VktYeUxzZjZVMlQzWkh1VDk0X1VobFpjbU13aE4?oc=5",
+      "publishedAt": "2026-11-12T06:56:59.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG, 3Q 누적 영업이익 1조2740억원…LG CNS·배터리가 성장 견인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "859c5c1b87c3b5cc",
       "title": "여수시, LG화학 반도체 소재 투자 행정지원 추진",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Tmt6Tzl5TUZiZnRqM1Eza3BSczlUamYwNTNQMkNzQU1fZ3NxanUtakJ2ZUVWdWlzbUFDTFhNeXpvblczczZjTVB3eWZaOHdTYnc1d3BvMDEzYWlwZlBoOGxnRDk?oc=5",
       "publishedAt": "2026-11-12T00:47:05.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -47,7 +103,7 @@
       "source": "남해안신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YlNJNkZuT2NiV2JRUlFhc3lIN3RWMnNYTTItV3h6VGZaZkJDTG1mNkQtZkdkcXlOc3c3MEREenRsM3BzZ05uOWQwR0JrTUZyUm56RUlodlpaSWdMRDZobGotTkhMa3Vu?oc=5",
       "publishedAt": "2026-11-12T00:32:50.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -76,7 +132,7 @@
       "source": "KBC광주방송",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcnVjMEZndHNfUnlkUE05Q2dBNk1YQjllVzQyd3k1U2VicjRRRWNOaUppWGpVV1lULU10S2M2UkU5NTNVZVRFQjVVdFZrZXZ5bVZ5SnFiSmdPd2JoU2c3bA?oc=5",
       "publishedAt": "2026-11-11T09:28:56.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -105,7 +161,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83UFpKRGRGQ2FyVjRxYUlhc1Vtd0kxWDJ4MHA1ZGJsbzk4UlNtOTQ3WTlXTDE1TkE0eG9mZlVzalptOXF6OHFzZWVXRjlyZw?oc=5",
       "publishedAt": "2026-11-11T07:31:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -132,7 +188,7 @@
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PVXRYTDhLZTBsWGZ4bUo5d2tySm1XbFgxejhIbmNsYzRxWTBiRVVPMjlJYklzTUdCemNhS19Uc1Y2QUJJRXFUT0ZKcWVnTHdVMFdpbjNBRFl3aFZpYVVZUXpPWXNkVjVQMHlhSFZmc9IBb0FVX3lxTE1PVXRYTDhLZTBsWGZ4bUo5d2tySm1XbFgxejhIbmNsYzRxWTBiRVVPMjlJYklzTUdCemNhS19Uc1Y2QUJJRXFUT0ZKcWVnTHdVMFdpbjNBRFl3aFZpYVVZUXpPWXNkVjVQMHlhSFZmcw?oc=5",
       "publishedAt": "2026-11-11T06:22:30.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -159,7 +215,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZXdFT09wcF9mR0hIRDZSSUc3ZXotX3JYV0FTRWxjbGFUR2NiM1dIcHBMeWtrQXh4ejQ2Nno0XzJiZ3JGbFJxc3IzU0hnYUx6TUFxYVVNbjE0Z2NkSUVHakx1cmtndw?oc=5",
       "publishedAt": "2026-11-11T02:18:01.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -186,7 +242,7 @@
       "source": "뉴스저널리즘",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcjQ4ZmZVcjRzZFhHYjdZelNHVXVkNEh2Q0RLX3l1NjR4UHNmOUhhQWZjcFlfTDVzUFc5N1gzVFZKdG91LUZ4TUs5LUFjcjZtMm1ramdQQnlVb2ZDMVFKbWlDQmpiNXdYU1ow?oc=5",
       "publishedAt": "2026-11-11T02:09:48.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -215,7 +271,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQjFvbkRQTVpod3VnbzVWTllmWGtqeFdPNmNhRTFNMWRVbzd3T3BTYmVaX2IxcXJCR1NIYTJRZmo5TWdnVmVFY1RDeElpT0Fua2g0ekZua1JXdVFEdWRSeHhpSnNoOFAzSG5iaHN2cVI?oc=5",
       "publishedAt": "2026-11-11T00:09:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -242,7 +298,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZG5ldlZ3VDVvdEVqLXRMTlo4bWp5NkhZQ1ZvVGcwNGZBMVVnM2hjZVdqaDJoeDhlanhGbWYtVmRRZEd0cm5vUVZvQzBucC1HanJ4Ug?oc=5",
       "publishedAt": "2026-11-10T09:06:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -264,39 +320,12 @@
       }
     },
     {
-      "id": "5b7c8b3b1b23d000",
-      "title": "[단독] 2.5조 실탄채운 LG화학…석화용지에 반도체소재공장 짓는다",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWHhYWHFsc0JDMGpocDlXSnltM1JGRUNEc2ZQU3RUUEVtUFk1TURGX0hSOTdZbTRVZml1TWtQMFNGRmtlSGRwMDlVbTY1VVhfNEtPLUZ3?oc=5",
-      "publishedAt": "2026-11-10T08:44:35.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "[단독] 2.5조 실탄채운 LG화학…석화용지에 반도체소재공장 짓는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c7fd4664b041f09e",
       "title": "석유화학 불황 속 엇갈린 방어력…롯데케미칼·LG화학의 사업구조",
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pY3JfQTcwUHVrQTExaG5rQ2E2elhGclM0VlBoNXBVSGo3U2JkSERCcHlhRW8zZTNMVnVFb3JWZ1k5R0xOYl9McUlhMUUxWnkta2IwRGpyS28?oc=5",
       "publishedAt": "2026-11-10T07:49:28.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -323,7 +352,7 @@
       "source": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdkFWRmYwYUpaWUI3OTcxNG9KTFZvdUl4UnRmMWNPdWFRLWJlTnFTUFNZQzVoU0VjOHJscXlDOHlxZzkwVFk3anJ4T1ZpcnVDcU5BeVRR?oc=5",
       "publishedAt": "2026-11-10T07:03:38.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -350,7 +379,7 @@
       "source": "한국경제TV",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKZmdhVGFvX2htMGVhTVlsaXdaOGFIRGdyVnJDbWx6R3Y3cV9JakJxbEU2VGhvR3RsbV9iV0hsX044Vnc5dGRHelBoNWYwVEtKWlZwTzN0RGhZaklTcGR1aHBEWi1TcnFvajZyU0FUbnN6b2c?oc=5",
       "publishedAt": "2026-11-10T05:02:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -372,12 +401,12 @@
       }
     },
     {
-      "id": "f9f602b1c8a02c4f",
-      "title": "LG에너지솔루션, AI 배터리 진단 기술로 CES 2027 혁신상 수상",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KU0hfWlhzamtxZjBIMTQzLTh5d1BEZDBvbExJOHZITkV6X19tTXpGMHJob2hoYWVjSGFVOGpuQ3BsdDR2TERoOHpZYlA5dw?oc=5",
-      "publishedAt": "2026-11-10T04:49:33.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "id": "d4268ad33f307262",
+      "title": "LG엔솔, 배터리 진단 ‘10분’으로 단축…CES 혁신상 수상",
+      "source": "FETV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kU1pmNzZvc0s5WlZ5SUdUZ3FrRGVrcEw2bVZDWWpLOGZheE1oYTR5RmtnbEdHcGEwRmY3aWJmU0ZTVHVNb1Yyd3pkbV9qSVB6YWctakNaWUlfOTNXd3ZLZlhCY1A3ZHZM?oc=5",
+      "publishedAt": "2026-11-10T00:56:45.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -393,39 +422,7 @@
           "ticker": "051910"
         }
       ],
-      "summary": "LG에너지솔루션, AI 배터리 진단 기술로 CES 2027 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a7208381c4086996",
-      "title": "LG엔솔, 배터리 진단 7시간서 10분으로 줄여 CES 혁신상 수상",
-      "source": "아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oNy1ZOTktR2lWWWpuRDZjVlFud0wtVFRGa05EZC1sNnJqMVNZWUNGRVJhMC1CdUZnVms3Rk5GR0UyTFEtRU1XUFpBSQ?oc=5",
-      "publishedAt": "2026-11-10T02:05:18.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG엔솔, 배터리 진단 7시간서 10분으로 줄여 CES 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LG엔솔, 배터리 진단 ‘10분’으로 단축…CES 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -441,7 +438,7 @@
       "source": "스마트비즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NdjloaVNub2tES0IwTFowcWV0RmxPb0dZcjFPU0xlZlNNN09kLTZORjUtMlNzWkhTWWI3MS15THZsMndzR013aTBQalUwNEc4QjJvd3VYMUU0NHNYUzQyZ1FDUnlTeFhJLVcxdQ?oc=5",
       "publishedAt": "2026-11-10T00:36:43.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -463,12 +460,44 @@
       }
     },
     {
+      "id": "18ed4cfac153dd38",
+      "title": "LG에너지솔루션, CES 2027 혁신상 수상…배터리 진단 7시간→10분 단축",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNmczR0ZUNmk5b0pwSGx4YmozR0R4N2ZJNGJjUnNPemRJb0k0UW9sazhGbXFUa0dMS1psSC14Z05QcXJMV0FqRzFsUXJiQzk1YVd1bG8zbUZvTV9i?oc=5",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LG에너지솔루션, CES 2027 혁신상 수상…배터리 진단 7시간→10분 단축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8de9327affc5e216",
       "title": "현금 마르는 LG화학… 차동석 ‘15兆 투자·주주환원’ 시험대",
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYnhKamloVklYeFllUUp2eWczSkNyR0Zsdm1aQXNVWExhb253dUh2U0t3NzJIR3RCMnQ4Smx2WDQ4NnFRNUFjd2FoUkVfYWNSb0pGNndMLUdIT0Zlb2tIYWY3RzZrakppVG5ETlVn?oc=5",
       "publishedAt": "2026-11-08T08:34:27.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -495,7 +524,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56aU5iSVNCTVctaFBmTTgxNEtVR2xTa3djbkJvYXlYZldEVkgwVkhMOTJDSUtxMVI4bXhQTG1ESVlYOEdTVG1xeVNtYUducjVuN1JlOXFMX1Nrd0RTQUJNYU1TLWJ0bUllV3pLcUk3dzZ3d9IBdkFVX3lxTE9zT3ptZ1o1SWE2XzBCQ2NaaWN5ZWdUYWtScWs2Q1NxdEpUOEU1SENrXzdpN2lqME1QeEN6SWhyVTQ0X2Fhem9uM2hQaHk4MU1CVzN5akVVTENjdmtHbjNPR1FzMTBKRWpLeEFOSndKb3g5Yjc3Nmc?oc=5",
       "publishedAt": "2026-11-08T00:30:00.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -522,7 +551,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jU0dYcXE3U1Ftd1F3WjRzT0E4LWxERmpDLUQxNUYtSzBfTW51TjlBYkVQOHhVaFlNMC05WHN4WXBzS25NdFlDRXh1QTlvQUVRZlBWMzhn?oc=5",
       "publishedAt": "2026-11-07T13:22:49.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
+      "collectedAt": "2026-11-13T03:03:27.547Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -535,33 +564,6 @@
       ],
       "summary": "中지린OLED, LG화학 특허 무효심판 청구 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6bcd02772d9cf74e",
-      "title": "\"핵심기술은 못 나눠도\"…한중 배터리 협력 가능성 주목",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT195cDgydF9FLVZOSDEwUDE1VU5tdHhTa1lHWVU2N0VXS0dWcmhENmIzanRtUmtGMVVwNmxTVC1ZZ05ETGtrRmVhQk9yTWd1YkYxWHRBMHdvSk0xaEJ2aEJuZkptWWxFQWYxaXg5cWV1RVpZWTc3QTdBODNkekZHbHlBWmlrdw?oc=5",
-      "publishedAt": "2026-11-07T12:02:13.000Z",
-      "collectedAt": "2026-11-12T15:41:14.778Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "\"핵심기술은 못 나눠도\"…한중 배터리 협력 가능성 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
