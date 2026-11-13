@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:03:27.547Z",
+  "generatedAt": "2026-11-13T14:59:48.890Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,106 @@
     "name": "LG에너지솔루션",
     "ticker": "373220"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "GM, LG엔솔 배터리로 전기차 세대교체…'4세대 플랫폼' 승부수",
-    "BMW, 삼성SDI·LG에너지솔루션 6세대 배터리 공급자 선정",
-    "BMW, 삼성SDI·LG엔솔과 배터리 셀 계약…현지 공급망 강화"
+    "AI 시대 전환점 선 LG엔솔···김동명 사장, 연임 문턱 넘을까",
+    "LG에너지솔루션 버테크, ESS 운영 최적화 플랫폼 '에어로스 인텔리전스' 출시",
+    "[핀포인트] [LG에너지솔루션] 국산 LFP 소재망 재정비…ESS 안방 회복 과제"
   ],
   "articles": [
+    {
+      "id": "064e35f78f74564d",
+      "title": "AI 시대 전환점 선 LG엔솔···김동명 사장, 연임 문턱 넘을까",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5dEd4UW8wRXkwR1p3UGp6M1E1TkpERHNSY0FuNHdET3FIQ2I0R1Z3a19QbU55bUZwSVoyNkxJS2tlWEZ6WV8tUTNGdmF2My05X0tVbGFCWmYtd3RiaXc1cFdLcXdJczVmOHh4Q2JIcE1YNzg4OFHSAXZBVV95cUxQeXRHeFFvMEV5MEdad1BqejNRNU5KRERzUmNBbjR3RE9xSENiNEdWd2tfUG1OeW1GcElaMjZMSUtrZVhGellfLVEzRnZhdjMtOV9LVWxhQlpmLXd0Yml3NXBXS3F3SXM1Zjh4eENiSHBNWDc4ODhR?oc=5",
+      "publishedAt": "2026-11-13T07:46:03.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "AI 시대 전환점 선 LG엔솔···김동명 사장, 연임 문턱 넘을까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ae59929af1f118bd",
+      "title": "LG에너지솔루션 버테크, ESS 운영 최적화 플랫폼 '에어로스 인텔리전스' 출시",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NklPa2FVSFRJN2pQd0RnWGV6bnFDdDR3RGkya1JuRFhYVG5Pam5BMlo5NmJnZkZHSFp4MkswWDlGZ2thLWJaNFF5WEwya3pQN184RVJydGNBb1I5SnBWakxSbw?oc=5",
+      "publishedAt": "2026-11-13T00:15:36.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "LG에너지솔루션 버테크, ESS 운영 최적화 플랫폼 '에어로스 인텔리전스' 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a21c51a0fd2893d0",
+      "title": "[핀포인트] [LG에너지솔루션] 국산 LFP 소재망 재정비…ESS 안방 회복 과제",
+      "source": "DealSite경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKV1dJMExwaUtQeUVPSlU0R21rU015MEJvMXBEWEotZFhsUkstQ2lvc2ZtM3F5M3pSUEpUc25wM21kM18zTWM0OWlfOHVKLUNOcERiY2FxVQ?oc=5",
+      "publishedAt": "2026-11-12T23:00:27.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        }
+      ],
+      "summary": "[핀포인트] [LG에너지솔루션] 국산 LFP 소재망 재정비…ESS 안방 회복 과제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2b21c5dce1cb5388",
       "title": "GM, LG엔솔 배터리로 전기차 세대교체…'4세대 플랫폼' 승부수",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRG11VmxUc3dvcUpPRE4tUW9DR181WlNrNUNYVlRHYXFha2RPTENkNU10RUdlWnNuZ19mOURYV3hDajhwa2Q2T2hGRHRIQXJranZxRlRXY0RPWlFUWUNST3JBSTQ?oc=5",
       "publishedAt": "2026-11-11T07:51:34.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -47,7 +133,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2S1VmUG9pbmltWkU1dlp6XzRGQUpXb00wSWh5b0lXekNHQWJ2WTdOQjZyWEdkTE4xUWR3LUI1bTNya1JaZ3lOTTJiWUx4eFkwVUw1c0lFcmVQNTJHNGgyeVlBOWI3ZEs5cF80aTl3clg?oc=5",
       "publishedAt": "2026-11-10T23:41:15.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -79,7 +165,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0YzFLNm5LZXBObFVZVjdNN2prWUhyTEcwcWloZW5Sb2haeE1HMWZpZkR3WVhRUHdMUFpJb2hHV0x0SnlhclJCU1lrNEFmV3hkeExFRkdfQzd3am81a2V5bmtpOVBuTmM2djVwb2JBT2HSAXBBVV95cUxQNGMxSzZuS2VwTmxVWVY3TTdqa1lIckxHMHFpaGVuUm9oWnhNRzFmaWZEd1lYUVB3TFBaSW9oR1dMdEp5YXJSQlNZazRBZld4ZHhMRUZHX0M3d2pvNWtleW5raTlQbk5jNnY1cG9iQU9h?oc=5",
       "publishedAt": "2026-11-10T17:56:47.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -111,7 +197,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTUEZMYTI0T1dLYzZBRU9Fd2pROHl2QWhMOUpiMnZBTUZZekhwR0FrcVM2SlFVckNPZGhaSy1OX2xmc1dXRjRfc2psUjRGOFpuVUh4akN5bWxVRExKTFFGTTFFZVJCYkxDcXJFdG1VNF9iZnJscWfSAWZBVV95cUxNYnczcmpYZnVFSUI4WjY4WTRjdkppR0dKbWFXdkdjQXRuNUZPU09pSlp1aFlvaENJOWpyTmtEdlQ3RXhaMzFvSk1PclFHUlpfN3NKc3pJVjN2Q0o1eFdvSDZxazFqSVE?oc=5",
       "publishedAt": "2026-11-10T15:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -138,7 +224,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fQTlOTHpONndjUlpNSUZIZDBRbjZjYWtGeWR4MDFwRFp1NndCMzU5dE9IX3pQeFFKbF9HR0xwX2pIcFQxM1pMX1pBVXRzbTlxU1VmTXg1LTBEd9IBX0FVX3lxTFB3ZFg0OVVqN2FmRzh2UWtFLTltd0JUOENLeGk3T2VFYjhtNThfbHJSU2hkRGwxMjg3TVJFTVdOeno5OU4xNW14Rm5weDgwSHZhZ0xkcFhTRXAtVk9neVBV?oc=5",
       "publishedAt": "2026-11-10T11:35:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -170,7 +256,7 @@
       "source": "주간한국",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DWDNIaVU4ck9aN2NJVFhvVXRXWDd5a0xfaTVLWW44azE3c0NZOFdOb21QcFJWYzdSVzVCa3Rjb3duUnFVMDBtRS1uTTJ3ZXZmUXA0QktzYllGM1ZURFpLMFlVcUltRGx0amhlYkNnT0RjcXlI0gF0QVVfeXFMT0NYM0hpVThyT1o3Y0lUWG9VdFdYN3lrTF9pNUtZbjhrMTdzQ1k4V05vbVBwUlZjN1JXNUJrdGNvd25ScVUwMG1FLW5NMndldmZRcDRCS3NiWUYzVlREWkswWVVxSW1EbHRqaGViQ2dPRGNxeUg?oc=5",
       "publishedAt": "2026-11-10T10:12:48.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -197,7 +283,7 @@
       "source": "오토뷰",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2LUlRTVByMnU5Ty1kNlY5OF9JZFplbU12R2tpNkl3VUpZbExJaE0wNGk0eUZFZGlpanlyVU9Pd0lfbkJ2N3hST3ZGSTAza21DRzZ6dk1KcXNfdlNv?oc=5",
       "publishedAt": "2026-11-10T09:47:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -221,39 +307,12 @@
       }
     },
     {
-      "id": "a6130ae63d809592",
-      "title": "LG에너지솔루션·삼성SDI, 'CES 2027' 혁신상",
-      "source": "한국일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NFl2UUx3TTdfZzdkbko2eUM3SVp1dVFDNVJKdmxkeWYwNUJIUDlzaWR6MHg4dGo4dmRfTGNlVWltMXBSLUtBaDlLR0NfeG50elhNSkFQQVFtcVZmSTNjZnBka2VCaXZDZEhTRVRuSGNWOTDSAXNBVV95cUxQODRZdlFMd003X2c3ZG5KNnlDN0ladXVRQzVSSnZsZHlmMDVCSFA5c2lkejB4OHRqOHZkX0xjZVVpbTFwUi1LQWg5S0dDX3hudHpYTUpBUEFRbXFWZkkzY2ZwZGtlQml2Q2RIU0VUbkhjVjkw?oc=5",
-      "publishedAt": "2026-11-10T08:43:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        }
-      ],
-      "summary": "LG에너지솔루션·삼성SDI, 'CES 2027' 혁신상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d1cbbb039142619c",
       "title": "BMW, 삼성SDI-LG엔솔 배터리 공급사 추가 선정",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SmhWS0FUZUp2bG9EU0pSblhFTEplTDEyeXltNlJsdnBTbzNpMDk3SW5uQVBRWXlpbXY5clJmeEVCWDhiRXlkdVM4UkFXVV9FQ05kcHRQWUR6S0lpVTBleWJlNjdLSVBtNlBlVg?oc=5",
       "publishedAt": "2026-11-10T06:41:03.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -285,7 +344,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xal9UN3U0VFVEbEtLRC16cThzY3ptT0x1TTZfTVFZVmtOd3dpMUdVRW1ibGQ4emx1YV8tSlYtRUNWTGhrOVpZaThfX3lJdFphN0N2dFBISkw4aEh5WnZ2T3pkSzBLRTlPdmZkSjNubzVDcE5vLVHSAWZBVV95cUxNT0o1M3RTTUg1d0gwVDlSbXVPNVJBSU5tMjUyazNodDFValRNZ21aYjZmZS0tMjNxRTMzTHJCVTgtUUtQbEdJd1FnbHcwRk5LbTI4cmYycm9POTNfenlDcERmY2E1ZlE?oc=5",
       "publishedAt": "2026-11-10T06:21:56.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -312,7 +371,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQVFFWVVhOGJZakU5NTZJU29sbFIxTVlqZmV1akQtLVZqMm9HWUhSU2c0bVBtZ1lsbTJ4STZScVNYSmg2OGVNdERNODd1OEdEUzFQNFhn?oc=5",
       "publishedAt": "2026-11-10T05:26:01.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -341,7 +400,7 @@
       "source": "신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcjY4aVBJZnVKSF8zdlJLNm1nQS1MazBDN0lKZDU5R2d6UWs3ZnJHekxPVktoWUJabXpkcm5QcjFpckRfOElmYmdEUjAwRkdYdFFkUWFXRFVvVGZZWk4wVWdMMzlnLU5PdnZ6aVpWY2E?oc=5",
       "publishedAt": "2026-11-10T05:12:32.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -368,7 +427,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fZHNkUTR5Q1RyNFpHU3JTclhDM2JMa2M3RnVtRk9SYWdudElQN25iQmd2eGk3OS1OaTFRMjR1amZ5dmNOTmEzczRpTFVUbjZxSGZrUllDbzNmSGJLTnhvT2wwRk8?oc=5",
       "publishedAt": "2026-11-10T04:15:21.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -395,7 +454,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LU2Njdldac2hjVExndnAza2Q4NzgwUk5LNFh1MjdCWldQNGpBMm5sX2RJWEJsSC1qc2lLMDFFX3J0Q3ZLbmY0YjROYmhMdw?oc=5",
       "publishedAt": "2026-11-10T03:58:58.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -427,7 +486,7 @@
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkeG9OWU5WaWdLVWF6RFFONnA2MG5qWmxUYUY4S1FyYzMyWHMzWEoxSnBsbXY2NTVVU1N2QjNkRGhjcjd5Ry0tN0VDVkkzZkk1bmhQUTFCZnExSm40R1BFVHp1S29fTUh2SVluTHdB?oc=5",
       "publishedAt": "2026-11-10T02:28:45.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -454,7 +513,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81X0paUUdaSzhSYmlqSTR6bFhZRW1aVmxvSjNDaGp1cHdjb3hKQ2x0amhwOUtpSFhRd00wSnJRQldTNUpTVjVpNDNtcElzeC1vRmNZWjlNZ0o5cXBZQjJvNERxSnF2QQ?oc=5",
       "publishedAt": "2026-11-10T01:08:49.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -486,7 +545,7 @@
       "source": "1코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWHljeHVtQ09QTGV3ejFCUk01V0JIcWU0TVp2UnZZWGdfM3VIajZqZkZOVUV1elVxeDlwd2d4ZjczS1Bha203UlJVX0pKNzQ2bnFpLVpKYmhURS1NLWN3Q3c2UjczcE5scEoyUlJ2bks?oc=5",
       "publishedAt": "2026-11-10T01:08:46.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -513,7 +572,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YSEl5aG5wREViUmJIUUN0ZXNBV1NWWkNMeFl3bGhGZHFLQWU1cXd2QmJTU3NIV09wYTN5dmhBUVU0XzRUank5amNpSnJZcnQ1ZFJ2TDhSVmJNaUdXT1MzSUZOeDVWZw?oc=5",
       "publishedAt": "2026-11-10T01:03:34.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -526,70 +585,6 @@
       ],
       "summary": "LG엔솔, 사용 후 배터리 10분 진단 기술로 CES 혁신상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "d4268ad33f307262",
-      "title": "LG엔솔, 배터리 진단 ‘10분’으로 단축…CES 혁신상 수상",
-      "source": "FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kU1pmNzZvc0s5WlZ5SUdUZ3FrRGVrcEw2bVZDWWpLOGZheE1oYTR5RmtnbEdHcGEwRmY3aWJmU0ZTVHVNb1Yyd3pkbV9qSVB6YWctakNaWUlfOTNXd3ZLZlhCY1A3ZHZM?oc=5",
-      "publishedAt": "2026-11-10T00:56:45.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG엔솔, 배터리 진단 ‘10분’으로 단축…CES 혁신상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "18ed4cfac153dd38",
-      "title": "LG에너지솔루션, CES 2027 혁신상 수상…배터리 진단 7시간→10분 단축",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNmczR0ZUNmk5b0pwSGx4YmozR0R4N2ZJNGJjUnNPemRJb0k0UW9sazhGbXFUa0dMS1psSC14Z05QcXJMV0FqRzFsUXJiQzk1YVd1bG8zbUZvTV9i?oc=5",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG에너지솔루션, CES 2027 혁신상 수상…배터리 진단 7시간→10분 단축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:03:27.547Z",
+  "generatedAt": "2026-11-13T14:59:48.890Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,108 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "한전, 'AI 코리아 대상' 사회적 책임 부문 대상 수상",
-    "[특징주] 한국전력, 3분기 '어닝 쇼크'.. 9%대 '급락'",
-    "[ET특징주]한국전력, 3분기 어닝 쇼크에 하락세"
+    "발전공기업 통합·한전 지주회사 전환 추진…전기요금·전력시장도 개편",
+    "[특징주] 한국전력, 3분기 영업익 71% 급감 '어닝 쇼크'…9.79% 급락 마감",
+    "한국전력 | 3분기 영업이익 71% 급감, 연료비 상승과 전기요금의 간극"
   ],
   "articles": [
+    {
+      "id": "6b03f6e1cd740359",
+      "title": "발전공기업 통합·한전 지주회사 전환 추진…전기요금·전력시장도 개편",
+      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnY2kzemFDVV80Ym5SWkcyb3I5VF9ybngwbFhERjhvcFJhOVE0V3ZRZHBaY25GajJSTW9DVXN2TTF0WDdLY2lpY2dDdk9YTnR3bDNsZlVnQi13SVlydGo5dGZLMlBTbUZGYTZ4WkJzUnZQUQ?oc=5",
+      "publishedAt": "2026-11-13T07:42:36.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "발전공기업 통합·한전 지주회사 전환 추진…전기요금·전력시장도 개편 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d3783e41e1dc26bc",
+      "title": "[특징주] 한국전력, 3분기 영업익 71% 급감 '어닝 쇼크'…9.79% 급락 마감",
+      "source": "https://www.moneystorm.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbkN6ZXpiXy0xSWJPQWx1TkY4c0RNWDRIT1dRYkQ2UEJpYmFKOXliTlFZVGcwT05OLUwtV3ZvVFFRUjBMRkJxckhqTVQxbWZLakJHeXljZnZRR0hxTk5FVmtCQV9qMTJodWc?oc=5",
+      "publishedAt": "2026-11-13T06:34:54.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[특징주] 한국전력, 3분기 영업익 71% 급감 '어닝 쇼크'…9.79% 급락 마감 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -1,
+        "confidence": 0.95,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락",
+          "이익 감소"
+        ]
+      }
+    },
+    {
+      "id": "a89c8d7a4e0f7e27",
+      "title": "한국전력 | 3분기 영업이익 71% 급감, 연료비 상승과 전기요금의 간극",
+      "source": "네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFdaSDVKZDd4X3diNVk3eVF4TDl4N3dCZ2tvLXV1dlhZeWpHRXRhTUl6ZldTanl1ZHNZLTJBVE9KUlQzdWZaS1dpOERsOEpzdUFxQi1iRThLVjRNX0IwaExXS0RJcnQ2ekhMMUdWejBjMVlDQ1JvYVhEUWdJZmE2WlBHeWVCOUJv?oc=5",
+      "publishedAt": "2026-11-13T05:16:00.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력 | 3분기 영업이익 71% 급감, 연료비 상승과 전기요금의 간극 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.95,
+        "positiveTerms": [
+          "이익 증가"
+        ],
+        "negativeTerms": [
+          "이익 감소"
+        ]
+      }
+    },
     {
       "id": "1760140f0a3b8b7f",
       "title": "한전, 'AI 코리아 대상' 사회적 책임 부문 대상 수상",
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NOWVqcXNrNnYxcW91MFlIVkQtVUlDVmwxWm94Y0dERlFkTDFSbUZlTmhoQU51LTZTblM0ODZUQnliRC1naWI5RzJSNTNpME5SOWw0MFZRTzFZTmJIRHBLUHRQMlBxZlNLeURxUEswMW9xZw?oc=5",
       "publishedAt": "2026-11-13T02:21:08.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -47,7 +135,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMExRVGlibV9CbWRINDNBQnJnNHFvMHg2SVI3eWc0MzRXX2ctY0pKRi1vZE5RajdueXlHWGU0Q3U1QTl5aUc3aVlmWUxjSTd2am83ck1nQkhtTWxkem1XY3N2VUV3RHBreFFUZnRvZU10N0FOVkxqQk9uOHJYcVdwSGZMbVRja2Zt?oc=5",
       "publishedAt": "2026-11-13T01:38:34.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -76,7 +164,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XbWNGa2VCaUhlQTB6MFE2NG1DcDI1WG56TDJzVGx0bnR1a1FrblF4dHlJVTE3NkZ6YXJpdDF3UzlYazl3Y0lIa3BkWFY0Zw?oc=5",
       "publishedAt": "2026-11-13T01:34:35.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -98,12 +186,12 @@
       }
     },
     {
-      "id": "9ac50f72d9740381",
-      "title": "한국전력 주가 장중 9%대 급락, 3분기 영업이익 시장 기대치 30% 넘게 밑돌아",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11Z1VPc2p4NHNjczJRSjFndDVZYWxwRE1lUzZ1amNMVy1hQlhJWVE5UlFnSlRlNmtwN1pKS1F2MXp2R3ItblIwTHJWdWJLQllkbnhpTzNrM2dLOURVVVB4ejhhaEJ1bDVaR0xGVGo5WTcyNzg?oc=5",
-      "publishedAt": "2026-11-13T00:57:19.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "id": "2b5b550f2f900316",
+      "title": "[특징주] 한국전력 9% 급락…실적 쇼크에 '연중 최저치' 기록",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0taTNCRHMxZlZzUXpfNVd6bVNPLVl1QTlLMmo3VjczSlFVcUVzOWwycU1EeFo2QVFQZlR2OHF5U0QyaG5vTFR1Z2xwS3pfelBteTB1WkhvVF9ZY25B?oc=5",
+      "publishedAt": "2026-11-13T01:10:00.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -114,7 +202,7 @@
           "ticker": "015760"
         }
       ],
-      "summary": "한국전력 주가 장중 9%대 급락, 3분기 영업이익 시장 기대치 30% 넘게 밑돌아 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[특징주] 한국전력 9% 급락…실적 쇼크에 '연중 최저치' 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
         "label": "negative",
@@ -127,12 +215,70 @@
       }
     },
     {
+      "id": "06413a9420386c48",
+      "title": "한국전력 튀르키예 원전 사업에 캐나다와 수주 경쟁 가능성, \"타당성 조사 계약 체결\"",
+      "source": "비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10aThlNERhYmFDSUFDS24yeFh1Y09oNVN2YWpHbWMzV1hDdS0zSzZ0bXh0Slc5bDA3OWRmM0dMR0F5MktIekd0NGRQNm5tZlNJc0FwNE5ZN0VXaVg0VnkzVEJvMjBpbFZPYkdkcHIyYUI3Nzg?oc=5",
+      "publishedAt": "2026-11-13T00:57:03.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력 튀르키예 원전 사업에 캐나다와 수주 경쟁 가능성, \"타당성 조사 계약 체결\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "e0030ed6e6e06438",
+      "title": "한국전력, 4분기 2467억원 영업손실 전망…적자 전환 가능성 커져",
+      "source": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNXZsdElIa3BtUHU4QTh3MVl1VkV5c0pXTGhPWUpXZDU1RHdUMzl1S1h6WWgtbmN4bjdkZWNFdkRHUG50OXd3Njlkc2x6Rk9DZmtMUmNFSnliNHIxancyaGR1MjhBSHlmSEROcnJB?oc=5",
+      "publishedAt": "2026-11-13T00:44:36.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력, 4분기 2467억원 영업손실 전망…적자 전환 가능성 커져 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.52,
+        "confidence": 0.74,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "적자"
+        ]
+      }
+    },
+    {
       "id": "428cebc92af79282",
       "title": "[특징주] 한국전력, 3분기 실적 부진에 9%대 급락",
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM19MaUJqM042LV9RbDl5RGZueldMdlpuNVQxLVdiTUVGX1NjVGVoMjcxdzZ0bkFKSjByYXo4ZGdDX2hoOXBwVUtZVGVFSnpqRjJ3bktLbDdkU1o4Vm9fd2pLbmhrVDd4V2FNMWFPYUlKaDdPbWhxbktvTVNiekY0N1J3QU1HakZt0gGcAUFVX3lxTE5CUDh3a2J1V2NHNVEzMXFQZWJjYmtCTnJXR19Qb2NkWl9RWkIyNS1YTFpKS3RpNXk4Wi1PUjdGdndhNmFoRFZGUXduZTd3NkhHdWs3RDJVd1VzcmhBTzFnekVBQ2hwNUNxRl9laDU0cjJVLS1xZGU4ODhaeFZRQW9JcE1vcnd3Q0xjWDQtNFZoYlBDYXFiSWxSYmZEdw?oc=5",
       "publishedAt": "2026-11-13T00:33:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -157,39 +303,12 @@
       }
     },
     {
-      "id": "2f4b4939d8e62ee0",
-      "title": "한국전력 '어닝 쇼크'에 장중 최저가…증권가 목표가 줄하향",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LckJqVDRWNTAtLVQ0ZlFlT25hYW80blhnUklOazhGU1dWQ0RYdjRvQ3BQM3VrOU1Vb1REeXUtNVljTXdHbXhmSnhGQTAzYWIyby1aTi1weXl2QQ?oc=5",
-      "publishedAt": "2026-11-13T00:32:27.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력 '어닝 쇼크'에 장중 최저가…증권가 목표가 줄하향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "b55e77fd0a0142b5",
       "title": "[특징주] 한국전력, 3분기 실적 컨센서스 밑돌아…9%대 하락",
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mU2dlNHcyZzFndk42djg4elM3YXlpQWRQNFVNZXRERHNyRFZENG50a2xYeFlURnJWb2dra3pJMXRXR3dBYV9RSHRVWmpjQ1JZU1FpeU05ZWxOOWc?oc=5",
       "publishedAt": "2026-11-13T00:30:04.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -211,12 +330,39 @@
       }
     },
     {
+      "id": "48c53596399229b9",
+      "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5",
+      "publishedAt": "2026-11-12T23:32:12.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "60409cfe9d2d589c",
       "title": "‘전쟁 쇼크’ 한전, 영업이익 70% 급감",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEpSSk94RmNJMF8tTDNwcXVzUl90TUJaUktnd3M4WC1odUZaM3AwZ1FkNXVqVzlFNWxyUGltU2p1SWd3OVUxbnZxTkNsWXRlNVExMVNBcWh4Rmp4aXhIaWNxREdJNloyOG8xcnpWT3dSc3ZDd2Ztbmtuc2dKZTVxNWZLazM1Z3RZcG9TelB1dw?oc=5",
       "publishedAt": "2026-11-12T15:54:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -240,12 +386,41 @@
       }
     },
     {
+      "id": "172efb1cf7d087fd",
+      "title": "한전, 호남 반도체 산단 변압기 신규 발주…”2028년 전력공급 차질 없게\"",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCLVoyWHRwQjZpUXEyb1h5NjZOVjBSVHhYaWZaNW0xdTh6aU84cVJnRkgyc21sUVM5dkJjaERyMVRnTnRKTEl0aE1nT05YT09TMmpiaTc2a2V0NjBvRHdsT9IBeEFVX3lxTE5CdnY2RmNEMTdjS05pU3pJelV4QXBmOXVUV1Ftc3JQa0FESUdBUHE1OC15bzB1OUtNeXhmbkxvRjE1US1zVEpDc0t3akh2cVdmM1FkOHJQZklicnJRemcxQ2diTmpySmpLX2R6ZnFOUFpxUkt3OTBNNw?oc=5",
+      "publishedAt": "2026-11-12T08:42:42.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전, 호남 반도체 산단 변압기 신규 발주…”2028년 전력공급 차질 없게\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.45,
+        "confidence": 0.71,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "생산 차질"
+        ]
+      }
+    },
+    {
       "id": "42f4267dc22309f8",
       "title": "한국전력 3분기 영업이익 1.6조원, 전년 대비 71% 감소…\"중동전쟁 영향\" - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BeWdRZlo1dnlNRVZ3ZklKTl9Xd2JpYVFJVnlRZGI4bDdpYlIzb1V5bk1wWDh6blZWWEh4WjRNV3dBZlZwekZQRE9WWUo0U1ZQQ3dsT2JBczkwODFMVFF3ekJBQnFrRTVHZXBn0gFwQVVfeXFMTlBRSzV1Yk5mNUZGaXFfaDk3c2NGVi1YdzJPZS1IcVBrTk82SXJwU2JXWlJBRDViRDJSa0hhZEdjVmJlX3hVQi1TVEM4bTNYemx4STZ2dTNJSG1nVDdoQUJ1OGZmbHpwNDN6bVhHQzBFUw?oc=5",
       "publishedAt": "2026-11-12T07:24:21.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -272,7 +447,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTgtRXpBZ1FsUUdKc0w5dmdnN1hzc29PZjVmcFF6Mkg4TXNyTDZmZTk2S1lwa2tWUmRqMk9fRm8yZzZBd1haR2otUnl5SlBoYWV1ZGoxODZIZXYzVUNtdWJyU0ZQaHJDWTFjTk5HWDBSc2wyVDMyRVRHUkhxalpiNWJvM1VSOXVzSWRUaFltRQ?oc=5",
       "publishedAt": "2026-11-12T07:04:05.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -296,39 +471,12 @@
       }
     },
     {
-      "id": "2ee0acf0cfcc56ee",
-      "title": "[한국전력공사] ‘BIXPO 2026’ 성황리 폐막...에너지 혁신 기술, 투자와 사업화로 결실",
-      "source": "워터저널",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45elhJRXlwVnZ5SWNHelNsWXFhRlhPbnVDVUVIemJXUHVUVk9MOGJxXzk4UEVQWWo4LTZialBkRFBlNVpweFNRQ0JFRnA3cGx3OW9NOHdvWFZwWXhUYy11eE5mZjZESmpCRzVmQWkzT2JBTTJHb2fSAXZBVV95cUxOOXpYSUV5cFZ2eUljR3pTbFlxYUZYT251Q1VFSHpiV1B1VFZPTDhicV85OFBFUFlqOC02YmpQZERQZTVacHhTUUNCRUZwN3BsdzlvTTh3b1hWcFl4VGMtdXhOZmY2REpqQkc1ZkFpM09iQU0yR29n?oc=5",
-      "publishedAt": "2026-11-12T06:51:21.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "[한국전력공사] ‘BIXPO 2026’ 성황리 폐막...에너지 혁신 기술, 투자와 사업화로 결실 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "edf6703d366ad0f6",
       "title": "한전 부울본부, 홈플러스 센텀시티점 전력 공급 유지 방안 모색",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBacXA0aG5tWHIzcWx3VXFDekhab0pTcm5ibWVnSHNuM05OX3pWVFU3QnB3dWk0QnpjV1pBa3lxalppUDZsNVk5ZFhFTVBHcWNkbklIS0JvOXNrMDZH?oc=5",
       "publishedAt": "2026-11-12T03:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -355,7 +503,7 @@
       "source": "기후에너지데이터뱅크",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2bmZzdDZyaXBKWUkwVnJ1M2hUNng3djdHNDExQjQ2eFZSUVp4VzdhWTZJNmpTSTVVWjFDMW01d3JZbU5ySmgwajQwMml0U05BcU12R0UzMHlGMzJJNGc?oc=5",
       "publishedAt": "2026-11-11T09:10:03.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -377,12 +525,39 @@
       }
     },
     {
+      "id": "542a965c4975a4c9",
+      "title": "한전 \"전력망 확충 불가피…수도권 전력 수요도 분산해야\" [NFEF 2026]",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14bHRyN3RZU3Q4YjBaU1hKXzhuVnJQQ2wwLU4yUW1CcUdON2dYRzB5dXNucG13NjRIRE1Sc1RCSzRuYWI3QTNLNXhXWExmaGx6TXFrZQ?oc=5",
+      "publishedAt": "2026-11-11T07:04:42.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한전 \"전력망 확충 불가피…수도권 전력 수요도 분산해야\" [NFEF 2026] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "fb3c9f193f47fbdb",
       "title": "한전, 차세대전력망ㆍAI 중심 '미래 전력기술' 혁신 가속",
       "source": "인사이트N파워",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xd0lqRjBtVjRYV0I4Y1B5LVAwT2NhOHpsQ2ZZWlZ1bjNaYktseW80M05LM2dOWGQwc3NNZC1WbjdDcEhrbDRSWTFaR1Jyem1TY2RCTWFPLWt5OFVjeGc3Y05JMC0xZw?oc=5",
       "publishedAt": "2026-11-11T05:10:02.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -400,170 +575,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a6756c667d9f3218",
-      "title": "\"중복 시공 없애고 예산 아낀다\"... 인천 검단구·한전, 전력설비 인접 가로수 통합 관리 추진",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRXZZeTdFY0lJVEVmZWpDNGNDUFgtRFZKUlJuN1pLVDBqa0dUaFpXaTVmMU5HOVhrY2hfS1lZYXU0aHZodFFOcUlhQjFfMmhKWjg1aVN6MHhac3JfYkxSR3pUaHJjeE0?oc=5",
-      "publishedAt": "2026-11-11T04:45:31.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "\"중복 시공 없애고 예산 아낀다\"... 인천 검단구·한전, 전력설비 인접 가로수 통합 관리 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0352f97ba4005cfc",
-      "title": "[프로배구] '우스만 33점 폭발' 한국전력, 삼성화재 꺾고 2연승",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BMUYxa1I1b0s1UEZlaF95bjJQLWNVTHloNC1Zdjk3czhacC15TGdFRHZNYy1lbnFJS2JveUlha19Oa0FkaEZKVmxmM05BQlZ3YVdIRzcxSW1yc0JI?oc=5",
-      "publishedAt": "2026-11-10T12:55:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "[프로배구] '우스만 33점 폭발' 한국전력, 삼성화재 꺾고 2연승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "98ff3650f8fe1d4d",
-      "title": "한국전력기술, 베트남 해상풍력 시장 진출…500MW 규모 개발 착수",
-      "source": "에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMHR6d0ljSnZRMW5WclZ0SVJEN2hyLXYycmVfUE9DTkNjSGt4aFZiX3RiaVppVlFXbjVUb091akhwUDd2RnB5M2JWYnIxN19mdmFva2FyWlkxM1g3Mk9PMFBMdVhDb05FUERDY9IBcEFVX3lxTE1xSTBSNTgxRTBreDVXaTVnWjZkcnloWENHNWZlSHNpQ255OXZ0ZXdvUmlvSDFYaWxCemNiQlRvYWdBbUV3bmhKR2hUSnhfRWM5MHduaVpMOXhvMjdGM19FaUx3b1BNSHZtZDRRbzV4UGk?oc=5",
-      "publishedAt": "2026-11-10T10:17:26.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력기술, 베트남 해상풍력 시장 진출…500MW 규모 개발 착수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "360feb6f46c58051",
-      "title": "한국전력기술, 베트남 해상풍력 시장 뚫는다…500MW 시동",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15dEVBTTVvdmJ2elI3b2hFN1NJTW1QWm54Z1ZfdUFILVhwWHFSekRTQ1pMNGp6LWl2WThBeWxybXYwenRBTVlZRHhHcjBUeUdKcGZzYXptc055d1hpVDZjTTZkYWI1UkxVRVFoZtIBcEFVX3lxTFBmdE5IMDdCYm9QbGdFaUhYdVBrNTVYZzVWUVM3dXI1OFBmNzFMX0pXM1d3YzRVeDc5TjhLWEJWNEtxcTZ3ajhpN3JESWhuRmoyOVEyREVJWDRKQmFvZElUei0xZDJKMVY0YncybjNEcGM?oc=5",
-      "publishedAt": "2026-11-10T06:49:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한국전력기술, 베트남 해상풍력 시장 뚫는다…500MW 시동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ef52cd2fa7c5cbc5",
-      "title": "건물 철거하다 실수로 한전 전선 '싹둑'…속초 설악동 한때 정전",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTllUT1RkX3dTYXdlOFlhQmdaM29ndEtJOUFIR1I1OXBuUnlfaEdyY2Z3bWhIUi1sNy1vaUN2VHJzQlN3U0tSVjQ2LU1JQjJLWDdhaXIya2xJYlNkTUpkUdIBYEFVX3lxTE5FTllUT1RkX3dTYXdlOFlhQmdaM29ndEtJOUFIR1I1OXBuUnlfaEdyY2Z3bWhIUi1sNy1vaUN2VHJzQlN3U0tSVjQ2LU1JQjJLWDdhaXIya2xJYlNkTUpkUQ?oc=5",
-      "publishedAt": "2026-11-09T07:50:57.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "건물 철거하다 실수로 한전 전선 '싹둑'…속초 설악동 한때 정전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3701ef7ea1642fe2",
-      "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LNnctWGYzaUNESFRvdFBCOHBneHNCNWVXcFc5alYzeXM4dFh5X3ljNXplc0V4SmlKLVJfckxIZlRBWmRKa01xS2NOTkh5TzREYk9qR0t2MlNxdw?oc=5",
-      "publishedAt": "2026-11-09T06:03:48.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
         "negativeTerms": []
       }
     }

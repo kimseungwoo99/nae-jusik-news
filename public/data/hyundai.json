@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:03:27.547Z",
+  "generatedAt": "2026-11-13T14:59:48.890Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,128 @@
     "name": "현대차",
     "ticker": "005380"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대자동차, 미래모빌리티학교 참가 모집 | 뉴스 | 현대자동차그룹",
-    "현대자동차그룹, 오픈소스 프로젝트의 시작으로 소프트웨어 기술의 가능성을 넓히다 | 저널 |…",
-    "현대차, 전·현직 카마스터와 함께 소아암 환아에 후원금 전달 | 뉴스 | 현대자동차그룹"
+    "현대자동차·기아, ‘2026 바디감성 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹",
+    "쏘카·에이펙스, 현대차와 자율주행 사업 MOU",
+    "현대차, 쏘카·에이펙스모빌리티와 국내 자율주행 생태계 키운다 | 뉴스 | 현대자동차그룹"
   ],
   "articles": [
+    {
+      "id": "42c368e61ff02716",
+      "title": "현대자동차·기아, ‘2026 바디감성 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FoRnBHN21RNm1oNWlvLUlSb2wyUzItMEtNRURRQzBtSWZVTUFhNHVVMkVfZVJnMmRISGNKRDlwMWxiY2xKNllQb3ptcktSUU92bXQxMTZ1amowbTctR1M1TEVxMk1JdnkxZXEwRkU2R2RSdnQ0Y1JaWWRiYmMwNmVkVXFVTHhBU1pEbHJ0U0RUZndPWEZmVHVJaGZCWWM?oc=5",
+      "publishedAt": "2026-11-13T04:33:02.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차·기아, ‘2026 바디감성 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ea4841dff0d74906",
+      "title": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU",
+      "source": "비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZTk5NF9hUDRDZW04cGVRRG55ckkzYmhiQUdyQWNqMkRJdXpJdEhKdVRIeVdyWnAzbkd5M0hDdjBvZVVHWlduOUNtZkczelR2SHZUa05jOFh3VmF1V3FFYjNFLWNDcjVXbUE?oc=5",
+      "publishedAt": "2026-11-13T01:21:10.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d2403eaeddbf7a88",
+      "title": "현대차, 쏘카·에이펙스모빌리티와 국내 자율주행 생태계 키운다 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVlmVkMxaGFBRWxjNmR2enhGQmk1aG5XTHNNZHBTemFlOFhDX3pKdWlLdWJLenVXYkh5cmtvbjZlOVZ1MjRFWUpZM2hiRUhSVG9CNVh0RUR5MDR6eENaMG5vUVdrRS10SkRSVFJWaThjN245LTF1ZVdNeEVFQ3JhQXhOM190Yll2dnc2MkZRSnpDc3VtTUFINHgwT3NEVzRYSGNIRUxPdjBBU1VVVDZIbEdn?oc=5",
+      "publishedAt": "2026-11-13T00:47:00.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차, 쏘카·에이펙스모빌리티와 국내 자율주행 생태계 키운다 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b5f7a055ceefaf12",
+      "title": "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대",
+      "source": "비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdmZVc3liVVVNal93eWY0SkFfSlZtbS1GTzRIQTAwSDJBbU50Ri1iMG9TTDNjS2NwQ1B0RHNaaXJzYkNEVkRFbENKMGlGV2dzclpOVk5oYjlEQlBXVkpJVWFJQ2k4RmlxR2tabw?oc=5",
+      "publishedAt": "2026-11-13T00:19:02.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "75567b47633ed6aa",
       "title": "현대자동차, 미래모빌리티학교 참가 모집 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHhHY0dUd28tQkNzTy1FMDJ4WGFwdzVfR3NuQ2hRNFhobE5KM2ZWVHVTOG9UNk9qSDJFN0dRMFNqQjRVQjM5eS1HSFVaWlV6dXU3aWw3RTAtUU5SVk9uVmROa2Q0ZkY4VUtiRjlpWk5HYVFQa1hNUEJRbWRiYXVvNjdldmhZQWVXYnMzVEdORTl2aUtzX2ZMZUdhVE5uXzJFTjdpNTVn?oc=5",
       "publishedAt": "2026-11-12T23:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -42,12 +150,66 @@
       }
     },
     {
+      "id": "6dab220434a9d776",
+      "title": "현대차가 중국서 양팔로봇을? - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSlh2YXJ3amY5QlhYd1M1UVdqQ0lyX0VXVFRSUnNBWk1sZ1dGQTYxWXVqelhrclRaaDhHQzJqdzFuRl9xNUtobEhnOWE0RnlndjVWNmdUbWEyUFYtS1pZakhhcU14cDZlX1VhRdIBckFVX3lxTE5rU3BqcjB3UnFzNDR0aFlfbF8xOXUza21venBzNEl0QWJsZTBOMzdtaVU3eXh5aVdmbW9yWUdWOUdRRlV4NXM3N1JYTEZjd3QxVm5mQXJfOU50ZG9TdTM4ZG4xUWx0enFJQ0J2WWpxcHA2UQ?oc=5",
+      "publishedAt": "2026-11-12T20:50:00.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대차가 중국서 양팔로봇을? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7fd3eb990bdcde08",
+      "title": "[사설] \"왜 차값이 비싸냐\"는 현대차 노조, 정말 회사 걱정 안되나",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTBwYjJyYjNUUUs4YzdQS2QyZXpjZVFzZzZxczFBOGVSYjNWVG1jQ3lVaThJa01SREV0bk5pRlBUaUFXdUNfZVl2TzdOaU9PRndjeEE3cGMxd2E2dlJhclhMelBXMGFvblZ1aEFsTWhtbFhoeXJsb3d4cFRndEJ0M1g2anhCUQ?oc=5",
+      "publishedAt": "2026-11-12T15:11:19.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "[사설] \"왜 차값이 비싸냐\"는 현대차 노조, 정말 회사 걱정 안되나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a5bfdb41cfe2b5c3",
       "title": "현대자동차그룹, 오픈소스 프로젝트의 시작으로 소프트웨어 기술의 가능성을 넓히다 | 저널 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFRmMENUVElBZ0dZVEhZcm9LbmVpYThFc1MzVi1KN2Z6UF93NlV3VzFfQkpQVjVyRVZBVTNhZ2hqSFh0c0wyNjFKcW1qcjFWMUJXYW41TGVZbUx3OENXbWs1ZWlzZ2EzdE5STktraW03Z09HZDVkN0dhandhMTE0WmNCd1N4Y1J4aUR2Yy1qeEZfUWRmRUducUVwQWdlTjluRDRTaQ?oc=5",
       "publishedAt": "2026-11-12T06:55:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -69,39 +231,12 @@
       }
     },
     {
-      "id": "9572f10c47b3da39",
-      "title": "현대차, 전·현직 카마스터와 함께 소아암 환아에 후원금 전달 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlRiSFRHSm55NjJ3bmpONkIyNnZzVlA0UjZWM1VVQnQycURlTk1ib2dpTk5LQl8zcjlEdVM0OW93OUpuODMyaWdyRW5wY0c0bVlsbFV3VEZPUWl3ZDllR0V3alJwZDFDWkk3ZGU2QXNUXzF3TjRITFo4TmRsQmJ4dk9GN0g3OEh6cDBEMERQT3hHQ0Rha0NOVE9RdFFBRDUzb0t3?oc=5",
-      "publishedAt": "2026-11-11T23:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차, 전·현직 카마스터와 함께 소아암 환아에 후원금 전달 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2dae3648f3feef66",
       "title": "아틀라스에게 제조 현장의 일을 가르치다, 현대자동차 로봇응용솔루션 직무 | TEAM HMG | 영상미디어 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam9WMUoweUtFNTlab3V6SjY2RlNfa05ZdTJScHE3TFdLdnJnUkluYUVWYmhaMS1aQ0VqNTBFVFNmQldJaF91OWFaTkVic2djTDFtakVnLU1fcUtpMGE5emZDY0VhNFVJYXJTVDVDY3o2VUFBQWlPeDhnU282MjNHUUlHLXhyZUtyM0RMUzRvcXFmUThYUzQ5Nl9xM0dwOWRMZkM3ZVdubmU?oc=5",
       "publishedAt": "2026-11-11T08:34:51.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -123,41 +258,12 @@
       }
     },
     {
-      "id": "ee0ac7813f99e20b",
-      "title": "현대차 노조가 ‘아반떼 가격 논란’에 쓴소리한 이유는?",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YYUFPUVl5OHhXNmFvYkFaQUVSQkZad0FqM2JGcFcyMEc5clBuY3IybWhlT0MyQnB5VEdPbkI2M3pYTFhUNWtkYjZYa1REOFJiVG1FeVhHak11OVFwMkR2RkNhd05FdDkxX2YyY2hYbHBmQ1BjQWJ0ZzEyTk9wZ00?oc=5",
-      "publishedAt": "2026-11-11T05:57:30.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대차 노조가 ‘아반떼 가격 논란’에 쓴소리한 이유는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.32,
-        "confidence": 0.64,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "논란"
-        ]
-      }
-    },
-    {
       "id": "05520937e3accf7e",
       "title": "현대자동차그룹, 2027 충청 유니버시아드대회 후원 협약 체결 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmRFb2FURlpRVXI3WUlVVkhjdDRsdGc0bFNmOWpKQXNNTmNMblFSS1ZEVmdwcGplNWJlTDdJbHJTWTlLX1ZjYTV6MEdjWXhZWFlEXzRNT0NNSlNWRGNjellXVVRHWE9TRmgxbWZiN3JqTm8yeHM3aG9NYzg3RVN2VjlnOHoycjNIU0diZUQ1c1AtanJ3RF96SG1wTnJucjg?oc=5",
       "publishedAt": "2026-11-11T01:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -179,39 +285,12 @@
       }
     },
     {
-      "id": "cfc787150cb797b8",
-      "title": "현대제철, 2026 AX 성과공유회 개최 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGliM1VYRWMyU1FNakpBN2dET1BjS2kzekdlUXppMFcxMnJ3d1dxclp6Xy0teUlaTVdMTk5aemsySkM0OW5zY2RzNFV6V1JjMHBhd0RjYU0zYU1acDJGUzk3aXJFLUtOVVdEUHpra3ZHdVRra2N6MHlDRGlZZXdKaEVHWlBGZU15WjJJaXF4cldpMmhsN1E?oc=5",
-      "publishedAt": "2026-11-11T00:26:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대제철, 2026 AX 성과공유회 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "30628868440e691c",
       "title": "현대자동차, ‘하이테크 탤런트 트랙’ 지원자 모집 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSk55TDNueWFub2MyVTFrcm5UUjdlWmx1TzRzYVcydGJNMDVReU8wd2xhSm12LV9jWHFCRlI3M0o0S2k2a0JmUTVDTkQxaXVJN1dob0VwRHp1dDdqNGs3ckEtdGNzTHZkVERlLVc3czFiaGFHX214RXZCb0tWaDhDQUgxd0EwZkp6aG1HcFlMdVdUOEFpTTNkRXNiN3J0M1k?oc=5",
       "publishedAt": "2026-11-10T23:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -233,44 +312,12 @@
       }
     },
     {
-      "id": "229c5f54454e10c7",
-      "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMk5FSkp3WU1lOEpaNzZRYkMyTW5sSktvX3QzVk9MdS1WWDlVZk5BLU80YVZBZ0JMQi0zTEJyMDVORGtHU2ZTOU00X1JzOXJQMUhadnV0UTdHQzTSAWBBVV95cUxQT2ZrTWN0SV81Rlp2UTFHNGtjX2J0RWsyMGo5WDIxRTVHMzNCOXNkWXFUYTA0ZGJqRmVrSkpWbFlqU1JaYUo1Rk4xRUhzcFNWU1JCZldSY3daOXB3dlh4N0s?oc=5",
-      "publishedAt": "2026-11-10T21:05:01.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "127de9f2a352613c",
       "title": "위기의 현대차, 미래맡긴 박민우 포티투닷 사장에 83억 황제사택 지원",
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1dQdUtmNC1velU4b09RaVVzUjl4cVJOZVRucFQwa2I2c0F1RjJkU3FzdVpSdGxwN3l6cEFfcG5ESDdUNGx4UnQ0UExkNUhRT21xNWRGSVMydHdGc2g5R0xhRkhzRFFCT2xOaDduWnNGOGtFVDRqdEF0WnNrdWc4UWJuNA?oc=5",
       "publishedAt": "2026-11-10T05:01:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -294,39 +341,12 @@
       }
     },
     {
-      "id": "b138e4fb00e86df6",
-      "title": "현대엔지니어링, ‘2026 굿디자인 어워드’ 동상 선정 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWNORV9XQ0N5RUN0UURSVDJIT2Jnay16UnFHNl9ub3I3TkxxaXBFbjNPaDhDaFdMVkplZnFPOUlNWjlPaDZxZEw1NndpSm0zUndnVDFHYjdOQS15dHREUGxCUFF6VGpqYXdxY3hmYS1lMnRWUFBveGVxUkNtOGU2c1BVM2FRamhEOEl6Y3A1YzVJSkVldTAxUGNaSTQzdw?oc=5",
-      "publishedAt": "2026-11-10T04:02:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "현대엔지니어링, ‘2026 굿디자인 어워드’ 동상 선정 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5fa195a40be87b19",
       "title": "현대자동차그룹, ‘월드 하이드로젠 엑스포 2026’ 성료 | HMG TV | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1FNdFdLcVl5N3lQaHhFclNrcF9tRVRRZC1jTURTMWpLLW1EdXFxQlB6V1NfYTE3dDdjTnVDNEtteXNFcDBzRTZpYUFUYVk3MjN5RTd5R1d3bUtjcEFFRDJPSUtRSF8xeWw5VUZlUDE3WXcwbTc1Z19LMEV3OEZZZ1RWSWZmQlNycjVORQ?oc=5",
       "publishedAt": "2026-11-10T02:47:12.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -348,12 +368,39 @@
       }
     },
     {
+      "id": "a1bccaae8700d1f3",
+      "title": "현대자동차·기아, 온실가스 감축·규제 대응 위한 민관 협력 확대 | HMG TV | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWhwQnhtS2NzWXFKN29tWElHZVNOQVB0bGVNRFFFZFlzcFNBalZZY1lqUmtFeHFBaDhHQ0k5b0Z3Rm9CQV9NMVZwSldBR2tISE5LSlJpNjhnc3Q1TktKbm96X3dkNXBaTVlWekJJZkVWN3pOY1R4aEh6THB4aHJRNjd2Q2dKajhQMEs2dUdibWJIODMtMkprWHVlenk?oc=5",
+      "publishedAt": "2026-11-10T02:41:15.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        }
+      ],
+      "summary": "현대자동차·기아, 온실가스 감축·규제 대응 위한 민관 협력 확대 | HMG TV | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "5b38105d284ae971",
       "title": "현대자동차그룹, ‘IZB 2026’서 중소협력사 유럽 판로 개척 지원 | HMG TV | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXk0X2xHSFZSajFzMENmdlZvWkMzSE5YSjFTTkpPTGt6bFpQVDNKVWZGWXBqdjVSaGRzVnl2S1o5WXVyZGR1SHl0THlCOWNfdEZxZmVjN2JVc0hWcWFFbkNHZzdyekZFZDBjLXpyVUJMY2hLTzVLR3dMZlI3dDJ3Zmc2cVlUREZyejhnOXVKLVloRHZrUDJVZE11Z0dSSEdE?oc=5",
       "publishedAt": "2026-11-10T02:28:14.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -380,7 +427,7 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkV5NlRzSXlQeFFKaFV6OGRMYy1FOGxscUU2MDlrWng3d01oY2twdGEySXFLb3pQY2hCM1d6U0RmaVBUbk1zZFNBd2tPbmhlTEd3WVgzWm5Mbk5aOENiNlNmOW4wZHlvXy1ZX1FQd3hqRXVRSWJmdFY5NTJlUXZsS2lxcFpzbEVlNkVrSnRVUHVCWVJYbWhqT2M2N3VpNUE5?oc=5",
       "publishedAt": "2026-11-10T00:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -402,44 +449,12 @@
       }
     },
     {
-      "id": "55948167037fa6d8",
-      "title": "한화증권 \"현대차·기아, 수익성 저하 장기화\"…목표가↓",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WdzhjQzhfNEdmcDg5b3dCMXJjUkpDb0hFeXlYbTVwODBEQWp2VkN0WHQwYXppOEFVbk1LajJxZU5HblR1RVZVUWtMaDJIQVRrLUpVbDU0dDJmeGZkUHRHOdIBYEFVX3lxTE5WdzhjQzhfNEdmcDg5b3dCMXJjUkpDb0hFeXlYbTVwODBEQWp2VkN0WHQwYXppOEFVbk1LajJxZU5HblR1RVZVUWtMaDJIQVRrLUpVbDU0dDJmeGZkUHRHOQ?oc=5",
-      "publishedAt": "2026-11-09T23:38:33.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "한화증권 \"현대차·기아, 수익성 저하 장기화\"…목표가↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5f0fab84045e22f5",
       "title": "제네시스, ‘GV90 네오룬·GV90’ 출시 | 뉴스 | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oTV9jOV91czlwY1dZUXhGZ1JXOUNDWGZ0YzRGSll0OXlpaG1hRG0xcGdhZHVRSnNxQzNRVVZ3c3QtRmV0dFJ3cDhDM2hqWndkQlR0R1NpTEEwZjFzQ1VGVmQ4eVRhaFBxYUxySjZhU1dLd2hUOEM4TXNwWGxQQQ?oc=5",
       "publishedAt": "2026-11-09T23:30:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -461,29 +476,56 @@
       }
     },
     {
-      "id": "2a98c6a547c44dd3",
-      "title": "삼성-현대차그룹, ‘원팀’으로 미래 첨단 산업 선점 – 삼성전자 뉴스룸",
-      "source": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOWllXdzV3Y0NpUXBXNjZXNkxBZklJZHZuVXE3TlRhdVBOaEJBUUo3Q2tMV2JockMxYThEeV9ud1dCOTZDY2JSZE9qS3JsOUsxQjN6b3RVOEFMNFQyNFFiUjBtbld0QUl5VlVMY1NOcWRTYUs0QnJMZUlyQkI5UE9ncjg1ZElnbWVSVHFwN2wwZVVkVFJKRG9hSzlzdWUzS01sV0ZLeHBBVndmQks4dTZQTy1saFZTcmxNbW9sWHA0c19YUXM5TlV6ejE2YnhZazFxWEVmRXRTN3otcmtaQXluRWhWX2JFOWtFUHU4a2g5Um9zN1ZWQmNhdG1VZVphOUZDRHE5bjVoeDI1c1NweG5BYWQtT195ak9aMXpscWpZakxZak51NlRQSTZyWXdhdw?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
+      "id": "515af4cd5823bf81",
+      "title": "삼성·현대차, 배터리로 더 가까워질까…삼성SDI 공급 확대 주목",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OTJaWldtRnJCUEZUZDJielNHQ3FHbFdyX0dVZGdUT2tOZ0d1MDNCakpUbll0VE1fS3lSckRXd2ZEMmZDc1ptNUJkNHpBelM2aWRGckVMT3Q5TENYbWpDd9IBYEFVX3lxTE55OTJaWldtRnJCUEZUZDJielNHQ3FHbFdyX0dVZGdUT2tOZ0d1MDNCakpUbll0VE1fS3lSckRXd2ZEMmZDc1ptNUJkNHpBelM2aWRGckVMT3Q5TENYbWpDdw?oc=5",
+      "publishedAt": "2026-11-09T23:09:52.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
       "relatedStocks": [
         {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
         },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성·현대차, 배터리로 더 가까워질까…삼성SDI 공급 확대 주목 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "78cfaa6f72f58d5b",
+      "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHV1NDlzckQ2QjNyUFh3UXlFWkROM0EtN2RqRUxsZ0RMZGxlcU1kV1J6Z2VvMTZTZDNtaUhsX09UVzdaS1htclg1QVM3aHdZRUx5RnhuY0FaUlRqZk83Qk1LR0ItSnVjeVpCNFlhR1F4NV9nR19UaExIMTI0anBFZzRkbVN4bWxFcXJUeklNb0RPT1gzUlVZODlLMS0xVzVIT0lSVzRB?oc=5",
+      "publishedAt": "2026-11-09T08:08:00.000Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
         {
           "id": "hyundai",
           "name": "현대차",
           "ticker": "005380"
         }
       ],
-      "summary": "삼성-현대차그룹, ‘원팀’으로 미래 첨단 산업 선점 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -498,7 +540,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYa3N6WE9TTDFUSHFtb0hXdFlFcGZLU3NNS1ExUUhfWHFKdkhpZDJUdmRNcVY1ak5QdlQxNVhJVElsNHg0NjVneEprM0Y5UQ?oc=5",
       "publishedAt": "2026-11-09T08:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
+      "collectedAt": "2026-11-13T14:59:48.890Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -510,60 +552,6 @@
         }
       ],
       "summary": "삼성-현대차, 미래 모빌리티 '원팀' 선언 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6046884dd5d6c064",
-      "title": "삼성·현대차, 차 부품 넘어 로봇·에너지로…미래산업서 '원팀'",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EcWpiS01oamdsaHBTVGxHbUdSd1BSRm04SDhpVUVXb05WTXhBTXNGWEV1NWdZRTN6RV9QMm9rcHVRbnAxYkoxb0V4X0pjaXk3STlxSmRXOVl4cnVpeTVoRdIBYEFVX3lxTE9EcWpiS01oamdsaHBTVGxHbUdSd1BSRm04SDhpVUVXb05WTXhBTXNGWEV1NWdZRTN6RV9QMm9rcHVRbnAxYkoxb0V4X0pjaXk3STlxSmRXOVl4cnVpeTVoRQ?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "삼성·현대차, 차 부품 넘어 로봇·에너지로…미래산업서 '원팀' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2d8bb6e931d6e22e",
-      "title": "삼성전자, 현대차 경영진 초청해 ‘감사데이’... 그룹 간 첫 교류 행사",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjI0QUJaU3Q0dUw4RDlfUFNqaXktQ1owVU9TYTVBVkF4RC10NHcwRHpIWldVY1RESUpkdFA4UEhSa0F2NkExZzREZ1g3OVl2LUJsNXE5WVE3OWdhbkdBc3RwRkZSR2RxT2k5RmQ4TVNNUEZGQ1phRHBENFU3TGhmWU5rQVpHczFRTktHUXI0SQ?oc=5",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "collectedAt": "2026-11-13T03:03:27.547Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        }
-      ],
-      "summary": "삼성전자, 현대차 경영진 초청해 ‘감사데이’... 그룹 간 첫 교류 행사 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
