@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:11:26.421Z",
+  "generatedAt": "2026-11-15T17:30:08.906Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성전기 주가 62% 급락…삼성전자·SK하이닉스보다 낙폭 컸다",
+    "'227만원→86만원' 5개월새 62% 증발한 이 주식…삼전·닉스보다 더 깨졌다",
     "“언젠가는 오르겠지”...국내 ‘빚투’ 30% 삼성전자·SK하이닉스에 몰렸다",
-    "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②]"
+    "삼성전자 DS부문, 협력사 대상 '반도체 테크 세미나' 개최"
   ],
   "articles": [
     {
-      "id": "823ed44d5bf370bf",
-      "title": "삼성전기 주가 62% 급락…삼성전자·SK하이닉스보다 낙폭 컸다",
+      "id": "050c4c746d66ab17",
+      "title": "'227만원→86만원' 5개월새 62% 증발한 이 주식…삼전·닉스보다 더 깨졌다",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jeWRMdUFHZmVmUjdRbl9kMVh0RmVPVWlFYXl2TTRWT1M4cGF6emZ4Vnh1VDBENVFsVzAySWJTNFYtbnpzTEVnY0ROYTJJQ0poYkFNaDVKSnhpaXhBNVNFdA?oc=5",
       "publishedAt": "2026-11-15T02:11:45.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -31,16 +31,14 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전기 주가 62% 급락…삼성전자·SK하이닉스보다 낙폭 컸다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
+      "summary": "'227만원→86만원' 5개월새 62% 증발한 이 주식…삼전·닉스보다 더 깨졌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "negative",
-        "score": -0.55,
-        "confidence": 0.76,
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": [
-          "급락"
-        ]
+        "negativeTerms": []
       }
     },
     {
@@ -49,7 +47,7 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNHJnbFQxZGtHYTY1YS1JMngwWEUySGFEMGxtVDBicllZWnF1NlNlNUdfWHZUUWk3YldPSXJxZ3FxZXdPLUQ3aWdTV2R5STRXU0ZFTktHUGdpN0dCWUR2RnJuN0w3SF9MbHY0ZFpVLTNrSF9GVVhWc1ktbWE2WjFSWA?oc=5",
       "publishedAt": "2026-11-15T01:30:26.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -76,39 +74,12 @@
       }
     },
     {
-      "id": "c2f9540f93918e8d",
-      "title": "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②]",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVFlaVWRpVUpFU0lDWVJKM2lhUGFuaHU1d1RVTUlyMUJqampOcWhFdjJCUEdSemh5Y0IwRzExbmxTTHQ0Y0ZiU01tSktVREFmR3dHZUQzNW9yc3NVQ0lfOHVjbw?oc=5",
-      "publishedAt": "2026-11-14T18:20:58.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1a81a9953507cc5a",
       "title": "삼성전자 DS부문, 협력사 대상 '반도체 테크 세미나' 개최",
       "source": "월요신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWWpnVWJNbzRoWGFwaE84VXYyN05PalNHODhKVHNZazFCZTgyT3hTNFZLWk5fMVRPcTdzMW8wUDdnNmdnMUtzTFBVbGwzQ2JKQ0FsR0lhTU4yUmNldnZzR05nYU1uQVY1a0E?oc=5",
       "publishedAt": "2026-11-13T09:21:12.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -130,39 +101,12 @@
       }
     },
     {
-      "id": "ceab8002580092a0",
-      "title": "삼성전자, 반도체 신소재 개발 과제 공유…협력사 협업 강조",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xbGtTeEU2QnR1SUNHdWVEUlR3U1VTMEN4TjgzdGhjeWwzbFJ4VzhBYXJWRDdYeVZMNHIzZVlhODFLb1l2eHVXajJhRm56c20xamVIbUtFa29DOXBOT01rWWRaTFo?oc=5",
-      "publishedAt": "2026-11-13T07:21:48.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 반도체 신소재 개발 과제 공유…협력사 협업 강조 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "6a223a3c47616364",
       "title": "'엔비디아 리스크'에 미소짓는 삼성전자? AMD·브로드컴 'AI 동맹 확장' 빛 보나",
       "source": "오피니언뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSi1pTnk2c0pIZFE2dGE0cTNqZnBFUGxBQi1YREV2UGNBOTVCV2gyZHA2by1YX2p1MjdQQUVPbFZKWTZtMk1rUjJoSkFGdDh1VHlOR2VLa2dxTlRwUnMtLWRtR0s2cFNTbS1raloxV1cwQQ?oc=5",
       "publishedAt": "2026-11-13T06:06:50.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -189,7 +133,7 @@
       "source": "뉴데일리 경제",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16eFNqVXpiQmMtVDktOUZ4a0hiRzFLUlVVLXdSQmJROEdzQjBOWHctbzFQOTUtN1FLQzVXb0R3SjdoUlMwVWNTMl9FaDd3aU5uWnU3SjRkV2FnMUZZVzNCd1lZaUFBZGF6SFdUNDFXenJ0bXNGVlQ3MGh2Z9IBgAFBVV95cUxQcHJMRHotVnhWMElaTUp5V3hwUFhGRjNjSUJtNjBMS1MxNmRPaUFIMEg4cnNZRjZ5aVJiSFAtTjV1WmRsREJTNHYxSmw0a3k1WXltRGdyMmI1LWNidFBoY2o4aEg5aFd4ZEw5X0hzTHZ3T09BR2h3WXgxYlVDV0lxcA?oc=5",
       "publishedAt": "2026-11-13T06:02:00.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -216,7 +160,7 @@
       "source": "스페셜경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfdV9VeHF6U19RUkkwdzdHODhMa3huOHliZmVnanJ5a3FkQkx3a3lUUHdhdFVqSUVCZHJma1EwMUtDa2NJSzdYbXFyODZrakltcmJsT2luUHV5RFpGc3hPejBDXy16R0ZYbC1Obw?oc=5",
       "publishedAt": "2026-11-13T05:15:42.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -243,7 +187,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEp6Q2lFOFlodXNLVFZVbFpDVkdjS0wxdU44NVlCR3ZEWEtLUUx2dkozRFBFT3hoa3ExeUVGQWxKSnFHSUlqbDBXX1FfZE5pXzhtOHMydU5mSUZEb1R5TDRDeGVHTlFudE5RaEV4SGRLaEtaY3AxZGl2Y0RLUWJJbXA3X0hlZw?oc=5",
       "publishedAt": "2026-11-13T02:13:18.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -270,7 +214,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85ZHlFUDV1SGtWMlFkNWNycTJycEV3YVAwNzFkeFdBbGx1UmtzaDFnRXg2NjhCYU9zN1NDQWxOSlliaXFsZF9WcmVLWFRId1JDdklLaTNmc1ZCZFJY?oc=5",
       "publishedAt": "2026-11-13T01:44:00.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -297,7 +241,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56d3MzQmVvRkFuT3NURzFiX2ZOUVFrM1VFSUs2RlUxT3ZnOXpPLWpfaDREUjlUTzRLbGhoNEpNelFxM19lcEowS2JSVGk0M0JnVG1obGJBbllfQmtjM0gxdVpHQ2RGQTAzR3BCTdIBckFVX3lxTE1vcC1oSEQ2NjNqUWliLTZaRnRiLTQ2SmJVWTlfUjFqT2Fxb3gtaWpkRXpYOXF3aHFyejJWbF9UaDNlalphUE9VNHRvUm1ueE1VcnEwWkRUR0hWd2VOV19uQkZDT085RnRyR1JkbkVKTGU1QQ?oc=5",
       "publishedAt": "2026-11-13T01:12:09.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -319,12 +263,41 @@
       }
     },
     {
+      "id": "3a67beb50110014b",
+      "title": "삼성전자 주가, 오늘 급등한 이유는? By Investing.com",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDLXB4Y2p0SlJCSG9nTTFiNi10Y1VFWE0wMHNXMmpwbWF3aXlOZTR6SDFTYmlxR0xPZnNRNko1NVhNb3BtTnJSazRNY0tIZ1lUWVdFTVprbXIyTV9ETEg5NmktclB6aTJ0R21hUWdfdXd5cFpNX3hB?oc=5",
+      "publishedAt": "2026-11-13T00:40:00.000Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 주가, 오늘 급등한 이유는? By Investing.com 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.55,
+        "confidence": 0.76,
+        "positiveTerms": [
+          "급등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "e3f26327825823a8",
       "title": "삼성전자 DS부문, 협력사 1000명과 차세대 반도체 기술 공유",
       "source": "뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbTJpcnVmSm4tQjBhVTZtSnVXODFWSUJHa2tUWXJJYjFyemtRMmxzM1h4Qk1WaHlJVmtyd1IyQU9qMjdfNjd1X2JLMVZ4OEVxYVpfbDB4WTdqeVpmaXZuVHc2R1E?oc=5",
       "publishedAt": "2026-11-13T00:32:15.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -346,12 +319,39 @@
       }
     },
     {
+      "id": "a395e6bac3829b29",
+      "title": "삼성전자, 협력사 초청 '반도체 테크 세미나' 개최",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTnY3OUJmejJTMk5UclNROUVrUF9UUnRDaTVnM0dKX3d4cXA4dzFPaHl4N1NnN3lhM0dGVFhZOXE5Q0ZnbFRvRjhGcjFHQzZCVm1ER21lZWgtblXSAWBBVV95cUxNVGpJVzllSTFGWlJsTjNWWTdGZ3pYNzB2TGF6MjJPRU5hMmh0YlZNU0J5R1Q1ek9fQkc0S1ltVVJDOXlfbTA5VGZ4eFVCOXZVOVlqZWFfQzhCMWswbV85UWM?oc=5",
+      "publishedAt": "2026-11-12T23:25:38.000Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 협력사 초청 '반도체 테크 세미나' 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d47249fdbac774c6",
       "title": "\"눈앞에 보이는 건 다 물어봐\"…삼성전자 'AI 스마트 안경' 출격",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FMEU3VS10Nk5fRkR1V0twR213NnZyTXBRTndrZlVpdlc5Nlo1dWNYUS1pVEFuNHJHdy16N1B5bHU2dHFqUWxWNW9MNEVxejRSNl9CNllycmdkX3BDS3piNnB1OGhNTEhhX0NYZA?oc=5",
       "publishedAt": "2026-11-12T23:04:03.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -378,7 +378,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udENLUDAyVDJBQ25UcDVIMmFEMC0wejRlV0EwZy1ET1dERHhHMVZXRmplZlJoQmJEMmlIQjVfNWlSeFpycWJGa0hxdzhNV3FhUktTcmplVDZQQQ?oc=5",
       "publishedAt": "2026-11-12T22:30:02.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -405,7 +405,7 @@
       "source": "대한민국 청와대",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fOWlNdDMwbTUwWVZUNjh3aUtFdnRUSHZneHIySklqdUNfbjNuY0FpbTBsNDNEUWFaTG5KTGpJZUVNWXdmbGZXQ19LY2ZYT3ZMbEVRNTh3SkdpNFlfbFM1UTFWOA?oc=5",
       "publishedAt": "2026-11-12T12:04:12.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -432,7 +432,7 @@
       "source": "아시아타임즈",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3V25RYmk2cXRHV0FnQXA1NkIyM1FiM3hNNTk1ZHdaTE1IN0twUFVsaVBNeU5jUDRZNlVyQnBFc1VRTXZ6OFVRcUdqcTV4ZmxsZE0wUlViR0JfT3pyYkE?oc=5",
       "publishedAt": "2026-11-12T02:21:00.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -459,7 +459,7 @@
       "source": "뉴데일리 경기",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Z2tnaDFhN0FWYUJPZVdjc210aEsxUW1vU0ozNXB0eTE1MTJHcUJ6c0l4anVjRE54R29ER250RmItYWpwOGdGeENlVWNydmd6M1JmN1pJTzZDeDBtaUJKei1zV3d5emJmU0Ixa0dNVFlDbVJ1OGJkN3BR0gF_QVVfeXFMTTRHRVlwMjNRZEVwbXBjYXA2aWhCZHdYM0xveDBSOWRGOFF6SklQTW8tLWVpdDNFQl9MUzdYLWQtV1REdWh3eTBFbm5QRnhkMkhyY3JoYVVCdXFZQnRsV0ItNGdGLUhscW9TYlUxMGxsdlBpR2JsZVA2WW1MaHcxWQ?oc=5",
       "publishedAt": "2026-11-11T06:51:00.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -486,7 +486,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53S0RmYVRSanJ6alQ2RDhGeFdyWjNGS1FYdkMtOGRYZVNoaXg4YkdBU2N5N2doTHFOTjFIcnVXVTNKa3MzUXFmNHo5ckNXUQ?oc=5",
       "publishedAt": "2026-11-11T03:49:46.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -508,39 +508,12 @@
       }
     },
     {
-      "id": "0dc3809a85a69d1a",
-      "title": "삼성전자, 동반성장 평가 '최우수'…국내 유일 15년 연속",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SHBzb3BaeWExRndBYVNTcG9ja0s2U1JJZ05INTZ1RWUyeUxoV3diR3lMY092UndwVzhtNm1FNnJBN2p3TzYwWmRfcVpDaHowdmh1NkZtLXVEZGNSRGtjadIBYEFVX3lxTE52SHBzb3BaeWExRndBYVNTcG9ja0s2U1JJZ05INTZ1RWUyeUxoV3diR3lMY092UndwVzhtNm1FNnJBN2p3TzYwWmRfcVpDaHowdmh1NkZtLXVEZGNSRGtjaQ?oc=5",
-      "publishedAt": "2026-11-11T03:00:02.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 동반성장 평가 '최우수'…국내 유일 15년 연속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5f3640e1a92cb9bf",
       "title": "삼성전자, 반도체 측정장비 무상 이전…\"공공나노팹 고도화\"",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUE91cllSWm1yS05aYlRfd3cxc2FGMU5FWkxjVHJDX0owLUd5dUZfR0ZreGIwa0RJdU5mTlBhN0c0RlM5T3MyU0p1dlhyNy1xbi04ZWhuU1IwaVFGN1E5QUFaT2s0aU0?oc=5",
       "publishedAt": "2026-11-11T01:48:00.000Z",
-      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -558,6 +531,35 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "fa774c3e0998ffa6",
+      "title": "[삼성전자 사장단 인사] 5년차 박용인, 장기 적자에도 '생존' 전망…실적 회복세 '주목'",
+      "source": "딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94N2pUei1tcEJsbmJ4cGI5bnZLVzNqU3VZMlZSQldmeVBTUVltU19yTUJoWGEwUjZZUWpzS09OaVlUNmRuWWh4MDU5ZkhfQnc?oc=5",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "collectedAt": "2026-11-15T17:30:08.906Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[삼성전자 사장단 인사] 5년차 박용인, 장기 적자에도 '생존' 전망…실적 회복세 '주목' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.43,
+        "confidence": 0.69,
+        "positiveTerms": [
+          "실적 개선"
+        ],
         "negativeTerms": []
       }
     }
