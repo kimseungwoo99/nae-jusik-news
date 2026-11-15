@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:17:36.487Z",
+  "generatedAt": "2026-11-15T10:11:26.421Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,133 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "현대차·삼성SDI 배터리 동맹 고도화 … 설계부터 전고체까지 합작",
-    "BMW, 삼성SDI·LG에너지솔루션 6세대 배터리 공급자 선정",
-    "BMW, 삼성SDI·LG엔솔과 배터리 셀 계약…현지 공급망 강화"
+    "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개",
+    "삼성SDI, 美 RE+서 차세대 배터리 기술력 선보인다",
+    "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합)"
   ],
   "articles": [
+    {
+      "id": "2693ce79a7bcc1af",
+      "title": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMU4yX3NZNGppQ2RhTmx2ZDhQX1FBdUFEUjlabkpUWFQyWEYwNHFUQlFiRUpQQklzVkRkZzRNLVh1andoM09GVzVaV1JscllTV0lUMGtJMndyLXBpTWJPYzY3OE0wUQ?oc=5",
+      "publishedAt": "2026-11-15T04:22:02.000Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "2b3ab617dd67496d",
+      "title": "삼성SDI, 美 RE+서 차세대 배터리 기술력 선보인다",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oa0RjdHBrNmhKc1NLQ3ljTGhYUUZYNVdUSXI0MUtCalZ2TUtIZ0tzR25VRzNLTzM4RWdRVm1heHF2eUJqQ2VZUkxuU2NqUQ?oc=5",
+      "publishedAt": "2026-11-15T01:56:03.000Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 美 RE+서 차세대 배터리 기술력 선보인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "efe7768f44e590fd",
+      "title": "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQWtuVS1pWlNFQmhIMmtiU1lCRXcyc1JHczdfWWI1MGdJaC1xNWdBNE80OF9zRGFJb1FlWkt5bVl2SVlJZldjSWExNHFJSFl1VFYzVWh6VHlYTThxSmVMX9IBYEFVX3lxTFBJQWtuVS1pWlNFQmhIMmtiU1lCRXcyc1JHczdfWWI1MGdJaC1xNWdBNE80OF9zRGFJb1FlWkt5bVl2SVlJZldjSWExNHFJSFl1VFYzVWh6VHlYTThxSmVMXw?oc=5",
+      "publishedAt": "2026-11-15T00:43:51.000Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "476274877c615e8c",
+      "title": "삼성SDI 괴드 공장 품은 헝가리 괴드시, 지방사업세율 1%에서 2% 인상 추진",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEdCcE9KVGZxWkFoa3JRdjlnNEpkdkhINlE3aVNZRVlSdm1Kei1nVk9wWk5iOFVBeF9GeV9lMXprOVZOTlQzbUlzR3Q5YkdmWER1Rnhrc3BLM1J4OUUxaVRqWkZUS2N4NmN2OXVwckxwLVZ1ajZsbzdBdUlVRzFNSkdibDh0ODBX?oc=5",
+      "publishedAt": "2026-11-14T12:24:16.000Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI 괴드 공장 품은 헝가리 괴드시, 지방사업세율 1%에서 2% 인상 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "5e03104b81f39d19",
       "title": "현대차·삼성SDI 배터리 동맹 고도화 … 설계부터 전고체까지 합작",
       "source": "뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DdlBZV2dLalVUajlKQ1VUR1dpdVhaU3JLUlRDUmRpYzBJZGdnQ0VUODI5VkNqdzNLcDlNa3J4eWVVTThvTkVfOUlCdVg2ZmsySURqTGZscE9Lc0x2cHgyNmhrQms4b1NDaVBqUFNWM29ZS2xDdlNCSlB3NNIBgAFBVV95cUxOM1EtZlp4cE5sWHAwNE9sZjlNMlZyaVFla0gxX3lXek9WazFhX2J3RnFnN3NyR2FsdmVJSEFpWDNlXzlFQjNuczd1dERXVW1CXzNMLTZFamZRajJrY3l6NUEzSThMTTRqcUgxdW5pTHBEblJucTFLSU12eEx5ZGNjXw?oc=5",
       "publishedAt": "2026-11-11T09:12:00.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -47,7 +160,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2S1VmUG9pbmltWkU1dlp6XzRGQUpXb00wSWh5b0lXekNHQWJ2WTdOQjZyWEdkTE4xUWR3LUI1bTNya1JaZ3lOTTJiWUx4eFkwVUw1c0lFcmVQNTJHNGgyeVlBOWI3ZEs5cF80aTl3clg?oc=5",
       "publishedAt": "2026-11-10T23:41:15.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -79,7 +192,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0YzFLNm5LZXBObFVZVjdNN2prWUhyTEcwcWloZW5Sb2haeE1HMWZpZkR3WVhRUHdMUFpJb2hHV0x0SnlhclJCU1lrNEFmV3hkeExFRkdfQzd3am81a2V5bmtpOVBuTmM2djVwb2JBT2HSAXBBVV95cUxQNGMxSzZuS2VwTmxVWVY3TTdqa1lIckxHMHFpaGVuUm9oWnhNRzFmaWZEd1lYUVB3TFBaSW9oR1dMdEp5YXJSQlNZazRBZld4ZHhMRUZHX0M3d2pvNWtleW5raTlQbk5jNnY1cG9iQU9h?oc=5",
       "publishedAt": "2026-11-10T17:56:47.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -111,7 +224,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fQTlOTHpONndjUlpNSUZIZDBRbjZjYWtGeWR4MDFwRFp1NndCMzU5dE9IX3pQeFFKbF9HR0xwX2pIcFQxM1pMX1pBVXRzbTlxU1VmTXg1LTBEd9IBX0FVX3lxTFB3ZFg0OVVqN2FmRzh2UWtFLTltd0JUOENLeGk3T2VFYjhtNThfbHJSU2hkRGwxMjg3TVJFTVdOeno5OU4xNW14Rm5weDgwSHZhZ0xkcFhTRXAtVk9neVBV?oc=5",
       "publishedAt": "2026-11-10T11:35:00.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -138,46 +251,12 @@
       }
     },
     {
-      "id": "6d005c4d55dbf602",
-      "title": "BMW 그룹, 삼성SDI 및 LG에너지솔루션과 배터리 셀 공급 계약 체결",
-      "source": "오토뷰",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2LUlRTVByMnU5Ty1kNlY5OF9JZFplbU12R2tpNkl3VUpZbExJaE0wNGk0eUZFZGlpanlyVU9Pd0lfbkJ2N3hST3ZGSTAza21DRzZ6dk1KcXNfdlNv?oc=5",
-      "publishedAt": "2026-11-10T09:47:00.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "BMW 그룹, 삼성SDI 및 LG에너지솔루션과 배터리 셀 공급 계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c105a796e20b1602",
-      "title": "삼성전자 폴더블폰·삼성SDI UPS용 각형배터리, CES 혁신상(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00V1A1R0NUVzFObFVkeTV2UG5KNjljYV9wcnc2Z2NtRmp5d19vNWZZOWtLdVFCTVhtM1dVWTRGbG9OMTdYRjUxTGZ6WVBMV0wyV0xhNGhrZFpJN03SAWBBVV95cUxPdVJ2cmtsMU1uVENKaGtXVHJiRG0xUG95TzZPY2FDYlZnQjJBTXBqaUoxM2piX081T2YzVUt5dmtNLTFjb0FjSE81cE1BRk9NOHRNSHJhTjFuX0FOTjE2cUc?oc=5",
-      "publishedAt": "2026-11-10T09:40:30.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "id": "314a96e128b207e1",
+      "title": "헝가리 환경규제 강화에 삼성SDI·SK온 ’촉각’…공장 운영 영향은 By EBN",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMi1hY0RIQ3c0cUdBczdNOG80c05zQ21MRExfREw1X2w1TGFiM2xhVjBjV3FuTVJFelNRUWxvbHFwOU5qaE9XMnhoWjE3YkdhNmxWV29HOGxtTDNHTE1fRndpcEhhaXYzcjJ2eEVpSlE?oc=5",
+      "publishedAt": "2026-11-10T08:27:00.000Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -188,8 +267,8 @@
           "ticker": "006400"
         }
       ],
-      "summary": "삼성전자 폴더블폰·삼성SDI UPS용 각형배터리, CES 혁신상(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "헝가리 환경규제 강화에 삼성SDI·SK온 ’촉각’…공장 운영 영향은 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -204,7 +283,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SmhWS0FUZUp2bG9EU0pSblhFTEplTDEyeXltNlJsdnBTbzNpMDk3SW5uQVBRWXlpbXY5clJmeEVCWDhiRXlkdVM4UkFXVV9FQ05kcHRQWUR6S0lpVTBleWJlNjdLSVBtNlBlVg?oc=5",
       "publishedAt": "2026-11-10T06:41:03.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -236,7 +315,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aWDJSLUhHOFVNYWpDa2VzY243MnozWHFkWVE0cXNuZVJNUW1UVk9UM2lSSUNlek9tS1R4U2V3VzZiQVNPWWxJNHZlcldUU3FiQUswWkNUbDZ5RWhiaUNETXBWZlp6OE9faEVhVTNlRW5LSkU?oc=5",
       "publishedAt": "2026-11-10T06:30:57.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -258,162 +337,12 @@
       }
     },
     {
-      "id": "480ddd8cc88c33f5",
-      "title": "삼성SDI, AI 데이터센터용 UPS 배터리로 CES 혁신상",
-      "source": "메트로신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNEZvMGg1VmdRdEhHekdaMUxhazBqaFJhQzQ5YmlVZzNpWHh3andVR1ZlR0haMVpTNXJFbEItajQyRlNxZTlMUmc0TWxyMkxZM09xQ2JnVVdCRXBNREhjcQ?oc=5",
-      "publishedAt": "2026-11-10T05:50:08.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, AI 데이터센터용 UPS 배터리로 CES 혁신상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "571e3ce1757e3a3a",
-      "title": "삼성SDI·LG엔솔, CES 혁신상…AI 데이터센터 UPS·10분 배터리 진단 By EBN",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45NHdUNHlsR1BBaDNMM2ZyUEZ1OUtvSTEzcWNVOUJjZUNhQ0FjaUM0S3ZZZVBLckc0WG1mQlBaOFIyb2dYYXNEX21SR1lqMk81VXNlbUdYZm9UelY4dk9TVmN3WDVNdXZpaWhVdXFvWmI?oc=5",
-      "publishedAt": "2026-11-10T05:24:00.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI·LG엔솔, CES 혁신상…AI 데이터센터 UPS·10분 배터리 진단 By EBN 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "35bf2133ee754c8d",
-      "title": "BMW그룹, 삼성SDI·LG엔솔 차세대 배터리 공급사 선정…유럽·미국 현지 조달 확대",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LU2Njdldac2hjVExndnAza2Q4NzgwUk5LNFh1MjdCWldQNGpBMm5sX2RJWEJsSC1qc2lLMDFFX3J0Q3ZLbmY0YjROYmhMdw?oc=5",
-      "publishedAt": "2026-11-10T03:58:58.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "BMW그룹, 삼성SDI·LG엔솔 차세대 배터리 공급사 선정…유럽·미국 현지 조달 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3d3e052308865314",
-      "title": "BMW, 삼성SDI·LG에너지솔루션 배터리 셀 공급망에 추가…중국 의존 축소 흐름",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkeG9OWU5WaWdLVWF6RFFONnA2MG5qWmxUYUY4S1FyYzMyWHMzWEoxSnBsbXY2NTVVU1N2QjNkRGhjcjd5Ry0tN0VDVkkzZkk1bmhQUTFCZnExSm40R1BFVHp1S29fTUh2SVluTHdB?oc=5",
-      "publishedAt": "2026-11-10T02:28:45.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "BMW, 삼성SDI·LG에너지솔루션 배터리 셀 공급망에 추가…중국 의존 축소 흐름 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ab7acb13e603104d",
-      "title": "BMW, 차세대 전기차에 삼성SDI와 LG엔솔 배터리 탑재",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81X0paUUdaSzhSYmlqSTR6bFhZRW1aVmxvSjNDaGp1cHdjb3hKQ2x0amhwOUtpSFhRd00wSnJRQldTNUpTVjVpNDNtcElzeC1vRmNZWjlNZ0o5cXBZQjJvNERxSnF2QQ?oc=5",
-      "publishedAt": "2026-11-10T01:08:49.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
-      "stockId": "lgenergy",
-      "stock": "LG에너지솔루션",
-      "ticker": "373220",
-      "relatedStocks": [
-        {
-          "id": "lgenergy",
-          "name": "LG에너지솔루션",
-          "ticker": "373220"
-        },
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "BMW, 차세대 전기차에 삼성SDI와 LG엔솔 배터리 탑재 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "3db6735c6d21eeda",
       "title": "삼성SDI, UPS용 각형 배터리로 CES 2027 혁신상 수상",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zblFIOE5ReVNmNE5LZjRJb1JyT0I4OU5BZGRCd0FCbEIyYXRGaW10MmR4M3BvY0dUVTNjUTBZeUR2al9qYVBCU0RzbmYyZ0xfM05mdTFGRjM1NFJPRERnM2dNb0xTQQ?oc=5",
       "publishedAt": "2026-11-10T01:02:37.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -440,7 +369,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PWmlrVHRySUtjLWhvQU0yeGU4OHk4TVJyNmE3cy1LMEZ0bE85dFQyY3F2eGJQUWZ5c01VYkNtVVltMU53c2NsSnR2dmxtX1JXQTdrUHRTUFZzZzDSAWBBVV95cUxOeTkyWlpXbUZyQlBGVGQyYnpTR0NxR2xXcl9HVWRnVE9rTmdHdTAzQmpKVG5ZdFRNX0t5UnJEV3dmRDJmQ3NabTVCZDR6QXpTNmlkRnJFTE90OUxDWG1qQ3c?oc=5",
       "publishedAt": "2026-11-09T23:09:52.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -467,7 +396,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bnlTc2RMNGdqNG0tY0szWktOdEhBNHJQeE12X2toTUI0RzRiQ3Bhc0g4OWFYdmR3a2FKbFBTUXM5ZjVJa3dqMlg2UWpkZFd4ZUZwQVFFMEprRlBVWVVnaXY4QUdIb1k?oc=5",
       "publishedAt": "2026-11-09T07:58:07.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -494,7 +423,7 @@
       "source": "CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkSjNNUU9sbEEyWllaZzFnNTZZZzdCMTByLU5zbFZ2QzFPUS1BUUluTGY5Vk9PSGZ6NjU5UjlTa1l0YWhEblpZYUFBdGw4dXhWa2VfZmtGaHJGdDFkNEhHMkE3RVZYZWU1?oc=5",
       "publishedAt": "2026-11-09T05:58:02.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -523,7 +452,7 @@
       "source": "로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5alNXM0ZyY2Y4dTE1T2dHV29yT3RfZVZycnBaSk1OUmRlWkZTZVFvT3pQaVNJcGRMRW5HeEVaeVZoRnk5aTZlbmRxaWFYNjdxNzFHVkpfNE1HQm9zUjh3eUhGY25haEp6a2FoMQ?oc=5",
       "publishedAt": "2026-11-08T14:34:31.000Z",
-      "collectedAt": "2026-11-15T02:17:36.487Z",
+      "collectedAt": "2026-11-15T10:11:26.421Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
