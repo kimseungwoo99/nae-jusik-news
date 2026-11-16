@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:23:09.803Z",
+  "generatedAt": "2026-11-16T20:45:10.390Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "\"인적 분할 최대 변수될까\"…카카오 김범수 2심에 쏠리는 눈",
-    "카카오, AI 서비스 공통 약관 첫 마련…내달 16일 시행",
-    "카카오, AI·기존 사업 분리 추진…원화 스테이블코인 사업 확대 검토"
+    "카카오, AI 공통 약관 첫 도입…원하는 기능만 선택",
+    "[진단] “불 붙은 비서 전쟁”… 네이버 vs 카카오, ‘개인용 AI 에이전트’ 격돌",
+    "카카오, AI 약관 신설… 동의 안 해도 카톡 이용 가능"
   ],
   "articles": [
     {
-      "id": "465791fd2b079f7c",
-      "title": "\"인적 분할 최대 변수될까\"…카카오 김범수 2심에 쏠리는 눈",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sX29BdkhsTGpnamdXbzFIYUJsTzFobkE4QzktMVk1LXBJaXNlcFgzSE5FSGYzSVh5SnQycnJ1NVZtcDNoSzFlWEFEYzhEUEtmbDFzWEJZUTZadnRFdkg5dFZHUVQ?oc=5",
-      "publishedAt": "2026-11-16T09:54:03.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "id": "57e29f6a9ea55ad9",
+      "title": "카카오, AI 공통 약관 첫 도입…원하는 기능만 선택",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfZnFVSHYyQkU1TGJoQkU2TnJ4bnE0UGhqYzZoRVV5S2c0akZ1WEFuTHgtTkVROW5MWDFzSXkyNk1pZUp6dUlOc25qYy04RFZFcG9xLVEzd18zLXpkaWtPeVdTWmY?oc=5",
+      "publishedAt": "2026-11-16T12:12:29.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -31,8 +31,62 @@
           "ticker": "035720"
         }
       ],
-      "summary": "\"인적 분할 최대 변수될까\"…카카오 김범수 2심에 쏠리는 눈 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "카카오, AI 공통 약관 첫 도입…원하는 기능만 선택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d20b64ab6045e1c7",
+      "title": "[진단] “불 붙은 비서 전쟁”… 네이버 vs 카카오, ‘개인용 AI 에이전트’ 격돌",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMXluZ0lyV0NzZjJlS2lCc0ZBVXNZY255enlDbXRkWVBUMlRucFp5UDV1QVUybU9IT0xvNlQzOW44c2pxSE8zUksxS1Z6ZnlvYXdSUU1HV29jdV94S3BCWVhORWo0LS1pa29rMQ?oc=5",
+      "publishedAt": "2026-11-16T11:39:09.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "[진단] “불 붙은 비서 전쟁”… 네이버 vs 카카오, ‘개인용 AI 에이전트’ 격돌 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "3a7506c8c3ad7f5d",
+      "title": "카카오, AI 약관 신설… 동의 안 해도 카톡 이용 가능",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XTC1QckRwSnQ5MUgzVEhueE8zTVgxVjViWkNsVDc5alIzcjUxaF90QXhDNkJFQWhpdDNqcnplSFlZc2hvUnA5T002dXk1YUFnd3NzY2tOUDZ0Y0VYN2l3dENaSkJzakFNalZ1UGt4WW9ST0xr0gF0QVVfeXFMT1dMLVByRHBKdDkxSDNUSG54TzNNWDFWNWJaQ2xUNzlqUjNyNTFoX3RBeEM2QkVBaGl0M2pyemVIWVlzaG9ScDlPTTZ1eTVhQWd3c3Nja05QNnRjRVg3aXd0Q1pKQnNqQU1qVnVQa3hZb1JPTGs?oc=5",
+      "publishedAt": "2026-11-16T08:26:44.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오, AI 약관 신설… 동의 안 해도 카톡 이용 가능 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -47,7 +101,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCWU9zbzdQQ2tUZndHa09UTzE5ZWRldlNXLTR5N3NnT0RmZXFYTzJRVUtaVUMtWDhpN3F2Rm10bkJjMUNHN1pHaGV4a3FDa3BFdEFiQzEyem5NVWvSAWBBVV95cUxNb29DcXNlaWt0UHkzYXRwNGhtbVNhdEVvdzM5dXljb21CSUU4eE84T3ZfMTdfTlk2YlppMTU4cEowVUctYkJwU2VZM0NHRTZpYzFuMHVRZ2ZocGVWMlpwTU8?oc=5",
       "publishedAt": "2026-11-16T05:36:06.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -74,7 +128,7 @@
       "source": "블루밍비트",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRmwyT3lCTVRqYWpTUWRZYWJITk5FQzlMMXhYdmIzR05hLTJndGV1VFJhVldDZUdJWjRsZEpnWlV2OE1pVGtkVDBDZEh6YVh1?oc=5",
       "publishedAt": "2026-11-16T04:08:53.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +155,7 @@
       "source": "게임톡",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aRFlrRGhEZnFBRnVYU055TjhmUHVxUTJ3MEJUeWppVEJ1ZGRLdnpoaERuelhSbjBTQk9KR3NGSmltMmRHelBnX2lGb2dnaENLNDZZekZVZml0MTA4UkF0RUVwTFl0ZlJweEdaSA?oc=5",
       "publishedAt": "2026-11-15T23:07:34.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -123,39 +177,12 @@
       }
     },
     {
-      "id": "8b700a5fe993e790",
-      "title": "“투자 넘어 성장까지”···카카오벤처스, 美 AI 힉스필드와 맞손 잡고 ‘액티브 밸류업’ 가속",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JZjE0UVBSUUJ4WFQ0cnppaXF0am9KVzRNQTBfTi1oYkE1MXJoSFh4Zk9UbmxTYU1pX1hNSHV0ZVBodE5xTDA2VkVLeEZqQUt2RHltR3dPMUxBMVEyRWI3Skd3VUZrbmtUQ2FvWUhXUTR1d2ZQalHSAXZBVV95cUxOSWYxNFFQUlFCeFhUNHJ6aWlxdGpvSlc0TUEwX04taGJBNTFyaEhYeGZPVG5sU2FNaV9YTUh1dGVQaHROcUwwNlZFS3hGakFLdkR5bUd3TzFMQTFRMkViN0pHd1VGa25rVENhb1lIV1E0dXdmUGpR?oc=5",
-      "publishedAt": "2026-11-13T22:35:48.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "“투자 넘어 성장까지”···카카오벤처스, 美 AI 힉스필드와 맞손 잡고 ‘액티브 밸류업’ 가속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "fd80be9a6c1493cd",
       "title": "공공시설 예약, 카카오·네이버 AI 국민비서로 더 편리하게! - 카드/한컷 | 멀티미디어",
       "source": "대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGhKZVhJRmhRTmpwbWNJSFVuVlc3OU1oNG9ZTnRlNXJNTDFreG9OaG5OOXJsZ3NYSUtuZ2Fodkt5U185M0ItM2VTRWJaU3RFTWtRZzUwQWR3ajdKMjVuYjN5ZF9FVWZMNjBCWVVxQjZ0ZXJhbl9tUmwyQURwR05SWjdORW9HeVRYQjBv?oc=5",
       "publishedAt": "2026-11-13T15:00:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -182,147 +209,12 @@
       }
     },
     {
-      "id": "20ef8c713c9b930c",
-      "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96S3o1bE5ZQzFLX0w2dzlRYTU3enJac2JXYVRqeUlydERldF9uemZWWkh5TzdLd2RTaFdGVFVqYlltcXVnR1c4NlFRbXpEMDJ0ZkhKdFNaYmM4NVRrVV8tdtIBYEFVX3lxTE96S3o1bE5ZQzFLX0w2dzlRYTU3enJac2JXYVRqeUlydERldF9uemZWWkh5TzdLd2RTaFdGVFVqYlltcXVnR1c4NlFRbXpEMDJ0ZkhKdFNaYmM4NVRrVV8tdg?oc=5",
-      "publishedAt": "2026-11-13T04:53:48.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오 업무용 메신저 해킹…이름·연락처 유출 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f125de90c899356a",
-      "title": "\"예적금 대신 펀드·주식 매매\"…포트폴리오 넓히는 인뱅",
-      "source": "미디어펜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aM1RMVGJzbUhXTEZpZ3RxWXNTY0tFLWVYSXJIX1dYUE1OOUNPbXJ6dG1pbFNYblJRUWVmQ0djYnV0WVN6N1pmVGNITkhuMldsWmJzd1l3UELSAVhBVV95cUxPWjNUTFRic21IV0xGaWd0cVlzU2NLRS1lWElySF9XWFBNTjlDT21yenRtaWxTWG5SUVFlZkNHY2J1dFlTejdaZlRjSE5IbjJXbFpic3dZd1BC?oc=5",
-      "publishedAt": "2026-11-13T03:47:18.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "\"예적금 대신 펀드·주식 매매\"…포트폴리오 넓히는 인뱅 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "de27a26e191a2c6d",
-      "title": "[속보] 이 대통령 “대한민국 주식시장 저평가 불합리…자산시장 정상화 목표 명확”",
-      "source": "KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rTzMzcjlQQ1lpUGZVUm04Ui0zRl9pWXJrNTlpUVJIN0xKbmM4NmExa09KSDNIUVZiR1dCWUNyRnJFdjV5dm1PT1hTOG9SaURmVzA1N05MaktKd0daaUdXTGRtVDFzZw?oc=5",
-      "publishedAt": "2026-11-13T00:39:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "[속보] 이 대통령 “대한민국 주식시장 저평가 불합리…자산시장 정상화 목표 명확” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "10376864dbdf2d70",
-      "title": "카카오페이증권, AI 이상거래탐지시스템 가동…주식·환전까지 탐지 확대",
-      "source": "더퍼블릭",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0NFphbUx5N3A2R2lNY1ZkMlNEY1lwTkVNYUtRT0pJVjR3a2ZrV2dZemx6QUV3REVoMVJDR1JJVzFoVjh4TGdLMjRYTkVqVU1XVWVMcEtDRl9td1R4bjNJWXZKNDlXQl9XZk5UMzQ1d9IBb0FVX3lxTFA0NFphbUx5N3A2R2lNY1ZkMlNEY1lwTkVNYUtRT0pJVjR3a2ZrV2dZemx6QUV3REVoMVJDR1JJVzFoVjh4TGdLMjRYTkVqVU1XVWVMcEtDRl9td1R4bjNJWXZKNDlXQl9XZk5UMzQ1dw?oc=5",
-      "publishedAt": "2026-11-13T00:12:01.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오페이증권, AI 이상거래탐지시스템 가동…주식·환전까지 탐지 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1b06dcf65eefd2c6",
-      "title": "카카오페이증권, AI 이상거래탐지 도입…주식 매도·환전까지 감시",
-      "source": "인사이트코리아",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSQ2o1bzFRQ2ppdTB4S3VaUlVLaVVWMjA3Ni1mb1hQdUFWU2JNa1ZkUENOaDBXRW5mdEdvTTJ3dWg2TXV1aldUYjBzd2pnS0U2akpnT0w0MlFaNHVuV1h4WnFQdlhhbnVIU1BQR292LUpPZ2N3MmZJ0gF3QVVfeXFMUFJDajVvMVFDaml1MHhLdVpSVUtpVVYyMDc2LWZvWFB1QVZTYk1rVmRQQ05oMFdFbmZ0R29NMnd1aDZNdXVqV1RiMHN3amdLRTZqSmdPTDQyUVo0dW5XWHhacVB2WGFudUhTUFBHb3YtSk9nY3cyZkk?oc=5",
-      "publishedAt": "2026-11-12T09:43:06.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오페이증권, AI 이상거래탐지 도입…주식 매도·환전까지 감시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "4967b17bf564c25f",
       "title": "지역 과기원 연구실 넘어 시장으로…카카오인베스트먼트, AI 창업 육성 박차",
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iVTU5VjYwNDF5amgtV1NCUDBHWFozVFhBOEVzTHBlOVpqSGJxR28wYV9iSG5uYXItZ2FsV1BVelMtYmlzaXNjaWNvTnJkNXUwclFNUFhB?oc=5",
       "publishedAt": "2026-11-12T08:55:07.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -344,12 +236,12 @@
       }
     },
     {
-      "id": "1977660be76b9ec4",
-      "title": "[AI 광고 열전] AI 크루, 목표만 말하면 캠페인 짠다 | 카카오㊤",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQaEVzVE9hanQ2X0lPWW5TaERFTDJ5SENUZDJPZF90M1lfVnpEMmNEbTN2Uy1yWmo4d0VsZWduMDJmQTF2TUNkQTJuTTAybjNJQUh0TGx2VmJUS3NPMHgwcU95MU1BS2tC0gFsQVVfeXFMTXJ5VnZkVXduYkg0NkN3aUV2VEg1TEI0d05CWnZmM1BZQV9BeFVGLVI4bEFSSjJ5dHgyVGJxVHlER09ua0NlWUNQX000cE00Sm91OXlxWkE3eDF5YjVUQ29kX3FCRU00LXRyM0NT?oc=5",
-      "publishedAt": "2026-11-12T04:18:24.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "id": "bd78fb5aad5cd23a",
+      "title": "[게시판] 카카오벤처스, 힉스필드와 스타트업 AI 콘텐츠 제작 지원 등 단신",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80VG9lMkMtU0w4eVdNTE9rX2JXenlGNFRwS1ZvYm8wN0RseFdoT25SdWxlNjFMX1BVWlI3MTFueDFYZVVDSWNvSGNXRFVYYW9DY3JDMTZNVVZveFUzTWF2bkNuV0x2U1JLdEE?oc=5",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -360,34 +252,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "[AI 광고 열전] AI 크루, 목표만 말하면 캠페인 짠다 | 카카오㊤ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "cdc1e6bad5a6cbb9",
-      "title": "주식 매도·입출고까지 ‘AI 감시’…카카오페이증권, 금융사기 대응 강화",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVV9XOUtTYTJHRXY4OW9VMlFjSEY5eUJINGoyd20xQjluQTRUbEJMN0wxWnJ0cEt0QXdrdHBwLTZGOEJwWEp1blV6VXl4MlUzaXlJcnRZV3RidWY5SU1pQlhrbTRscTN1VF90U3ZFMDFhSzN5V1HSAWZBVV95cUxPamc2NTBYY2NnMmtuV0htZ2dleXdmdXFkSjZaYTM4TGlwVl9yaE92dk5VdFliUkN3T2pVenJ1QmZQekJhdklfc2hIdmhqX0dMT1prREoycENpZFg0RGw0cXd3STZ6SVE?oc=5",
-      "publishedAt": "2026-11-12T02:45:27.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "주식 매도·입출고까지 ‘AI 감시’…카카오페이증권, 금융사기 대응 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[게시판] 카카오벤처스, 힉스필드와 스타트업 AI 콘텐츠 제작 지원 등 단신 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -403,7 +268,7 @@
       "source": "와우테일",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tV29fdDlnRExDTHJJdkFEZFh1YjdXaVRLMm1kcXhjRVVyOXo5ZTlIQWVaSDAwckVLNWYyTHVsRVdlWjU5ajNfUU1ZNXRqTUE?oc=5",
       "publishedAt": "2026-11-12T00:20:02.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -430,7 +295,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PLUpyQUVIZDBsSVRwekkyWmhEQm55VGNudTBUcHp2cWdFLWFfYlFqdW9Icl8yTW9DakNiYkJtODl2ejNsczVId1FXZ19tNm9wRHNQa0lR?oc=5",
       "publishedAt": "2026-11-11T20:30:01.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -457,7 +322,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53VVNtbFVYRlkzR0ZjaU9XalF6Vng0a1otWXZSanFNQVdHM1RtUVh4Q1NtWlFtTVlOQl9xZ1Zrd2ZmRjZPZFVOalRFamhNeHpsQVhmcmt1T294X0JfTVJjUUxEa2NzQnFtTk0tdXJLTkVLNzjSAXdBVV95cUxNLU52Y2dsckJWTVp4bkRsdThTbUNDbTBxcXpzS1AzTDhldFBBeWxsZlJJbnJxZkpBTlI5c1hUVEx4VlpmRUh6R3F1NElIcW50UjVMZ3loR2ZyM3hTRXRBQzdVR1dTRVF1UUc2QjRYQ0M1ZG9Qci1Gbw?oc=5",
       "publishedAt": "2026-11-11T07:30:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -484,7 +349,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RSC1mcFlIUUYwLWFpRDNkV2FXYURXRVpEOTlTYUJPbGdXZDd6b3VXNUp6N3ZmLUVmQ1dlbFhDQU9hY0xNUmIyZHFBUWVTOEhEeno4YjlEdG9rZTliZFBtYVpVLURlRkhJNVVydTg4dENIUGdD?oc=5",
       "publishedAt": "2026-11-11T01:25:59.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -511,7 +376,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuVVAwODh1X0pKczEtMEI5b1JmUmQyNU1FcGJ0M3VFb3FNc3RoUjMxVkU5YlV2MnRSSmJ3VThfTEZmb0pNUkNXdnBLa0FuSlRidno3Ql9SZXUzUTVa?oc=5",
       "publishedAt": "2026-11-10T06:29:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -524,33 +389,6 @@
       ],
       "summary": "카카오, 라이언 AI 단편 애니메이션 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "83a2f5e1b98747e1",
-      "title": "카카오페이증권 첫 스팩 등 3개사 코스닥 예심 신청",
-      "source": "세이프머니",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsSE5BX1U1N2JZeDNyOTJqWHFxQnkxNGJjb3RBTGJBbFBOV1ZZNFUzYTZybkZjZWhpYlE4eUIzQVdteVVMM2VLekdUYUR0VGktZ3FDZ2thSThJNl94Tm12Z1B6bkRNVFdKSGpnMmR3?oc=5",
-      "publishedAt": "2026-11-10T06:19:42.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오페이증권 첫 스팩 등 3개사 코스닥 예심 신청 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,

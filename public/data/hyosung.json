@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:23:09.803Z",
+  "generatedAt": "2026-11-16T20:45:10.390Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,45 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "효성화학, 금리 부담 가중…7% CP 대신 사모채 선택",
     "밸류업 기대 다시 살아났나… 지주사 업종 상승세 확산",
-    "[IT는 지금] SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손 外",
-    "삼성물산우B·코오롱우 상승…복합기업株 희비 교차"
+    "SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손"
   ],
   "articles": [
+    {
+      "id": "2732f9e857fa3350",
+      "title": "효성화학, 금리 부담 가중…7% CP 대신 사모채 선택",
+      "source": "딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jV1MybFVtVFRUbnpsTTBRbkhSaEVOSml4OHU2Q3M5Q2JfcUg4cEd3QWg5c3J2bjllQ2NzYWN3MklBajdlREpIcE91NDMyNjA?oc=5",
+      "publishedAt": "2026-11-16T11:11:53.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "효성화학, 금리 부담 가중…7% CP 대신 사모채 선택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "0a1f037980b857d8",
       "title": "밸류업 기대 다시 살아났나… 지주사 업종 상승세 확산",
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fTG9RdU5YUFlueXA1Vk1PcGhDOE40bklVN1V3NEJSLWhjR3lIT1Ywcndvc2xTai1DaWFBVVJXYU5EaTNZV05NNVhkcjdpQ1VPenJVaHZaUS1jdEh5bDBsRGRTTWVCVTI0TDBmMDNVLXpzamhyMGtV0gF3QVVfeXFMT19Mb1F1TlhQWW55cDVWTU9waEM4TjRuSVU3VXc0QlItaGNHeUhPVjByd29zbFNqLUNpYUFVUldhTkRpM1lXTk01WGRyN2lDVU96clVodlpRLWN0SHlsMGxEZFNNZUJVMjRMMGYwM1UtenNqaHIwa1U?oc=5",
       "publishedAt": "2026-11-16T07:03:08.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -42,23 +69,28 @@
       }
     },
     {
-      "id": "b27fa0df9d148d9f",
-      "title": "[IT는 지금] SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손 外",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSF8zSTVXUnZZQ1pJWGVCWWR3UzhKLVh1YklvbE03eThMWWtpZkRXR2tESXo4bmh4YWVyR1hoeVVtTmJoVmZuekRkZFU2WW8?oc=5",
-      "publishedAt": "2026-11-16T05:15:52.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
+      "id": "058141d2d8940ce4",
+      "title": "SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손",
+      "source": "SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHY19oajhhRExTZzZPcGFpWk5EYXFFZXllVWVJcEZYUVhaZDJ5Z3F5Sy1UMVMwTU01SlJkQzlaX0pUeG5SWDNrdQ?oc=5",
+      "publishedAt": "2026-11-16T02:55:38.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
       "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        },
         {
           "id": "hyosung",
           "name": "효성",
           "ticker": "004800"
         }
       ],
-      "summary": "[IT는 지금] SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "SKT, 효성중공업과 GW급 AI 데이터센터 구축 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -69,51 +101,29 @@
       }
     },
     {
-      "id": "39c1c4dc544be152",
-      "title": "삼성물산우B·코오롱우 상승…복합기업株 희비 교차",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mdHVNTDFaN0Jwd1MxOEtxbW1MZGx2ZTJMc0xUMUUxei10REVHZENOeHpFTE1qRzBYVnUtWk5ETkhaYkRVemNpV2cwRmhMZTI1Q09QeEdabWhqNDl2b0NTU2Utak53QXVCRjNPR0dGTWtXb2tHcGdr0gF3QVVfeXFMTmZ0dU1MMVo3QnB3UzE4S3FtbUxkbHZlMkxzTFQxRTF6LXRERUdkQ054ekVMTWpHMFhWdS1aTkROSFpiRFV6Y2lXZzBGaExlMjVDT1B4R1ptaGo0OXZvQ1NTZS1qTndBdUJGM09HR0ZNa1dva0dwZ2s?oc=5",
-      "publishedAt": "2026-11-14T00:03:17.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
+      "id": "5106f5699399aa17",
+      "title": "SKT, 효성중공업과 AI 데이터센터 전력 인프라 맞손",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50N3pCZUJWNmhtMkJ2LVV3VUR0UFVwczdSaEF0MTFFUFE0ZEpPQjNlT1k4WldrV05Sb3BvcDV1WHZKajlKNkNoRzVIR0tZQnBPYVQyRGNVdmlmTi1RLVNQWmVPamFjcE9VTmc?oc=5",
+      "publishedAt": "2026-11-16T02:42:40.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
       "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        },
         {
           "id": "hyosung",
           "name": "효성",
           "ticker": "004800"
         }
       ],
-      "summary": "삼성물산우B·코오롱우 상승…복합기업株 희비 교차 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0a53cad283519c90",
-      "title": "효성重, 경쟁사보다 앞서 매출 다변화…단일 고객사 쏠림 리스크 차단",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tb0U2eVhBV1NFYVJKellBVjZSaExSa0pyb3Q1NndLOEF4ak1NVE4xVFlYY0w4WkkxT09LUUNBdEdVMWVCNW5Ba3FTYnpHbHFMRHdVSUVsVnU3UEVyTFcxWkxpdWIxbm4x0gFsQVVfeXFMT2I5QlpiRUJwalh3a1N6djZaRENFeGg1X3UtLVdxRFJLZ0M3VUN0UFBCWHE5VktqeDB2Tk4xZGgxeTN6dEhVTDh2Y01GMUdmQ05sM0hpZlBTWHBWa2VucUgzekNSREFyTFVCRDQx?oc=5",
-      "publishedAt": "2026-11-14T00:00:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "효성重, 경쟁사보다 앞서 매출 다변화…단일 고객사 쏠림 리스크 차단 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "SKT, 효성중공업과 AI 데이터센터 전력 인프라 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -128,7 +138,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTGxOV1RKenU3Tm1Xb0FfT1BSRGk1VTJaRFRmT3plb1RVQ3lJWVZ3bGxUVkI5enZfVHJUcUhGenNrUEVkMzBjZGduZElDSHRIVlpUcEhETDBJUQ?oc=5",
       "publishedAt": "2026-11-13T09:30:48.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -155,7 +165,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZODZORG1wU3dpOHRTTGJ2UTM2bmhZMGhzWE9vdEMxWk1IeUhMRDdaNm9Ldko2QXlHWTNoSGN5d2JhUnlQVlk2MFlILUlmMnFEdFJwYkZjZFhBZw?oc=5",
       "publishedAt": "2026-11-13T09:28:11.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -177,12 +187,39 @@
       }
     },
     {
+      "id": "c96d36fc56769d3c",
+      "title": "PR협회 수상자 발표…효성 이정원 전무·에이엠피알 나란히 선정",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVjlwT3ppZGs5cXZRNmlaVThKQWVHT3FXUHVIQ2RTbWRhcWtwS21sNkVFanhFY0VGUXZkRVZrbE9OUXFXbmM3TDVrMmwzaXZEcWMweG9CY0w2a0NyR0tZb0diT1k?oc=5",
+      "publishedAt": "2026-11-13T09:04:19.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "PR협회 수상자 발표…효성 이정원 전무·에이엠피알 나란히 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "16b2d9e007d319c9",
       "title": "'올해의 PR인' 이정원 효성그룹 커뮤니케이션실장",
       "source": "코리아리포트",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WUXZKM3dVRlZxLUVRNUlvUnRId0tmLUNfN1dvcXh2WjFSbUF0Z2J3ODZJejhZVDQ1Uk1ub2F4NHZYc01qZlVnaGRxU1NvMk1QY0ZrOE5TXzlIc1lRV2c1VTByMnpHUnJIUnZQb3RLZUU?oc=5",
       "publishedAt": "2026-11-13T08:10:27.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -209,7 +246,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05bU1zQ2ZMZ2ZDdXktdFpRdWhiZ2ptMW56elpVdlFBN2Vna21lOEtlS2E5YlZEMHcwV2l4djYtbWtMVzBoSGdtNUlELWJaUkFjbjJBajJ4V1VjeFZQcXJkenY1YXhYakJEcnB0ZlNn?oc=5",
       "publishedAt": "2026-11-13T06:27:31.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -236,7 +273,7 @@
       "source": "뉴스클레임",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rakppU0pZT0k4RG1CRnBtbFE0azRjR1ZXVkNYZFNUQVJGdDlrV0NmbEI2MWdOZktVTi1POGVGcFNLMnVQZTI2Ukc2M21KNWFpRnUzaGhlTDhPLVMtWEhuWnJyeHNocDR1aDVlRmpfRE_SAXRBVV95cUxNeWJaMUZ1Zlo3cFpPek0xaTkyN05HelNPRURkWk1KVG1GNmUyM1l1QTV1UG80dHZmVXdKNE9NRkdoTm82Y1FCVXVrVkk4Z1pjSm5KczgyUzJMSmhnRFMwZHNPSzY1Uk1uT21hRWhlcnpkMVlzMw?oc=5",
       "publishedAt": "2026-11-13T05:46:39.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -263,7 +300,7 @@
       "source": "브랜드브리프",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zZGFILXBJWkc3d2ZyU0JlVl9rd0Mzb3RjR0xoUUhkUTlqbXoza2VhMkk5VERtSGM3WlRNQUVsU0p4OWpnNXhkV3kwSUVWYmxLQXF3OEdZbWxSNTB4MGl1YjhJbUxxTUtGVXJLWXVQMWVsRjM1WkwybDVzb2lxQQ?oc=5",
       "publishedAt": "2026-11-13T02:25:56.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -290,7 +327,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QWUZXem90NDBaMnlINVJ3SEgzcGR4X3ZFNllZa2dlVU1wQTJXQmlxVzNKdlFUeHNaQ1RYUlNHdVpIR3ZjNElRcDZUNFhKRm4tSVgwVGViZUp2TzNvZWJWWUZtZFZqbXpLRXFjcQ?oc=5",
       "publishedAt": "2026-11-12T08:04:09.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -317,7 +354,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zM09LTTN4M2w1ZEN4Uk5uTmI4a3FGUnJhc0s4b0tVdk1fNTFITm5pTW1vTWU0X0hyZkdLaTVpbUpjTklCLURyZG10WVBlc0dRWEc1ZlZDS201UnBNWjdHdk5CSHdlaXFpc0ljMjhnczlZbzV4LTJJ0gF3QVVfeXFMTTMzT0tNM3gzbDVkQ3hSTm5OYjhrcUZScmFzSzhvS1V2TV81MUhObmlNbW9NZTRfSHJmR0tpNWltSmNOSUItRHJkbXRZUGVzR1FYRzVmVkNLbTVScE1aN0d2TkJId2VpcWlzSWMyOGdzOVlvNXgtMkk?oc=5",
       "publishedAt": "2026-11-12T07:44:51.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -339,12 +376,39 @@
       }
     },
     {
+      "id": "da63b140df491772",
+      "title": "효성그룹, 10년째 배리어프리영화 제작 지원",
+      "source": "더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLUttOUVBY2tiQnY1LUp1eHhMZ3lhSktVNHEya25vYmFjSWNNTW5tejd4UVlHUXRMV3JnNnlTQmFQX1VCbUxmU0Q0dGtKSl80ckNnMFZCWHVQd9IBVEFVX3lxTFBIMkJxNEJDZUJoOF83ZlY5VE1hVDFhT3BBanB3Y0FIZUl5SXlNY0FZb2FrT2hzZUFZMFBQWXdNYTZ6ZDVBMzRfLTZWUURGX2lIUS10aw?oc=5",
+      "publishedAt": "2026-11-12T07:20:37.000Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "효성그룹, 10년째 배리어프리영화 제작 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "bf2aec9b757bb99d",
       "title": "젠슨 황 거취 논란, 코스피 '하락'...한국금융지주·하이트진로는 '선방'",
       "source": "초이스경제",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByQm5IcFZrZE1PSWFsYTgyY2gzcVR6RTAwSmxJRWV6VjR2S2d0Y0hZLW0zajh5akxLYzlqcHdNR2VlNW9RcUp1VTNNaFRDV0J6UWN4TGNfLUJOS2NRc0F6b0FVX0Z3X3ZwM0ZralhUY9IBc0FVX3lxTFBZb2pNOXV3U0VyM1FxQ0I5M1liUVNGZzZuOWpENGxXSzJNZmplOVNwN3dwOUxQN1ItVTA0NTBxMWNOSXM2cHBBR0JtWVctWEN1eVJhV283TkJreFQ0NFJheWl6OHFIaGMtWFFBWFdDSzA2cWM?oc=5",
       "publishedAt": "2026-11-12T07:16:59.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -368,39 +432,12 @@
       }
     },
     {
-      "id": "76a471730685018d",
-      "title": "[표] 거래소 기관 순매수도 상위종목(12일)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Wms5Q2wxMHhpYUZsbjFpMnF6UHprRmZmYS1pRDJqNGktTkdNM1czLTVGMXg3MnVEOFQwYWZUcktFeXEwTDFLa1VGWVZnWDF3VjAybFdGazljWW8?oc=5",
-      "publishedAt": "2026-11-12T06:45:40.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "[표] 거래소 기관 순매수도 상위종목(12일) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d7d78c7cf9709831",
       "title": "조현상 독립경영 무색…HS효성첨단소재 ‘889억 사용료’ 논란",
       "source": "센트럴경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcEdwaEc4bzlEOUtjemdqU1I1MkFLOGh5WVVFNGZGUFc1MHFodkFta1R2MmtKRDBocnFxc1NCTUtYTjFrUGR1Q1FDVnF2bXNBcXRvWDhaZDlkRDdsMG9XMWdzbDZ5WlFNTHfSAWpBVV95cUxQSHBHcGhHOG85RDlLY3pnalNSNTJBSzhoeVlVRTRmRlBXNTBxaHZBbWtUdjJrSkQwaHJxcXNTQk1LWE4xa1BkdUNRQ1Zxdm1zQXF0b1g4WmQ5ZEQ3bDBvVzFnc2w2eVpRTUx3?oc=5",
       "publishedAt": "2026-11-12T00:03:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -429,7 +466,7 @@
       "source": "스마트투데이",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YM0pzdk5iNTdXVGVPNmtibXluX3Q0eVJpYnNBcnRQY3JLRndkV0lvV2hUTTRhajd5dkVMN1dUWkpYd2sySFFiYW9TZGF2S2VPQ3Bsdnc5XzN5ZWZPeGhV?oc=5",
       "publishedAt": "2026-11-11T05:14:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -456,7 +493,7 @@
       "source": "인사이드비나",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vb3FfSWhpSXhKM3BWUHlqdjEwRVgtNG9XODkyUTBMeE9NdF92Wk9rY2pndFhnYjlfLS1YMnFycjh2MWVYNGd6YTg2NVczeW9GRlJJbTNoeTc1RkJzSzFmaWUyS29GZU1vRThQcg?oc=5",
       "publishedAt": "2026-11-10T08:05:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -483,7 +520,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNXdaNWV2S2NiSldHeTNSVkdSUFpGNVdPc2tES0VCdWRZeU5TcVkyQm9HUGJVU0VHTkpudlR0RGFEVGpnbUZiVWhVTzNJcDVqZkUxRm5YWXA1WU9QMGVxS0RLTGp5Mk1VNGsxeGZNTmFZTjg5TVhV0gF3QVVfeXFMT181d1o1ZXZLY2JKV0d5M1JWR1JQWkY1V09za0RLRUJ1ZFl5TlNxWTJCb0dQYlVTRUdOSm52VHREYURUamdtRmJVaFVPM0lwNWpmRTFGblhZcDVZT1AwZXFLREtMankyTVU0azF4Zk1OYVlOODlNWFU?oc=5",
       "publishedAt": "2026-11-10T07:56:25.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -510,7 +547,7 @@
       "source": "초이스경제",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mQUFDcVFJUTFmbWZzMzJBcjdueENaUUN3TnZYVnI3SmJ0UVhsbE12VHpyZUktcm0xNDNaR1h5bGxoWFV1VzRtWWxkcjI2eElkSUVGanc0MU9Gb3Z1ekhjTTc0b0ZWVDA0ZWluR2lDQdIBc0FVX3lxTE5FY1ZLRGVNd1pJY1NISkdYNExCQ29kRWhnYzdMaDVxd044aG94d0g5amhBU0Y5cnVFbExiRTlwQmstbHkyRVl0U1NhYkp6WmxmNTlFTV9fcmVialBpb0h1SXpKNEFQb3JCWmlMQ3BBUTN5bTA?oc=5",
       "publishedAt": "2026-11-10T07:19:47.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-16T20:45:10.390Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -528,35 +565,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e37ee23276c4ff64",
-      "title": "코리아 밸류업 지수株 들썩…한진칼·LIG디펜스앤에어로스페이스 폭등랠리",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSHFHTG1hdUxUMjF4UGZrQ3dDZHQ4aHBYSDNJU3NGQzJ4N0tLRWpjUnNyZmZpa1hjNzktMjAzTl9aSEJDTDNkb0FSaGJUNkZXa2FiWDNqVVREMzN4QVNGYnFIRUV6Wkc2TTFZZkdzenZjNG_SAXdBVV95cUxQOTZXaXhsbWRjQm11VURORWMydHNETHQ0OHdHWVo1dFR3cHhQVEc4RVVGSG0wYWxWYkJvdGthLUpFeWd3ZlNUSnlfVW9PRUJnYTNEZ2k2SEFsRDN6amtfTlNkd3VYX1R4RXo1QVZLdTBoNXRwN2E1bw?oc=5",
-      "publishedAt": "2026-11-10T06:34:32.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "코리아 밸류업 지수株 들썩…한진칼·LIG디펜스앤에어로스페이스 폭등랠리 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.55,
-        "confidence": 0.76,
-        "positiveTerms": [
-          "급등"
-        ],
         "negativeTerms": []
       }
     }
