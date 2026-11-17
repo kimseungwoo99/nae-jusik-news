@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:45:10.390Z",
+  "generatedAt": "2026-11-17T04:53:47.924Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,101 @@
   },
   "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "패션업계 3분기 성적표 보니···LF, 영업익 3배 뛰며 ‘나홀로 질주’",
-    "삼성물산, 3분기 영업익 1조1428억원…전년比 15% 증가",
-    "패션업계 3분기 실적 희비…브랜드 경쟁력·비용 관리가 갈랐다"
+    "건설업계 최장수 오세철 삼성물산 대표, 부회장 승진이냐 세대교체냐",
+    "10대 건설사 정비사업 수주 '역대급'…연말 60조 넘본다",
+    "삼성SDS, 클라우드 매출은 늘었지만 삼성물산 거래는 37% 미달"
   ],
   "articles": [
+    {
+      "id": "d8fabec922522c6e",
+      "title": "건설업계 최장수 오세철 삼성물산 대표, 부회장 승진이냐 세대교체냐",
+      "source": "땅집고",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TT3dLamdmZVdSUjNWMVNjVGVnWG96dWViNXB5TlRTZUhQWTRWaFhHNHlfaGxCSTU5ZzhKczZlVEJ6SjJsS25nYWRxTGZ2SGxJQ0d3TDFDSGV1OVhNNmNnRFJWdnFuSDA1XzBuOE9YRVZkaWYySEd3RzVfdnpjMTjSAXNBVV95cUxQSzBGc283SkkzM3U2TG5ZZW40M29oenlwT3l2VzByMzZISk1aOFdkN1hMWlVIbUg2YnJMTlYwOW1RenBlODNEWk9QU0E2ZnAwN3hpOXItNXl5U01BUnZsb2M1S29PZF9PU1pDTHliUjEzbm9r?oc=5",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "건설업계 최장수 오세철 삼성물산 대표, 부회장 승진이냐 세대교체냐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d7b9f11bf1cd3bf3",
+      "title": "10대 건설사 정비사업 수주 '역대급'…연말 60조 넘본다",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92dTc1TklmM3FBaFlfMXdtdFltWkxPQWdSVzhXSGhhRTYxTi1lNms1SkNwVEo0aFJfVUpSaWNVVDRlUHoyYnU1aElscG1TVDBMMHpuZnNDSU5LZXJzYTd4Zmp1RGZBTEpGUEtRSWFEaFh4NmlTUlh2NtIBeEFVX3lxTE92dTc1TklmM3FBaFlfMXdtdFltWkxPQWdSVzhXSGhhRTYxTi1lNms1SkNwVEo0aFJfVUpSaWNVVDRlUHoyYnU1aElscG1TVDBMMHpuZnNDSU5LZXJzYTd4Zmp1RGZBTEpGUEtRSWFEaFh4NmlTUlh2Ng?oc=5",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "10대 건설사 정비사업 수주 '역대급'…연말 60조 넘본다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "51591813aa636f68",
+      "title": "삼성SDS, 클라우드 매출은 늘었지만 삼성물산 거래는 37% 미달",
+      "source": "센트럴경제",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15MjdJYUowRnhhaDVhNE5HZk5TQ3FXeEtTbUFNV3RuQXBlNmszemd5R1prNzlrS0RUbFRzdEE3R2daaDNFNUhJQ0hrSnZCaUprVUlfbkxnOXNMM282Yl9ZTFlDT0xrQdIBakFVX3lxTE1QLUZVbExmVTZzVU1Obl9tUmxmTU5lS0huZVpwZTl0d3JjU3FWVldTR3JEeWFjNDVCdWVNNGw5bHZGa3VGQ2ZVYm1JWFJKeG1DcXNPUVB1ME5LTVl3blFUd0kwTjVNeWNDQWc?oc=5",
+      "publishedAt": "2026-11-16T20:50:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성SDS, 클라우드 매출은 늘었지만 삼성물산 거래는 37% 미달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "d02e8f2c9398bde5",
       "title": "패션업계 3분기 성적표 보니···LF, 영업익 3배 뛰며 ‘나홀로 질주’",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mM284RjJ6WnFWQVRiS2tmNndmcnVPY29ZNUVELTQycHlMbkhFUTlzdTlRR3VPYkh2blkwVkFKUUgyRVFmc1FaeTFVdnNtZ3YxM2Y3T1d0bzBPOGJSWDRabTB1Y2xGWWx5M0xsLXh5WmJmS0trMlHSAXZBVV95cUxOZjNvOEYyelpxVkFUYktrZjZ3ZnJ1T2NvWTVFRC00MnB5TG5IRVE5c3U5UUd1T2JIdm5ZMFZBSlFIMkVRZnNRWnkxVXZzbWd2MTNmN09XdG8wTzhiUlg0Wm0wdWNsRllseTNMbC14eVpiZktLazJR?oc=5",
       "publishedAt": "2026-11-16T08:38:50.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -47,7 +130,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQaXB0eDZnU3RZZEJEazA4eXpKX0pTZDFEeHhFak83M3U5VFJaRy1mMjZPbWJYcW1CazJRYzUwbmQ5eVA1aFB6SklOQ0Vtd0pPMExCUjAtN2lnbjhRaVlMa0M2Wmc?oc=5",
       "publishedAt": "2026-11-16T08:08:22.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -74,7 +157,7 @@
       "source": "한국아이닷컴",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15bUpxR3NJOXBja1pOUW5PWk9tMG9IME1OZHdDVXRaT0NQTEZiTEhwUjRiYmpRdDZhWlY1ck1DbEVUY1lqMnBUM3M1WGRrT2JYMTNQVGVHdGNqQ3VRUGw1UWwxRVcwUzBjZXZQOWNjd9IBb0FVX3lxTE15bUpxR3NJOXBja1pOUW5PWk9tMG9IME1OZHdDVXRaT0NQTEZiTEhwUjRiYmpRdDZhWlY1ck1DbEVUY1lqMnBUM3M1WGRrT2JYMTNQVGVHdGNqQ3VRUGw1UWwxRVcwUzBjZXZQOWNjdw?oc=5",
       "publishedAt": "2026-11-16T05:58:05.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -96,12 +179,66 @@
       }
     },
     {
+      "id": "d3b273d0ca0e9c82",
+      "title": "삼성물산 패션, '삼성라이온즈 챔피언 페스타' 개최', '2026년 가을 야구'를 기억하는 모든 팬들을 위해 준비했습니다",
+      "source": "삼성물산 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxON3B1cXQ4VkxWeVFFNmt3bnhoNU1MVHVRWDc1WXBycFlGckRyZ1FyT3NBX0ZCTVRBaVNzWXZrU3lDMjlvVVAtcVpyckt5SnR5eF9Ua05YWnBPUFpHaUlMUEFRRzFvUzA1azcxVThhLTlEOF90Z2NDQVFNaGxwZEJOYXdtU2tJUmFHNERzNWJkNUlZdDI0WDZWQ0w0MDBUMGEtcVFwemJzTDU1LUN3LWMtU1pUWThLMWxLRmhWc3poV3AyZDdnTlJZakY1MFJaWFp0RVJ6OFF3a056TVFRVy1mUjRMUjhnaElHX1R0bkFrRHU2U1QxZlZGZ01XQWRhNkpFNFY3QVg1SGk0MFlxUS1ZdEY1MGFzdW1ZbzE2TVJJb0tZckhHWWhEeTVVd2haZng5dGlISENxZkpFVHU4YUdESmJ2Q0Z5R0hkVUlEZkQzM1kzRjFleGJMMFd3RnZjUHZ2SVhnZnFJRnVMOWVlMS1FSFVYSHNsX1llSDJuZTdPTWVELXBPaVJ2Ry1LUTBUTG9uNThSS3YyTHIzMnJHeE9NZzd6QlpqTHlIRTFudm9COVdtUQ?oc=5",
+      "publishedAt": "2026-11-16T02:31:06.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성물산 패션, '삼성라이온즈 챔피언 페스타' 개최', '2026년 가을 야구'를 기억하는 모든 팬들을 위해 준비했습니다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "aff5bb6d7efb124f",
+      "title": "‘아파트계의 당근’ 노리는 삼성물산…AI 기반 공간플랫폼으로 확장",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kOGJwXzZZQXptazFiNkk2dDdCWnJrbWpPSXRsaUowWjRNQTlKT0g5TjJBOEZTakJaWlVuQTFxWTl0dmUxNTVaZjBRdXBpOU5hWUc2YV81ak4?oc=5",
+      "publishedAt": "2026-11-16T01:19:49.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "‘아파트계의 당근’ 노리는 삼성물산…AI 기반 공간플랫폼으로 확장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "91e826f7c2164726",
       "title": "재건축-재개발 '랭킹 1위' 현대건설, 삼성물산 추격에 '아성' 무너지나?",
       "source": "금융소비자뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PalFvNDFnckRObGxPdHBid09JQ3J0TzVEQ2xTM0FIYU0yVThmQWdOaXUzTFV1ci1UZll1RGZzZWpaQTA0alhWUzFBTnpidklDZnRWRU1RYzJaMEhhbmdneUc2X0x0czZ6dGc?oc=5",
       "publishedAt": "2026-11-15T22:00:00.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -128,7 +265,7 @@
       "source": "아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sdVlpSTJJM1lQdDhkR2l2WThnaFlDb2c5dVd6N0NCNExuaEhxa0ptYVp6bEtUd3NJTkFFd0VwRmRIeHVKTnUtbmFMSWFHZDVIQmY0Rm1EeHbSAVhBVV95cUxNbHVZaUkySTNZUHQ4ZEdpdlk4Z2hZQ29nOXVXejdDQjRMbmhIcWtKbWFaemxLVHdzSU5BRXdFcEZkSHh1Sk51LW5hTElhR2Q1SEJmNEZtRHh2?oc=5",
       "publishedAt": "2026-11-15T05:48:25.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -155,7 +292,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MjRneGZUX0FHajFwMzRWTWI0YXFOOUdfaWhjLV83ekhrU2prM21mc2hLRXRRaXdZcnpmQjVKbDN2dno1SlVXZ0pkZi0wcHd6c2NYLURhR0oybnM?oc=5",
       "publishedAt": "2026-11-15T02:00:00.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -182,7 +319,7 @@
       "source": "노컷뉴스",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMkh0WGhZMzVsT3NDU1VDQkJYR3VKb3Eta0huS0VBdVYzaW0ybEtUTlN5NUNPU2w1cGw1ZGgwa0Q2WlFXdDhhNGRBOF9HOEJWQWc?oc=5",
       "publishedAt": "2026-11-14T21:00:00.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -211,7 +348,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94a1dvT0NzVzcxX0hYWTlWQWdxX0Y1ZEVabThhSGJoemg0eTBTb2Y4bDN2dnhxUE1QVHJtamJBbHcweEl6eFgydzZSa2lUMkEtZzRMUUd3dDl5N3ZGdy1pZ3RNRQ?oc=5",
       "publishedAt": "2026-11-14T15:00:41.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -236,12 +373,12 @@
       }
     },
     {
-      "id": "41ea0e0109097361",
-      "title": "건설사 도시정비 수주 훈풍...현대·삼성 선두 속 중위권도 약진",
-      "source": "뉴스포스트",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeFNQNk5UVXEyMk9Fcnl1M29jWm56YUh3RVVQMkNUTVZxbnBVS1JRZ0dqOXVCN0lFNnlkeEplclA0bmdMTkZVZ3Q1VWRBbnFUQjg0LWxqZEZEckkzSWNyOHp3T3dZSUNYdmc?oc=5",
-      "publishedAt": "2026-11-13T01:40:45.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "id": "4b77a8fe8aba0317",
+      "title": "삼성라이온즈 12년 만의 V9…삼성물산 패션 ‘12+9=21%’ 할인 축제",
+      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSWE0SE1zYmZ1dlNaNUtvVmJHcTljbG5VaFdjS1R1aEY4aEZiT0V5amF4VUVZTG9tcjNhUXYtVjJiQTF5RWs0R254dGxsYzE1YzRkd2tkcGx5SEpVZmpxN2lTWHE2VlpJUE5jaE5yeG5aQQ?oc=5",
+      "publishedAt": "2026-11-13T09:16:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -252,36 +389,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "건설사 도시정비 수주 훈풍...현대·삼성 선두 속 중위권도 약진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "552ec8de6c62ce75",
-      "title": "5년간 자체 브랜드 키우더니…삼성물산 패션, 해외 판권도 넓힌다",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY05NVEl4QU5GMnlWZlJmOU9CQzlfdmFTRWFobE1XeHREaElkRWtzTTE0N2ltXzJ5eWNsMjA1NGxhTTEzdUhQT3k5cWdwYW5FR0pEV2RKNERnRUJqVHRSaFpsSExQWEpzNWUyMGkyWXVqYU1HVzRRTkZfSzlMWTdFVkRB?oc=5",
-      "publishedAt": "2026-11-12T21:00:11.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "5년간 자체 브랜드 키우더니…삼성물산 패션, 해외 판권도 넓힌다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성라이온즈 12년 만의 V9…삼성물산 패션 ‘12+9=21%’ 할인 축제 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -292,12 +400,12 @@
       }
     },
     {
-      "id": "fc707039ea9cb78f",
-      "title": "압구정·여의도·성수 싹쓸이…삼성물산 '초대형 수주'",
-      "source": "경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RDBMaEZSQ053VnRXSU1Fc2IwbGxVSXN1cHpHeWVFWF9OeFNmYUgycnE2REduTVBhU1NzSDdLamZ3d0lWcm5yZHYtMVNOczN4NUh3?oc=5",
-      "publishedAt": "2026-11-12T08:03:19.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "id": "6ff12011ed489170",
+      "title": "[똑똑한패션] 삼성물산 패션부문, 노스페이스, 크림",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0RzdPdk5zaVVDaXM3bGloc3h2dTR0NS1wWi1zRlJ0WEczQm41SVhvcmpLcnlUeVgyNUIwQTV0cXpvYmZxTTMzRTBNTTN6SUF2TFhjX2RXYWxGY0U?oc=5",
+      "publishedAt": "2026-11-13T07:30:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -308,25 +416,23 @@
           "ticker": "028260"
         }
       ],
-      "summary": "압구정·여의도·성수 싹쓸이…삼성물산 '초대형 수주' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[똑똑한패션] 삼성물산 패션부문, 노스페이스, 크림 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
     {
-      "id": "96e1621733551124",
-      "title": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]③ 삼성물산 패션, 자체 브랜드 70% 기반 글로벌 확장…준지 中 2개 매장 오픈·수입 브랜드 매출 목표 달성",
-      "source": "업코리아",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dk1ndVZjQUpncGM0OHBjZU1RMGppMEpsdGRpeWQwLVlsVk42QVhHZ05zSEh2WkJXOE1qVlA0aEQwZVowTmZqbzkwblp0U3VJc2dBZldLRl81SEFuN0gzTXMxNjQ3TjlRUGR6S0x3?oc=5",
-      "publishedAt": "2026-11-12T02:38:05.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "id": "9a46610455c72a33",
+      "title": "삼성물산 패션부문, 삼성라이온즈 우승 기념 할인전…최대 21% 혜택",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FNFNKSUpsdTVKUDE3M0lxeVhqZEhUVFNTUWxxVU12RmtFS0djUHRUbnZ6Y3VrZUlWNlB0UHVfWVlOaDhkRTY3U0Fsdm44ZWZrbkZBTzB3SXd4akx4Y0VjMXhHRHJubTFPLUQ2c2tnUHhUUQ?oc=5",
+      "publishedAt": "2026-11-13T06:42:05.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -337,23 +443,79 @@
           "ticker": "028260"
         }
       ],
-      "summary": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]③ 삼성물산 패션, 자체 브랜드 70% 기반 글로벌 확장…준지 中 2개 매장 오픈·수입 브랜드… 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성물산 패션부문, 삼성라이온즈 우승 기념 할인전…최대 21% 혜택 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "bebf8bbc9a88e2fc",
+      "title": "삼성라이온즈 12년 만의 우승에…삼성물산 패션, 최대 21% 할인",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90UlRRT1VadXQ2Wk9UZ2dHQ2U1czBmbm03LW5yeHRtRC1wUjFzQXVuNGFBUGZIaldzQVhNSkxRQXhxYkRpOG9DbklDNC1yNWo4SDFoNlNVOTlYN2JzMnY1a2RXODNzQmttcnhNZVdkS05FV0lCSnhUS9IBeEFVX3lxTE90UlRRT1VadXQ2Wk9UZ2dHQ2U1czBmbm03LW5yeHRtRC1wUjFzQXVuNGFBUGZIaldzQVhNSkxRQXhxYkRpOG9DbklDNC1yNWo4SDFoNlNVOTlYN2JzMnY1a2RXODNzQmttcnhNZVdkS05FV0lCSnhUSw?oc=5",
+      "publishedAt": "2026-11-12T23:31:32.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "삼성라이온즈 12년 만의 우승에…삼성물산 패션, 최대 21% 할인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "89da2a26f21e56dd",
+      "title": "대형 건설사 수주 실적 ‘희비’…연말 계약 ‘올인’",
+      "source": "대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtVHdKMjdpaXVQMnR1RGNBeEVQdGpvMHJDUEU5R1pnTU0tQXJOcmQwZi1WOWIzTDBiaF8yaGt0MF9pcTJLV09MeW44NEJDam5YWGVPVkRoanlhU2M4c3g5Z1BzVWJzOTVRNURxNzVTM2E1aUU?oc=5",
+      "publishedAt": "2026-11-12T21:00:47.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "samsungcnt",
+      "stock": "삼성물산",
+      "ticker": "028260",
+      "relatedStocks": [
+        {
+          "id": "samsungcnt",
+          "name": "삼성물산",
+          "ticker": "028260"
+        }
+      ],
+      "summary": "대형 건설사 수주 실적 ‘희비’…연말 계약 ‘올인’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
         "negativeTerms": []
       }
     },
     {
-      "id": "a1553ad9a9738566",
-      "title": "[어바웃C] 오세철 삼성물산 대표, 임기 말 '래미안·하이테크' 쌍끌이",
-      "source": "Daum",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iRWE1TUIzSHlNdGhvRUdXYU5WaWJGbjlVU2w0SHgtalJZM3N6RW5LbENxSkprUEhaSjFwSUtmZk1RYlpnc1E0ZHJMYw?oc=5",
-      "publishedAt": "2026-11-11T08:28:52.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "id": "3817f8bb74e4ee70",
+      "title": "라이온즈 우승에 계열사 들썩...삼성물산 패션 '통큰 세일'",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vRWZhYU90SDNNRE1QQ3ZVZTd6YUZ2ckxYQVlyRGc5TzNyQ1daMVFINkNyQ2s5anB6U2djc2ZhbUctVHd3cWJoTk1ZbnMwRVhOdW1nOGdUSEtkdw?oc=5",
+      "publishedAt": "2026-11-12T04:30:33.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -364,7 +526,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "[어바웃C] 오세철 삼성물산 대표, 임기 말 '래미안·하이테크' 쌍끌이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "라이온즈 우승에 계열사 들썩...삼성물산 패션 '통큰 세일' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -375,12 +537,12 @@
       }
     },
     {
-      "id": "23fe284c47eb0054",
-      "title": "성과냐 세대교체냐…오세철 삼성물산 대표, 연임 변수는",
-      "source": "아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEcklyQTJqbTZDajZsTG02Q3lvdVRlQmd3cThHS3RvSTRuMk9tZzFfTEpoU2JFbmNtTGtFcTR2cFVuT3VuX0l0a3hEZ1A3YVo2QVNGeFk0RnBjRkJJTVZBRE9WUE9hcFdFaW5HRGp3?oc=5",
-      "publishedAt": "2026-11-11T04:47:45.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
+      "id": "d5a26318fc6255bd",
+      "title": "삼성물산 패션, ‘2026년 동반성장데이’",
+      "source": "TIN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xME9CUUhBNTZoU3lxenEtc3ZjYUlsSnVzZ19PVV9ORWRsRFpPaUdHS1YzNnNBcks0UGFIYkYzXzUzbjVqcEE?oc=5",
+      "publishedAt": "2026-11-12T03:33:00.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "samsungcnt",
       "stock": "삼성물산",
       "ticker": "028260",
@@ -391,34 +553,7 @@
           "ticker": "028260"
         }
       ],
-      "summary": "성과냐 세대교체냐…오세철 삼성물산 대표, 연임 변수는 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "31f7c56624e94bb7",
-      "title": "삼성물산, 건설 성장·신사업 확대…기업가치 재평가 기대",
-      "source": "프라임경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rb2ZmQ3ZkQmlJN3UzMTY5WG52NzBkTVctSHN6RmVSa25jMlYyWVg0WGE5b2JKdExkcFppb0hOdjFzY3dXMzJMTFR3cmo1U3Fic20zcWpIMTdLM2p5NG9oTjdlbFRVenh3RmlnMDhCUHU4UQ?oc=5",
-      "publishedAt": "2026-11-11T00:01:23.000Z",
-      "collectedAt": "2026-11-16T20:45:10.390Z",
-      "stockId": "samsungcnt",
-      "stock": "삼성물산",
-      "ticker": "028260",
-      "relatedStocks": [
-        {
-          "id": "samsungcnt",
-          "name": "삼성물산",
-          "ticker": "028260"
-        }
-      ],
-      "summary": "삼성물산, 건설 성장·신사업 확대…기업가치 재평가 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성물산 패션, ‘2026년 동반성장데이’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

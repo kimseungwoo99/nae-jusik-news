@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:45:10.390Z",
+  "generatedAt": "2026-11-17T04:53:47.924Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 실적 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 투자 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "LS, 올해 3분기 영업이익 4,882억원…전력 슈퍼사이클에 90% 성장",
-    "LS, 전력 슈퍼사이클 타고 3분기 영업익 90% 급증…매출 10조 돌파",
-    "LS, 3분기 영업이익 4천882억원…전년 대비 90%↑"
+    "LS일렉트릭, 베트남 박닌공장 증설…아세안 전력시장 공략 확대",
+    "LS일렉트릭, 베트남 박닌 제2 생산동 준공… 아세안 전력시장 주도권 강화",
+    "LS ELECTRIC, 美 빅테크 AI 데이터센터 전력기기 '1300억원 수주'"
   ],
   "articles": [
     {
-      "id": "83cc6e8af3ccb315",
-      "title": "LS, 올해 3분기 영업이익 4,882억원…전력 슈퍼사이클에 90% 성장",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VmJlY1RRcEh6TExUdktxZndkTkxEV3hwbUJfS1BWZ1laRjhvUXhnMmsxc292UlZ0cHRFel9yV2d3aURrZUhBVXJQZHlic0RJSUxCMTZrTGJLTk40aW9iSnBxX1NFVUU?oc=5",
-      "publishedAt": "2026-11-16T08:15:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "id": "e39505a2281c638a",
+      "title": "LS일렉트릭, 베트남 박닌공장 증설…아세안 전력시장 공략 확대",
+      "source": "Daily NTN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mSmE3Zkl1akNPd1hWcE5Vc1o5UGZFMHJVYm50SU9jLUNSVTlBNGdKQjRIWGt0bGM3WXVadEowaTQ1cnRvc1hSc3NuR3Z3Wk1TSzJrSjFJRmNqbHB5NGZTOHdjVWJ2dXM4Ync?oc=5",
+      "publishedAt": "2026-11-17T01:40:16.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -31,8 +31,37 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS, 올해 3분기 영업이익 4,882억원…전력 슈퍼사이클에 90% 성장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "LS일렉트릭, 베트남 박닌공장 증설…아세안 전력시장 공략 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "confidence": 0.63,
+        "positiveTerms": [
+          "투자 확대"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1f445648585500ea",
+      "title": "LS일렉트릭, 베트남 박닌 제2 생산동 준공… 아세안 전력시장 주도권 강화",
+      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSVTZDeDVXaDZUXzduWTZLYUs4Sk44Z2dfamtSaG05Ull1eXRZTTEzXzBYdGNTc3h6S2h2cnJsQXlVazl5dE15LWdUVzM2d2tUMzlaZzFxMlZHa2Z6MkRENVg2LXMzOWtIanRqMzZORHhvZw?oc=5",
+      "publishedAt": "2026-11-17T00:05:25.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 베트남 박닌 제2 생산동 준공… 아세안 전력시장 주도권 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -42,12 +71,70 @@
       }
     },
     {
+      "id": "e2d90b25b0456db6",
+      "title": "LS ELECTRIC, 美 빅테크 AI 데이터센터 전력기기 '1300억원 수주'",
+      "source": "인사이트N파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ESlRocEo1aHM3M2VSZTduNDRiQTdjcFZMdmFGLUtBemNGdlliMllUY3ZpcFBQWTdvYlNUUEt6TG51RWpQenZLWHVKYUJZYTA3NHpuM2p6Sl9zY1JMZ3hvV3d0RTFjQQ?oc=5",
+      "publishedAt": "2026-11-16T15:54:49.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS ELECTRIC, 美 빅테크 AI 데이터센터 전력기기 '1300억원 수주' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f4a79e61c70fe3cc",
+      "title": "‘납기 경쟁력‘ 통했다…LS일렉트릭, 美 빅테크 전력 인프라 1300억 수주",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RaWFIY2FFczVpeW02Sjg5UnJfbUZQejJwY1QxcjB1MjBQb3lBa3VQR180cUprdVM4T01CNWJmZ2s4aE5FZGRmcXhRZVBJZ3lldHFCZ045RkJYS1dSQVQxSEdFUHJMY2NjRGd5ZQ?oc=5",
+      "publishedAt": "2026-11-16T11:39:43.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "‘납기 경쟁력‘ 통했다…LS일렉트릭, 美 빅테크 전력 인프라 1300억 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ca6a9155ce1fdd61",
       "title": "LS, 전력 슈퍼사이클 타고 3분기 영업익 90% 급증…매출 10조 돌파",
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14blUtYXpoR3g0YnhaY0wyTXI1Q0hGV0FQWmZuQlFmNFl5ZThUamtRV3NCRjEtUnllSkRUV2xVVVFPd3J4YlZPQk5HRkFIMmNWLXZKTkwzYkc?oc=5",
       "publishedAt": "2026-11-16T07:54:57.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -76,7 +163,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05aEEtSVNhS0RUZmJxUGJiWjdZNmlWd3EycjVCQ1NMZkNxa0lUSzVhTWxWNFJGMHd3T0tveE9iWW5UdHA1TktCdHdBdDZNRDFHSDgwSnh0RUhuWDhPeFJQZtIBYEFVX3lxTE05aEEtSVNhS0RUZmJxUGJiWjdZNmlWd3EycjVCQ1NMZkNxa0lUSzVhTWxWNFJGMHd3T0tveE9iWW5UdHA1TktCdHdBdDZNRDFHSDgwSnh0RUhuWDhPeFJQZg?oc=5",
       "publishedAt": "2026-11-16T07:09:26.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -98,12 +185,41 @@
       }
     },
     {
+      "id": "48767530d31dcfae",
+      "title": "LS일렉트릭, 북미 빅테크 데이터센터 전력설비 1300억원 수주",
+      "source": "헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eTZvaGJVZ1o3RERQeHNuNlVWR0FfcXNZMnZUbnQyVWM0TTdrMmtpaVlPNXNQeDdHUS04eVAxY2RGQWp3UzVSbGVrR3Y0WUs3N2IwX1BQS3ZCWnVCQVFB?oc=5",
+      "publishedAt": "2026-11-16T05:07:16.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS일렉트릭, 북미 빅테크 데이터센터 전력설비 1300억원 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f77e32a25d8e2183",
       "title": "LS일렉트릭, 북미 시장 지배력 강화...빅테크 AI 데이터센터 전력망 구축 추가 수주",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MXzhoVWtzcnUzOS1FWmZrNWJxVmdLcTRoQkxzY29jMFkxUFZObDdDT2JfSl9hWkdzUXFkMWVjWEdUUTJYQndhcURYUTAxN1EzUGRvOFdZeExiRjZyTDdyTEdCcmdyZXhjV25WenJSX0_SAXBBVV95cUxNTF84aFVrc3J1MzktRVpmazVicVZnS3E0aEJMc2NvYzBZMVBWTmw3Q09iX0pfYVpHc1FxZDFlY1hHVFEyWEJ3YXFEWFEwMTdRM1BkbzhXWXhMYkY2ckw3ckxHQnJncmV4Y1duVnpyUl9P?oc=5",
       "publishedAt": "2026-11-16T04:47:39.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -132,7 +248,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxeFBiUTA4dGVoUDExU2dmTVdPTkhONFFrcmZka1BpU1ZqS0xWdGttaVlvZUgxalZrZFRJak94YVRBeHd4WVZEWHhRZGlFVW43SlNlTW54Wmk3NUVDREUyVDB2Z0Q3Zw?oc=5",
       "publishedAt": "2026-11-16T04:38:42.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -154,41 +270,12 @@
       }
     },
     {
-      "id": "23c92500321508a7",
-      "title": "LS일렉트릭, 美 빅테크 데이터센터 전력설비 1300억원 수주",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50akZoalN1ZUtoYjhVWGZRNnRoVGtJR2ZFc2V0c2d5WnlYQjVqMDJHOGsxRUMtSVJIWXlmS2Y3dGtScm5SR0N3QTR2c0NBZ0NnWHQ4RnEtN3ZsdUNVWUxoQ2lrVDI?oc=5",
-      "publishedAt": "2026-11-16T03:49:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS일렉트릭, 美 빅테크 데이터센터 전력설비 1300억원 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "307aaee63d2fbf2f",
       "title": "LS그룹, AI 전력 인프라 수요 확대…계열사 실적·美 수주로 확인",
       "source": "논객닷컴",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tWXNfakkxNUwwWVNoT2xBRWplaHhRUW1qbmc1b19HTzM1WFQ5MlpWMmVMenpOdHdnYjh0dnhBYWF4S3hTUWtCSTdrXzA3QU0yUEJBNU5qRzZ1TDNyelBMQWJuaURZNTJpUnRn0gFrQVVfeXFMTy1Zc19qSTE1TDBZU2hPbEFFamVoeFFRbWpuZzVvX0dPMzVYVDkyWlYyZUx6ek50d2diOHR2eEFhYXhLeFNRa0JJN2tfMDdBTTJQQkE1TmpHNnVMM3J6UExBYm5pRFk1MmlSdGc?oc=5",
       "publishedAt": "2026-11-16T03:13:04.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -212,12 +299,12 @@
       }
     },
     {
-      "id": "b8dfc87c5d7676b4",
+      "id": "2b70b54acd8a4d9c",
       "title": "LS일렉트릭, 미 빅테크 전력사업 확대…1300억 추가 수주",
       "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83RmwtcFZsUVZwTzVfV2ZCdnkyamhPdWZ2ci1HZERFR3d5bW9FQUszeW9DRm5SSmdoZGVOUnFVc0VmWTU4QTVyY0VZd1VYUmpDMmtpeE9YUzhWWnN5UWFkbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lai1oaUVDUVRFQXNpUEhocWRxT29IRzNMRVBnZ2xLNXdFZ0xYMUtLYXRxWkVMTkRrOHJGWWNrTXB3eldaWHNKeGpOMnRRaV9tS2JuMGFQN2hLZTRfUEJGNQ?oc=5",
       "publishedAt": "2026-11-16T02:42:27.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -246,7 +333,7 @@
       "source": "에너지플랫폼뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cEpJUlE2a2p1Y0xRR0lMUGgyanNmMVdqeHhMd3NMZ1VYdVpQc0Q0cVJ5alRuajk2eGdSWnh6Rk1nUDNiSzA4QjBkWlZFV1g1bzZ4c3lMMllpTlNKbFg0Z1VWS1Nta3QwRHRwddIBcEFVX3lxTE5WREpncmttT2lKNlZJMGVDTDQ4NlRQSVpzc2pHZk9sT0NzcGExRmNhc1B1REktYkxlT3lpd3hFY2xyM1JpWEpJb1U2NUxyaEJJRGZZOE1SSGJkS2kteDJFNXExRkFLUHpjZk1Wa3B6aGw?oc=5",
       "publishedAt": "2026-11-16T02:15:48.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -273,7 +360,7 @@
       "source": "시사저널",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HVnlOZnd1VVk5MUdyODJNcGtUam1zOUprd1NvNTVFTWw1RDN6dldPVXpfanRtdWlOdVh6RzJqV19jTXA1cGEyX0lBOG1HRE1fdXpRWEdmWXVCZUl4UmtxbUFpREg3NVZLY2hOMGNmMGhTcUnSAXNBVV95cUxPR1Z5TmZ3dVVZOTFHcjgyTXBrVGptczlKa3dTbzU1RU1sNUQzenZXT1V6X2p0bXVpTnVYekcyaldfY01wNXBhMl9JQThtR0RNX3V6UVhHZll1QmVJeFJrcW1BaURINzVWS2NoTjBjZjBoU3FJ?oc=5",
       "publishedAt": "2026-11-16T01:24:39.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -300,7 +387,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzZnJucnlYLXYzTGJERW82UFgzTFEyM3RReWRiVFN3Z1M2UTM1OVZlZjF6aTJmYWhqbXFvNEdvMFlka25ScmV6R0xJRy1TTlR3QjlyYzJFM0ZWbFBBaHdPcNIBYEFVX3lxTFBzZnJucnlYLXYzTGJERW82UFgzTFEyM3RReWRiVFN3Z1M2UTM1OVZlZjF6aTJmYWhqbXFvNEdvMFlka25ScmV6R0xJRy1TTlR3QjlyYzJFM0ZWbFBBaHdPcA?oc=5",
       "publishedAt": "2026-11-16T00:31:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -322,12 +409,12 @@
       }
     },
     {
-      "id": "078dd97d98ebc286",
+      "id": "6000387a95dd3fa0",
       "title": "구리에서 AI 데이터센터까지…LS, 전력 밸류체인 넓힌다",
       "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vYThGOEdyYVAyRHN6Q2VEZHBaQ1RueWVOMHhmM1JuSkpSVVlYVC1ndlFjWUJuOTdGcDdtekhQOVpWeTNHSldZak9tNzd3b05xUkdURDJBV1hmYWUyOXBpYzNUSl93S0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRjR2YXBUY1lVMmtjX3FIb3NyMEk3cU1oaC0xNzI0UDk3RHluTk9VVVIxd0FKRVFubHMyV3NuU1lVZ1JDYzRXQlJjVC00MFdOVUplNUxjdEdrOHRyR2FuVUJGMkJXdV9D?oc=5",
       "publishedAt": "2026-11-15T23:00:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -354,7 +441,7 @@
       "source": "FETV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lel9uLWU1U2tCa1FUTVhRQTBQel82ZlVoOG0xTm15ZDVwNHhVYy1LZ1VJai1NM1VxR09BRjl5dVc4QXFPbEtQaTdoaXRzMXVXTVBpRTJfVUt6UXpVZmtpLTBicTBNVzBq?oc=5",
       "publishedAt": "2026-11-13T08:00:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -376,12 +463,12 @@
       }
     },
     {
-      "id": "d039348a74206544",
-      "title": "[LS, 23년의 영토 확장③] 4인 4색 날개 단 3세 경영진…‘자산 50조’ 눈앞",
-      "source": "투데이신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DVEIxY0hFSFpGM2hZVkxtRFAzVGl0TmUxLXRkM1dEZl9leEVYdjRSNUVPb3VjdzVuZnotZVhVZ2pxZGtNSjVxc0NmQjhzZEtVa2Y4bzNreUQtZFZOWGh4YzY0X3NWSS1Lc1JZ0gFvQVVfeXFMT3RtYTNJc0hReUt3Tng4Y2NjMG5TQXBKbHl1WlB1NnY1ZzVxd0xPUUlPRkd1cjh2aFpoUTVWR3I4SWprTTNLc25pRkRPNU9DbHJwRFNjRVMyTnpoSUMyclh0a0ZJUmd3UU83WlJtMy00?oc=5",
-      "publishedAt": "2026-11-13T05:41:28.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "id": "6d5cb101a604c6c2",
+      "title": "LS, 원자재 조달·금속 가공 통합…1조3000억원 규모 'LS메탈플러스' 출범",
+      "source": "경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZXprdk1DY3lfWW14cjRYb1pQbGFDVTVpajN6VjZuUW0yQjA3SllHQkRGNm9jWmR4bDdvTy04R0NvTjZiZHBzeVc5QnRRYWhPSWVXNUtjSkpfckEtSllnTi1qZ3F5N1lB0gFoQVVfeXFMUG5lemt2TUNjeV9ZbXhyNFhvWlBsYUNVNWlqM3pWNm5RbTJCMDdKWUdCREY2b2NaZHhsN29PLThHQ29ONmJkcHN5VzlCdFFhaE9JZVc1S2NKSl9yQS1KWWdOLWpncXk3WUE?oc=5",
+      "publishedAt": "2026-11-12T22:07:17.000Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -392,7 +479,7 @@
           "ticker": "006260"
         }
       ],
-      "summary": "[LS, 23년의 영토 확장③] 4인 4색 날개 단 3세 경영진…‘자산 50조’ 눈앞 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "LS, 원자재 조달·금속 가공 통합…1조3000억원 규모 'LS메탈플러스' 출범 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -408,7 +495,7 @@
       "source": "전국뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LT2xhTFJzU0REMmVOd0ZGUmtIMHVONHhiUnhMYnk5cVFsOXJMYVl3N3RJcm1wb1FteEw3eVJVR051bmFvOXMzMFR6eFQxdngzaHBfY0RHTjM2d25YaFdlYy0wLTIzbVRGQ1RDY3ZISTM?oc=5",
       "publishedAt": "2026-11-12T06:35:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -435,7 +522,7 @@
       "source": "투데이신문",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZ3UtX196SDdiNkw1UXhSbUx3bWNYeWNCTGkxNDhGMTdnejBFN0RINkxkOElJVTVycVRBbVV4SnBRYmVNYVp2QnNFcktDNzBQTlBTaG5oenFqYm1qLUZVZXg4TjJNQ0sxYlBTaEJEc9IBb0FVX3lxTE1qZ3UtX196SDdiNkw1UXhSbUx3bWNYeWNCTGkxNDhGMTdnejBFN0RINkxkOElJVTVycVRBbVV4SnBRYmVNYVp2QnNFcktDNzBQTlBTaG5oenFqYm1qLUZVZXg4TjJNQ0sxYlBTaEJEcw?oc=5",
       "publishedAt": "2026-11-12T03:39:42.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -462,7 +549,7 @@
       "source": "에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93eEZOLTVkVTQ3TjMwUlpqQm5icmlpbVlTMzVSLTlHcVpFUnU0LTlPaW9BY3RsUXRTZndxZU5odDk1U1Axbjk2TEZXT1QtN1NzSkhLYl8yajFlN28?oc=5",
       "publishedAt": "2026-11-10T23:59:27.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
+      "collectedAt": "2026-11-17T04:53:47.924Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -475,87 +562,6 @@
       ],
       "summary": "LS MnM, 전기차 50만대분 배터리소재 공장 준공…‘제련 넘어 핵심소재로’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7bb8ff690515b24c",
-      "title": "LS MnM, 온산제련소 신공장 준공… 전기차 배터리 소재 새 성장 동력으로",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVhESmxsMGRWV3QwMTdJOFowaThxVG5Dd09SNFNvRDNEZ1BhTS12dmE4N3VtWHZ3cTlLejF0Vzl3MnJqckJ5ZDBsZ1JGNHpKNjRSN3hjR2tNdklldHI4N2E0QnVySklmckpMcXNGTjZVOFdVT2lMbEV0dGZXRlNDUWd3OU1vT1N0bVFER3VPRQ?oc=5",
-      "publishedAt": "2026-11-10T21:34:04.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS MnM, 온산제련소 신공장 준공… 전기차 배터리 소재 새 성장 동력으로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6859af6f6329cb03",
-      "title": "[LS그룹 인사] ③‘오너 3세’ 구소희 상무, 일렉트릭 '데이터센터' 이끈다",
-      "source": "FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95aXo0NGhzYi1zUkloZndpN2lFLTRXR0FZdTR1Q1haemlwMUJWS2g3eTc2bG5YUXBjdjE4alVlOGZfdjdUdk11REZRTkZBdk43cmFOMWliMmR3VzlxZWdURkZ1V20wVFpT?oc=5",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "[LS그룹 인사] ③‘오너 3세’ 구소희 상무, 일렉트릭 '데이터센터' 이끈다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f372b291a35558d0",
-      "title": "'100년 기업' 닻 올린 LS MnM, 배터리 소재로 띄운 승부수",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lc1l3dGdNM0Eyd2RGTWdsYXpUa3ZHN0wydVU1NXdHb3FLTTdEZWotNkhvQ2xMUHhqeEdFR2JoZzJBSXlJT0N5N3hpTjFZQzA4VER5VVNYdHFfU0l6Y284T2JBdllMNmxzeWdpRw?oc=5",
-      "publishedAt": "2026-11-10T07:31:02.000Z",
-      "collectedAt": "2026-11-16T10:23:09.803Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "'100년 기업' 닻 올린 LS MnM, 배터리 소재로 띄운 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
