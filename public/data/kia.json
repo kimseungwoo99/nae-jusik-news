@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:57:57.267Z",
+  "generatedAt": "2026-11-18T16:04:03.687Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,72 @@
   },
   "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "테슬라·BYD 독주 끝나나⋯ 내년 신차 칼 빼든 현대차·기아, 안방서 대반격",
-    "\"박세리의 차로 유명세\".... 신차 6000만 원→2000만 원대로 뚝, 갑자기 무슨 일?",
-    "\"쏘렌토 보다 오히려 좋은 9인승\"... 연비 18.1km/l 찍고, 신차가 3870만 원…"
+    "기아-고용부-협력사, 안전 공동 선언식 개최 | 뉴스 | 현대자동차그룹",
+    "현대차, 생소한 이름의 전기 SUV '네이라' 공개... 기아 카렌스 크기에 7인승",
+    "테슬라·BYD 독주 끝나나⋯ 내년 신차 칼 빼든 현대차·기아, 안방서 대반격"
   ],
   "articles": [
+    {
+      "id": "f22634c39f722902",
+      "title": "기아-고용부-협력사, 안전 공동 선언식 개최 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEVRQjdIOGcxUW9PSXg3cHQxWEtER2xWYllka2YwMGV0YVVEY2xJZE44TDdaa2k3S3l3YWQ5MWFTaU5vQVVTQXZ6X2F5V3pkX2FlLURGNVBkMjlEM0lpNW85TXh2N0xqc0gta0dKSzlBWEpNay1YZ1lGekJFVVdDSUFCSDMxNnk3bWtGRXlpNGozeGUwNXlfaW9vZUhQQzd5am1tOUVPYUQ?oc=5",
+      "publishedAt": "2026-11-18T07:55:00.000Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아-고용부-협력사, 안전 공동 선언식 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5e364245863c56d9",
+      "title": "현대차, 생소한 이름의 전기 SUV '네이라' 공개... 기아 카렌스 크기에 7인승",
+      "source": "오토헤럴드",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vV1dQZXpYT2ZIU081VEVLenJqdExSNUkxd25fcVBWbnoxV3dWYjhSUVg2OFllSU9kd29qSFVla1JMd3lqWGhuZ2FlMVctRHhMVlUzWERXQlpBUXhVZ291RkgydXNPaDJFcllnTWln0gFyQVVfeXFMT25Rbk1aX0hIblRha3hWTW1KVlNaanY0dHB5VFo4VnR0RTQ3SHBldC10cS1tTUludnhOcjVjRWtFT1ZxMUVGOEtVMmlkR184OENzVjBCOExLd2NVUE41NjhOQ0JBYjJ1ZUgxZUNYNDZ1TUN3?oc=5",
+      "publishedAt": "2026-11-18T05:30:00.000Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차, 생소한 이름의 전기 SUV '네이라' 공개... 기아 카렌스 크기에 7인승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2cfae4ca4954ec40",
       "title": "테슬라·BYD 독주 끝나나⋯ 내년 신차 칼 빼든 현대차·기아, 안방서 대반격",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaTU5TZkhNaTR5WUNEWGQ2OU5rSTJSZ0Vwd04za01fNVptdXdmRE5jT0xvdFNvemZuNElkeFBNUGhkMFRkb2Yzc09KZlNIbEdsRm1faTZYQzZ6QQ?oc=5",
       "publishedAt": "2026-11-18T02:01:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,12 +96,12 @@
       }
     },
     {
-      "id": "3277bd09ff2106ba",
-      "title": "\"박세리의 차로 유명세\".... 신차 6000만 원→2000만 원대로 뚝, 갑자기 무슨 일?",
-      "source": "오토트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ay1zeXhMOHFLZWtxNGVReDBPRkVFNUptenBmeUVVT1dsVVNBYTZTc3N3ZWQ5VlZTZUVGNF9MTHR0WkhhMVAybFNWOTh4MkpCdXFtTjR2QnpRZWNfYlNJdGF4ODhtNUNkUWpVRmVfLTQ?oc=5",
-      "publishedAt": "2026-11-17T18:15:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "id": "5a95f2afa1c66488",
+      "title": "“잘 팔릴 때 더 판다”···기아 안방 공략 승부수",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rNDNsakt3VnNOaktsdEp6Z0R0WGpVNTZJVl8yNXlOUnRtNmRQaVNzVmd5aVdNc2ZsalItbFZUd0daYXY0SFN3eTNhejhIV1NCY0JnaEJWOGcxaDhUZW13OE9BdmM1blFfdUtaaEgxaTdPUdIBdkFVX3lxTFB3ZUZDZzhScXpKcUpaejJhd0VfVkN1bXpKdFZzbExSaWZaQUtOclhDaWdyWnZQZGFPc005V05PVWo4UXFBWVltWHRBYmpsYnNNZTNBcGJzdHp0YmI5cTVieXhkSFc3WU5aRXlLUExURXNOTDRiSmc?oc=5",
+      "publishedAt": "2026-11-18T01:32:14.000Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -58,8 +112,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "\"박세리의 차로 유명세\".... 신차 6000만 원→2000만 원대로 뚝, 갑자기 무슨 일? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
+      "summary": "“잘 팔릴 때 더 판다”···기아 안방 공략 승부수 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -74,7 +128,7 @@
       "source": "오토트리뷴",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qeEpjeFhjc19HWGFEUVhXWWlMeUR3R2JKTFFBTEFGUF8yZXFoWHVyMTEtVUpRWDdnUm1BdkdfTHFMb1FpOWdyQUpuV19KUjBPNEJqTkxLNWpJQXVUQlM0azFuaFo4YkJ5Nm1qQUtLMi0?oc=5",
       "publishedAt": "2026-11-17T18:05:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -96,39 +150,12 @@
       }
     },
     {
-      "id": "45fdd95656148842",
-      "title": "“화면은 세로로, 계기판은 운전대 뒤로”…기아 K5 새 실내 포착",
-      "source": "뉴스와",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk5McWZiSGg0R0s2c3Y4NTdPSHc0YWVOSzVyQ3dENmNrT3UzV1dXbEJqX3FkbFAzN2VpVXFoRmlRbEFCZHF4Z2R4UFNpTUxaX2RDOWRxUkN5a2ZXWFZTZHF4MkhfX2NYUnczNEt0QlJrRjlvcGNFRGhDTUVJT3lOVHA3MA?oc=5",
-      "publishedAt": "2026-11-17T12:22:28.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "“화면은 세로로, 계기판은 운전대 뒤로”…기아 K5 새 실내 포착 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a0b133382a83e134",
       "title": "현대차·기아 격차 좁혀진다…‘생산량·가격 변화 주목’",
       "source": "ER 이코노믹리뷰",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNnZkOFhBWWhqZl9oc0VEQzJSeGg1SGdTWHk4X25VY19DUm1rVFpZeVA5V21zc0cxcTZYM2xrUThFTnVRSzlkalJOei01ZW1DX3VXRVplWmk5T2htMUxzMnZrY3BneFpjZkM1ZA?oc=5",
       "publishedAt": "2026-11-17T10:08:26.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,7 +182,7 @@
       "source": "이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYUtvODRpME9ZbkF4SzktUXU3aDdVb2dvQ1VaS3Q2Z0VoNnN5SjlES2dfSk00NUtXZm8ya3BHTmZFb1ZOOWdnc3gyV05mTHBLQzU2S0dYRDhmN3RVNzNlMXZ5bjhoUE05bjlPSnhBSng2Q3Y00gF0QVVfeXFMUFFhS284NGkwT1luQXhLOS1RdTdoN1VvZ29DVVpLdDZnRWg2c3lKOURLZ19KTTQ1S1dmbzJrcEdOZkVvVk45Z2dzeDJXTmZMcEtDNTZLR1hEOGY3dFU3M2UxdnluOGhQTTluOU9KeEFKeDZDdjQ?oc=5",
       "publishedAt": "2026-11-17T07:20:57.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -177,12 +204,39 @@
       }
     },
     {
+      "id": "fb61aa8939eebfc3",
+      "title": "“전기차 좋아하지만…” 현대차·기아 두 대 몰던 자동차 기자의 하소연",
+      "source": "한국원자력신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPRmNZTU9yTTBfS2YyR084akRBOWtpaFdvSTVsNmZkVmpnU0V2YndwSFNlc05rbmNJOFN1aHdENHVNN1ZnR0wya0VpMUNmR05CMktFRjNXcTAtOXJvSWpteGlDMkZJbFHSAWtBVV95cUxPTnpYSWdMRnkzN0Y0SzcxQ0pYZms4ZmY2OG5Hb29GQmpEc3pidW9pcTVBN1hSY1ZzTHJtMUI2NF9xZnJNb29jYzdhS2VLVDZGbkxTMG00SmRNZmxTZW9PY3ZabERIZFg4eWxxMA?oc=5",
+      "publishedAt": "2026-11-17T05:19:27.000Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "“전기차 좋아하지만…” 현대차·기아 두 대 몰던 자동차 기자의 하소연 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0e38ee6da93e44fe",
       "title": "기아, Vision Journey 팀장·부서장 과정 성료 | HMG TV | 현대자동차그룹",
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUd2VnhSR3NqcWVodVF6ck1oVkRrUjZOSEZoRFBVdFlTNGJLR0NJLWR2NWhSSlF1WXlteC1OSmg4ZFE1QXRDWmZxSXVjVlBVOFVZeEVYZkFkQVRsOWtWUGYyMUZjTlRCWk4zN0Z3QS1DSlMzZHUzR28wLURXeU1MUUdxU0dQdUJ3SjV4Q19hU0lLaUVfZW15UW53?oc=5",
       "publishedAt": "2026-11-17T02:05:41.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -209,7 +263,7 @@
       "source": "세이프타임즈",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sU2tiUTVBOWc1VVJKYk9nU2VvNlFFSXBwV1pySmZhWnhpQjNPN0lqbDFsNFV0UUJXTXR4RUhrbWEySDdOZDZCSkxBeUVLXzhCY1k0QmhfQ0tTUUFXM0k4LXpMX1JxalhvYVZzMnVGbzNjd1XSAXNBVV95cUxPbFNrYlE1QTlnNVVSSmJPZ1NlbzZRRUlwcFdackpmYVp4aUIzTzdJamwxbDRVdFFCV010eEVIa21hMkg3TmQ2QkpMQXlFS184QmNZNEJoX0NLU1FBVzNJOC16TF9ScWpYb2FWczJ1Rm8zY3dV?oc=5",
       "publishedAt": "2026-11-17T02:01:44.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -231,12 +285,39 @@
       }
     },
     {
+      "id": "b1eeee85ee15de00",
+      "title": "[단독] 기아, 현대카드 부담금까지 ‘차값 할인’ 주장…국세청과 세금 공방서 또 고배",
+      "source": "필드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mMkdkaWFPcjV3QWNYZm9fOXdWd2J1OGoyMGg4SUo4Vmp1WXhMOUVIT0Q5X0pvZUZsM0ZpS25hZjJPbEZTdnM1S2dEVEJlVmpCN0w5YWxxeE9NQ1dPdVFNUnFRcVRaMDYt0gFsQVVfeXFMTUJvcktjVURnNnZZOGExaW5ybE8xSTlEOHptNUVFQk84YlhvcFh1TVRBZnRIT2YweUlucGlleGVGRWJnZDZHOGhBZ3hKN3ZaSm82ZkxtZ0JZOGFEc19VSWJIMTBOdzBnN0NPbTNF?oc=5",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "[단독] 기아, 현대카드 부담금까지 ‘차값 할인’ 주장…국세청과 세금 공방서 또 고배 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a9d05ee4bc4373f9",
       "title": "동희오토 하청노조 “원청 교섭 거부, 기아차가 나서라”",
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92T0NJZ0lSSzlqZktkYjRGbDhXaFluN1dmTmZFWVE0c3RwSWxCMWp5bWpUQjBDeWNKcHhQcWU5aFVxb2oxbHc3VFpxeUJZdExIY0QwaWlBbTNBdHc0R3dLU1BOeFg?oc=5",
       "publishedAt": "2026-11-16T09:55:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -263,7 +344,7 @@
       "source": "글로벌E",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwM3FmVk5QeXFSMWNBZmtzMXRNOEdIcnkzU2RJNWRpRVZkbmhiZlJoYy1YLVZScjU2dS1hTjRRY1d6MGVNTEJORWVSaUZ1SS1BSll0MjVJdS1KbFY2b045MVZXTUc5bTlCZVZ4TDVYTdIBb0FVX3lxTFAwM3FmVk5QeXFSMWNBZmtzMXRNOEdIcnkzU2RJNWRpRVZkbmhiZlJoYy1YLVZScjU2dS1hTjRRY1d6MGVNTEJORWVSaUZ1SS1BSll0MjVJdS1KbFY2b045MVZXTUc5bTlCZVZ4TDVYTQ?oc=5",
       "publishedAt": "2026-11-16T07:11:44.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -290,7 +371,7 @@
       "source": "참여와혁신",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KQ0lCVzMyUHBOYy1pNHZQRVN4OGtwMVRSa19mVXBTMGMwWktDYmdWS3Zib3htcFlYbFBTR3liaDFNZ0ItZlBVTzRXZGhYVUZ6TE05YVRrNF9RZFVqZl8zekVQRFBrOWdKMTlhdmNR?oc=5",
       "publishedAt": "2026-11-16T06:19:21.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -317,7 +398,7 @@
       "source": "아시아타임즈",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdTdJeTV1VzZJWERBQjM2S0VSNnBMXy1jS2FXVGtSU1FzQ1JyMFpfTWNTZExSOFFXZm0xUDVidUxQY21ONV81VDlhWE8xdVl1azYzX1NCX2Jsb1lJNVE?oc=5",
       "publishedAt": "2026-11-16T04:44:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -344,7 +425,7 @@
       "source": "싱글리스트",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XS2FEUmhyYUtoSHpvVW1YdmpyQVMzUU5ERlJQQVFsOHlobEZjRE9MaVZYUGxNY3VMSmRqM0RlV3lGbkNWV19yYU9SRXdTRmRtWkFSdV9TeXVJaUJacFJiNG1uMFNRZw?oc=5",
       "publishedAt": "2026-11-16T00:58:37.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -373,7 +454,7 @@
       "source": "한스경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03ekZ2c2ljQUt0N1FLSDlsT3ZyWnNHZzRaUGY2SXFZOGNkV2lscExRLV9PbmttaldEMWNOQzB1d3hjVnlqUWs5U0pfcjZ2VG9WX2NVZkVWQ3FIakNTUTE4cUVPRmlORU81My0tMg?oc=5",
       "publishedAt": "2026-11-16T00:37:42.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -400,7 +481,7 @@
       "source": "지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05UWh4WEMwV1FpaEdDQlJyQ0pLSXlZOURiM3FLTUUybmg3M1VwU091bll3UF9ld1BZNjRUMl9KM3Z2S3JnaEdRN0RDRnFOQmRZMHlLUk5B?oc=5",
       "publishedAt": "2026-11-15T23:47:37.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -427,7 +508,7 @@
       "source": "오토트리뷴",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41dlJvOGMwUVZkR3lHaWpsTTJEQTB5UEk4bmwybFJtTFM3c0Y0Z1J3U09peXFKRnlZUllaMjhUVTROV2xHT0NxS0ItZTAyODFlX2hFdVVYM3dldmxHWGtHa1ZkWU5qN0wtaUgxZnFqQVM?oc=5",
       "publishedAt": "2026-11-15T23:12:35.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -454,7 +535,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lWW9XQ3NQY0N5MnR1UEdRMW14QXJ4YURVMkVYRkdKOFBiSUV4RXNlY3gtS2VNc1NmVFV4UzZpYjNzYTU3Q0xWc0c1Q1dsNTd2QndmNjdpeURxdm9xTWFHT1FiTEllRU52WTZ0a1lONDlVUdIBckFVX3lxTE1lWW9XQ3NQY0N5MnR1UEdRMW14QXJ4YURVMkVYRkdKOFBiSUV4RXNlY3gtS2VNc1NmVFV4UzZpYjNzYTU3Q0xWc0c1Q1dsNTd2QndmNjdpeURxdm9xTWFHT1FiTEllRU52WTZ0a1lONDlVUQ?oc=5",
       "publishedAt": "2026-11-15T22:30:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
+      "collectedAt": "2026-11-18T16:04:03.687Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -466,87 +547,6 @@
         }
       ],
       "summary": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3316f1391417122b",
-      "title": "기아, 카고컨테이너와 신차 고객용 '아웃도어 웰컴키트' 출시 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wSTQxUzZGelV0M3ZuV3hkYm05RjBMdVo3eDNnWi1FRUdqZnJrcjREblExODdzdmhQMlNoQTI1cF9sMTVaSE5EbXJjNHo2Z2NiaHJpNzVUa3R5LTRjcHkwU0JkU1V2X3ZGbldCaNIBckFVX3lxTE5DRTg0aDhxb09OSjVIcnF4U2d3SnJYb3BiQ0pWLXMxMGxHeTN0UF80UGZ0YU43cnhKNUJLNlI3ZHhWck9fMEtNd1FUQmVEdS1Pajc1aTJFbzgxQUZMRVV6VnRvRFRkTXVSdmNWWk9KM3kwZw?oc=5",
-      "publishedAt": "2026-11-15T22:19:00.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "기아, 카고컨테이너와 신차 고객용 '아웃도어 웰컴키트' 출시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "19658bc898c6b266",
-      "title": "\"지금 사도 8개월 걸려\"…불티나게 팔린 '가성비 車' 정체 [최수진의 모빌리티톡]",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Z0l6UlFmZjJvWGNCbFRzeXE0X2NvVlVTaGd6VmNMZThxanNKLUs1ekFlRm5QY0huNjAzR3NqMFE5UXZRbV8yeHk2T0ZUaG9MRUdKZTJZQzJ2Zw?oc=5",
-      "publishedAt": "2026-11-15T01:30:01.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "\"지금 사도 8개월 걸려\"…불티나게 팔린 '가성비 車' 정체 [최수진의 모빌리티톡] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9c4a9ff2d237dbeb",
-      "title": "“아.. 괜히 샀나” 기아 EV5 벌써 신차 나오나, 예비오너들 급 고민",
-      "source": "닷키프레스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bkg0Z1l0WHZpaDktTmFaQlJuNjRfbVRka2gyeXRiSXl1eTQ4R0J5VWtBdFZlWTBnVWhoQ0FaSmxhLTBtQl9qT2VtVVF2WTlxTmE3TnF5dk15QdIBX0FVX3lxTE9NdGR2Y0NpWm5YaF9CeXNNUjlZbjJPbzdxdUx5eDZjbXp2MEE1TlFyNDl0dURxd2l6TWxGbExHdExsYndfMUN3d040eFdJTEhiME14cUV2WGxlaFR0V1Yw?oc=5",
-      "publishedAt": "2026-11-14T20:43:15.000Z",
-      "collectedAt": "2026-11-18T03:57:57.267Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "“아.. 괜히 샀나” 기아 EV5 벌써 신차 나오나, 예비오너들 급 고민 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
