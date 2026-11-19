@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:54:56.185Z",
+  "generatedAt": "2026-11-19T16:11:37.109Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,101 @@
     "name": "POSCO홀딩스",
     "ticker": "005490"
   },
-  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "포스코홀딩스, 사업회사 포스코에 해외 철강사 지분 매각…2893억 규모",
-    "포스코홀딩스, 중국 CATL과 3년간 전기차 배터리용 리튬 공급 계약",
-    "장인화號 포스코그룹, 글로벌 1위 車배터리사 中CATL과 3년간 리튬 공급 계약"
+    "배터리 1위 ‘CATL’에 리튬 공급...포스코 ‘신났다’ [오늘, 이 종목]",
+    "[한국의 CISO-권력지도] '그룹 IT·보안 총괄' 김무상 포스코홀딩스 상무…26개사 쥐고…",
+    "포스코그룹, 중국 CATL과 리튬 공급 협력"
   ],
   "articles": [
+    {
+      "id": "ffd672b291016127",
+      "title": "배터리 1위 ‘CATL’에 리튬 공급...포스코 ‘신났다’ [오늘, 이 종목]",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hd2FPRzJzakRjYmFSWlhmRU5jTFNfTTFWNno5OFdNZjNMZGQzSDVrTk05ZTJQY0VNaG13dXRBUXVVOW9wNFlvT0NmNFV6OFVsd2djTA?oc=5",
+      "publishedAt": "2026-11-19T04:19:48.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "배터리 1위 ‘CATL’에 리튬 공급...포스코 ‘신났다’ [오늘, 이 종목] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7dacb28e835b7034",
+      "title": "[한국의 CISO-권력지도] '그룹 IT·보안 총괄' 김무상 포스코홀딩스 상무…26개사 쥐고 직보 ‘0점’",
+      "source": "블로터",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Qm1LcWw5T1F4SWxVR0V3TW5qZVJfRUVXV2VTWGpjX0JxamlJbDRWMVQzcWVuSXMxdFBFb0hZRlNSTFhrNFpZajg0RlZuV185cGlGUXdQUVBmMmJJdTR2RFJxa1JtdEM4X3l5b9IBbEFVX3lxTE54Qm1LcWw5T1F4SWxVR0V3TW5qZVJfRUVXV2VTWGpjX0JxamlJbDRWMVQzcWVuSXMxdFBFb0hZRlNSTFhrNFpZajg0RlZuV185cGlGUXdQUVBmMmJJdTR2RFJxa1JtdEM4X3l5bw?oc=5",
+      "publishedAt": "2026-11-19T02:27:19.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "[한국의 CISO-권력지도] '그룹 IT·보안 총괄' 김무상 포스코홀딩스 상무…26개사 쥐고 직보 ‘0점’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "7c15f9979a05afca",
+      "title": "포스코그룹, 중국 CATL과 리튬 공급 협력",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBINnRDc2dSTWRVWFRWbWFQQ3JreUVRanRkMjg4V2x0UW1UVk5Uc1pUTFkxc3lYZnJXaTJDSzl1dmx3SEQ5eUJFMzZ6dlBrajlyd29wTmJrTUE2LVkzeTlfOFkyc0hldw?oc=5",
+      "publishedAt": "2026-11-18T08:11:20.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "포스코그룹, 중국 CATL과 리튬 공급 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "08a01c66faef10a7",
       "title": "포스코홀딩스, 사업회사 포스코에 해외 철강사 지분 매각…2893억 규모",
       "source": "페로타임즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yWmg2Q0pmWVBDNmx0V2NzUGZ4aEYtdnFCNXg2SGhicUFnQm1YOUJ5bHZrMzM1YVh1a1gyT1VuWDNpV0VwaG1OR0xQODVueXAxaFF0SElxUHQteVBBeHJTRHh3VnZoaVR6QXBXSA?oc=5",
       "publishedAt": "2026-11-18T08:08:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -42,12 +123,39 @@
       }
     },
     {
+      "id": "917a2f8c14b56ccd",
+      "title": "포스코홀딩스, 장인화 회장 직속 ‘통상조직’ 부활…이호준 부사장 영입",
+      "source": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCWGtJZGtXOE1MZ2xJNGNhN2Y1MVVkSEFqSzhmdFpsNVNVZlJYQk85VHhCVVZQREF2Tk1FQXNFc3I3bFczbnc?oc=5",
+      "publishedAt": "2026-11-18T07:23:16.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "posco",
+      "stock": "POSCO홀딩스",
+      "ticker": "005490",
+      "relatedStocks": [
+        {
+          "id": "posco",
+          "name": "POSCO홀딩스",
+          "ticker": "005490"
+        }
+      ],
+      "summary": "포스코홀딩스, 장인화 회장 직속 ‘통상조직’ 부활…이호준 부사장 영입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "08d73cb23b9278e7",
       "title": "포스코홀딩스, 중국 CATL과 3년간 전기차 배터리용 리튬 공급 계약",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUWHZUVnFaVW9kNzVzZlRJbVZScVNtbnI5Smd1anVVdFNHc0RPTFZRaWcwLUlHdGpkUnp2LVp1YXRtb3JTbVM5T2QxbG9EUTlLZUI2bndXYXVtR2ZYbDlINHVxNGJFTVFaWmdvcGFCeWdSWDg?oc=5",
       "publishedAt": "2026-11-18T07:15:12.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -71,12 +179,12 @@
       }
     },
     {
-      "id": "6cd9c0bae7744fe1",
-      "title": "장인화號 포스코그룹, 글로벌 1위 車배터리사 中CATL과 3년간 리튬 공급 계약",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JemJTc19DQ0pNM0Y1R1pKZDlBUHBkbk16ZzEzZEVuTXhVNEFial9kNzdZejRYVzNGMVZSeE5lNTNfVE45VzYxU1RVQVJKNEdzaTRuZ05WUk44NkhBWS1NcnFzdjludG43VmwzVVZMbHcxZUxOVE1lbtIBeEFVX3lxTE1JemJTc19DQ0pNM0Y1R1pKZDlBUHBkbk16ZzEzZEVuTXhVNEFial9kNzdZejRYVzNGMVZSeE5lNTNfVE45VzYxU1RVQVJKNEdzaTRuZ05WUk44NkhBWS1NcnFzdjludG43VmwzVVZMbHcxZUxOVE1lbg?oc=5",
-      "publishedAt": "2026-11-18T07:09:37.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "id": "1b7a5f316ffb0015",
+      "title": "포스코그룹, 中 CATL과 리튬 장기공급계약…2028년까지 공급 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CS191cWRwNU1iakRVaGw3cTBFMDRucWlYXzFLOUY1TEZHdkJPTjJtMUdMeHlSZDNBbUlOQUp2U2dBU2MyVGthd2pwVU44MVh1aFpvaWZzZkZqWUtQWDRfT0F3c3Q0TjZSQVZrX2RKblhvZ9IBckFVX3lxTE1CS191cWRwNU1iakRVaGw3cTBFMDRucWlYXzFLOUY1TEZHdkJPTjJtMUdMeHlSZDNBbUlOQUp2U2dBU2MyVGthd2pwVU44MVh1aFpvaWZzZkZqWUtQWDRfT0F3c3Q0TjZSQVZrX2RKblhvZw?oc=5",
+      "publishedAt": "2026-11-18T06:56:11.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -87,7 +195,7 @@
           "ticker": "005490"
         }
       ],
-      "summary": "장인화號 포스코그룹, 글로벌 1위 車배터리사 中CATL과 3년간 리튬 공급 계약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "포스코그룹, 中 CATL과 리튬 장기공급계약…2028년까지 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "positive",
@@ -105,7 +213,7 @@
       "source": "포스코그룹 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQRnJtZVZkRkVySndQNWh3NUhkeGtSUVFNODB1Zk4ybGUwV2Jfc2VDSHpsN3pXOW9qSDN3MS1rYTRkMmhYSnRvSXNFVF93ZXJFRTl1amZoNy1vdVhhUmRhWGc0RkNwNVhDNXBicnpHbTA1Umd3Q25PTkFpOGJFUHVyaHEyZzhfM2lnbUJzLWlFTFV4U1ZnelZQdVJHdm4tSnlKQUZqUnRiajVhb09mT2ptTmtXUFczMTJqaWM5aU5sT0NtbzA5LWJ1cVFfTlJjVkZCRzdMd0M0R3AtNGo5ODZ1SngwckhaU2EtWl9HNF81TGpRUmVNYnlVOGhTc2FYaWpBY3NnNThWcFBKZUxfNDFOU2dRVXBYUUJRUFNVUkdpbVJWLUlOSzBFWHFsendHTXlIM3c5cFNZckFfM1RLRVU4ejB6MzczQQ?oc=5",
       "publishedAt": "2026-11-18T06:36:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -132,7 +240,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lSnJHVzJmOUNsNldUWU5BNXZRN0Z1aUE2aWZHbGx3NXY2N1JOQ2IwUVNyci0ydFB4a21kNEUtWGhqZ0c1TW1RT01XaHpHSDhxOGNZcERoekhLdjh2bDA2TThUVEFmc0lFcF8wSGthQnl6UURwR1ZGYdIBeEFVX3lxTE1lSnJHVzJmOUNsNldUWU5BNXZRN0Z1aUE2aWZHbGx3NXY2N1JOQ2IwUVNyci0ydFB4a21kNEUtWGhqZ0c1TW1RT01XaHpHSDhxOGNZcERoekhLdjh2bDA2TThUVEFmc0lFcF8wSGthQnl6UURwR1ZGYQ?oc=5",
       "publishedAt": "2026-11-18T05:50:19.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -154,39 +262,12 @@
       }
     },
     {
-      "id": "7ab6602efbedde96",
-      "title": "포스코홀딩스, 장인화 회장 직속 ‘통상조직’ 부활…이호준 부사장 영입",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feXpGS1JBX2V4MGtVdGFJNDJWSklpeEpoQmZsSUZKekxwa3RxWFZNTEVNVjMzVzAyUGNaNWZvV2liaWdINlRENVhGTzFkb282N0FJbUdNS1d6X3ByWkJZSUg4RllKbTNSVVppS9IBbEFVX3lxTE1feXpGS1JBX2V4MGtVdGFJNDJWSklpeEpoQmZsSUZKekxwa3RxWFZNTEVNVjMzVzAyUGNaNWZvV2liaWdINlRENVhGTzFkb282N0FJbUdNS1d6X3ByWkJZSUg4RllKbTNSVVppSw?oc=5",
-      "publishedAt": "2026-11-18T04:09:23.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코홀딩스, 장인화 회장 직속 ‘통상조직’ 부활…이호준 부사장 영입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "109916484d45a67a",
       "title": "[특별 인터뷰 I 직접 듣는다] ① 포스코그룹의 다음 10년, ‘트리플 코어’로 연다",
       "source": "포스코그룹 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNGozVWczeTNjSHNoVXJoVGkxZzlHWkE2N3JqeFBWRG5qTW9oXzh5czgwaWhNQW9vbkx1UmVlSG1WbGJGSDZRX3YzaHA4OVRmSG5Cam5OWGcxYldfUEljSmJIWklTYjBHQlNvVnBUcTJacllhNUY1cFJkNnpaek9ldTJWMGJ6eldpc04zT1dHenpTU1VKYmstcWdwSGZfcUUxT0JwXzMxeEs1RWtPQmk3TWthSEdPN1JWOVhuTWtRcEdVOVlJMEhlWHlzTGJfZF9zTmhFd29ZMHZhdG1PMjN5MjBLUWFyUXpscjhNc2U4WTVqZV9BdUE0ZXVlWmM1SEtYemJsNmlPOW1MbnNIMXBPc21NYmo5R3o1LXZxUl9JVTAwLUdBOFVVRVJUQnM5MTdfWENhaDZ5TDAybkp2bFdEVUt4cXZuREw0cFNYSHRZNV8?oc=5",
       "publishedAt": "2026-11-17T07:51:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -213,7 +294,7 @@
       "source": "잡포스트",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sV0FCYmQxV0ZpcXF2UVdxVXRCYk40TE5VYmdLRHNHX2dWZVNCN1Z0czYweHpGWlNyaHI2MEpxcHgzbmx1WjROTjdsSEtqcTN5cnctV3Bjb0p1M05JZkNYSmJVbXZBUWI4NXU5TGlBcWlkQdIBckFVX3lxTE9sV0FCYmQxV0ZpcXF2UVdxVXRCYk40TE5VYmdLRHNHX2dWZVNCN1Z0czYweHpGWlNyaHI2MEpxcHgzbmx1WjROTjdsSEtqcTN5cnctV3Bjb0p1M05JZkNYSmJVbXZBUWI4NXU5TGlBcWlkQQ?oc=5",
       "publishedAt": "2026-11-17T05:21:22.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -237,39 +318,12 @@
       }
     },
     {
-      "id": "4606e063f0eeca4a",
-      "title": "포스코홀딩스, 中·캐나다 철강·원료 법인 지분 2894억원 포스코에 이전",
-      "source": "토요경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MTlhqS3gtNmtJLWxfMmx5MDFzekk2djZyMDRlV19TaGZDMWtzWHVDdG1ZOTJvTXJpS0RVak5nTEJ6VVhxRFZPUDk0MG1DR0pBbENCU1pRckprMDB0dEwySndkVkNPZVJQSTlfenJ3Y9IBb0FVX3lxTE1MTlhqS3gtNmtJLWxfMmx5MDFzekk2djZyMDRlV19TaGZDMWtzWHVDdG1ZOTJvTXJpS0RVak5nTEJ6VVhxRFZPUDk0MG1DR0pBbENCU1pRckprMDB0dEwySndkVkNPZVJQSTlfenJ3Yw?oc=5",
-      "publishedAt": "2026-11-17T01:05:31.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "포스코홀딩스, 中·캐나다 철강·원료 법인 지분 2894억원 포스코에 이전 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "acbe7d2dee3913b3",
       "title": "[한국의 CISO-권력지도] 포스코, '이사회 보고체계' 취약…포스코홀딩스 최하점",
       "source": "Daum",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fSzhKLTJxUEFUTDhXY1BKN3NWdW5NNTlhdVlXQW5oOXhaNTBlM0syMWV5azE0ZU5zWTA0cm84dXFBQzhwcUE?oc=5",
       "publishedAt": "2026-11-17T00:16:03.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -296,7 +350,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uejRPckktQnBFNTRxbUJGbVBaWmZIYmRxZDM4S19fQ3dVd2RRU0tWeUdYbU55YTUyQVNScnNjWUhXZWNoaHhHQ1FxRE5zczFDamRqcnhIWDNRRzE1?oc=5",
       "publishedAt": "2026-11-16T23:34:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -323,7 +377,7 @@
       "source": "청년일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPR0lTQkd4UE9Ob2xOeWlBT0VydlBIR1NQU0RPUTdIdW5VYno4VWhELWFycjBZVFM2TWl2d3BjeDJ2TllqODgxZV85X0duUzJ3d1RaY25UZmE2Ullrc0ZPaHZsaFVMOEU?oc=5",
       "publishedAt": "2026-11-16T23:00:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -350,7 +404,7 @@
       "source": "핸드메이커",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHZsUkxSM0FkY1kxTU5SS1VPSGhON1phYTdjd21iWFhnS1BCM0c5emZkS2FVaWUxVzFjc0YtVk42QUQwSFFfQmxkVzJjRTBxdlFxNzRDT2VPVVpSaDR2VWkyVFpDNWfSAWtBVV95cUxPaXlZc0g2enVabHNlZERnTUp3VF90bHp4Mi14QnFISk9PMW1iV3ZhV1FWNXBVWDBKV3lTNzV3Y2pFUnVGeEhMLXV2WGFST0xkY1B6R21rbFlsZWlUbkVqdDk2dW91SnhpQVdYbw?oc=5",
       "publishedAt": "2026-11-16T23:00:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -377,7 +431,7 @@
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WXd5dUtwNmhYRVMyZmRCMlprTlF6TWVjOVJUOWxWYXM2dkFkdG5DQnFBMG9YT3hLWmZLOEozYlVMc2x6OEUtZ3BLOXZvTzZBd3FpWkxISUlzdw?oc=5",
       "publishedAt": "2026-11-16T13:56:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -399,39 +453,12 @@
       }
     },
     {
-      "id": "cc86e7e9d53d1033",
-      "title": "[리포트 브리핑]POSCO홀딩스, '2027년: 신사업 숫자로 증명' 목표가 430,000원 - KB증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UaGpIemNaNTEtaGRwQkxCTXNuQ0FidEo2S1pHUVZIc0RMbEZpWUc0NV96cnM4Sm5aaTMwTHFGVW1QcllzbGI4QkZyVU1NbUJScEJHWERTVEgtaFdO?oc=5",
-      "publishedAt": "2026-11-15T23:43:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "[리포트 브리핑]POSCO홀딩스, '2027년: 신사업 숫자로 증명' 목표가 430,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c26c577d77f813d0",
       "title": "[전일 주요공시] 미래에셋생명·DL이앤씨·POSCO홀딩스 등",
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yTHlaMGtPeWhRZFROM0xRNmZoakJ6MGRPTnp5MG1yR25ySThEbkdRQ2c2NnVOaVU2S0tGV2JoLUJJLXV4emRTZXlnVDhGdWpRWUcwdQ?oc=5",
       "publishedAt": "2026-11-15T22:40:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -458,7 +485,7 @@
       "source": "소비자가 만드는 신문",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IYW14SGhWTEdLRXk0amhId1lGM0Fvb0JXcmI4NkZESi1aUWUwQjRkZjZ0STZCTDkyYzlndEhObTF6R0ZiLTR4UmpHNTZXVUlSVmdRUDAyZDNFZVNWSUYwV09uSTN0cGFEdG5BNHNzZnl4OGM?oc=5",
       "publishedAt": "2026-11-15T21:10:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -480,39 +507,12 @@
       }
     },
     {
-      "id": "f192ecc8bbc5113c",
-      "title": "핵융합연-포스코홀딩스, 핵융합로 소재 개발·공급망 구축 맞손",
-      "source": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UTk0TnFPZEdyd2pHSkhHQ1RvMmpFLTJ3OFR2clV0ZmNya0ViUF9vMVUtX1EzUXZVSmVyc0pKNXhJWmFEckppSDczbzJOa1pKR3BpNHh6dXMwc0JIQjkxVzlUOA?oc=5",
-      "publishedAt": "2026-11-15T16:28:33.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "posco",
-      "stock": "POSCO홀딩스",
-      "ticker": "005490",
-      "relatedStocks": [
-        {
-          "id": "posco",
-          "name": "POSCO홀딩스",
-          "ticker": "005490"
-        }
-      ],
-      "summary": "핵융합연-포스코홀딩스, 핵융합로 소재 개발·공급망 구축 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "eb5de55e57e239bb",
       "title": "포스코홀딩스, 3분기 배당 주당 2000원 결정…총 1512억",
       "source": "페로타임즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTktINW9pbjJ6RVhEZktfNmdHbVFJSDlvRUNjUDNCeGJWVDBGUFViTFA3MFN1Q3pTUlYyQmQ0T2VFNUM1STRJaHZFaVhpa1VvejNRWlhlQ1RyTEU0QW8wM3BZLWEtRE5JS1Y1RA?oc=5",
       "publishedAt": "2026-11-15T11:04:14.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",
@@ -539,7 +539,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtcXM2UnJYRzkyU0pvT3NKWDJhaklBdXRpUHVPR25fSnNiLUNDYnROZHFIQkhXWlM4NjZVdEZnT2xIdk00TFEyQnpNUEZTU2Z6cWdpRlVDM1BjSzlMV0pkT3cwN1Vud2hzMVd6S1Z3bzM?oc=5",
       "publishedAt": "2026-11-13T07:42:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "posco",
       "stock": "POSCO홀딩스",
       "ticker": "005490",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:54:56.185Z",
+  "generatedAt": "2026-11-19T16:11:37.109Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "효성",
     "ticker": "004800"
   },
-  "dailyBrief": "오늘은 기업 및 산업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[김승원 칼럼] 효성그룹, 장애예술에 박수보다 무대를 내줬다",
-    "[EZ 분석] 효성, 중공업 호황에도 웃지 못하는 이유…화학 자립 ‘숙제’",
-    "KOSPI200·코스닥150 정기변경…두산퓨얼셀·리브스메드 등 신규 편입"
+    "[코스피 지수선물 옵션] 레인보우로보틱스·하이브도 뛰었다…효성중공업 상승 폭 확대",
+    "효성벤처스, 비대면 진료·홈뷰티 사업 베팅…앳홈·솔닥에 투자",
+    "[김승원 칼럼] 효성그룹, 장애예술에 박수보다 무대를 내줬다"
   ],
   "articles": [
+    {
+      "id": "ae4e0b92d712f5fd",
+      "title": "[코스피 지수선물 옵션] 레인보우로보틱스·하이브도 뛰었다…효성중공업 상승 폭 확대",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzZktfR3BscTl3Y09vdWRPdzFYLUo5UVVRemtBcTZLb0kyaEJLQk1uSmlfdDRjMjMzV1lLX2N0aUlaRk5MS0tfcmFPSk9JZ2VDQ0tkM29Bb19UVFp2aWltSzNlRnlWeS1oMFpEbjlGR25HbW9Sb29r0gF3QVVfeXFMUHNmS19HcGxxOXdjT291ZE93MVgtSjlRVVF6a0FxNktvSTJoQktCTW5KaV90NGMyMzNXWUtfY3RpSVpGTkxLS19yYU9KT0lnZUNDS2Qzb0FvX1RUWnZpaW1LM2VGeVZ5LWgwWkRuOUZHbkdtb1Jvb2s?oc=5",
+      "publishedAt": "2026-11-19T08:48:19.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "[코스피 지수선물 옵션] 레인보우로보틱스·하이브도 뛰었다…효성중공업 상승 폭 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a10088fc7d5ae491",
+      "title": "효성벤처스, 비대면 진료·홈뷰티 사업 베팅…앳홈·솔닥에 투자",
+      "source": "주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azRJekFSRUN2a3I3WWlWVWZUQzdZNmQ1RHZhY0JzR0VvdElkVHp3d3V1aDFWajhoRm5qRkFaRXR2SHlxb2ZKQVkyQVY5RUxGNkY3ZUZUUE10Y0FnOHFXM3VaV3BlRXlscjRZcHAyY25CcE1L0gF0QVVfeXFMTzZrNEl6QVJFQ3ZrcjdZaVZVZlRDN1k2ZDVEdmFjQnNHRW90SWRUend3dXVoMVZqOGhGbmpGQVpFdHZIeXFvZkpBWTJBVjlFTEY2RjdlRlRQTXRjQWc4cVczdVpXcGVFeWxyNFlwcDJjbkJwTUs?oc=5",
+      "publishedAt": "2026-11-19T03:03:25.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "효성벤처스, 비대면 진료·홈뷰티 사업 베팅…앳홈·솔닥에 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "1f1f7edae3a2102a",
       "title": "[김승원 칼럼] 효성그룹, 장애예술에 박수보다 무대를 내줬다",
       "source": "토요경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TcUVVQjI2dGtReEl0eGQ1OWJteTNzSm44Z1hJT2ZpOXZOYzhLbTMwU0V3U01kYU8zV0lhUkxULUxCRXdVbFJvOU5zdWxGbzN1UlViS1FSMHQxeHBzWVpIQtIBb0FVX3lxTE9JVDg1QnFDVi1hYzJKeU9hbWJBZFhZWHV1TmxqdnJ5Um0xT2lfd3N5c3I0TGNDcUZYTEl6Ui10UGVQSllsSHZxQk5WY3FMTFh0eDZueDB4VGtHV2dXS0FnUHJMZW9wZC1keE5SY0VFdw?oc=5",
       "publishedAt": "2026-11-18T08:30:24.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -47,7 +101,7 @@
       "source": "이지경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdkw4MlNoV2dOOGQ5d3AyNXU4Z2hDclEyQk1nWlNrU19NMUZaWk5rQzAtMTlqdjZrMVkxekRkbk9EUVF2UFMtaTJiQ3A3RG8zMFF3eG5Ib29ERW05QjBVbFJzeFNRUnQ4SmtTbUZn?oc=5",
       "publishedAt": "2026-11-18T08:30:10.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -74,7 +128,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVlRzOXFRdi1PbElBeWZtbE1vbGRFT3ZQa2RaaGFqalBQRnladW9SN3dYbjRpSnJ5a25XdFhoXzZ0anpTWlFrNDJqaTN1alRnRGc3VU1TZE1Ddw?oc=5",
       "publishedAt": "2026-11-18T07:53:11.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -101,7 +155,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUUUzb2RCVWZKM1htZzkwM2VaZjl6djl6bTJUdHpTeDBWQ3dONGZ4bTJ3ejR5OE12a0hIVHo4aVpTSUxJTmtvcnFEenlVRm1SNE5Wa0M0bHVPTHNnSmNIVkhtaVpHbktCbGJQOVNR0gFuQVVfeXFMT1RRRTNvZEJVZkozWG1nOTAzZVpmOXp2OXptMlR0elN4MFZDd040ZnhtMnd6NHk4TXZrSEhUejhpWlNJTElOa29ycUR6eVVGbVI0TlZrQzRsdU9Mc2dKY0hWSG1pWkduS0JsYlA5U1E?oc=5",
       "publishedAt": "2026-11-18T07:44:36.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -128,7 +182,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mbWpIb0QwQkRQMDl1SjJWWkEtMGsyX1VvUmpvVHEzM2xxNTRRWWYzYjVoMW1IOUVzUHp4TWY1ZmUxTEw1X0trZTFpa2pXY1d5OWVoOFJrbjJjcTJwOUpTTEdpck5ZQ1d5UVJ6QjRyVUdaLUFhbU5aTdIBeEFVX3lxTE1mbWpIb0QwQkRQMDl1SjJWWkEtMGsyX1VvUmpvVHEzM2xxNTRRWWYzYjVoMW1IOUVzUHp4TWY1ZmUxTEw1X0trZTFpa2pXY1d5OWVoOFJrbjJjcTJwOUpTTEdpck5ZQ1d5UVJ6QjRyVUdaLUFhbU5aTQ?oc=5",
       "publishedAt": "2026-11-18T07:36:34.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -155,7 +209,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yT3BZUEF5MHhZYTdPcXR1SVhwSEhWQVhoMW05RVBJWGo5SzZXZEhtb2xwTzJ2RUZCMXNpQnI3QmFGeVB2NW1JcGNPZ2Q1Q3Q3bWp1bjVIWkR5enBxSUxMOdIBYEFVX3lxTE4yT3BZUEF5MHhZYTdPcXR1SVhwSEhWQVhoMW05RVBJWGo5SzZXZEhtb2xwTzJ2RUZCMXNpQnI3QmFGeVB2NW1JcGNPZ2Q1Q3Q3bWp1bjVIWkR5enBxSUxMOQ?oc=5",
       "publishedAt": "2026-11-18T07:26:01.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -182,7 +236,7 @@
       "source": "스마트투데이",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qRTViYVlDdUFkem5CVWF6LXFfUkZGbWVKNjhZd1lTc0xUeGN5YlM4VmszcDFjbjJTWFVoWXo3Z2ExSXZSWnFSMVpvbG5FQTJDRDc5b3ZxOVZ0X0taYUtF?oc=5",
       "publishedAt": "2026-11-18T07:24:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -209,7 +263,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWFUeVN4b1daSWtWU21MUlhnVDEwSjlzNmx2aW5uSjFMOUxDNnJjdDlXemE1TzlBeFlLNnRxYVd1WVgtdjBPd3BZWmRVWEMwcGxJRkZ2MnVSV1lONmREU1pvSDdJNGNIS0Q0enQ3dXhOQnVfd2RhM0tNQ2RRblZyedIBlAFBVV95cUxPbTJXOTBNNlVuRnNnaG5pZkhxTTJTbHpiUnJzVXA5MTJzZTVucVYtMTRvTndQbEpibU4wSlc4RTV3TzFUS2x6MndmdXF4LVlXTXJvTnVqQS1MbjktSlFEWEo4VVFLNkZJcEN2cTJPeHluVmljbmtsUnlGdTJjbHNHS29hRnhnR1lKMDNQOUJoVE5yWk1W?oc=5",
       "publishedAt": "2026-11-18T07:08:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -236,7 +290,7 @@
       "source": "뉴스톱",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KZVFhUzJkT1A2OEJjaWF4VEhFaXN6TG9jeFpwZFBQbWljVklGdV84OFk5NHo3XzA1U3J6bDhzY0V2cmNReWN3R3BHZ1JwQk85dWRyMS1xT3AzOFloNnhiaGFHNVU1Q1B0UWhUWmpCWQ?oc=5",
       "publishedAt": "2026-11-17T11:17:56.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -263,7 +317,7 @@
       "source": "인사이트코리아",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdkNuYm5wbE11NlB3OEZ3cXQ5bEZIOWIzLTYwY3JjMWtVdWRTaWlOTTZsUDNBS3BVRnFEOVR2VzM0a0RhSUEtZ3RfM1ZpcGRJelVrNnQxbWF4Yl9IazZZZUk4bS12Yk1vVjkzZU1ScUstVUdtejFR0gF3QVVfeXFMTmx2Q25ibnBsTXU2UHc4RndxdDlsRkg5YjMtNjBjcmMxa1V1ZFNpaU5NNmxQM0FLcFVGcUQ5VHZXMzRrRGFJQS1ndF8zVmlwZEl6VWs2dDFtYXhiX0hrNlllSThtLXZiTW9WOTNlTVJxSy1VR216MVE?oc=5",
       "publishedAt": "2026-11-17T03:36:49.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -290,7 +344,7 @@
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jV1MybFVtVFRUbnpsTTBRbkhSaEVOSml4OHU2Q3M5Q2JfcUg4cEd3QWg5c3J2bjllQ2NzYWN3MklBajdlREpIcE91NDMyNjA?oc=5",
       "publishedAt": "2026-11-16T11:11:53.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -317,7 +371,7 @@
       "source": "이코노미톡뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6SlBITGxqUEU1ZWNIYWNBdnFVQVBwU0I5ZGdaSVh3Y3dKQ1d2N0VORUdweG5TYkpmb29hZ21wd2FMRWRvVW5mcTh5Q2h1VXlEbGZMamp1REFEeTRjYmhJR1ZnSXJhLUlGWUhTTg?oc=5",
       "publishedAt": "2026-11-16T09:32:49.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -349,7 +403,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fTG9RdU5YUFlueXA1Vk1PcGhDOE40bklVN1V3NEJSLWhjR3lIT1Ywcndvc2xTai1DaWFBVVJXYU5EaTNZV05NNVhkcjdpQ1VPenJVaHZaUS1jdEh5bDBsRGRTTWVCVTI0TDBmMDNVLXpzamhyMGtV0gF3QVVfeXFMT19Mb1F1TlhQWW55cDVWTU9waEM4TjRuSVU3VXc0QlItaGNHeUhPVjByd29zbFNqLUNpYUFVUldhTkRpM1lXTk01WGRyN2lDVU96clVodlpRLWN0SHlsMGxEZFNNZUJVMjRMMGYwM1UtenNqaHIwa1U?oc=5",
       "publishedAt": "2026-11-16T07:03:08.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -376,7 +430,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHY19oajhhRExTZzZPcGFpWk5EYXFFZXllVWVJcEZYUVhaZDJ5Z3F5Sy1UMVMwTU01SlJkQzlaX0pUeG5SWDNrdQ?oc=5",
       "publishedAt": "2026-11-16T02:55:38.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -403,12 +457,39 @@
       }
     },
     {
+      "id": "d2bb263f623d6a48",
+      "title": "이정원 커뮤니케이션실장 '2026 올해의 PR인' 선정",
+      "source": "CEO저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRWtWRmVsSHhUWjU1TUwtWkYxSTVCUDlLNHV3TVFQakZ4eGNVX1VPVUNKTkhXQTFDQUVBYjUxUWgzalE5Z1VOS1BsQzVGMTd6VjlmSDByX2xaV0NnMWpCblluS2tlSWs0R1hJ0gFrQVVfeXFMTmNFa1ZGZWxIeFRaNTVNTC1aRjFJNUJQOUs0dXdNUVBqRnh4Y1VfVU9VQ0pOSFdBMUNBRUFiNTFRaDNqUTlnVU5LUGxDNUYxN3pWOWZIMHJfbFpXQ2cxakJuWW5La2VJazRHWEk?oc=5",
+      "publishedAt": "2026-11-16T01:55:16.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "hyosung",
+      "stock": "효성",
+      "ticker": "004800",
+      "relatedStocks": [
+        {
+          "id": "hyosung",
+          "name": "효성",
+          "ticker": "004800"
+        }
+      ],
+      "summary": "이정원 커뮤니케이션실장 '2026 올해의 PR인' 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0a53cad283519c90",
       "title": "효성重, 경쟁사보다 앞서 매출 다변화…단일 고객사 쏠림 리스크 차단",
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tb0U2eVhBV1NFYVJKellBVjZSaExSa0pyb3Q1NndLOEF4ak1NVE4xVFlYY0w4WkkxT09LUUNBdEdVMWVCNW5Ba3FTYnpHbHFMRHdVSUVsVnU3UEVyTFcxWkxpdWIxbm4x0gFsQVVfeXFMT2I5QlpiRUJwalh3a1N6djZaRENFeGg1X3UtLVdxRFJLZ0M3VUN0UFBCWHE5VktqeDB2Tk4xZGgxeTN6dEhVTDh2Y01GMUdmQ05sM0hpZlBTWHBWa2VucUgzekNSREFyTFVCRDQx?oc=5",
       "publishedAt": "2026-11-14T00:00:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -435,7 +516,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZODZORG1wU3dpOHRTTGJ2UTM2bmhZMGhzWE9vdEMxWk1IeUhMRDdaNm9Ldko2QXlHWTNoSGN5d2JhUnlQVlk2MFlILUlmMnFEdFJwYkZjZFhBZw?oc=5",
       "publishedAt": "2026-11-13T09:28:11.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -462,7 +543,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVjlwT3ppZGs5cXZRNmlaVThKQWVHT3FXUHVIQ2RTbWRhcWtwS21sNkVFanhFY0VGUXZkRVZrbE9OUXFXbmM3TDVrMmwzaXZEcWMweG9CY0w2a0NyR0tZb0diT1k?oc=5",
       "publishedAt": "2026-11-13T09:04:19.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "hyosung",
       "stock": "효성",
       "ticker": "004800",
@@ -475,87 +556,6 @@
       ],
       "summary": "PR협회 수상자 발표…효성 이정원 전무·에이엠피알 나란히 선정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "54f29c19c484808e",
-      "title": "한국PR협회 선정 ‘올해의 PR인’에 이정원 효성 전무",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODRVbzhzV0FEOWFXNGxJWjY1ajNnRXZkWVRSYkNyTXB0QVNBeHEzMEktY2N5MzBXSkpYcXpYazl5VmZRSm9xRThsSGl4TFZLc1BhMnl6VWdtMVRvbVl4S25CUVljT01JZFNEWHRLTWRfajZLak5NaHhrRmFiNmQ4Ylo1MEfSAZgBQVVfeXFMUFo5VWlKM3FYSmlKWVVVRHpPZGRGRjlOYUUwVkVqNS15Z1FnWlppV0ZGZ3JHZ2kwRFg0cmo4WFZERExRb3V5Uzl5eE8yQkY3ODgzcWJCVVFrV2JkMDFSRlpIc2ZJaFJlMksyTUk1NzhyMWhoX0NtazhINWJHdDQyYmRhVFItWE9nUXAwLUdOZF9aQkxUckVuX1I?oc=5",
-      "publishedAt": "2026-11-13T08:45:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "한국PR협회 선정 ‘올해의 PR인’에 이정원 효성 전무 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "16b2d9e007d319c9",
-      "title": "'올해의 PR인' 이정원 효성그룹 커뮤니케이션실장",
-      "source": "코리아리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WUXZKM3dVRlZxLUVRNUlvUnRId0tmLUNfN1dvcXh2WjFSbUF0Z2J3ODZJejhZVDQ1Uk1ub2F4NHZYc01qZlVnaGRxU1NvMk1QY0ZrOE5TXzlIc1lRV2c1VTByMnpHUnJIUnZQb3RLZUU?oc=5",
-      "publishedAt": "2026-11-13T08:10:27.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "'올해의 PR인' 이정원 효성그룹 커뮤니케이션실장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1b4399811bd07e4a",
-      "title": "[효성중공업 인사 전망] 조현준·최윤수 내년 3월 임기 만료… 우태희·박남용 재선임",
-      "source": "뉴스클레임",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rakppU0pZT0k4RG1CRnBtbFE0azRjR1ZXVkNYZFNUQVJGdDlrV0NmbEI2MWdOZktVTi1POGVGcFNLMnVQZTI2Ukc2M21KNWFpRnUzaGhlTDhPLVMtWEhuWnJyeHNocDR1aDVlRmpfRE_SAXRBVV95cUxNeWJaMUZ1Zlo3cFpPek0xaTkyN05HelNPRURkWk1KVG1GNmUyM1l1QTV1UG80dHZmVXdKNE9NRkdoTm82Y1FCVXVrVkk4Z1pjSm5KczgyUzJMSmhnRFMwZHNPSzY1Uk1uT21hRWhlcnpkMVlzMw?oc=5",
-      "publishedAt": "2026-11-13T05:46:39.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "hyosung",
-      "stock": "효성",
-      "ticker": "004800",
-      "relatedStocks": [
-        {
-          "id": "hyosung",
-          "name": "효성",
-          "ticker": "004800"
-        }
-      ],
-      "summary": "[효성중공업 인사 전망] 조현준·최윤수 내년 3월 임기 만료… 우태희·박남용 재선임 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
       "sentiment": {
         "label": "neutral",
         "score": 0,

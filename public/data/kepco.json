@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:54:56.185Z",
+  "generatedAt": "2026-11-19T16:11:37.109Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,49 @@
     "name": "한국전력",
     "ticker": "015760"
   },
-  "dailyBrief": "오늘은 투자 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "원전 전력가격 미리 정한다…한전·한수원 차액계약 체결",
     "한전·산업은행, 대규모 전력투자 감사 역량 강화 ‘맞손’",
-    "내년부터 원전 전력가격 미리 정한다…한전·한수원, 차액 정산",
     "한전, 전력기자재 ‘최저가 입찰’ 탈피…‘품질 중심 조달’ 대폭 확대"
   ],
   "articles": [
+    {
+      "id": "492218835d013820",
+      "title": "원전 전력가격 미리 정한다…한전·한수원 차액계약 체결",
+      "source": "경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hbXBlX1ZYanhlb3l6UEFmTm9Va1lHeHJOOWlORFI0NTBSU0J5b2xoeXJzb3o4VVp6U2l1WG5pTGZBQWFnTjRLZHpLRG5wbjRJcVVXajh5emZIOU0?oc=5",
+      "publishedAt": "2026-11-19T06:48:56.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "원전 전력가격 미리 정한다…한전·한수원 차액계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "9ae97de97b2302de",
       "title": "한전·산업은행, 대규모 전력투자 감사 역량 강화 ‘맞손’",
       "source": "에너지안전신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhV2RlN2s0S2xwal8yTEMyWDZ0eGk2VjRPQWtfeWFlWDBzYjhZX1lpcUtMRzlocHhVaUU3M3JzNlJhcTdPZEpwdEg2bk42Q3dmdmc2c1JHel96b19XVXdDYWhGMWE?oc=5",
       "publishedAt": "2026-11-19T02:41:30.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -42,39 +71,12 @@
       }
     },
     {
-      "id": "e460789709260632",
-      "title": "내년부터 원전 전력가격 미리 정한다…한전·한수원, 차액 정산",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oWGVNQnFlMmptRFFWRzk4MF9pZHltZXZJY2xPVlpyRVJ3VFFxS3hKS1FBSnhiQkt0bl9WV1FPd2JiZjNqUHpHZkRlOVBwaHdhZjZxaEZVa3RveFNaTUVXZUFhZ1FUb1FnWVZLLUdySnoxMzl3dThCatIBeEFVX3lxTE5oWGVNQnFlMmptRFFWRzk4MF9pZHltZXZJY2xPVlpyRVJ3VFFxS3hKS1FBSnhiQkt0bl9WV1FPd2JiZjNqUHpHZkRlOVBwaHdhZjZxaEZVa3RveFNaTUVXZUFhZ1FUb1FnWVZLLUdySnoxMzl3dThCag?oc=5",
-      "publishedAt": "2026-11-18T21:00:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "내년부터 원전 전력가격 미리 정한다…한전·한수원, 차액 정산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "a13ff2019ac53f22",
       "title": "한전, 전력기자재 ‘최저가 입찰’ 탈피…‘품질 중심 조달’ 대폭 확대",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsc2l2cjRjUmJKcm1UalR0VjdjZFUzNTE0QUVzbnFpVHJSR0tSYVcyRjRQV2tKTE16dE9hZjAydFRJUk5mdXRGWEwzU3pkaF9jWUQwQ2JHbkdpVGxCVE00OTlESlh0bVcyMkg2YU9PX3rSAXBBVV95cUxQbHNpdnI0Y1JiSnJtVGpUdFY3Y2RVMzUxNEFFc25xaVRyUkdLUmFXMkY0UFdrSkxNenRPYWYwMnRUSVJOZnV0RlhMM1N6ZGhfY1lEMENiR25HaVRsQlRNNDk5REpYdG1XMjJINmFPT196?oc=5",
       "publishedAt": "2026-11-18T08:28:56.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -101,7 +103,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94bFpNWDJwTlNVOUQ1UG5OSm51YllrN2hiMC1tUXpUOHRmYk9aVkUzVDN5UTM1R0l2NFBPWkVIZUs4cElEUmZZLXppdndyVDZHQWo4cW0tMnN2eDY4TVozS0FCbw?oc=5",
       "publishedAt": "2026-11-18T06:50:19.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -130,7 +132,7 @@
       "source": "의학신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KaWVaNVVLTXk4N0ZaUUloZlVjbUhBT0wyVXdiZ0hoVExFQUQ3MFQyUTJVOUZnZkxpVThyY203OTNwa0wwZ3NZcHY5WXJxWmJsYUZuWmR5YUszVzJGYnZPN2x4Z0dhcUtCa0E?oc=5",
       "publishedAt": "2026-11-18T06:05:55.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -157,7 +159,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWEhrRXNhY3BBNEtVdGdWTktheVpBdlJnNURVY1c0QjJFdlA0M0NRaWRPQW9mX01hc0IyanYtaDE4akExVl95ZGFiX2hIRllpQzFpSGtsTWtRekplLXhheFE3SmJyS2FvanBUVmpn?oc=5",
       "publishedAt": "2026-11-18T00:27:31.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -184,7 +186,7 @@
       "source": "중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Fa3Y1VVh0SkpYNDRoTFFEQTJHeXlEZXQ3bEVUc1RqZUhaYXpJaXAxRlNOZVp0WFIyeHV1aFRIb2Zlb0wtU0U0ZUJpM0llc1p2Rmxod3BR?oc=5",
       "publishedAt": "2026-11-17T12:38:41.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -211,7 +213,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGTUJwWS11VVZzeTB1eTBVTXgxT29ydWRCNHhiemhZRGNOOEhRMTBCRW5iSlp3LTBrT0JlZVNEcHF6RlhBVV9OR3EyczFKYnQ1b2RINWwzbWtfQ3gwZTNLRUpYTWU0SU9zYWMtSdIBcEFVX3lxTE96MjZGb2szaXFLQnBPV0dlR1EyR19tMnZDOExmd3pLcU9udXJHN3pCYWtoWUkzbG9McDRHeWkyNTJEa0lGdG1ad0hPWHltSEJYa0R0TXVRRVpMdjFHRFdERjAxbDB0Ti1COERoQ1BWWWo?oc=5",
       "publishedAt": "2026-11-16T08:21:25.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -238,7 +240,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KeGw2d0dYTFdNMld1WWhoRHNVSm9xVzhVNkJLUEVZUGJ5c096b0dmYjc3OU53RUh5a1RxOFI0eUdQRjh1NG4tc2xIZUE5aVpmeUV2YTR6bEZjbXVz?oc=5",
       "publishedAt": "2026-11-16T06:16:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -260,12 +262,39 @@
       }
     },
     {
+      "id": "a651cedfc80083a4",
+      "title": "한국전력, '공공 HRD 콘테스트' 교육과정 분야 '대통령상' 수상 - 머니투데이",
+      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xWk5SYkxiUWhLeGwwakxlRlVLeWFPcHNhR2JuNzBLcjVyUVRWZmpBYUVMR1oyNFNhcTg1bDhhUjJlQV9wdDVQZWxjUk1XT1N3WUFuUW9QSGVCWHR0R0Jhc0p5TXIzdjhiM0HSAW9BVV95cUxNWFh0U2paanQxLUF6R3l3MDRHTTZHazYtaHRiSHBTdVV0NmN6d29CN3dsYlpjV2FPMTlqVnNjSlViYzF0RmNaOXRVcjdnNkNNOHRpbDF4UEFtT1d4V05ZbkJXRzlQOWpjRUQzRk9WVzQ?oc=5",
+      "publishedAt": "2026-11-16T05:05:06.000Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "한국전력, '공공 HRD 콘테스트' 교육과정 분야 '대통령상' 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d35d78548585ce96",
       "title": "전북도-한전, 재생에너지 확대·첨단산업 육성 지역 전력계통 현안 해법 머리 맞대",
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GNDBZUGM1anBzMzM4V0pPWnlRNEpUVjZSdjhUUExPUFNLRlJ5cnQyQi1LRjkzQS1ETHpLUGdfQmlRTkRIWV9iWm9iY1FDdw?oc=5",
       "publishedAt": "2026-11-16T05:00:00.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -287,39 +316,12 @@
       }
     },
     {
-      "id": "f13c33baa0599bf2",
-      "title": "한전, '공공 HRD 콘테스트' 교육과정 분야 대통령상 수상",
-      "source": "에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZnUwXzB2ZWNjSmRqNFZYTDFJZFpocFdfdlVGemx1b0tubWVZX1g2VER6Y2pnYjY1LUZxQWtVcVBwMDNvTmYyWnRXNlVIbTEyLU4tTFctbnF1LTl4YmFnQldkX3RGd0tKdXlhb0pBOFd2dw?oc=5",
-      "publishedAt": "2026-11-16T04:59:38.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전, '공공 HRD 콘테스트' 교육과정 분야 대통령상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "63abac488e8bf59d",
       "title": "전북도-한전, '재생에너지 확대·전력계통 대응' 머리 맞대",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsczZpc2tYTjRKTFNwM1hXdFFrS3JIdVVFVHlOcTNXX0lRSWQxWHZHZ0NZVkpra2xJN0NIb0w0LTlUZnRwcnRSanNWUUlWc215b2owVlJkU2FEOUHSAWBBVV95cUxPM05aSW0ySGVYS2xGWWZvWG1tR0hwMGxTWWszVnBwb1lUWUszSGlBZXVrczVTdC1SbHRwaVV0cGJKTTE4V0xiYXZ2YVRIOUhKRGl4UWdROVpURUg3N3R2d2s?oc=5",
       "publishedAt": "2026-11-16T04:47:53.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -346,7 +348,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WVnMyajc1NS16eWNsVzhyamtadXh1S284Y21JM3FkN2VHVFFJeDR0dDFOQV9WeTlMM3JXRG03T2VLZnZLczVOUFhqTFJVc1RycFQ4aTNGQ2dNV3VZQllVS0FscThJcUhuWTcwRC1OYVhIWkdyRVFZbtIBeEFVX3lxTE1WVnMyajc1NS16eWNsVzhyamtadXh1S284Y21JM3FkN2VHVFFJeDR0dDFOQV9WeTlMM3JXRG03T2VLZnZLczVOUFhqTFJVc1RycFQ4aTNGQ2dNV3VZQllVS0FscThJcUhuWTcwRC1OYVhIWkdyRVFZbg?oc=5",
       "publishedAt": "2026-11-16T02:16:10.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -373,7 +375,7 @@
       "source": "대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJHQ1JGZVdpZ0RzQUpUN0Z5OVFsdHFhWklFM0pDbDNOOFIzQ3FMLWkyY29Ib2dGR3pSTmRTLWFERzhESWZkcFdoOVhMMWZpREVTY2NmMkFhVWtCblBLS244VUN6TkpEUWkyU01OUlo2ekFIVzZ0ZFZUOF9UMWdFRlNUSHpmaTZrNkJJ?oc=5",
       "publishedAt": "2026-11-16T00:38:26.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -400,7 +402,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUFnTnAtQk1tb3E2SS1naDJTSENyVXB0ME16T0pzZ0ptVS1JSG1KNS1wQVBEUHZFNExRT0NZLTZLcVhnZnljSF9zUkNvVThWd3JTYVpWVk9Cb2hGc21BSEpYVnhaendSQnEyRTlib1B1c0tFY2pFYkUwZC1zMlUyTkxFanNyTGNr?oc=5",
       "publishedAt": "2026-11-15T21:45:36.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -427,7 +429,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnY2kzemFDVV80Ym5SWkcyb3I5VF9ybngwbFhERjhvcFJhOVE0V3ZRZHBaY25GajJSTW9DVXN2TTF0WDdLY2lpY2dDdk9YTnR3bDNsZlVnQi13SVlydGo5dGZLMlBTbUZGYTZ4WkJzUnZQUQ?oc=5",
       "publishedAt": "2026-11-13T07:42:36.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -454,7 +456,7 @@
       "source": "https://www.moneystorm.kr/",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbkN6ZXpiXy0xSWJPQWx1TkY4c0RNWDRIT1dRYkQ2UEJpYmFKOXliTlFZVGcwT05OLUwtV3ZvVFFRUjBMRkJxckhqTVQxbWZLakJHeXljZnZRR0hxTk5FVmtCQV9qMTJodWc?oc=5",
       "publishedAt": "2026-11-13T06:34:54.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -484,7 +486,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMExRVGlibV9CbWRINDNBQnJnNHFvMHg2SVI3eWc0MzRXX2ctY0pKRi1vZE5RajdueXlHWGU0Q3U1QTl5aUc3aVlmWUxjSTd2am83ck1nQkhtTWxkem1XY3N2VUV3RHBreFFUZnRvZU10N0FOVkxqQk9uOHJYcVdwSGZMbVRja2Zt?oc=5",
       "publishedAt": "2026-11-13T01:38:34.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -513,7 +515,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XbWNGa2VCaUhlQTB6MFE2NG1DcDI1WG56TDJzVGx0bnR1a1FrblF4dHlJVTE3NkZ6YXJpdDF3UzlYazl3Y0lIa3BkWFY0Zw?oc=5",
       "publishedAt": "2026-11-13T01:34:35.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -540,7 +542,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11Z1VPc2p4NHNjczJRSjFndDVZYWxwRE1lUzZ1amNMVy1hQlhJWVE5UlFnSlRlNmtwN1pKS1F2MXp2R3ItblIwTHJWdWJLQllkbnhpTzNrM2dLOURVVVB4ejhhaEJ1bDVaR0xGVGo5WTcyNzg?oc=5",
       "publishedAt": "2026-11-13T00:57:19.000Z",
-      "collectedAt": "2026-11-19T03:54:56.185Z",
+      "collectedAt": "2026-11-19T16:11:37.109Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
