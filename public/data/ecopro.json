@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:11:37.109Z",
+  "generatedAt": "2026-11-20T03:48:11.084Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,45 +9,18 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "연탄 나르고 난방유 채우고…에코프로, 포항 이웃에 겨울 온기",
     "[단독]에코프로머티 ‘폐수처리 MVR’ 정체 의혹…경북도 또 ‘유예’ 도마",
+    "에코프로머티리얼즈, 광물 약세와 환율 타격에 3분기 영업손실 290억 원 기록",
     "에코프로, 국제배터리엑스포 참가…포항 이차전지 생태계·미래 소재 기술 선보여"
   ],
   "articles": [
-    {
-      "id": "64faf55a6ddcdd10",
-      "title": "연탄 나르고 난방유 채우고…에코프로, 포항 이웃에 겨울 온기",
-      "source": "경북일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IaFBJUU9kSDhtZmZBUDI5Xy01bExvR0VoTXJ3dHhuSmxjaUJ0cllNZU1fRDJjdUd2RUhZeGxqakI2MHo1aWN6Y0d4cktuUlFNWWpVR0FVN3NCSzRHYWdzdDctV0pwdGhWamhqYWE5RQ?oc=5",
-      "publishedAt": "2026-11-19T09:38:38.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "연탄 나르고 난방유 채우고…에코프로, 포항 이웃에 겨울 온기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
     {
       "id": "8fce99cf73e6e757",
       "title": "[단독]에코프로머티 ‘폐수처리 MVR’ 정체 의혹…경북도 또 ‘유예’ 도마",
       "source": "경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZHJCTE9mMFhlcU5OYUpiTi1GTU85Z2VBS3dWWUlaRE9xMkdyU3dwcXhhRGdXdnFsWTUyRG9DSmszYTFqdWNMWE9SbmJXdGJnTkZyV2t1RzBJa1NlRWlGNi01MnJjeHRmS3c?oc=5",
       "publishedAt": "2026-11-18T11:34:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -71,12 +44,41 @@
       }
     },
     {
+      "id": "a8e44ff8bb7923f6",
+      "title": "에코프로머티리얼즈, 광물 약세와 환율 타격에 3분기 영업손실 290억 원 기록",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEktTFZZMGR0QTVNbW5uVWl6aGZ6a0MtM2I2WFBSVUdtQkNPYnBFZzNFUUVNTkVwaWFma2hqQjVVTFltcUMzZXFlcTY2aXhocmhVZ0dvd1lCVzNyWWlqSXFfWkdoYm9mR01WalU5QTM4aVhjVjQ1R0RyWmRDeWJQTEJIQjYwSTdF?oc=5",
+      "publishedAt": "2026-11-17T19:26:51.000Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로머티리얼즈, 광물 약세와 환율 타격에 3분기 영업손실 290억 원 기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.42,
+        "confidence": 0.69,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "약세"
+        ]
+      }
+    },
+    {
       "id": "7382d1b55d810c25",
       "title": "에코프로, 국제배터리엑스포 참가…포항 이차전지 생태계·미래 소재 기술 선보여",
       "source": "NSP통신",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdTBud253NnNGd1g0eVVCUm1veUVsWHZHYmRKYTFSREl6cTJ1dEVYMjdOdkk5cDNjbU1BRDJCNHlBQXR6OUxlMDRSZXBfOE16ejJXM0lGX2Y3QS1GOU4wVw?oc=5",
       "publishedAt": "2026-11-16T09:04:46.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -103,7 +105,7 @@
       "source": "뉴데일리 대구경북",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWkExNGdSakE0cnNqZmdWQjNmcXB5ZEE1eERHSWxTcUsxNGozMVJPRVpZMTlWQWdlZjRQbi11anNqcEJRN2h3OThLZFlDMlhsTTBmYVRzby1tYjBaNjdwbkJSd2VNRGMwY2gyYzJyc1ZYVTZ2TVAtMVIwRExhX1nSAX9BVV95cUxPWFpBMTRnUmpBNHJzamZnVkIzZnFweWRBNXhER0lsU3FLMTRqMzFST0VaWTE5VkFnZWY0UG4tdWpzanBCUTdodzk4S2RZQzJYbE0wZmFUc28tbWIwWjY3cG5CUndlTURjMGNoMmMycnNWWFU2dk1QLTFSMERMYV9Z?oc=5",
       "publishedAt": "2026-11-16T08:54:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -130,7 +132,7 @@
       "source": "경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHX2tOUkdNRDk4b01tb1NIakVFY2YxdmMyTkk2ZlEwZjZRbkFGbkpYZFZoekw1WlZWLWdJdDBWUHBtSmtYQmZVR0cwSlVBZ2NmZDk1Mkpxa0k?oc=5",
       "publishedAt": "2026-11-16T05:18:46.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -157,7 +159,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQTZhUnBCQmJUVWhHb3VSLXQ5cHZPNVpGQUxoX0VOaVI3TUZPeEdsWWRETEZtdEZTdkdmWE16RmNXZkdwdWhzYnAzTkVJcnNlUENxZllCTDdOQnVhVlE?oc=5",
       "publishedAt": "2026-11-16T01:07:06.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -184,7 +186,7 @@
       "source": "팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbm9JTTlybmhMMlAxVEpvVE9DYW0zMVRYay1IcmpyVFBqYUYzMjN1SXp4SmZIeGxZOHRMRklsalk3UE4wRTltMllRVENKQ1ZFdTltekdJOUNQTGlWeEpQbjZiTExUS1pa?oc=5",
       "publishedAt": "2026-11-15T14:50:47.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -211,7 +213,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ObkxobzBNVVVSd0IxandQU25XVFJOOVdPS3pmcGxrX3AyM0lsbHVlRVRMMTR3cWtaQkZacUt5UzBELWoyam05YnZ3NnJaZ3N4RTR3eG1kbEJkMEpfcW5WbndGSlczeFowU2pQWDVTNNIBc0FVX3lxTE1KSUpVWHJlbldmamNoNm15cW5DVjV3QUJ3VUlsTzdodG1pVUw1eGZ3UE16RGNldnV1WjFpYXM4dGZZNGVoY2lJNjBOVzY5NG9rVWlLeE1IUEltbzJBekp2c01vZjZWRG9IOFpRQ2JUMGlEaXM?oc=5",
       "publishedAt": "2026-11-15T06:24:38.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -238,7 +240,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EMkFPeWhKNEdjdzBpdm1Pd29SNWkyRUR5VFkzaEx1S2lwYi03T0VFampQMnRwUDB1SW51dUF6eTBSdEQyNzVfV29FYnZKbTQyY01SRy1FX2YyamNQ?oc=5",
       "publishedAt": "2026-11-15T05:45:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -265,7 +267,7 @@
       "source": "경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTazBmNW1rVU02cFJZQlpOdmhybkh5NFdaNkNXbldFRm9CV0NycjlrdWRLNDlxM0d1a25zcEtrMEtqcTJ3VmRGTzlSOVFib3N4RnRBaU9Lc1BKQQ?oc=5",
       "publishedAt": "2026-11-15T04:38:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -292,7 +294,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LSE9uVGJoS2N1UDlFR3pJWE8ta09FZzlVWEYyRTd1Slkzc0R5UHU2aDdJc05KUHI0LVA2dTZIMTNJS3VzZmJxZDZiSXlkWk0tekRHY2gtWXl4dw?oc=5",
       "publishedAt": "2026-11-15T04:34:05.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -319,7 +321,7 @@
       "source": "매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XUzZsOFBVbFBVaW9YNHNqMndCbjl2YnlWSzhNSWtiV3VRaUw0cElyRFRLbjZQYVJZQm1hdlhtOERCWVYxLWdrc1h5SFd1MVdvb3c?oc=5",
       "publishedAt": "2026-11-15T02:14:58.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -346,7 +348,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rMmIzdEV0Yjlub0Q0VGVxaVY2YjIwVzIxQ0pQMU9LR2FiSnlIRi00RFVLX2JmTHJuLVMtNnRKcnB6dGx1a0QxZlBvYzFOQQ?oc=5",
       "publishedAt": "2026-11-15T01:55:38.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -373,7 +375,7 @@
       "source": "아시아투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyVlU4d2E4d3Npd01FUHZKbGRJM2Znc1NEZnNiMFcwWVNkY0gxdGJWQ3U4WVc4U2lnQklKVG5RMFhpRWRnS0xYN1hSTmF2MUN3NEZ5U0dRblMtM0pUSEVPc2R5dEJoSUhXRE5SU3R3?oc=5",
       "publishedAt": "2026-11-15T01:50:36.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -400,7 +402,7 @@
       "source": "데일리인베스트",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qXy1MTkVnTy1MNHV2NF8yMnZnRGtGRmVRWGd1UDA2SXo0S21nZTI5TzNYQ3hmaV9oMVhlWml2MThIVjBMQ19idml1c0g4Y1pBUHFKWFZoWVJsVDAxSDJURWdBaG9CYV9uU0VXcdIBb0FVX3lxTFBZdGVmSDdIU1pEaDNENzUxRjZhQmY1OTJJMm1zQ3lUbWUxdy1SaURIQzNFYmZseDdrSk92cUlDZWpIV1FaelZfQmJUWDVGeGVKTFFBYmFKQUJGR0JIMGh0T0NudjE0aU9xOHFPQW8ydw?oc=5",
       "publishedAt": "2026-11-13T08:00:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -429,7 +431,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PQ0pGSHB1S3RBd3lGVUdpVVpHUDAwV2FOTmh3UE1rclhrUEZ6c1ZzOFhrTnBpUkJHUVpGMnMzU1owT3NoTHY2dURrdVBpUWdNeWpDVw?oc=5",
       "publishedAt": "2026-11-13T07:38:00.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
+      "collectedAt": "2026-11-20T03:48:11.084Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -450,33 +452,6 @@
           "반등",
           "실적 개선"
         ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "240af4c8467e4fb7",
-      "title": "에코프로비엠 헝가리, 소음 초과 0dB 기록…데브레첸 공장, 환경당국 검증 통과",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1JoLVp0X0YwT2hhVUR0Z1EtQlMwc21SZ013T2o5Tjh1aUpaOTBFSElaNVN3Q3NDbGFmaEhhcTl3WGgxYTBfUXhUM2Y5dExHVTdraVU3SlFrTjh5Y0lSVmJDNkNFRWJCVVJZLTFTdi03QUxhS0xEQS1ZVjBZSmpGeWVnOUlGSFhN?oc=5",
-      "publishedAt": "2026-11-12T23:00:20.000Z",
-      "collectedAt": "2026-11-19T16:11:37.109Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로비엠 헝가리, 소음 초과 0dB 기록…데브레첸 공장, 환경당국 검증 통과 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
         "negativeTerms": []
       }
     }
