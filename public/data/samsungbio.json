@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:48:11.084Z",
+  "generatedAt": "2026-11-21T03:39:13.950Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -10,8 +10,8 @@
   "dailyBrief": "오늘은 실적 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
     "삼성로직스, 올해 수주 급감에 '확보 매출' 첫 감소…글로벌 정책 변화에 불확실성↑",
-    "'경쟁 관계 아니었어'…바이오 CDMO 동맹 '활발'",
-    "[일문일답] 롯데바이오로직스, '속도·유연성'으로 글로벌 CDMO 판 흔든다"
+    "삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐",
+    "'경쟁 관계 아니었어'…바이오 CDMO 동맹 '활발'"
   ],
   "articles": [
     {
@@ -20,7 +20,7 @@
       "source": "메디팜스투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GWGJsdmJXbFRaNUp5eHp6ZHZWdnFvajdOcExRMVQzMmdtYjNBa1VOVHdnY05vWUpfRFN0SWhRbW9oVU5vSzV6aUNjdmNJVFlWQmZrSDRGYXVWYzJnSmFUZzZFa3JrbnJO?oc=5",
       "publishedAt": "2026-11-19T20:55:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -47,12 +47,39 @@
       }
     },
     {
+      "id": "d6d9f4b29ea90e0d",
+      "title": "삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐",
+      "source": "오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tUldEcWpzUk9rSnBQXzNNTUhLbWRKeVR6R2JJeFE2dkhUT29LNjdwUC16NzlYY3hLYm53TFJreVQ0aWlOUUlKM0NVSWUycjRFOWpLMU8zSzg1RUc1TXNwQWtyN2d6OFFJbHBlc3phTnItdw?oc=5",
+      "publishedAt": "2026-11-19T06:09:16.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오로직스 노조, 한국노총 선택…노사 갈등 장기화 조짐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "dcee81fd04bf0b3e",
       "title": "'경쟁 관계 아니었어'…바이오 CDMO 동맹 '활발'",
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OU9OZm9yMnNlQWc0MXI5WU1Yd2k0dlpuWXo1M3RHWURvLXNGS1V3WjB2RDZlTXpLMDBGcU5TcVFVbUJHeXZ5Q2l5dXdoRHg4b0p3MUJHaHVvV25oNnMyMGExdU5ocGtYV3RITzdsYw?oc=5",
       "publishedAt": "2026-11-18T22:40:03.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -74,12 +101,12 @@
       }
     },
     {
-      "id": "e99960250a8b4c1d",
+      "id": "86212c9d43d06243",
       "title": "[일문일답] 롯데바이오로직스, '속도·유연성'으로 글로벌 CDMO 판 흔든다",
       "source": "약업신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KTmZQZkN3OHAxbWpuRzI1RVBEMk44ZHZFVnZiYldXYndnUkZQSy13bnpnMUgxSmpyNTU0ZnBpYmoxSVgzSnU3cVFkd1hobXk4WHNoWFBoSVhmeWppcUNUR1RZOWotdElkT2pGeHNtOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zY09vWDlOUS1DejRqek80cnhjSHRKMlltUC1oalVDanBsRDVNSXVRMlBzLW9UUXhPVTktd0EyNnIwS0pMYTVwV0FyeTZfek9xb0szcGh3U1o5OUZ1TTNvdm03UG9uNVdjU2dQWUJqSE0xZGdRY2c?oc=5",
       "publishedAt": "2026-11-18T21:01:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -106,7 +133,7 @@
       "source": "메디칼업저버",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12UnNYVVk0emluZ0djODRfREVpMU9PeEVoVS1DbkVmcTdtemZ2czdpMzlFVjA2cmlZTUhuM2tOMVhrc1JSSVRfd0ttOXJkOUxOd0p3TXhrYXF4bl9FNGhQSHlFQUd4MnpBQy13?oc=5",
       "publishedAt": "2026-11-18T20:58:38.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -128,12 +155,41 @@
       }
     },
     {
-      "id": "0de51d2ea9e91282",
+      "id": "5918d3aeaeed3db2",
+      "title": "[현장] 롯데바이오로직스, 송도 1공장 준공...글로벌 수주 확대 겨냥",
+      "source": "뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94SVRQMTRUdmN5Q2pQaExtZnFBMFRUYUlsQWFjbzh6WFJacmEtYk1PS0VMZ0hqRU9Sc2hMQm5QdklwWVp5bEJEbXhZM202SExSblMyVzdxQURieWo1d2c?oc=5",
+      "publishedAt": "2026-11-18T08:12:00.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "[현장] 롯데바이오로직스, 송도 1공장 준공...글로벌 수주 확대 겨냥 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "62700910ea9945f1",
       "title": "롯데바이오로직스, 송도 1공장 조기 준공·첫 수주…삼성바이오·셀트리온에 도전",
       "source": "약업신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jaV9pWC1JT3FvN2tPenNsd1VMWVRuclNUXzA0TWpGdXQzeUtkVWphcFVwQlRpcG1rY3E4YThIZEppalE4aWZwcnBrZDVaODM4QV9XdjVfdVNMRDk3cWV3aFlDNFphdmtOei1xWkppdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0ZhUGpYUUU0a0JrQi1RYVZadHloc2J1QWpCYndseHdnY1kwMnpJN2ljam9XQTZCYWhic1JjSW1LczlwNGU4RVNhaWNabkFLQWpCUzhyTktkUmY3VGxNbTdiaHhUbFdhOXlBTlgycVdxaklzczQxWkpKa2VvcjJkWXd5TUhwYVE?oc=5",
       "publishedAt": "2026-11-18T06:43:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -157,12 +213,12 @@
       }
     },
     {
-      "id": "0a0bca846f2deb87",
-      "title": "“삼성바이오 추격 나선다”… 롯데바이오, 송도 12만리터 공장 준공",
-      "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rWmVXQl9sZFc1aWtBRUpFNHc3cmNwTzZPWjJwZzQ4U0VYNUhneF91V19JMThtcEItcDhVc2pPeF9KaEZXYldpVWdlUnZ4N3U0eHF4NGpFWTVXZDhHeVYzMmpGMG56QlJRUGVuNVZCZHdUMUVF0gF0QVVfeXFMTmtaZVdCX2xkVzVpa0FFSkU0dzdyY3BPNk9aMnBnNDhTRVg1SGd4X3VXX0kxOG1wQi1wOFVzak94X0poRldiV2lVZ2VSdng3dTR4cXg0akVZNVdkOEd5VjMyakYwbnpCUlFQZW41VkJkd1QxRUU?oc=5",
-      "publishedAt": "2026-11-18T02:25:02.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "id": "fd892a5f38348b49",
+      "title": "임금 6.2% 선적용 제안에도…삼성바이오 노조, 한국노총 가입해 압박 강화",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkRqTjRsMW8xbXlZT2JwZERVUDlnOGpiUklTUkw0V1NVNzBianUwUU40cnYtRklzYk9fb2doOXdtZlFZT1AzR2NCV3drcHpZQzROZTI5cEtOOVFrT1RuNGl6dDc3X0NxZVgzSzN3MlZ5bmJVTS1ySC1uN3VoR0NtSXR4T3VBSG_SAZsBQVVfeXFMUDYyWndyTWQydUJXcFBuaFN6a1FrZ05Bak53dmFHeFpQRWI1YU9vRnpRNjJjUGtHVkNlUnU4UjY5LXZzOHptVm9WSVVoa0JLdW5Vd2dRSUhUWUJfaEUtZENCYXJ5NHFtWDJ5RTR6TGxnNDRtem93QjVpZnU2UnBRTkZROFdBa0RCeGZnY2pFZ2pJeHc5UWdkNUpROFE?oc=5",
+      "publishedAt": "2026-11-18T04:26:00.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -173,8 +229,35 @@
           "ticker": "207940"
         }
       ],
-      "summary": "“삼성바이오 추격 나선다”… 롯데바이오, 송도 12만리터 공장 준공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
+      "summary": "임금 6.2% 선적용 제안에도…삼성바이오 노조, 한국노총 가입해 압박 강화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "040156b5251735e7",
+      "title": "삼성바이오 노조, 한국노총 가입…조합원 88% 찬성",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96VnlzY2d4M0JCbzQ4QzhrRjZLUjNydHVMVm1xc1hJemMtTExuaVNrRFZ1d3BObFNEektkSzZVSEREMjBTdlkzY1hCMDlZVkt1TDE2QlpEMFk1NU91dnc1R9IBYEFVX3lxTE96VnlzY2d4M0JCbzQ4QzhrRjZLUjNydHVMVm1xc1hJemMtTExuaVNrRFZ1d3BObFNEektkSzZVSEREMjBTdlkzY1hCMDlZVkt1TDE2QlpEMFk1NU91dnc1Rw?oc=5",
+      "publishedAt": "2026-11-18T02:29:15.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오 노조, 한국노총 가입…조합원 88% 찬성 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -189,7 +272,7 @@
       "source": "DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MX3pzSy1fQTFDWllLdk1PZF91UUs4YXdSNlhnRThNMkFTVlRpZ29uUXdJdkVSbHBQY19Xb2g4ampjNUlrRGo4YnBPeFlJeWRFX0lsSFln?oc=5",
       "publishedAt": "2026-11-17T23:00:32.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -216,7 +299,7 @@
       "source": "경인방송 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NS0RvQVZqVHNJazBjNGl5YVNqSDdxLWxCM3NYUzVLTERVX25iTUR1d3A2NUQxcTZmSm9yMTl3Zmh1RVhPcVVrYV9hWTNadUpYZkVQMUJKVTlsalF0cFFRb2lMS1nSAWhBVV95cUxON1NwcW9pbURaV2NXbXJiUmV4ekxjaHNPNUx0cDVzbmZqSEU5VXJjZWcyUHk1ekphM3RTVVhRWlZSOEFNQzVDOUJKLTFnZ0hjMEFQY3VnS2wtbnpwbHo5cEI2bDZUeF84bw?oc=5",
       "publishedAt": "2026-11-17T23:00:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -243,7 +326,7 @@
       "source": "더바이오",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNVh6YnkyMENJS0d6VEY5S19KbGtyMjVQWFRuZDNGd01nQ0VEMEdCUGl6Z1NHQ0VZQVBFeDl6SGdJRmtTVkQ1bnBQbHVuRjNyOUlQbC1uX0hDNXlIeU92RzEtZEx3MGZDUTA2SdIBcEFVX3lxTE9vVTRVekd3cjBUR0ppRmNvU21KbGZIbllNREVrSGxTZzVXamgxNzhpNXhnY2ZfZkFSYkRZYk9iT0FnVWdmbjZNRFV4b0NocUNqZHFJX0NKdl9IeXExUzNrSEVXVFltbndoOS16SVRZVjI?oc=5",
       "publishedAt": "2026-11-17T22:03:01.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -270,7 +353,7 @@
       "source": "메디팜스투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Tcl83TmczcklGYmQ2VGE1TWVVWVpyVk5pMW91RHc3aDQwTTRSdjFhRFBlUl9UR0U4Y1NkN1pBRjRlWkcyMTZCVXVRcWJYMFN3Vk5ONFhxRzhoNnN4MHZqWjVGcXF6MzND?oc=5",
       "publishedAt": "2026-11-17T21:00:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -292,39 +375,12 @@
       }
     },
     {
-      "id": "ba7a55cb17c03c95",
-      "title": "삼성바이오로직스, 임금 6.2% 선적용 제안…노조는 거부",
-      "source": "히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TM1lqdEpXN1hqN2dacDEwS3BUTms5aFFrbEd6dC11cWxvYWZUQy0teldIQjRZSGI2SUlMMGtFY0JZR01FYm9EbVpaMmwxV2JRWHFQWmJmckdpR29ScUJrbS1uZHhGeDRLOEJB?oc=5",
-      "publishedAt": "2026-11-17T13:55:51.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오로직스, 임금 6.2% 선적용 제안…노조는 거부 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "5ed85b518cc7b1ac",
       "title": "삼성바이오로직스 노사 교섭 재개…사측, 임금 6.2% 선적용 카드 꺼내",
       "source": "팜이데일리",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNTQ2QzJ0NnYxN0Jib3RxUlR5TEZHX1l1TDdBcXBGSjlWU0N4RVJocDF2YW1HR09JdTBkQnRNX1RxcUFvX3Y4N3FzY0VpeV9VWXNBNjdMSy1kU1pjYjlGTkxTeFZxTmpBMERiMDFB?oc=5",
       "publishedAt": "2026-11-17T08:53:41.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -346,12 +402,66 @@
       }
     },
     {
+      "id": "8537ea1c259b73a8",
+      "title": "[바이오사 리포트] 삼성바이오, 8803억 최대 고객 공백 메운 다변화",
+      "source": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ycm1uUi1jeTZ4b0NaTjBkTGc5dHlBaDVjU3ROc1lSbEZnbnlmMVY4eUdDTU5pOWo2dFJSUE1icHh1dmEyWlI1TDNpUQ?oc=5",
+      "publishedAt": "2026-11-17T08:18:04.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "[바이오사 리포트] 삼성바이오, 8803억 최대 고객 공백 메운 다변화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d582408897d77d25",
+      "title": "삼성바이오 노사 교섭 재개…사측 임금 6.2% 先인상 제안, 노조는 한국노총 가입 추진",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm8ydERrOExwbEJFcTNlR1k3OHcxR1JHOThWdXVqbUlKWnQ4eDJIVFYyVHRxU3pxY3pjVGhGUk1sOU1VMjM3cV9WVVFHc1JoRVgyMXppX3dyOFpRdDJWSURrRFNldDk4eEJXbmJmemJFajJLWGJrbE12cE5rRTJRbE9DOWF2bWPSAZsBQVVfeXFMTXA5OXAybi1oN0VkcnRUTmw2akhrbWFndGhBTGc3WE9Xbkgzd1hNeVdEZzllaDR4bkxLem1Wd0FYclpPVk1HVk5PNkFvNl9MS19pdHJnM1g5SlBKUFZrOUd6WWIzNkktYWNBY18weDdhY3RZSGEwR19jLWpYYUhxUFJubjd5T09FZUFHbVpWMWdTODBsWW5wV1RBUm8?oc=5",
+      "publishedAt": "2026-11-17T08:12:00.000Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "stockId": "samsungbio",
+      "stock": "삼성바이오로직스",
+      "ticker": "207940",
+      "relatedStocks": [
+        {
+          "id": "samsungbio",
+          "name": "삼성바이오로직스",
+          "ticker": "207940"
+        }
+      ],
+      "summary": "삼성바이오 노사 교섭 재개…사측 임금 6.2% 先인상 제안, 노조는 한국노총 가입 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "81dbe4d52d8c5161",
       "title": "삼성바이오로직스 상생노조, 한국노총 가입",
       "source": "매일노동뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rZUhpX3FFS05wczZaa2dZUVNvNVh0aUJhbUJ6Nkc3SGpRVG5YSC1vWXJaWmVRdzQ2VWpLZkhMVEJfazVYYWlhMWxMcnY3N0dETXp2b1hOblJpUVoxc2NrMjB6V25hVmlZUThjZWpHZUc?oc=5",
       "publishedAt": "2026-11-17T08:00:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -378,7 +488,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxa2tDYVhFZERoU3RSS29fNm1KZFh6SHBETUFMOEJoRmU4Uy1Zcjk1cmIzNnZaeTJkZFAyNjg0UGV0VWJheVZpSEQyVldpRHFnc0h4eUZDTDl6ODlLb3RvMDkzWnpqUUlqZWRPbEhRc9IBc0FVX3lxTE1jcF9qWFpIRjdkbmIzeHRuUm9JdF9tRU8tdWF1UURzRmZkUkpPVHU0TU9xb2xlQnoxY21meTdSeWV4MW1fOVBxU3Znc05FNE14R1VMeC1kTXV3Q0NRckFZUFVuejc0VmE0bDFFY3dlUDdRVlU?oc=5",
       "publishedAt": "2026-11-17T06:47:18.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -407,39 +517,12 @@
       }
     },
     {
-      "id": "6ae82b6708abf1b2",
-      "title": "[바이오사 리포트] 삼성바이오, 8803억 최대 고객 공백 메운 다변화",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tQlNqVDZOTmJXeXAzVkQwRWhkU051bEhPYTBPVTAwVzduV1BiSUlPZl9NMTF2cU8tUk1FSUc5TC1fUXJNOVAwM2EtME5pbEVGcU5uLWR3RHVpTnduckNkX3RTWTBUUTBONUk0ZdIBbEFVX3lxTE4tQlNqVDZOTmJXeXAzVkQwRWhkU051bEhPYTBPVTAwVzduV1BiSUlPZl9NMTF2cU8tUk1FSUc5TC1fUXJNOVAwM2EtME5pbEVGcU5uLWR3RHVpTnduckNkX3RTWTBUUTBONUk0ZQ?oc=5",
-      "publishedAt": "2026-11-17T05:27:43.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "[바이오사 리포트] 삼성바이오, 8803억 최대 고객 공백 메운 다변화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "676d532e8456ddc2",
+      "id": "494f082c5a6f7302",
       "title": "롯데바이오로직스, 송도1공장 첫 상업생산 물량 수주 外",
       "source": "톱데일리",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbjctcENDQTduVFpWazI1QTJ5Uk91RVJWeDdrdklqZFJQYjRUZV9mOU5tVVJXVUxGaU5IMXNia09YQUFSdkJhRWphRWVYcW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LdHV3OU04eXltWGJEakYyZWs2ZkdpUFloMjRUSmQtNDBYaDdwRExLSFlaMUpaVU1hNkszanhqSmJQVmI4aUw2WnE5eDhGTGww?oc=5",
       "publishedAt": "2026-11-17T05:08:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -468,7 +551,7 @@
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZC1iRWRuV2RWQmZPX0J4WndVYkQxVF9CVUNDSUctRUNsWEoxNHRtLS1MSkxOVnlzaDlLWVp0WlpSWmVLeEwwY0F1QW5HUlU?oc=5",
       "publishedAt": "2026-11-16T22:00:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
+      "collectedAt": "2026-11-21T03:39:13.950Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -487,91 +570,6 @@
         "confidence": 0.67,
         "positiveTerms": [
           "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dc52e96be979da10",
-      "title": "[숏폼] 삼성바이오로직스, 2.7조 유증에 청약 경쟁률 135.6대 1",
-      "source": "히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBESm1sNkFpX19GVFpJNFUtUGlQOXl2LVRZdG5nRWw0ZE5FLXlLdldEbk4xZWdQMEN5QWl4VG1rNC1nOVIzekI3NGhSdEdXNlF5RWo0YUxJU0h3WGFwc1RoT1JFajJ2VG80cG8w?oc=5",
-      "publishedAt": "2026-11-16T21:01:00.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "[숏폼] 삼성바이오로직스, 2.7조 유증에 청약 경쟁률 135.6대 1 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f83fa293d6241646",
-      "title": "삼성바이오로직스, CDMO 도약 위한 유상증자 흥행 성공",
-      "source": "기호일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81eEswUmt2bjU2M1hxWjR2ak1iZGdja281U01PTzF2MXd5UjNRSFp3TWM4b2ZHRENYTjZuMFF3QlBBLW5BaGY2dW4xTDVHYkJtZWQ0Qm9hZWhJNEJVWHR3MW8xN21HZVJRdVhCWkZBdw?oc=5",
-      "publishedAt": "2026-11-16T03:26:51.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오로직스, CDMO 도약 위한 유상증자 흥행 성공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b94defd6e8a57d31",
-      "title": "삼성바이오로직스, '2.7조' 유증 성공…증거금 11.4조 역대 최대",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tcE9yOTE1ZGNGTWlIVE92U2VIX0dxRU1BeF9JRk1mdWpFT0VNRmhrSURIQnAxSzREZnNjVmRKbU1velEzTnJZYW5ITjFXeFk?oc=5",
-      "publishedAt": "2026-11-16T02:10:46.000Z",
-      "collectedAt": "2026-11-20T03:48:11.084Z",
-      "stockId": "samsungbio",
-      "stock": "삼성바이오로직스",
-      "ticker": "207940",
-      "relatedStocks": [
-        {
-          "id": "samsungbio",
-          "name": "삼성바이오로직스",
-          "ticker": "207940"
-        }
-      ],
-      "summary": "삼성바이오로직스, '2.7조' 유증 성공…증거금 11.4조 역대 최대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.35,
-        "confidence": 0.66,
-        "positiveTerms": [
-          "성과"
         ],
         "negativeTerms": []
       }
