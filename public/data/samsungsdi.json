@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:39:13.950Z",
+  "generatedAt": "2026-11-21T15:00:13.971Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 실적 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "교보증권 \"삼성SDI, 미국 ESS 생산 본격화…실적 개선 기대\"",
-    "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입",
-    "북미 AI 시장 잡는다…삼성SDI 배터리 3각 편대"
+    "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속",
+    "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\"",
+    "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입"
   ],
   "articles": [
     {
-      "id": "ad6a3e5b90ca9c88",
-      "title": "교보증권 \"삼성SDI, 미국 ESS 생산 본격화…실적 개선 기대\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTEwyUGJCblUtRWlsNGw5WGpUQzJuR0tuY3ByZ05XdUFTVDFnWEkxRF9nSEFBdWNzTEswVkJtLXdRb2F2dkFrRWVxZ0l0YzRtZERpTGtwNWlnYm_SAWBBVV95cUxPUndxR2MyRWRqWG9WX00xSlZGMlBvTktwQ3A1NEllclhGTWI1SkY4WjZqWUZzZ3BKZ3JIWUxlbk9lVmVpOEtDNXdPOVdsRVpETWludHhCVVpMR0luQ1RPNmE?oc=5",
-      "publishedAt": "2026-11-19T23:32:33.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "id": "4fb2efc5b3a904e8",
+      "title": "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRU9HZkJPN0RFRjhJTkhWcl85dXRVVXRvWUVTWmh6TTY2Vnh3LU9pNDFFRkdZS3huT1JXUks3UlBkN1hHbUVWT0NVNHJfUmpsdy1XNjFEdkxBeG5QemZWT2pIMFg?oc=5",
+      "publishedAt": "2026-11-20T02:15:03.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -31,16 +31,43 @@
           "ticker": "006400"
         }
       ],
-      "summary": "교보증권 \"삼성SDI, 미국 ESS 생산 본격화…실적 개선 기대\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
+      "summary": "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.43,
-        "confidence": 0.69,
-        "positiveTerms": [
-          "실적 개선"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce3046100f48fe12",
+      "title": "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLVh4TEpzMEN6VDJPWVdDel9fUE4zaUdpMV9YT1ZOT1JsTmJQSjNTLTlYR1NyUWpyN3hvOW9LbHlLX2RiUk9zX1NHME5JUy1KWHphX0hGUGVDc3hkYVJpZUxCMkliZzA?oc=5",
+      "publishedAt": "2026-11-18T23:55:00.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
       }
     },
     {
@@ -49,7 +76,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdkdibHhnQTNCZzZHVFk0ZlppdXBCTlRBODBSUkk3bDhkcEN0V1FhR0FyUXQweGd5M1duZ1lHLUl1S2haR0d1d2lscVRJdWMtcDN5M3NzMUQ0Z2fSAWBBVV95cUxQSjZqMXBvdkctQ00zUmJ6YXV6UnA2LXJFdU9tUmVmcFRFQUtXLVFvU2dqRGJCakNuSHhHM08wTFU0ZC1pQlk3NHBaQ2NxSDd1bVg0VUxFQVFENDdkcVV4dEk?oc=5",
       "publishedAt": "2026-11-18T23:03:53.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -76,7 +103,7 @@
       "source": "경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yR3IzanlxTVZkaXpUUzJ1anlYMXdyMGdSd2pQMzV2NVVDaEMteThlXzRKYWs3X2R6X1YzWGJ2MkRfRVZ6QlhSYXFTbEQ2MWxnYnYw?oc=5",
       "publishedAt": "2026-11-18T06:28:30.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -98,12 +125,12 @@
       }
     },
     {
-      "id": "8309c0d2e35e489c",
+      "id": "af05d9e7b44554d3",
       "title": "삼성SDI, 美 ‘RE+’서 25년 장기 보증 배터리 솔루션 대거 공개",
       "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTk40TXdUX1BjVm9sekdpU0RqQkV0dGRtUC1zTzVqYzBya1JYQjUwck5MVF85UDFBRkdvZzJyOXRlZlBwT1dGRDVjOEYyVHBKLUJWbVBiTDZTa19COE1xUWFPZHlCS0JzYjRmYjVrU1DSAXBBVV95cUxNWE5ONE13VF9QY1ZvbHpHaVNEakJFdHRkbVAtc081amMwcmtSWEI1MHJOTFRfOVAxQUZHb2cycjl0ZWZQcE9XRkQ1YzhGMlRwSi1CVm1QYkw2U2tfQjhNcVFhT2R5QktCc2I0ZmI1a1NQ?oc=5",
-      "publishedAt": "2026-11-18T05:21:21.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQMmRVUVZpN1BPTlQ4MU9nUnhPT2pfbE92R1hOaTRlTXFVUDJKWC1ya21XOVRDcXQ5ZlNIbTlJWFIzRFN2aWFpdEdER091cHRXWnF3NklEejZuSEJrNE5EdEx3SG1LZDM5NGNKUNIBcEFVX3lxTE1YTk40TXdUX1BjVm9sekdpU0RqQkV0dGRtUC1zTzVqYzBya1JYQjUwck5MVF85UDFBRkdvZzJyOXRlZlBwT1dGRDVjOEYyVHBKLUJWbVBiTDZTa19COE1xUWFPZHlCS0JzYjRmYjVrU1A?oc=5",
+      "publishedAt": "2026-11-18T05:14:18.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -130,7 +157,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jQWNwVkJVWUFTMlY0M25XdEJEMHZ2NTNMMEd1a2podHBuM2xrMEtIVENfSllQZlljMXRwbWFHOUxVVmRfT0tGcXZWeFdvQlE5dWJHeDZJOVJET2U4WHp5NHl0OUh5dw?oc=5",
       "publishedAt": "2026-11-18T02:04:42.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -157,7 +184,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZVEtVm5YWE4taVE0YzlmYVlQLXdWREZWendBdHRGVDNpbHlPWER1NDdIQzJhZEJUNnd0aVpqNjZJNkkyYjlNOGpjT2VNaGpMcUVlSjNiZVBFcUZybDhyN0s1UGJvUQ?oc=5",
       "publishedAt": "2026-11-18T01:16:02.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -184,7 +211,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tNEVrRWJYSkJYTnpyWHR1SkdTQXZkWVg2VTVieVUzc05RUk9VQm9hNFFFYjd3WGhHbjd4WVhCb0Q3Y0pwTTZ0bGQ5SVlUbTVrbGFNdzdYU0VwZjDSAWBBVV95cUxQSFl2Y1hPYXJUaVBaVFh3OVJ4ejdDWEh5ZnZJZkxwRFh6bDVsT2lDZmotNmtJSmxoSWhfcG9LRGpfcWljZW9TME9iUy11WTk2RkNfbWxXX0RNeXZUNl9hanY?oc=5",
       "publishedAt": "2026-11-17T23:36:20.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -211,7 +238,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RMmU1ZTVoY3U0T3J5d2lzSEd2TWJYd25Nc3VURlVBWi1kcVl3cml5N21XanRtdlFxTzh4WF9KNldiZUNheTEzYWhOSGZIZXFITG5OQlVrcWhGa1dVS3VKNFVKMlpOM0xSMC1oVdIBckFVX3lxTE92SEFMZDRoTXJwN2RTWnJMS29kamNCRnVFci16a1lsYnhkbGxQc1l6bGJtUWY4cGpxeEptSDBENmF5VXNzcC1VcEVvVTg2THZRWFY4QTloenREUjFHLV96SUtWdFFtYWEyUl9SV2ZlRFNYdw?oc=5",
       "publishedAt": "2026-11-16T18:40:00.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -233,12 +260,41 @@
       }
     },
     {
+      "id": "a0e8dff5802b1a98",
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…16GWh 공급",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQUdMelRkU2FzckxQSFhjS2VrOXBXMTVxRUJudUNId1Vuakh4TkxCRmtXRjJ0Y01aa0cxVXp3U01ad2pnNEl2X0dlU0l0YUliNkxYR0diMU1ZRjdvVGU5ZVY2Wnc?oc=5",
+      "publishedAt": "2026-11-16T06:50:08.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 美서 수조원대 ESS 배터리 수주…16GWh 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "49aef7b1a6b21c59",
       "title": "[특징주] 수조원대 수주에도…삼성SDI, 코스피 약세에 3% 하락(종합)",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5X1NlSi10S0FTRzF3VkhnZTVYbXdsYXNxYWtHU2ZKcWMxQVZ6d2xqTzZSZGhxTW1pUmlCczR4WUtwcE5GeGZtYjJyMXpPR1hOY3YyQmZLcjdiVzTSAWBBVV95cUxOZ2UzS3YxYS1OYi10NHZteDllYWNoa2xjMDl3ZXZmUHhhQ1Z4VWxJNGhCTEVLckNYLUJOY09COGdiYUdrZnBRRjVYc3dzcDR2dDBoM0RHX1RKVGVxUktEVno?oc=5",
       "publishedAt": "2026-11-16T06:43:25.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -264,12 +320,12 @@
       }
     },
     {
-      "id": "b9c2c554b0ca7345",
-      "title": "[ET특징주]삼성SDI, 수조원대 ESS 배터리 수주에 상승세",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pX3RoOWZZd1ZWZnlBRklzTXhqMjRpdS1KLURCanIta29KYUdPV1BHSTJPdUpmTC1odE12MkRzaXN2bUlHbC15ZFZ0aERyZw?oc=5",
-      "publishedAt": "2026-11-16T04:28:46.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "id": "c5ab0dfac49a8417",
+      "title": "삼성SDI, 미국서 16GWh 규모 배터리 수주…3조~4조 추산",
+      "source": "중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwRmFhZGZsbEhQalh0NnZQTm1Makw5dUtaMEF6VjVEbVlGc2h2Wk1rN2pOX2RtUEdfM0lpN0hGM01OQldTaVpTd1haa0JHQ0djMHB2dEp3?oc=5",
+      "publishedAt": "2026-11-16T04:04:20.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -280,7 +336,7 @@
           "ticker": "006400"
         }
       ],
-      "summary": "[ET특징주]삼성SDI, 수조원대 ESS 배터리 수주에 상승세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성SDI, 미국서 16GWh 규모 배터리 수주…3조~4조 추산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "positive",
@@ -298,7 +354,7 @@
       "source": "비즈워치",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cd1dhNjhaaEQ5X01aYzN4VmVUaDNkeWl5UjEzcG5hajRibXhkYlVzLXdSM3FkVUNXNUhDT0lMeGtyelE0TGZ2VmJnekZkeVU2RU5CWkhhNHN3RTdyN29BVmJUcXZBMHVaYlUyMw?oc=5",
       "publishedAt": "2026-11-16T02:22:03.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -320,41 +376,12 @@
       }
     },
     {
-      "id": "c896ca906f4eb86c",
-      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…2029년부터 공급",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52c1JFYXlSR3l5cE15c0FrOTRwTHZEejdiZk9CV3hGcFc4bUNDM19UdnRnZk1JbXFWRVdJcmdHMWVmNm53aW5XenE0bXBZdw?oc=5",
-      "publishedAt": "2026-11-16T01:19:27.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美서 수조원대 ESS 배터리 수주…2029년부터 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "349b6ed27e21bb2f",
       "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…블랙록 소유 에너지 기업에 공급",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjNiT0ZxRGlqeFBkYnZvSl93UFJlakhWcXhfbGdfVUR0alFoNkdTbU9Mby1VeEF2eVpkeUtMeURPWTFTNlFZZm9pQjdxcTdhYkxiWUJ3VHNBekh5Mll6NUR3bDB1LWhsNnNrU0pnZVhkdDJJNFBtN1NaOTlScDdsaW5UaWlNTE55TzNIUXlGYw?oc=5",
       "publishedAt": "2026-11-16T01:02:24.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -378,12 +405,12 @@
       }
     },
     {
-      "id": "53d831c01c997460",
-      "title": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 |",
+      "id": "757ef8c2bb7bd811",
+      "title": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모",
       "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jLU5jT3lPOXZYU0lwZ0VLd3dleDczUXZnYWJNbGdBV3RJZWloeWl0cUREVVNoTDYzYm9Vd0JYMVQ2WkkyVkZYcFdyZmNhS1BXQkNnaXdxbk8wajNNdmloNFhfdzVLNHpLal9JbUp0MnVoVzRk?oc=5",
-      "publishedAt": "2026-11-16T00:30:57.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZLTIyUE1SXzI0aXhjQ1dXaVRHYnM3azQ3NmZGT2E2Nm1RN0NmczBQVXNFMk1RcTY2OE1aLVA3NXVmN1h6UUgzNm1yTjItMVJfRmkzOThuUEFIMjBzZkhycXczVkd0eFQ4ZzU2d25Ndkc?oc=5",
+      "publishedAt": "2026-11-16T00:24:12.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -394,36 +421,7 @@
           "ticker": "006400"
         }
       ],
-      "summary": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6dbe415851ef967e",
-      "title": "삼성SDI, 미국서 16GWh 규모 LFP 배터리 수주",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa052Q1BBNVlpQUFnaGFpMnJnQVRjLVJxWV9hUXd4cDJZOFJtbk5oRldJTGctTlkzVkdOYmFabTFicXdrX1RxNUdaYjZhS3daUUVKbVVCZVZhU3piVERkSmVkSlNXQjR6eWpiRTJoTGdlTmp2eE1HWkFQNjZYMFBEQ2VpaDXSAZgBQVVfeXFMTWZrVnpZY0stMHktcjlLR0FEbjl1MFJMSmJZSDNRaUJHQnhNZl9XeE54aHgxWFlSd295UDljSnVSQnc5MGxtMk1rRG16OTl5cVpJX1hLQUhna1FEaHhyM25wWXlXRlZRWHp6a002R2NQT0FYaGROZmZXSi10NW84bENuOWZSaFN5a2VYQi1nRkdXVXVSY2FZQnA?oc=5",
-      "publishedAt": "2026-11-16T00:11:00.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 미국서 16GWh 규모 LFP 배터리 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "positive",
@@ -441,7 +439,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QQXBpMlFxZF9YZGhDUUUxYjgtTEktUkFVRmp2SDlWbkdPWjBMd1VRRWVEQVpQZ0FNcDdiR3lfMFY5T3hMcjRrbkRtS1hyUElKX3lVcmhhWndwVGVfRXhyZDYza0pCUQ?oc=5",
       "publishedAt": "2026-11-15T23:47:51.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -468,7 +466,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13V2RhOGFvZ0lYcXJhMm5jRWVrY2cxVmgwLUpHcEZVY0s1Q3EwWGpLb0xuUjdaLU5DQjZYTW1mYlJTU0toZ0VPSVlkdFFTSkNkTC1JYkk0SEFiQQ?oc=5",
       "publishedAt": "2026-11-15T23:22:52.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -497,7 +495,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlYtb2VBVmktS3dpaFBrSlZ2OWotaFhlTjZrU19id19iS0lLb2E2b0NmT205NXotVkFvcG9nOUZDVUhJclkwdjRSbmFqUFczTjFZZkdWeDFjY29LMmJHOFRuODhWTlc0Z01QUUx5cVRaRnJmSVJiVHdYZDZiUWtXbDFvU1Radw?oc=5",
       "publishedAt": "2026-11-15T23:19:17.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -526,7 +524,7 @@
       "source": "삼성SDI",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QRURGLXNYNFVJMFF0S3NLRWI3SVhtWUhWdU5lZ3pGZVBHRjQ2SGZ4MXZnbDJ0a1B6VHlhcEtoR1ZmT1lOZXdFV3dncVZGdXhwdDhMSEJjSno4eG9EaUxLT080VUhDQQ?oc=5",
       "publishedAt": "2026-11-15T23:04:44.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -550,12 +548,12 @@
       }
     },
     {
-      "id": "2693ce79a7bcc1af",
-      "title": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMU4yX3NZNGppQ2RhTmx2ZDhQX1FBdUFEUjlabkpUWFQyWEYwNHFUQlFiRUpQQklzVkRkZzRNLVh1andoM09GVzVaV1JscllTV0lUMGtJMndyLXBpTWJPYzY3OE0wUQ?oc=5",
-      "publishedAt": "2026-11-15T04:22:02.000Z",
-      "collectedAt": "2026-11-21T03:39:13.950Z",
+      "id": "d94a8beda43e6f07",
+      "title": "삼성SDI, 미국 ESS 시장 겨냥 차세대 배터리 공개",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRVExYlFNQjduMzNGNEtEUHVOYXBKNzNuYWV3OHpmMFFhbnlDUng1WUZQT1ZqUDNHX3ZabVA4ejB2V1VQQVV4MkdWR1lyUC05ZDZZSXhsbEdZTFNC?oc=5",
+      "publishedAt": "2026-11-15T05:45:00.000Z",
+      "collectedAt": "2026-11-21T15:00:13.971Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -566,8 +564,8 @@
           "ticker": "006400"
         }
       ],
-      "summary": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "삼성SDI, 미국 ESS 시장 겨냥 차세대 배터리 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
