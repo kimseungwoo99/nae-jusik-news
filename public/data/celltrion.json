@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:45:08.504Z",
+  "generatedAt": "2026-11-22T10:31:52.439Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,47 @@
     "name": "셀트리온",
     "ticker": "068270"
   },
-  "dailyBrief": "오늘은 실적 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "셀트리온·삼성에피스, ADC 신약 개발 탄력",
     "셀트리온, 램시마SC 등 바이오시밀러 제품군 분기 매출 1조원 눈앞",
-    "\"지분투자는 피를 섞는 것\"…셀트리온이 바이오벤처와 손잡는 법",
-    "셀트리온, 바이오시밀러 亞 시장 '승승장구'"
+    "셀트리온제약, 3Q PFS 포장 생산량 지난해 추월"
   ],
   "articles": [
+    {
+      "id": "128c3f2fc9fe45c9",
+      "title": "셀트리온·삼성에피스, ADC 신약 개발 탄력",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wRHFBVTNtTHp4d01iV29FRjFhZnVaZnR0Z1VoUWh6dFJsa2dpcDVtS3hhQVVQY0k1YXN0bzgwM1FKSHVqanRuQ1FlYWVheGZHLXktOHdwbVJndw?oc=5",
+      "publishedAt": "2026-11-22T08:11:57.000Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "셀트리온·삼성에피스, ADC 신약 개발 탄력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ab16a64bd95f8427",
       "title": "셀트리온, 램시마SC 등 바이오시밀러 제품군 분기 매출 1조원 눈앞",
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WmJwTjkzU2tPbUdvOTBhRjZOYjlfQ2FINW1FcWF4TmtIRi1SYWNwOHhiNE05NF9nVTlPYnA5THFmMWhMY1NhU2pCeXpQZXhDZ3hlalVnMWtrS1Z6RjlkdEhKUVJITmZ5?oc=5",
       "publishedAt": "2026-11-20T08:30:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -42,12 +69,39 @@
       }
     },
     {
+      "id": "4c95a6d48796a3f1",
+      "title": "셀트리온제약, 3Q PFS 포장 생산량 지난해 추월",
+      "source": "메디코파마",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbGdlQVlwUUZmbWRRVXEzbVA1ZDQ5c1Z3LTNCYkhVMERpR25DWm9PVHBKcENqYVVMS05aX3lFN2lvWnpWRzdHSHd4TnFrVnFSckRxbmZKNWZVOVVZeU1RbzlWcVQxU29uTGxlQlc2UC1uQQ?oc=5",
+      "publishedAt": "2026-11-19T22:10:00.000Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
+      "stockId": "celltrion",
+      "stock": "셀트리온",
+      "ticker": "068270",
+      "relatedStocks": [
+        {
+          "id": "celltrion",
+          "name": "셀트리온",
+          "ticker": "068270"
+        }
+      ],
+      "summary": "셀트리온제약, 3Q PFS 포장 생산량 지난해 추월 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9506950fe999520d",
       "title": "\"지분투자는 피를 섞는 것\"…셀트리온이 바이오벤처와 손잡는 법",
       "source": "히트뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLT1pTSnFKR0FBVFFad2ZCbnJhcmd2Q2NkMWc4Y1hiSGZuejd6RUM5Qzhwb2c4ZUpaeGFVS0Y2cGZ6R0pBS2NEc2dGU3B5U2pZemozWUphbnd0OEZDNlgtS3VQVk5EeVlEMTVV?oc=5",
       "publishedAt": "2026-11-19T21:07:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -74,7 +128,7 @@
       "source": "인천일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2U1ZuX3N3WEE3V0xBX2Y0ZllGeHBHc3c4Ui05Y0c1NG0xV1RVbzliQWVoVUdMNVVqMlRuSGxZSDJ2Mmc5UkVMeUVZdHIzS0luZnJKaVBxVmVQM21kaGpoS20tXzg4RUVEQmN6VjE5cEQ?oc=5",
       "publishedAt": "2026-11-19T09:11:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -101,7 +155,7 @@
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MDdtdXQ4RTdSNG5HcEtlSVJlSTVtLWZiZkJzNUVLR0pPOHdDdnJDSkJmLWxZSVc4ODFQSnl1c2hOVy1xNVkzd2twaERhem91RV8yM2FjMVJDdw?oc=5",
       "publishedAt": "2026-11-19T06:55:39.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -130,7 +184,7 @@
       "source": "팜이데일리",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12dnltS1pRWGZ4S1B0NU1hRnBkQ1NkYUFvek9GM0hLZHNPMVpKR1k5ZnNYT3Z4N1BhUVpVMWU4WXZkYzNYTHdOSEZzVjZKQnU5VVFVaXhCd2tEUkpVcDJsNlA1cTZoM1JpLVVwcFRR?oc=5",
       "publishedAt": "2026-11-19T06:09:19.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -157,7 +211,7 @@
       "source": "Investing.com 한국어",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ka2xJYVdXUFlnU2gtbXhjYzNHXzZ3eHhCUENtNVFmRFVaUi1JSnFuUzZKd2NBVnFEeXA3MUpUcVhjUllMUy1HVW9sX3hfbWRiaEF5MjI5NWt2OVQtcWU1Qy1tTU9YVWFUMTk5aGJpWHI?oc=5",
       "publishedAt": "2026-11-19T05:22:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -184,7 +238,7 @@
       "source": "뉴스퀘스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zYjM1VW1qak5qUTdiSEQyZXpSblNsNlduS0I5OFk1a25qblNJZnRBYVduTEFlWkhEeGlGX1VBdTk5VlR0UzY1QmJkOUdOdkRESTJ5bTVPZEVONGtUN2hIdmpiSzYxNDdweVYwYktOQQ?oc=5",
       "publishedAt": "2026-11-19T03:08:06.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -211,7 +265,7 @@
       "source": "MTN 머니투데이방송",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WUWl1Y3d3SldRYzZYTk51TmJFbkRHU1hwaHVOQ3JWbXc4dkUxdXF4UEQtOHpERE9OVEg3WVNUUzRtaW44dmtzNlBsdUt5TEpqQk5ZckRUYXdiLTJjTWdZ?oc=5",
       "publishedAt": "2026-11-19T02:03:50.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -238,7 +292,7 @@
       "source": "바이오스펙테이터",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lQTFqSXhrMnBGTDRIQ0xYYURjS1BDREdkbUZoQmtYWHVqZWNobUFtQWRuUzc2U0hGeEhCd19PSkpZeUZVQVlxQThtTHcwQzhYamgybjU3TQ?oc=5",
       "publishedAt": "2026-11-19T01:53:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -267,7 +321,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRFFDaWszWUUzQlJmRjdCZEZLRXcyTlVpbl9nODQ2Q0VLcHFzVmxEd3d4emJpQ0hydFQ4YTF0enRBN2tyN00yZVJBUGZfSWp1Um5qNlFJczRTZw?oc=5",
       "publishedAt": "2026-11-19T01:50:32.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -289,39 +343,12 @@
       }
     },
     {
-      "id": "b61b8bf3ceb26f23",
-      "title": "셀트리온, 亞 주요국서 바이오시밀러 점유율 선두…직판 앞세워 후속 제품 확대",
-      "source": "녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0cW80R3ZmTkZvQXliNTFQWlVEcWluRVE0eF9fa3kweFhtMG9BcnBuYlFxaU5kbnpOaDZUR203MHpybVVieGtqTi1rMVlxSUtJdWtxY0cwX1ZHUi02eTF5T0NiZzdwZDg?oc=5",
-      "publishedAt": "2026-11-19T01:38:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온, 亞 주요국서 바이오시밀러 점유율 선두…직판 앞세워 후속 제품 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "79b1562677ffa42b",
       "title": "셀트리온 바이오시밀러 ‘옴리클로’ 유럽 첫 경쟁 제품 등장",
       "source": "헬스코리아뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNml1MGJRV0dKN2FoSFg2YjMzR240SlNhR25ZTmo5eHdpb0pFVEJSb0F3dTZKUVowaEM5YnZlaE1UUjhXdWVVOXNqalJyX3pvNkY5NGkwRHUtSWhnb1MyYmFUSi1OQ0U?oc=5",
       "publishedAt": "2026-11-19T00:48:54.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -343,41 +370,12 @@
       }
     },
     {
-      "id": "25063b96d983b18b",
-      "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GLWlaQjNCX1puSGZidHcyTmtBbDg3SnYtUDJaN25jT0p5OTFwTm4zZ1BwQjNLUVN3OHN0aUFDZXpvQ2g2b2p5Uk5PdThHOTFULS1zRlpkM0NyZ2vSAWBBVV95cUxQbWFWd05XNENjTGVqRDA5YkJ2aExmdk5SODVJazhkWklBWC1IYXpPaWpnWjJycHh0YkRibk5BOGR4RE1vY1Y2OE5GUWV6Mk1hWElUZTB5NnFFV2pBSV9LR3g?oc=5",
-      "publishedAt": "2026-11-19T00:43:18.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
-      "stockId": "celltrion",
-      "stock": "셀트리온",
-      "ticker": "068270",
-      "relatedStocks": [
-        {
-          "id": "celltrion",
-          "name": "셀트리온",
-          "ticker": "068270"
-        }
-      ],
-      "summary": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.4,
-        "confidence": 0.68,
-        "positiveTerms": [
-          "점유율 상승"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "409989e9cce8a4db",
       "title": "셀트리온 아시아 점유율 선두…후속 제품 공략 확대",
       "source": "메디칼타임즈",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lLUNLZ1RNZ09KR294eUZ5UW5lSFRUYzlfdEhPZUNjenZIcl9DdS1qWkphUVBlSVM4TDV2TWNQS0ZTcldrYnhuUDMxWFk4cXg1V3dGd19RT25kY1VLTHFCX0JwYmhQcHFyaVh6eTUwdms?oc=5",
       "publishedAt": "2026-11-19T00:32:27.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -404,7 +402,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemRXa0RpTDJTckVkTFJERXRoM3VwaXNDZk8wUlhrM05xT2FQTEN0eUswU0ZTaGI5NVFiVURmQkRqdUFLT250VjNWZXQwb0dTU3pCSHAyOFJZeHl0cEZkLU9pUFAyY1JTOWJ2azQ1eXJaTkhLcDMyZW5nNjB4UmF4eFhpWjhqRDTSAZsBQVVfeXFMTVF1czR0NXJGOTBYOWI4ZlhTWXdOX2l3WXVoYklPenVJaEhBT1VhRUJaMGNrczVLcWc3UW12dXRLS0hvVDg2d1pZbTR3WGVpVFZkNkpiazQ5Zm9wQTZoVktqRHZ2WmEyby1UcTd0aGVMNllfdkd1THhEZWRES1lSSWRIRWdweFhzZFpXcVJ2aXE0N1R1RzJvTmJoZVE?oc=5",
       "publishedAt": "2026-11-19T00:25:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -428,12 +426,12 @@
       }
     },
     {
-      "id": "65a18b1bf977c06c",
+      "id": "6aea3933e631e812",
       "title": "셀트리온, 亞 바이오시밀러 시장 '싹쓸이'…램시마 점유율 95% 돌파",
       "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QeXhRS01XR1hFQy00dmJvcXZyQmtzXzJ1NE1WNzBqb1VsQUJZVjZ5REsyTlU1ZWl6RzFkODhsQVduSHFJNU8ydDdjZGgwYXlPeWVRNXZ3X3VPdVVrdHpBNUI3bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MUENWVWlzVmlldE5YSkFEVzhjVHMtQnJOMTEwaHQwUGVld3pyZ3hXNFFjVjM2SUVZeUp2WW83OWFNd2U2NUI1OVRTbWc1VG94XzcyWEVqLWRBTmtLVEVCWg?oc=5",
       "publishedAt": "2026-11-19T00:24:27.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -462,7 +460,7 @@
       "source": "히트뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlSjdPbE5EYWxwcVpqMGI0V3otXzBYZWR2dVNPd0hULXhEZ0hBc0tRVXhuZXF4S3YxQ3I1S0NKRVJvcmpQZVhxbmNJUGs0ZGg2cmNUSTJybTR6YmRCdjRVd0FhY1JFenJMSVg4?oc=5",
       "publishedAt": "2026-11-18T08:00:00.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -489,7 +487,7 @@
       "source": "메디코파마",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tNlQxdlVGbzFYbjVQcWtFYWhFcTBla2tjSjN5RGdod2FDOWNQV1hjQWhfNGx5R0wxVVJwWURwVzllbG43NUIxNml6dWFWOFVUQmUySnBzTjU4LTRrdUlwSzREYmhJenUtZXlsTXZPaV9YUQ?oc=5",
       "publishedAt": "2026-11-17T22:09:01.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
@@ -516,7 +514,7 @@
       "source": "뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxa2tDYVhFZERoU3RSS29fNm1KZFh6SHBETUFMOEJoRmU4Uy1Zcjk1cmIzNnZaeTJkZFAyNjg0UGV0VWJheVZpSEQyVldpRHFnc0h4eUZDTDl6ODlLb3RvMDkzWnpqUUlqZWRPbEhRc9IBc0FVX3lxTE1jcF9qWFpIRjdkbmIzeHRuUm9JdF9tRU8tdWF1UURzRmZkUkpPVHU0TU9xb2xlQnoxY21meTdSeWV4MW1fOVBxU3Znc05FNE14R1VMeC1kTXV3Q0NRckFZUFVuejc0VmE0bDFFY3dlUDdRVlU?oc=5",
       "publishedAt": "2026-11-17T06:47:18.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "samsungbio",
       "stock": "삼성바이오로직스",
       "ticker": "207940",
@@ -550,7 +548,7 @@
       "source": "의학신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QU1lkUXFhVFJHaUhJVXp0RloxUFVmMEtwSmlYaUZUb3c5bV84d0FfcnJUQTBJTVVtYlFhZC1ycE1iX04xbTBSNXJNNU53b0NKMFpsc1pSckstZWxPUjJ1TGx3Y1p6bVE2Smc?oc=5",
       "publishedAt": "2026-11-17T05:14:11.000Z",
-      "collectedAt": "2026-11-22T02:45:08.504Z",
+      "collectedAt": "2026-11-22T10:31:52.439Z",
       "stockId": "celltrion",
       "stock": "셀트리온",
       "ticker": "068270",
