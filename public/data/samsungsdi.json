@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:09:24.067Z",
+  "generatedAt": "2026-11-23T03:23:16.321Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입",
-    "북미 AI 시장 잡는다…삼성SDI 배터리 3각 편대",
-    "삼성SDI, 美 ‘RE+’서 25년 장기 보증 배터리 솔루션 대거 공개"
+    "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속",
+    "AI ESS 수주에 한국판 IRA까지…삼성SDI, 국내 25조 투자 ‘탄력’",
+    "[리포트 브리핑]삼성SDI, '실적 및 추이 전망' 목표가 680,000원 - 삼성증권"
   ],
   "articles": [
     {
-      "id": "47466ac4409868d1",
-      "title": "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdkdibHhnQTNCZzZHVFk0ZlppdXBCTlRBODBSUkk3bDhkcEN0V1FhR0FyUXQweGd5M1duZ1lHLUl1S2haR0d1d2lscVRJdWMtcDN5M3NzMUQ0Z2fSAWBBVV95cUxQSjZqMXBvdkctQ00zUmJ6YXV6UnA2LXJFdU9tUmVmcFRFQUtXLVFvU2dqRGJCakNuSHhHM08wTFU0ZC1pQlk3NHBaQ2NxSDd1bVg0VUxFQVFENDdkcVV4dEk?oc=5",
-      "publishedAt": "2026-11-18T23:03:53.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "id": "4fb2efc5b3a904e8",
+      "title": "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRU9HZkJPN0RFRjhJTkhWcl85dXRVVXRvWUVTWmh6TTY2Vnh3LU9pNDFFRkdZS3huT1JXUks3UlBkN1hHbUVWT0NVNHJfUmpsdy1XNjFEdkxBeG5QemZWT2pIMFg?oc=5",
+      "publishedAt": "2026-11-20T02:15:03.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -31,7 +31,119 @@
           "ticker": "006400"
         }
       ],
-      "summary": "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "최주선 삼성SDI 사장 유임…전고체 양산·수익성 경영 지속 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "a8ac78e3cc4ac714",
+      "title": "AI ESS 수주에 한국판 IRA까지…삼성SDI, 국내 25조 투자 ‘탄력’",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YLWl4eWUtcG5qdkFyQlg5UVpPQ0swMWdtcG94ajltRUxtdEV5RkRDY21DeWVWelp0M2VUZ2poZXEtT044OHhHNzE0WEUxMmYxS0V0ejRpcml4d1JtSW9Jbmp1OA?oc=5",
+      "publishedAt": "2026-11-20T02:09:47.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "AI ESS 수주에 한국판 IRA까지…삼성SDI, 국내 25조 투자 ‘탄력’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "300ea59a8e05d3c9",
+      "title": "[리포트 브리핑]삼성SDI, '실적 및 추이 전망' 목표가 680,000원 - 삼성증권",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WVRRczRfVHlhSFZ5cE5RYXMxZmdsY1pDQ1Vnd2NPandFWUpJZmxWTXF4NUJOa29XZEFhbW5XWHpTUkZNaUc5VHZUeTE1X2xZRmlWRWg0aW5PNTlj?oc=5",
+      "publishedAt": "2026-11-19T23:33:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "[리포트 브리핑]삼성SDI, '실적 및 추이 전망' 목표가 680,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce3046100f48fe12",
+      "title": "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\"",
+      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLVh4TEpzMEN6VDJPWVdDel9fUE4zaUdpMV9YT1ZOT1JsTmJQSjNTLTlYR1NyUWpyN3hvOW9LbHlLX2RiUk9zX1NHME5JUy1KWHphX0hGUGVDc3hkYVJpZUxCMkliZzA?oc=5",
+      "publishedAt": "2026-11-18T23:55:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "confidence": 0.63,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "ab9bb0ee5b5e4be7",
+      "title": "삼성SDI, 북미 공략 강화…AIDC 최적화 배터리 솔루션 공개",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bektod1dBUk5JSURTVVFtRVBWNG5TNlRDbEdnQVNlZlNkdk1GbXoxSFpLUjhZaGRSbjlpWWwwdUlhbVBROFRGTWt0WXhNYWM5UDlyX2dtYlRjUQ?oc=5",
+      "publishedAt": "2026-11-18T06:35:01.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 북미 공략 강화…AIDC 최적화 배터리 솔루션 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -47,7 +159,7 @@
       "source": "경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yR3IzanlxTVZkaXpUUzJ1anlYMXdyMGdSd2pQMzV2NVVDaEMteThlXzRKYWs3X2R6X1YzWGJ2MkRfRVZ6QlhSYXFTbEQ2MWxnYnYw?oc=5",
       "publishedAt": "2026-11-18T06:28:30.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -74,7 +186,7 @@
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQMmRVUVZpN1BPTlQ4MU9nUnhPT2pfbE92R1hOaTRlTXFVUDJKWC1ya21XOVRDcXQ5ZlNIbTlJWFIzRFN2aWFpdEdER091cHRXWnF3NklEejZuSEJrNE5EdEx3SG1LZDM5NGNKUNIBcEFVX3lxTE1YTk40TXdUX1BjVm9sekdpU0RqQkV0dGRtUC1zTzVqYzBya1JYQjUwck5MVF85UDFBRkdvZzJyOXRlZlBwT1dGRDVjOEYyVHBKLUJWbVBiTDZTa19COE1xUWFPZHlCS0JzYjRmYjVrU1A?oc=5",
       "publishedAt": "2026-11-18T05:14:18.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -96,12 +208,39 @@
       }
     },
     {
+      "id": "b37be0ecf431cb7e",
+      "title": "\"AI의 상상, 삼성 배터리가 현실로\"…삼성SDI, 업계 최고 '25년 보증' 앞세워 북미 시장 공략",
+      "source": "위키리크스한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwa3kzTVRCbVppY2JtRmRCaU44eHZkSWVsMVhJX1BET2RmUWkzZzNwdnJua3dTclFaaUhuNm9vcVh3dWlxQ2lNWm13TzBxTjdiWlppYVM1MzNzdEIzR0x3SmJhMThSdkwtMGhtNzAxRkE?oc=5",
+      "publishedAt": "2026-11-18T02:07:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "\"AI의 상상, 삼성 배터리가 현실로\"…삼성SDI, 업계 최고 '25년 보증' 앞세워 북미 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b15c0fdcca39bd85",
       "title": "엠플러스, 삼성SDI 혁신기술 경진대회 대상 수상",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jQWNwVkJVWUFTMlY0M25XdEJEMHZ2NTNMMEd1a2podHBuM2xrMEtIVENfSllQZlljMXRwbWFHOUxVVmRfT0tGcXZWeFdvQlE5dWJHeDZJOVJET2U4WHp5NHl0OUh5dw?oc=5",
       "publishedAt": "2026-11-18T02:04:42.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -128,7 +267,7 @@
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZVEtVm5YWE4taVE0YzlmYVlQLXdWREZWendBdHRGVDNpbHlPWER1NDdIQzJhZEJUNnd0aVpqNjZJNkkyYjlNOGpjT2VNaGpMcUVlSjNiZVBFcUZybDhyN0s1UGJvUQ?oc=5",
       "publishedAt": "2026-11-18T01:16:02.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -150,12 +289,39 @@
       }
     },
     {
+      "id": "1bdd3ce6ba86a2bd",
+      "title": "삼성SDI, AI 데이터센터용 차세대 배터리 솔루션 공개…美 RE+서 ESS·UPS·BBU 전시",
+      "source": "디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CcEFsdWdlS1JhUE4xYi1UQ21McTRfSFlOV3lyVTlBbHozS0pMRG02ZTVDMUdMR3N2dTEyRERSMlN0NHJjTU1vNGxWRkJjY3ZTWVF6bDczUlVwMEptNDQxbGNpSXE?oc=5",
+      "publishedAt": "2026-11-18T00:58:13.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, AI 데이터센터용 차세대 배터리 솔루션 공개…美 RE+서 ESS·UPS·BBU 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "b0efdb5641678abf",
       "title": "삼성SDI, 배터리부터 백업전원까지⋯AI 데이터센터 솔루션 총출동",
       "source": "브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NWEEzM1pLM1dZbDZqVlZ4M1J3bWFaRUc0XzllZTU0NWpxR2x6eWhfQUFZdEY4d1VzbVU4UVlKUW9ZY3BoWmZvbDBkVWlBUUsyNkxkWENUaDluUQ?oc=5",
       "publishedAt": "2026-11-18T00:29:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -177,12 +343,39 @@
       }
     },
     {
+      "id": "fe5545dceeceaf21",
+      "title": "삼성SDI, 북미 최대 에너지 전시회 참가…AIDC용 배터리 공개",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjV4bmhxcmh4ZDAtejRyUVZqbXctWkVnV0dVaERvMTU2R3JNd05oZE0yaXZjdmpIYUxiWnBHWHRRQWplZDF4U3ZsVkpWNHpURDRUdkg5SU9oaV9xZ1BzQU55Mjd0clFXRFl1RGludzlEd2NVTVdSZjdXazdURG9YYXI1djJqdw?oc=5",
+      "publishedAt": "2026-11-17T23:47:04.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 북미 최대 에너지 전시회 참가…AIDC용 배터리 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "01debe20e173644d",
       "title": "삼성SDI, AIDC 특화된 에너지 솔루션 공개",
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oZEJ6X1Q1VG1BUjh1QWQ5eFZWdERaWTd2dGlsbTRQRzFBdmpvczBMcWN4bVMxdlZXc05yZkNlWXduRm1QMEFRZjhzay1LenVDbXdTRWFjeEtaZi16a1JmUQ?oc=5",
       "publishedAt": "2026-11-17T23:45:30.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -204,12 +397,39 @@
       }
     },
     {
+      "id": "f4a5e5e29de0cf81",
+      "title": "삼성SDI, AI데이터센터 겨냥 차세대 배터리 설루션 공개",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tNEVrRWJYSkJYTnpyWHR1SkdTQXZkWVg2VTVieVUzc05RUk9VQm9hNFFFYjd3WGhHbjd4WVhCb0Q3Y0pwTTZ0bGQ5SVlUbTVrbGFNdzdYU0VwZjDSAWBBVV95cUxQSFl2Y1hPYXJUaVBaVFh3OVJ4ejdDWEh5ZnZJZkxwRFh6bDVsT2lDZmotNmtJSmxoSWhfcG9LRGpfcWljZW9TME9iUy11WTk2RkNfbWxXX0RNeXZUNl9hanY?oc=5",
+      "publishedAt": "2026-11-17T23:36:20.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, AI데이터센터 겨냥 차세대 배터리 설루션 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "2c78459a3366ed89",
       "title": "삼성SDI \"ESS 물량, 2031년까지 확보\" - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RMmU1ZTVoY3U0T3J5d2lzSEd2TWJYd25Nc3VURlVBWi1kcVl3cml5N21XanRtdlFxTzh4WF9KNldiZUNheTEzYWhOSGZIZXFITG5OQlVrcWhGa1dVS3VKNFVKMlpOM0xSMC1oVdIBckFVX3lxTE92SEFMZDRoTXJwN2RTWnJMS29kamNCRnVFci16a1lsYnhkbGxQc1l6bGJtUWY4cGpxeEptSDBENmF5VXNzcC1VcEVvVTg2THZRWFY4QTloenREUjFHLV96SUtWdFFtYWEyUl9SV2ZlRFNYdw?oc=5",
       "publishedAt": "2026-11-16T18:40:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -236,7 +456,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBMHFrdWxEZTM1Zk9RYTlMV19YOUJlNDhmeVRQbFZWX1hXbjREdTZ2b1NNNUpmbmt5UzBIajhNSDRIeUdoZV8xQTNldlh3TnV3dFNHdWVmVkhoSEpEeGRVbThHNHBCdW1FSFM2clRCMU9wNXJGZUHSAWZBVV95cUxQb2JvZlRic010aXhvZEJCV0h4dEl3cDRtUHh4UE54a0ZNdVJKNU0zQ1BsVUxvdlotUkJnSUxhamQzelFxZGNJT01RZEE3OGl1d0lKS2FZdnZXTkpvX3o0MEV3ZkNmSFE?oc=5",
       "publishedAt": "2026-11-16T15:30:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -263,7 +483,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrWDlWb0tZay1DRlM0TFNYckJjOWhISVU2WUdNdEg5WGxpZHJqTjBfMzFwcTN5UGwxUkNYQ1JIamhUWDF6cWRLNzVHcTQ1MEU2SlA1Z0x5U0Vid9IBX0FVX3lxTFBGWDYwUkZJZkwwSkFRdFJVcEUzLVFBbmRPOVhCclBxcE1Pb0s4ZmhSS2tsNllCWlkyQS01elVrd3NHRzRzck4yMHphUkw0dFgtcDM5aVJSUTVxSW0yY0M0?oc=5",
       "publishedAt": "2026-11-16T11:34:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -285,12 +505,12 @@
       }
     },
     {
-      "id": "a0e8dff5802b1a98",
-      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…16GWh 공급",
-      "source": "매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQUdMelRkU2FzckxQSFhjS2VrOXBXMTVxRUJudUNId1Vuakh4TkxCRmtXRjJ0Y01aa0cxVXp3U01ad2pnNEl2X0dlU0l0YUliNkxYR0diMU1ZRjdvVGU5ZVY2Wnc?oc=5",
-      "publishedAt": "2026-11-16T06:50:08.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "id": "e4fd8ad51db9f94a",
+      "title": "삼성SDI, 미국 주피터파워에 LFP 배터리 16GWh 공급 外",
+      "source": "톱데일리",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jYkswWmJfMURYdzM5UzliSzctdGhMQWZXSWhCbm4tR0VvZ0RfNmhpZi14MXZDdGtKeEFiT2VyejZ3bGlaMGJNYzR5MlhXNl9s?oc=5",
+      "publishedAt": "2026-11-16T08:34:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -301,15 +521,13 @@
           "ticker": "006400"
         }
       ],
-      "summary": "삼성SDI, 美서 수조원대 ESS 배터리 수주…16GWh 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성SDI, 미국 주피터파워에 LFP 배터리 16GWh 공급 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
@@ -319,7 +537,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5X1NlSi10S0FTRzF3VkhnZTVYbXdsYXNxYWtHU2ZKcWMxQVZ6d2xqTzZSZGhxTW1pUmlCczR4WUtwcE5GeGZtYjJyMXpPR1hOY3YyQmZLcjdiVzTSAWBBVV95cUxOZ2UzS3YxYS1OYi10NHZteDllYWNoa2xjMDl3ZXZmUHhhQ1Z4VWxJNGhCTEVLckNYLUJOY09COGdiYUdrZnBRRjVYc3dzcDR2dDBoM0RHX1RKVGVxUktEVno?oc=5",
       "publishedAt": "2026-11-16T06:43:25.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -342,234 +560,6 @@
         "negativeTerms": [
           "약세"
         ]
-      }
-    },
-    {
-      "id": "c5ab0dfac49a8417",
-      "title": "삼성SDI, 미국서 16GWh 규모 배터리 수주…3조~4조 추산",
-      "source": "중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwRmFhZGZsbEhQalh0NnZQTm1Makw5dUtaMEF6VjVEbVlGc2h2Wk1rN2pOX2RtUEdfM0lpN0hGM01OQldTaVpTd1haa0JHQ0djMHB2dEp3?oc=5",
-      "publishedAt": "2026-11-16T04:04:20.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 미국서 16GWh 규모 배터리 수주…3조~4조 추산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a84e9ad0eab7f992",
-      "title": "삼성SDI, 美 블랙록 계열사서 '수조원 잭팟'…ESS 날개 달았다",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cd1dhNjhaaEQ5X01aYzN4VmVUaDNkeWl5UjEzcG5hajRibXhkYlVzLXdSM3FkVUNXNUhDT0lMeGtyelE0TGZ2VmJnekZkeVU2RU5CWkhhNHN3RTdyN29BVmJUcXZBMHVaYlUyMw?oc=5",
-      "publishedAt": "2026-11-16T02:22:03.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美 블랙록 계열사서 '수조원 잭팟'…ESS 날개 달았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8cdd5f5998459a5b",
-      "title": "삼성SDI, 美 주피터파워와 LFP 배터리 계약…3년간 16GWh 공급",
-      "source": "대한경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ORHZ3a1RkbDJnb1dNV3M1SVhVb21XRzBOWkNTWVBLTzlVMXhLT3F2NDgzdUFNZ1pRU3hvWW03V3ZxcXNHWEUwZ3VDQ2pEeXN5Z0pRQVFwNnJYeEdkSXRvb2pySEZOZ1RXeG5YcGlYOGhtV3M?oc=5",
-      "publishedAt": "2026-11-16T01:40:22.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美 주피터파워와 LFP 배터리 계약…3년간 16GWh 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "349b6ed27e21bb2f",
-      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…블랙록 소유 에너지 기업에 공급",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjNiT0ZxRGlqeFBkYnZvSl93UFJlakhWcXhfbGdfVUR0alFoNkdTbU9Mby1VeEF2eVpkeUtMeURPWTFTNlFZZm9pQjdxcTdhYkxiWUJ3VHNBekh5Mll6NUR3bDB1LWhsNnNrU0pnZVhkdDJJNFBtN1NaOTlScDdsaW5UaWlNTE55TzNIUXlGYw?oc=5",
-      "publishedAt": "2026-11-16T01:02:24.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美서 수조원대 ESS 배터리 수주…블랙록 소유 에너지 기업에 공급 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "757ef8c2bb7bd811",
-      "title": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZLTIyUE1SXzI0aXhjQ1dXaVRHYnM3azQ3NmZGT2E2Nm1RN0NmczBQVXNFMk1RcTY2OE1aLVA3NXVmN1h6UUgzNm1yTjItMVJfRmkzOThuUEFIMjBzZkhycXczVkd0eFQ4ZzU2d25Ndkc?oc=5",
-      "publishedAt": "2026-11-16T00:24:12.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "136f80f222f120d6",
-      "title": "[특징주] 삼성SDI, 수조원대 ESS 배터리 수주에 장 초반 5%↑",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMUw5ZlZPQm9LcEppUnN5Nng3N0VWb2gwZDkxV0lVQ0o5NTlpQ3JiaFM1VTRoNG1jWGI2WVJaWVFua29RQzNxSVM4enJmdFlDV0FCNTVUazJRMk3SAWBBVV95cUxOVWhFcC15bDNVSlYxVkppVHc2QzU1cGFMY1oxeXNoUzVWYXFwNE9pblFuYU1mZXIzNTVIakk2ZjR3YmZWUnhtZkcwVDFGVy1vZkpKYlRJNnBmT2RxNVdrZGo?oc=5",
-      "publishedAt": "2026-11-16T00:13:14.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[특징주] 삼성SDI, 수조원대 ESS 배터리 수주에 장 초반 5%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0390b80c36170a6c",
-      "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13V2RhOGFvZ0lYcXJhMm5jRWVrY2cxVmgwLUpHcEZVY0s1Q3EwWGpLb0xuUjdaLU5DQjZYTW1mYlJTU0toZ0VPSVlkdFFTSkNkTC1JYkk0SEFiQQ?oc=5",
-      "publishedAt": "2026-11-15T23:22:52.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "dfe782ea665765ad",
-      "title": "삼성SDI, 미국에 16GWh LFP 배터리 공급…누적 수주 27GWh",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlYtb2VBVmktS3dpaFBrSlZ2OWotaFhlTjZrU19id19iS0lLb2E2b0NmT205NXotVkFvcG9nOUZDVUhJclkwdjRSbmFqUFczTjFZZkdWeDFjY29LMmJHOFRuODhWTlc0Z01QUUx5cVRaRnJmSVJiVHdYZDZiUWtXbDFvU1Radw?oc=5",
-      "publishedAt": "2026-11-15T23:19:17.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 미국에 16GWh LFP 배터리 공급…누적 수주 27GWh 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
       }
     }
   ]

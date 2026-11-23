@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:09:24.067Z",
+  "generatedAt": "2026-11-23T03:23:16.321Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,74 @@
     "name": "에코프로",
     "ticker": "086520"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "에코프로비엠도 LFP 양극재 경쟁 참전, 송호준 탈중국 ESS 수요 증가에 삼원계 '올인'…",
-    "에코프로·CATL 몰린 헝가리 배터리 거점, 내년 여름 하루 1264㎥ 용수난 경고",
-    "경북도, 에코프로와 손잡고 이차전지 투자에 속도"
+    "에코프로·메디아나, 글로벌스탠더드경영대상서 장관표창 수상",
+    "주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진",
+    "에코프로비엠도 LFP 양극재 경쟁 참전, 송호준 탈중국 ESS 수요 증가에 삼원계 '올인'…"
   ],
   "articles": [
+    {
+      "id": "1dbaae91052378d3",
+      "title": "에코프로·메디아나, 글로벌스탠더드경영대상서 장관표창 수상",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMTVJVTdXTWFmMU1iY0xqZmQ2MWk0TmNGTEFxZmhrcFo5TXNlUXJQWnZmT1RkSGFZcENuelBRNGVVRk01czFBckpGUWFmcjJFemhZenp2QXU4bzdEUGU4endHOA?oc=5",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로·메디아나, 글로벌스탠더드경영대상서 장관표창 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "869da42ea1cf65f0",
+      "title": "주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3RkM29YbE5idlNmaEc4eGVRbGdrQTVHS0RlY0NUN19mT1pCTFphdlh3UThCUFlPMlVMZHRuUEF6WEh4M1dZVlpCcGZvaU0wWDZBMmduSFVmRXBWYUxaenFBWlNMajJud1laQ1RNMzlpcngxVWNtTkhOWDdVelNCR3dtMklteVHSAZsBQVVfeXFMTUtqTzllYUxCX0I2X2pkVkJJYTFiN19qRWNvbjdISWxmZjNIUnlpQWNJQjhNclBOUks5dFNub3lLVWQ0STlscThDNHIyY3FVbkdxbWNzRkxuWGdtalZJTjE1bXhET0k2bEU4OFNNa1Vscjhzb2FldzNKNGsza2hpN0JlZV81X0NMT3dYWlBOOEVSeTJKRjRoZTRvaUU?oc=5",
+      "publishedAt": "2026-11-22T23:25:00.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "3b4327c5ff54784d",
       "title": "에코프로비엠도 LFP 양극재 경쟁 참전, 송호준 탈중국 ESS 수요 증가에 삼원계 '올인' 철회",
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14VXNJQldPZ25EVUExSlVCdFQxaUZ4Ti1Salp6MjdHeEtmbmFoRWxtV1dSVExBRmRDekRQQjJUSVlwOXhjdkFoY3JFNUx4Sndfa3gtbzI5M1JJWmZkRXB0bE9xVXF0YVA3ejAtZ0QtbEd3QlU?oc=5",
       "publishedAt": "2026-11-21T21:00:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -47,7 +101,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZDRHVl9sZTlvSDV6TDNsQ3JZY2d2d2NYOUxpUVZfdFpQTWNwN3FVTUQ4R3RHU0Q5YmpLVG9EbUd5RGxiOGpsMzZ2ay1NdzU3cV9RZmJ2b1ltNmxkSmdURkpPdHZYR2FEMkU2cUVEcHdRWVRLUGpnQUhkVXdwYlk2a0E3ZlQzaklQ?oc=5",
       "publishedAt": "2026-11-21T12:26:08.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -71,12 +125,39 @@
       }
     },
     {
+      "id": "21ca285c26cec59e",
+      "title": "에코프로, 흑자 경영 ‘지속’",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OQzhyQmJ3OVNQQkpNLVBSeGlLMzBsVTF3RWFNNHlrX1JNTThBY3BkSDRXOHpuRHZNYk1Td3BkYkYzcV81TnZnMnJCSHpfXzF6cjROc3lnY2g3a0lkVmRHemV3dw?oc=5",
+      "publishedAt": "2026-11-21T05:02:55.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로, 흑자 경영 ‘지속’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c697c24b9056255a",
       "title": "경북도, 에코프로와 손잡고 이차전지 투자에 속도",
       "source": "안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDZLdnBNTlhpMzFkSWR2YkRuNEJMNk9aT3VzLWZ6OHNTbGgyOWhLTmhDYnhDVW5xYjg2WndYZG5YYUwwVXNadm52ZWlMMktCVm5vYXlYT3lGbXR1OEUtckdvRTlFalI2eHdjZjhHc1hzMWFqcUt1VnhjMzlpQUd4SGxNdFdVUThnNzIzZEtxVTUtSEEzYm5wNTlCb2tFLWtQQnRqRzZKWEstWGs?oc=5",
       "publishedAt": "2026-11-21T00:17:13.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -103,7 +184,7 @@
       "source": "경북일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IaFBJUU9kSDhtZmZBUDI5Xy01bExvR0VoTXJ3dHhuSmxjaUJ0cllNZU1fRDJjdUd2RUhZeGxqakI2MHo1aWN6Y0d4cktuUlFNWWpVR0FVN3NCSzRHYWdzdDctV0pwdGhWamhqYWE5RQ?oc=5",
       "publishedAt": "2026-11-19T09:38:38.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -130,7 +211,7 @@
       "source": "경상매일신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45UjdIZ2lNRnU1ekh1X1F3S21taGtsenJTdC1mWk9HNVVsQ0ZNbHZJekRGcFl6aXlqVG9xYjNvWmtoeDMtVGpfRUNBNzE2S3FRem5IWTJqN1IzMG9jam9R?oc=5",
       "publishedAt": "2026-11-19T01:02:33.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -157,7 +238,7 @@
       "source": "경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZHJCTE9mMFhlcU5OYUpiTi1GTU85Z2VBS3dWWUlaRE9xMkdyU3dwcXhhRGdXdnFsWTUyRG9DSmszYTFqdWNMWE9SbmJXdGJnTkZyV2t1RzBJa1NlRWlGNi01MnJjeHRmS3c?oc=5",
       "publishedAt": "2026-11-18T11:34:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -186,7 +267,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0UDVBa2ZpSUVaRVhZbHBoYXNxMWxpS3p1dExkSVY0X25hYXgtX3lHcjRBcGVSLWh6WXg1NWZzdmxMTmdfSHdiRUhkYllHWmNlRFJ2cUltcWp2LUJVdzczaQ?oc=5",
       "publishedAt": "2026-11-18T08:33:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -213,7 +294,7 @@
       "source": "NSP통신",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdTBud253NnNGd1g0eVVCUm1veUVsWHZHYmRKYTFSREl6cTJ1dEVYMjdOdkk5cDNjbU1BRDJCNHlBQXR6OUxlMDRSZXBfOE16ejJXM0lGX2Y3QS1GOU4wVw?oc=5",
       "publishedAt": "2026-11-16T09:04:46.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -235,12 +316,39 @@
       }
     },
     {
+      "id": "03478278c58b83b9",
+      "title": "에코프로머티 투자분석 2026. 11. 16",
+      "source": "주달",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HQ2ZHUVJ0TjdkcnpkLW1UalNFdzc0ZmNDMnZQakFObV9NcG1ZbnBGQ3BSY194X0p6VFgxeGpWVndZcHB4NG1wRGxKckU1d2RzYTFiUTU3YUFGSC1SR2lTd2NwYmNuSkREcFFKZk05Sk1qYkU?oc=5",
+      "publishedAt": "2026-11-16T09:02:58.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로머티 투자분석 2026. 11. 16 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a12c6524d76c304f",
       "title": "에코프로, ‘국제배터리엑스포 2026 포항’에 참가···투자·기술 경쟁력 부각",
       "source": "뉴데일리 대구경북",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vVzM3X0VJWWRkX3dkVjVpVVktNURVQ2pzLU51R3FIalJVRVpZeVFOTlZkM3RndkZLTTVnY0pLTVVJSzJZMHVMWEpXUjBfZ3liV1VEemRDRG9FQ256RnJraGFaeVVWbUQwQ09fNGw0UTNFTU02SE82aFJ30gF_QVVfeXFMT1haQTE0Z1JqQTRyc2pmZ1ZCM2ZxcHlkQTV4REdJbFNxSzE0ajMxUk9FWlkxOVZBZ2VmNFBuLXVqc2pwQlE3aHc5OEtkWUMyWGxNMGZhVHNvLW1iMFo2N3BuQlJ3ZU1EYzBjaDJjMnJzVlhVNnZNUC0xUjBETGFfWQ?oc=5",
       "publishedAt": "2026-11-16T08:54:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -267,7 +375,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oN3p0SlVQdFlBcnMyTEVDaG9Ec1ZmV1ZLU19jZENuMl9SXzRfWmRhakprUkV1UFR0TkRHSjQ3Ykx6a3U2d2VpajdYVDAzZw?oc=5",
       "publishedAt": "2026-11-16T07:47:18.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -294,7 +402,7 @@
       "source": "국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zbUI0eWt5LVhCTWw4OWc5Mkc5emFuVG40b2xQeUY1dzB3Q3hxRWZ0VklESDlUSmUzdmJPSTZiRTFEVzdHRktjdm1YWHMyZXluaEVzMm0zT09iY0hqbUdVbTFCOEY1YmY2U2J1Y0dR?oc=5",
       "publishedAt": "2026-11-16T06:59:39.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -316,12 +424,39 @@
       }
     },
     {
+      "id": "006e16f7bf515094",
+      "title": "[코스닥 외국인] HLB·알테오젠도 매수…레인보우로보틱스·에코프로비엠은 매도",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDVGZKaVp3dGN4WUNzbDVxX29KVjdleTUwZnl2V29oOTdadXpscHF6WXNlTkNhZFBkdWUxRndqX1dzNE5pVWlabm9fNFMzSjk2Uk1xb1JSR3VQdHVrMmhfZEFaZHVyTmVTOVM0cmM5Y2pEVVHSAXdBVV95cUxPNTNsTVl2bzI3TmpYWk5yOVlNb2hnVHNxMno4TFk0TUhsTFMxRF9lYWUzVkVnWmlBVGVhZW5kelJzNmNPMGNlNHVaQXVRUHZvcEROSENJTVZzb1dfTUtLSDhROVJ6bTdTZkNOR3ZycDVZLU1xZlFObw?oc=5",
+      "publishedAt": "2026-11-16T06:56:44.000Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[코스닥 외국인] HLB·알테오젠도 매수…레인보우로보틱스·에코프로비엠은 매도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "66a1b7797bde3a57",
       "title": "에코프로, 포항 배터리엑스포서 차세대 소재 기술 공개",
       "source": "경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHX2tOUkdNRDk4b01tb1NIakVFY2YxdmMyTkk2ZlEwZjZRbkFGbkpYZFZoekw1WlZWLWdJdDBWUHBtSmtYQmZVR0cwSlVBZ2NmZDk1Mkpxa0k?oc=5",
       "publishedAt": "2026-11-16T05:15:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -348,7 +483,7 @@
       "source": "매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBram1sNnhlS2VvYVdOSU8yOG9TTk8yWWx6OE5NS0JmZkdyQVFaV1ZSbE9FVkJaaEkySUExSlR4NTczWV9mU1lFSUlDZnZhdVZla0F6M2l5N1FLT05vZVJmOUtn?oc=5",
       "publishedAt": "2026-11-16T04:47:32.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
+      "collectedAt": "2026-11-23T03:23:16.321Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -361,141 +496,6 @@
       ],
       "summary": "에코프로, `국제배터리엑스포 2026 포항`에서 기업 역량 소개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9855451d1ef05649",
-      "title": "서초동 10평 단칸방서 글로벌 소재 기업으로… 에코프로 이동채의 ‘배터리 외길’ [창업주의 비밀노트]",
-      "source": "서울신문",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTUtdFdTRXU4WnpzTWlSdzF4NVVZUVlXVmxvSnJ1Qjl4NEx2MFp1TEU2RnBtMHhaM0RZQXg4SUFsSVZxN1BIVDA1Zkh0cmtaWFJheWxZWi1FSXlNTmFGWVA5QmRvNGlYWGZHX0hxb0c5a3A0SWdYWUxpX1JJVlEzSFRUVzE0dEJIbFFr?oc=5",
-      "publishedAt": "2026-11-16T02:16:33.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "서초동 10평 단칸방서 글로벌 소재 기업으로… 에코프로 이동채의 ‘배터리 외길’ [창업주의 비밀노트] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "72fd0a5549433fa1",
-      "title": "[리포트 브리핑]에코프로비엠, 'LFP 사업 진출 예고' 목표가 130,000원 - DB증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pd3pmM3NzSzl6cG9QRW9weEN3eDBnSDRYUnRnNVNnWUFtdnRlQmNhZWs4SkV0aDVmRVJnazNYZDlSc25VMnJ6cFU0UE5iMlRTR21hNU9ESzJUNVBG?oc=5",
-      "publishedAt": "2026-11-16T01:40:00.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[리포트 브리핑]에코프로비엠, 'LFP 사업 진출 예고' 목표가 130,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a0173a5ba9c38388",
-      "title": "LFP 대세론에도 흔들림 없는 에코프로…\"주력 중심축은 여전히 하이니켈\"",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQTZhUnBCQmJUVWhHb3VSLXQ5cHZPNVpGQUxoX0VOaVI3TUZPeEdsWWRETEZtdEZTdkdmWE16RmNXZkdwdWhzYnAzTkVJcnNlUENxZllCTDdOQnVhVlE?oc=5",
-      "publishedAt": "2026-11-16T01:07:06.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "LFP 대세론에도 흔들림 없는 에코프로…\"주력 중심축은 여전히 하이니켈\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5c3bc5f46d43c98d",
-      "title": "에코프로, 포항 배터리 생태계 경쟁력 과시…3조3000억 투자 성과 조명",
-      "source": "프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTWN3ZDB0bnhWYWxQc2xYRTdqWDJlWE9feFRFOFI0bkxKc3BNTDZ1QWVDa1ZfNEtSQjc2T1FpU0V6RGZhLVJ1Tmhza0tlNlpOQ0ZMaEJmTmdFMHBxZEZRVmdQZ0JKRjJCRmZB?oc=5",
-      "publishedAt": "2026-11-16T00:58:49.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 포항 배터리 생태계 경쟁력 과시…3조3000억 투자 성과 조명 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "fccf57781ec535a1",
-      "title": "[산업] 에코프로, 포항에 3조3000억원 투자…배터리 소재 공급망 공개",
-      "source": "콜뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWWdZd1hmNXFFNFBRcURfVEtVaC1Sb2hNZFhfZ2NpRHY4Tm9fOE9hZHZrOXphRUJfUk1jcE13SWlVaVFTOUlYeFg4RHBwbWZxcmZZSzJrMHVpT3F4cVMzUkZCSHJRLW15S0UxcA?oc=5",
-      "publishedAt": "2026-11-15T23:48:53.000Z",
-      "collectedAt": "2026-11-22T18:09:24.067Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[산업] 에코프로, 포항에 3조3000억원 투자…배터리 소재 공급망 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
