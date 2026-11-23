@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:23:16.321Z",
+  "generatedAt": "2026-11-23T18:52:35.475Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,108 @@
     "name": "SK텔레콤",
     "ticker": "017670"
   },
-  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락",
-    "SKT 에어, 무신사 ‘무진장’서 특가 선보여",
-    "[리포트 브리핑]SK텔레콤, '2027년 전망' 목표가 140,000원 - 하나증권"
+    "SK텔레콤, 50대 이상 희망퇴직 추진",
+    "[특징주] SK텔레콤, '지분보유' 앤트로픽 상장 후 20% 급락(종합)",
+    "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로"
   ],
   "articles": [
+    {
+      "id": "43344bfab33f5494",
+      "title": "SK텔레콤, 50대 이상 희망퇴직 추진",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGR4NHdrMFRsbWpUdUJnRFZBcTkzLUdnUTFwZUQtUU1uaGo4VVZqbHVXaWt0LV9qTlJFdUZ6Si02eGJCTzhhR0VnM2hsMC1ZOVhjTDVPNzBWQ0RNSU9lV2tRTThueFh0U1VOVHFMWlRCMW5IbG5VRzVick9rZXFMRkhR0gGWAUFVX3lxTE9SR2MzWHY3cnRGWGprS0pmSXFLc3VYZFFiVlJQdzF4RnFtcTdOdzF4Ny1QalV0VTdyLXg2TUc1UW9TanJEbVZRYzMtZTFFR1VudmxwRC0wQWJTM0NSYzgxRzFMaGVoWFczbjZoc3hHdXdEN1FrX2JWbHNETmJTU3RvZmNINTFScl8xWmZXQTVkdEZQdDQ4UQ?oc=5",
+      "publishedAt": "2026-11-23T08:58:00.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, 50대 이상 희망퇴직 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "94cd454aac73b2a6",
+      "title": "[특징주] SK텔레콤, '지분보유' 앤트로픽 상장 후 20% 급락(종합)",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02c211aUMybmJoLUFCZ1BjcUtVeVM1ZGE5d2otZmtsYUhvRk15djlURVFGcmhGQzZDMzI3NVZsay14Z01Ib2hiM3M4YjJ6elQ4WmkxVEV3RnJlV1M1UDNBNNIBYEFVX3lxTE02c211aUMybmJoLUFCZ1BjcUtVeVM1ZGE5d2otZmtsYUhvRk15djlURVFGcmhGQzZDMzI3NVZsay14Z01Ib2hiM3M4YjJ6elQ4WmkxVEV3RnJlV1M1UDNBNA?oc=5",
+      "publishedAt": "2026-11-23T06:41:19.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[특징주] SK텔레콤, '지분보유' 앤트로픽 상장 후 20% 급락(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "07f67b511d8cfb38",
+      "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQnQ1dzJXeUxDSTJwQV9rSEhMQ0RRSDZZczZVbXBMaGxpQlBtQk4wVnJyc1ZsbEhoM0xzUVNuRWhYaDNxa3JKaFY4bm5ZM2ZmMUtvRWV5TGtVbFlYQVloYnVTVTBwdjRFZ09qYXBvTkpIOVhZbE4zbWI1cGVacjh2TVlLOA?oc=5",
+      "publishedAt": "2026-11-23T05:35:01.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        },
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "ff544ed68176586d",
       "title": "[특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WFFwYnYtM0dtMEZVUGpPZ1dJX013R19jZW16dTJQdVFiU0xTZGJwMU9kQnM0TWRXR3dNYmpfMnd3NF95TUF5OEFvaEpkbEpvZ2s4WC1ZUGpaTzdVTmNGT9IBYEFVX3lxTE94WFFwYnYtM0dtMEZVUGpPZ1dJX013R19jZW16dTJQdVFiU0xTZGJwMU9kQnM0TWRXR3dNYmpfMnd3NF95TUF5OEFvaEpkbEpvZ2s4WC1ZUGpaTzdVTmNGTw?oc=5",
       "publishedAt": "2026-11-23T00:40:06.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -49,7 +137,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aZERWdXlwbl9Ld3B5RjVXSmVnTl9SVnpMNWNTTXZqWkRjUU90R3B1bEZ4X09qV294N1lJNnphdjVRaWRobnYtSg?oc=5",
       "publishedAt": "2026-11-22T23:42:51.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -76,7 +164,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpd2lSYUg2bFhiQk1UR2xOVTRwQ3h0ZUJvbl9wWkNNZHRmRy1Ob1pmVnpKNHNlTmxpUGg0QXJERTBINXJpOTMxa0lxSmNJemZDSVFrczR2bnpXZDRZ?oc=5",
       "publishedAt": "2026-11-22T23:36:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -103,7 +191,7 @@
       "source": "MEDI:GATE NEWS",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwb1MzdHQyYzZtVkFMOExzNTRXY04zOWp5TlZCcHVCaWNra1lBNUY2bzFXMFJ3Si1ZeUJoWTRUMG1HYTR4Y3FvM3N6cGQyWkxNSUdCNA?oc=5",
       "publishedAt": "2026-11-20T12:41:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -130,7 +218,7 @@
       "source": "인더스트리뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wQ2NrRGt1MlRRVVJMNkhFUE56bjNhSVJ5VDdqelh6YkNYVHJfVlpJZldvc3hETVljUGNPZmpiYUxYbklVYndDM0E5ZWY1MFlWT1EtbXQ4aEp6a3pkOEswMUtGNzZxYTVuVWMyWHZ6Z2lOUQ?oc=5",
       "publishedAt": "2026-11-20T09:07:56.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -157,7 +245,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IY1ZxSTgxelRoTDNwV0tBSHRRNUdmY3ZDRmpja0d3eFF0clZycWJyTzdEZmZVY3lxSmlYbjNUTmxuRE9ENFpfNHBRRGV1S0V5bUVDS1V0RW5laHVUR0dqWG9XdE0?oc=5",
       "publishedAt": "2026-11-20T06:19:22.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -179,12 +267,39 @@
       }
     },
     {
+      "id": "b6fddfcff2feae7a",
+      "title": "SK텔레콤, T 팩토리 성수서 AI로 '올해의 나' 돌아보는 연말 전시",
+      "source": "스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yME5vOTM1NTJVbmIxSHZ4dDc1Z1hEeXVGcURNX2hhWmluVkFaT3JVcklHV0hEbGs1RlB2WXhXLWREa2xUZ2ZFX3BJQkZqenBkOWx5RHpiRm9HVFFPLS16aVFDdDZtTnJ6OGFRczFuN2VJSDTSAXdBVV95cUxQdjNWekhFUnVaVG1QTnVpNEN5SjVMX3EwSmZReUZKRTJzYjlENC1lSjdYRjFZUm54bGQtbXNpLXN0dHJtekxjazhudlJ4dms3T2Vkc3JlQkRyMDA0NW56d1RTV0ZCUjBsZnhIWEsycENlZUVSWG5SNA?oc=5",
+      "publishedAt": "2026-11-20T05:40:45.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "SK텔레콤, T 팩토리 성수서 AI로 '올해의 나' 돌아보는 연말 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "936d1e2c0189c0b3",
       "title": "[리포트 브리핑]SK텔레콤, 'SK텔레콤, 앤트로픽 상장으로 지분가치 반영 필요' Not Rated - 유안타증권",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XREVJVlR4SVVSd3I4UlJfaWJJaHVCNEM5N09Gb0VsWFJXTUQ2c0owbmRhZTR2c0daU3FuS1JSLXdDc0NrNWQ4RmxpcWsyajlxRnA4aHZocXVLSHJm?oc=5",
       "publishedAt": "2026-11-20T01:30:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -211,7 +326,7 @@
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41YmJ0LTl3dmEtaHp5Um1rNm9Cd1F0clJOTUJZVnZFX0lBYkJmbFZzb0tBQW1wdnczM05xSUlsUDZMb01FSnB0U3QtN0VuLUpSTlVFS3Q3eHdUQQ?oc=5",
       "publishedAt": "2026-11-20T00:18:46.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -240,7 +355,7 @@
       "source": "리드경제",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiVEJtT0hTVW1VN2FKNmQtWTJPSjBwem01SDJHQ3VCdUU3RDVoNUM4cjNTWkF4eENvU3J2a0FMSkladEJFaFEzUjNOUzhVc3JkSEFtM3hkY0tDWGZmT0tfUmM0MzBpUzQxbVRSZjc4UU4?oc=5",
       "publishedAt": "2026-11-20T00:18:20.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -267,7 +382,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpbzJ4UUljWFV1amV1QmxpaVFEUV9WVHEtY1Y3RkxlMGs5RjVQSWQ5aGlGYzBubnp0WmpKUXotNjdOUVRXX0Z6SlhreEdzYURBX3VtOGFKNUFaRWw3Ung0U193UTd5S1BnRzFrd9IBbEFVX3lxTFBpbzJ4UUljWFV1amV1QmxpaVFEUV9WVHEtY1Y3RkxlMGs5RjVQSWQ5aGlGYzBubnp0WmpKUXotNjdOUVRXX0Z6SlhreEdzYURBX3VtOGFKNUFaRWw3Ung0U193UTd5S1BnRzFrdw?oc=5",
       "publishedAt": "2026-11-20T00:05:12.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -294,7 +409,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WY3UtUVZrYXBYVjdPendlMGplQ3hGMFhxdXIxbVNnT3dpTW1YTVJoUFZjUjJJOUlPUndkTGxHYnlVSjZXVGhRNVl5aWR4UmVRaWI1U3ZMZEM2dWFDZWoyZ9IBYEFVX3lxTE1WY3UtUVZrYXBYVjdPendlMGplQ3hGMFhxdXIxbVNnT3dpTW1YTVJoUFZjUjJJOUlPUndkTGxHYnlVSjZXVGhRNVl5aWR4UmVRaWI1U3ZMZEM2dWFDZWoyZw?oc=5",
       "publishedAt": "2026-11-19T23:34:18.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -316,12 +431,39 @@
       }
     },
     {
+      "id": "74872ee1027db039",
+      "title": "[IT는 지금] SKT, AI-RAN 무인 자율 이송 기술로 전파방송 기술대상 5년 연속 수상 外 : 네이버 블로그",
+      "source": "Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXNseUt0RXNqdHQ4am1kVWlIVGFrNDl6NnpERmlZOEx4SWhrRmRlTTluN2R3bFFBX0czY2pRNTdCX2JHd2tYdzVUUmxvSjc0bE5OaHdMZkJTenFReHdhem9EOEtCU2NaZmdLbmhGTEdyU2xNUndLMmltdXJJcWEtcy1LMG5DMW5qN1BqbzJ4QQ?oc=5",
+      "publishedAt": "2026-11-19T23:30:30.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "sktelecom",
+      "stock": "SK텔레콤",
+      "ticker": "017670",
+      "relatedStocks": [
+        {
+          "id": "sktelecom",
+          "name": "SK텔레콤",
+          "ticker": "017670"
+        }
+      ],
+      "summary": "[IT는 지금] SKT, AI-RAN 무인 자율 이송 기술로 전파방송 기술대상 5년 연속 수상 外 : 네이버 블로그 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "da84f98e8edaa50e",
       "title": "[칼럼] AI 혁명 뒤 날아온 청구서",
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzZXlrMTNDOFJIdlFPeWlCcU9UY3BFUmxiQnZOUXJtUklTcEdDLTNvaXhmLWJ5YjFWblRJTXplcHpXbnFHVXpvaQ?oc=5",
       "publishedAt": "2026-11-19T01:45:31.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -348,7 +490,7 @@
       "source": "SK텔레콤 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVGVoT2RsOENhR09iU2ZQcnZlTFRjQXVVbUxFY1pzbUhrRVVMQmpodUtPamxKdEk4Nm1hZ0s4anFoelM4NkRTVw?oc=5",
       "publishedAt": "2026-11-18T23:40:59.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -375,7 +517,7 @@
       "source": "블로터",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DbHNVMjR2SUVWQUttSUo5UTBkYnpjaDZDSVB0anloWkVWeDZHR21Pak10cjZ1WnB0WXlqUnZvN2FZMG1iYXo2bDZfXzQ5OTRwMUU3SHdIMzFTUE9JT1BBOWNvQVVnamhL0gFsQVVfeXFMTl9lSW5jamVENHRHUmxsUVJwTExPWlRtRGZEX0JReVYzYzBoTXFySHByOVpjaHBrQ1IxQ0Y4bXdKaDJRUDhUdjNVWVBHWUNjRC1MeXhKVlBmSlJKN3BERzhkcnhWbGJ3RFZOb1Vu?oc=5",
       "publishedAt": "2026-11-18T13:12:24.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -397,39 +539,12 @@
       }
     },
     {
-      "id": "b6fddfcff2feae7a",
-      "title": "SK텔레콤, T 팩토리 성수서 AI로 '올해의 나' 돌아보는 연말 전시",
-      "source": "스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yME5vOTM1NTJVbmIxSHZ4dDc1Z1hEeXVGcURNX2hhWmluVkFaT3JVcklHV0hEbGs1RlB2WXhXLWREa2xUZ2ZFX3BJQkZqenBkOWx5RHpiRm9HVFFPLS16aVFDdDZtTnJ6OGFRczFuN2VJSDTSAXdBVV95cUxQdjNWekhFUnVaVG1QTnVpNEN5SjVMX3EwSmZReUZKRTJzYjlENC1lSjdYRjFZUm54bGQtbXNpLXN0dHJtekxjazhudlJ4dms3T2Vkc3JlQkRyMDA0NW56d1RTV0ZCUjBsZnhIWEsycENlZUVSWG5SNA?oc=5",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SK텔레콤, T 팩토리 성수서 AI로 '올해의 나' 돌아보는 연말 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c4670298ea3a5001",
       "title": "F5, SK텔레콤과 국내 게임사 공략…AI 보안 사업도 확대",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iVDkycTVOUnI3TVJ2Wmg2RHFZZ2ZKcmxKSDZyUmU5TG9vdDdOQ1FoSVZ5eF9ZSWxwSzR0WVh1Y3lmS2hNWXVGS3NldEwxUnl5eEM3RVFGSVAtUDRsUFoyQ2NYd3g3dw?oc=5",
       "publishedAt": "2026-11-18T07:16:34.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "sktelecom",
       "stock": "SK텔레콤",
       "ticker": "017670",
@@ -441,114 +556,6 @@
         }
       ],
       "summary": "F5, SK텔레콤과 국내 게임사 공략…AI 보안 사업도 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "87951891dfdae505",
-      "title": "2700억이 7조원으로? … 앤트로픽 상장에 SK텔레콤 '돈방석'",
-      "source": "뉴데일리 경제",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbHpWcmlnUExmRV9NMFo2RFdhdFZuTGxoZFVtUXc4QW1rajdwRFlYUkM1VWNUS2VSS3NrT0VDcXQ3RHJJeGw4VVplWnFzMUo5d3FLMk1CajZvYlczZG11OFc1aVVSemZjOUQ1R2VLOTFLcTFoZUF4TTRla9IBgAFBVV95cUxQSzg1WDRGdlZmVld1aDItRFpiTmxUcnh4R2tvMzdDUV9CV0txUU1MOS1NSGFsR0gtZUtMbVh4Z0x3OUpFd1pkN1Rvem1yQzFBaFdEN05aNGZISHBDdXFVWXVnTl85M1RvLV9wY2NqRzU4OU9CQlpjQlExOTBVQ3d6QQ?oc=5",
-      "publishedAt": "2026-11-18T06:27:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "2700억이 7조원으로? … 앤트로픽 상장에 SK텔레콤 '돈방석' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "094421d332442e33",
-      "title": "SKT, AI 기지국으로 일반 차량 무인 이송…2027년 KG모빌리티 공장 적용 추진",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1helRTaEZGRkdqQWNqekI1R0o0eERpT1dOZkwxWlk1SEVJeDlyOUlxRkx1bVZKeklyN1hIWFJqT2xkUWtNbk9mbEp6anZhNlFkMWQxNVB1S043dDEzZkJ2TldBWF90TW8?oc=5",
-      "publishedAt": "2026-11-18T04:25:16.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, AI 기지국으로 일반 차량 무인 이송…2027년 KG모빌리티 공장 적용 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a2861e66ca5ea540",
-      "title": "SKT, AI-RAN 차량제어 기술로 전파방송 기술대상 장관상",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rU1B1UkRVcE9vZVJxam94VFR4elFHV2FZd1pmeWwtWmJlalBoZ3o2NXZYeV9hLXVxZGo4NU5YbVphQTYxWEVWUDRqY1pQUQ?oc=5",
-      "publishedAt": "2026-11-18T04:24:45.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "SKT, AI-RAN 차량제어 기술로 전파방송 기술대상 장관상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e3cabcba3693f2e2",
-      "title": "[IT는 지금] SKT, AI-RAN 무인 자율 이송 기술로 전파방송 기술대상 5년 연속 수상 外",
-      "source": "딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fbllhQlp5LW4wRmZwVmxDMFZfeXpHZWk3d3Mxel9ORGVOWl9IcE9kRVEzUkVSZjNwOFR6YmpKTE55OGQ1bU5ZT2M3R0F5em8?oc=5",
-      "publishedAt": "2026-11-18T04:16:01.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "sktelecom",
-      "stock": "SK텔레콤",
-      "ticker": "017670",
-      "relatedStocks": [
-        {
-          "id": "sktelecom",
-          "name": "SK텔레콤",
-          "ticker": "017670"
-        }
-      ],
-      "summary": "[IT는 지금] SKT, AI-RAN 무인 자율 이송 기술로 전파방송 기술대상 5년 연속 수상 外 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",

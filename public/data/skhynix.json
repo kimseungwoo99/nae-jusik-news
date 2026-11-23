@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:23:16.321Z",
+  "generatedAt": "2026-11-23T18:52:35.475Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,131 @@
     "name": "SK하이닉스",
     "ticker": "000660"
   },
-  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성전자·SK하이닉스 장 초반 동반 급락…'18만전자·110만닉스' 붕괴",
-    "\"SK하이닉스 통째로 사겠다\"…손정의, 1조달러 인수 자금 알아봤다",
-    "[오늘의 증권가 콜] 'SK하이닉스 105만원'…목표주가 36% 하향"
+    "SK하이닉스 폭락 두 번 맞힌 애널리스트, 또 “더 떨어진다” 경고",
+    "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억원 규모",
+    "손정의, 1조달러에 SK하이닉스 인수?...왜 멈췄나"
   ],
   "articles": [
+    {
+      "id": "7051b432b5d88bdd",
+      "title": "SK하이닉스 폭락 두 번 맞힌 애널리스트, 또 “더 떨어진다” 경고",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRQWlVNUZZc1gxcnFxem5Za2dZQlFwRnRrRW42OGh6VUFIVmtDaEFudlk0Uk5tOHhtc0dYVHc1REVfekpYYnNOOUx2MnJmazZyQWdnUzBTalljQdIBX0FVX3lxTE9WcXZWMkx1dmVRWmU3OHhTQm8wekQtTWR0QVJfb21TQ3dRYzhVNTB1dHpIOG1CZEhJbXJSeG43WW5OVERWbm55TC16UEJXang1X1h0TFlrTUFraElrUFl3?oc=5",
+      "publishedAt": "2026-11-23T07:30:00.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "SK하이닉스 폭락 두 번 맞힌 애널리스트, 또 “더 떨어진다” 경고 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.85,
+        "confidence": 0.91,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락",
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "0fa7ad7767dabeef",
+      "title": "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억원 규모",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DQzlZckhUcEZURzNYOWkyblA3aDZyLUJNRExrR3FZWlFuQ3ZPN3hYQ3RWZkhSb2Y4WE8xMFRrV3JmT0JfWXB4cGg1N0dGXzVFTjh2eS1GanlyNGV6VWw4TGxBdU8?oc=5",
+      "publishedAt": "2026-11-23T06:43:33.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억원 규모 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "13fec17d98adf37a",
+      "title": "손정의, 1조달러에 SK하이닉스 인수?...왜 멈췄나",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zM0MtZWJ3MERnamJDTGFrSDhZREoyTXAtWnhiSzFUQUUyRlY4ZTRLQlFMclF2VUdpSE4tRmwwSklkZnZ5RGxTM3dNYTZIUXljSThzMHNB?oc=5",
+      "publishedAt": "2026-11-23T05:07:14.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "손정의, 1조달러에 SK하이닉스 인수?...왜 멈췄나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d248d0cff72c4f38",
+      "title": "[오늘의 삼전닉스] SK하이닉스 '105만vs280만' 극과 극, 어디를 믿어야 하나요?",
+      "source": "이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yX1ptY2hMS2lVMGJTRVNGNEI2cGRibDc0SkYzX3k5RW04bzl2WGRFbWlWRjlFdU9hbXE0VFRuSkl5c1pSVVM1T0RzVk9KbjBDM1F6UjFReGNKVmQ2aXpYS3Fn?oc=5",
+      "publishedAt": "2026-11-23T02:27:00.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "[오늘의 삼전닉스] SK하이닉스 '105만vs280만' 극과 극, 어디를 믿어야 하나요? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "4d466d74ebdcfce1",
       "title": "삼성전자·SK하이닉스 장 초반 동반 급락…'18만전자·110만닉스' 붕괴",
       "source": "진일보 | 전남일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HMi1MQ3NoRlZ1REd6aVFCLTItNmlJT0d3bEdWZkZqdWVEZlFyR3J1Q056NkVPd3hkOENSN2djNDdjZzYzeGVFYjN3aUFlcVVaZmJLUVY2YmduQno5QVhCemI2blNndkwzSFNubU5iTQ?oc=5",
       "publishedAt": "2026-11-23T00:31:19.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -49,7 +160,7 @@
       "source": "매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WX21peUJXQW0zcTRPcHp6ZTRqVlNFbGl5bkhlVjBwUDllMnVzTklDUGFMOHVoX3lENFlaUnlEa3lkMnR2YUpUdHhXWTJya0NKYlE2ZkhnTmxSdGF0RTFUczB3?oc=5",
       "publishedAt": "2026-11-23T00:04:59.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -71,39 +182,12 @@
       }
     },
     {
-      "id": "2997acab2280fafb",
-      "title": "[오늘의 증권가 콜] 'SK하이닉스 105만원'…목표주가 36% 하향",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpMk5EWF96Z2lLbmJseGN2SFhqRjFBbGRXbkNPVGRyZlkyZkVfay1Hc1lIeGdMYkk5LUNiOXl5VFgtanFCQndCaHcwMkN5VXNGa2ZJMFJaV09OZw?oc=5",
-      "publishedAt": "2026-11-22T23:32:40.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "[오늘의 증권가 콜] 'SK하이닉스 105만원'…목표주가 36% 하향 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "d25b0ddb0405303c",
       "title": "SK하이닉스 노렸던 손정의…천문학적인 몸값까지? [지금이뉴스]",
       "source": "YTN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaHJEOGpIYUluWlo1OTBUbUJNN3hZUUdZU1hucmhyTjlSczc3a0tHaHkwSEhrRllGZ3M4Y2RJdjBWeGRSbnRaOFowRUhlbElNSnRnSDZkcTlka20xdEpTaWFtUUY1Uktuc25kbF9JakpQbkdTQVE?oc=5",
       "publishedAt": "2026-11-22T03:30:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -130,7 +214,7 @@
       "source": "더트래커",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUDJFaWZOWFNKMDJxOFRTcXJiZy1HR0pfUWZ2MHo0cEI5bXFoLTQzb01EYi13XzhyTXZYWVVoVkI0ZkN1eWdXaVFGdTBUR3JOQnlQNVEwb2E?oc=5",
       "publishedAt": "2026-11-22T02:29:50.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -157,7 +241,7 @@
       "source": "동아일보",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRnhOeV9aU1hoSm1zWmtxb2VfdnpXejJpTndfM3RpOGs1dU1uYmxqTTdxMUY5Zk5OTjZnQlFBLXVWZ2VFcWpCdUJTRGxSUVpfU2M4V29mbl90VlF2cDF1QS1JbHJJaHQzNVRlQ2g2TllISkXSAWZBVV95cUxQZ2lBMXhTQ0tsbXBRMWNvYmptc01Ia01IWWN5SnU2Z3I1YVVjbHMzdWxDLXlSdjhtcU9iXzV0NWlNeHZ2ZEMydmhhUXY3VFV2Ny13QXNBQjRodWJVVTZvM2w4WWJfd3c?oc=5",
       "publishedAt": "2026-11-21T07:11:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -179,39 +263,12 @@
       }
     },
     {
-      "id": "5d751131edfc7d53",
-      "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의”",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KR01obVFPREJDaS1vd2R6dExOZnBoYTFSZk9JR3Vma2ZXSDRYOW5QSDZNLWQ2d1M2YUREeFlsYjdOd1ZRZmgxY0NOSnBPTlpYZmE1Nl9n?oc=5",
-      "publishedAt": "2026-11-21T05:23:59.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9f94c980615dfcf3",
       "title": "손정의, ‘1조 달러 베팅’으로 SK하이닉스 인수 타진했었다",
       "source": "뉴데일리 경제",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jNUhwMXJfR0UtZC1VUVV6dWxSRVBVQU8xMklnWWJCcm9aMUZuSlNMRkRSZUpXYjNpQjUyOTEtcTV3VW1zaHN4NWNTSnJ6OEJudXRGNWV1NlNRYkd3X0c4ektocElBMEJJNlRoQTRfUHl3cUpFWUlRcDNJc9IBgAFBVV95cUxQdU9NN1d1T1dfZU5fblY5OVozWG1sZ1VMUF9DTVNac01IUHJRLUUxMFVaY2FuMEdIeGN5aTRtc2dGb0FqR0lON2VSSWx0YlROclhHTWU1eFZybWdkRHUxMWpKbHlZa1dWcGNJZ2R0eE1rVWhpdjM3V3pvSjBMeU42aA?oc=5",
       "publishedAt": "2026-11-21T05:15:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -233,12 +290,12 @@
       }
     },
     {
-      "id": "d8259e52a9133f59",
-      "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUEFLNjBhZm9jQU5hQktKLXZ3aUZZZ0dua1UtQWE4TGlZc0hPeXRydUhqU0c5M3ZvUXpuQi1FRThPYk1Sb1d0ZUhmWGo5M2ozVnVDcDFaNVV4d9IBX0FVX3lxTE1hZkJWWlBRaTZaY3ZCLWJ5RThDM3VfNGFMN2ZrYXZzZTVRUy11OE8tUWdocTlKMGtpcnpxdjczSjN4UVNDTWE4VGRSLU9fN2ZhQm9IRmtfTFFndmVhWVA4?oc=5",
-      "publishedAt": "2026-11-21T04:09:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "id": "acedf9369a00ad1b",
+      "title": "손정의, SK하이닉스 1346조 원 인수 검토했다…월가에 자금 조달 문의",
+      "source": "문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhanptZ2VFZHhBdG5JRXVneU9CSnJjTXRtcHpNc0NFWUVLbWdkTjJYU0xHbUVQcDI0NE5kc1dFa0NxbTFscTFENjh3N0R3RXF3?oc=5",
+      "publishedAt": "2026-11-21T04:56:50.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -249,7 +306,7 @@
           "ticker": "000660"
         }
       ],
-      "summary": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "손정의, SK하이닉스 1346조 원 인수 검토했다…월가에 자금 조달 문의 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -260,12 +317,12 @@
       }
     },
     {
-      "id": "f933fa2a170e9f36",
-      "title": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\"",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfNDRQTTNuaW9hYzVxcVdwVU1GUXlkdjdqN2ZJNXJNMWZRbkxYRzVqV2t2ZEpDTV9JcjRMeXFpNWxuMHVkR0dMUXdzUlNqY2xqM2ItTjFaOGU?oc=5",
-      "publishedAt": "2026-11-21T03:07:11.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "id": "b5579f4ed8ad7ec2",
+      "title": "반토막 났는데 \"주가 더 빠진다\"…하이닉스 결국 터졌다 [종목+]",
+      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLMGJkY2x3ZVhKbzJFRUlmRGo4bXc3djRmLWhFeDZrMnBsYk16SmFHRWczVnhxSjR3clNsNmpiRjhCcHJIOEs5WkRJUkR6VGMzQ01MRWFuYVhtdw?oc=5",
+      "publishedAt": "2026-11-21T03:08:50.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -276,35 +333,8 @@
           "ticker": "000660"
         }
       ],
-      "summary": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "50bbbc3962c8a398",
-      "title": "SK하이닉스, 日 키옥시아 지분 14.1% 간접 확보",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlhHa01RUWZBYzJsbnNqQi1KYkVQVF9lLUJfYVVOQ1RYOFhvRGJ6WWN6SnU0T1pEMzVPUkRrb3d0c2VjaVVfNjZiSU5ZeVd5WjBwUzhHWjZ6YkYyWEMtUHZsZXhrRDRmM2p1aHBsWVR3QWVHdTJWQWotN1J0Z1kybEVsdw?oc=5",
-      "publishedAt": "2026-11-20T08:28:24.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "SK하이닉스, 日 키옥시아 지분 14.1% 간접 확보 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "반토막 났는데 \"주가 더 빠진다\"…하이닉스 결국 터졌다 [종목+] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -319,7 +349,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10OGJwMGxUYlFxUWZ2VkJQNG1RV21hV2sxTFo3UVFkWFBmaUV6WTFaekVxMm52YVNxdEFaT0VwLUtRMDZpZ2pQTDlnbkFwQlVxRnNvNWI0alA0cGIz?oc=5",
       "publishedAt": "2026-11-20T01:55:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -346,7 +376,7 @@
       "source": "미래경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aMDd3NE9DWlU5bmJUb29JZzB4QXh0OFpVczVSakI4QlMwZlpTUmhtSkc3U0o4NGZfMWQ4TVNTWldfMVNhMV9fcEgwaUpyNUJDejFORlhCUTg3Y1NybEpManVORHJhRWpMdGt2aw?oc=5",
       "publishedAt": "2026-11-20T00:40:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -373,7 +403,7 @@
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vS0d0NUxIN2dJOGFLZUlTTnhuT0xVeUhRTFhVSzdSMFo2UDFvZXhFZHI3cjBfeHhmdzNSbTZIMWxGR3h3b3ZjV1RUZ3NSXzM4M1BidnZOYU0ybmdrODNhVg?oc=5",
       "publishedAt": "2026-11-19T23:47:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -395,12 +425,39 @@
       }
     },
     {
+      "id": "c0a41b7a5e6ece18",
+      "title": "중국, SK하이닉스 HBM 기술까지 베끼나...반도체 장비 수입 4배 폭증 [Pick코노미]",
+      "source": "서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aRkh6ZDJSRE53dXBJeFVsYVRndlVoOXdIT05DOHEwb0hFRVAtUzJ0U05WZzROTHUxZlZPU09qUy1SSHRxYXRCcXA1aUNNUGw4bHfSAVNBVV95cUxOMlRxaGNuaWw3ZWxrbXd5bS1fdWVReHFQT0hVdl80NWpnLVFXOUg5cGlTbnB5Slkzb1RtQUdNaldzdHRrYk4zVDRha1pyS2tZS1JLQQ?oc=5",
+      "publishedAt": "2026-11-19T22:20:07.000Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "stockId": "skhynix",
+      "stock": "SK하이닉스",
+      "ticker": "000660",
+      "relatedStocks": [
+        {
+          "id": "skhynix",
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "summary": "중국, SK하이닉스 HBM 기술까지 베끼나...반도체 장비 수입 4배 폭증 [Pick코노미] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "71e591612462fa5a",
       "title": "HBM 올라탄 SK하이닉스, 매출 ‘톱5’ 진입…삼성전자는 부동의 1위",
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vS0FyaXk4YWxjYXNWZUtKTkJFdExfVmtKdUZKYjI3UTFRVjl3UXNkUlI1c0dhYnpXdGJXSmR1NEhVenVDdjNOcjhCeWJseVBuemRfaXNRb0o1ZWl1Q2I4cVZDSQ?oc=5",
       "publishedAt": "2026-11-19T16:23:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -427,7 +484,7 @@
       "source": "더글로벌기빙뉴스",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOOXhDLUJuZDJ3T2hUaU1zZWVlTkpxTmpCVDk5UDBJVk41QjdOYWhFa3BBckI4QjBwbVI5SGh4VW5jM0FCVGtNSVB3ZHVJSVRlUDNaQg?oc=5",
       "publishedAt": "2026-11-19T11:07:00.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -454,7 +511,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNFM1bVBsQWp0dHhkZ0dCYk5YdUczVm1acG4xYlZaZ21TOU5DSTM5TUxXRVc4dnVzMk5NS0JqaDExemFjdXRSTnU2VDlyN1hueFl0Njl5aEw2OGw5dTNEQlFVLU4?oc=5",
       "publishedAt": "2026-11-19T08:40:27.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -481,7 +538,7 @@
       "source": "비즈니스리포트",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTlgtZmpoZFo5bFJ0aGxPSGxKWFJvZlR1R1ZCaVpPUkgtZy1Cb1ZCVnhoVWlCcGdvb3oyOXpnRXJObkJZa2dlNGdtSl9xOUpERWtoR0RJd3p6eXc3ZnFyTGZmMmFkc2dnMjdlSXMxeEM?oc=5",
       "publishedAt": "2026-11-19T06:31:22.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
+      "collectedAt": "2026-11-23T18:52:35.475Z",
       "stockId": "skhynix",
       "stock": "SK하이닉스",
       "ticker": "000660",
@@ -493,60 +550,6 @@
         }
       ],
       "summary": "SK하이닉스, 수출 1조 달러 시대 연 대한민국, 그 중심에 선 HBM과 K-반도체 생태계 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6198035b49d4d64f",
-      "title": "수출 1조달러 주역 HBM… SK하이닉스, `원팀` 생태계로 AI 메모리 도약",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03SVVyRWlrYzkzSlFZXzFiZ3B2NktJdWtIT1h3blY4a0MycEQxV2xlemJULWRWYmRvVjhuQnRqNTkwVmFGV094aFZPZ0tyUXVKaVhMUHpWYWhnOE5udm10ck1rWTk?oc=5",
-      "publishedAt": "2026-11-19T05:59:06.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "수출 1조달러 주역 HBM… SK하이닉스, `원팀` 생태계로 AI 메모리 도약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "866d8627c651342b",
-      "title": "‘수출 1조 달러’ 넘어 더 큰 도약으로… SK하이닉스와 소재 · 부품 · 장비 생태계가 함께 그리는 K-반도체의 미래",
-      "source": "SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81bjd3NUpmR3NpU3RPVTZiQUQ0ZzUyWW1icEdGb0YwSjJMTU5MeWFtY29XcV9kbF9QYTRoVUVXcWtRTUZEWEJ5ZGRkdzZZT0pxYzRmQUYwYW1UMUZyWUF2TzJjTGFYaVduX2c?oc=5",
-      "publishedAt": "2026-11-19T05:41:59.000Z",
-      "collectedAt": "2026-11-23T03:23:16.321Z",
-      "stockId": "skhynix",
-      "stock": "SK하이닉스",
-      "ticker": "000660",
-      "relatedStocks": [
-        {
-          "id": "skhynix",
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "summary": "‘수출 1조 달러’ 넘어 더 큰 도약으로… SK하이닉스와 소재 · 부품 · 장비 생태계가 함께 그리는 K-반도체의 미래 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
