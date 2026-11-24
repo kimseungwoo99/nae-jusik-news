@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:52:35.475Z",
+  "generatedAt": "2026-11-24T06:36:13.163Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -9,18 +9,45 @@
   },
   "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
+    "[단독] 다크웹에 올라온 한전 유출 정보…해커 “입찰 정보도 있어”",
     "개보위, 한국전력 개인정보 유출 조사 착수",
-    "수원 한국전력 선두 수성·대한항공 반등 도전…V리그 2라운드 돌입",
-    "한전, 전력노조 임원 281명에 안전 감독권 부여"
+    "한전 업무용 AI '파워북' 확산…서부발전·전력거래소 등 4곳 도입"
   ],
   "articles": [
+    {
+      "id": "2b152d9bd509554c",
+      "title": "[단독] 다크웹에 올라온 한전 유출 정보…해커 “입찰 정보도 있어”",
+      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBISkF6a2lkNkpJOVc1NTg2djhDYnNDTXJncE1FUUJBcnlMY292clMwaEptMk1LdWkxLVRsbkZWSzVtbTQxSXZaWkpyUy1BTHdnbUl4dUtnbm8tRnc?oc=5",
+      "publishedAt": "2026-11-23T12:09:00.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[단독] 다크웹에 올라온 한전 유출 정보…해커 “입찰 정보도 있어” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2261b5296c338a2d",
       "title": "개보위, 한국전력 개인정보 유출 조사 착수",
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yU1RjcVJwQnJKbE8zS01DeTktUVVNcmZZSDZiTXhpUXB6WDVKV3pQSnpMUHJsa21sLTk5dE9DS1NfbFA4c1ZaeVlycS15MkRlZTBYTkw3eDl5TFNLTEpEaVdMWkU?oc=5",
       "publishedAt": "2026-11-23T07:58:40.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -42,12 +69,12 @@
       }
     },
     {
-      "id": "7b8e00c40f2e65eb",
-      "title": "수원 한국전력 선두 수성·대한항공 반등 도전…V리그 2라운드 돌입",
-      "source": "경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVjR4Yk11cE9yZEFaNDhEeHgzQ09TUU5qNHl2YWdOUU9NanA2dEEyWEJBREoycE9vLWpLSEdFQWdXTThkT2F0RUNtelFDeUZ2YmVybDR4UDZ3SGM?oc=5",
-      "publishedAt": "2026-11-23T06:34:50.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "id": "c59feed30222c48a",
+      "title": "한전 업무용 AI '파워북' 확산…서부발전·전력거래소 등 4곳 도입",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fZWFmaXpaM0c1ZVJ4ZmRPUFBwdTBFNDJiOVByT3BxZmdhdjA2MkFJRnk2YkJUYk1halNmbTlVWEp1Y2VLVVFPMHhYX1NXNzN3T0dadGhFdWhqR2JE?oc=5",
+      "publishedAt": "2026-11-23T07:03:00.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -58,25 +85,23 @@
           "ticker": "015760"
         }
       ],
-      "summary": "수원 한국전력 선두 수성·대한항공 반등 도전…V리그 2라운드 돌입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "한전 업무용 AI '파워북' 확산…서부발전·전력거래소 등 4곳 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "반등"
-        ],
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
         "negativeTerms": []
       }
     },
     {
-      "id": "f3d1e34ec9ae3270",
-      "title": "한전, 전력노조 임원 281명에 안전 감독권 부여",
-      "source": "뉴스락",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VazJKV2hfZHRkZkNRV3JSX2gxT1k2cjljclZDdDR0bHBOZGVpUmxPbDNkOEctbzB5YWhIX0NqZWRiWnY2Qnp5WkZhZXpQRE1ZZzhLVnBCRE9UbGtQSWRxSnMyZDA2UGxDLTV3Wg?oc=5",
-      "publishedAt": "2026-11-23T06:04:11.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "id": "744b3a02f409fcc0",
+      "title": "(설명) 정부와 한전은 메가프로젝트 적기 전력공급 및 전력망 인프라 신속구축을 위한 다양한 대책을 추진 중",
+      "source": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJHQ1JGZVdpZ0RzQUpUN0Z5OVFsdHFhWklFM0pDbDNOOFIzQ3FMLWkyY29Ib2dGR3pSTmRTLWFERzhESWZkcFdoOVhMMWZpREVTY2NmMkFhVWtCblBLS244VUN6TkpEUWkyU01OUlo2ekFIVzZ0ZFZUOF9UMWdFRlNUSHpmaTZrNkJJ?oc=5",
+      "publishedAt": "2026-11-23T06:18:58.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -87,8 +112,8 @@
           "ticker": "015760"
         }
       ],
-      "summary": "한전, 전력노조 임원 281명에 안전 감독권 부여 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "(설명) 정부와 한전은 메가프로젝트 적기 전력공급 및 전력망 인프라 신속구축을 위한 다양한 대책을 추진 중 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -103,7 +128,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WUWUyVFhRMEw5Y2Vra25FOWNIWE1pNGllemdpeFMxdkY3MFVZYUNWLW9hNDNsSE44c3ZyNjFLWGl4VEdONkFPaVFKV3NMU29zalFXM25nbGxndS1YeTJLcjBsYmRFQk01TlhZcnlOcHpxZw?oc=5",
       "publishedAt": "2026-11-23T04:48:12.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -130,7 +155,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04d2NTMEZ5YldidkJBemlJX2IzVFpRU1ZlVThJVWJ0SEprNWdfSVFpMC15Q09pM1hGYUQ1MDcyM3BQOFkzUlZmMnZzdUNoVjY3Z3ZzNFJqNDBLQXlTTGNxRQ?oc=5",
       "publishedAt": "2026-11-23T04:06:41.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -157,7 +182,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zLUhTWHBGaUs2WUwwaHdQQ1dITVJPOG5UTmJmV2U1OVhlVjZvXzg4SXFCeHgwTDdmWlFqZVhRT1BtVDJtcWNPaWd1Z3NVRFQ2ek9YU0E5NEdZUlE0UkV6NmhGUHR1V1U?oc=5",
       "publishedAt": "2026-11-23T03:32:53.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -184,7 +209,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHBncWdOWXFtcW9rMWsyeW5UZ0U3Qm5Nc0Q3MlVpbzFUVHVXaTBPbW1MSGthMk15NjVrUWhGNTFuTFZ1ZEhKazhoRUs0QTNWellvRk1IaHN1dGpNN2hLeWdOcE1BMnZ4bkJRd2lGa1l2N0M5eldMODR0anhNb3hwb0dLaVdQaFha?oc=5",
       "publishedAt": "2026-11-23T01:28:02.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -206,12 +231,41 @@
       }
     },
     {
+      "id": "3e740cbb7ff3dfd7",
+      "title": "[특징주] 한국전력, 증시 급락에 개인정보 유출 악재까지…3%대 하락",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORU9ESUF6Mmg4THFwZzJvUzZPVlhCQ2pOeGVySXBtSDVNanBPdjJCd2NpUjExempRS0U2THJlcUxyenBNcENpcHBwYUk4eVV6MEJ5bmYyUmVMRFU2UDVfWlFBRGp2eVRDeUFNQkNqZnQ0ZlplR24zcTJEWE9wOTVFZUxXcmh0NlVZ0gGcAUFVX3lxTE5zTEZtdTdYN3NfVGp2N1F0cV9keU4tZkdaNHBpOHFPRk9EQ1FMeWM1ZnRRbFJ5cG9LNkZpVmNTQTAxZHc3YV9FNFB5dzJCcmUwZUdpdlpqMHdXYTJPbGlZejh6b0pYQUl5WnJMQzBHTFVob21iUVZLYVJQVXN1Qk9QZXJnT2hGb3AzV1A1RzJjQnVxUDZiZTVBYTk1SQ?oc=5",
+      "publishedAt": "2026-11-23T00:32:00.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "[특징주] 한국전력, 증시 급락에 개인정보 유출 악재까지…3%대 하락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "149113e89d9e1718",
       "title": "한전, 150만명 개인정보 털렸다…계좌·카드번호 등 유출",
       "source": "한겨레",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1SOXBhZkhySll1TEp6UW82WVV2TFhXNWFoWEk5WDNlMElZSkcxRUNYVXVfcncyVHVIRXFTRjl6TXFDaE5MOUVsMUVWWnlMMXpld0xZQm9jcXdwUGdKUEUzcG54czRzbENJdg?oc=5",
       "publishedAt": "2026-11-22T23:58:00.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -233,41 +287,12 @@
       }
     },
     {
-      "id": "4aaa77814bc43d64",
-      "title": "한화증권 \"한국전력 연간 실적 추정치 지속 하향…목표가↓\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ejFuRFBtTjQ5bDZsTXFlRm9pb3ZjVmpNcG9pU2FVRTE5VkcwTjdnZ3dpNkxrWTRmczV4RTBOLUJrMjY3bEtvV1ZxTElLVTE2OWgwMjlCbVpRc1HSAWBBVV95cUxQYlI4clkxbExUUC1uYU8wQ2FiYkgtc041ZUJ4b1Z2N1dldlV3elh5ZW04NldmbGI5TTJUenI1T1daWjVkMnFzZ09rYnBibGQ5bUtnOVJWenJSNGF6ME5FUUw?oc=5",
-      "publishedAt": "2026-11-22T23:27:36.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한화증권 \"한국전력 연간 실적 추정치 지속 하향…목표가↓\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "실적 부진"
-        ]
-      }
-    },
-    {
       "id": "1b3e3ba32c79d99e",
       "title": "[단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야",
       "source": "데일리시큐",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1c2l6eU9BRE9BNk1Bb2puOFFmeDZWdmkxZEVuZDAxNllJZjktYm1xMW5jdDVoQ1hsNGdoNmdwakZISTZRNnBGS2UxUmtjMFhwVnN6bzBoeS1URGtJWUVyQkxQZ202NHJvcjRuMQ?oc=5",
       "publishedAt": "2026-11-22T13:26:26.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -294,7 +319,7 @@
       "source": "보안뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUWtPT0Q3RjIzcUpvYzJpVlNkWHZGZzVqMUxfMksxdWxaU2kzVzVIcWhQV0pxZ1NBZG1nTEhCa0ttVEhUZF9wMWFEZzhTRUJFbUNLejkySE5vV2JJUW45a2ZvaE40c1NKdnVJ?oc=5",
       "publishedAt": "2026-11-22T10:57:10.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -321,7 +346,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TVRITGJMN0plWV9NSFJWNlR1eDd1WGVWb3B2SVRnbUJYMXA2US1wcDdMb1ZlQVJwWXZ3alBtenBTNTlYU0lfR3IxaW1WdFdta196aVJPSGtmQdIBX0FVX3lxTE13NWVmMVRzM3pzZE9YUTJ3eEFxU0F4RllMVWgwMlJFeml6dmxmX2FlNGlDZjJCS1hXOUdYSlBYVElLTXFab1RPbHM4SDZnQTVvMzhyTDRPSW9WNXNFb0Rj?oc=5",
       "publishedAt": "2026-11-22T10:07:00.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -343,66 +368,12 @@
       }
     },
     {
-      "id": "40caf4afa92a59bd",
-      "title": "한전, 고객 등 152만명 개인정보 유출 확인…“2차 피해 예방 총력”",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVTg0SU9WRVJ0Vi1kNFY3azNwTVRwODNiYlM2Q3ZWamFBcUQ4VzRoeC1NSElZNTdZbEtMTVh5eGl3dzBvbGFPRUJ5bzhiWk1uUjB0TWlTQkVESHozWVNjaHZESEYtWUlybUJjStIBcEFVX3lxTFBRM2JiR2FSUFlmbmVsLTBvRXRLRS1XaFhDMGd0NVFXMVJIU24zZTIwS2g3TFZJdks4R3RpOUg1SnFBZ2lCdEVvMy14dFp2aWRDVVJxMnVPcVFzZlZTd3cyQTdkaUZ3bU5Ja01PQWRDZnY?oc=5",
-      "publishedAt": "2026-11-22T10:02:06.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "한전, 고객 등 152만명 개인정보 유출 확인…“2차 피해 예방 총력” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "79628a37e718ce03",
-      "title": "주민·계좌·카드번호도 털렸다... 한전, 개인정보 150만건 유출",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzRPRHJRRjU2Zk5ENkVFSFQza0FqSXh5cjM1bmJrNnlScUZVUWhlLUFlR0pnaFVwVFhPQW1ZMUNaNHF5eFJpWlF5VnMxOUFlX01LVDVITndmTktXN3dVZC1GbHpTTHJIdm43QzJKN2dfelZOV2hIbkJXXzZYaFp2NzV0RWQ4R0FnSzV0VTl5MA?oc=5",
-      "publishedAt": "2026-11-22T09:50:00.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
-      "stockId": "kepco",
-      "stock": "한국전력",
-      "ticker": "015760",
-      "relatedStocks": [
-        {
-          "id": "kepco",
-          "name": "한국전력",
-          "ticker": "015760"
-        }
-      ],
-      "summary": "주민·계좌·카드번호도 털렸다... 한전, 개인정보 150만건 유출 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "eac744cf8469b0c9",
       "title": "‘한전ON’ 고객 및 전자조달시스템 기업 개인정보 150여만건 유출",
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CM3hfMVpRLTNJZ3hQWHc2anpTQ0hScG5iSFlKUGRkRE1mZTBzX0tkWFJqTkFRUFJ0d3AxR2VxV0JDTFNSVEtsLUZUeE1rMG0wYUVJSWVQdXJuZ0U?oc=5",
       "publishedAt": "2026-11-22T09:47:00.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -429,7 +400,7 @@
       "source": "국민일보",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WMC02alVER2p3d29QSVVDN1V5ZEZuUmI4dzdBeUNiUXU4QUdVeDQ4OEowaXhqR29mOFQtUWNVNlM1WXB6ZnRSWXZReWR6Wk14b3kxdndsY1Q?oc=5",
       "publishedAt": "2026-11-22T09:12:58.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -456,7 +427,7 @@
       "source": "에너지플랫폼뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aeEx4NDlxUzZaeUl5MjBQYXptZURmZ0VxYjUxTjZrTHluOXRzeEs4eFR2WXhGRktiVi1GTDVTeTBKU1lmajN2YmNCQVdlOW9kcjZHeTNIUGFrR09zbVlSUmJiSjNXVWNjX0l5NNIBcEFVX3lxTE41OTNOSjd2bDgyX3hSV25rdWNzcW1fVnNvanF3ZWxMVXk3WTBRSk1iRTcxSzhfYUkyUHZLY2owbC1wRm5aNlV0QTdMNDV4MWdfcE5JMW1fRThZWDk3T1lPeTZvOFdwMTI2YXJJNGJSUUQ?oc=5",
       "publishedAt": "2026-11-22T06:55:13.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -478,12 +449,41 @@
       }
     },
     {
+      "id": "ff2d98bb38afa69f",
+      "title": "역대 최대 실적 썼지만…복잡한 이해관계에 고민 쌓이는 한전 [공기업은 지금]",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94bFpNWDJwTlNVOUQ1UG5OSm51YllrN2hiMC1tUXpUOHRmYk9aVkUzVDN5UTM1R0l2NFBPWkVIZUs4cElEUmZZLXppdndyVDZHQWo4cW0tMnN2eDY4TVozS0FCbw?oc=5",
+      "publishedAt": "2026-11-21T20:40:31.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
+      "stockId": "kepco",
+      "stock": "한국전력",
+      "ticker": "015760",
+      "relatedStocks": [
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
+        }
+      ],
+      "summary": "역대 최대 실적 썼지만…복잡한 이해관계에 고민 쌓이는 한전 [공기업은 지금] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "6ddbb58e99a94c63",
       "title": "우스만·쇼 45점 합작…한국전력 5연승 질주",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oU084bEZKc0gtd1hDZjcxU1JCZklNXzdrTXdXc3Z1ZHBTeXJweVZqYk5kamFiWTdlbDJEaWVzT1l5ZWZPaXdoSEdhV2VMa245bWNUd3BJMk9RRjB2VV9qRVV2VDBIbEU?oc=5",
       "publishedAt": "2026-11-20T14:25:00.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -505,12 +505,12 @@
       }
     },
     {
-      "id": "2259f24338cd7e4b",
-      "title": "전력거래소, 계통보호 기술교류회… 한전·발전사 등 19개 회원사 참여",
-      "source": "에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qYUFjU0h4aVJaNzZOSkY4bXBGbDRoVzNPSndlZmMyVkU4MHZLX1FjRkRtRWlHRFV1RzV0WVFla1NxcUtZcmkyVTVCc0JqWWJVZWhXeUxTWHY0MHBaaWw5emxwQXM0VUlZcV81SFBYNzhQUQ?oc=5",
-      "publishedAt": "2026-11-20T06:57:24.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "id": "e15f11609f150151",
+      "title": "남자배구 한국전력, 현대 꺾고 5년 만에 1위로 1라운드 마쳐",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FeDlFcDZ5bU1kamJyWTlCclJKYVhPS2Nxd0o0eG5nNDM1Mkk2eWxHbFBDQzZlNHI1Tk5sWGt4WHZRNFN1VWppdWtNbmdVR0VnVnZhMmxqeDF3WlXSAWBBVV95cUxNbWEtR2tEeTlCUV9pMVozejVZQ1JVd1R4UzNUX2FWQ2pPQVRfYW9sMGxrRlg5QVdlbTYzRGUzVjQ3cFRsQVcyN09ibnhsSEdUVVVxbGdoRVYzR3BUSXEwazE?oc=5",
+      "publishedAt": "2026-11-20T12:32:12.000Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
@@ -521,8 +521,8 @@
           "ticker": "015760"
         }
       ],
-      "summary": "전력거래소, 계통보호 기술교류회… 한전·발전사 등 19개 회원사 참여 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
+      "summary": "남자배구 한국전력, 현대 꺾고 5년 만에 1위로 1라운드 마쳐 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -537,7 +537,7 @@
       "source": "더코리아",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rOC1INTBfZ2NZQ0t0ZjVRb0VJYkV2bjFwcjFCb2xrNnBydXVINHkyZllsQk8tc2p0VzJyRXZsMGd6RGFYdURwbE9vYw?oc=5",
       "publishedAt": "2026-11-19T10:19:54.000Z",
-      "collectedAt": "2026-11-23T18:52:35.475Z",
+      "collectedAt": "2026-11-24T06:36:13.163Z",
       "stockId": "kepco",
       "stock": "한국전력",
       "ticker": "015760",
