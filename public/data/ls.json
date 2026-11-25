@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:28:59.770Z",
+  "generatedAt": "2026-11-25T05:09:45.906Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "LS",
     "ticker": "006260"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "안성시자원봉사센터, LS그룹과 ‘온기 나눔, 따뜻한 겨울’ 김장 행사 개최",
-    "LS일렉트릭 송·배전 수주잔고 7조 육박…AI 투자 둔화는 '변수' - 머니투데이",
-    "LS그룹-안성시, 지역사회 소외계층에 '나눔'확산…김장김치 7톤 전달"
+    "LS그룹, 전 계열사 AI 전환 속도…사무·제조 전반 AX 추진",
+    "LS ELECTRIC 12만원 돌파…전선·전력기기 계열사까지 상승 확산",
+    "안성시자원봉사센터, LS그룹과 ‘온기 나눔, 따뜻한 겨울’ 김장 행사 개최"
   ],
   "articles": [
+    {
+      "id": "dfa4329ebe13ef42",
+      "title": "LS그룹, 전 계열사 AI 전환 속도…사무·제조 전반 AX 추진",
+      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yd3l0d19zYmNMTnhIai1kd2VpZHFaVWJvLXVWY1VtTUYwUFJnMVdYNkppel92WDQzSEpqSDQtZ3dCUHRaMGxmVWZhcmFESlM1WFQxN09jRkgzSV9PeW4tNdIBeEFVX3lxTE9YNVVwdVV3VmZJUWptYXJISjIzaTFVVnNISFpnSFhoSkx5eU5ONzV6T3R2ZFE5TTZQellDeml1cHAxelhYOVF4aDFYNUNJc1JaVEhuNUJpWmpibWJzemFuempoLTRSN3h3MmxRemE5R0ZITzM0QTljUQ?oc=5",
+      "publishedAt": "2026-11-25T01:55:47.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹, 전 계열사 AI 전환 속도…사무·제조 전반 AX 추진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c0112e0cdb065aff",
+      "title": "LS ELECTRIC 12만원 돌파…전선·전력기기 계열사까지 상승 확산",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EaTBsZWpNZ0xyRlNhSnJhLWlnT19KVzdIb1B0QjJiSVdWSHNEdThxOFRoRm9ROHJPUFBPMnZIX053R1pDVHQyaWtsa25kTzVPRmhsQk9jcVlkR24wMVFzT0RIdUlaTmU3UW56TWpzSnZkUHFsZUNv0gF3QVVfeXFMTkRpMGxlak1nTHJGU2FKcmEtaWdPX0pXN0hvUHRCMmJJV1ZIc0R1OHE4VGhGb1E4ck9QUE8ydkhfTndHWkNUdDJpa2xrbmRPNU9GaGxCT2NxWWRHbjAxUXNPREh1SVpOZTdRbnpNanNKdmRQcWxlQ28?oc=5",
+      "publishedAt": "2026-11-24T07:52:40.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS ELECTRIC 12만원 돌파…전선·전력기기 계열사까지 상승 확산 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.35,
+        "confidence": 0.66,
+        "positiveTerms": [
+          "성과"
+        ],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "4b34b7f15674082a",
       "title": "안성시자원봉사센터, LS그룹과 ‘온기 나눔, 따뜻한 겨울’ 김장 행사 개최",
       "source": "경인경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R0JnX0U0d0x2Q1lwSjVTVFE5RVVCTUZmV0JfN0hKVHVFalNWYWhoZVI3UjF4WGRNbC1Yd3FtRzRaMXYzcVBRT242UHVmX0FIYk8tb2RzT0tCRVlvQTZ4RG1ndVVPWDZqZ3c?oc=5",
       "publishedAt": "2026-11-24T00:45:05.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -42,12 +98,66 @@
       }
     },
     {
+      "id": "59d8e84afe8ecbeb",
+      "title": "구자균 LS일렉트릭 회장, GS건설·LG유플러스·하니웰과 AI 데이터센터 '통합엔지니어링' 협약",
+      "source": "CEO저널",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41WHRyTmNwdFQ5YlRncWswMDVOejE3RXZFbTlobFNOemk4V3pkU1otUUhuUWJJVGdyYWUxbjVkNkRpYzM5WWs3QV9PUkV6SXI2bnBUS0NBRk5Hblh3cEk0bERHX1c3b2_SAWtBVV95cUxQcGxmcGxDOFYwTUQwREVQZXNGMXFIX0thSUFZbE4zMlIwSjJuX0x6NGljSjBXNDBjcUg3QXY2Ynd6N0tQeFVUbFBlT2dOY1FXOWhDbDJ5OGFrTHZVS3h6SFBhUjNRY0ZWVzBlSQ?oc=5",
+      "publishedAt": "2026-11-24T00:30:54.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "구자균 LS일렉트릭 회장, GS건설·LG유플러스·하니웰과 AI 데이터센터 '통합엔지니어링' 협약 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1bb46a94750fcd08",
+      "title": "안성시자원봉사센터·LS그룹, 김장김치 7톤 담가 900여 가구·복지시설 16곳 전달",
+      "source": "안성뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1ZXdPM0NXQi1XRXJuM2N0a09jRFQtamMyUXpCVFVXWnZvYWJ5YlBMc1RsRFJrZThHOXNqczJvMjV4MTZlSXJaNWRVeE5ZQ1N6N2xXTVdhRUw0TndOS3Nhdnhkblk2QQ?oc=5",
+      "publishedAt": "2026-11-23T22:16:00.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "안성시자원봉사센터·LS그룹, 김장김치 7톤 담가 900여 가구·복지시설 16곳 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "d704ad28169f02d3",
       "title": "LS일렉트릭 송·배전 수주잔고 7조 육박…AI 투자 둔화는 '변수' - 머니투데이",
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2WWhQdUp5TkpDRVlTUF92bncxOXFfcy1vTTZsdzJmTHhoN24wdWZuc2ZldXdvNk0xWTVoODZudTBiRDdIV3RNOFk5N1dDQ1k3bXc0Vkd5Qmk4ZWF5ZkhhR1RGZVUtdUdkMC1yQXFBLUNiZ9IBckFVX3lxTFA2WWhQdUp5TkpDRVlTUF92bncxOXFfcy1vTTZsdzJmTHhoN24wdWZuc2ZldXdvNk0xWTVoODZudTBiRDdIV3RNOFk5N1dDQ1k3bXc0Vkd5Qmk4ZWF5ZkhhR1RGZVUtdUdkMC1yQXFBLUNiZw?oc=5",
       "publishedAt": "2026-11-23T07:20:00.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -71,12 +181,12 @@
       }
     },
     {
-      "id": "f12bf9c794fa968d",
-      "title": "LS그룹-안성시, 지역사회 소외계층에 '나눔'확산…김장김치 7톤 전달",
-      "source": "백세시대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndWNIY2tGNWgya1hrWVc3d1R5S1N4LVVKMmVxSk8yV1h4X1BlM1p4ZEFoczNNU3Q5a21IVXMtazhxSW9jTXlPcnJodkI2UmRaMEZRYlZSa1o3ZVk4Mkx0M05DOUh6cU1tYW5B?oc=5",
-      "publishedAt": "2026-11-23T07:12:06.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "id": "a6a356cca20a6c7e",
+      "title": "LS전선, 뉴욕 전력망에 7000억 규모 초고압케이블…대미 수출 신기록",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYU1HQWhUV2RDVDl1aUF3ZjZSV3VmUjJjQjlBaEFndlpPUkZaNTR2Yy1yUXpBbEcxWmVweFZYM0V5MWtYVkxZV3h0QlRLMm0yUDl4eGk1NEJ4OWdSMmI5V1IwUmpYTzFFVXZBNQ?oc=5",
+      "publishedAt": "2026-11-23T06:17:33.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -87,8 +197,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS그룹-안성시, 지역사회 소외계층에 '나눔'확산…김장김치 7톤 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "LS전선, 뉴욕 전력망에 7000억 규모 초고압케이블…대미 수출 신기록 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -98,12 +208,12 @@
       }
     },
     {
-      "id": "ab4a5d189e8b6136",
+      "id": "aeec61aca5d20214",
       "title": "LS, '전력망 슈퍼사이클' 올라타다…전선에서 인프라까지 영토 확장 '속도전'",
       "source": "오피니언뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFUGVTazZIRFplaG5mSldiSXVMUEwtSGFyaWQwdDN1WGJsY2FabEZxV0lxRm90cGp3N2szcmNGc0NJa0c0bm8yRlFodTZCbkJiWW9aMDVkaWliMXF4LWk5eVloQ0cwTUJKdm1Nako5aV9NZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaT21UNGtxa0lSUTZ3NW1YQlQ3eGVYUG1ySW10WHFBaXFrZ25fU1RlVnNqWER0eTJzalFaYzdGb0oyWGUxcmdFOFRnMXdQMXdjQzlvQWFPbER3WVVvcm9OVnA4LVVyWDhnWE9PTmFyTnk?oc=5",
       "publishedAt": "2026-11-23T06:15:07.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -130,7 +240,7 @@
       "source": "뉴스웰",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zc1p3UF9SVTBsUVpQaV9fcmh5cHlpamc4cllFd1NaY2xvaXBqSkJnREx3UVV4cDV6SE9fVFhqdllNOUtKU3ViV0ZxVjVzWVFNQWgyNzJSb1dFYm9ud1ZWVGFyRTBxc2liaTJjMg?oc=5",
       "publishedAt": "2026-11-23T05:56:57.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -157,7 +267,7 @@
       "source": "시사캐스트",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V3lyb2t5M2J1Qmk3NVVKaU14dXRBd3FKNlo2VTdGem81OS1vWmQ2Tk5BOHRXNUxydEdpYlctRVRqVms4eGp4cnI5SFhhbElRejRCekNsWmRnWkJFVFpZZXNGWTdPNjct?oc=5",
       "publishedAt": "2026-11-23T05:22:41.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -179,12 +289,12 @@
       }
     },
     {
-      "id": "2f83d2d3d293d9a2",
-      "title": "LS, 안성서 11년째 겨울맞이 김장 봉사…지역사회 나눔 실천",
-      "source": "철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Remx0LThUQjNwVzBUT21WdHNveUVybVNBdjJtYTl0bWZ3NVA1b1k2WkhWVU9oTHlaTnQ4NXhYWm92bkNFR0JwcDhERGpNaDdSMVNDeFptdDBUdXdKaEVzbUNoZ1pKd0JsUXc?oc=5",
-      "publishedAt": "2026-11-23T03:46:21.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "id": "5de32744c6d443b3",
+      "title": "GS건설, LS일렉트릭·LG유플러스와 맞손…AI 데이터센터 구축 속도 높인다",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wTHY4cFI3bmRGdGlhXzZFR243Tjd1UzBwZFlubUJPNzJwVXQ5a0c5bGlJbnZjQlNkN24zbDNDQTl1Y2tEVTNJdUxFOFRHUUlTSEhsbTV3bVE1Zmx4YjJ0V3ZZakQ?oc=5",
+      "publishedAt": "2026-11-23T05:21:04.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -195,8 +305,8 @@
           "ticker": "006260"
         }
       ],
-      "summary": "LS, 안성서 11년째 겨울맞이 김장 봉사…지역사회 나눔 실천 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "GS건설, LS일렉트릭·LG유플러스와 맞손…AI 데이터센터 구축 속도 높인다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -211,7 +321,7 @@
       "source": "뉴스밸류",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ocVlkRTZFbWd0WDJldU85dFMtVzdYZlE5QjJ3SkRyRE85QU43TV9NcE5qWVFJck9NVDcyQmhUZ1dtMTZEajh6REJsc2FWeEoyVnN6NXpkRmZHdU5PZUVvaU02WTd0TGFrRUE?oc=5",
       "publishedAt": "2026-11-23T03:00:00.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -235,39 +345,12 @@
       }
     },
     {
-      "id": "c8622c11fadda0e9",
-      "title": "LS그룹 임직원, 김장 7톤 담가 안성 시설과 900가구 전달",
-      "source": "코리아리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LOXhxSUpmX3Fnb3F6TTNIb0VJQUliajZ0OGN6UGpUOExld3haWUFZZWdiLXY4bF91TDRxZlc2ZHI0RXZUbG1jU0hnVVVvd01YT3JoRTZUaUdJSm9yV19Lby1GcmFkVlF4SjF2Mkgydlk?oc=5",
-      "publishedAt": "2026-11-23T02:01:33.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS그룹 임직원, 김장 7톤 담가 안성 시설과 900가구 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "2c9bb9aa2ad46a0d",
       "title": "LS그룹, 안성서 김장 나눔…취약계층 900가구에 전달",
       "source": "이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1XzFTT1h1c1BMbWt1eUtsYm5ZSmNmZFN5b3pTcEN2T0J5ZEN4RnB1clkzTW5jYmlodkd5RGpITUE3QlB3TlIwZXhWMTY1LUFUVWdTX1dxd1k2Yy1Ld3FSRWRQLU00dw?oc=5",
       "publishedAt": "2026-11-23T01:58:48.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -289,12 +372,66 @@
       }
     },
     {
+      "id": "416b3cc5f4f8f9dd",
+      "title": "LS그룹, 안성시와 11년째 김장 나눔… 소외계층 900가구 지원",
+      "source": "중앙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUEhybjkwNmNrME81bk5aRXIzSGhqTVhqbENfMm9WV0o2SlRoTFF6bnd0eHBMNzUtUG45R0tDYmJlMWJtY2FwNkdIeVgwWmVrMFNnOVExaVBGYkVqMy1xMm5vdXZPdHl0VThHMNIBcEFVX3lxTE1jU2NFNDFzVGswZThtRlhkWXdfcEl6OXQzUnhBaGx6NUJvd0RMQlkzeEh2Q1RsSTBvdjUyWktxNTR6ZUhrMmN0RFVjTTdSdm43aVI2b1F0a3pQRFR1T1pjNm41RjRUckdlSV9RYXRCTmg?oc=5",
+      "publishedAt": "2026-11-23T01:46:29.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹, 안성시와 11년째 김장 나눔… 소외계층 900가구 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "fc9481b26399ae03",
+      "title": "LS그룹, 임직원·시민 300여 명과 김장 나눔 행사 개최",
+      "source": "비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rckRhU25LTHZWbENxWUFydWNia0t1emE4alhaZXdlZUtlbjZhRXBRN2JyQzdkXy1meF84NU41N3BRY1B4ZWlGTEhSeTNSREY3a0Rrc3owZHVlaWVTcHNmcXpBZXoxdDZ4ZnZRRmVlakg5dEF5WDdJd0hHYXQ?oc=5",
+      "publishedAt": "2026-11-23T01:36:58.000Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "stockId": "ls",
+      "stock": "LS",
+      "ticker": "006260",
+      "relatedStocks": [
+        {
+          "id": "ls",
+          "name": "LS",
+          "ticker": "006260"
+        }
+      ],
+      "summary": "LS그룹, 임직원·시민 300여 명과 김장 나눔 행사 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "f02e4bbfeebce410",
       "title": "LS그룹, 안성서 김장김치 7톤 담가 900가구 전달…11년째",
       "source": "매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oVEFJWXJaVzNJVEtGaGJHZ3RLbHZ6VnZrdTdMUHZQVUh1c1RpenEyeVNLNG1iWm5LNmtHa3ZKYzA3T3pOaHg2dmZaVi1xb1F1Q19WUW9vMkRNczBjXzNra2tB?oc=5",
       "publishedAt": "2026-11-23T01:34:09.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -321,7 +458,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydDJJS1czbW5hR2tyQ3l3RS16eEdiU0ZvR29Ja1pOWWl5SDZwMWxwNzZSTXBuUzlwNlFaYVJNc2gweW84TzBDZ25sR2k5MFNfSlRmVkVzek5mS1dGMjBCa9IBYEFVX3lxTE4ydDJJS1czbW5hR2tyQ3l3RS16eEdiU0ZvR29Ja1pOWWl5SDZwMWxwNzZSTXBuUzlwNlFaYVJNc2gweW84TzBDZ25sR2k5MFNfSlRmVkVzek5mS1dGMjBCaw?oc=5",
       "publishedAt": "2026-11-23T01:13:24.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -348,7 +485,7 @@
       "source": "에너지데일리",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90VDV4R21VY1ZnMnJEMlpESVIwYndTNVByUWlMTE9JSlFGSS1HSm1Sem5tVzVwOXpnc0NKb19ySzRiQ19qeUEwbTBWSTAwTWRfNUFSUDV0RzdFTi1BUEdBLWlSSEN5TV9jYU9uNVZJT3p0dw?oc=5",
       "publishedAt": "2026-11-23T01:02:23.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -375,7 +512,7 @@
       "source": "우먼타임스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuTlo5RGEwenU2ME5rdmJjQUJsSXJEWGF5Zm5SWHRfa0dtZUhVZW1LaWJBM3loTllueFhrZ3dDYjhnY3ZrMjFqMklkWGRNN201NHpMLXloUW9RbHVpLVR1TVltZm9xUm4wVVcxRjZVTEvSAXRBVV95cUxQZ2EzVy1IWDVVNEJBM3dMRlVzdVpuYnczaDktTE5lQTFpMk1NelZyRnFhd20yVWMyV1B6LV9mamxOWFJwZHlnTFRjUG9LRXBRcXdsLTdyVmZLVy0zbno2MHdVZ3lISHg0aHFoWFpwRXc2enhXcQ?oc=5",
       "publishedAt": "2026-11-23T00:56:39.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -402,7 +539,7 @@
       "source": "뉴스밸류",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qelN2dXdJUTMwZGVteTUzTUVBVnUxZUIxdndaTk1HX3MteXJfeVFlUkt5WTBIalVqVU9kTGJLeEZPQ0JaUHBoSlpkUlBVMEVmdFNLb3czZWJJTU9tdEZyaGRLdWNUYVB2Y1E?oc=5",
       "publishedAt": "2026-11-23T00:30:00.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
+      "collectedAt": "2026-11-25T05:09:45.906Z",
       "stockId": "ls",
       "stock": "LS",
       "ticker": "006260",
@@ -420,147 +557,6 @@
         "score": 0,
         "confidence": 0.35,
         "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7d5208d467a2b862",
-      "title": "전기학회 2027년도 차기회장에 구자균 LS일렉트릭 회장",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUWFDMzFScU45WFEwNGh6YlEtTnFRbU9qci1DSUFTWXdiTVBrWm5hT2dIdnF6MDhMREJIWm1uRWNfampqak00TFNqQk0tMDhPZGc4eHJxWUxFRmoxenFFa19HVGIzRlVkYmVYetIBcEFVX3lxTFBtMERqYXZSc1p0SGRPd0FwT1V1VGJaQ3k0bnhmWU41SXpOVnJHX1lvMjFTSkZXVHh4N2stMzBCTnNEbmZDMXhwcTY2ajFSZDVaR0JqN1o5WHR0dVF6bzlTY0E3NEpJbHpKU3lKaWVlYlo?oc=5",
-      "publishedAt": "2026-11-22T12:39:40.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "전기학회 2027년도 차기회장에 구자균 LS일렉트릭 회장 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2fbbba228ffbd037",
-      "title": "LS 전선·마린솔루션, 한국전력 해저케이블 사업 또 따냈다",
-      "source": "인포스탁데일리",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDSVh4UkV6YlNyYlFtY1N1Nm45ZzRiMVdwWlVEcDZwYTJTeTl4V1RRLVRIZWR0X1lvZnpmcGhzcEpZd1hEbTNvSHFtZmpfYlQ0WkxFRGMwbTk3Z2hSUlBXSVdKRHVCa0tKUkRlcVhtalRnc2dsSEE?oc=5",
-      "publishedAt": "2026-11-20T04:15:26.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS 전선·마린솔루션, 한국전력 해저케이블 사업 또 따냈다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "be0c04bf74353f17",
-      "title": "LS전선, 한국전력 '화원-안좌' 해저케이블 증설 사업 수주",
-      "source": "팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xbUs1ZUppZ0twVDFsTkN4WGp6VWlaVlRDNUtuOVExOXVmRGNzSkZTTzF2WVdXN1AxaE9EYWZjSG45cnlDb2lJeDBKSnFVOWZqNGxWbHBhSF80SW43WXlESlBWLXJXeG40?oc=5",
-      "publishedAt": "2026-11-20T01:55:35.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "LS전선, 한국전력 '화원-안좌' 해저케이블 증설 사업 수주 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.68,
-        "confidence": 0.82,
-        "positiveTerms": [
-          "수주",
-          "투자 확대"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "631f721175802912",
-      "title": "바닷속 전력길 14km 더 놓는다…LS전선·LS마린솔루션 협력",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOHhzaE1OSm1MYTNsUWw1R09Ma0VEOUt0RVRRM0c4RmZIeDd0Y1g1dFJwSko2TTh0emVwSkhIMWtUWHYtcGpIU3ViUTBZWDBmUjdxQkJB?oc=5",
-      "publishedAt": "2026-11-20T01:02:45.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "바닷속 전력길 14km 더 놓는다…LS전선·LS마린솔루션 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "352a9f1d9feb474f",
-      "title": "사상 최대 전력사업 실적에도 ‘자동화’는 뒷걸음…LS일렉트릭, AI 기술력 왜 매출로 못 잇나",
-      "source": "뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zLXVfSnhsS2FNQjAyQzVIVHdra1BUZDVyRTZFaDNsSzJsWjVCcDFNc2hOMDdIZkVsakZxM2x3anl4WW5hWVhXTjVPZzlkNDZ5aW1rSXZFZF9tOGhBOXNZNlAyRHVOWEVHTVVZQTJudw?oc=5",
-      "publishedAt": "2026-11-19T08:01:15.000Z",
-      "collectedAt": "2026-11-24T18:28:59.770Z",
-      "stockId": "ls",
-      "stock": "LS",
-      "ticker": "006260",
-      "relatedStocks": [
-        {
-          "id": "ls",
-          "name": "LS",
-          "ticker": "006260"
-        }
-      ],
-      "summary": "사상 최대 전력사업 실적에도 ‘자동화’는 뒷걸음…LS일렉트릭, AI 기술력 왜 매출로 못 잇나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.75,
-        "confidence": 0.86,
-        "positiveTerms": [
-          "매출 성장",
-          "성과"
-        ],
         "negativeTerms": []
       }
     }
