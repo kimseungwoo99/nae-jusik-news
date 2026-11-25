@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:09:45.906Z",
+  "generatedAt": "2026-11-25T17:42:48.300Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,263 @@
     "name": "한화에어로스페이스",
     "ticker": "012450"
   },
-  "dailyBrief": "오늘은 산업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 산업 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "한화에어로 가동 중단 여파…방산 협력사 일감 줄고 주변 상권 암울",
-    "한화에어로스페이스 ’수룡’ 첫 수출권 확보…국산화 90%·협력사 동반 진출 By 알파경제…",
-    "한화에어로, 자주도하장비 ‘수룡’ 수출권 확보… 유럽·중동 등 공략"
+    "한화에어로스페이스, 브라질 방산기업과 현지 사업 협력",
+    "한화에어로스페이스, ‘9사단 백마부대’ 자매결연 50주년…장병 격려·위문금 전달",
+    "한화에어로스페이스, 브라질 기업과 방산 협력…“남미 진출·확장 교두보 삼을 것”"
   ],
   "articles": [
     {
-      "id": "628675a20d3bd402",
+      "id": "b31cd1d9ed2ffa60",
+      "title": "한화에어로스페이스, 브라질 방산기업과 현지 사업 협력",
+      "source": "BBS 불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84bkdqVjZ0dGM3eXBOVEFkN1NCY0VxT3QwaVBra3pzUndWUXNjNkhwQ0FjS083ZVp0bWFuT25IUVRvM3d0YkM3clM5WVNiZ3Q4X1VONzFoTWVIZHNPQWhsN2JabmxJcEg1Ni1n?oc=5",
+      "publishedAt": "2026-11-25T09:51:36.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 브라질 방산기업과 현지 사업 협력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "87a684db90cd425f",
+      "title": "한화에어로스페이스, ‘9사단 백마부대’ 자매결연 50주년…장병 격려·위문금 전달",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cnVMc3pEZ3NEemIwcGU2cExUZ0JIaTNsT2RXUlc2T0RTc182RnUwdDFGS0F4ZFhycGwtdHpDcXcyalZzMkdrZlJzRE9EcHdzVFNPMUYwTVFTQlhnSWdUX2JGRHV0bXJQQmZuLWd6WmhvTlhPWXfSAWZBVV95cUxPdXo0ZGIyZ3FGMmpoQ2RwNnM0bW95ZENwb1NKenI1NVhZb3JMNTRaeDNfM2M4d2lCcG9waEt5aDR5S0YtVHlaMmEtTDFtLUtENmFCLXpORlZtRTV1c0RoLVV3cWxXSVE?oc=5",
+      "publishedAt": "2026-11-25T09:50:01.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, ‘9사단 백마부대’ 자매결연 50주년…장병 격려·위문금 전달 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c661b99562edb828",
+      "title": "한화에어로스페이스, 브라질 기업과 방산 협력…“남미 진출·확장 교두보 삼을 것”",
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVYwZUwyTHFRNmhPVU1oVGhKRmRmWFdrbDdybHVrVmVVNUxqMWhLRXU1TkNLa3dRVTN4SDZocmtrMWxwQXhxbzJpNWZoMDRjUVc4aVRDSlBSVFJsazVmbTJRSjJ2dXRJMFF3S3pJbU5NUUQ2MnphYk0xWVdzWTUweTMzV2k5cGlOM214YUZB0gFmQVVfeXFMTzR5VTlaQ0NPYVF6QkpCNDRxVWZEOHExQ2YxWUJXeWV0OWM5dHpZal9GM0ViRDhrVGFQVlpvVUlxOVR1V1FWdk9fMGE5MEtyajRONTFkc3pEcmVkY2lYY29TLThtNG93?oc=5",
+      "publishedAt": "2026-11-25T09:33:26.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 브라질 기업과 방산 협력…“남미 진출·확장 교두보 삼을 것” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "077fd7f278b57670",
+      "title": "한화에어로, 브라질 방산 기업과 MOU 체결",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZZm96RmFrTVpoaWtoQm1hSkZ5S1BUbkhOc0tObno1eXR2bWRkcmM1QWFFcWMza2ZKOXppbzBvdkQxXzktV2VVNHFzNUEtOUJqdUhHUU84N1BxSVNzYnA2dzJnRDRsQQ?oc=5",
+      "publishedAt": "2026-11-25T08:26:40.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 브라질 방산 기업과 MOU 체결 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "148e0f1d11579958",
+      "title": "한화에어로스페이스, 브라질서 지상방산 협력 MOU···\"남미 거점 확보\"",
+      "source": "팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOVFHMV9JSnd4eUJGWFcxVVF0Q2JJSHphN3BmdWJhamxsbVBac3czM25CVy02SEhDRVZDeEdLZnBRN290dmsxeGktNlZGbmgySVl1WC1jVzNUTGxKaU0yaUFTR2YyQXBw?oc=5",
+      "publishedAt": "2026-11-25T08:07:41.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 브라질서 지상방산 협력 MOU···\"남미 거점 확보\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "807217bf27bc0a42",
+      "title": "한화에어로, 칠레 이어 브라질서 방산협력…남미 교두보 확대",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5idFh2djJCcTJENTg4QTNWeHhaYmdORWxHdDQtdHJaRUthMTdrY3FFNS1CRHlMMmVVRDJvSGNoS1VDSGNkeGJwYTJQZ0d4bFVJYm1DemJEYXhuWWVYaDJVaVEzZzg?oc=5",
+      "publishedAt": "2026-11-25T07:22:52.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 칠레 이어 브라질서 방산협력…남미 교두보 확대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d131767a34fc2b74",
+      "title": "한화에어로스페이스, 브라질 방산기업과 맞손…남미 시장 공략",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2NVhVQ3BZSnpySXR1UzlFdDNvVU5aaC03T25NRnVIX1lnUEVKSXQtV3RMRGxZUWdlVng1b1FsU19vbUtrd212YWJ6MUlCVlczLUVuaEd3Z3BUbUtk?oc=5",
+      "publishedAt": "2026-11-25T07:20:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 브라질 방산기업과 맞손…남미 시장 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "9622f753fe13ee64",
+      "title": "한화에어로, 브라질 방산기업과 현지 사업 발굴 '맞손'",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NMzNDWkhyYWdtWFVSeFlkZGJvWks4Njd0X0tUd090bTM3YWFsX3Zrd1d6TnlTYTlnNVI5WGNrRHFjVWJBWlBUMkJyVG9Idw?oc=5",
+      "publishedAt": "2026-11-25T06:49:21.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 브라질 방산기업과 현지 사업 발굴 '맞손' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "1c3b0a2cde14790c",
+      "title": "한화에어로, 브라질 방산시장 공략…현지 기업과 맞손",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tYkc5THcxRldFTHptT2RpbUxBeTdMWnVfemlhdXNEN1hPdUVjc0E2Y1QxeVczTWkwSVNsRUI5dHRWYnhpTWk3S0J3UGJlc3VCbGF6R0JB?oc=5",
+      "publishedAt": "2026-11-25T05:17:47.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로, 브라질 방산시장 공략…현지 기업과 맞손 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b11400b3e4554bfd",
       "title": "한화에어로 가동 중단 여파…방산 협력사 일감 줄고 주변 상권 암울",
       "source": "대전일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcC1SdzlwNHAxcG5aY0ZfQVFSQ3BiS3pMbmxJb2QzaW9lQzlWbURmZE1DODI4MkZmdTVWeWZPWnRFVllYRXM2VlhvMzJOalJ0dms3UzVvWjdHR2ZjMkJuRV9CLVJsSFNZa2JnMGNzUdIBc0FVX3lxTE9kZ2dla291STFUcWZrRDNHa3BGUmZMNUtMekFwNTdJcEZ4ZFdjOWFhT0Izb29BYjhfTnZoSS1kaVJwVjhUV3U5MXJTNzNvb1Jad0FPSUxMcFRfRlZocFFMSDhERjFmZVpaaDdzR0lqOXkxeVE?oc=5",
-      "publishedAt": "2026-11-25T03:53:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZ2dla291STFUcWZrRDNHa3BGUmZMNUtMekFwNTdJcEZ4ZFdjOWFhT0Izb29BYjhfTnZoSS1kaVJwVjhUV3U5MXJTNzNvb1Jad0FPSUxMcFRfRlZocFFMSDhERjFmZVpaaDdzR0lqOXkxeVHSAXNBVV95cUxPZGdnZWtvdUkxVHFma0QzR2twRlJmTDVLTHpBcDU3SXBGeGRXYzlhYU9CM29vQWI4X052aEktZGlScFY4VFd1OTFyUzczb29SWndBT0lMTHBUX0ZWaHBRTEg4REYxZmVaWmg3c0dJajl5MXlR?oc=5",
+      "publishedAt": "2026-11-25T03:57:37.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -44,12 +287,12 @@
       }
     },
     {
-      "id": "28ee6b8fd3599a2e",
-      "title": "한화에어로스페이스 ’수룡’ 첫 수출권 확보…국산화 90%·협력사 동반 진출 By 알파경제 alphabiz",
+      "id": "cbd395b5c00dc9d0",
+      "title": "[단독] 한화에어로스페이스, 브라질 방산시장 출사표…현지 기업과 MOU By The Guru",
       "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94bnNLcXloV2lnOW9HR0JEbmVVcS1lOTllZVRsYTY3ME1KWE83bVpiUVExdlRCSWNGdUxiNlBST0RFYWZxa0dSby0tNEp6LVV2Mk5PMTJ0cWhJNFc5d0hFdmZSX1BmRXEwb2k3M083blc?oc=5",
-      "publishedAt": "2026-11-25T02:58:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlR2o0MHhqQTlzX1o0SmRYcnF0eTJzWEp0NWFDQUduUkhEUGlOaEFoQV9RRTNETU1qQVpXaWNGSUhacjNYaWZ3Z0kzdnYxT2hzaFJTVThaV1YtcjFkdnNkNE50TXltZXFucFBTT2tZNVQ?oc=5",
+      "publishedAt": "2026-11-24T23:59:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -60,170 +303,8 @@
           "ticker": "012450"
         }
       ],
-      "summary": "한화에어로스페이스 ’수룡’ 첫 수출권 확보…국산화 90%·협력사 동반 진출 By 알파경제 alphabiz 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "[단독] 한화에어로스페이스, 브라질 방산시장 출사표…현지 기업과 MOU By The Guru 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "80807386acbd587e",
-      "title": "한화에어로, 자주도하장비 ‘수룡’ 수출권 확보… 유럽·중동 등 공략",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzRHS3g3eVZxbld3Q24yZXVMZXJxcEVIVUdlUkFySGhKa3J4UXJRNVRiY3Z3bmRxcVYwSFZRRlZidmhfb1hvZ0l1czl2RXhDekpPdUs5dmw3bEpQUThqaTF2cDExOVR4amVNc1pUNW5pX3lfMVN1RzJ0SnNNV3U0VkdiWnTSAZgBQVVfeXFMTU43bnc4bk5aRmxORExINGJoaG1vQVgyTks0YkxEQW85cFpnTmpWM2VBaFBPdzg0RTJKd0hkZ2xzOHBkR2NMTHQzNWNIcHhqZjBuWWlFbkU0RTZjcU4tWU5lNUg3SmpudVp3MFJQWG1jck5vNzA1OTRlTkxZbG9ZZWRyOW5qNjVUb2xvc1g5OEV4VWh1WjVyckU?oc=5",
-      "publishedAt": "2026-11-25T00:41:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로, 자주도하장비 ‘수룡’ 수출권 확보… 유럽·중동 등 공략 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "8865d67b216130c3",
-      "title": "한화에어로, '수룡' 수출권 확보…\"군 전력화 보증서 성과\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjSjZkMzMxa1gxbjZBN09ESG9qSWpjOGVQYVdWNGxJSGhUd05DTC1ObF9NdXNEcmE0SFc5aUhjZmdnMlkydE1QZUdfMVA4V3B4b2ZxcFZvTkNrYjdUY2N0VdIBYEFVX3lxTFBjSjZkMzMxa1gxbjZBN09ESG9qSWpjOGVQYVdWNGxJSGhUd05DTC1ObF9NdXNEcmE0SFc5aUhjZmdnMlkydE1QZUdfMVA4V3B4b2ZxcFZvTkNrYjdUY2N0VQ?oc=5",
-      "publishedAt": "2026-11-25T00:16:23.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로, '수룡' 수출권 확보…\"군 전력화 보증서 성과\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "c3a9be4b7b8206ae",
-      "title": "[K-방산의 진화] 무기 넘어 방산 생태계 수출하는 한화에어로",
-      "source": "아시아타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQMVduY3pLME1SRk0zU1pVXzZTTmxHcFM3anphR1VreGdYQzc0blZYcGxiMUs0aE9STWlkRXo0d0dNczdLNl9TRENOYldlOExzTDdQdV9CdFlaaTc0dVE?oc=5",
-      "publishedAt": "2026-11-25T00:16:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[K-방산의 진화] 무기 넘어 방산 생태계 수출하는 한화에어로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0e90cb596816d3a7",
-      "title": "[미르의 글로벌 레이더]한화에어로, 브라질 방산시장 새 교두보…현지 업체와 협력 MOU",
-      "source": "미디어펜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TLTFCVkR1VGdQbUxGUEtOUlhwaTJnXzRId0F2b3JFSjZ1SC0zN3R2RGVqQndyTktsSTJYazRBZzBBMGVDWGlzZ3BSWEVmdkUzTUhOV3pHa1LSAVhBVV95cUxPUy0xQlZEdVRnUG1MRlBLTlJYcGkyZ180SHdBdm9yRUo2dUgtMzd0dkRlakJ3ck5LbEkyWGs0QWcwQTBlQ1hpc2dwUlhFZnZFM01ITld6R2tS?oc=5",
-      "publishedAt": "2026-11-24T23:50:08.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[미르의 글로벌 레이더]한화에어로, 브라질 방산시장 새 교두보…현지 업체와 협력 MOU 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "2991bc377b89ce09",
-      "title": "[단독] 한화에어로스페이스, 브라질 방산시장 출사표…현지 기업과 MOU",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3NlA0UTFnM1dGejFQMWdSUDluWFNLcUJ5b0VVRVp6NjV1SzEyd1dvVXAxczRUampTMVJidm5jak1lcEZHdzJzd2U1dnZuQVByWGtudmMzUjhmZXExQVdpekJjaw?oc=5",
-      "publishedAt": "2026-11-24T23:27:08.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[단독] 한화에어로스페이스, 브라질 방산시장 출사표…현지 기업과 MOU 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "eb779dd4aa9cf085",
-      "title": "한화에어로는 왜 로봇개 투자 계획을 접었을까",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoamxQVVlnandyQXprQ0pQLThtWkxIRDFMMV9MeXE0S1dPN0FUZENic0t1MTZ0QmZIMW1KclB2cXdIQndWWjZJeFE0YkxFY0FsQmg2LVcyb2NseDlPR3VMUXFpa3lucmZUbW5TQQ?oc=5",
-      "publishedAt": "2026-11-24T22:05:02.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로는 왜 로봇개 투자 계획을 접었을까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -238,7 +319,7 @@
       "source": "https://www.moneystorm.kr/",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMDFoTDBqUWdrVzFBY2pCVy16TjdiLXp2dUxvMG1nSGRfVXcxWkJFV1lfdG5XSldTTXRDRmpBaElmaXEzTXBMUmY3SXVPQkdZMnI4d0xSeUI4Wkxfc0JZb01MMllfcmdiN0E?oc=5",
       "publishedAt": "2026-11-24T13:55:12.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -260,39 +341,12 @@
       }
     },
     {
-      "id": "f86e50addf72fcaa",
-      "title": "한화에어로, 창원에 180MW급 국방 AI 데이터센터 구축",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BYk01YkZ5eGw4TkVRX0FoRGljRWdfV3l5U3VCN1dKamtCTTkxUXhKMDV5SnlGRzRacFZCa2JzRGhBellHV1NmcEhJU3NtZjV3Y1A0a2cyZjgtSlRMd25mdTBoQy1WUQ?oc=5",
-      "publishedAt": "2026-11-24T09:44:17.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로, 창원에 180MW급 국방 AI 데이터센터 구축 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "26a14736358792cc",
       "title": "한화에어로스페이스, 라이온로보틱스 투자 철회",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05R1NqZDRadzhRWktObm9heDhvR2dxZG0wQWFxTnJMWmExZmtpTkRVM2NrTnZucXdCbC1neGJUdGtrUHEyc0c3T3ByTGNmcWg1aDN4MHJSYkVyZGRnZkc4S1FHUHlIZw?oc=5",
       "publishedAt": "2026-11-24T09:36:43.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -314,12 +368,12 @@
       }
     },
     {
-      "id": "a56a7311e7f5414f",
-      "title": "한화에어로, 국방 AI 데이터센터 구축… 2028년 가동",
-      "source": "샌드타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycktzdVRGZGxQbVF2NEw4SkNlMWJ1MmxGQi1LTHowTUluWGlMSDZ2dV9Sejh5OC16bUpFbHpnYjlubE5NamdwZTJGVFFMZUU2Q3FNbW5HWGNGVm0xM1FKV3ZEQ0YwUlRGRHpSNA?oc=5",
-      "publishedAt": "2026-11-24T07:35:24.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "id": "11143b67a7bbac35",
+      "title": "한화, 10조 규모 국방 AI 데이터센터 짓는다… 2028년 첫 가동",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVdvWmNsSmlxR0k3aldBMGxiOHctOC1yYjFPYXZzOE9NbmI4SDA5Yng4cmp4MzQwQ1pYV2xRZEpWWkhMR0F5bFNfZ1ZNSHByWk5Jdk1wTUdlb1E3SnktR0hSZlkwUEZuOF9JaHFDRHJvZnFGSEJHQ0J3Ykl2Q0RuOFJNNG7SAZgBQVVfeXFMTUxFNXFYWFFhZ3VGTjhhVFozSTNtVHBHZjNKMEd0Mm81QXpWcjZFbXIzZmNXNjdIX3FkS2xRaGg5T0o4VWd2N1Z4TVJrOFM0X2otZmxFM0pDd0tWVHMxc3hqTGRscnVJWDJkQWZLZzU4RENOeno3clp6d0Q5QkJJNnBVOUR5WGdaTUI3RVctblFUWS1hT2VBVXM?oc=5",
+      "publishedAt": "2026-11-24T07:18:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -330,91 +384,8 @@
           "ticker": "012450"
         }
       ],
-      "summary": "한화에어로, 국방 AI 데이터센터 구축… 2028년 가동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "한화, 10조 규모 국방 AI 데이터센터 짓는다… 2028년 첫 가동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b159bd8f4d5a052a",
-      "title": "한화에어로, 창원에 국방 AI 데이터센터 구축…1단계 10조원 투입",
-      "source": "전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRVVCRURiTWc4d3RmeXY4NmhCYjB2dC1xZ1dlREI1LWgxMHZpaTlWdG1hOEpWRnJaTHFaR1diMUwxLXJObTZTaHV3NEdnQQ?oc=5",
-      "publishedAt": "2026-11-24T07:33:29.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로, 창원에 국방 AI 데이터센터 구축…1단계 10조원 투입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "1aae624b9aff6328",
-      "title": "[리포트 브리핑]한화에어로스페이스, '다가오는 중동 수주' 목표가 1,150,000원 - 미래에셋증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VEJUMDhDZ3d6MWhsS3lYYjNUWUo2NTY4Q2tjMDVRN21wdlEwSXBMeWo3cmZJY2JEdnZFSmdwY0tzdlhENHl5clZfRE9XS1duV2NCOUlVN3pfZk5j?oc=5",
-      "publishedAt": "2026-11-24T07:30:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[리포트 브리핑]한화에어로스페이스, '다가오는 중동 수주' 목표가 1,150,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.38,
-        "confidence": 0.67,
-        "positiveTerms": [
-          "수주"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "39f1bc88976e7984",
-      "title": "한화에어로 '사족보행 로봇' 라이온로보틱스 투자 않기로 |",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42bXJWaGFjYVJzbU5BVnVESEVwMjcwaVI1N2E5LXcxQW9qMUVXV0RHcTRUN2ljMUpaN2dVc2M1QTJ0ZTJGM3NzTFJZelVVNTlneTE2dEk4bF9oSktvZXg4OFIzS3FCYlBGczlxY2dtcC1UeGJ5?oc=5",
-      "publishedAt": "2026-11-24T07:01:54.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "한화에어로 '사족보행 로봇' 라이온로보틱스 투자 않기로 | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -429,7 +400,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1VfYnFQVUlRSGZvaG1CWG5MS1hRLXFlSkJET2hJTkxzU3FtV3hjakhXeHNUWHJDUFk1WHJUaFRieUlhTWlJWERiVnh1T3hKS3l6SHVTM2g1YVVQa05Wc0p4cXJHcXNYUTBiMzJUZkZSUG5NdE9HQ2ZuTXNPSjZGTWpwOEJKeVBD?oc=5",
       "publishedAt": "2026-11-24T06:18:03.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -453,39 +424,12 @@
       }
     },
     {
-      "id": "2c6081bf8d8bb4ce",
-      "title": "[특징주] 우주항공·방산 거점 육성에 1.5조 투입…한화에어로스페이스 8%↑",
-      "source": "뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDeDFrdnVMOWhyeHVzblpwQV9Yc0h1d3BxZWh1eTZsNTRJS25zOUdhbVlEWTZ6UXZSODBFa1QzYmdNLWFFMmxTNHZDUGtIMi00OGlyaXpaaFBrVGtqN2dCUG5qdGZweXpSTGY0bnpoNNIBc0FVX3lxTE82Z2lwZUk3bkpsNFVKTktTTUdHV2dtRE80S0Nrd2ZBQjV1bVk5c29oVHdyMXktY2paanlGLVlzajVLLVQxVkRKOGw0cGVKUEYxRTZxXzlRdWoxZVE0aG04VVV3akh3UTIwSGMtem5ZWXJVZ00?oc=5",
-      "publishedAt": "2026-11-24T04:42:12.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "hanwhaaero",
-      "stock": "한화에어로스페이스",
-      "ticker": "012450",
-      "relatedStocks": [
-        {
-          "id": "hanwhaaero",
-          "name": "한화에어로스페이스",
-          "ticker": "012450"
-        }
-      ],
-      "summary": "[특징주] 우주항공·방산 거점 육성에 1.5조 투입…한화에어로스페이스 8%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "87e6f2eb1d457c7a",
       "title": "한화에어로스페이스, 겨울철 구호품 전달하고 투자 확대: 012450, 최근 상승세 이어갈까?",
       "source": "Traders Union",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2tmcy1EeC1zSGhDUDRRbmptSkZuQ2RnUExQNUQtUGpLRS02Y0Voc0kxT0RaUUlKZERZTHBtbEdOZWoycU02Y19VNlFUTFA1TEJSM1pualJEbHVvYW5McWV2Y21GcThqWld4Q2VTdU5JRjZteXdKM21GTm9objJEZF94d2tCZk11TVdaVnVOZWpaTFZWWk84T3Vn?oc=5",
       "publishedAt": "2026-11-24T04:34:20.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -509,12 +453,66 @@
       }
     },
     {
+      "id": "57ec7bf24e3de352",
+      "title": "한화에어로스페이스, 경남 통영·거제 수해 주민 지원",
+      "source": "www.gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84TFZ5Y0dMVjk3cnVEbkxVdXdQZGoxRDFyN3hUUkgyb3QxbXRtak16a0dDUjRzNlp2VnE5ZlA5VHJhR1phQlZiZGhzb1ozUGgzSTNHaEphQThsMk9aV2p3NnY5MDlrcmh4NmhPNEJ3?oc=5",
+      "publishedAt": "2026-11-23T04:04:14.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스, 경남 통영·거제 수해 주민 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6c1c00594fbf45ed",
+      "title": "한화에어로스페이스 통영∙ 거제 수해지역 일상 회복 지원",
+      "source": "경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LWWtiXzJsTTgyZlRaYndfRHBVc3BVZGk5d1JiRUdSNnEzNnBmakZaaS1ULWhabWpHbUJXMVE0T19HZ3RoWFJiLTZtMXBFMEZlOEhtZlJzX0ozanZlWldlR2JwYUY5TGQwRWc?oc=5",
+      "publishedAt": "2026-11-23T01:46:19.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "hanwhaaero",
+      "stock": "한화에어로스페이스",
+      "ticker": "012450",
+      "relatedStocks": [
+        {
+          "id": "hanwhaaero",
+          "name": "한화에어로스페이스",
+          "ticker": "012450"
+        }
+      ],
+      "summary": "한화에어로스페이스 통영∙ 거제 수해지역 일상 회복 지원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "eee5524b294261e2",
       "title": "[LIG D&A 제재의 비용] 경쟁사 제재에도 웃지 못하는 한화, 천궁-II 3조원대 수출 묶여",
       "source": "딜사이트",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MMzl6Z3lseUYxMVY0UnJpd2RWd1BrTmdWdFVZTnVIaWx6V2F5QmlFZlcwWFVQQkFDMmllTjZSQVhSQzRUNTE4ZmFQMVI1eFk?oc=5",
-      "publishedAt": "2026-11-24T01:20:01.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "publishedAt": "2026-11-23T01:00:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -538,12 +536,12 @@
       }
     },
     {
-      "id": "536d103802fca94c",
-      "title": "1000억 이상 방산 수출 싹쓸이⋯한화에어로, 글로벌 엔진 점화",
-      "source": "이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEVl9ERktIdHk2Uy1Ia3dZNzNxcE1uTC1mMHpPWllRTkFaeHgtQkVKZmpwLTQtSlZDbnllaEE4V29hMk5iTjd0Q05uU3lyMDJjR2pudg?oc=5",
-      "publishedAt": "2026-11-23T08:07:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "id": "8bfc7441f5d781b2",
+      "title": "‘한화에어로스페이스, 노조 차별’ 판결에 “원상회복” 촉구",
+      "source": "매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxVkNGb3FnN1VQVEtjOGlIRmEzQzR6bUxJRFBZQlZzZ1hwRTV4Y0ZZTGJwN0w0SHlvaTRqRkI5VVBvRlU1UFlyVl9lRGhUaWZiMjhscW1LckFJaEgzeEtudjFWSU1SVUJ6RmdUWV9oWWE?oc=5",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "hanwhaaero",
       "stock": "한화에어로스페이스",
       "ticker": "012450",
@@ -554,14 +552,16 @@
           "ticker": "012450"
         }
       ],
-      "summary": "1000억 이상 방산 수출 싹쓸이⋯한화에어로, 글로벌 엔진 점화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
+      "summary": "‘한화에어로스페이스, 노조 차별’ 판결에 “원상회복” 촉구 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
+        "label": "negative",
+        "score": -0.4,
+        "confidence": 0.68,
         "positiveTerms": [],
-        "negativeTerms": []
+        "negativeTerms": [
+          "고용 문제"
+        ]
       }
     }
   ]

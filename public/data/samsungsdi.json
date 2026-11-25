@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:09:45.906Z",
+  "generatedAt": "2026-11-25T17:42:48.300Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,160 @@
     "name": "삼성SDI",
     "ticker": "006400"
   },
-  "dailyBrief": "오늘은 기술 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성SDI \"배터리 슈퍼사이클 선점한다\"…품질·미래기술 확보 주역 중용",
-    "삼성SDI, 2027년 임원인사 11명…부사장 4명 승진",
-    "전고체 배터리 특허 출원 사상 최고치…삼성SDI가 韓 1위 견인"
+    "삼성SDI 울산사업장, 녹색경영 우수기업 대상 수상",
+    "재도약 준비하는 LG엔솔·삼성SDI···인사 키워드는 ‘품질·제조 경쟁력’",
+    "[영상] 전고체 특허 '한·일 역전'…삼성SDI,토요타 2배 넘게 앞질렀다"
   ],
   "articles": [
+    {
+      "id": "05934067a46a760b",
+      "title": "삼성SDI 울산사업장, 녹색경영 우수기업 대상 수상",
+      "source": "디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZXRLZ2Z6dGNhM0J2bXI1b1FrUEt0ZzdoUXFueklNTDRSV0ZwWnpnLVRONnZYMVZ5X3ltZU9sRmc5cFBIS3BxSkZZemYxT1drWUtyV3J3WEJKNFNROTRqR2NlVHVRUQ?oc=5",
+      "publishedAt": "2026-11-25T08:26:49.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI 울산사업장, 녹색경영 우수기업 대상 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "ce1af9d18000731f",
+      "title": "재도약 준비하는 LG엔솔·삼성SDI···인사 키워드는 ‘품질·제조 경쟁력’",
+      "source": "시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWjMxa1VBV0M2b0pkbWIyVnd1cWEyd1RVNkpmYm1WaTdCY25jclRiQ1llejN5WFU2bm9Pd2c2N0pSRzNoUDA4SmhRR2xRWUlaUG9zTE02VWIybEZjQmJIMXE1dWE1ZzZyQXlWd1l2NVY1aS1SM2fSAXZBVV95cUxOU1ozMWtVQVdDNm9KZG1iMlZ3dXFhMndUVTZKZmJtVmk3QmNuY3JUYkNZZXozeVhVNm5vT3dnNjdKUkczaFAwOEpoUUdsUVlJWlBvc0xNNlViMmxGY0JiSDFxNXVhNWc2ckF5VndZdjVWNWktUjNn?oc=5",
+      "publishedAt": "2026-11-25T07:20:25.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
+      "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "재도약 준비하는 LG엔솔·삼성SDI···인사 키워드는 ‘품질·제조 경쟁력’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "202a1d7a80d9a4b2",
+      "title": "[영상] 전고체 특허 '한·일 역전'…삼성SDI,토요타 2배 넘게 앞질렀다",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44OFhuNC1XeW9KZGhKYTJHQ2Uxem4waWl6UjRPU2FScWlYckNBQi1aRkoxMm9yZ3NKZzBTcXY0N2ZRSTVjRXNrdEJXcVphRkpjR2RpdDNfNmtibmtpZWpHbFA0Yw?oc=5",
+      "publishedAt": "2026-11-25T07:20:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "[영상] 전고체 특허 '한·일 역전'…삼성SDI,토요타 2배 넘게 앞질렀다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "387c3d56e9f6e2cd",
+      "title": "삼성SDI, 배터리 슈퍼사이클 이끌 ‘현장형 리더’ 전면에",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FcDgyNVVpYjRwbTdWR0QzYjlfLWVRMjFkcExhSkkzMGNnSHBuUEJfU3c5bmMtNmVlaDlDcDBmSGxVb003aG5DeWRhbEk2MW02eWJnaWNFVDBickY1b282dVlCS1A3Sm9tb0lvZ0JR?oc=5",
+      "publishedAt": "2026-11-24T20:40:00.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 배터리 슈퍼사이클 이끌 ‘현장형 리더’ 전면에 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "605366deab8b39d3",
+      "title": "삼성SDI, 정기 임원인사 단행… 배터리 초호황기 대비 품질·제조 전문가 발탁",
+      "source": "대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12VHNoclR6SVRMTmhsbk1OYXc5RXFzbmNucVN2NzVMcnY2VTRmU1hSZ1QxYzRKVTd4aktERm1LclRVTGNxMFRfT2VYbGNVTFltdmxVU1FQSnFSYUZiek5ibUFmemNrOUhCZndEYWIydVo4a2s?oc=5",
+      "publishedAt": "2026-11-24T04:27:03.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 정기 임원인사 단행… 배터리 초호황기 대비 품질·제조 전문가 발탁 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "49acfd605e499b60",
       "title": "삼성SDI \"배터리 슈퍼사이클 선점한다\"…품질·미래기술 확보 주역 중용",
       "source": "위키리크스한국",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VThjY0dISTBaNllIdEpOLUh2UGNQRlY2clF0dGlUcEFOcm5Gbk9QTEhSelRrVUFXcWcxb21lWEhzcXJXVFFSTDlHekpBOGltZXFxZWVaUlhwNTVLb3NqSGxGQm9Ba3dXWXV1eTRISFo?oc=5",
       "publishedAt": "2026-11-24T04:25:47.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -42,12 +182,39 @@
       }
     },
     {
+      "id": "9564c2460355abcb",
+      "title": "삼성SDI, 부사장 4명 등 11명 승진…\"경쟁력 높인 인물 중용\" |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LT1lRQmFkWnhFblkxY1lfRFk5MF9tWHdSM0E5WmNvVmpaSFRaaWlrWDRCTFowcDVhQVdCNVdLai1hOXRXaWQwdUpqU0w3NGYtM3I2WHA1VnNXeUh4ZE81LVNIZUxxckphNlZEMGhEZlpmYklY?oc=5",
+      "publishedAt": "2026-11-24T02:54:53.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "삼성SDI, 부사장 4명 등 11명 승진…\"경쟁력 높인 인물 중용\" | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "9d182cf69a1d59a0",
       "title": "삼성SDI, 2027년 임원인사 11명…부사장 4명 승진",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOU0ZIaldNdkJVX2Y4TWVDVDdXdTVaT0diU0t2MHZ4NW10bkNuM1VHemdwRWZIWEtmcTEteVJTaEtYYkZzOWY5d3FCN1V6d0hwZVNnMm00aHVncl9zWHlJVFdoNFdsZw?oc=5",
       "publishedAt": "2026-11-24T02:30:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -74,7 +241,7 @@
       "source": "더구루",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdGMwMzh4Z0ZnRHlacWc3ZkxnX0JLZ0NUZ1VzVm5NXzZmaUxuVTFKUlRXaHhIYkQtbGRucDhhbE9YUmJhOG94QUNOdGk2NWRzVnU4NHlPejdLM3dtenlxNHNPMA?oc=5",
       "publishedAt": "2026-11-24T02:21:08.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -96,39 +263,12 @@
       }
     },
     {
-      "id": "d1eee32d5defc051",
-      "title": "삼성 SDI·디스플레이·전기, 임원 42명 승진…기술 경쟁력 인재 중용",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTUyVm5Rbm9haEtKWk9DZVc5V1gtTHpucENBTmwydUZWQ0F4UHJCX2xZU3BVREg0OFVEenowWDdaT19WQnNZcmJyZUFXeTE0TkJzQXdRQkwzUG9MWnpwZExFQnd6TEdHeFRkNGJjZDVHOUVucTRpYnBUQkRZSURWRDR3YVo3dw?oc=5",
-      "publishedAt": "2026-11-24T02:20:06.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성 SDI·디스플레이·전기, 임원 42명 승진…기술 경쟁력 인재 중용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1222c5322661e568",
       "title": "삼성SDI, 부사장 4명 승진…품질·미래 기술 경쟁력 강화",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndm44ZjQ2NFBaUzRnUXprQ1NiaEN2V2RzWlRVRXBtNjMzNkV2ZUcwbEFjQUNhaU4wQU9RUkxOcVJsTWJpbzVnUFlJc0Y4NEl6aC1sY2wwcnpHZU5r?oc=5",
       "publishedAt": "2026-11-24T01:44:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -155,7 +295,7 @@
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mNnJBMUxHVERoTzNjdmhNZERBekNZZWJkVkdsSENMMmw3VTAtUFFTSWdud1g5RDNVRGhLcFVxVHZFcGgzb3B2cFBJVW5wY3FUSlpPWVc2Mzc1X3ZWdVJGUGgxNTM?oc=5",
       "publishedAt": "2026-11-24T01:37:17.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -177,12 +317,12 @@
       }
     },
     {
-      "id": "23e76bd5b3569f4e",
-      "title": "삼성SDI, 부사장 4명 등 11명 승진…\"경쟁력 높인 인물 중용\"",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LdzF2MjRLdmxwV2haWUJRYTdrSGJuNkJfUThVRmFZdnpUM2loVDNXMWRSWU1wc3ZuNGNxNDlYQUpjX3NQVmhPb2JET0FlcjgzWVFDcVZoM1RMNENVdi1hdjNkRlBPcEc1eWN0d250NkY?oc=5",
-      "publishedAt": "2026-11-24T01:18:27.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "id": "7cfd8949ae608fc1",
+      "title": "삼성SDI, 배터리 제조 체질 개선에 방점···생산·품질 인재 중용",
+      "source": "뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDcnU1ZEpHRVk0ZVlna040MXdUMjVnY3BBR3pGMW1pQUEwWTMwY0trRndvQ1V0RXY5R0s1dU45TVVPM05UTlZZTWNXaFpIbFRhQkh4c09kWm5meGFwSGp2SVBTNWoweHRzYmc?oc=5",
+      "publishedAt": "2026-11-24T01:33:59.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -193,8 +333,8 @@
           "ticker": "006400"
         }
       ],
-      "summary": "삼성SDI, 부사장 4명 등 11명 승진…\"경쟁력 높인 인물 중용\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "삼성SDI, 배터리 제조 체질 개선에 방점···생산·품질 인재 중용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -209,7 +349,7 @@
       "source": "연합뉴스 한민족센터",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1b2w0alhINE93bGFtMjJvWk1WVVpjX3pGeUdDa0U5VTVvc1Zoa0J2OVhjMUh2azRYem1BT0xydWxMbno5czRlMGRoTENEbklZalJuUmJrdVRTc2phWEtOd1AwZjJHdGV3cGhMaXRtWVpUbzdI?oc=5",
       "publishedAt": "2026-11-24T01:14:25.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -236,7 +376,7 @@
       "source": "인천일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBieDhfZzBFSXhwM20zcHVFazNia2F4X2VYR195T0tEZ3VZWkI1end3YWs0a1JaYVVNTWJCN0dWQVJ4bnBzdklWRGNZRERPTXk0bzYtYWhPWjZrN2UwbUo1UTFYcG5XZC1kRldtS21vVjE?oc=5",
       "publishedAt": "2026-11-22T08:27:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -265,7 +405,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JV1VlTl96eEVvMWIwXzUtQ0ZXdDg5OHZvWTFqOU9mcTh3UU5oU2ZvS0NIbUpaMng2NjMzTWxfOU9iMURsemM2aWtrU3paN19FSXBER3pwTklCS05GeFlhRHVJdUZQaXl2dGg2ZTQ1NWRzbk3SAXdBVV95cUxNTmNab05YQTB6cTg5SnVFZFRyN00yeFM2eGtUenNYQVYtUHROakN4ZWlSVDc0R2VkZGdVQndxYVZRRXowZU1oSVlFQ1FKSUtUWkljM215elVUNlhkem9VbmhHZGFZT1FzNkVVVm1tOEt0MHdHTjQ1aw?oc=5",
       "publishedAt": "2026-11-22T08:00:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -292,7 +432,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YLWl4eWUtcG5qdkFyQlg5UVpPQ0swMWdtcG94ajltRUxtdEV5RkRDY21DeWVWelp0M2VUZ2poZXEtT044OHhHNzE0WEUxMmYxS0V0ejRpcml4d1JtSW9Jbmp1OA?oc=5",
       "publishedAt": "2026-11-22T04:05:24.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -316,12 +456,39 @@
       }
     },
     {
+      "id": "90fda1c0edc6a776",
+      "title": "EV 배터리 사용량 ‘30% 감소’…삼성SDI, 美 생산라인 ESS 전환 ‘분수령’",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CTlp3QWx1UkowSldLZXpBYTYzbGFxTkNCRk9RdWhoeEIyWUJrNGp4dDF0RW1pc0tnVkJEMHUyZ0U5dm5aeFl3Y2xIMEhKUHZSbXpGdVVsMDRYRXJJcGx5WnI2QQ?oc=5",
+      "publishedAt": "2026-11-21T23:13:54.000Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "stockId": "samsungsdi",
+      "stock": "삼성SDI",
+      "ticker": "006400",
+      "relatedStocks": [
+        {
+          "id": "samsungsdi",
+          "name": "삼성SDI",
+          "ticker": "006400"
+        }
+      ],
+      "summary": "EV 배터리 사용량 ‘30% 감소’…삼성SDI, 美 생산라인 ESS 전환 ‘분수령’ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "cd9821a8e8461cae",
       "title": "배터리 넘어 전력 솔루션으로···LG엔솔·삼성SDI, AI 데이터센터 공략 확대",
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YQW1tWVRJd0E2ZEp5MVplNVpFdkZRQWJ0Mm9ySHRxR05jcFJJZGF1TENFU012a0pQX2dhNHZFblRIR291TjgzZF82UjZmbGdsenhVZmMySE9YZk5DOU1td01wdEQ3Wk1JenQxXzQ2RVFzQdIBdkFVX3lxTFAtLVFtd1Q4Y1RqRzJrb1N2cVVSbldRVkc3V2ZNY2kzc1YtMXEzc01adm5sQVdrblllVXEzank2UXBaZUxSbVdpZEVoQzZHcWxiMFRSdFFUQzBsN1JycjFIQ0RDZ1JJWkJwcHZGZTJPNkFfVFhzZUE?oc=5",
       "publishedAt": "2026-11-21T22:00:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -353,7 +520,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRU9HZkJPN0RFRjhJTkhWcl85dXRVVXRvWUVTWmh6TTY2Vnh3LU9pNDFFRkdZS3huT1JXUks3UlBkN1hHbUVWT0NVNHJfUmpsdy1XNjFEdkxBeG5QemZWT2pIMFg?oc=5",
       "publishedAt": "2026-11-20T02:15:03.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -375,39 +542,12 @@
       }
     },
     {
-      "id": "300ea59a8e05d3c9",
-      "title": "[리포트 브리핑]삼성SDI, '실적 및 추이 전망' 목표가 680,000원 - 삼성증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WVRRczRfVHlhSFZ5cE5RYXMxZmdsY1pDQ1Vnd2NPandFWUpJZmxWTXF4NUJOa29XZEFhbW5XWHpTUkZNaUc5VHZUeTE1X2xZRmlWRWg0aW5PNTlj?oc=5",
-      "publishedAt": "2026-11-19T23:33:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "[리포트 브리핑]삼성SDI, '실적 및 추이 전망' 목표가 680,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "ce3046100f48fe12",
       "title": "삼성SDI, ESS에 AI 화재예방 기술 도입…\"사흘 전 위험 경고\"",
       "source": "연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLVh4TEpzMEN6VDJPWVdDel9fUE4zaUdpMV9YT1ZOT1JsTmJQSjNTLTlYR1NyUWpyN3hvOW9LbHlLX2RiUk9zX1NHME5JUy1KWHphX0hGUGVDc3hkYVJpZUxCMkliZzA?oc=5",
       "publishedAt": "2026-11-18T23:55:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
+      "collectedAt": "2026-11-25T17:42:48.300Z",
       "stockId": "samsungsdi",
       "stock": "삼성SDI",
       "ticker": "006400",
@@ -428,141 +568,6 @@
         "negativeTerms": [
           "우려"
         ]
-      }
-    },
-    {
-      "id": "47466ac4409868d1",
-      "title": "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdkdibHhnQTNCZzZHVFk0ZlppdXBCTlRBODBSUkk3bDhkcEN0V1FhR0FyUXQweGd5M1duZ1lHLUl1S2haR0d1d2lscVRJdWMtcDN5M3NzMUQ0Z2fSAWBBVV95cUxQSjZqMXBvdkctQ00zUmJ6YXV6UnA2LXJFdU9tUmVmcFRFQUtXLVFvU2dqRGJCakNuSHhHM08wTFU0ZC1pQlk3NHBaQ2NxSDd1bVg0VUxFQVFENDdkcVV4dEk?oc=5",
-      "publishedAt": "2026-11-18T23:03:53.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "\"AI로 사흘전 감지\"…삼성SDI, ESS 화재예방 소프트웨어 도입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0e2bda0f43f8af40",
-      "title": "삼성SDI, 美 'RE+ 2026'서 AI 데이터센터용 차세대 배터리 토탈 솔루션 공개",
-      "source": "매일산업뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTDlrYUNqbE5OSmVyXzBlR21iNHJEQlJRY3hVSHJIdUVZeTA4SFhLOXEtckNWUk5pOENsWnZhM3dzZHgzdGlKMjBVd3NiM2xkNUVKTE9jdWNmR2N2QWJvVnE4bw?oc=5",
-      "publishedAt": "2026-11-18T06:36:01.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 美 'RE+ 2026'서 AI 데이터센터용 차세대 배터리 토탈 솔루션 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ab9bb0ee5b5e4be7",
-      "title": "삼성SDI, 북미 공략 강화…AIDC 최적화 배터리 솔루션 공개",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bektod1dBUk5JSURTVVFtRVBWNG5TNlRDbEdnQVNlZlNkdk1GbXoxSFpLUjhZaGRSbjlpWWwwdUlhbVBROFRGTWt0WXhNYWM5UDlyX2dtYlRjUQ?oc=5",
-      "publishedAt": "2026-11-18T06:35:01.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, 북미 공략 강화…AIDC 최적화 배터리 솔루션 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a12771a4a1085db6",
-      "title": "북미 AI 시장 잡는다…삼성SDI 배터리 3각 편대",
-      "source": "경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yR3IzanlxTVZkaXpUUzJ1anlYMXdyMGdSd2pQMzV2NVVDaEMteThlXzRKYWs3X2R6X1YzWGJ2MkRfRVZ6QlhSYXFTbEQ2MWxnYnYw?oc=5",
-      "publishedAt": "2026-11-18T06:28:30.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "북미 AI 시장 잡는다…삼성SDI 배터리 3각 편대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "12ab4da623e75ec5",
-      "title": "삼성SDI, AIDC용 배터리 3각 라인업 선보여…SBB·UPS·BBU 전시",
-      "source": "테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNU5HSVJEeGF6T3ZGclp1WldNcGU4RExud29MNzFGM1d4UFJvbGljazJhVkNRRkdpNUp0enAxR2JVc2sxdjhqR1E2MkpDaEpPR3hNaE5TRTlRbW9NanR6N3doaVBnbVNG?oc=5",
-      "publishedAt": "2026-11-18T06:10:00.000Z",
-      "collectedAt": "2026-11-25T05:09:45.906Z",
-      "stockId": "samsungsdi",
-      "stock": "삼성SDI",
-      "ticker": "006400",
-      "relatedStocks": [
-        {
-          "id": "samsungsdi",
-          "name": "삼성SDI",
-          "ticker": "006400"
-        }
-      ],
-      "summary": "삼성SDI, AIDC용 배터리 3각 라인업 선보여…SBB·UPS·BBU 전시 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
       }
     }
   ]
