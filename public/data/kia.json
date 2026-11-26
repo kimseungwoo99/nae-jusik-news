@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:42:48.300Z",
+  "generatedAt": "2026-11-26T04:36:55.353Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,160 @@
     "name": "기아",
     "ticker": "000270"
   },
-  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 자동차 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "유럽 성장세 속 엇갈린 현대차·기아···신차 판매 성과가 승부처",
-    "유럽 판매 ‘118.9% 증가’ BYD, 두 달 연속 현대차 추월",
-    "[단독] 현대차그룹, 26일 사장단 인사… 현대차·기아 대표 유임키로"
+    "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승",
+    "현대차 유럽 판매 18.8% 급감…점유율 2.9%로 기아에 밀려",
+    "기아, 제5회 ‘PBV 아이디어 공모전’ 시상식 개최 | 뉴스 | 현대자동차그룹"
   ],
   "articles": [
+    {
+      "id": "0ba1121c1d3366ae",
+      "title": "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51V1Vad3FBRDJkM2JIdXp0TGdIWnE1Q1lXRE9uc2lVTVhEY25tYTg4T0czeFd1QS1VUjcxUXNzTGNYU2t5ZXJyeTVRSFBTa2RVQ0M1VkpCNDFxT0I2ZThHbGRWVjQ0b1MtZGpZb010a3c?oc=5",
+      "publishedAt": "2026-11-26T01:24:58.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "hyundai",
+      "stock": "현대차",
+      "ticker": "005380",
+      "relatedStocks": [
+        {
+          "id": "hyundai",
+          "name": "현대차",
+          "ticker": "005380"
+        },
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f55943bb32cfe87c",
+      "title": "현대차 유럽 판매 18.8% 급감…점유율 2.9%로 기아에 밀려",
+      "source": "자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lSV9WcHo1NFR6dDJrVXlJSW52WHppOEp1U2JON3I0Y1pRZ3Nhc0FGLS1sSEs2SDZ3VUxRWi1ua0JHc3dTTVl4RlpMMnRWeUYwRzY4M21Gd2hVcjQ1Q3hJWE5CaEpPYjA?oc=5",
+      "publishedAt": "2026-11-26T01:00:00.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "현대차 유럽 판매 18.8% 급감…점유율 2.9%로 기아에 밀려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "5d23da8f267d9a05",
+      "title": "기아, 제5회 ‘PBV 아이디어 공모전’ 시상식 개최 | 뉴스 | 현대자동차그룹",
+      "source": "Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkg4STgzUDd6Yzhsb3llaTJWMHZab196MXhfc0Vja0VSbVdac1ZraG8yTlF1QzRGZDJmaEVYSG5QVkZnMG1aNzU3Mm55c3pjXzZIUE5TN3FWd1ZKODhTa1NSYkNYNzJFR1JJM0U4RVE2U2FnWEw0UnRHV2tsOGJLakZBZUJMTDM3?oc=5",
+      "publishedAt": "2026-11-25T23:30:00.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "기아, 제5회 ‘PBV 아이디어 공모전’ 시상식 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "06efdb099d5a8ad1",
+      "title": "신차 개발도 로봇 투자도…경영까지 개입하겠다는 현대차 노조",
+      "source": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTUJZVTUzcUxleVNhOWJ5bmF6TFpnb0dTdnlCaWNZU3VVV1VkSk1tUE5CYklIQkhDYlBZMmxWNkJzUE9FUWxuYUtwUVdnWXp2RlJCM3Fn?oc=5",
+      "publishedAt": "2026-11-25T23:00:00.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "신차 개발도 로봇 투자도…경영까지 개입하겠다는 현대차 노조 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dde0eed922ecacba",
+      "title": "LA오토쇼, 신차 타고 미래를 달린다",
+      "source": "미주조선일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zMVk0UjFnUFM3LWU0RHdqYlZ6R3c1WldwcC10NDRzRzJKbzhGRE9CaUUzU3B4eWh4U2RaYUp6a1NRR3k1ZGRmX0F0NVpSX0JOUzhKMXNmeDVjTHBXa3I1NW03YzAxMWJfbjBjQ2tfVnk4dkRDRXc?oc=5",
+      "publishedAt": "2026-11-25T18:21:18.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "LA오토쇼, 신차 타고 미래를 달린다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "08451f6577ccc725",
       "title": "유럽 성장세 속 엇갈린 현대차·기아···신차 판매 성과가 승부처",
       "source": "폴리뉴스 Polinews",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZcGM4NFUxMWtyNVNRTHgyZkJxRWJqSDJRWk9wOGV6X3dTc29pRlV0eDdFcUFOVlBtT2tTMm95Sm82SUhTOTA1LW1TYldQUXlybHRtd3hIMVFhTGthckhqZklqS1YzTE12c0ZONmJR?oc=5",
       "publishedAt": "2026-11-25T12:20:57.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -42,39 +182,12 @@
       }
     },
     {
-      "id": "530709898533dab0",
-      "title": "유럽 판매 ‘118.9% 증가’ BYD, 두 달 연속 현대차 추월",
-      "source": "경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qT1BvT21VSGRDVmtvWi16b1lCZG4xZHJVc0hlZnEtRDZRRWtlVXJBSkh3LWEzRG5XQ19ZQV9qYkhyc2xxM3FZclJ1cDVtbl9qZms2WjBrbFZ1MXpKd0N30gFfQVVfeXFMTWpPUG9PbVVIZENWa29aLXpvWUJkbjFkclVzSGVmcS1ENlFFa2VVckFKSHctYTNEbldDX1lBX2piSHJzbHEzcVlyUnVwNW1uX2pmazZaMGtsVnUxekp3Q3c?oc=5",
-      "publishedAt": "2026-11-24T11:43:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "유럽 판매 ‘118.9% 증가’ BYD, 두 달 연속 현대차 추월 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "9ecc2d95120aaec0",
       "title": "[단독] 현대차그룹, 26일 사장단 인사… 현대차·기아 대표 유임키로",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQl80T1JMM2VKM2JpbjdyR1VQZUlFOHV0bC1tb3Rwby1UUVhfTEFBTmtiOWpDVWw4dy13MF9qVDFZdDhoTGRLY1JEbWpELXdRYjFKQTA5LUNmZw?oc=5",
       "publishedAt": "2026-11-24T08:10:39.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "hyundai",
       "stock": "현대차",
       "ticker": "005380",
@@ -101,12 +214,39 @@
       }
     },
     {
+      "id": "388d19e55e820462",
+      "title": "유럽 車시장 성장에도 현대차 '역주행'…기아는 두 자릿수 증가",
+      "source": "매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwUktXY0hscHVlaC1UMjBjYkpfbUVqNXJ0c2M5REQ3cWY0eml5WDZJUlY3dUxqS0tiLTNjUnV1ZG1pYlFXcW1faUoxUEZzMk9CYlhiWENCYnVOS250alZ3UXl5OVA?oc=5",
+      "publishedAt": "2026-11-24T07:33:55.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
+      "relatedStocks": [
+        {
+          "id": "kia",
+          "name": "기아",
+          "ticker": "000270"
+        }
+      ],
+      "summary": "유럽 車시장 성장에도 현대차 '역주행'…기아는 두 자릿수 증가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "984b5a33ab058e37",
       "title": "3분기 판매 주춤한 현대차·기아…신차로 반격 나선다",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdlpZSnU1UUs0VUZJUnhqcG5WRk1fajBEdWU3R3BCaG5iRVQwZjc0QXp5aHRJUTlrblNGcWZ0MF9ScnEzYnJNYmhGeUduV19CcUZNUzRTdEdGdw?oc=5",
       "publishedAt": "2026-11-24T07:21:48.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -133,7 +273,7 @@
       "source": "경향신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbGpvcXJZZFFBZVlxQmV1WXBNTW9UakFja0VmZFJwT3NhRzFqMFZLUEdnNG1aSzRQX0U4UVVNb2MwY1FoUzdVbjhjNkhqUXdibUVPN1lZaG9mNTJ6ZG9z0gFfQVVfeXFMT19sam9xcllkUUFlWXFCZXVZcE1Nb1RqQWNrRWZkUnBPc2FHMWowVktQR2c0bVpLNFBfRThRVU1vYzBjUWhTN1VuOGM2SGpRd2JtRU83WVlob2Y1Mnpkb3M?oc=5",
       "publishedAt": "2026-11-24T07:18:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -155,12 +295,12 @@
       }
     },
     {
-      "id": "756dfa13ba3ef816",
-      "title": "현대차·기아 하이브리드차 EU 공략 빨간불, 수입 상한과 중국업체 현지 생산 확대 '이중고'",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLa25MQzlES21wVGlGNGFCMDhFMGZWVHBpUzhCaHhfMG83VjRxU1RxVWVNN0p2QklOclpxT0l2SEdHb3ZyZHFQZWV1U1YtcHc4OUI1X2xxX01TNkNXaVBfNGdYUG5IMHEwUTZRRFQ4bVo4M0k?oc=5",
-      "publishedAt": "2026-11-24T06:27:24.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "id": "74439e2d8dff25bf",
+      "title": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑ |",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUnlOaTZfYmNRRms3aktPOEJjMU9lOTFtY3hfaG9FWm9sMmVNZzhqRUZha0ZyaG5DeEs5ejIzME94bE91cFhiT001S2hHOTgyWWVYSm02TnljYWQwRzNUNUJwU2Q4TXA1a3I1OXdLRlVQeG9D?oc=5",
+      "publishedAt": "2026-11-24T06:23:42.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -171,41 +311,7 @@
           "ticker": "000270"
         }
       ],
-      "summary": "현대차·기아 하이브리드차 EU 공략 빨간불, 수입 상한과 중국업체 현지 생산 확대 '이중고' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.3,
-        "confidence": 0.63,
-        "positiveTerms": [
-          "투자 확대"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9c30b7d3726cce28",
-      "title": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mbmQ2aTlZQVVYMFVrbDRTWWgweHhrRDVIajN4QklOR05OdXlpRi1fQ0FvakY1ZkRfV1ZxQjFCcVNXVnhVR1JNNlU3LXd1NkI3MkZ1Vk04VW9vWUhiWndXZU5WeXRHQ2dyWUtfS1o4dGk?oc=5",
-      "publishedAt": "2026-11-24T06:19:31.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑ | 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
@@ -221,7 +327,7 @@
       "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQ3FKY01EVlBnLWNNXzhqWDU1TV9kbFhBZnpJU1hQSmg1d0o3Ym5JMDhwYVBudjZqR3IxalZlTEZNYTFPSzBzbjlFMjZEMjFSYnljX2hvQzU2SmJlX1VkMFNjeExFdkZTVjF0VXFoMnN6azc5cW91azBIcjA1QmPSAZMBQVVfeXFMUHFGY0F6ZjE0Vzh0R3pjSE0wOEtIZE9TMmVlTU9zam90YnVTVXBrS2NnTE9MTVBLN2J1SGdva1R6UTdvQzhVTXd3cVNMRHJqOTcyYkNCWktCMWpRN0pxVTFCdjNKZUgzc2lsZnF4SWFPeE5uYVVYbndsNXdKNk5oOGhpeUl3UjJCQ0pNaE1UZ1I2YzZv?oc=5",
       "publishedAt": "2026-11-24T06:19:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -243,12 +349,12 @@
       }
     },
     {
-      "id": "49db18b0077f4a03",
-      "title": "유럽 車시장 3.4% 커졌지만…현대차 18.8% 감소, 기아 15.7% 증가",
-      "source": "파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11TlcxcjJpVUFIRE5CUTAxNUVzNm9QUmo0d2tHeHhEeWphUExNSWV0a3M5Zjd4UHJzU1hJUG5sajRTSF9iUV9IZERJR1ZzaEk0UjlfUWpleGRkZw?oc=5",
-      "publishedAt": "2026-11-24T05:55:05.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "id": "9ede918e065529cd",
+      "title": "신차 견적 신청 1위 투싼...모델 Y·5시리즈 즉시출고 문의 비중 평균 3배 이상",
+      "source": "글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UMm95U2dYOWNxTVJ4ZXZtS0hxUGpjSmthdzZCTWZFSkFhQUU3Sk9seHJnMndFeVhWR3VYV2MybUMyTWFJT0xKNEo4WjRIVHRXV3NlT2NXa2NsV0t3NWVfejJQWWpad0pmd3J5MktQTjTSAXBBVV95cUxOVDJveVNnWDljcU1SeGV2bUtIcVBqY0prYXc2Qk1mRUpBYUFFN0pPbHhyZzJ3RXlYVkd1WFdjMm1DMk1hSU9MSjRKOFo0SFR0V1dzZU9jV2tjbFdLdzVlX3oyUFlqWndKZndyeTJLUE40?oc=5",
+      "publishedAt": "2026-11-24T04:54:03.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -259,8 +365,8 @@
           "ticker": "000270"
         }
       ],
-      "summary": "유럽 車시장 3.4% 커졌지만…현대차 18.8% 감소, 기아 15.7% 증가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "산업",
+      "summary": "신차 견적 신청 1위 투싼...모델 Y·5시리즈 즉시출고 문의 비중 평균 3배 이상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -275,16 +381,11 @@
       "source": "Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1lsUFN6VTk0UlVqbTNscFdtbC04YW8zZjlXeG9jeWNNYlZjRF90ZVpkaXNocjdPbFhNMnV1ZkYwVkpKN2lSWmYwb21mSmNiRWpSbFp3dWZlRHVGMldVOFRDTjdmVnpWUl9GUnlvMEFZVlBZSDRuR2xKT0VWc3Bub3FJTl9kd3EyN2NZdGNYb2RFTW92YVRRLVF4R1h2VndWSUdGcTkzVlFaNlRxaGktTG9UbEdGMkFmRnhyLUlEbw?oc=5",
       "publishedAt": "2026-11-23T23:30:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
+      "stockId": "kia",
+      "stock": "기아",
+      "ticker": "000270",
       "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
         {
           "id": "kia",
           "name": "기아",
@@ -302,12 +403,12 @@
       }
     },
     {
-      "id": "d68becd6fca34180",
-      "title": "수입차 부품값 다 더하니… 신차 가격의 7배",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2VIV0xEMERuUUFzMTFVNDFiY2VpSWdRTXNBaVNHc25UQVNkYkV2YXg0WjUzNi1LejBvUUs0OEQtX1VEcHdabXVDSERqZFNabjh2aGVZVEFmT0FrdEpoRE8wVHBNOXFUMmt6MnA1enNhTWowX3l0QnZBVGpGdUhWODMtTGczZXVyX1d4dXVn?oc=5",
-      "publishedAt": "2026-11-23T16:03:18.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "id": "d8dd34a3b4290ba3",
+      "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
+      "source": "오토뷰",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oamVWQk01aFlZNUpxbTE0eFhQNkZ1b3ExSi05RkxucnNXVXgybEdhWDhmamZueWZVaGt4OEtaOG96eHdEOURhRzNteWxpeU9MWVF0bWE1aUJneU9a?oc=5",
+      "publishedAt": "2026-11-23T10:18:00.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -318,34 +419,7 @@
           "ticker": "000270"
         }
       ],
-      "summary": "수입차 부품값 다 더하니… 신차 가격의 7배 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b20324d8f851025a",
-      "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시… 디자인 과정 조명",
-      "source": "IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DTmxvdjF4UmtEN1p1a2hkS3pYTUJWTFI1TUtRdFJvU0JQR2RicWJYZFRwUm5mQXJNbE1VX0lVcHlsSUFhbmhLWU9KVGJSN21aR085RFBLRzV5WjB6c2ZWV0hILW5YMVNCbHJDVE9qX1bSAXRBVV95cUxQd2VnY3djcVVUNTRCVWdiZFA2b2pIWGw5bzBFZ2xGTk5UMUd3WllhdkJJU1EzTTBacEUxZlVpVWVoeW1JejhEWGZnRnZoelA3U3ZJdmlYM0lCU05JWXNwYUVMWFBjeUR0RXlYbmR6eVNoRlFQVQ?oc=5",
-      "publishedAt": "2026-11-23T09:48:55.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시… 디자인 과정 조명 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -361,7 +435,7 @@
       "source": "이지경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aUmtjeFMtUlJqNHFuMFRReFE0emFOYzc4MENia25ZekI4bzdYNEJzSEhxN3hEM093OWhsWThDVTJua3FjeDA5LU56UzJHZ28tTTg5b2VQZmV6MmFwU2k2NFVPaDFMUFlNeHBjVFdR?oc=5",
       "publishedAt": "2026-11-23T05:54:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -388,7 +462,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVSk1VV09WUEJLLUo2RzN6eTRPRlo5S25zQnpTaW0wTzZrMWQ4X2ZoVThPM1hjQU9DYzNPUzRVUzlULXgwZ2w5d0dwN1ZvWWd0SkU3aWh0QnA3Y3ox?oc=5",
       "publishedAt": "2026-11-23T01:01:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -410,12 +484,12 @@
       }
     },
     {
-      "id": "8169129b7f8c1fd2",
-      "title": "케이카, 전기차·하이브리드 신차 9종 장기 렌트…연내 즉시 출고 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DUGoySGdJelZWNXFGakV5Y0Fad3NBTlRpanJCbGh1WDVWRWRKUXpaczd5eWlDdDNWVjN4V3RTem81dDR6YkRJUWNHQVFsTi10elJObFh1OGJzeEJZSTFUM3FsVUlSM1N0Ymh5TUYxZVBmd9IBckFVX3lxTE9DUGoySGdJelZWNXFGakV5Y0Fad3NBTlRpanJCbGh1WDVWRWRKUXpaczd5eWlDdDNWVjN4V3RTem81dDR6YkRJUWNHQVFsTi10elJObFh1OGJzeEJZSTFUM3FsVUlSM1N0Ymh5TUYxZVBmdw?oc=5",
-      "publishedAt": "2026-11-23T00:48:56.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "id": "2760763873367ec0",
+      "title": "11월 3주차 신차 견적, 투싼 7.11%로 1위… 수입차 2종 상위권 진입",
+      "source": "스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsaEtxVWk5bGtUT25KTVlZRlZNUFluTUh2ZVpYeWJxZFZQZ21FUFhyYWdPVGYtd3l2cDdVeWw4MFNpaFd4YzRlWnotM1ZBYktLSVpsQ3c3c1VHR1VGNEZaNTdTemM1T09aNUtSckctdEpTUmM?oc=5",
+      "publishedAt": "2026-11-22T23:19:59.000Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -426,39 +500,7 @@
           "ticker": "000270"
         }
       ],
-      "summary": "케이카, 전기차·하이브리드 신차 9종 장기 렌트…연내 즉시 출고 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "782cfdd1595eb221",
-      "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최 | 뉴스 | 현대자동차그룹",
-      "source": "Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDBWUFBXTUFnSV9LS1hYY09jNzJER2tXeFM1ZE1fUks4WFdZdWRvVTgyN29BN2RPVmFFa0lUcUVidXN6SEUtdy04LXJSSzRyMkpRdDJtTnhOY1lFOXBjaVlpRnJhaUdycXA3eWR1dm9zcEN6VDVZNVBzNmRORmx1Mmt2ZUFKSmthc1RDd0t3R1RHcURmeXYtU2FnZVkxdXdFRkpEbUJR?oc=5",
-      "publishedAt": "2026-11-22T23:30:00.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최 | 뉴스 | 현대자동차그룹 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "11월 3주차 신차 견적, 투싼 7.11%로 1위… 수입차 2종 상위권 진입 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "자동차",
       "sentiment": {
         "label": "neutral",
@@ -474,7 +516,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0tGMkNoTGZnRmo5S0psSUR1czEtRlZSS0pNWHFmcXo0UHlTMkdEa3hSMXZLYml6RDJkV0lIUW5EaTFZYko4SzEybUVtemQ2ZFJPMm95X3hzNzlaOTZMSEJ3c3QyZEJaenpUdkh6N0NmREQ1dS1XdGl4NlRHWG15VkNpbVNpN3dL?oc=5",
       "publishedAt": "2026-11-22T21:54:05.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -501,7 +543,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hUTllEOEpYRGpPYm8zSnlGMVdMNDBVQmdLMS1la0lGYk94clJZdzlVYWNWSkQ3UW5kMkNZdnJ0Z19selRKaGk2dGFNQWcxZEVOS0RZeFJNSVhVMXJEQzBsVUYtMnpaZzhNSmlPQ3dvNzZTTzloSTBGbEF3V0lfR0RyUHh6ZUpT?oc=5",
       "publishedAt": "2026-11-22T20:44:44.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
+      "collectedAt": "2026-11-26T04:36:55.353Z",
       "stockId": "kia",
       "stock": "기아",
       "ticker": "000270",
@@ -514,65 +556,6 @@
       ],
       "summary": "기아, 스페인 연간 판매 6만 7000대 전망…전기차 지원 연장 요구 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "f058dcd6d9c0785f",
-      "title": "러시아 폐차세 벽에 막힌 현대차·기아, 10월 신차 판매 58% 급감",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk0weFRZcHRmcnJqSDNyQmN1TmNvTUFVZ0szUzlDVTM3OGp0cDVWbGJ3TDJKcUllLVJpV01XZ3ZXZzdaSnoxU19DRXI1bXpKUjRyM1Q3OTFkazRYM2Z3UnhMdWMxdEtDRVExRjMxdmlYa0V6NHBQS3JpeE5vSjhHZHk4WUNPQkYw?oc=5",
-      "publishedAt": "2026-11-22T04:16:33.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "kia",
-      "stock": "기아",
-      "ticker": "000270",
-      "relatedStocks": [
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "러시아 폐차세 벽에 막힌 현대차·기아, 10월 신차 판매 58% 급감 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "자동차",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "6a90c81d888bbcb2",
-      "title": "[기업정원6] 함께 걷는 숲",
-      "source": "서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3BhLTgzTmt5TUVHYnhfbHYxWTk0NHJjN1RiN1drcllIb2JoQWNwNXNMbWJqMk8wNzBnWm9aM042b3UzaUpVZVhtMTVvQVdxSGVSUlhXS0txZlhyeTBEWFBNNzZ1WFFubTBEdFVXcUkwcklLMW5ZWGRzczFGQWxrTElBU1lnekVSQk1fUlhEY1ZFVDR2a3pFSXJNWE1aSFVtUW1TTUR4c2NqNHBzaGc4ZUg5aTE5X3gwUFh6bkFnUnhOOUk?oc=5",
-      "publishedAt": "2026-11-21T05:40:30.000Z",
-      "collectedAt": "2026-11-25T17:42:48.300Z",
-      "stockId": "hyundai",
-      "stock": "현대차",
-      "ticker": "005380",
-      "relatedStocks": [
-        {
-          "id": "hyundai",
-          "name": "현대차",
-          "ticker": "005380"
-        },
-        {
-          "id": "kia",
-          "name": "기아",
-          "ticker": "000270"
-        }
-      ],
-      "summary": "[기업정원6] 함께 걷는 숲 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
