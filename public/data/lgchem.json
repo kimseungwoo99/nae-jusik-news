@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:26:22.369Z",
+  "generatedAt": "2026-11-27T04:39:34.220Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "LG화학",
     "ticker": "051910"
   },
-  "dailyBrief": "오늘은 기업 및 투자 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 자동차 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "SK 중복상장 해소 vs LG 자회사 지분 매각···재무 여력에 엇갈린 선택",
-    "[인사이트]방성록 배트랩 대표 “韓 배터리 미래 5년, 차세대 전지에 달렸다”",
-    "신용등급 강등·영업현금 급감…LG화학, 2.5조 수혈에 '석화 수술' 속도"
+    "LFP 힘주는 K양극재, ESS 이어 전기차 수주 경쟁 임박",
+    "해외 행동주의 펀드 팰리서, LG화학 압박 수위 높여 … “자사주 매입 부족·이사회 개편…",
+    "SK 중복상장 해소 vs LG 자회사 지분 매각···재무 여력에 엇갈린 선택"
   ],
   "articles": [
     {
-      "id": "5e571830c3111aa2",
+      "id": "b29198e462c92c70",
+      "title": "LFP 힘주는 K양극재, ESS 이어 전기차 수주 경쟁 임박",
+      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90d0pNREgtZnBidGFqNXcxdVZOU2x6RkFnU0x1N0NqeWJscnE0Si12SkpXRzhramRjUUNYOU90eDdFU01uOUZwRWpSWjdGR0tKLVp3NEhn?oc=5",
+      "publishedAt": "2026-11-26T23:00:04.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "LFP 힘주는 K양극재, ESS 이어 전기차 수주 경쟁 임박 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "자동차",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "수주"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b40c25f64c6c6f31",
+      "title": "해외 행동주의 펀드 팰리서, LG화학 압박 수위 높여 … “자사주 매입 부족·이사회 개편 필요”",
+      "source": "워크투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBreWZNaDZEY3hXYTU0SkFlS2NQLXFjRFVYTktfQnJ5bVJLdF9KcU1zbHNfX2thR2dCRXpuMFlOSzU2dVZ6QU54cklsRjY1dWNGRHQyUlhlR0JfSGpHa3NYNkU4OHFMRXdNbVNnZw?oc=5",
+      "publishedAt": "2026-11-26T11:38:01.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "해외 행동주의 펀드 팰리서, LG화학 압박 수위 높여 … “자사주 매입 부족·이사회 개편 필요” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "03f6e63fd8884c9c",
       "title": "SK 중복상장 해소 vs LG 자회사 지분 매각···재무 여력에 엇갈린 선택",
       "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wSU9jQWJ3SjNzTHdXV3Bsb0dSME1tc2w0bTdTWkxRNUhsR1dGQ1hFN2JrRUFNb2lKbzVFMDN0RkMzM2F3VjNIelZVTmMtT1BSSHVkWjFMcUVhaTBWdjREU2ptVUtwLWRPXy12LXlCTUl6Z9IBdkFVX3lxTE5BX19EZTVSQUJmZi1hbGJJTTViUnVKWTdmdFA2dVAwc0VwODVZWEpZQXlpNVFqQjdkb2J4cUVqUmxTcy1NSUR5Uk1aZ3poazl5LUxEb3hBWThTNGZsVjlvZEZXME5YV18xTm51enZYenRUYmMzNXc?oc=5",
-      "publishedAt": "2026-11-26T07:42:36.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BX19EZTVSQUJmZi1hbGJJTTViUnVKWTdmdFA2dVAwc0VwODVZWEpZQXlpNVFqQjdkb2J4cUVqUmxTcy1NSUR5Uk1aZ3poazl5LUxEb3hBWThTNGZsVjlvZEZXME5YV18xTm51enZYenRUYmMzNXfSAXZBVV95cUxOQV9fRGU1UkFCZmYtYWxiSU01YlJ1Slk3ZnRQNnVQMHNFcDg1WVhKWUF5aTVRakI3ZG9ieHFFalJsU3MtTUlEeVJNWmd6aGs5eS1MRG94QVk4UzRmbFY5b2RGVzBOWFdfMU5udXp2WHp0VGJjMzV3?oc=5",
+      "publishedAt": "2026-11-26T07:50:21.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -47,7 +103,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91ZzRNem5wMnN5VS01NFNmc3NCNFRYeWhKeVV0N3BDa1hIZUs3aFNxTEFSa3N5MUwwaXNIZXROWkNoYnlsQWRYTHBJeXM0QQ?oc=5",
       "publishedAt": "2026-11-26T07:00:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -74,7 +130,7 @@
       "source": "데일리안",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yWFpUc0k0UXRGclRpby1JQWtfT2NTVVNBOFd0S1hPUTFtM0dqV0c2SlJOWWltYmg5ZkUtNU9mQzUwT2pISmtPRW03aDMwb3BLQjdnZA?oc=5",
       "publishedAt": "2026-11-26T06:38:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -101,7 +157,7 @@
       "source": "뉴스저널리즘",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oTkVDODlKejVhVWRzS2R4a2NWdmNUSTVQWWotM2I0Vm5IMGczZFJYWjZFVnhmdDZyNDVjMGsyV3dja3FFRGJVQTF0X2g1cTRfM3FFNjNnQkVXQTA3Y0h5MXRWUUVfenA3SHc4?oc=5",
       "publishedAt": "2026-11-26T01:27:35.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -128,7 +184,7 @@
       "source": "팜이데일리",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtaE1zU0RyZDVCQjBqcmFxYk9UQS0zbWwzSE1lem05enVFbWZ5bWNram03RVNZMldQLU5JU3hBa2JoQnc0bjdjSEVlRlAtRHZQWEs4c0dINFFnVF8zV0prR0NOSGhDR1Z1U2dncWFR?oc=5",
       "publishedAt": "2026-11-25T22:00:08.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -150,12 +206,12 @@
       }
     },
     {
-      "id": "70128f5d668c6a14",
-      "title": "신용등급 하락이 LG화학 주가에 부담을 줄까?",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnFpYkdHOEcySVlqellUUzRhRjNaOTZacWsyeVRObnU5TmtxeGNxbUYyV2kycmRnajFhd3p5dU1YVk03bElhdmZ4dVZ1RThUaWpJWmloVm4zaEV4cng1VUlNa0NWZW1OZ2wzNzhhaXY2QkVvSDlzYjRlTlNaTTFXdVdPR3c3bDNVTWc?oc=5",
-      "publishedAt": "2026-11-25T03:38:54.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "19251b59801c9623",
+      "title": "[IB토마토](크레딧시그널)LG화학, 투자 줄여도 빚은 늘어…재무부담 장기화",
+      "source": "뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BLVdISEhBNnRhMjYtYXFBZ1FvclBXcWRtalRBMi1DRVd6VTRBNkc1OS1rOGdIUmhCaWl2ZXpFemk0a3B2VE5Fdkt6UENKQ1I1bUZoOS1YZDVNMWl5aFhFQg?oc=5",
+      "publishedAt": "2026-11-25T07:32:05.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -166,8 +222,35 @@
           "ticker": "051910"
         }
       ],
-      "summary": "신용등급 하락이 LG화학 주가에 부담을 줄까? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
+      "summary": "[IB토마토](크레딧시그널)LG화학, 투자 줄여도 빚은 늘어…재무부담 장기화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "dd93837684bc7a63",
+      "title": "[핫이슈] LG화학, 주력사업 부진에 재무부담↑…한신평 신용등급↓",
+      "source": "뉴스워치",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uc1hoam5rVXo3Wkk1UC11aFJxNGx6Z3lDV0Z6V2M3OTVJN2lxYkoyX1M4a1VUNlYwVXdDVi10aUhVSjZrNTVaVV9aaFRrRkJhbWdPWDB1RUttOGRiT3V4LW1rTXJ0V2ludEE?oc=5",
+      "publishedAt": "2026-11-25T04:54:07.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[핫이슈] LG화학, 주력사업 부진에 재무부담↑…한신평 신용등급↓ 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -182,7 +265,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HU0tZbWpsa0NMQjZtNmRHakdwSlJQWFoxbm1ucnN4dFMzeWdBZVkzeGlRcWlEb0RmcXlfdlMzQ0d2aXVtQ3EtLWdLTWhHdmc0T1Q5SkRmZU9UcDNlbVc1REw0VFBudUhUazNDYVRmRE4yaEFz?oc=5",
       "publishedAt": "2026-11-24T23:57:05.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgenergy",
       "stock": "LG에너지솔루션",
       "ticker": "373220",
@@ -209,12 +292,12 @@
       }
     },
     {
-      "id": "6a00f29da4ea0fe4",
-      "title": "포스코퓨처엠·에코프로 급등…리튬 가격 반등 기대가 배터리주 깨웠나",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBdzF2bVNUUl8tYVFXZ25RUThOMl9vbHQ5NmNyVEV0V1ByTlI5emdzQlNadV9xa25SZzIxTENZYWdzY1pDRnhfMW9QSmx6d09GWTY5MzFYRUZfenJhejRVeG1PY1RUTDBPVWJmMmNSMXJpaTVrcGtr0gF3QVVfeXFMUEF3MXZtU1RSXy1hUVdnblFROE4yX29sdDk2Y3JURXRXUHJOUjl6Z3NCU1p1X3FrblJnMjFMQ1lhZ3NjWkNGeF8xb1BKbHp3T0ZZNjkzMVhFRl96cmF6NFV4bU9jVFRMME9VYmYyY1IxcmlpNWtwa2s?oc=5",
-      "publishedAt": "2026-11-24T05:15:22.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "0ad8c95bd52cfe97",
+      "title": "첨단소재 44% 줄었다…김동춘 LG화학, ‘고부가 소재’로 체질 전환 [기업 X-RAY]",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54MGpzTmpGOGhxUlZMdDZBREtwNWczdXZDWWdOREg1R1BiNWlWVWVlV19SenViY0FKQkVfNklwekw4MUN5MURCU1dkZlZNYlFtYnFfaFFaX3FpUnp4N2FZX3NSUQ?oc=5",
+      "publishedAt": "2026-11-24T06:03:52.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -223,6 +306,38 @@
           "id": "lgchem",
           "name": "LG화학",
           "ticker": "051910"
+        }
+      ],
+      "summary": "첨단소재 44% 줄었다…김동춘 LG화학, ‘고부가 소재’로 체질 전환 [기업 X-RAY] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6a00f29da4ea0fe4",
+      "title": "포스코퓨처엠·에코프로 급등…리튬 가격 반등 기대가 배터리주 깨웠나",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBdzF2bVNUUl8tYVFXZ25RUThOMl9vbHQ5NmNyVEV0V1ByTlI5emdzQlNadV9xa25SZzIxTENZYWdzY1pDRnhfMW9QSmx6d09GWTY5MzFYRUZfenJhejRVeG1PY1RUTDBPVWJmMmNSMXJpaTVrcGtr0gF3QVVfeXFMUEF3MXZtU1RSXy1hUVdnblFROE4yX29sdDk2Y3JURXRXUHJOUjl6Z3NCU1p1X3FrblJnMjFMQ1lhZ3NjWkNGeF8xb1BKbHp3T0ZZNjkzMVhFRl96cmF6NFV4bU9jVFRMME9VYmYyY1IxcmlpNWtwa2s?oc=5",
+      "publishedAt": "2026-11-24T05:15:22.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        },
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
         }
       ],
       "summary": "포스코퓨처엠·에코프로 급등…리튬 가격 반등 기대가 배터리주 깨웠나 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -239,44 +354,12 @@
       }
     },
     {
-      "id": "ccef831ca76401a7",
-      "title": "에코프로비엠·엘앤에프 상승 동력은?…배터리 소재 업황 회복 기대",
-      "source": "핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50VkJMTXl0c1g4Tk1EaDNnNHFpb05DVThKQ2Ixb1FGWUt0YU1sN2MtNURLMHg5RUxFU2tNWmhwOWFWZzNibTZxdnVXaHFYOFVudVllUUZ0bXZMSDkwWDhfMm50bFMycGU2bXg4WVpFUTRublnSAXdBVV95cUxQRzhKRFBnaE5PNVY2WXRWSlhuY3FFb1MtMUFYVTBGU05xMFFIcFVRSURackp4b253cmtUanppR3N5NzU5TnI3cHpneDBtQ0N6dF9RRUJUYzEyOHdEcXJCMk9oUDVJSVR3d0JQeHBoRXJ4d0RmaEhvYw?oc=5",
-      "publishedAt": "2026-11-24T04:44:13.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        },
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로비엠·엘앤에프 상승 동력은?…배터리 소재 업황 회복 기대 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "053d5a03a12953cc",
       "title": "배터리업계, 전기차 부진한 실적 북미 ESS 시장 공략으로 만회",
       "source": "우먼타임스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTU5MSWZRZUxnUmQzZDNIMEdtb3RyanI1TlBtb0xvZW5XekdxLW1fUEM5dDRXdF9WbE1jWXhOejkyU1lFQWNoakxheFRjZVhKTFc4ckppR3NoVVVIU0MtdVE3UlFLb194RjFGbkQzTErSAXRBVV95cUxNTWJPNXJKUzlJZVdTSjU4TmdLWVVQM1VKRy1VcG1iQS1tUU9pRlJLWWJYOW5jYzBBMjhSZk9odUlXeEcwNjItNG5jQVFRS3pwOHZiSzhGdWdvb1F6OEZWcHBlcjhOeXdHMURFZmlaVmNkazBwTg?oc=5",
       "publishedAt": "2026-11-24T04:37:13.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -303,7 +386,7 @@
       "source": "뉴스토마토",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00QzI5dXczbUR5S0pGR3FZSXVtTDV2RkRHMjBaakg1c2l5LWFWay10ZndUQndxQXBJcGRWRTNDVnJnMlVxZUktak1CV1JMUGE3RWhteVZIS0VwX1p4amhsUA?oc=5",
       "publishedAt": "2026-11-24T02:33:16.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -325,12 +408,39 @@
       }
     },
     {
+      "id": "cea9b4b34e082174",
+      "title": "[장중수급포착] LG화학, 외국인/기관 동시 순매수… 주가 +8.90%",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBobmxNcFNiZkxQZUxzNml3bV9kV0xDa1FyUlZoaGJkUEM2R0R0ZnY1STFaMmZNUTRGOG1mU2xoWms1RlVvdUQxdDNSM2FaLXdpdEREN1F4dDhoZ0Vf?oc=5",
+      "publishedAt": "2026-11-24T01:31:00.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "[장중수급포착] LG화학, 외국인/기관 동시 순매수… 주가 +8.90% 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "0a8d3369b81dab5f",
       "title": "김동춘 LG화학 사장, 석화 사업재편안 연내 제출…신용등급 연동 차입금 1조1,546억 '조기상환' 위험",
       "source": "CEO저널",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40RkIyUUZrQXpiN3Fabkt1OGY5SERUNGtDTkJxLUEzMjRSNXMtdElLcEVhREd0STlTQkZ1WVE1V28zQi1XQml0Vmpoa21Pc1ZyS2JpeEloaThJT3JnSVlTempFdlFtZjTSAWtBVV95cUxQREgxZ2ZDREtMNDJmMldPaVo2SEpHZXZlYzZYS2lQellTbHJIdWpzellsUmVYaVZZT09sclZ0a2wxa3pBN19kdERIdGpsNzVvYTR3Z1NIVllSOXhYNW1XdTBIempkLUhKakNnMA?oc=5",
       "publishedAt": "2026-11-24T00:28:32.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -352,12 +462,68 @@
       }
     },
     {
+      "id": "3b7998e137e8965a",
+      "title": "전기차 안전성과 계통 저장 수요에 힘입은 배터리 분리막 소재 혁신 협력 프로그램 시장 2035년 전망 - 뉴스 및 통계",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWdSNl9vUmVTSnNHeF9KdWJmR1dES2o1T2t4ZmdlTDdNdmVtMnRDaFh5V1pRdFpxdXdzSGRHUmtTWEVTbldVUVNTOWM5UnNfUzdxbE1qWk5pQ3FxRFZEOUFLTmc2OHRlNkY0aWRRVnAwVjN0UE93TGZMX0h3azNMTXVOMHg0cjBDMW03SUhaMXNaNjlJamFlbkUyWm5HX08tY1JIbEpLOG82NWxaRGtTZlI1cHo4VWExWllvQndtdUVjV3FybXdsTTB5cWlWUm5id2VJWlBMVHNoLTR5SWM0V2dXcU1VUQ?oc=5",
+      "publishedAt": "2026-11-23T15:26:04.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "전기차 안전성과 계통 저장 수요에 힘입은 배터리 분리막 소재 혁신 협력 프로그램 시장 2035년 전망 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "b3eae00819e4b951",
+      "title": "청주 생산기지 SK하이닉스·LG화학 주가 동반 급락",
+      "source": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRlJsSzM5T3lGOW9WbkZZZjY0NHhSVkpETmx0MmRYY085d3o4UE5IRlhrLTlLdURMME1QVnFFYjlVcXdYNkplWmViMXgxZHRnaXR0RVNvV2M3S3c0RkNGanlOeDdKN3FhcmfSAW5BVV95cUxORThrV01XTWdPZDFpQmZtWFRRcEpxaHRxUDg5VW1jRklwcnZmWXBYenZwRUYzcXk5VEtPZkE1aEZjMTBwU2Z5Mkh6SF8tU0VzX042eHVwZGF0VnRJeE5WNGtydGtrdlh1OEVrSFNSQQ?oc=5",
+      "publishedAt": "2026-11-23T07:14:24.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "lgchem",
+      "stock": "LG화학",
+      "ticker": "051910",
+      "relatedStocks": [
+        {
+          "id": "lgchem",
+          "name": "LG화학",
+          "ticker": "051910"
+        }
+      ],
+      "summary": "청주 생산기지 SK하이닉스·LG화학 주가 동반 급락 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "71ffcf5b50a397ab",
       "title": "빚 26조 LG화학, 1.2조 '조기상환 뇌관'까지…주주환원 압박에 진퇴양난 [fn마켓워치]",
       "source": "파이낸셜뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTm54ZnE0Uk85eUJRbC0zSm1qb3FLeFFWenZGNVhjOXl2alZ6bU9BUm83WDBfdEwyZklPRU94eVV2dGx5UkFqZ052WUwyNDJTZlUzb19pVzlsZw?oc=5",
       "publishedAt": "2026-11-23T05:16:46.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -384,7 +550,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CUG8zUGNQZlRwei1uX3JHbG5GME1WSnk2Q1IyUUZ0c2VGbjg5VXJPVUN2cndhZjV4enpITE4zQVVIYkpsTllpWHpnNVZSUQ?oc=5",
       "publishedAt": "2026-11-23T05:07:57.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "lgchem",
       "stock": "LG화학",
       "ticker": "051910",
@@ -396,170 +562,6 @@
         }
       ],
       "summary": "LG화학, '4대 성장동력' 중심으로 포트폴리오 대전환 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4380bea29f3e9fd8",
-      "title": "코스피 22% 오를 때 LG화학 49% 하락…김동춘 1년, 밸류업 책임론",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW1fZzM1V1U5QzhDQlFpMmZKS0NZdmp2R285bHVMdGdKZDg4OTFUem1GRnpsNGtNSVowUnZCX3VreGlmNGpxZVA1WndBeG80bFlIX3B0aGFZUzljcVpiV19ISzhtRmgtanF0NFl3MkFGcHd1SnFFaS1MSHZ6LUYxa0k5VQ?oc=5",
-      "publishedAt": "2026-11-23T02:48:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "코스피 22% 오를 때 LG화학 49% 하락…김동춘 1년, 밸류업 책임론 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "23e1809ef8fca1ce",
-      "title": "LG화학, 신용등급 'AA' 강등...이익창출력·재무구조 약화",
-      "source": "블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTlNwVGQ4NmxtdHZXX3BBRVp1bi1CbzZmbXk1N1I4bmVMeDFRUUZ2ZnpTWEVFdnY0ZjU3d3gyZGVRdmx0WkItMk01Q2hsdGZqNnZJczhNMlpjSTNTR3hzMGRuNzU5Snpl0gFsQVVfeXFMTXA0OG5ZanlydzE2MHN2Y3htd2h5b04yR0U1S0QtYmtNcEZWM2hObGhvcDZfN2s1SFIxbWV1TjJqbXFYTVRfd2xLR2dtQ2p1dUZqX0JHUEp2bHM3OXBtQ3diX2RENld4M2pkM2p5?oc=5",
-      "publishedAt": "2026-11-22T07:00:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "LG화학, 신용등급 'AA' 강등...이익창출력·재무구조 약화 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3aea760d1e1fc406",
-      "title": "한때 배터리 강자 ＇LG엔솔＇, 중국 독주에 점유율 8% 대로 추락 [박한샘의 돈이 되는 기업사]",
-      "source": "한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIajhFcDlwLW1TU0hvM1BWbGhPd2NUbmxTbzloT1pLaVktVFdFang5VVFuSi15SU1saFI2TWxYN3NCLWNpUE8ycGxHUUlIenFYejdaMXFrTmJXM0pDaUs4eTMzWWw2MEJGTldUUUJmNWh3dGFKMURR?oc=5",
-      "publishedAt": "2026-11-22T04:03:12.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "한때 배터리 강자 ＇LG엔솔＇, 중국 독주에 점유율 8% 대로 추락 [박한샘의 돈이 되는 기업사] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "b164d012fb5cce55",
-      "title": "리튬 가격 약세 길어지나···배터리업계, 판가·재고 부담",
-      "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Dc2FoX2lrbHNnNmI5X3dfam1tZkMtRmxBUHN1UW5takpkQnVvZ1gtZHBVeTJjeWE3ZVVtZnRqaW9mTzE2WXJ1eTVpbzEyS1Z1OGU2b2RiRkdCUUdoVFB4ODZhTjlzVTJqWTlEajFybDY2Z9IBdkFVX3lxTFB2bUFsSzlHb1dETTZPN3pRbnhtU0sxc1JqX3JZdF90V3pjTjZndm1NeUJnQWw3VkVMUFViaTlTVUg4SnItalRMLWVkZHBhUGdwVWFlUTMwNHM0elRtNUZFS3NvOHdoVC1ENEY0dWRlLWFNanBMY1E?oc=5",
-      "publishedAt": "2026-11-22T00:00:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "리튬 가격 약세 길어지나···배터리업계, 판가·재고 부담 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.42,
-        "confidence": 0.69,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "약세"
-        ]
-      }
-    },
-    {
-      "id": "efa5ae4a01331a29",
-      "title": "90년대생도 희망퇴직 대상?…석화업계 장기 불황에 `곡소리`",
-      "source": "디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvd3JOYUp0TGIxdkpWUGgzZ2JmTGNjaWpacEtzMEE2em81Tk8tWFhvY0liRk9zdmpyNElJc1BNb2dwZFNENUhCWF96SkE4MExxUkxERFRmcE5RVlhOZVp1VkJB?oc=5",
-      "publishedAt": "2026-11-20T22:00:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "90년대생도 희망퇴직 대상?…석화업계 장기 불황에 `곡소리` 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "e679124a138c41d9",
-      "title": "배터리 소재업계 3분기 한파, 코스모신소재만 웃었다",
-      "source": "디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OLXlvOXAwektBTW9UaWJ5TVVUb1d0YVI5OFFnaW9qV1pmaVlDUGJZSXF1TDc3OE56RzM1bWRyc0NzQ1cyUjdFREQ0a2MtM1E5SVRreWpyZkpHWVhpSVZOd05tbTVVZw?oc=5",
-      "publishedAt": "2026-11-20T08:44:12.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "lgchem",
-      "stock": "LG화학",
-      "ticker": "051910",
-      "relatedStocks": [
-        {
-          "id": "lgchem",
-          "name": "LG화학",
-          "ticker": "051910"
-        }
-      ],
-      "summary": "배터리 소재업계 3분기 한파, 코스모신소재만 웃었다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",

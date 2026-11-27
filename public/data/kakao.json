@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:26:22.369Z",
+  "generatedAt": "2026-11-27T04:39:34.220Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,160 @@
     "name": "카카오",
     "ticker": "035720"
   },
-  "dailyBrief": "오늘은 수급 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기술 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "“외국인·기관 얼마나 샀을까”…카카오페이증권, 장중 수급 정보 30분마다 제공",
-    "주주행동 대표 \"카카오, 인적분할 소통 거부…불통 계속되면 감사 선임 카드 꺼낼 것\"",
-    "카카오페이증권, 국내주식 종목별 수급 30분 단위로 제공한다"
+    "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+    "카카오뱅크 AI 이모지 퀴즈 정답(11월27일)",
+    "카카오페이증권, 국내주식 종목별 외국인·기관 거래 흐름 더 촘촘히 보여준다"
   ],
   "articles": [
+    {
+      "id": "dc34e2dd165d08a4",
+      "title": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Mk1INkNYcWlRSzdmYlc0alQtbjdVeTdRbnRqMVc3TzBVMUpTMFNzR2FjTURidzUySkhxaHM0TDNhTEk1UUk5OXRXTWFmQ1BZU0ZudmNUZzZTcXJiTFNrLVllT1hmWGlmZV9pRk93S2Y?oc=5",
+      "publishedAt": "2026-11-27T01:17:07.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        },
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "83114d1aaf2913c0",
+      "title": "카카오뱅크 AI 이모지 퀴즈 정답(11월27일)",
+      "source": "게임톡",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNU5OZ2N0dWZKZWpYNVd4QmtOSXRwcFZRb0xBWlRIQmdTdGhsN0ZDdF9xemVOTjNHSVJmcGpScEJmblpJSW9lcGY4RTV4bnlWa1NObW5ReWU2ZU9GX2F2U1pBMG9oOE5OdkFTUw?oc=5",
+      "publishedAt": "2026-11-26T23:01:04.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오뱅크 AI 이모지 퀴즈 정답(11월27일) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6054c60ed5dba19c",
+      "title": "카카오페이증권, 국내주식 종목별 외국인·기관 거래 흐름 더 촘촘히 보여준다",
+      "source": "핀테크경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BWDdFM21pMk9ZUEdQdTNfeDJwMkdMcTB4OVRXV0szY1R2SE5qa0x4NFlJRW03cHdrMExrNGRSN0NGRHlfb3pvRGctN3lnVDdYcnR3N0FBcjlmSk1LeXkyWWg3Y201U0cy?oc=5",
+      "publishedAt": "2026-11-26T22:15:31.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "카카오페이증권, 국내주식 종목별 외국인·기관 거래 흐름 더 촘촘히 보여준다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "6bb35c7ca93be1fb",
+      "title": "美주식 사는데 투자성향 안 따져… 증권사마다 기준 제각각",
+      "source": "IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSTFfZEFHbEJ0Zld1VHFMRHZjQXVsYm5UUGtYVFliTnFrOEFPRUwyaDkzNjRXeEI4bVVvR2NXZTNwcTRGeHB2SnBUblh5eWpJOVVSOU1LY0RjcVVKNTl3MWhVQWJlZG5VS0xBSHJYT3duY1U40gF0QVVfeXFMUF9JMV9kQUdsQnRmV3VUcUxEdmNBdWxiblRQa1hUWWJOcWs4QU9FTDJoOTM2NFd4QjhtVW9HY1dlM3BxNEZ4cHZKcFRuWHl5akk5VVI5TUtjRGNxVUo1OXcxaFVBYmVkblVLTEFIclhPd25jVTg?oc=5",
+      "publishedAt": "2026-11-26T21:40:00.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "美주식 사는데 투자성향 안 따져… 증권사마다 기준 제각각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "투자",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c3457c57b2bde9ff",
+      "title": "네이버·카카오, AI 시대 ‘UGC 주도권’ 쟁탈전… 창작자 확보·수익 다각화 총력",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXlieTRCSWROcDdSRk4yakJXb1hHZE5VSERZR0dKTUpsb3JOYzE1aGJETHAzSEZKQ195c3ZoTHUzYVEtakVPeXg4M3QxRnE1allwbTBPb3JwZnNlVmotbk44MEdRYmVKNS1rbGMwVDhxczBLNkRhT0dOblo4Y2V3ckJpRQ?oc=5",
+      "publishedAt": "2026-11-26T21:03:26.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "stockId": "kakao",
+      "stock": "카카오",
+      "ticker": "035720",
+      "relatedStocks": [
+        {
+          "id": "kakao",
+          "name": "카카오",
+          "ticker": "035720"
+        }
+      ],
+      "summary": "네이버·카카오, AI 시대 ‘UGC 주도권’ 쟁탈전… 창작자 확보·수익 다각화 총력 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기술",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "2d65d2f048a19c79",
       "title": "“외국인·기관 얼마나 샀을까”…카카오페이증권, 장중 수급 정보 30분마다 제공",
       "source": "디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xXzdPaGhwNUpMd0RjblV3NzFSeHFyY0p0Zkh5QWw5RTRoT2FKbTNkVzJBSC11eGwwQVVsZGxIVEl2SGZEdWlXNkhsSHpMQll4NUlFTnZXYjhTNDJNR213X1d0V1g?oc=5",
       "publishedAt": "2026-11-26T08:01:02.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -42,12 +182,12 @@
       }
     },
     {
-      "id": "31bdf4de0c89ccda",
-      "title": "주주행동 대표 \"카카오, 인적분할 소통 거부…불통 계속되면 감사 선임 카드 꺼낼 것\"",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTm95VGhMS3N1OXZ6OXoxQktrdFAtTzlUb2p4d0YxQzNLX1hydnVURThlMVlZRW05dEt5VGEwQksyWnlyV2x3clZkX2ZfWHlDWmtyeG9OYU1zNTV2c285d3ZCTjZ3S0RySXFZcWVGU3o4SGlNY1JYUGJJTzJpU09NYzNabw?oc=5",
-      "publishedAt": "2026-11-26T06:47:34.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "582b100f5818941c",
+      "title": "카카오페이증권, 거래동향 서비스 개편…장중 수급 정보 제공",
+      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQSXczdlZSQkVJVnp6MjAtMUVkWVF5akRRVnlsMXlPeWhmdWZWX0lXT2NmbWJJeWRuVzdzLW4xdHhxTDVSb0V5aHJleDhfSXVITnZGN2Y0Y3RUM3hYWUFIeTUxdnVzeE43WjI3VEFMbUppZw?oc=5",
+      "publishedAt": "2026-11-26T07:34:28.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -58,7 +198,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "주주행동 대표 \"카카오, 인적분할 소통 거부…불통 계속되면 감사 선임 카드 꺼낼 것\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "카카오페이증권, 거래동향 서비스 개편…장중 수급 정보 제공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -74,7 +214,7 @@
       "source": "노컷뉴스",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pMWNCRlRCQW5YU0stUXZ4cHp4YkRUbWRtOFMwbE1yWmdiX2p4WG1ibWM0dmRhQVQ5aDhuSC0xZTJ5YzY0U2tKVDRmcG9BWTZ3SlE?oc=5",
       "publishedAt": "2026-11-26T05:37:29.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -101,7 +241,7 @@
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05akJDQWhFVGVMbHpEWnE3WFl5SGcyQlFmVUl6MVFEaTdUc01Xbk9YLW1IVkFnX0RhTzluWExhMEhkaWF3UTNMdFpqUHpoVW5pM3lJcHU3SFlDeTBRdGhzU1B6ZGlTd2JQUS0w?oc=5",
       "publishedAt": "2026-11-26T03:24:24.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -123,12 +263,12 @@
       }
     },
     {
-      "id": "2c95ba9f96e56366",
-      "title": "카카오페이증권, 국내주식 거래동향 개편…장중 수급 정보 제공",
-      "source": "뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SRW9iUlFKYjhveEdSdGdnMzQydEJqTEcwcGxZbDJObjlsbWpKVTU5Sk5ydklnNVdRR3B0X1NkSVdDNGRUaDRyUmdaN1dac3pid1Jpb2pXVHRfdThBeW9hX9IBeEFVX3lxTE9sNURPTDBEaVIzV1lHVFNEMk9wbjVRaExlMHdqYlhORXhRb2laZFdrWWVoR2d4dWpLUTRCVkYtX2hNR3VsdDFUVVVVcG9SbmN4RkRKakR5ZjhxamlobDBsVEJIR0szRkgtbW9KSnVSemRwcm01Tl9uRA?oc=5",
-      "publishedAt": "2026-11-26T02:30:53.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "5094ccfbe7e6130a",
+      "title": "카카오페이증권, 외국인·기관 장중 순매수 동향 30분마다 제공",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01UEtZYmNpR0ZfNXVKTUs0VEotRkg4OS1lMUNTd25nb3NuNmZGX25xNWZ3RmtZQWlZZXR2cVFscHR6c2hpV19OT2NCX29tQQ?oc=5",
+      "publishedAt": "2026-11-26T01:01:33.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -139,8 +279,8 @@
           "ticker": "035720"
         }
       ],
-      "summary": "카카오페이증권, 국내주식 거래동향 개편…장중 수급 정보 제공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
+      "summary": "카카오페이증권, 외국인·기관 장중 순매수 동향 30분마다 제공 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
       "sentiment": {
         "label": "neutral",
         "score": 0,
@@ -155,7 +295,7 @@
       "source": "이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sWTc2cWNlbzNQaWNhTzVqLWZ4LTZLeDl1UWRxRGdRR0J1UFpYRnFYbkphWXN5aVNDWDAxX0twakpvV2ZUV2lTNkVQaWdwQUdtTTRXNQ?oc=5",
       "publishedAt": "2026-11-26T00:28:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -182,7 +322,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1teU85Y1RpRHRVdFhoQ245aVJZcjYzMzlhRHBOYjdIWHdvNHdkX0lZa2dKLVZBb1VpOUQ0SExkWWNOTmYzR3hZZktQTlA1VFdHZThicGJOQ2EyMk51?oc=5",
       "publishedAt": "2026-11-26T00:17:00.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -209,7 +349,7 @@
       "source": "포인트데일리",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CT1ZJTDJGSFhQOGEySzl3Nmh1N1Q4RHU0U3A0RFMtcE4xUzdIcXBHeUFsOVYtYnhhLURtMnVkbTVmUzItaDcyNUF4cE5YcDI0ekJnaWUycFBxUEtkTS01a3BoY1FYYjBOOXlKM01hSDnSAXRBVV95cUxOcktEWFgtZGRfaklaaFFzUUpBQkNKNmdUdEdRbnBnbnVVWk9mVElGUEJyUEp0SW9VbTF5NERkeXRaZ0QyWkhaNDlDZV9mWVhwWGFfek10QUpMN01oQ0w2N3BzSkJiQUVqZWpfNDNQWkd6UllneA?oc=5",
       "publishedAt": "2026-11-26T00:14:07.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -236,7 +376,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iRkducDUzMFkyMEpELW9idDY5Nm1oVERRNmhoRWQxTmJWeHh3TjM4aVBhdFVuVHd6dzZuOXJtOE5hZGhUUFdER1FrZk0wcTRVZnJ1eGlzQnNnRjl6M1JKOGJSRjEzcmU5b0VIM3BIVEozdms?oc=5",
       "publishedAt": "2026-11-25T23:59:51.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -258,12 +398,12 @@
       }
     },
     {
-      "id": "ed165d39ad87dfa4",
-      "title": "카카오뱅크 AI 이모지 퀴즈 정답(11월26일)…오후 12시 정답 확인",
-      "source": "게임톡",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWlhxYk1ROXg4eEE3eVFWazBuS2d6Z0FITWRwUWV2ZFpab2FDQUtVS0p5c2w0OHdKSXVsNDVVZHktcDFZSEFqQVZRbGRjSjJ6SDd6dDdkVExJN2J0LW5PaExaM0RiOXNGemdWaQ?oc=5",
-      "publishedAt": "2026-11-25T23:01:32.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "8350db8b261c9058",
+      "title": "카카오뱅크, 프랑스 AI기업과 파트너십…금융 특화 LLM 개발",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkQ3NNQk5RN3lOUlZYTjE4bmJqU2F0c1VoYUhkaXM3ZEJkaXVTbmJxdlQzV3ZDUTRJYllKSVNhVlMtOUVOT29yanRuVEJYX2dOdWpZbzlpeDNpNFIyVkptRNIBYEFVX3lxTFBkQ3NNQk5RN3lOUlZYTjE4bmJqU2F0c1VoYUhkaXM3ZEJkaXVTbmJxdlQzV3ZDUTRJYllKSVNhVlMtOUVOT29yanRuVEJYX2dOdWpZbzlpeDNpNFIyVkptRA?oc=5",
+      "publishedAt": "2026-11-25T00:48:50.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -274,7 +414,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "카카오뱅크 AI 이모지 퀴즈 정답(11월26일)…오후 12시 정답 확인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "카카오뱅크, 프랑스 AI기업과 파트너십…금융 특화 LLM 개발 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -285,12 +425,12 @@
       }
     },
     {
-      "id": "9b396c172a667b7c",
-      "title": "카카오뱅크, '66억' 자사주 소각…주주환원율 50% 확대 목표에 속도",
-      "source": "더밸류뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10MjdtZVF1c3ctQ2hpRDhWVzloUGhLeGRwRl84eEQ1UmRVaU1BLVhxZnNFQmY1dkxpcmlaVDE3SEV2cjhnMnEyQTR3UEtReC01UlVzZw?oc=5",
-      "publishedAt": "2026-11-25T07:08:42.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "7857921f0b645d72",
+      "title": "“사진 올리면 쬬르디로 변신”…카카오, AI 캐릭터 만들기 행사",
+      "source": "서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XMTVRQWFxUDVobmNReU5FNXlaT00zcEg3alZXVlVFYlhpOFk5S2VTbmJLTldmQWE2VHozWkNQT1BKeWdEWTlrV1A0QU5qczV1eEtBcnR1R3FydmhBdTJTTnVGYWM?oc=5",
+      "publishedAt": "2026-11-24T04:30:57.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -301,61 +441,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "카카오뱅크, '66억' 자사주 소각…주주환원율 50% 확대 목표에 속도 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "3fe78db6cc623aef",
-      "title": "[사법 리스크 던 김범수]② AI 적자 640억…카카오, 카톡 비서로 ‘반전’ 꾀한다",
-      "source": "대한경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPUGtsWndubUdrdERVSE5obWcxUy12cnRYdFZ3RDJnVnpRNGNUVFBGYmxSVHh3SGxicUFnbDBpbFRsUUN4cjdiMVNOZzVYYVk4MFhId1JNNEJWYWF1LWFhYl9nSUItREE2UkVaRWdlZnNUOFE?oc=5",
-      "publishedAt": "2026-11-23T20:20:19.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "[사법 리스크 던 김범수]② AI 적자 640억…카카오, 카톡 비서로 ‘반전’ 꾀한다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "5785db53c59648bd",
-      "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
-      "source": "한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MOURQWEhWSVdzaFFTY294NkdDT2I2V0JPYThpMjgwM0UwelM2YXdjY0UweFpmeTA3Y0tUWTk3VUo1cV9NX2tGSWdhSnQtYVg3dDJsX3RFUWxjZw?oc=5",
-      "publishedAt": "2026-11-23T08:48:16.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오AI·카카오X 분할상장 계획도 '안갯속' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "“사진 올리면 쬬르디로 변신”…카카오, AI 캐릭터 만들기 행사 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
@@ -371,7 +457,7 @@
       "source": "매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWSXh0MkhHNWJ6NkFtWG5oQXRkZFFNUm9xdGxUQmFtZTRhOUdqekcyZnhYaEFSYlVLNkNTMXVUTzdIeGhQVmJBaUoxc3RCUHVGOVYyMkRHUi1qUHJpcXo4R3o2X0s?oc=5",
       "publishedAt": "2026-11-23T07:22:41.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -398,7 +484,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXcTZmeENVcWFZTjZPMjBmdUdQUXpaSHk0V2FqNFVtMS1lOWlYUkJkcF9WRmdXTWRJcmEzSU44VHFCUC1vbG1Ga3lucG1DZw?oc=5",
       "publishedAt": "2026-11-23T04:24:11.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -420,39 +506,12 @@
       }
     },
     {
-      "id": "797172db02dbba71",
-      "title": "카카오, AI 에이전트 실전 경진대회 개최…5,000명 지원해 100명 본선 진출",
-      "source": "인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LcXBkeUoxcmhqaDRrc3FJOFg0dTlfMGYzbVcxeWo1cHFEdFRwRGg5blVCVXlSN05NQ2g4QkpwaERwU193c3JmSzNTVU5VTE1fRGZNTHV0M1V6ejJGRUlPek1qQ3lYdUU?oc=5",
-      "publishedAt": "2026-11-23T02:59:05.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, AI 에이전트 실전 경진대회 개최…5,000명 지원해 100명 본선 진출 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "1a18a29d99149f01",
       "title": "“AI 에이전트 시대 이끌 100인 한자리에” 카카오, AI 인재들의 축제 ‘AI TOP 100’ 3기 성료",
       "source": "카카오",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oUC1UU3FNaTNVaTRYbHpQNTRRVVdlS2gtc3ByYzZTVVBtb1I5VzdEMXpoU1hib0JiOHljUE51QzhUa1lxcWNXbWU1SERoY280bVBvZTRn?oc=5",
       "publishedAt": "2026-11-23T01:39:30.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -474,12 +533,12 @@
       }
     },
     {
-      "id": "9d952f40760c80af",
-      "title": "카카오 'AI TOP 100' 성료…본선 진출자 39%가 비전문가 - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FSFVVWFU5cTVDcHVRSk1KRDUzWU5yMno5N19UWnFvZDlXazZtNEg4YkNwT2JQT2ZxUHZKVDM3VUpHc0ZNS1RuRFdDNW1CZjRLa2hyajNkbTlZX2dpelNhSGE4RGtvYnPSAWxBVV95cUxObGtFRzE4aUlLbzQ0aENydkUtRXplQWVfV1dBYlY4M2F2ZVR1N2NybVdvcXM4MlZUdDFiVXR2WmVGY2E4ZDk4eDd5UUNUUjY0SERpbU0ySjFHUGJBdmtZSzRSYjBWTXpuc1N6Y3I?oc=5",
-      "publishedAt": "2026-11-23T01:38:18.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
+      "id": "766476a25df26ed9",
+      "title": "카카오 'AI TOP 100' 본선 개최, AI에이전트 운용 역량 확인",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jYkdUNEZsUzZGejVEMWpTbERKWXllY2liUHFsZlBOTmpLWnFFSDNKb0FORUlmczI2MkpPSnJqOENfMGhUdWhtR3VUVmZwTlNwVzFCbVA3MUFHbklW?oc=5",
+      "publishedAt": "2026-11-23T01:07:00.000Z",
+      "collectedAt": "2026-11-27T04:39:34.220Z",
       "stockId": "kakao",
       "stock": "카카오",
       "ticker": "035720",
@@ -490,61 +549,7 @@
           "ticker": "035720"
         }
       ],
-      "summary": "카카오 'AI TOP 100' 성료…본선 진출자 39%가 비전문가 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "0e7978f81694afe1",
-      "title": "카카오, ‘AI TOP 100’ 3기 성료…AI 에이전트 운용 역량 겨뤘다",
-      "source": "와우테일",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jQmpvbUtDTlpaLVppRUFKN1JqT19zVTFobVNjSWR3YjFxLUxWOGdUR3VHdjUtY1RlcjAzYXp2MVFkYnBtN2NfMllNMnprRm8?oc=5",
-      "publishedAt": "2026-11-23T01:14:56.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "카카오, ‘AI TOP 100’ 3기 성료…AI 에이전트 운용 역량 겨뤘다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기술",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "26a59897cf528832",
-      "title": "[AI 인사이드] “질문하는 사람에서, AI를 움직이는 사람으로” 카카오 ‘AI TOP 100’ 시즌3 성료",
-      "source": "AI라이프경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1saXJyVXpmX3hUeXl2anNHNkhJRWwxMTgwTUpwR2tteHlVUDBWbmJuaEdVRFpnYmVQemtvNl9hRTlBVzZsd1pEUnh5YkJvM3lEa1gwY0VKMVNpbENfZjF5cU1UTXdteVRhYk8w0gFvQVVfeXFMTmZzcndXRXhLTFJlelhRVWl4MDduSkJra3ZLX3F4TnE5R29ydXRWcXJOeXd6T3RDWlF4S0JHdWw0SnQ2d3hzYUREVHhic3BhVFdsTDRFVDVFOVFra24zWTc0MEloVzJlUjFFbG1EMFJJ?oc=5",
-      "publishedAt": "2026-11-23T01:06:25.000Z",
-      "collectedAt": "2026-11-26T17:26:22.369Z",
-      "stockId": "kakao",
-      "stock": "카카오",
-      "ticker": "035720",
-      "relatedStocks": [
-        {
-          "id": "kakao",
-          "name": "카카오",
-          "ticker": "035720"
-        }
-      ],
-      "summary": "[AI 인사이드] “질문하는 사람에서, AI를 움직이는 사람으로” 카카오 ‘AI TOP 100’ 시즌3 성료 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "카카오 'AI TOP 100' 본선 개최, AI에이전트 운용 역량 확인 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기술",
       "sentiment": {
         "label": "neutral",
