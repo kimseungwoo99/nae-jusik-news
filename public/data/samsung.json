@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:39:34.220Z",
+  "generatedAt": "2026-11-27T17:05:18.870Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,130 @@
     "name": "삼성전자",
     "ticker": "005930"
   },
-  "dailyBrief": "오늘은 기업 및 반도체 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 반도체 및 기업 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
-    "머스크도 삼성전자에 반도체 공급 요청…이재용 반응 \"뭘 더 해줄 수 있나\"",
-    "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\""
+    "'삼성그룹 로봇 파트너' 제우스, 삼성전자 반도체 '100% 무인화'에 라인 확대 기대감…",
+    "삼성전자, 오늘 30조 배당…이재용 회장 4488억",
+    "[취재노트] 임원 대거 교체한 삼성전자 DX…적자 탈출 해법은"
   ],
   "articles": [
+    {
+      "id": "f3c0f59369f238c4",
+      "title": "'삼성그룹 로봇 파트너' 제우스, 삼성전자 반도체 '100% 무인화'에 라인 확대 기대감 '증폭'",
+      "source": "프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONUN0b3poTV9YWG4zLV9IamlzMWN0d0wwd1ZlWjgtNl9WUzNqaUN1dFlJQUpCVm1YOVJ6SFRZS0hmdXR0Z0xuUGZ5VmJSZ21aTk5KQWhONXptSUZYbHlFR1ZobmZXQjdqQVFXNQ?oc=5",
+      "publishedAt": "2026-11-27T05:30:13.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "'삼성그룹 로봇 파트너' 제우스, 삼성전자 반도체 '100% 무인화'에 라인 확대 기대감 '증폭' 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.28,
+        "confidence": 0.62,
+        "positiveTerms": [
+          "기대감"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "f0eb3608ea987032",
+      "title": "삼성전자, 오늘 30조 배당…이재용 회장 4488억",
+      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZXJ1alF4TGNiUWlSTTZYbnVEaXVKZVFITTN0RXpCaUM0MFJfbkZ1OGRycm9sclRQVE9JbW1vMGUxRC11Ui1jRlkwVUtEMTRFel8tWUs5NlA4RTY5ZnF1aERIUlNxZnVZR0E?oc=5",
+      "publishedAt": "2026-11-27T04:50:00.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 오늘 30조 배당…이재용 회장 4488억 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "8bdeb2dcf415fb17",
+      "title": "[취재노트] 임원 대거 교체한 삼성전자 DX…적자 탈출 해법은",
+      "source": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQjN4VGkzcTlPRFgxa0pGUlYtV1N4ZmZNZktfbUgtbldISnFRNVJiOHlTZDdJQWo4M2wwTTJZMTA2S1E3cTBaVnB0dmJyR2xGdS1yQW5DUjBxcDY1aHE5T0l3VDhzSXVpZUJ4eEUzb9IBc0FVX3lxTFBDd1ZuNzkzcC0tYzZFN1NrM2s0Q3FpV3BocXp6RmVfTS0wUnBFNkVpTnpQb3dndV9iQnVSLW9aRWpuRnpoS3lOc3RJbzY5Tm4tNndjMllaSE9NMnNya05uZVVycm5CdTRSSWJoRmFEQ1FsNVU?oc=5",
+      "publishedAt": "2026-11-27T02:49:14.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "[취재노트] 임원 대거 교체한 삼성전자 DX…적자 탈출 해법은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "03a83db1096b2221",
+      "title": "오늘 풀리는 ‘삼성전자’ 배당 30조…이재용 계좌엔 얼마가?",
+      "source": "JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSXFVbldjX2FHUXhickp3XzZkWXFueHBoeUoxWTAxb25pemZVRXZYX3lYcUlBYzJmbGNOWjFmc1ozZ2ZSNkJ5RURyT1RPY1JoZmoxeA?oc=5",
+      "publishedAt": "2026-11-27T02:49:00.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "오늘 풀리는 ‘삼성전자’ 배당 30조…이재용 계좌엔 얼마가? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "799e6762e9110e44",
       "title": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
       "source": "디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zbVZCZ1QzdjZqWU1XaWRySEhxWG5TSUd6bU1zVERBM1FYMFA0M2sxRWtCLWZYRWV6Vkh6b2FfX2tKZkVIWllTMF9KT09OM3QtMC1zQUdpeF85ZEl1bk5KNHdGanlkQQ?oc=5",
       "publishedAt": "2026-11-26T23:51:58.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -47,7 +157,7 @@
       "source": "녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM2JXT3FnaEh1Ylg3Yld1VUhEN0FUcXZYUG5rdFRjQkItYjd0WTJaRF9zcmtxSnpKSnRSdDVlREhDLTd1YXB3VlcweWUzb2c2UHhSUVkxcVBNcERJd3g2U2stcENzTldZ?oc=5",
       "publishedAt": "2026-11-26T22:20:15.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -74,7 +184,7 @@
       "source": "주간조선",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XdGgxYW9KckQ1VjNISFBDcmtKYkNobXJVcDdELXY3YjlVWUNqbFBDZmRrbkdMdzN1SXJEdmM3WS0zOWxmWGZPVVhwaGxQcmtXQjNRTkxuRXQzTF9hb19OdTJyZm8yZWV1MDA0?oc=5",
       "publishedAt": "2026-11-26T17:59:36.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -101,7 +211,7 @@
       "source": "머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZ3RxNnh1SVJxRnl1LW43REtaS2M3SUo0Z2duQ3hQTmE4SmlVRzV0aTlUUGIzWFZLd2JNM1FrTVppVnBvclVxNE1GNnlHZ29xYmZkM1otM3pEMEZqX2tGRzBkNnljcXQ20gFuQVVfeXFMTmtGYUh0WGhHY2JtUWJGNkFUTWtZdFNVYUFMUFN6anREemJRTVVRaG10VkMxSXo0SWF3ZzVjWWtnZnBxcTdVYVRZV1Z3OXpxT25Uc25RQUpRa2NRZlh5aUZpaHRsMHotZXRPazQyaUE?oc=5",
       "publishedAt": "2026-11-26T13:20:48.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -123,12 +233,39 @@
       }
     },
     {
+      "id": "c503443817daf36d",
+      "title": "삼성전자, 인수합병 속도 낸다…M&A 전담조직 신설",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZmVOaldxeG1aYUpNZlR6bVY2ZlRJeHo2TGRib2dONmFMZGx0d2pQV1FKOUkwRkEyUjJsRGFTRWtmX1NQOFVNLTMxcUNOYWxiZGo1bzV6VkpUbGpWc2Q5ejhOY25IMDFqYk5MLXRrcGY?oc=5",
+      "publishedAt": "2026-11-26T11:39:00.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자, 인수합병 속도 낸다…M&A 전담조직 신설 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "74d43dba7453db41",
       "title": "삼성전자, 대대적 조직 개편…\"메모리 개발체제 일원화\"",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtdWxPSmlEN1ZXd0tIcExRcmNXT3VqQTdDbm51N2tuOFZmY2VESzR1WEFoSXpiZDFjZWNoeEhycnJZcENrdG1GU3JPMjhuY1A1TmtmQXJMZTlDQQ?oc=5",
       "publishedAt": "2026-11-26T09:40:33.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -155,7 +292,7 @@
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5M25ETU12ZHN6SDdTMDhwXzBzMUxVNGp6a3dod1lZaFRuV1U3eTN5bU1vREEzVnZnLXVDRUQxMDVvLVF4TXYyY2p1R1Uzb204SmdWQWVNM19NSC0tZl94eUpka0QyTzA?oc=5",
       "publishedAt": "2026-11-26T08:59:33.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -177,12 +314,41 @@
       }
     },
     {
+      "id": "340a17aaae0f15a3",
+      "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+      "source": "전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9raXp3aEdENXNHdlgxNHJBTnczcjVMNmpvOGtiQjhzOFZBU2ZMZl96YnRwRWJSR0pVM2ZOU3ZrdjB6MGtoejU0bG5UZU4zUQ?oc=5",
+      "publishedAt": "2026-11-26T08:50:00.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
       "id": "cd461377e215858b",
       "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 강화(종합)",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBITUJ3SUVsRXljXzdReWczMlJKOGVra1dSeDNVQ2lRMXM0NGNjNllXc2ZFNVNCeENoM0VhRmNWX1ZnTG1yNUEyQ05fLWNNZk5uWExuZUtqVy1vQlnSAWBBVV95cUxONGJYVmJUMnRqME9QTEpMVGFEb1A5ZVh6bHJPdzJ0dlljZThZT0JGSm1DMFkwQ3dfNDNwRGw1c0FrOUt4UjhjQXpxVHIyZGxINEx0N0t6NlY3d3VxVWRMdXI?oc=5",
       "publishedAt": "2026-11-26T07:19:55.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -209,7 +375,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1Y2NFVhaFlmOF9zYl8ya3o1UXZ3ZjUxWVZ6MTNPblNWa0l6SVhLd0l6SUZ1NWlYT1Fza2IxS3pEN1lIWS1kMlZJbV9Fdw?oc=5",
       "publishedAt": "2026-11-26T07:00:00.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -231,12 +397,12 @@
       }
     },
     {
-      "id": "ed667f978ef5e21b",
-      "title": "삼성전자, 세계 최초 500단급 낸드 기술 공개",
-      "source": "연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHOUV5WldiTU85QU9XeXY5ZUhvX0xoSEVWMFV4czF6RkZ2dEpGbzc4MVBfVDNRODhfb3hSNDNWRG9FOTVjV2tOSmZQWmQ5UjVFaXYzWndvV3F2TW9OQk5rc0FWR3NFSTlrd1hfSDNVQS0?oc=5",
-      "publishedAt": "2026-11-25T23:38:36.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "id": "3bf8bb1c72c7753d",
+      "title": "삼성전자, 반도체 조직개편 단행...미주법인장에 윤하룡 부사장 내정",
+      "source": "M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNU1RZ1JGMDNUV1JHMHU1ZWozLUc5VXVER0IxTWduRE85a0g5Z0ZVOUR6MFYxTzZqYUxPSk1idUswZWNtM1JmWktHZFU0Q0lUT19vTjlsczVFa2RBdG9MVGstUERJOTg?oc=5",
+      "publishedAt": "2026-11-26T02:51:10.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -247,7 +413,7 @@
           "ticker": "005930"
         }
       ],
-      "summary": "삼성전자, 세계 최초 500단급 낸드 기술 공개 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "삼성전자, 반도체 조직개편 단행...미주법인장에 윤하룡 부사장 내정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "반도체",
       "sentiment": {
         "label": "neutral",
@@ -263,7 +429,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nUWx3V1IyRzMzS3NnMGU4c0k5UTU2UG1YU3V6WTNOZXpsVWNheHEteFAteE9uSE1aS2wzSHotdEp6RllMdkdJRGZaMURFUmZTRG1wdXdLV3VCNndrekxGY9IBeEFVX3lxTFBnQW1tVVdiWUc2cHRsMEQtcldEVm1TeTFnVmVLLTNqU29venZONDJaNlFHUzNLNlJhMjhrUkszZTVDRXZYLWhQc3d5MUpiMU9VQkxmSUJJOXNRSk9ENXlBdHZxVDBuSTJiZmJ4cjYwX3oyUkVXT2YtQg?oc=5",
       "publishedAt": "2026-11-25T20:00:00.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -285,39 +451,12 @@
       }
     },
     {
-      "id": "607ad7fcaf140074",
-      "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRnN1c1lxS1JubU1lT0ttUW16UTlvakk0NXFCSm95REpLWXBqTzh0dG9VMzhtVzBLRV92dTNEYWtaV09jNDJJaFJOUjR4d1MtWUpUTTJR?oc=5",
-      "publishedAt": "2026-11-25T12:31:35.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "8ab56157fca82d03",
       "title": "\"자꾸 특정 라인에서 죽어 나가\" 삼성 반도체 닦다가 또‥",
       "source": "MBC 뉴스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIbmRZZTRzNldIT2FnaTAyUy1uRHhmbWl6S2YwQlhvbkhRNldUaVh4R0pUVjRvSzNSWXU0R0NFTTR4dU5tVUI2LVdpSGdZR2VOaDdyRm9HOXZORUozeG91RUg4VEcwa0ZQYkRBdUpyQy1rYlY4R2ZBa9IBeEFVX3lxTE5WOV9mS3JWSEtJem40Q0Y5MUc3eTZUNEdJUmNvaFAxc3UxT0wyWVFjT1ZEODlaRHo5Q1QzRTlta3dnd3U5eHJHMXZnc1RUTVpyOWVObktIalJIeDJxZGJNdjlrVE9zZHlZSENWYmg4TmlFZzZzY0lTbg?oc=5",
       "publishedAt": "2026-11-25T11:36:24.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -339,12 +478,39 @@
       }
     },
     {
+      "id": "0ecd1d4b53180a39",
+      "title": "삼성전자 반도체 공장서 일하다 ‘혈액암 진단’, 37일 만에 사망했다···“화성사업장서만 12명 발병”",
+      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYk9DRkpzeVhndDN4VGQ2ekdILVRJRGVyM0JKX0hNZ3kwSFNjcFdtUXhBTGNrdV9GVk15YjFoY0xZY3p1TU54WVFJcWlORExzZ2F2dGVlYVBvd9IBX0FVX3lxTE5BTDl1MG9kbHVYY2o1eXl0Qm83c3V2VV85ZWVzaUdwZjlkSU9XTjFtMnd4eFlOdDlIRkNHNTN6dGdSNS1Ea1I4NVBnTmJZZWk4RmpKMmtkcC1FcW9mWFhJ?oc=5",
+      "publishedAt": "2026-11-25T05:34:00.000Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "stockId": "samsung",
+      "stock": "삼성전자",
+      "ticker": "005930",
+      "relatedStocks": [
+        {
+          "id": "samsung",
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "summary": "삼성전자 반도체 공장서 일하다 ‘혈액암 진단’, 37일 만에 사망했다···“화성사업장서만 12명 발병” 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "반도체",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a38f0d6b06d65262",
       "title": "'CES 2027' 로봇 전쟁…삼성전자 휴머노이드 출격 주목",
       "source": "로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kOVdZREVEM2V6bm1zWE9GdVpXQVd3WWlnc251Z3JGbE05UDZ5a1U0NjNWSFpXTkE4cHhpSl9WLXZYZl9SelROTWxKby1rMXMxNktuOWdWU1BFbURGWUQydmdHWXJUaGJCejk0Zg?oc=5",
       "publishedAt": "2026-11-25T02:34:09.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -371,7 +537,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMTRCMVhGOWI0Um1fWGFLUGNGXzViTExaRkNFSUFyWk5weXFrZHVCYmhNMEJNVlc5RVdXQVhycU9ib1l4bHNEaTNLalBKc1FuX09LRXR0ZXpVR0g1cmg5eGZqU3dpaGhsbnZmNG9oVUs?oc=5",
       "publishedAt": "2026-11-24T23:21:08.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
+      "collectedAt": "2026-11-27T17:05:18.870Z",
       "stockId": "samsung",
       "stock": "삼성전자",
       "ticker": "005930",
@@ -384,170 +550,6 @@
       ],
       "summary": "\"삼성전자 휴머노이드 만든다면…부품업체 새 판 열린다\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "4bf87c473ff56ecd",
-      "title": "삼성전자 초기업노조, DX 성과급 통합 검토…4개 노조 의견 수렴",
-      "source": "아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBic1FxOG1KNzNYZ1hnelE0ZjhuaTB2d2lMQ1FDU0tXc3lTVDNtYnJObU91dU92cWNudGN4MkVMeHNXd0IxRHBhTEppRQ?oc=5",
-      "publishedAt": "2026-11-24T09:27:21.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자 초기업노조, DX 성과급 통합 검토…4개 노조 의견 수렴 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "788bc0a635ef382f",
-      "title": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ0Zrczd0bkJKNmI2RUduT0h5Y1MxY0hJQUhzYzBLR1EtN2Y2MFg4SDVaRENzbGtUX2JFajBNZXdoTGxOdkVaQUR2RUlrY1NaSVM5N2NsdW43RXY3bUV6TzJydWZNTXoyZWRJcEYwRkc2S1BMUXF6dFBtNjVkX3RDQ1EtTQ?oc=5",
-      "publishedAt": "2026-11-24T05:48:00.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "9dea2448f1e2ea77",
-      "title": "삼성전자, 임원 131명 승진 인사...HBM4·파운드리 주역 전진 배치",
-      "source": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDaUV2R2JldElybm9mdmwxMGJ1RWYtdlEtZkFzV0lTckpNc1cyRGFBSW9nSnVOZzFSZWVxS2lfQjV6RUxLaTgyRU1kNzgzaFB2UDFaeVBn?oc=5",
-      "publishedAt": "2026-11-24T02:56:40.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, 임원 131명 승진 인사...HBM4·파운드리 주역 전진 배치 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "ffa6d78c094fd4a7",
-      "title": "삼성전자, ‘반도체 성과주의’ 재확인…DS부문 부사장·상무 대거 승진",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTjVSSHJrSFVQSHF0NGJtLXZGY0VNUzNnTkhsaDQtd3RmT0o1M1FZVV96Umo0UGtlVkRTOUhOU1pYTzVwaVhneUM0djNRVUpnT1VUTHo1T1RyWmg3S1Rvcg?oc=5",
-      "publishedAt": "2026-11-24T01:38:30.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "삼성전자, ‘반도체 성과주의’ 재확인…DS부문 부사장·상무 대거 승진 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "44155ccbd89a0ba3",
-      "title": "아산시, 삼성전자 반도체 증설 투자",
-      "source": "서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVjBoNkZTRHZ0b2RncHdFZ1NxNk5HOXpGdHdUc2duVDh2MXR5el9vUmYyTE5yUEdSaEtrdmxFSGl5d1pDb05rNzlkUVladmpER3hpVjlLTTcwcXJDNGp4czZNU2k?oc=5",
-      "publishedAt": "2026-11-24T01:34:58.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "아산시, 삼성전자 반도체 증설 투자 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.3,
-        "confidence": 0.63,
-        "positiveTerms": [
-          "투자 확대"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "141b501a87bcba0d",
-      "title": "임원 승진 줄인 삼성전자, 반도체엔 확실한 보상",
-      "source": "비즈워치",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XZ2lQX0gxWThWN0lpdlpRa244bFJkQ3pBVU1oQ0dKVGxEME9TWndmTTU5d2xCdHBHZTFkd1lMbHFzSXR3UXhJdU1DdFVWYzVfeVAweDUwTmFyMEFScl9ZeHpnb3ZSVWtCMGtXTA?oc=5",
-      "publishedAt": "2026-11-24T01:14:02.000Z",
-      "collectedAt": "2026-11-27T04:39:34.220Z",
-      "stockId": "samsung",
-      "stock": "삼성전자",
-      "ticker": "005930",
-      "relatedStocks": [
-        {
-          "id": "samsung",
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "summary": "임원 승진 줄인 삼성전자, 반도체엔 확실한 보상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "반도체",
       "sentiment": {
         "label": "neutral",
         "score": 0,
