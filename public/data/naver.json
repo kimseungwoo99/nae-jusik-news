@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:05:18.870Z",
+  "generatedAt": "2026-11-28T04:25:19.284Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,76 @@
     "name": "NAVER",
     "ticker": "035420"
   },
-  "dailyBrief": "오늘은 실적 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 수급 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "[리포트 브리핑]NAVER, 'AI DC 매출이 머지 않았다' 목표가 340,000원 -…",
-    "네이버 주가, 혼조세 속 모멘텀과 장중 매수세 우위에 상승",
-    "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까"
+    "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는?",
+    "두나무 112억 달러 인수 발표 후 네이버 주가 3% 넘게 상승",
+    "[리포트 브리핑]NAVER, 'AI DC 매출이 머지 않았다' 목표가 340,000원 -…"
   ],
   "articles": [
+    {
+      "id": "4b27d975a128f747",
+      "title": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는?",
+      "source": "네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YZ0Jmam5XZ0VEQ0tibU1jSTV2cTEwd1gzQS1GVXUzUW9ldVljT2VxU0hnMGNfRG5rdjRSYl9kOE5fbjhPOVFYVkNEUjZ0YXhpb2pkY1VHZzN0UQ?oc=5",
+      "publishedAt": "2026-11-27T11:11:48.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.38,
+        "confidence": 0.67,
+        "positiveTerms": [
+          "반등"
+        ],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "c3edec1b5d2e8a98",
+      "title": "두나무 112억 달러 인수 발표 후 네이버 주가 3% 넘게 상승",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0pjS19ScGtTUWhqZXdDT0NnZGIyVXZzSld6MlhGU25abkFMTW1uV1p3UEtfRG1vb19KTVlrUmlwWEkxcUM2ODdqMGkzZWxqNFRZYnJ6VGYxclN5ZjFKTGotdzZ1bG1PbFR2aE5jYjQtNk5rOUd4ZUh1WTlPeXpUNXFBc25TOFJQV3BObFFFVQ?oc=5",
+      "publishedAt": "2026-11-27T05:30:23.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "naver",
+      "stock": "NAVER",
+      "ticker": "035420",
+      "relatedStocks": [
+        {
+          "id": "naver",
+          "name": "NAVER",
+          "ticker": "035420"
+        }
+      ],
+      "summary": "두나무 112억 달러 인수 발표 후 네이버 주가 3% 넘게 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
     {
       "id": "50ec0ead88236558",
       "title": "[리포트 브리핑]NAVER, 'AI DC 매출이 머지 않았다' 목표가 340,000원 - 다올투자증권",
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NellxaHBEQ0V5dmRLRkVZR0k1RExSdmVqOGJTN2R0akxRNjFyVWttY05FYXBoRWVqcTVrM01wNThsNkxwVHR5MmhnU3NsZ0R4bHltbGozb3Q3dE5E?oc=5",
       "publishedAt": "2026-11-27T04:40:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -47,7 +103,7 @@
       "source": "Traders Union",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDZYNGlRemRBZldEZnhiMnZhNm4zamtTMlNXaFMxSUlNUy1kc3B4TkVXMHl0YkQyZ2VHMHpNc3p1alJndGpELThqNU1DZXhVNmwxTzY2ckw3bG9VWVgtdGNlTnNvTnFGRmdsZ1pROWVtbjZOU1JXd0M5UllibVNibmdLeUl3ck5qQVdlMXRNVm9iLTlY?oc=5",
       "publishedAt": "2026-11-27T02:25:24.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -74,7 +130,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Mk1INkNYcWlRSzdmYlc0alQtbjdVeTdRbnRqMVc3TzBVMUpTMFNzR2FjTURidzUySkhxaHM0TDNhTEk1UUk5OXRXTWFmQ1BZU0ZudmNUZzZTcXJiTFNrLVllT1hmWGlmZV9pRk93S2Y?oc=5",
       "publishedAt": "2026-11-27T01:17:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -106,7 +162,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zZjVrWlZCeHF6cmFmaVdWQk5vVjZReS1rNDVpZ1J6MmNJSl9kRVp6a3JLdjBnemNRUGdnYXlfZGhrbk9GOWNDVXRMTUg2MUNSVHNxc2JmbXNQTC04?oc=5",
       "publishedAt": "2026-11-27T01:03:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -133,7 +189,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKczNOZ25yS3E5RDZKeG00Ukg5MVpFNVdvT2h2b3pkVVEzYlB4ekU3eWpQcDBtMTBqYVVyMkhJNG5haWI3dXJBeTJpRTh4cVBqRjVELVdHa19PcS0x?oc=5",
       "publishedAt": "2026-11-27T00:43:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -160,7 +216,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yYlJBbFJNZEg1NGNkbVY5bHhyMFk0dThvSXhGQ3pXa2Q3SVVfbjQxM29aYXVka2dHQWVJOXZLRlE4UFozbWJGSkF5U0dYODlpUEhBOHZpUmRCSnln?oc=5",
       "publishedAt": "2026-11-27T00:37:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -187,7 +243,7 @@
       "source": "글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nLVZPZVNWeFlvU2t4ODhvN3NJNllzbzYxc0dpRE0tNG5TVUVnR1FZdkZzUVpNOXdsbnJLb3lWNXNDSjJhSkxNVmhCbkhOUnJjcV9XQk5BTGVNU1lobkZ0Um10clBmSVZIdzdreWlBQzRFM2ZXRUkzR3JKQnhhU1E?oc=5",
       "publishedAt": "2026-11-26T08:30:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -214,7 +270,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQ3lvYks4cXIweUEzNWhvaUx0MzFDaVM1Z016bU5STGxwQzd4Q0hfcUl6NGVaT3hyZ0RGVjJEaWhtWTVVMC1tV1FCaVVRUkhkLWRNcUpocTBEWWFw?oc=5",
       "publishedAt": "2026-11-26T07:34:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -236,12 +292,12 @@
       }
     },
     {
-      "id": "e73868594f109580",
+      "id": "062a13f61f389167",
       "title": "추천부터 결제까지…네이버 AI 쇼핑 어디까지 왔나",
       "source": "스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DVnBmc2JBbzFNQzY4OVFKR2lUbktGTVpkMGdERXg1VjBPLXF1WHBLVVlDenNDUHo1bEI2bXlZaFJPd1k1cWpGMG5nS3lQTG8td21KcElXRTYzeFZwRFFmVm14VmJMd1JSM3c4OGZEaHVRamfSAXdBVV95cUxPUGYzVDh2SlhndGh2ZUh0N01xVHVnSm5wdVhnQkZsaWtDYUlsZGd4aFQtanAyd21mQ29pVVAxT0RmNjc3TWg2TkRxcnFtTTJjbU0zUHBQcEVxMlI1QjNfdENtZ3FQSS1JcEpqRHA3LXBhclRJOVM3QQ?oc=5",
-      "publishedAt": "2026-11-26T04:55:40.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QZjNUOHZKWGd0aHZlSHQ3TXFUdWdKbnB1WGdCRmxpa0NhSWxkZ3hoVC1qcDJ3bWZDb2lVUDFPRGY2NzdNaDZORHFycW1NMmNtTTNQcFBwRXEyUjVCM190Q21ncVBJLUlwSmpEcDctcGFyVEk5UzdB0gF3QVVfeXFMT1BmM1Q4dkpYZ3RodmVIdDdNcVR1Z0pucHVYZ0JGbGlrQ2FJbGRneGhULWpwMndtZkNvaVVQMU9EZjY3N01oNk5EcXJxbU0yY21NM1BwUHBFcTJSNUIzX3RDbWdxUEktSXBKakRwNy1wYXJUSTlTN0E?oc=5",
+      "publishedAt": "2026-11-26T05:02:02.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -263,39 +319,12 @@
       }
     },
     {
-      "id": "c937e172d767b325",
-      "title": "미국의 주요 AI 팩토리 고객사 확보에 네이버 주가 거의 4% 상승",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZLSkc1dzhtQmZiN3U1a3J3NlFsVnpWT2NzUUZWdTR4b1FsbEZZREUtX19tQXNJV1V0RU10RFNRMF9Jam4xTm1QcHlzY3ZfWEM1Vmh2NWZmcVpYS2JzMkFLS2hSRXVoMlRRTDlQSllCaVhWaThqYnZPSTNmanAyVWltcTBRWllxNUNqdS1mMW1MbnM?oc=5",
-      "publishedAt": "2026-11-26T04:53:25.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "미국의 주요 AI 팩토리 고객사 확보에 네이버 주가 거의 4% 상승 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "수급",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "c31f33695edd97eb",
       "title": "\"네이버가 이런 AI도 만들었어?\"…챗GPT까지 제쳤다는데",
       "source": "한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IQ0RCVFNsU1kxR2UzN29tSXZwREFmd2pKOGMteW5EVlFYbXpxWWpDRGEzemo0ak5HcGcyTTRtYVUxN0EwOXI1OVZjQkdhaG5LVlV2bExjdUh3QQ?oc=5",
       "publishedAt": "2026-11-26T04:49:13.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -322,7 +351,7 @@
       "source": "쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wazBwVU9Pd2c1b1dXOXhwR2VBbkk3OXhzdmh6MzN0MmFDQkpfWHJ6bFptZFNyS0diOFY3dWZBMi0xNXMyTEw0RHktTFRWZ2xyVkRHYVFSVkNlMEkyTVdZUHN1SQ?oc=5",
       "publishedAt": "2026-11-26T02:38:38.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -349,7 +378,7 @@
       "source": "NAVERCorp.",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VmhoTWJuY2s1SHZIYnEtaGpjbzhZOHFBYUFKcm1QZ1VZWkMzQy1ZR2p5RTBPeU12Z2drY0xRQkdrcF94UFNsZEVScUFUZFViaUJ2V05Nc0Fub2FReGp6SDg0RUdfQ1Vzck1NbEZFbUxWZw?oc=5",
       "publishedAt": "2026-11-26T02:13:39.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -376,7 +405,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIeGExeU4zS0FkSHRuczBCNk5VMHBFdWdsVEhHeW9JZktBMlJ6ZTdTamcyaDRZcG5FdUF6ZDE0NHM5WjZ0X2ZHWjhXS0JvbUJQRWNSX2tpSGhjZ05B?oc=5",
       "publishedAt": "2026-11-26T01:58:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -403,7 +432,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TajY0am9EbFdZUHZGcVU3TWlNTUtMMEw3MGRmVGcyVVZJWlJFMjE1aXBEUkdYa1UzY0pPcUgzaHZ2blJCdWNyM0xHdlVlXzRoMWtfenVtbTM3cS1kZmljTdIBeEFVX3lxTE84SEVGMEJzV3BjLUpWa2NZMmxha2pUMktEU3Z1T3Y4TFVYVmlKcm1PNWJDMWZzWnhMdy14OGktU1MyV0dxdzNIbGFUdkdpNDlsd3A4VkgtRzk1Q1YtaHJqM0ZCLUEySmJoc09rQkU0NktVNGNLUWVSRg?oc=5",
       "publishedAt": "2026-11-26T01:00:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -430,7 +459,7 @@
       "source": "네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92V0hwTXlyU0lsZVFfckJkQmpHcmFzeU9EM0lMQnpxWjlpSTMwVlRqN2Y0cDBZLTMweEJDMnZkanh0dGN0TzZ4dVhYUUlsUC1IOTd1Nk92eFI?oc=5",
       "publishedAt": "2026-11-26T00:40:54.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -457,7 +486,7 @@
       "source": "아시아뉴스통신",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5heGxiVThTbUtlSkNtSERybmdOaUVZbWxKc21nQW9iTXdiWk1ablNGXzYyT0t4dzlVaWZtZjRWWUY2ajVTNkxSVHdrTlU5XzRlSUhUeTViSnF0S2RWdUZTRHVUbEJsR2xGZE5fUEozNUVnck5X?oc=5",
       "publishedAt": "2026-11-26T00:11:30.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -479,12 +508,12 @@
       }
     },
     {
-      "id": "6698a91c3bfd1a55",
+      "id": "8da2c6923ad5645b",
       "title": "중앙부처 꽉 잡은 네이버웍스, ‘일하는 AI’ 성과 증명할까",
       "source": "시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrUmxqSGF3R2xJampLMFpMZ2IwaGxpRzE4SmhKOXRNZDFfcnJ3aC05b19yTFBTZHJHMF8zRDZEVWd2a21CZmdHTExGNEZlY2djVUs5YTlIV0J5cG5TdzdhYlZYblI2NFRfRlVFSUtDUlhKeThxa2fSAXZBVV95cUxQa1Jsakhhd0dsSWpqSzBaTGdiMGhsaUcxOEpoSjl0TWQxX3Jyd2gtOW9fckxQU2RyRzBfM0Q2RFVndmttQmZnR0xMRjRGZWNnY1VLOWE5SFdCeXBuU3c3YWJWWG5SNjRUX0ZVRUlLQ1JYSnk4cWtn?oc=5",
-      "publishedAt": "2026-11-25T08:31:37.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDTklSZjAwcWEzbTdudF84aG9HUXJmbmc1akVfT2x2WU9zTUhlZVV6UnNlNTc1MEFSUDdyRkdyc1RCbk96VVpiRkMxTF8welFVTmRORFpxdEUxemFDTURmeDNwX29td0hOdklwalpoc2ZkQdIBdkFVX3lxTFBrUmxqSGF3R2xJampLMFpMZ2IwaGxpRzE4SmhKOXRNZDFfcnJ3aC05b19yTFBTZHJHMF8zRDZEVWd2a21CZmdHTExGNEZlY2djVUs5YTlIV0J5cG5TdzdhYlZYblI2NFRfRlVFSUtDUlhKeThxa2c?oc=5",
+      "publishedAt": "2026-11-25T08:22:05.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -511,7 +540,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xTEhucHRUVDRlZlNXNnkyQlk4bDZ6aE1mcnpOeVVlRk1nM05iQl9hUGRMMUZKblVUbHNXbjd1LUM2blpWMHM1WFZMdlJxR1pvWjV2dWloRUFKekFNQktWUWNJS01mMFE?oc=5",
       "publishedAt": "2026-11-25T00:20:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "naver",
       "stock": "NAVER",
       "ticker": "035420",
@@ -530,35 +559,6 @@
         "confidence": 0.35,
         "positiveTerms": [],
         "negativeTerms": []
-      }
-    },
-    {
-      "id": "1645a39d11f50e9d",
-      "title": "[IB토마토]네이버, AI 투자에 FCF 마이너스…주주환원 '반토막' 위기",
-      "source": "뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdW9qc3ZuTWZwMnlUVzA3ZVVxWU85VjVlU3ZsSEFsbHJyRHFLNm1MTlV1MXhKMUtzd09WQ052QWJobDlTOGFMUFVPNDRWaFZpX0FVeFFDY0J2NUxZcFJ5VA?oc=5",
-      "publishedAt": "2026-11-24T08:17:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "naver",
-      "stock": "NAVER",
-      "ticker": "035420",
-      "relatedStocks": [
-        {
-          "id": "naver",
-          "name": "NAVER",
-          "ticker": "035420"
-        }
-      ],
-      "summary": "[IB토마토]네이버, AI 투자에 FCF 마이너스…주주환원 '반토막' 위기 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "투자",
-      "sentiment": {
-        "label": "negative",
-        "score": -0.3,
-        "confidence": 0.63,
-        "positiveTerms": [],
-        "negativeTerms": [
-          "우려"
-        ]
       }
     }
   ]

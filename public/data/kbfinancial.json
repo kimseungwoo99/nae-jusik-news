@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:05:18.870Z",
+  "generatedAt": "2026-11-28T04:25:19.284Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -7,20 +7,20 @@
     "name": "KB금융",
     "ticker": "105560"
   },
-  "dailyBrief": "오늘은 기업 및 기술 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
+  "dailyBrief": "오늘은 기업 및 실적 관련 보도가 주요 소식입니다. 아래 기사에서 내용을 확인해 보세요.",
   "dailySummary": [
-    "KB금융, '2026 올해의 상생기업대상' 대통령표창 수상",
-    "국고채 과징금 결산 시점 갈린 KB·신한금융 [이슈 더보기]",
-    "KB금융, 30일 차기 국민은행장 결정…오늘 워크숍서 '마지막 평가'"
+    "KB금융, 국민투표로 입증한 상생금융…대통령표창 수상",
+    "보험사 CEO 9명 임기 만료…금융지주 인사·실적 변수에 연임 촉각",
+    "KB금융, '2026 올해의 상생기업대상' 대통령표창 수상"
   ],
   "articles": [
     {
-      "id": "97740ea858bf9efe",
-      "title": "KB금융, '2026 올해의 상생기업대상' 대통령표창 수상",
-      "source": "오피니언뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0VU5VS0tfWGl4bG1ncTZMWEtKQ2k3UEZrZlNicVV0Ql9hS1VZdUJZM3ItOFVNQ1pLTkhLUDZJMTN0blE1aUxXaF9sT0s5d0hYZHluVDR4dXIwRlEzZVN4Zzg3TXd4MVZDb0FfcnRqQTFJQQ?oc=5",
-      "publishedAt": "2026-11-27T05:49:04.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "id": "edb3dd69b0824370",
+      "title": "KB금융, 국민투표로 입증한 상생금융…대통령표창 수상",
+      "source": "재외동포신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrU2FKTER4Vm9yeEtOdGJVYTJXX0FjRU1COFBxSHd6X1RncGd6ajA3aGNoVEh4bE0xT2ZDV1VoeXJmUDctRGpKaS1ETEdGaHhEWDA4V3NpcGQ4VjliZmRYQ18zRzNRVzBlUS1YYQ?oc=5",
+      "publishedAt": "2026-11-27T13:55:59.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -29,6 +29,70 @@
           "id": "kbfinancial",
           "name": "KB금융",
           "ticker": "105560"
+        }
+      ],
+      "summary": "KB금융, 국민투표로 입증한 상생금융…대통령표창 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "d6f905c1b8536a9f",
+      "title": "보험사 CEO 9명 임기 만료…금융지주 인사·실적 변수에 연임 촉각",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HS0ZjV3JWWmtFVGQ2cEt3bFFxUXpCd21GZU10RE5VbTBibGpzbExFMkJwbzlNWWFhdnVjb1RPekxZN2dlY05tSGFUNUVxTTVMOVBDZlQwWlZfYTZX?oc=5",
+      "publishedAt": "2026-11-27T07:27:00.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "shinhan",
+          "name": "신한금융",
+          "ticker": "055550"
+        }
+      ],
+      "summary": "보험사 CEO 9명 임기 만료…금융지주 인사·실적 변수에 연임 촉각 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "실적",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
+      "id": "97740ea858bf9efe",
+      "title": "KB금융, '2026 올해의 상생기업대상' 대통령표창 수상",
+      "source": "오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0VU5VS0tfWGl4bG1ncTZMWEtKQ2k3UEZrZlNicVV0Ql9hS1VZdUJZM3ItOFVNQ1pLTkhLUDZJMTN0blE1aUxXaF9sT0s5d0hYZHluVDR4dXIwRlEzZVN4Zzg3TXd4MVZDb0FfcnRqQTFJQQ?oc=5",
+      "publishedAt": "2026-11-27T05:49:04.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        },
+        {
+          "id": "kepco",
+          "name": "한국전력",
+          "ticker": "015760"
         }
       ],
       "summary": "KB금융, '2026 올해의 상생기업대상' 대통령표창 수상 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
@@ -47,7 +111,7 @@
       "source": "뉴스저널리즘",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpTjc0SGdkQzI0Yk16cXpTZzRRaDRqTkVSeGlBb016V3hrMjNFWF9wZV9jRS05SVVEeWY3SDlNb3dxNjVNelliN1hacU1QcFFtekc1ZkZoZVByX2NNMWRIdmVGcm5CRV9wQ1ZV?oc=5",
       "publishedAt": "2026-11-27T03:33:12.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -79,7 +143,7 @@
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTjJzM0VjOC1ZRGFVMW5ZSVJSMktZSUJiSzdRbm95SjJ0b1pPOXNWaGE4MDVjeGtZXzRWSXFwSXZMYk9DaVI0RWdaQ2pmbmVwZm9ubnByWFFJNVZiZXlEVTNULV9EdFhtclZ6cWdmcGY?oc=5",
       "publishedAt": "2026-11-26T22:30:19.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -106,7 +170,7 @@
       "source": "오피니언뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbG84ZXJiQ1llZm9nZ3BoNjQ1dlNocEd2N3pmeXdMNjZFSVBnNXJqbDN4SzdJd0RQd051Nm9SMDdHdmpGTGZQY19YRzFRUmh4MFhSUHNtczQyQVlWNzJpdnlTNWsySTZVcmszcEpXUVNIZw?oc=5",
       "publishedAt": "2026-11-26T06:51:58.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -133,7 +197,7 @@
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0Ym9wYmw3UVROTGFzTWh1eHI3VUR6eElCci03WERYUDZFN1JqaE1JcHowQnRBZWVyQnduY1dDdXh2TE1BS1c0cFhua1hsVUhOZG9jZVJmVkFwOFXSAWBBVV95cUxQd2RyQ1Fxd3BKSDBfNmRmMmtwNU81MDZPUEFPd1FKSHdfeURpSTVRNndBX2lqYm1zVktLcDFFOGlWdzNiQ3lQdEd5RmJDZ3lDdVlmVWZBYUFQNDNLNmJGdms?oc=5",
       "publishedAt": "2026-11-26T06:37:31.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -155,39 +219,12 @@
       }
     },
     {
-      "id": "5a20c862cd900f37",
-      "title": "리딩금융 KB, 다음 도약은…이재근號 ‘내실·상생·확장’ 시동",
-      "source": "뉴스톱",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSmRHcFJVeE9udnNwS0gwLXV0ckwtM3h2aWFldzlNTXZVT3RXc205NmlOeWVhTVVhVWF0b1RiclZZdVNxZ24zMnV5VkxDODVPZTJ3YXBaajd3bzVMeHc?oc=5",
-      "publishedAt": "2026-11-26T06:27:28.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "리딩금융 KB, 다음 도약은…이재근號 ‘내실·상생·확장’ 시동 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "39db8d89e68088d7",
       "title": "KB금융, 제8회 테크포럼 개최…AI 기반 금융 혁신 논의",
       "source": "BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XbGx4Rl83SHBrYzM5alE1YTM3LUk4REJpQzh4Yzc3U1FQX3NqVl9wY3hDZTZ2TlJnY2owM3hJS2stbVA4QTE1X1VsTFNVZzVkcmFEXzZSYkgycjBpSUhDUTFrTm5QV1ZTRkxZ?oc=5",
       "publishedAt": "2026-11-26T06:03:59.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -214,7 +251,7 @@
       "source": "여성소비자신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcGRpZmNTaUVtQU55Q2FrRkd4WHg1TVIyVUNoYjZnTFc5UDBOSnZiM1YwUUlTc3VIN01WUVdLUTJuVXhUQ1JGVjF0WEFZUXV0TTg4SmIyRXR1eEpPTXBpTmpMZE11UQ?oc=5",
       "publishedAt": "2026-11-26T05:36:22.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -241,7 +278,7 @@
       "source": "인베스트조선",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkY3cjNBSl8zTHl5bnRGU0owaUEwYTBhY1pHX0lZQzFUajZPRGhvQ1JGcEpyalZEa2FQNXh1di1va2hkMDJMN3ZxTTEtOWNURTRZdTRzYWo2R3pUZnNqeFhPOHBxWXY2aTB3VE9RbW9GVlljOHRCcFd1NXZwV3p5NlBmVQ?oc=5",
       "publishedAt": "2026-11-26T04:43:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -268,7 +305,7 @@
       "source": "인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kR2JWS3JaTElWZjlwS0M2cVJ6T3owUG16VWVERzVGM2hZNE9OUDVRaE94NHVldXFDN2NOYmZEVEpEb0JjallxTG82SE40cFItd2VtV1QxU18zdHhYS0F5bGJEY2w1TW8?oc=5",
       "publishedAt": "2026-11-26T02:56:13.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -295,7 +332,7 @@
       "source": "더리브스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHU1o5VGJXc09yaHhwVXlUdTRhb0lmZ3FONzM1QzV3WTY5VW9SUFR1bFhpVHdlcGwteGk5bWhrMEJUNHZFdENyTXNES2pwcy1IX1dlOXlNUTJzWWZ2RDZDSjkybG9JaThUV1VZ?oc=5",
       "publishedAt": "2026-11-26T01:30:44.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -317,12 +354,39 @@
       }
     },
     {
+      "id": "8352ff90c185de72",
+      "title": "CEO 인사에 변화의 바람 없는 삼성 금융계열사",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSTE3bmM0X0RoVUs1V1Z3cGZITlp2SU1VNFVicXY5Vjk0TDl3NEx3TEpNaWo1YmNmVkhuUE9xVG1rNGNMZllSNlpSeFRGNkhOQ3lkRnZvREhNVWF2V1czZTNqaUE2eUJ6am8wbTdrRFExU0VzQXNiWVA5STh1bVJEQjZxX2ZONnVGWHJ4clhR?oc=5",
+      "publishedAt": "2026-11-26T01:20:37.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "CEO 인사에 변화의 바람 없는 삼성 금융계열사 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "8a556251b984845e",
       "title": "KB금융, 양종희 전 회장 강남 사무실 마련…고문료는 얼마",
       "source": "연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MbHpnQXpkajFoU0RWZ3MzbXBlb2ZTMDkzYjJremhMajFhMm1aUnhZdUt3MElKUjhidkNubDhkaXVlY3NnVEhNMU1jRVRobU9wbmZmYUdrMVY4QV82V1BtcXZnMGZmbFUtRFdPV3ZRbkk?oc=5",
       "publishedAt": "2026-11-25T22:36:06.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -344,12 +408,39 @@
       }
     },
     {
+      "id": "de5977c5a2f3fb95",
+      "title": "[KB금융 이재근 시대] 수장 잃은 생산적금융 컨트롤타워…CIB마켓 재편 기로",
+      "source": "딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Um5SRTJNcEdRR01kQzBCRnE4dDFCZEJYcEVaT0lRdHJBa0hqMXFYcnNYVmYtUC1OdDd5RE5sZ01BOFpoV05kOVdxalRMNEE?oc=5",
+      "publishedAt": "2026-11-25T22:07:32.000Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "stockId": "kbfinancial",
+      "stock": "KB금융",
+      "ticker": "105560",
+      "relatedStocks": [
+        {
+          "id": "kbfinancial",
+          "name": "KB금융",
+          "ticker": "105560"
+        }
+      ],
+      "summary": "[KB금융 이재근 시대] 수장 잃은 생산적금융 컨트롤타워…CIB마켓 재편 기로 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "산업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c645b284958b3de0",
       "title": "[증권사 3Q 성적] ⑨KB증권, 불황 속 실적 방어 '재정비'로 재도약",
       "source": "FETV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Na2dnTTg2ejJ6UExHSVNzLXFoUnlQWUZod1VySmdoNF9UaVI0dkZ6dWtoX0k3dUdYQjFVNzRIS0RTaWJqX1NmZGJla1dxaEJfR2MzdFg3Z3BfQmpaOXBlNWhJYUxVSXhQ?oc=5",
       "publishedAt": "2026-11-25T22:00:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -376,7 +467,7 @@
       "source": "뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tMUpEQ0EwZWxTR0VFeGhqUlBpZ1dFZ1NldTRMRkZhMTZfWmRmMmdYSHFVNW5NRFkzSzdMdGtTZWV6cDNRZjJyNFFmZkgweUlZbElyQ1pseVI1SmZv?oc=5",
       "publishedAt": "2026-11-25T04:20:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -398,39 +489,12 @@
       }
     },
     {
-      "id": "c7f3fab34aa3060f",
-      "title": "[초점] 닻 올린 '이재근호' KB금융…'플랫폼·글로벌' 두 마리 대어 사냥",
-      "source": "뉴스워치",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSUdCY0pKREZ4XzFoeHJSckZWNndhbExsTGFvOUJKN0pvM2dweHVkOVI5RkdaU195ZXMyb0Z4YlpKTFljWjFmM1NYUEF0YjFza3p0Q2tZa2pYM0RsRS0tMlZBNV9TSEpnSkE?oc=5",
-      "publishedAt": "2026-11-25T02:47:03.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "[초점] 닻 올린 '이재근호' KB금융…'플랫폼·글로벌' 두 마리 대어 사냥 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "50906bc4ecd6e9bb",
       "title": "이재근 KB금융 회장 취임…‘CET1 13.8%’ 주주환원 기조 속 ‘KB스타뱅킹·보안’ 방점",
       "source": "CEO스코어데일리",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUURnZkVmamdjVXB5QjZRNEl3bDBEX1VwYlVNZEVnZUFfU2hNY3FrUkJYanBOZWVLME5vX0dwbTFnQ1RBMkxsejRNUHFSOVhUeDZ0Ni1IQ3Z2QVpXN25WMldDQ01UMmpEWEJv?oc=5",
       "publishedAt": "2026-11-24T08:29:25.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -457,7 +521,7 @@
       "source": "비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tWHh3VnQ0Yk9fb0FQU09lTHhxb0FFRGp1V0QxQlo5RlB6X0p2V1Y3RmtJbDhNWk13RnBxc215cnNhX2NScXBxcWd2VndvdkhqdmF2N0JxMF9kX2w0LVdITzlodDNhU3dwQUlVSDBsdkJaWEU?oc=5",
       "publishedAt": "2026-11-24T06:48:38.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -484,7 +548,7 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GemxuOGtGWjRLWUZMZTJrTmF4MVhOclBuOUx5VE50U3VReEwyVzRUU1ZBSVVVUXFPNnRkbUtONlNZUWRNUVd2RExaS3FkUWtneVBkRWo3amwtMWZTZWFMbDQ5NjdYVmF3aXB0S3ZaeU13UEHSAXdBVV95cUxNM2NEV1NfS2ttNjBnbVlGZm53T3ZYYjBldmllSTU3QjZORUozQzZZd2RsbWt4Vm0zRHhvRkxhRVgyV2l5NEp6b1VpTVJ5SUJUaDNST0xKTW1BZHRVMmYyMGtIWWxoOGtTaEVVRlc1RkhkOTZ3b21sOA?oc=5",
       "publishedAt": "2026-11-24T06:11:03.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
+      "collectedAt": "2026-11-28T04:25:19.284Z",
       "stockId": "kbfinancial",
       "stock": "KB금융",
       "ticker": "105560",
@@ -497,60 +561,6 @@
       ],
       "summary": "[KB금융 새 닻올린 이재근號-下(完)] 최대 실적 이후 '승부수'…새 성장 공식 찾는다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "실적",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "7204c7de3af167a4",
-      "title": "\"국내 1위 넘어 세계로… KB금융 대전환\" - 머니투데이",
-      "source": "머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OYUhQcGhod2QyRTVoazZfMDBBc2J6Z3gweVAwYW9xQ3E2bmFwM0NOTF9DUEIzTG9UYnFHQjF3MjJlY1oxTEtxQm1jdm1TQkhjQ0VVQmsxX2VzYWVBYkNob0pscDVsaHllSHh30gFwQVVfeXFMTUFWR3k3dTVGMjVqUXRBTzAxUFFSOWFraG5SWTVaQVdCaUJQbkoxWWx3RFdWZWdFTVV1dGhmNDg0Y2xXSmxZVnFENlpVQ1dZRTN3Vmw2OHlYcTJON0ZTbEF2YTV3cWFtd3JkNjVnYmFiZQ?oc=5",
-      "publishedAt": "2026-11-23T18:50:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "\"국내 1위 넘어 세계로… KB금융 대전환\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "aa9d5a1ddcec74a1",
-      "title": "이재근 KB금융 회장 취임…\"리딩뱅크에서 리딩플랫폼으로\"",
-      "source": "연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oS3c1YUs4SEF3bWxDMDJpejhHWGFkbG40b05hTUlhbDZOb1o4dlp4akRBTW9QX21rWThrdjE5Z0lDUmJtVGdoQlg1dHdGdlRKbkVPYWl3c00xSDNQZjRKRk5uSVJTOFk?oc=5",
-      "publishedAt": "2026-11-23T08:15:00.000Z",
-      "collectedAt": "2026-11-27T17:05:18.870Z",
-      "stockId": "kbfinancial",
-      "stock": "KB금융",
-      "ticker": "105560",
-      "relatedStocks": [
-        {
-          "id": "kbfinancial",
-          "name": "KB금융",
-          "ticker": "105560"
-        }
-      ],
-      "summary": "이재근 KB금융 회장 취임…\"리딩뱅크에서 리딩플랫폼으로\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
       "sentiment": {
         "label": "neutral",
         "score": 0,
