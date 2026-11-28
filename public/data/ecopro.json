@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T04:25:19.284Z",
+  "generatedAt": "2026-11-28T15:54:17.486Z",
   "source": "google-news-rss",
   "isMock": false,
   "stock": {
@@ -20,7 +20,7 @@
       "source": "경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ycnd3cWtXbEFtX0lldkFBQjB5aXB0dzJxUlZqdXdUTk9zUnF4cEpWdVZ5WnRFWThmUy1ZdXBoREZjdDBoR3poMlM3cEY0aHZteVpQYjUzZEY?oc=5",
       "publishedAt": "2026-11-27T10:49:37.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -47,7 +47,7 @@
       "source": "시사저널e",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRjBORmRNNEhnY3Bhc0d6UExFODByalJqNjU0R2ZvVUdMMFh4RnliQ0lSQUR4MkVQQVQ2UWFYQjB1TUtZb0laVHlFTHVvMDF4VmxqX3dtc0ZjSGhiZUhsdDVmbURsUWxITjVCUWduZW9yVHVVTGfSAXZBVV95cUxOY0YwTkZkTTRIZ2NwYXNHelBMRTgwcmpSajY1NEdmb1VHTDBYeEZ5YkNJUkFEeDJFUEFUNlFhWEIwdU1LWW9JWlR5RUx1bzAxeFZsal93bXNGY0hoYmVIbHQ1Zm1EbFFsSE41QlFnbmVvclR1VUxn?oc=5",
       "publishedAt": "2026-11-27T07:32:23.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -74,11 +74,16 @@
       "source": "핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xNEJQQUtsc196QnRVRXNOVEZJT0R0aVROMHJ3b2J5c2tXeE1DUmlKOE5OVl9CTmp3Q05iRGNzRFdFT1VfUXMzSktIQ1dkZkFUTGNfSkNuOVZ0UGx2REZZdnF6Ti1kc3FSeXVELTAyZ29kcU93X1g40gF3QVVfeXFMT3E0QlBBS2xzX3pCdFVFc05URklPRHRpVE4wcndvYnlza1d4TUNSaUo4Tk5WX0JOandDTmJEY3NEV0VPVV9RczNKS0hDV2RmQVRMY19KQ245VnRQbHZERll2cXpOLWRzcVJ5dUQtMDJnb2RxT3dfWDg?oc=5",
       "publishedAt": "2026-11-27T06:31:48.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "lgenergy",
+      "stock": "LG에너지솔루션",
+      "ticker": "373220",
       "relatedStocks": [
+        {
+          "id": "lgenergy",
+          "name": "LG에너지솔루션",
+          "ticker": "373220"
+        },
         {
           "id": "ecopro",
           "name": "에코프로",
@@ -96,12 +101,39 @@
       }
     },
     {
+      "id": "b89e0bec8d655ef3",
+      "title": "[특징주] 에코프로 주가, 14%대↑... 코스닥 훈풍에 상승세",
+      "source": "금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nc2QtSVVseFhyZ25SNzBqekoxMUJnSzVFM1hEcUtSUHZwREozdndpUlBjV0FCZVpCZG1XeWRBVy1WQk12OVYtMXlEQ2Rjb0ZKTmlxSVQzU0E3YVZnTi1mSlhFR3RicTVMWVE?oc=5",
+      "publishedAt": "2026-11-27T05:47:10.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[특징주] 에코프로 주가, 14%대↑... 코스닥 훈풍에 상승세 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "4ce482b76c551ae6",
       "title": "[특징주] 에코프로비엠, 차세대 배터리 관심 속 장중 두 자릿수 강세",
       "source": "와이드경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40dnY0RjBvT3lNQWlXU2FTX2xjbU9WbWFKMTA1cF9PN094Nzd3VlBldXlfUVRwRmJPb2lhSE84b0swMTZtOWpXdXhHSlBwYzNZY1RWQVNVN3B1eGU2UlFLNGdEdnNHV3Y5U0U0Tg?oc=5",
       "publishedAt": "2026-11-27T02:16:01.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -130,7 +162,7 @@
       "source": "경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFTkJSRlZaQ2taUjRJeDBWYmdiM2dINmhKQmphOEYwLUJidjZpaERYbFZNOVFva3MzSVBibGE1RU56Z0dqVHplSER6dEQ5MlBRU1gyWmw2QmVyd3JmWG9DaVliZGNzaVMyLXc?oc=5",
       "publishedAt": "2026-11-27T01:34:46.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -155,12 +187,12 @@
       }
     },
     {
-      "id": "8a6f1018258a44cf",
+      "id": "68e7bd0e41eb50ae",
       "title": "에코프로, 사랑의 김장 나눔행사로 취약계층 지원",
       "source": "세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ib29IbEFKVkF4TFRJaHZaampNemhub1F5MGVtTmRhWGVkUkVSNDN4Uzd5TmVZQVdOSFR1Qk54b05qcEdJNWRkMkQ3QmJUTEFKTGJoStIBVEFVX3lxTE1ib29IbEFKVkF4TFRJaHZaampNemhub1F5MGVtTmRhWGVkUkVSNDN4Uzd5TmVZQVdOSFR1Qk54b05qcEdJNWRkMkQ3QmJUTEFKTGJoSg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rRXJETDRDTjFOTjBtUjRQUHVjRG92Qk1mMEh2a2lZYWowZXplSkUtOWdTMVJMNzZPUDFTSGg3Yk5hcUZHMkY3dmxoOUp6OHUteXpPMW1RQljSAVRBVV95cUxNYm9vSGxBSlZBeExUSWh2WmpqTXpobm9ReTBlbU5kYVhlZFJFUjQzeFM3eU5lWUFXTkhUdUJOeG9OanBHSTVkZDJEN0JiVExBSkxiaEo?oc=5",
       "publishedAt": "2026-11-26T14:00:00.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -182,12 +214,68 @@
       }
     },
     {
+      "id": "e6d8b79ae1c3d976",
+      "title": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는? [종목콬!]",
+      "source": "쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoT0ExUWFzZ09tbnpkYXRELTZmRXN5Ty1lWWJ0VndsNG9JeEJoY19ZZmVDM1lYYVZQVjhHck0wX0FldXd3YWpMQmlLYTMzd0xPSkpWRHdrQXV0ZkJ5ZlpWVzUwOA?oc=5",
+      "publishedAt": "2026-11-26T13:04:43.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는? [종목콬!] 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.55,
+        "confidence": 0.76,
+        "positiveTerms": [],
+        "negativeTerms": [
+          "급락"
+        ]
+      }
+    },
+    {
+      "id": "e75b9aabb3d5a91b",
+      "title": "[포항소식] 포항시청 광장서 27∼28일 김장맞이 직거래장터",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qY0paM3hjYlE3NHpsOFNmN0hCbWo3eGFLUDF2UWtkT001cWhCN05ZTm5hYXMzVFdKcFBHNkVUTkp2TUJ4V2JCempYVEtGVlo0Q0hwQTVqbHBZXzJoMUZ2RNIBYEFVX3lxTE5qY0paM3hjYlE3NHpsOFNmN0hCbWo3eGFLUDF2UWtkT001cWhCN05ZTm5hYXMzVFdKcFBHNkVUTkp2TUJ4V2JCempYVEtGVlo0Q0hwQTVqbHBZXzJoMUZ2RA?oc=5",
+      "publishedAt": "2026-11-26T08:29:23.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[포항소식] 포항시청 광장서 27∼28일 김장맞이 직거래장터 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "ec1d0f2cfb7353b1",
       "title": "에코프로, 청주·포항서 김장 봉사활동 전개…지역 취약계층 지원",
       "source": "전기신문",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XM0xsY0pxVFljY05UY2tfTXpkejdPeFctbkdrdmUwTHd4TERNcUU4WTlldjgtRkIwTDNmMGdXN3RhR3JHQUo0WENnaHYxczhTTEtVQTBqNUhBcDVFU0FNaEp1aml5enktOGNfcUVXakLSAXBBVV95cUxPVzNMbGNKcVRZY2NOVGNrX016ZHo3T3hXLW5Ha3ZlMEx3eExETXFFOFk5ZXY4LUZCMEwzZjBnVzd0YUdyR0FKNFhDZ2h2MXM4U0xLVUEwajVIQXA1RVNBTWhKdWppeXp5LThjX3FFV2pC?oc=5",
       "publishedAt": "2026-11-26T08:21:00.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -214,7 +302,7 @@
       "source": "스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtM0JGajZRdGhHcG5RTjd5QVVReXR1RERya1pkXzZELXN1a3c0QVdZSm9NUV9JcUNxRkY1S1hEZHFZWG83Uk1rODZNZ19HVUh4cUF0Q1NWRl9Lck55b3dFb1d6b09XQVVkaktUMENMUVhjNWPSAXdBVV95cUxNbjlGSXVCUjVKQnRsTXoyVHA1RFo2N3JsYjV6eDZWZ2pjYUNYbW1zbVZGcHJGLWQwdDh4QS1kSWlFaGVVUXM1MWtrM0lRVFZZQkxLUnYyTlc5cVUtWTN2bGFSS2RGa1hHUTVkRF9WOTI1ZDY5a1lGVQ?oc=5",
       "publishedAt": "2026-11-26T08:13:33.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -236,12 +324,39 @@
       }
     },
     {
+      "id": "fb8c113605f0c412",
+      "title": "[코스닥 외국인] 주성엔지니어링 스피어 삼현 대한광통신 사고 에코프로 HPSP 로보티즈 팔았다",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9icFU5OS11bjZtUzlNMHhHdUdrQ3hncjRzejZFanV4TUNEMjNsUmV5dk9TRXVWdnkxTVNhVVNxNzVGS01jOEd6Mmxodl83VXEzVWhCRkpKU1JhXzRPcXVsbkRnalYyMlE3dFdhNVpYRTRjZno3VGhF0gF3QVVfeXFMT2JwVTk5LXVuNm1TOU0weEd1R2tDeGdyNHN6NkVqdXhNQ0QyM2xSZXl2T1NFdVZ2eTFNU2FVU3E3NUZLTWM4R3oybGh2XzdVcTNVaEJGSkpTUmFfNE9xdWxuRGdqVjIyUTd0V2E1WlhFNGNmejdUaEU?oc=5",
+      "publishedAt": "2026-11-26T07:03:27.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "[코스닥 외국인] 주성엔지니어링 스피어 삼현 대한광통신 사고 에코프로 HPSP 로보티즈 팔았다 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "수급",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "c3aaf2112581f1e2",
       "title": "코스피, 1% 안팎 상승세…한은 기준금리 인상 속 탄력 둔화",
       "source": "연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WODNLa3FxYUV5US05QlduV0l5V2FrSkxZT05iQ19WeTEzZlYybkVKbG1jNTc1eHZLSHJ2dmxmcUV6d1p2UlVtZ2JlTVVmR2J6Y0QwRl9SaEgtS3ktLU9MStIBYEFVX3lxTE5WODNLa3FxYUV5US05QlduV0l5V2FrSkxZT05iQ19WeTEzZlYybkVKbG1jNTc1eHZLSHJ2dmxmcUV6d1p2UlVtZ2JlTVVmR2J6Y0QwRl9SaEgtS3ktLU9MSg?oc=5",
       "publishedAt": "2026-11-26T02:11:11.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -263,39 +378,12 @@
       }
     },
     {
-      "id": "20576848d40602cf",
-      "title": "코스피, 장초반 2%대 상승…4,800선 탈환 시도(종합)",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kLXZ4NGl4M2htRnN0c2pVendQQTFjUjNKaWZUTHctd1U0N0M4TklUV0VuRkNCd1BPcFJqWXBmX196c0RxNm9FQ3BnVnNYTWVmdnZHNEY3YV9CcWk0U0hNRdIBYEFVX3lxTE9kLXZ4NGl4M2htRnN0c2pVendQQTFjUjNKaWZUTHctd1U0N0M4TklUV0VuRkNCd1BPcFJqWXBmX196c0RxNm9FQ3BnVnNYTWVmdnZHNEY3YV9CcWk0U0hNRQ?oc=5",
-      "publishedAt": "2026-11-26T00:32:32.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "코스피, 장초반 2%대 상승…4,800선 탈환 시도(종합) 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
       "id": "7198e36094cfa455",
       "title": "‘4명 사상’ 에코프로비엠 사고 전 대표 징역형 집유",
       "source": "KBS 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tY1lJNUJSSXBKVmhYSU9kdFJGMkNSTUszRndMclB6d2JZUHk0T3NZUWJ6Q1hCYzQySjdfYWROYjl3Z1VJN055UGtUZnYxUENLNlpQMDR6ZXVLc3M?oc=5",
       "publishedAt": "2026-11-25T23:04:00.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -322,7 +410,7 @@
       "source": "굿모닝경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90V012LXdfSVBYbDMyM05oV3lQQWFSWFo4bDFKVm55RHFfSkM0M2hzaUpnMGtvb2xMd0xMUGdDSURiejdacm90dy1EV3N4Qm1BYTJMMHlla1hnSFhMNU4ydk5USnpYXzVnbjUyNg?oc=5",
       "publishedAt": "2026-11-25T21:30:00.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -344,12 +432,39 @@
       }
     },
     {
+      "id": "04733123f93d9e8b",
+      "title": "에코프로비엠 폭발 사고 안전관리 책임 인정… 전 대표 집행유예·법인 벌금 1억",
+      "source": "현대경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14TUh0ak1PSXNtLXoxSVBNT1UzNUNYTUhERFVCYTdyNUZXX2NGSUY5SWlvRjlRbV9TOVh5SFZUVklPcDJ5T00yaGkxSWtubUFyRzIwNkFuNmlIdUs5ME1UZzNQNmlJLWpzNzg0?oc=5",
+      "publishedAt": "2026-11-25T07:35:52.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
+      "stockId": "ecopro",
+      "stock": "에코프로",
+      "ticker": "086520",
+      "relatedStocks": [
+        {
+          "id": "ecopro",
+          "name": "에코프로",
+          "ticker": "086520"
+        }
+      ],
+      "summary": "에코프로비엠 폭발 사고 안전관리 책임 인정… 전 대표 집행유예·법인 벌금 1억 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "기업",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0,
+        "confidence": 0.35,
+        "positiveTerms": [],
+        "negativeTerms": []
+      }
+    },
+    {
       "id": "a72e9350f385ee53",
       "title": "'4명 사상' 폭발사고 에코프로비엠 전 대표 집행유예",
       "source": "세이프타임즈",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bUpsaGE4bDdsNEF4b3NZS1BCank4X0pLZk0xNF82YzB4cVl3R0E3dVhRQTZaM2xhZzY0cFpBSDdTNFlleDJObGpDN0ViRXlPWEwyVGRVMWdPS1piRUJIbjQ2LUFVMk5PMTNzejdXWdIBc0FVX3lxTE10Wk1sU0tQcnRNaF9fdzVOdFFQYWtFY2dLclQtTmU5Yl83RnJNYl8wOUlNMlpfdmxlY2luSC1rTUwyZGJCSGJTdU04TmZlcDB1QUJwbFMtZ3hBX2hMX3NCME9vRFh6MnBiRk42MlpkTTZXQWc?oc=5",
       "publishedAt": "2026-11-25T07:14:56.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -376,7 +491,7 @@
       "source": "전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jYmc4aUhET0VTMEx0Q3phQUR4T0xKbHdNcTR4di1sLVZOWV91ZnZYeF9RMlF6Y016QzVUUm9CN0wxVWtPaXZGdFUtcGVZZw?oc=5",
       "publishedAt": "2026-11-25T06:37:23.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -398,12 +513,12 @@
       }
     },
     {
-      "id": "0869e379cf642f81",
-      "title": "에코프로비엠, ECOPRO GLOBAL INVESTMENT PTE.LTD. 지분 6222억원 취득 결정",
-      "source": "www.numbers.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DWWtoVlhJQnljblFmQTB5b0VidnYwaXZpSkFTbTJ3anlYOFhMVTNUalk0RXFzYjVSSnYyWW53WGpKeU9MRmxxWDc0RDgzYUtidjI2Qkx6NXJuZGJGcnRJWEFPSV9vdHU1RkRV?oc=5",
-      "publishedAt": "2026-11-25T06:13:57.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "id": "e428b3f1c2bf2ee5",
+      "title": "‘1명 사망·3명 부상’ 에코프로비엠 폭발 사고…전 대표 징역형 집행유예",
+      "source": "중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PZjlxcXpYSFM0OXNWTVBVMFpZdERVaDFjZWpndzM4U1RwTE1hcnpsaGpxbXFUVGIzeGlybFFWZkN3VWZkSkVMT1NEeXdBWmFEcS1zZVVNR2h1bWdMYTFQRHlQYXRHMUZSdTBLeHpB0gFuQVVfeXFMTU9mOXFxelhIUzQ5c1ZNUFUwWll0RFVoMWNlamd3MzhTVHBMTWFyemxoanFtcVRUYjN4aXJsUVZmQ3dVZmRKRUxPU0R5d0FaYURxLXNlVU1HaHVtZ0xhMVBEeVBhdEcxRlJ1MEt4ekE?oc=5",
+      "publishedAt": "2026-11-25T06:36:23.000Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -414,7 +529,7 @@
           "ticker": "086520"
         }
       ],
-      "summary": "에코프로비엠, ECOPRO GLOBAL INVESTMENT PTE.LTD. 지분 6222억원 취득 결정 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
+      "summary": "‘1명 사망·3명 부상’ 에코프로비엠 폭발 사고…전 대표 징역형 집행유예 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
@@ -430,7 +545,7 @@
       "source": "뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cWxRQ0g4ZloxMHFLM216eUVGc2VJbnJTLUhGZ1lBTnRGLU1NSlBWaUpyT01rQkNNNlc1TGVVUjgzMWZtLUlEaVREc3JlSjhnbVAxTGtsWXJrYXNRU01vLdIBeEFVX3lxTFBwa254ek1keVpwaU1hZXg5ekY4TVlfT25OeVpBVEpsRmxJLU8xZW1yUDZ1ZHRwaXhJRE5hdjZTQWt3QUhidVQ3YXJlMkFLZFZEUEFGNGtpWGRzWENHdk1BUW91YTFjLUVpa2VCVTFna1B1bXdaQnN3Vg?oc=5",
       "publishedAt": "2026-11-25T06:12:55.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
+      "collectedAt": "2026-11-28T15:54:17.486Z",
       "stockId": "ecopro",
       "stock": "에코프로",
       "ticker": "086520",
@@ -442,116 +557,6 @@
         }
       ],
       "summary": "'1명 사망 폭발사고' 에코프로비엠 전 대표, 1심 집유 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "774649392d9f330e",
-      "title": "에코프로, 온누리스포츠단 전국장애인체전 역대 최다 금메달 성과 격려",
-      "source": "전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01dWlYcHVWZ3FWUVpveXluV1VnT1ViNWh1aEFzRVhYemYzdXVfVnhGaXFReTFWd1Rhc1JTb0JWeHRMay1KSzloa3AyREV2VnhlanZPdjFwRDY1R1NiN184WTBlUDRwS1NvaDUtUFQySmTSAXBBVV95cUxNNXVpWHB1VmdxVlFab3l5bldVZ09VYjVodWhBc0VYWHpmM3V1X1Z4RmlxUXkxVndUYXNSU29CVnh0TGstSks5aGtwMkRFdlZ4ZWp2T3YxcEQ2NUdTYjdfOFkwZVA0cEtTb2g1LVBUMkpk?oc=5",
-      "publishedAt": "2026-11-25T05:55:45.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로, 온누리스포츠단 전국장애인체전 역대 최다 금메달 성과 격려 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "afe79994fd982798",
-      "title": "[개장 전 주요 공시] 에코프로비엠·현대모비스·고려아연·에스원·HPSP 등",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmFVeEtEdnlVaWh4ekhFNFF4SGdITDcwQ3RrZ0lQUXJDcnZiWVZIOGZkZHRjU0xlUk82ZWI5SUdxNnRlVkR5dE85MHhSc0FvVFMyRmtoVThzWmNUamlzdDZwazN5MDNzOHFJa0ttU3B1UFNiUzI0X3o0OTZaOW9mdkkwU3dtSE0?oc=5",
-      "publishedAt": "2026-11-24T23:32:31.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[개장 전 주요 공시] 에코프로비엠·현대모비스·고려아연·에스원·HPSP 등 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "기업",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0,
-        "confidence": 0.35,
-        "positiveTerms": [],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "a3e589230406d379",
-      "title": "[리포트 브리핑]에코프로비엠, '2027년 하반기 실적 기대감 확대' 목표가 94,000원 - 키움증권",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xUG90ekF6Tnh0NmlIQl96Q2ZIVGM1Q0piRE1wMjBjR1FBSThjNGlvRFh6cmE4RHFNSHFRNE9ZaDgyc0J2cGRISDZjemNYVUYtWTU1UFIybW00aXRp?oc=5",
-      "publishedAt": "2026-11-24T08:10:00.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "[리포트 브리핑]에코프로비엠, '2027년 하반기 실적 기대감 확대' 목표가 94,000원 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
-      "category": "실적",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.28,
-        "confidence": 0.62,
-        "positiveTerms": [
-          "기대감"
-        ],
-        "negativeTerms": []
-      }
-    },
-    {
-      "id": "db7bbcaf3a0e58c2",
-      "title": "에코프로비엠 \"종속회사 에코프로글로벌 주식 6천222억원에 추가취득\"",
-      "source": "연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QeWdpSHhmclROVDczYzlZS0lzcGpQQVJXeTQ2NUNQRmFjZGRtNnRQUXpreTFlTVJXTklHVzhOWkUwNDhHYmhHV1lEbkpZcnV0Y3B3ZVVpc1VzdUHSAWBBVV95cUxOLVZvdWZkeUVOdGtVZWlIOHpTcHMzSFRkc0NtSjlpMU5KZko1VzhLWUN3dGhja1BqdHhZRDM4WWMwMjZqT3FZUzVFN25xUFViSGRkU0U5QUdrNWxnVEFqMnA?oc=5",
-      "publishedAt": "2026-11-24T08:04:11.000Z",
-      "collectedAt": "2026-11-28T04:25:19.284Z",
-      "stockId": "ecopro",
-      "stock": "에코프로",
-      "ticker": "086520",
-      "relatedStocks": [
-        {
-          "id": "ecopro",
-          "name": "에코프로",
-          "ticker": "086520"
-        }
-      ],
-      "summary": "에코프로비엠 \"종속회사 에코프로글로벌 주식 6천222억원에 추가취득\" 관련 내용이 보도됐습니다. 기사에서 자세한 내용을 확인할 수 있습니다.",
       "category": "기업",
       "sentiment": {
         "label": "neutral",
